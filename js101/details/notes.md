@@ -1,0 +1,1 @@
+Some notes about the JS101 course will come here. Currently we have none :)
