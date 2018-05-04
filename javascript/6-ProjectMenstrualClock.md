@@ -10,6 +10,7 @@ You can learn more about periods [here](https://www.girlshealth.gov/body/period/
    *transform* and *transform-origin* css style properties use karke aap clock ke hands ko kahi bhi position kar sakte hain.
 
 2. JavaScript mein, present date using [Date](https://www.w3schools.com/js/js_dates.asp) nikale. Us date object se day, month and year alag alag nikale using the pre-defined date [methods](https://www.w3schools.com/js/js_date_methods.asp). Usko alag variables mein store karein.
+ 
 Apne html page ke date placeholder ko modify karein taaki ab wo current date dikhaye.  Aapko iske liye .queryselector() ka use karna pad sakta hai to select the text you are changing.
 
 3. Usi tarah javascript mein ek function likhe jo hour, minute and seconds ko Date Object se extract kare. Hour, minute and second hands ki position change karein to reflect the current time. Aapko hour, minute and second ko degrees mein convert karna padega. Aapko fir "transform" style property change karke hands ko sahi position karna padega.
