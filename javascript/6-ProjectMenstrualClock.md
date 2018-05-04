@@ -1,6 +1,6 @@
 # Project Menstrual Clock
 
-1. Ek HTML/CSS page banao jo date and a clock display kare. Date spaceholder iss format DD - MM - YY mein hona chahiye.
+1. Ek HTML/CSS page banao jo date and a clock display kare. Date placeholder iss format DD - MM - YY mein hona chahiye.
    
    Clock [iss](https://fr.123rf.com/photo_87564976_ic%C3%B4ne-de-l-horloge-vector-illustration-design-plat-facile-%C3%A0-utiliser-et-%C3%A9diter-eps10-fond-jaune-avec-une.html)
    *transform* and *transform-origin* css style properties use karke aap clock ke hands ko kahi bhi position kar sakte hain.
