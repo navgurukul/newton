@@ -27,3 +27,16 @@ Global aur local variables ke baare mein aur janne ke liye aap [yahan](https://w
 
 **Homework**
 - Apne pichle programs mein jo aapne variables use kiye hain, unki scope identify kijiye.
+
+- Niche diye hue program ko run kijiye aur usme error identify kijiye
+```javascript
+function f1(){
+  var a = 1;
+  return f2();
+}
+
+function f2(){
+  return a;
+}
+```
+- Upar likhe hue program ka correct form kya hoga?
