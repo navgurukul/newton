@@ -1,3 +1,8 @@
+```ngMeta
+name: Project Menstrual Clock v2
+completionMethod: manual
+```
+
 # Project Menstrual Clock v2
 
 Apne pichle project mein aapne ek Menstrual Clock banaya tha jisme aap last Period Date aur frequency javascript program mein hi localStorage mein save karte the aur baad mein use program mein use karte the. Ye program bas developer (yaani aap) ke liye hi useful tha.

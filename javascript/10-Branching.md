@@ -1,3 +1,8 @@
+```ngMeta
+name: Branching
+completionMethod: manual
+```
+
 # Branching
 
 Agar subah hai, to aap greet karte samay logon ko "Good Morning" kehte hain.

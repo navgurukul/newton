@@ -1,3 +1,8 @@
+```ngMeta
+name: DOM
+completionMethod: manual
+```
+
 # DOM
 
 Humara HTML page ek Document Object hai. <html>, is Document object ka child hai. Isi tara <head> aur <body> , <html> ke children hai.

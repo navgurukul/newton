@@ -1,3 +1,8 @@
+```ngMeta
+name: Project Menstrual Clock
+completionMethod: manual
+```
+
 Watch the short film here:
 https://www.youtube.com/watch?v=H-BrSO47IXw
 

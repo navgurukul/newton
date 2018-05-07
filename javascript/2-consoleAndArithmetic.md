@@ -1,5 +1,5 @@
 ```ngMeta
-name: using arithmetic operations on console
+name: Using Console and Arithmetic Operations
 completionMethod: manual
 ```
 

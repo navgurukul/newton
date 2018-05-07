@@ -1,3 +1,8 @@
+```ngMeta
+name: Scope
+completionMethod: manual
+```
+
 # Scope
 
 Variables ko logon ki tarah imagine kijiye - log jinke dimaag me kuch memory hai - aur wo iss memory mein kuch values store karte hain.
