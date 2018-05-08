@@ -1,5 +1,5 @@
 ```
-name: Javascript Philosophy
+name: Philosophy - React
 completionMethod: peer_file_submission
 ```
 
