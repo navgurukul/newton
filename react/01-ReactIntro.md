@@ -1,3 +1,8 @@
+```ngMeta
+name: Javascript Philosophy
+completionMethod: manual
+```
+
 # React Intro
 
 Kuch websites ke content bahut dynamically change karte hain. Jaise "facebook" - jiske newsfeeds hamesha change hote rehte hain.
@@ -10,4 +15,5 @@ Iss problem ko solve karne ke liye Facebook ki team ne ek Javascript Library ban
 React Library use karke aap single page web applications bana sakte hain jo user ke data ko dynamically update karta hai bina page ko refresh kiya.
 
 
-Agar aap React ya uske history ke baare mein aur janna chahte hain to [yahan](https://learnreact.design/2017/06/08/what-is-react/) padhe. Aapko kafi interesting lagega.
+**Homework:**
+* Agar aap React ya uske history ke baare mein aur janna chahte hain to [yahan](https://learnreact.design/2017/06/08/what-is-react/) padhe. Aapko kafi interesting lagega.
