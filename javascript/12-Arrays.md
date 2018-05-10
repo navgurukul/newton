@@ -55,10 +55,12 @@ Isse aaple list ka last item hat jayega.
 
 
 Array ke pre-defined methods ke baare mein aur janne ke liye aap [yahan](https://www.w3schools.com/js/js_array_methods.asp) se padh sakte hain.
-
+Arrays ke pre-defined methods .foreach() and .map() ko specially dhyan se padhiye aur practice kijiye.
 
 **Homework:**
 
 - Ek chota sa To-do application banaiye jisme aap user se action item mang kar usey apne application mein display kar rahe hain.
 - User chahe toh apne action item ko check kar sakta hai ya delete bhi kar sakta hai.
 - Iss application ko banane ke liye aapko forms, arrays aur functions ke concepts use karne par sakte hain.
+
+
