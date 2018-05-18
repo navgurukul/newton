@@ -17,4 +17,4 @@ Iss project mein aap ek musical instrument banayenge jo alag-alag "keypress" se 
 
 **Homework**
 - Aapke musical instrument mein kya khasiyat hai?
-- Aapke musical instrument mein kya kamiyan hain? Inn kamiyon ko aap kin progam
+- Aapke musical instrument mein kya kamiyan hain? Inn kamiyon ko aap kin programming concepts ko use karke dur kar sakte hain?
