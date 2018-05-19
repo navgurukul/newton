@@ -1,5 +1,5 @@
 ```ngMeta
-name: Branching
+name: Arrays
 completionMethod: manual
 ```
 
