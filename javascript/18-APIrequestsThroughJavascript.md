@@ -10,7 +10,7 @@ Aajkal har bare company jo data pe kaam karte hain, unki apni API service hoti h
 Hum inn APIs ko apne website mein use kar sakte hain. Iske liye aapko Javascript ke through API request bhejne honge.
 
 Javascript ke through API request bhejne ke liye
-[1](https://www.kirupa.com/html5/making_http_requests_js.htm) and [2](https://www.codecademy.com/courses/javascript-beginner-en-EID4t/0/1?curriculum_id=5122e50456ef4d6c450008c1) ye resources pe thora time spend kar sakte hain
+[1](https://www.kirupa.com/html5/making_http_requests_js.htm) and [2](https://www.codecademy.com/courses/javascript-beginner-en-EID4t/0/1?curriculum_id=5122e50456ef4d6c450008c1) ye resources pe thora time[1 to 1:30 hour] spend kar sakte hain
 
 
 **Self-Practice Project**

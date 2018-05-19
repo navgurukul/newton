@@ -31,7 +31,9 @@ Upar likhe code ka wahi output hoga jo humne pehle dekha tha. Upar likha hua cod
 
 Loops ke baare mein aur jaane ke liye [yahan](https://www.w3schools.com/js/js_loop_for.asp) padhe.
 
-Humne yahan pe *for* loop ka use kiya hai. Javascript mein loops use karne ke aur bhi tareeke hote hain.
+Loops ko likhne ke liye kaafi tareeke hote hai. Aap koi bhi tareeka use kar sakte hai. Apni practice ke liye, jo program abhi humne uppar likha hai, uss same program ko for loop, while loop, for-in loop aur do-while loop se kare. In saare programs ka output same hona chahiye.
+
+Iss exercise ke liye aapko har program ko 20 mins mei finish karne ki koshish karni chahiye. Code likhte hi samajhne ki koshish karein ki yeh peechle likhe hue loops se kaise alag hai. Confusion ho toh aap iss exercise ko roz ek program likh kar 4 din mei bhi finish kar sakte hai.
 
 **Self-practice**
 
