@@ -1,6 +1,6 @@
 ```ngMeta
 name: API requests through Javascript
-completionMethod: peer_file_submission
+completionMethod: manual
 ```
 
 Aapne browser ke through API service ko request bhejna seekha.
