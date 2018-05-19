@@ -1,11 +1,9 @@
 ```ngMeta
 name: Dice Rolling 
-completionMethod: peer_file_submission
+completionMethod: manual
 ```
 
 # Dice Rolling
-
-
 1. Codepen pe Dice rolling application search kijiye.
 2. Alag alag applications ko dekhiye.
 3. Ab apni creativity use karke, ek dice rolling application banaiye jo *roll* karne par 1 se 6 ke beech mein number dikhaye.
