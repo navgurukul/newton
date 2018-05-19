@@ -1,6 +1,6 @@
 ```ngMeta
 name: Javascript Philosophy
-completionMethod: peer_file_submission
+completionMethod: facilitator
 ```
 # Looping
 
