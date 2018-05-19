@@ -38,6 +38,8 @@ Application par kaam karte hue hum har user story ko alag-alag fulfill karne ki 
 Isse hamara pura application chote functions mein breakdown ho jata hai jisse humara kaam asan ho jata hai.
 
 **Self-Practice**
+Iss activity ko aap akele kariye, aur karne mein 1 se 2 ghante lagaiye. Agar nahi hota hai, toh aap aage badh sakte hain, aur jab aapko lagta hai ki aapke paas koi fresh idea hai toh isey aap dobara karein.
+
 - Ek Javascript Application sochiye jo aap design karna chahte hon. Aapka application ek game ho sakta hai ya aisa application ho sakta hai jo aapke aaspas kisi problem ko solve kare.
 - Ab upar diye hue instructions ko follow karte hue, apne application ko *user stories* mein breakdown karein. Apne application ke har functionality ko user story ka form dein.
 - Kya aapko apna application pehle se kam intimidating lag raha hai?
