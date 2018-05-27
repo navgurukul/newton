@@ -62,6 +62,8 @@ Upar mein maine JS ke Date Object aur uske pre-defined functions ko JSX ke HTML 
 
 Iska matlab ye ki aap apne JSX code mein kahin bhi Javascript use kar sakte ho. 
 
+JSX mein JavaScript ka use janne ke liye [yahan](https://reactjs.org/docs/introducing-jsx.html) aur padh sakte hain.
+
 Ab pichle lesson mein banaye hue static application ko aap JS ka use karke dynamic bana sakte ho.
 
 **Assignment**
