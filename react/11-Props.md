@@ -63,4 +63,4 @@ Humne this.props.name ko curly bracket mein likha hai kyonki wo ek Javascript va
 **Assignment**
 
 - Apne react component ke liye multiple props define kijiye aur usey apne code block mein use kijiye
-
+- Apne application mein ek react component banaiye jo recipe ka nutrition data display kare. iss react component ko props ke through data pass karke nutrition data display karwaiye.
