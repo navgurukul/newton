@@ -1,4 +1,4 @@
-```ngmeta
+```ngMeta
 name: React Dev Tool
 completionMethod: manual
 ```
