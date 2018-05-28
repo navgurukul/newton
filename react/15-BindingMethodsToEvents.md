@@ -38,7 +38,7 @@ export default NutritionAnalyzer;
 Upar mein humne Button ke **onClick** event ko **updateAnalyzer()** function se __bind__ kar diya hai.
 Yaani button click hote hi updateAnalyzer function run hoga.
 
-React mein Method Binding ke aur bhi tareeke hain. Aap [yahan](https://www.rithmschool.com/courses/react-fundamentals/react-events) se aur padh sakte hain.
+React mein Event Binding ke aur bhi tareeke hain. Aap [yahan](https://www.rithmschool.com/courses/react-fundamentals/react-events) se aur padh sakte hain.
 
 **Assignment**
-- React Method binding use karke apne App ko aur bhi interactive banaiye. Example ke liye button element pe aap onMouseMove event ke saath koi method binding create kar sakte hain jisse button ka background color change ho.
+- React Event binding use karke apne App ko aur bhi interactive banaiye. Example ke liye button element pe aap onMouseMove event ke saath koi method binding create kar sakte hain jisse button ka background color change ho.
