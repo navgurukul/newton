@@ -3,6 +3,8 @@ name: React Dev Tool
 completionMethod: manual
 ```
 
+Iss video ko dekhiye - https://youtu.be/osG1yIFnapc
+
 Aapne last class mein React ki philosophy ke baare mein thora sa jaana aur ye dekha ki kaise React process se hum apne web apps simple or organized process se design kar sakte hain.
 
 Iss lesson mein hum React se bane hue website ko inspect karke ye dekhne ki kosish karenge ki wo kin components se bana hai.
@@ -35,3 +37,4 @@ Aapko right side mein inn components ki kuch property - State and Props bhi dikh
 - Aise websites ko search karein jo React use karke bane hain.
 - React Dev Tool use karke aap unn websites ko inspect karein aur ye janne ki kosis karein ki wo kin components se bane hain.
 - Apne peers ke saath apni khoj ko share kijiye.
+
