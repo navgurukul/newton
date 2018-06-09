@@ -72,4 +72,9 @@ https://www.w3schools.in/java-tutorial/data-types/
 http://codingbat.com/doc/java-string-introduction.html
 
 **Assignment**
-- Kisi ek person ka name, age, gender aur profession - java program mein store karo aur phir unhe print karo.
+- Codeacademy pe jakar Java ka [ye](https://www.codecademy.com/courses/learn-java/lessons/introduction-to-java/exercises/whats-your-name?action=resume_content_item) introductory tutorial complete karein. Isme 12 lessons hain aur ye aapke **Variables** aur **data types** ke concepts ko revise karega.
+Saath mein hi ye aapko java mein numbers pe operate karna (Addition, Subtraction, Multiplication, Division, Greater Than, Less than, etc.) bhi seekhayega.
+
+- Kisi 2 persons ka naam, age, gender aur professon apne program mein store karo (*Aap name1, name2 ...aise variables ka use kar sakte hain*)
+  - Inn dono persons ke ages ko add karke (age1 + age2), computer par print karo
+  - Dono persons  ke naame aur professions bhi print karo
