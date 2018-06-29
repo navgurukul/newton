@@ -26,3 +26,4 @@ Output mein aap apne naye file aur purane file mein difference yani kya kya chan
   git command se apne directory ke *tracked* aur *untracked* files ka status dekhiye. 
   Iss file mein kuch changes kar ke **git diff** command run kijiye.
   Wapas se git status run karke output dekhiye.
+  Apne working directory ke edited file ko wapas se Staging area mein add kijiye. "git diff" command run karke wapas se staging area aur working directory ke files ke beech ka difference dekhiye. Ideally abhi koi difference nahi hona chahiye.
