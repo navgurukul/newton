@@ -13,7 +13,7 @@ Git ke workflow mein 3 stages hote hain:
 
 Staging ke baare mein hum detail mein agle lessons mein dekhenge.
 
-3. Repository: Jab hum apne file ko doosre developers ke saath share karne ke liye ready hote hain, toh hum usey apne system ke bahar kahin external space (jaise cloud) mein push kar sakte hain. Iss external space (jo ki cloud mein ek space ho sakta hai), usey hum repository kehte hain.
+3. Repository: Jab hum apne file ko doosre developers ke saath share karne ke liye ready hote hain, toh hum usey apne system ya system ke bahar kahin external space (jaise cloud) mein store kar sakte hain. Iss space ko hum repository kehte hain.
 
 GitHub, jisme aapne apna account banaya hai - wah ek cloud hai jo hume repositories banane ke liye space provide karti hai.
 Github mein banaye hue repositories hum logon ke saath share kar sakte hain.
