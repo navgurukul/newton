@@ -1,6 +1,6 @@
 ```ngMeta
 name: Git Clone
-completionmethod: manual
+completionMethod: manual
 ```
 
 Aapke aur aapke peers ki stories (puri nahi bas beginnings), ab github pe hai - jahan se aap sab ek doosre ki stories dekh sakte hain aur collaborate kar sakte hain.
