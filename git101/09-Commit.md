@@ -1,4 +1,4 @@
-```ngMetaData
+```ngMeta
 name: Committing to a Repository
 completionMethod: manual
 ```
