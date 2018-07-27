@@ -5,7 +5,7 @@ completionMethod: manual
 
 NavGurukul mei aapka swagat hai. NavGurukul mei humare liye sabse important cheez hi ki hum aapko yeh seekha paye ki seekhte kaise hai.
 
-Jab aap course shuru karenge toh aapko cheezein thodi muskhil lagengi, par aap dheere dheere jaise thoda time beetayenge toh aapko cheezein samajh aana shuru hongi and aasaan lagne lagegi. Aise mei zaroori hai ki aap lagataar mehnat karte raho. Koi cheez aasaan lage, toh ek baar. Mushkil lage toh do baar karo. Aur mushkil lage, toh baar baar karo.
+Jab aap course shuru karenge toh aapko cheezein thodi muskhil lagengi, par aap dheere dheere jaise thoda time bitayenge toh aapko cheezein samajh aana shuru hongi and aasaan lagne lagegi. Aise mei zaroori hai ki aap lagataar mehnat karte raho. Koi cheez aasaan lage, toh ek baar. Mushkil lage toh do baar karo. Aur mushkil lage, toh baar baar karo.
 
 NavGurukul ka yeh course saare courses se kaafi alag hai. Aapko iss course ko karne ke liye khud par bharosa karna padega, aur yeh samajhna padega ki jo bhi aapke questions hai, google sab answers kar sakta hai agar aap sahi se uss question ko google se puchenge.
 
@@ -19,11 +19,7 @@ Facilitator ka kaam aapki learning mei help karna hai, and facilitator khud deci
 ## Kuch Jaroori Baatein
 - Hume apne bartan khud dhone hote hai.
 
-- Jab hum water cooler se paani nikalenge, toh utna hi paani bhar denge jisse water cooler hamesha bhara rahe.
-
-- Khana waste nahi karna hai.
-
-- Khana lene se pehle, fridge mei check karo ki kuch khana bacha toh nahi hai. Pehle woh khana khatam karein, jisse koi khana waste na ho.
+- Khana waste nahi karna hai
 
 - Yaha par do dustbins hai
 -- ek dustbin jo kitchen mei hai jis mei aap organic cheezein - jaise fruits ke cheelke, bacha hua khan, ande ke chilke, jaisa waste daaloge. 
@@ -48,8 +44,6 @@ Facilitator ka kaam aapki learning mei help karna hai, and facilitator khud deci
 - Google Chrome download kar kar install karo. Chrome browser yaha - https://www.google.com/chrome/ se milega.
 
 - Apne facilitator ko bol kar apni navgurukul.org wali email ID banwao. Uske baad uss se gmail.com par login karo.
-
-- https://navgurukul001.slack.com/signup par ja kar sign up karo. Apne saare accounts navgurukul.org wali email id hi use karke banao. Slack ki app apne laptop mei install karo. Slack yaha se mil jayega install karne ke liye https://slack.com/downloads.
 
 - Yeh video dekho - https://www.youtube.com/watch?v=opSNSVnTn68&t=135s. Iss video ko use karke Terminal use karna seekho. Iss Video ko dekh kar yeh exercise karo.
 
@@ -97,3 +91,30 @@ sudo add-apt-repository ppa:webupd8team/brackets
 sudo apt-get update
 sudo apt-get install brackets
 ```
+## Cliq
+NavGurukul mein aapas me communication ke liye hum 'Cliq' app use karte hain. Aap apne facilitator ke saath milkar apni Cliq ID banaen aur relevant channels mein add ho jaen. Aapki padhai aur daily tasks se related kafi jaankari apko cliq par milti rahegi. Saath hi aapko NavGurukul ke kisi bhi student, team members ya volunteers ke sath connect karne ke liye bhi aap Cliq use karenge.
+Aap is link par Cliq access kar sakte ho: https://www.zoho.com/cliq/
+
+## Toggl
+Hum sabke din mein 24 hours hote hain. Ek successful person ye jaanta hai ki humara time bohot important hai aur humein poora dhyan rakhna chahiye ki hum apna time kahan spend kar rahe hain. NavGurukul humari padhai aur baaki activities me bitaaye gaye time ko track karne ke liye hum "Toggl" name ki app use karte hain. Aap toggl.com par jaakar apna account banaein aur apne time ko vahan track karna start karein.
+
+### How to Use Toggl
+Apne NavGurukul ke email ID to use karke Toggl par 'Sign Up' karein.
+Toggl ko use karne ke liye 'Timer' par jaaen. Jab aap padhai karna ya community seva karna start karein, tab Timer ko on kar dein. Vahan description likh dein ki aap cheez par kaam kar rahe hain. Saath hi project bhi update dein. For example, agar aap Python mein loops par kaam kar rahe hain, toh aap description me 'Loops exercise' likhenge aur project mein 'Python'.
+
+## Awards
+NavGurukul mein har mahine kuch students ko unke efforts ki sarahna karne ke liye awards diye jaate hain. Hum har campus mein do awards har manine dete hain:
+
+### Dashrath Manjhi Award
+Dashrath Manjhi Award us student ko diya jaata hai jisne pichhle mahine community ke liye sabse achha effort kiya hai. Vah student jisne apni sincerity, responsibility aur service ke through NavGurukul community ko sabse achha contribution diya hai.
+
+### Mary Kom Award
+Mary Kom Award us student ko jaata hai jisne us mahine padhai mein sabse zyada mehnat ki ho. 
+
+### Awards ka selection
+Awards ke liye selection ka process is prakar hai:
+
+1. Nominations: Awards ki announcement hone par students aur apne aap ko ya student community mein se kisi aur ko awards ke liye nominate karenge. NavGurukul ke team members bhi students ko awards ke liye nominate kar sakte hain. Nomination ke sath kaaran dena bhi important hai.
+2. Pitch: Jo nominated students hain, vo ek video banaenge baaki students ko yeh batate hue ki award unhe kyun milna chahiye. Ye video maximum 3 minute ki aur kisi bhi language me ho sakti hai.
+3. Voting: Nominations hone ke baad saare students vote karenge. Jis student ko sabse zyada votes milenge, unhe award diya jaega.
+
