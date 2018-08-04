@@ -1,3 +1,8 @@
+```ngMeta
+name: Awards
+completionMethod: manual
+```
+
 ## Awards
 NavGurukul mein har mahine kuch students ko unke efforts ki sarahna karne ke liye awards diye jaate hain. Hum har campus mein do awards har manine dete hain:
 
