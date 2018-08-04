@@ -1,3 +1,8 @@
+```ngMeta
+name: Toggl
+completionMethod: manual
+```
+
 ## Toggl
 Hum sabke din mein 24 hours hote hain. Ek successful person ye jaanta hai ki humara time bohot important hai aur humein poora dhyan rakhna chahiye ki hum apna time kahan spend kar rahe hain. NavGurukul mein humari padhai aur baaki activities me bitaaye gaye time ko track karne ke liye hum "Toggl" name ki app use karte hain. Aap toggl.com par jaakar apna account banaein aur apne time ko vahan track karna start karein.
 
