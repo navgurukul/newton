@@ -3,7 +3,9 @@ name: Getting Started
 completionMethod: manual
 ```
 
-NavGurukul mei aapka swagat hai. NavGurukul mei humare liye sabse important cheez hi ki hum aapko yeh seekha paye ki seekhte kaise hai.
+NavGurukul mei aapka swagat hai. NavGurukul ek learners ki community hai jo aapko sahajta, samvedansheelta aur shreshthta se purna jeevan jeene ke liye tayyar karta hai. Aap mehnat karke ek achhi job zarur le paenge, aur sath hi jeevan jeene ki kuch important skills bhi aap yahan seekhenge. 
+
+NavGurukul mei humare liye sabse important cheez hi ki hum aapko yeh seekha paye ki seekhte kaise hai.
 
 Jab aap course shuru karenge toh aapko cheezein thodi muskhil lagengi, par aap dheere dheere jaise thoda time bitayenge toh aapko cheezein samajh aana shuru hongi and aasaan lagne lagegi. Aise mei zaroori hai ki aap lagataar mehnat karte raho. Koi cheez aasaan lage, toh ek baar. Mushkil lage toh do baar karo. Aur mushkil lage, toh baar baar karo.
 
@@ -15,6 +17,19 @@ NavGurukul mei kisi aur student se poocho
 Apne facilitator se poocho
 
 Facilitator ka kaam aapki learning mei help karna hai, and facilitator khud decide karega ki facilitator kaha aapki sabse jyada help kar sakta hai. Aap yeh na samjhe ki facilitator aapke questions ka answer karega. Apne questions ka answer dheere dheere aap kaafi asaani se google par dhoondh payega. Aur yehi sacchi learning hai.
+
+Is course me hum aapko NavGurukul ke baare mein aur jaankari denge.
+
+## Self-managed Campus
+NavGurukul ke campus ko manage karne ki zimmedari aapke jaise hi kuch students lete hain. Apne campus ko chalane ke liye kisi aur ke adheen na hote hue, apne rehne aur padhne ke liye saare zaruri arrangements community members mil baatkar karte hain. Sirf itna hi nahi, campus me padhai ko behtar se behtar kaise banana hai, kaise bahar se logon ko invite karna hai taaki vo campus aakar students ke sath apna knowledge share kar sakein, kaise students ke liye new learning opportunities dhundni hain, ye sab student community lead karti hai. Aapki help ke liye NavGurukul ki team aur kafi saare volunteers humesha ready rehte hain.
+
+## Self and peer led learning
+NavGurukul aap kafi saare skills seekhnege lekin yahan koi teachers nahin hai. Aapki learning ki sabse responsibility aapki khud hai. Aap internet par available kafi saare resources, NavGurukul dwara banaya gaya curriculum aur ek dusre ki help lekar seekhenge. Sath hi apko kuch mentors assign kiye jaenge jo aapki help karenge ye samajhne mein ki aapko kya padhna hai aur kahan se padhna hai. Aap kitna jaldi ya kitna dheere seekhte hain, ye aapki mehnat ke upar depend karta hain.
+
+## Cliq
+NavGurukul mein aapas me communication ke liye hum 'Cliq' app use karte hain. Aap apne facilitator ke saath milkar apni Cliq ID banaen aur relevant channels mein add ho jaen. Aapki padhai aur daily tasks se related kafi jaankari apko cliq par milti rahegi. Saath hi aapko NavGurukul ke kisi bhi student, team members ya volunteers ke sath connect karne ke liye bhi aap Cliq use karenge.
+Aap is link par Cliq access kar sakte ho: https://www.zoho.com/cliq/
+
 
 ## Kuch Jaroori Baatein
 - Hume apne bartan khud dhone hote hai.
@@ -40,55 +55,6 @@ Facilitator ka kaam aapki learning mei help karna hai, and facilitator khud deci
 - Hamesha apne uppar bharosa rakho, aap jo test clear karke aaye hai woh clear karna hi yeh darshaata hai ki aap coding mehnat karke aaraam se seekh jayenge.
 
 
-
 ## Aapka Schedule
 - Aapki classes ka schedule yaani kaunsi classes kab hoti hai, yeh aapka poora group decide karta hai. Aap apne aas paas kisi bhi student se schedule le kar yaad kar lo. Schedule ko dhyaan se follow karna bahut jaroori hai. Agar aap kisi bhi class ke liye late hote hai, toh aap woh class nahi lagayenge.
-
-## Programming
-Pehla ek mahina aapka pehla programming session Python naam ki language mei hoga, and doosra programming session HTML/CSS mei hoga.
-
-Python seekhne ke liye aapko saral.navgurukul.org use karna hai.
-
-Python ki exercies ko karne ke liye aapko Pycharm install karna padega. Pycharm ek editor hai jo aapki python ki exercises karne mei help karega. Isko install karne ke liye niche di gayi commands ko terminal mei run kare:
-
-```bash
-sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
-sudo apt-get update
-sudo apt-get install ubuntu-make
-Umake ide pycharm
-```
-
-HTML/CSS ki exercises ke liye aapko Brackets ki jarurat padegi. Brackets bhi ek editor jo aapki HTML/CSS ki exercises mei help karega. Isko install karne ke liye niche di gayi commands ko terminal par run kare:
-
-```bash
-sudo add-apt-repository ppa:webupd8team/brackets
-sudo apt-get update
-sudo apt-get install brackets
-```
-## Cliq
-NavGurukul mein aapas me communication ke liye hum 'Cliq' app use karte hain. Aap apne facilitator ke saath milkar apni Cliq ID banaen aur relevant channels mein add ho jaen. Aapki padhai aur daily tasks se related kafi jaankari apko cliq par milti rahegi. Saath hi aapko NavGurukul ke kisi bhi student, team members ya volunteers ke sath connect karne ke liye bhi aap Cliq use karenge.
-Aap is link par Cliq access kar sakte ho: https://www.zoho.com/cliq/
-
-## Toggl
-Hum sabke din mein 24 hours hote hain. Ek successful person ye jaanta hai ki humara time bohot important hai aur humein poora dhyan rakhna chahiye ki hum apna time kahan spend kar rahe hain. NavGurukul humari padhai aur baaki activities me bitaaye gaye time ko track karne ke liye hum "Toggl" name ki app use karte hain. Aap toggl.com par jaakar apna account banaein aur apne time ko vahan track karna start karein.
-
-### How to Use Toggl
-Apne NavGurukul ke email ID to use karke Toggl par 'Sign Up' karein.
-Toggl ko use karne ke liye 'Timer' par jaaen. Jab aap padhai karna ya community seva karna start karein, tab Timer ko on kar dein. Vahan description likh dein ki aap cheez par kaam kar rahe hain. Saath hi project bhi update dein. For example, agar aap Python mein loops par kaam kar rahe hain, toh aap description me 'Loops exercise' likhenge aur project mein 'Python'.
-
-## Awards
-NavGurukul mein har mahine kuch students ko unke efforts ki sarahna karne ke liye awards diye jaate hain. Hum har campus mein do awards har manine dete hain:
-
-### Dashrath Manjhi Award
-Dashrath Manjhi Award us student ko diya jaata hai jisne pichhle mahine community ke liye sabse achha effort kiya hai. Vah student jisne apni sincerity, responsibility aur service ke through NavGurukul community ko sabse achha contribution diya hai.
-
-### Mary Kom Award
-Mary Kom Award us student ko jaata hai jisne us mahine padhai mein sabse zyada mehnat ki ho. 
-
-### Awards ka selection
-Awards ke liye selection ka process is prakar hai:
-
-1. Nominations: Awards ki announcement hone par students aur apne aap ko ya student community mein se kisi aur ko awards ke liye nominate karenge. NavGurukul ke team members bhi students ko awards ke liye nominate kar sakte hain. Nomination ke sath kaaran dena bhi important hai.
-2. Pitch: Jo nominated students hain, vo ek video banaenge baaki students ko yeh batate hue ki award unhe kyun milna chahiye. Ye video maximum 3 minute ki aur kisi bhi language me ho sakti hai.
-3. Voting: Nominations hone ke baad saare students vote karenge. Jis student ko sabse zyada votes milenge, unhe award diya jaega.
 
