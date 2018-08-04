@@ -1,7 +1,7 @@
 ```ngMeta
 name: Samvaad - Beginner
-type: 
-daysToComplete: 
+type: html
+daysToComplete: 30
 shortDescription: Topics for English conversation among students
-logo: 
+logo: http://Google.com
 ```
