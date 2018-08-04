@@ -1,3 +1,8 @@
+```ngMeta
+name: Power to the People
+completionMethod: manual
+```
+
 ## Padhai Shuru karein
 
 ### Sabse Pehle
