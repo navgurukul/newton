@@ -39,32 +39,6 @@ Facilitator ka kaam aapki learning mei help karna hai, and facilitator khud deci
 
 - Hamesha apne uppar bharosa rakho, aap jo test clear karke aaye hai woh clear karna hi yeh darshaata hai ki aap coding mehnat karke aaraam se seekh jayenge.
 
-## Sabse Pehle
-
-- Google Chrome download kar kar install karo. Chrome browser yaha - https://www.google.com/chrome/ se milega.
-
-- Apne facilitator ko bol kar apni navgurukul.org wali email ID banwao. Uske baad uss se gmail.com par login karo.
-
-- Yeh video dekho - https://www.youtube.com/watch?v=opSNSVnTn68&t=135s. Iss video ko use karke Terminal use karna seekho. Iss Video ko dekh kar yeh exercise karo.
-
-```bash
-	cd command use karke Desktop par jao
-	mkdir command use karke Desktop par ek NavGurukul naam ka folder banao
-	navgurukul folder mei cd karo
-	Iss folder mein new_folder naam se ek folder banao
-	ab ls karke dekho ki kaun kaun si files present hai
-	ab apni home directory mei jakar ls karo and output slack mei apne facilitator ko bhejo
-```
-
-- Apne laptop mei Atom Editor install karo. Atom install karne ke liye aapko yeh teen commands Terminal par daalni padegi.
-	
-```bash
-	sudo add-apt-repository ppa:webupd8team/atom
-	sudo apt-get update
-	sudo apt-get install atom
-```	
-
-- Iska aapka Atom Editor install ho jayega. Atom editor mei hi aap apni saari exercises karoge.
 
 
 ## Aapka Schedule
