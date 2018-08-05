@@ -8,11 +8,11 @@ Manthan ek internship program hai jo NavGurukul ke students ko zyada exposure de
 
 Kuch places jahan par students Manthan ke liye gae hain:
 * Meet The Tribe, Bastar, Chhatisgarh: <https://www.mangopeople.org.in/single-post/2018/01/06/MeetTheTribe>
-* Deer Park Institute, Palampur: <deerpark.in/>
-* Sanghamitra Institute, Bodh Gaya: http://www.jamyang.org/
+* Deer Park Institute, Palampur: deerpark.in/
+* Sanghamitra Institute, Bodh Gaya: <http://www.jamyang.org/>
 
 Manthan par gae hue kuch logon ki stories aap yahan padh sakte hain:
-* https://medium.com/@annu17/interaction-with-community-on-menstruation-f59be10e203e
-* https://medium.com/@annu17/my-feelings-and-expectation-from-bastar-trip-of-self-sustainability-a92047c1a90d
-* https://medium.com/@harjeet17/my-10-days-journey-of-bastar-3302b311bd1a
-* https://medium.com/@harjeet17/this-week-is-good-i-learned-many-things-this-week-as-i-went-to-school-i-have-played-a-lot-of-42768bc6c998
+* <https://medium.com/@annu17/interaction-with-community-on-menstruation-f59be10e203e>
+* <https://medium.com/@annu17/my-feelings-and-expectation-from-bastar-trip-of-self-sustainability-a92047c1a90d>
+* <https://medium.com/@harjeet17/my-10-days-journey-of-bastar-3302b311bd1a>
+* <https://medium.com/@harjeet17/this-week-is-good-i-learned-many-things-this-week-as-i-went-to-school-i-have-played-a-lot-of-42768bc6c998>
