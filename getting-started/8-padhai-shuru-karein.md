@@ -1,9 +1,9 @@
 ```ngMeta
-name: Power to the People
+name: Padhain Shuru Karein
 completionMethod: manual
 ```
 
-## Padhai Shuru karein
+## Padhai Shuru Karein
 
 ### Sabse Pehle
 
