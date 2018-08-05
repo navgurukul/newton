@@ -23,26 +23,14 @@ Is course me hum aapko NavGurukul ke baare mein aur jaankari denge.
 ## Self-managed Campus
 NavGurukul ke campus ko manage karne ki zimmedari aapke jaise hi kuch students lete hain. Apne campus ko chalane ke liye kisi aur ke adheen na hote hue, apne rehne aur padhne ke liye saare zaruri arrangements community members mil baatkar karte hain. Sirf itna hi nahi, campus me padhai ko behtar se behtar kaise banana hai, kaise bahar se logon ko invite karna hai taaki vo campus aakar students ke sath apna knowledge share kar sakein, kaise students ke liye new learning opportunities dhundni hain, ye sab student community lead karti hai. Aapki help ke liye NavGurukul ki team aur kafi saare volunteers humesha ready rehte hain.
 
-## Self and peer led learning
-NavGurukul aap kafi saare skills seekhnege lekin yahan koi teachers nahin hai. Aapki learning ki sabse zyada responsibility aapki khud hai. Aap internet par available kafi saare resources, NavGurukul dwara banaye gaye curriculum aur ek dusre ki help lekar seekhenge. Sath hi apko kuch mentors assign kiye jaenge jo aapki help karenge ye samajhne mein ki aapko kya padhna hai aur kahan se padhna hai. Aap kitna jaldi ya kitna dheere seekhte hain, ye aapki mehnat ke upar depend karta hain.
+## Self and Peer led Learning
+NavGurukul mein aap kafi saare skills seekhnege lekin yahan koi teachers nahin hai. Aapki learning ki sabse zyada responsibility aapki khud hai. Aap internet par available kafi saare resources, NavGurukul dwara banaye gaye curriculum aur ek dusre ki help lekar seekhenge. Sath hi apko kuch mentors assign kiye jaenge jo aapki help karenge ye samajhne mein ki aapko kya padhna hai aur kahan se padhna hai. Aap kitna jaldi ya kitna dheere seekhte hain, ye aapki mehnat ke upar depend karta hain.
 
 ## Cliq
 NavGurukul mein aapas me communication ke liye hum 'Cliq' app use karte hain. Aap apne facilitator ke saath milkar apni Cliq ID banaen aur relevant channels mein add ho jaen. Aapki padhai aur daily tasks se related kafi jaankari apko cliq par milti rahegi. Saath hi aapko NavGurukul ke kisi bhi student, team members ya volunteers ke sath connect karne ke liye bhi aap Cliq use karenge.
 Aap is link par Cliq access kar sakte ho: https://www.zoho.com/cliq/
 
 
-## Kuch Jaroori Baatein
-- Hume apne bartan khud dhone hote hai.
-
-- Khana waste nahi karna hai
-
-- Yaha par do dustbins hai
--- ek dustbin jo kitchen mei hai jis mei aap organic cheezein - jaise fruits ke cheelke, bacha hua khan, ande ke chilke, jaisa waste daaloge. 
--- doosra dustbin jo bahar hai jis mei aap baaki samaan daaloge.
-
-- Har class aapko time se start karni hai.
-
-- Hindi gaane sunna avoid karein. Aap sirf english gaane sunoge, aur unko samajhne ki koshish karoge. Isse aapki English improve hogi.
 
 ## Dhyaan Rakhein!
 
