@@ -1,3 +1,8 @@
+```ngMeta
+name: Introduction
+completionMethod: manual
+```
+
 ## Introduction
 
 'Seva' ek sanskrit word hai jiska matlab hai bina kisi personal faayde, inaam ya bhugtan ke koi kaam karna. Ancient India me maana jaata hai ki seva spiritual growth me helpful rehta hai aur sath hi ek community ke improvement mein contribute karta hai. 
