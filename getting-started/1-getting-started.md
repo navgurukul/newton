@@ -5,20 +5,18 @@ completionMethod: manual
 
 NavGurukul mei aapka swagat hai. NavGurukul ek learners ki community hai jo aapko sahajta, samvedansheelta aur shreshthta se purna jeevan jeene ke liye tayyar karta hai. Aap mehnat karke ek achhi job zarur le paenge, aur sath hi jeevan jeene ki kuch important skills bhi aap yahan seekhenge. 
 
-NavGurukul mei humare liye sabse important cheez hi ki hum aapko yeh seekha paye ki seekhte kaise hai.
+NavGurukul mei humare liye sabse important cheez hi ki hum aapko yeh seekha paye ki **seekhte kaise hain**.
 
 Jab aap course shuru karenge toh aapko cheezein thodi muskhil lagengi, par aap dheere dheere jaise thoda time bitayenge toh aapko cheezein samajh aana shuru hongi and aasaan lagne lagegi. Aise mei zaroori hai ki aap lagataar mehnat karte raho. Koi cheez aasaan lage, toh ek baar. Mushkil lage toh do baar karo. Aur mushkil lage, toh baar baar karo.
 
 NavGurukul ka yeh course saare courses se kaafi alag hai. Aapko iss course ko karne ke liye khud par bharosa karna padega, aur yeh samajhna padega ki jo bhi aapke questions hai, google sab answers kar sakta hai agar aap sahi se uss question ko google se puchenge.
 
 Aapko agar koi bhi question aata hai toh aap yeh sequence follow karoge - 
-Google se poocho. Agar ek baar mei answer nahi mile, toh apne question ko kisi aur tarah se poocho.
-NavGurukul mei kisi aur student se poocho
-Apne facilitator se poocho
+* Google se poocho. Agar ek baar mei answer nahi mile, toh apne question ko kisi aur tarah se poocho.
+* NavGurukul mei kisi aur student se poocho
+* Apne facilitator se poocho
 
 Facilitator ka kaam aapki learning mei help karna hai, and facilitator khud decide karega ki facilitator kaha aapki sabse jyada help kar sakta hai. Aap yeh na samjhe ki facilitator aapke questions ka answer karega. Apne questions ka answer dheere dheere aap kaafi asaani se google par dhoondh payega. Aur yehi sacchi learning hai.
-
-Is course me hum aapko NavGurukul ke baare mein aur jaankari denge.
 
 ## Self-managed Campus
 NavGurukul ke campus ko manage karne ki zimmedari aapke jaise hi kuch students lete hain. Apne campus ko chalane ke liye kisi aur ke adheen na hote hue, apne rehne aur padhne ke liye saare zaruri arrangements community members mil baatkar karte hain. Sirf itna hi nahi, campus me padhai ko behtar se behtar kaise banana hai, kaise bahar se logon ko invite karna hai taaki vo campus aakar students ke sath apna knowledge share kar sakein, kaise students ke liye new learning opportunities dhundni hain, ye sab student community lead karti hai. Aapki help ke liye NavGurukul ki team aur kafi saare volunteers humesha ready rehte hain.
@@ -28,7 +26,7 @@ NavGurukul mein aap kafi saare skills seekhnege lekin yahan koi teachers nahin h
 
 ## Cliq
 NavGurukul mein aapas me communication ke liye hum 'Cliq' app use karte hain. Aap apne facilitator ke saath milkar apni Cliq ID banaen aur relevant channels mein add ho jaen. Aapki padhai aur daily tasks se related kafi jaankari apko cliq par milti rahegi. Saath hi aapko NavGurukul ke kisi bhi student, team members ya volunteers ke sath connect karne ke liye bhi aap Cliq use karenge.
-Aap is link par Cliq access kar sakte ho: https://www.zoho.com/cliq/
+Aap is link par Cliq access kar sakte ho: <https://www.zoho.com/cliq/>
 
 
 
