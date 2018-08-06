@@ -8,6 +8,6 @@ Hum sabke din mein 24 hours hote hain. Ek successful person ye jaanta hai ki hum
 
 ### How to Use Toggl
 Apne NavGurukul ke email ID to use karke Toggl par 'Sign Up' karein.
-Toggl ko use karne ke liye 'Timer' par jaaen. Jab aap padhai karna ya community seva karna start karein, tab Timer ko on kar dein. Vahan description likh dein ki aap cheez par kaam kar rahe hain. Saath hi project bhi update dein. For example, agar aap Python mein loops par kaam kar rahe hain, toh aap description me 'Loops exercise' likhenge aur project mein 'Python'.
+Toggl ko use karne ke liye 'Timer' par jaaen. Jab aap padhai karna ya community seva karna start karein, tab Timer ko on kar dein. Vahan description likh dein ki aap cheez par kaam kar rahe hain. Saath hi project bhi update kar dein. For example, agar aap Python mein loops par kaam kar rahe hain, toh aap description me 'Loops exercise' likhenge aur project mein 'Python'.
 
 Toggl me aap 'Reports' me jaakar dekh sakte hain ki aapka zyada se zyada time kahan spend ho raha hai.
