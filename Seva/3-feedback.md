@@ -8,6 +8,7 @@ Is process ko kaam karne ke liye time time par ye ensure karna important hai ki 
 ## Flow of Feedback
 Feedback process will be carried out in the following manner:
 
+* The Governor will have a feedback session with the GenSec and DISCO.
 * The GenSec will have a feedback session with the Council members, which will be shadowed by the Governor.
 * The Council members will have a feedback session with their respective teams.
 
