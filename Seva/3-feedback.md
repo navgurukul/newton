@@ -14,4 +14,4 @@ Feedback process will be carried out in the following manner:
 
 The feedback will be completely transparent in manner.
 
-** Here is the form for SEVA feedback: [Feedback - Seva](https://goo.gl/forms/pR3mbFX704vHVVjB3)
+**Here is the form for SEVA feedback:** [Feedback - Seva](https://goo.gl/forms/pR3mbFX704vHVVjB3)
