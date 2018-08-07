@@ -3,7 +3,7 @@ name: Section II - Disciplinary Committee
 completionMethod: manual
 ```
 
-# Disciplinary CommitteeRight to Recall
+# Disciplinary Committee
 
 Responsibilities:
 The **dis**ciplinary **co**mmittee (DISCO) is responsible for ensuring that there is discipline on campus.
