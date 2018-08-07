@@ -1,5 +1,5 @@
 ```ngMeta
-name: Section II - Disciplinary CommitteeRight to Recall
+name: Section II - Disciplinary Committee
 completionMethod: manual
 ```
 
