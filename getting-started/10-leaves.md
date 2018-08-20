@@ -9,6 +9,9 @@ NavGurukul’s one-year residential program is an intensive program. It requires
 
 NavGurukul isn’t a conventional school or college, instead is like a family or a home. Students are expected to stay here, learn, celebrate their joys and festivals, share their sorrows and help each other in their journeys. 
 
-There are no official leaves including that of festivals like Diwali, Eid or Christmas. Only exception is the death of an immediate family member - father, mother and siblings where student can take upto 10 days off.
+There are no official leaves including that of festivals like Diwali, Eid or Christmas. Hpwever there are a few exceptions as follows:
+* Upto **12 days leaves** in case of death of an immediate family member - father, mother and siblings
+* Upto **4 days leaves** in case of death of close family members - grandparents, uncles, aunts
+* Upto **20 days leaves** (once in the entire year) for university/college exams
 
-Yet, if the student needs to take leaves for any purpose - health (personal or family), any examination, important event or ceremony which can’t be avoided, etc. student needs to inform about his leave to the Center Incharge **at least 3 days in advance**. The student has to spend **two days in community serving** for each leave that he or she takes. The rationale of this policy is the realisation, that **any leave by the student hurts the interest of the entire group**. Hence, by engaging in community serving student can think responsibly and also add value to the community.
+Yet, if the student needs to take leaves for any other purpose - health (personal or family), important event or ceremony which can’t be avoided, etc. student needs to inform about his leave to the Center Incharge **at least 3 days in advance**. The student has to spend **two days in community serving** for each leave that he or she takes. The rationale of this policy is the realisation, that **any leave by the student hurts the interest of the entire group**. Hence, by engaging in community serving student can think responsibly and also add value to the community.
