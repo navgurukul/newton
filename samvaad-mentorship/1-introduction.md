@@ -3,7 +3,9 @@ name: Introduction
 completionMethod: manual
 ```
 
-## IntroductionSamvaad is the mentorship-through-dialogue model for NavGurukul students. Volunteers will engage in weekly dialogue where they will discuss about a pre decided topic with students. They can have a 30 - 45 minute long session with the students and discuss extensively about the given topic. The idea is to offer larger exposure to students by helping them to engage them in one-on-one sessions. Some of the examples of the topics would be resume writing, understanding personal finance, gender sensitization, exposure in contemporary issues like politics or religion and so on.
+## Introduction
+
+Samvaad is the mentorship-through-dialogue model for NavGurukul students. Volunteers will engage in weekly dialogue where they will discuss about a pre decided topic with students. They can have a 30 - 45 minute long session with the students and discuss extensively about the given topic. The idea is to offer larger exposure to students by helping them to engage them in one-on-one sessions. Some of the examples of the topics would be resume writing, understanding personal finance, gender sensitization, exposure in contemporary issues like politics or religion and so on.
 
 How will it work?
 
