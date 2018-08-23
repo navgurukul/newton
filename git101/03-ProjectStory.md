@@ -9,7 +9,7 @@ Aap apne 2 peers ke saath milkar 3 story likhenge - lekin har peer alag-alag sto
 Neeche diye hue table mein ye aapko aaram se samajh mein aayega.
 
 
-		**Story 1**	**Stroy 2**	**Story3**
+		**Story 1**	**Story 2**	**Story3**
 
 Beginning	Person 1	Person 2	Person 3
 
