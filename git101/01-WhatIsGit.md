@@ -14,7 +14,7 @@ Ubuntu version 16.04
 Ubuntu version 17.01 etc.
 ```
 
-Developers application ke har naye version ke saath user ke liye naye features introduce karte hain aur purane buggy(jisme bugs ho) features ko improve karte hain.
+Developers application ke har naye version ke saath user ke liye naye features introduce karte hain aur purane buggy (jisme bugs ho) features ko improve karte hain.
 
 Kya aapko pata hai ki kabhi-kabhi ek application pe 1-100 ya usse bhi jyada developers saath mein kaam kar sakte hain!
 Application ke har feature ko developers pehle alag-alag aur fir saath mein test karte hain!
