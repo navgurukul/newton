@@ -1,3 +1,9 @@
+```ngMeta
+name: NavGurukul Constitution
+completionMethod: manual
+```
+
+
 ### NavGurukul Constitution
 
 Navgurukul students ko apni pasand ka career chunne ke liye nurture karta hai aur unhe ek majboot practical samajh de kar change ko jyada se jyada logon tak pahunchane ke tareeke ke bare me baat karta hai. Residential suvidha ka poori responsibility ke sath management aur governance ensure karne ke liye zaroori hai ki:
