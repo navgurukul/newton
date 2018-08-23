@@ -6,13 +6,13 @@ completionMethod: manual
 Aapne computer applications (jaise android apps, operating systems, games etc.) use karte hue, unke versions ke naam sune honge.
 
 Jaise:
-
+```bash
 Ubuntu version 12.04
 Ubuntu version 16.04
 ...
 ...
 Ubuntu version 17.01 etc.
-
+```
 
 Developers application ke har naye version ke saath user ke liye naye features introduce karte hain aur purane buggy(jisme bugs ho) features ko improve karte hain.
 
