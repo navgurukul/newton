@@ -5,7 +5,7 @@ completionMethod: manual
 
 Aapne computer applications (jaise android apps, operating systems, games etc.) use karte hue, unke versions ke naam sune honge.
 
-Jaise:
+Jaise yeh padhe:
 ```bash
 Ubuntu version 12.04
 Ubuntu version 16.04
