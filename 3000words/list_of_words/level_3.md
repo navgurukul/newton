@@ -1,3 +1,10 @@
+```ngMeta
+name: Level Three
+completionMethod: manual
+```
+
+# Level Three
+
 - abroad
 - absorb
 - accept

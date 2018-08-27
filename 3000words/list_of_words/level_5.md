@@ -1,3 +1,10 @@
+```ngMeta
+name: Level Five
+completionMethod: manual
+```
+
+# Level Five
+
 - achievement
 - acknowledge
 - advertising
