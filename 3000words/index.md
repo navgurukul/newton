@@ -1,7 +1,7 @@
 - howtouse.md
 - list_of_words
-    - level_1
-    - level_2
-    - level_3
-    - level_4 
-    - level_5
+    - level_1.md
+    - level_2.md
+    - level_3.md
+    - level_4.md
+    - level_5.md
