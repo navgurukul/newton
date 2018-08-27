@@ -20,11 +20,6 @@
 - loops-with-code
 	- loops-code-intro.md
 	- loops-code-question1.md
-	- loops-code-question10.md
-	- loops-code-question11.md
-	- loops-code-question12.md
-	- loops-code-question13.md
-	- loops-code-question14.md
 	- loops-code-question2.md
 	- loops-code-question3.md
 	- loops-code-question4.md
@@ -33,6 +28,11 @@
 	- loops-code-question7.md
 	- loops-code-question8.md
 	- loops-code-question9.md
+	- loops-code-question10.md
+	- loops-code-question11.md
+	- loops-code-question12.md
+	- loops-code-question13.md
+	- loops-code-question14.md
 - lists
 	- lists-intro.md
 	- lists-question1-kbc_pt1.md
@@ -60,20 +60,20 @@
 	- functions-question4.md
 	- funtions-return_values.md
 	- functions-question5.md
+- exercises
+	- intro.md
+	- question1.md
+	- question2.md
+	- question3.md
+	- question4.md
+	- question5.md
+	- question6.md
+	- question7.md
+	- question8.md
+	- question9.md
+	- question10.md
+	- question11.md
 - debugging-part3
-	- exercises
-		- intro.md
-		- question1.md
-		- question10.md
-		- question11.md
-		- question2.md
-		- question3.md
-		- question4.md
-		- question5.md
-		- question6.md
-		- question7.md
-		- question8.md
-		- question9.md
 	- debugging-intro.md
 	- debugging-question1.md
 	- debugging-question2.md
