@@ -1,6 +1,6 @@
 - logical-operators
-	-logical-operators-intro.md
-	-logical-operators-question1.md
+	- logical-operators-intro.md
+	- logical-operators-question1.md
 - debugging-part1
 	- debugging-intro.md
 	- debugging-question1.md
@@ -58,7 +58,7 @@
 	- functions-question2.md
 	- functions-question3.md
 	- functions-question4.md
-	- funtions-return_values.md
+	- functions-return_values.md
 	- functions-question5.md
 - exercises
 	- intro.md
@@ -99,10 +99,10 @@
 	- variables-intro.md
 	- variables-question.md
 	- variables-naming-rules.md
-	- variables-naming-queston1.md
-	- variables-naming-queston2.md
-	- variables-naming-queston3.md
-	- variables-naming-queston4.md
+	- variables-naming-question1.md
+	- variables-naming-question2.md
+	- variables-naming-question3.md
+	- variables-naming-question4.md
 - type-conversion
 	- type-conversion-intro.md
 	- type-conversion-question.md
