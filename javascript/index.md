@@ -5,8 +5,8 @@
 	- Booleans.md
 	- ComparisonOperators.md
 	- AssignmentOperators.md
-	- DtatType.md
-	- js-evevts.md
+	- DataTypes.md
+	- js-events.md
 - quotes
 	- quotes.md
 	- flex.md
@@ -20,7 +20,7 @@
 	- random-button.md
 - Project
 	- codepen-io.md
-	- ProjectMakingSnowUsingLibrary.md
+	- ProjectMakingItSnowUsingLibrary.md
 	- JavascriptEvents.md
 - bloody-nasreen
 	- bloody-nasreen.md
@@ -41,7 +41,7 @@
 - ProjectMenstrualClockv2.md
 - Branching.md
 - Arrays.md
-- ProjectMusiccallnstrument.md
+- ProjectMusicalInstrument.md
 - Looping.md
 - DiceRolling.md
 - WritingUserStory.md
@@ -51,7 +51,6 @@
 - DOM.md
 - ProjectMenstrualClock.md
 - Scope.md
-- concept-bak.md
 - JavascriptObjects1.md
 - todo.md
 - APIrequests.md
