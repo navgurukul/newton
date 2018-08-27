@@ -1,3 +1,8 @@
+```ngMeta
+name: TODO Application
+completionMethod: manual
+```
+
 '''
 there should be two options in any submission box
 - maine yeh kar liya hai
