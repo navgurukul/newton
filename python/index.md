@@ -1,0 +1,40 @@
+- logical-operators
+	-logical-operators-intro.md
+	-logical-operators-question.md
+- debugging-part1
+	- debugging-intro.md
+	- debugging-question1.md
+	- debugging-question2.md
+	- debugging-question3.md
+	- debugging-question4.md
+	- debugging-question5.md
+	- debugging-question6.md
+	- debugging-question7.md
+- loops-flowchart
+	- loops-intro.md
+	- loops-question1.md
+	- loops-question2.md
+	- loops-question3.md
+	- loops-question4.md
+	- loops-question5.md
+- loops-with-code
+	- loops-code-intro.md
+	- loops-code-question1.md
+	- loops-code-question10.md
+	- loops-code-question11.md
+	- loops-code-question12.md
+	- loops-code-question13.md
+	- loops-code-question14.md
+	- loops-code-question2.md
+	- loops-code-question3.md
+	- loops-code-question4.md
+	- loops-code-question5.md
+	- loops-code-question6.md
+	- loops-code-question7.md
+	- loops-code-question8.md
+	- loops-code-question9.md
+- how-to-begin.md
+- indentation.md
+- operators.md
+- basics-booleans.md
+- more-booleans.md
