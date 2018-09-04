@@ -80,9 +80,7 @@ completionMethod: manual
 - button
 - camera
 - campus
-- cancer
 - carbon
-- career
 - center
 - chance
 - change
