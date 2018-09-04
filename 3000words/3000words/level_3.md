@@ -27,7 +27,6 @@ completionMethod: manual
 - almost
 - always
 - amount
-- animal
 - annual
 - answer
 - anyone
