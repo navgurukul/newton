@@ -4,6 +4,7 @@ src/configurations/config.local.json
 .DS_Store
 
 ### VisualStudioCode template
+.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
