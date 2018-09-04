@@ -1,8 +1,8 @@
 ```ngMeta
-name: List of 250 Words
+name: List of 1000 Words
 completionMethod: manual
 ```
 
-# List of 250 Words
+# List of 1000 Words
 
 Ab yeh tumhara dharam, yeh tumhara karam hai!
