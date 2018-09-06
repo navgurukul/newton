@@ -1,4 +1,3 @@
-- 3-feedback.md
 - introduction
 	- intro.md
 	- how-to-use.md
@@ -16,3 +15,4 @@
 	- email.md
 	- mental-health.md
 	- introspections.md
+- feedback
