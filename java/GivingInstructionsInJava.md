@@ -5,28 +5,28 @@ completionMethod: manual
 
 Iss lesson mein hum Computer ko ek simple instruction denge aur Java language ke through instruction dena seekhenge.
 
-Hume Java language ke through computer ko "This game challenges your gender bias" print karwana hai.
+Hume Java language ke through computer ko "Hello World!" print karwana hai.
 
-Koi sa bhi editor (like gedit) kholiye aur usme ye likhiye:
-*Apne file ko javaPrograms naam ke folder mein save kijiye. File ka naam ProjectGame.java rakh sakte hain*
+Koi sa bhi editor (like gedit ya atom) kholiye aur usme ye likhiye:
+*Apne file ko javaPrograms naam ke folder mein save kijiye. File ka naam HelloWorld.java rakh sakte hain*
 
-**javaPrograms/ProjectGame.java**
+**javaPrograms/HelloWorld.java**
 ```java
-System.out.println("This game challenges your gender bias");
+System.out.println("Hello World!");
 ```
 
-Ye statement java language mein computer ko instruction de raha hai ki wo screen par "This game challenges your gender bias" print kare.
+Ye statement java language mein computer ko instruction de raha hai ki wo screen par "Hello World!" print kare.
 
 Aap (" ") ke andar koi aur bhi text daal sakte hain.
 
 
 Lekin abhi Java upar diya hua instruction follow nahi karega. Uske liye humein kuch aur cheezen add karni parengi.
 
-**javaPrograms/ProjectGame.java**
+**javaPrograms/HelloWorld.java**
 ```java
-public class ProjectGame {
+public class HelloWorld {
   public static void main(String[] args){
-    System.out.println("This game challenges your gender bias");
+    System.out.println("Hello World!");
   }
 }
 ``` 
