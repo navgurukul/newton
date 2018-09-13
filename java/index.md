@@ -1,9 +1,9 @@
 - WhatDoComputersDo.md
 - WhatIsProgramming.md
-- ProjectProblem.md
 - SettingUpJavaEnvironment.md
-- BreakingTheProblem.md
 - GivingInstructionsInJava.md
+<!-- - ProjectProblem.md
+- BreakingTheProblem.md
 - StorageAndMemory.md
 - DecisionMaking.md
 - ArraysInJava.md
@@ -15,4 +15,4 @@
 - DataStructures.md
 - BreakingItAgain.md
 - BringingItAllTogether.md
-- DebuggingCode.md
+- DebuggingCode.md -->
