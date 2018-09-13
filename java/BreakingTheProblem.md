@@ -51,8 +51,3 @@ Aage jakar agar hume upar diye hue problems bhi complex lag rahe hain toh hum un
     - Problem ko clearly define kijiye
     - Problem ko simple chote-chote problems mein break kijiye
     - Problem ko solve karne ke liye correct steps sochiye
-
-
-
-
-

@@ -11,7 +11,6 @@ Insaan bhari cheezon ko lambe distance tak carry nahi kar sakta tha. Ye uski phy
 WHEEL invent hone se insaan bhari se bhari cheezon ko lambe distance tak carry karne lag gaye.
 Wheel invent hone se humari bahut kam door tak hi pahunch paane ki physical limitation door ho gayi - isse humari bahut saari problems solve ho gayi. Puri duniya humare pahunchh mein aa gayi. Ab Hum logon se dur dur ja kar mil sakte hain, ek jagah pe produce kiya hua saaman doosri jagah bech sakte hain etc.
 
-
 Ek doosra invention jisne human history mein bahut bada role play kiya, wo hai - COMPUTER
 
 Jis tarah se Wheels ne humari physical limitations ko mitaya - usi tarah computers ne hamari mental limitations ko expand kiya.
