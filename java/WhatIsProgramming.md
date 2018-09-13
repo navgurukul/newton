@@ -27,7 +27,4 @@ Hum JAVA language use karke computer ko instructions denge.
 
 **Assignment**
 - Kya aap kabhi doosre ko ya doosre se instructions lete hain? Kya hum usey __program__ keh sakte hain?
-
-- "Compilers" ke baare mein thoda sa search kijiye (15-20 mins). Simple language mein compilers kya hote hain?
-
 - "Java" language aur uske applications ke baare mein search kijiye? Duniya mein Kitne log Java language use karte hain?
