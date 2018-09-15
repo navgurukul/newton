@@ -3,8 +3,6 @@ name: Variables
 completionMethod: manual
 ```
 
-**Note: Inn saare code examples ko jab tak aap chala ke nahi dekhoge, tab tak aapko sahi se samajh nahi aayega.**
-
 ## Variables kya hote hain?
 
 Jo badal sakta hai usse VARIABLE kehte hai. **VARIABLE** ka aap kuch bhi naam rakh sakte hai, and usmei kuch bhi store kar sakte hai.
