@@ -6,6 +6,7 @@
 	- constants-question3.md
 - variables
 	- variables-intro.md
+	- variables-dry-run.md
 	- variables-question.md
 	- variables-naming-rules.md
 	- variables-naming-question1.md
