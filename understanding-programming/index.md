@@ -1,3 +1,0 @@
-- howtouse.md
-- variables.md
-- if-else.md
