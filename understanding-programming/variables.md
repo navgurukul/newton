@@ -3,10 +3,28 @@ name: Understanding Layouts
 completionMethod: manual
 ```
 
-### Iss layout mei 3 cards hai. Pehle inn cards ko ek Android mei XML layout use kar kar banao.
+### HUmein inn programs ka dry run karna hai:
 
-![Layout 1](images/layout1_3cards.png) 
+<!-- Dry run kaise karte hai iske liye yeh video dekho. -->
 
-### Kisi bhi card par click karne par yeh wala layout open hoga.
+```python
+a = 1
+b = 2
+b = a
+```
 
-![Layout 2](images/layout1_second_view.png) 
+```python
+a = 1
+b = 2
+c = b
+b = a 
+a = c
+```
+
+```python
+a = 1
+b = 2
+c = b
+b = a 
+a = c
+```
