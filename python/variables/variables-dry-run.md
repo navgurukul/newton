@@ -31,3 +31,20 @@ b = a*2
 c = b*2
 a = c*2
 ```
+
+```python
+a = 100
+a = a + 50
+a = a / 3
+a = a * 2
+```
+
+```python
+a = 10
+b = 10
+c = a * b
+a = c - b
+b = c + a
+c = a * c
+```
+

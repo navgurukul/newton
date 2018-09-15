@@ -1,3 +1,5 @@
+- WhatDoComputersDo.md
+- WhatIsProgramming.md
 - how-to-begin.md
 - constants
 	- constants-intro.md
