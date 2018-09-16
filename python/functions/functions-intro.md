@@ -5,19 +5,15 @@ completionMethod: manual
 
 # Basics of Functions
 
-Lightbot ke 2-2 level ko yaad karo. Yahan humne baar baar hone wala kaam - Aage, Left mudna, Aage, Right Mudna PROC1 mein daala hai. Aur P1 ka use kar ke MAIN mein iss kaam ko 4 baar kara hai.
-
-![Lightbot Level 2](assets/16-lightbot-level2.png)
-
 Aise hi python mein hum functions ka use kar ke hum ek baar kuch code likh ke usko bahot baar use kar sakte hain. Isse humara kaam bahot aasan ho jata hai.
-
-**Exercise: Lightbot mein firse 2nd Stage ke sare level khel kar socho functions kahan use kare aur kaise functions yahan aapki help kar rahe hain. [Lighhtbot ka link](https://lightbot.com/hocflash.html)**
 
 ```python
 print “NavGurukul”
+
 def say_hello():
     print “Hello!”
     print “Aap kaise ho?”
+
 say_hello()
 print “Python is awesome”
 say_hello()
@@ -43,7 +39,7 @@ Dhayn se dekho ki code mein jahan bhi `say_hello()` likha hai, wahan `Hello!` au
 
 # Introduction to Functions
 
-Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain.Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
+Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain. Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
 
 ```python
 names_list = [“Fiza”, “Shivam”, “Imtiyaz”, “Deepanshu”, “Rahman”]
@@ -58,8 +54,11 @@ Hum ek function likhenge. Iss code ko pehle chala ke dekho, aur fir neeche padiy
 def function_say_hello():
     print "Hello"
     print "Main function ke andar se print ho raha hun."
+
 function_say_hello()
+
 print "NavGurukul delhi mein hai."
+
 function_say_hello()
 ```
 
