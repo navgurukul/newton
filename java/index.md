@@ -2,5 +2,5 @@
 - WhatIsProgramming.md
 - SettingUpJavaEnvironment.md
 - GivingInstructionsInJava.md
-- What is Java
+- What is java
 	- java_kya_hai.md
