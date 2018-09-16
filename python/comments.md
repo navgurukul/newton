@@ -1,5 +1,5 @@
 ```ngMeta
-name: Kaise shuru karein?
+name: Comments Likhne Seekhe
 completionMethod: manual
 ```
 
