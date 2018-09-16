@@ -1,5 +1,5 @@
 ```ngMeta
-name: Java Kya Hai
+name: What is Java?
 completionMethod: manual
 ```
 
