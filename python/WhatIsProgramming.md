@@ -5,7 +5,7 @@ completionMethod: manual
 
 Aapne dekha ki hum computers ko **instructions** de kar, unke through complex problems solve kar sakte hain.
 
-Computers ko diye gaye __instrunctions__ ko hum **program** kehte hain.
+Computers ko diye gaye __instructions__ ko hum **program** kehte hain.
 Computers ko instructions dene ke process ko hum **programming** kehte hain.
 
 Sunne mein kitna simple lagta hai. Hum computers ko instructions(program) dete hain - aur computer instructions(program) ko follow karke complex problems ko solve karta hai.
