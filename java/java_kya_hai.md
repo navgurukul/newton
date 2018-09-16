@@ -8,8 +8,3 @@ Java is a programming language that produces software for multiple platforms. Wh
 
 *EXTRA TRIVIA* (Ye nahi bhi yaad ho toh bhi chalega)
 - Java was developed in the mid-1990s by James A. Gosling, a former computer scientist with Sun Microsystems
-```html
-<img src="all_charts/abc.png"
-     alt="Markdown Monster icon"
-     width = "30px" height = "30px" />d
-```
