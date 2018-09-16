@@ -6,6 +6,7 @@
 	- constants-question1.md
 	- constants-question2.md
 	- constants-question3.md
+- comments.md
 - variables
 	- variables-intro.md
 	- variables-dry-run.md
