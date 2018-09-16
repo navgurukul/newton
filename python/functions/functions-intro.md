@@ -65,10 +65,15 @@ definition_say_hello()
 Ek aur example FUNCTIONS samajhne ke liye. Iss code ko padh ke output socho. Chala ke dekhne ke baad dhyan se padho.
 
 1. Shuruat mein `def` ka use kar ke hum python ko bata rahe ki humne ek `definition_say_hello` naam ka function likha hai.
+![](assets/function_defn_inst_1.png)
 2. Iss function ka code (do print karne ki lines) kuch indent (space) deke `def definition_say_hello()` ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.
+![](assets/function_defn_inst_2.png)
 3. Fir agli line, `definition_say_hello()` mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko **FUNCTION CALL** karna kehte hain.
+![](assets/function_defn_inst_3.png)
 4. Iske baad print statement use kar ke humne ek string print kiya hai.
+![](assets/function_defn_inst_4.png)
 5. Aakhir mein humne firse `definition_say_hello()` likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - *2 print* command chal jati hai.
+![](assets/function_defn_inst_5.png)
 6. Yahan yeh dekho ki kaise `NavGurukul delhi mein hai` ke upar aur neeche `definition_say_hello()` ke andar wali print command ki values print hue hain.
 
 ```python
@@ -93,7 +98,7 @@ function_say_bye()
 Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya nahi. Nahi aa raha toh kyun nahi aa rahi?
 
 ```python
-def definitionello_again():
+def definition_hello_again():
     print "Firse Hello :)"
     print "Aap kaise ho?"
 ```
@@ -101,9 +106,9 @@ def definitionello_again():
 Ab apne code mein yeh line add karein aur dekhein ki koi output aati hai.
 
 ```python
-definitionello_again()
+definition_hello_again()
 ```
 
 Python mein sirf function likh dene se function ka code chalta nahi hai. Yahan pehle humne def keyword ka use karke python ko function ka code bataya. Isko **"FUNCTION DEFINITION"** kehte hain.
 
-Fir humne baad mein `definitionello_again()` likh ke function ko bulaya aur usme likha hua code chalwaya. Isko **"FUNCTION CALL"** karna kehte hain. **"FUNCTION CALL"** mein hum function ke naam ke baad 2 bracket `(` `)` lagate hain. Isse python ko pata chalta hai ki function ke andar ka code chalana hai.
+Fir humne baad mein `definition_hello_again()` likh ke function ko bulaya aur usme likha hua code chalwaya. Isko **"FUNCTION CALL"** karna kehte hain. **"FUNCTION CALL"** mein hum function ke naam ke baad 2 bracket `(` `)` lagate hain. Isse python ko pata chalta hai ki function ke andar ka code chalana hai.
