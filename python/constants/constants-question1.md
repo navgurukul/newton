@@ -1,5 +1,5 @@
 ```ngMeta
-name: Constants Exercise 1
+name: Strings - Constants
 completionMethod: peer
 ```
 
