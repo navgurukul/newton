@@ -1,9 +1,9 @@
 ```ngMeta
-name: Java Kya Hai
+name: Introduction
 completionMethod: manual
 ```
 
-What is Java?
+<h2>What is Java?</h2></br>
 Java is a programming language that produces software for multiple platforms. When a programmer writes a Java application, the compiled code (known as bytecode) runs on most operating systems (OS), including Windows, Linux and Mac OS. Java derives much of its syntax from the C and C++ programming languages.
 
 *EXTRA TRIVIA* (Ye nahi bhi yaad ho toh bhi chalega)
