@@ -22,6 +22,6 @@ completionMethod: peer
 
 ## Question Part 3
 
-1. variable aur constants mei kya pharak hota hai, apna answer comment mei likhe.
+1. variable aur constants mei kya pharak hota hai, yeh kisi se discuss kar kar ensure karein aap ko yeh acche se samajh hai.
 
 Iss question ke saare parts ka code ek hi python file mein likh ke upload kariye.
