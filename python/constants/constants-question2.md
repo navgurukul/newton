@@ -1,8 +1,8 @@
 ```ngMeta
-name: Constants Exercise 2
-completionMethod: peer
+name: Integers - Constants
+completionMethod: automatic
 ```
 
 ## Question
 
-Kuch FLOATS ko print karein, aapko jo man karein aap woh FLOATS print kar sakte hai
+Kuch INTEGERS ko print karein, aapko jo man karein aap woh INTEGERS print kar sakte hai.
