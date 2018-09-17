@@ -2,5 +2,7 @@
 - variables-dry-run.md
 - variables-operators-precedence.md
 - if-else-dry-run.md
-- loops-dry-run.md
+- while-loop.md
+- lists.md
+- for-loop.md
 - functions-dry-run.md
