@@ -18,6 +18,17 @@ print("The end")
 ```
 
 ```python
+var = 10
+while var > 0:              
+   print 'Current variable value :', var
+   var = var - 1
+   if var == 5:
+      break
+
+print "Good bye!"
+```
+
+```python
 num = 407
 
 i = 2
