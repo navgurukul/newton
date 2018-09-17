@@ -3,6 +3,20 @@ name: Using Breaks
 completionMethod: manual
 ```
 
+![How Break Statements Work!](assets/how-break-statement-works_1.jpg)
+Agar aap yeh diagram dekhoge toh aap samjhoge, ki `break` command se hum jiss bhi loop ke andar aapne woh command likhi hai, uss loop se immediately bahar nikal jaate hai.
+
+Ab iss idea ko use karte hue in example codes ka `dry run` karein.
+
+```python
+for val in "string":
+    if val == "i":
+        break
+    print(val)
+
+print("The end")
+```
+
 ```python
 num = 407
 
