@@ -74,13 +74,13 @@ note500 = amount/500
 amount = amount%500
 
 note100= amount/100
-amount = amount/100
+amount = amount%100
 
 note50 = amount/50
 amount = amount%50
 
 note10 = amount/10
-amount = amount/10
+amount = amount%10
 
 note5 = amount/5
 amount = amount%5
@@ -92,7 +92,12 @@ note1 = amount/1
 amount = amount%1
 
 print note2000, note500, note100, note50, note10, note5, note2, note1
+
+new_amount = note2000 + note500 + note100 + note50 + note10 + note5 + note2 + note1
+print new_amount
+print amount
 ```
+**new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye**
 
 ```python
 seconds = 3760
