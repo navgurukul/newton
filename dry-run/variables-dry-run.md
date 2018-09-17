@@ -49,11 +49,3 @@ a = c - b
 b = c + a
 c = a * c
 ```
-
-```python
-a = 100
-a = a*2
-a = a/4
-a = a + 3 * a
-a = a - a / 4
-```
