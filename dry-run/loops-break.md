@@ -60,3 +60,15 @@ for i in range(5): #loop1
     print ''
 ```
 Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
+Apne likhe hue naye program ka bhi `dry run` karein.
+
+```python
+for a in range(6):
+    for b in range(6):
+        if (a == b):
+            break
+        print '*',
+    print ''
+```
+Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
+Apne likhe hue naye program ka bhi `dry run` karein.
