@@ -49,3 +49,60 @@ a = c - b
 b = c + a
 c = a * c
 ```
+
+```python
+seconds = 30
+
+days = seconds/60*60*24
+seconds = seconds%(60*60*24)
+
+hours = seconds/60*60
+seconds =seconds/(60*60)
+
+minute = seconds/60
+seconds = seconds/60
+
+print days, hours, minute, seconds
+```
+
+```python
+amount = 8712
+note2000 = amount/2000
+amount = amount%2000
+
+note500 = amount/500
+amount = amount%500
+
+note100= amount/100
+amount = amount/100
+
+note50 = amount/50
+amount = amount%50
+
+note10 = amount/10
+amount = amount/10
+
+note5 = amount/5
+amount = amount%5
+
+note2 = amount/2
+amount = amount%2
+
+note1 = amount/1
+amount = amount%1
+
+print note2000, note500, note100, note50, note10, note5, note2, note1
+```
+
+```python
+seconds = 3760
+
+days = seconds/(60*60*24)
+seconds = seconds%(60*60*24)
+
+minute = seconds%60
+
+hours = minutes/60
+
+print days, hours, minute, seconds
+```
