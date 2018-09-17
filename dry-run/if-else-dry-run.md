@@ -5,7 +5,7 @@ completionMethod: manual
 
 ```python
 x = 12
-x = 17
+y = 17
 
 if x>y:
     print True
