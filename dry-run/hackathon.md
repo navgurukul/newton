@@ -21,10 +21,7 @@ Aapko hackathons mei 30 problems solve karni hai, saath saaath, aapko at least 5
 
 **Solution video**, ek aisi video hoti hai, jo har ek problem statement ke liye banayi jaati hai, jisse dekh kar koi aur reader samajh sakta hai ki uss question ko kaise solve kiya jaata hai. Aapko inn videos mei detail mei dry run karna hoga, aur acche se samjhana hoga ki aapne jo kiya hai woh kyu kiya hai.
 
-Video record karne ke liye, hum yeh **stand** use karenge. 
 
-<p align="center">
 
 ![Mobile Video Recorder](assets/mobile-stand-record-video.jpg)
-
-</p>
+<p align="center">Video record karne ke liye, hum yeh **stand** use karenge.</p>
