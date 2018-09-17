@@ -20,3 +20,7 @@ Dhyaan rakhein ki - __galat program ka bhi dry run kiya jaa sakta hai__. Jaise h
 Aapko hackathons mei 30 problems solve karni hai, saath saaath, aapko at least 5 videos each bhi create kar kar **youtube** par upload karni hai. Videos can explain dry run kya hota hai, ya phir kisi bhi problem ki **solution video** ho sakti hai.
 
 **Solution video**, ek aisi video hoti hai, jo har ek problem statement ke liye banayi jaati hai, jisse dekh kar koi aur reader samajh sakta hai ki uss question ko kaise solve kiya jaata hai. Aapko inn videos mei detail mei dry run karna hoga, aur acche se samjhana hoga ki aapne jo kiya hai woh kyu kiya hai.
+
+Video record karne ke liye, hum yeh **stand** use karenge. 
+
+![Mobile Video Recorder](assets/mobile-stand-record-video.jpeg)
