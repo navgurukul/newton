@@ -80,6 +80,28 @@ print h
 ```
 Yeh program kya karta hai? Kya aapne aise kisi cheez ki baarein mei school mei padha hai? Hints last mei diye hue hai.
 
+Neeche diye hue program mei, `print` ke baad `,` daalne se nayi line print nahi hoti. Aur `print ''` se new line print hoti hai.
+```python
+n=5
+for i in range(5) :
+    for j in range(5) :
+        if i==j:
+            print 0,
+        else:
+            print "x",
+    print ''
+```
+
+```python
+n=5
+for i in range(n) :
+    for j in range(n) :
+        if (i==j) or (i+j==n-1):
+            print 'x'
+        else:
+            print '0'
+    print ''
+```
 
 **Hints**
 - h - HCF nikalne ke liye hai.
