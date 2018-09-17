@@ -126,4 +126,4 @@ else:
     return("Invalid input! You have not entered rock, paper or scissors, try again.")
 ```
 
-u1 aur u2 ko different different values jaise "rock", "scissors", "paper", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
+u1 aur u2 ko different different values jaise "**rock**", "**scissors**", "**paper**", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
