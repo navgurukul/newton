@@ -24,4 +24,4 @@ Aapko hackathons mei 30 problems solve karni hai, saath saaath, aapko at least 5
 
 
 ![Mobile Video Recorder](assets/mobile-stand-record-video.jpg)
-<p align="center">Video record karne ke liye, hum yeh **stand** use karenge.</p>
+<p align="center">Video record karne ke liye, hum yeh <b>stand</b> use karenge.</p>
