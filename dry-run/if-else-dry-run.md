@@ -65,6 +65,11 @@ else:
   print "A"
 ```
 
+### Questions
+- Kya kabhi `marks <= 25 and marks>45` True ho sakta hai? Agar ho sakta hai, toh marks ki kaunsi value par?
+- Iss program ko marks ki values - `20, 24, 28, 30` ke liye **execute** karo. Dekho ki kaun kaun si conditions execute nahi ho payengi.
+- Kya aap iss program ko modify kar sakte hai, jisse ki hum sahi se student ko uske marks ke hisaab se usko grade de payein.
+
 ```python
 amount = 5500
 if amount<= 2000:
