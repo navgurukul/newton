@@ -86,6 +86,7 @@ a(example)
 print example 
 ```
 
+Yeh question karte waqt, aap uppar wale example ka dhyaan rakhiye.
 ```python
 def partition(lst, start, end):
     pos = start
