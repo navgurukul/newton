@@ -108,3 +108,5 @@ elif u1 == 'rock':
 else:
     return("Invalid input! You have not entered rock, paper or scissors, try again.")
 ```
+
+U1 aur U2 ko different different values jaise "rock", "scissors", "paper", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
