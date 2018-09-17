@@ -5,18 +5,22 @@ completionMethod: manual
 
 Iss exercise ko dry run karne ke liye, aapko operators ka order samajhna hoga. Jab bahut saare operators hote hai toh yeh order hota hai python mei importance ka.
 
-1. Brackets (), [], {}
+1. Brackets `(), [], {}`
    - () - () round brackets mei jo likha hota hai woh sabse pehle execute hota hai. Yeh **functions** aur **expressions** mei use hote hai, jo aage describe kiye jayenge.
    - [] - Yeh **List** mei use karenge (aage explain kiya jayega)
    - {} - Yeh **Dictionaries** mei use karenge (aage explain kiya jayega)
 2. Exponentiation - ** - jaise 2\*\*3 = 8 ya 3\*\*2 = 9
-3. \*, /, %
-    Multiplication, Division or Remainder operator teeno ka same weight hai
-4. +, \-
+    Yaani `exponentiation` neeche diye gaye sab operators se jyada important hai. Computer pehle isko execute karega, neeche wale operators ko execute karne se pehle.
+3. `\*, /, %`
+    Multiplication, Division or Remainder operator teeno ka same weight hai. Yaani jab computer teeno ko same importance deta hai. Jaise 
+    left se right mei jaate hue, in teeno mei se pehle koi bhi operator dikhega, computer ussi operator ko use karega.
+    
+    Jab ki, agar yeh operator neeche diye hue operators ke baad bhi aayega, toh bhi inko jyada weight/preference/maanyta milegi, jiske vajah se pehle yeh operators execute, and phir neeche wale.
+4. `+, \-`
     Addition, Subtraction - inn dono ka same weight hai
-5. in, not in, is, is not, <, <=, >, >=, <>, !=, ==
-    - <, <=, >, >=, <>, !=, == : comparison operators
-    - in, not in : operators to test ki koi element list mei hai ya nahi
+5. `in, not in, is, is not, <, <=, >, >=, <>, !=, ==`
+    - `<, <=, >, >=, <>, !=, ==` : comparison operators
+    - `in`, `not in` : yeh operator yeh check karne ke liye kaam aate hai ki koi element list mei hai ya nahi. jaise 3 in [1,2,3] dekhta hai, ki `3 element`, `[1,2,3]` list mei hai ya nahi
 6. not
 7. and
 8. or
