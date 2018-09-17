@@ -70,6 +70,22 @@ print is_present_in_list(35, [23, 43, 87, 98, 35, 64, 18, 10, 80])
 print is_present_in_list(36, [23, 43, 87, 98, 35, 64, 18, 10, 80])
 ```
 
+Jab Hum ek list ko as an argument pass karte hai, toh woh list copy ho kar nahi jaati, balki bas uska ek `reference` jaata hai. Iska matlab, jub hum uss function mei jaha par woh list bheji hai, ussmei jo hamari main item thi, wohi modify karte hai.
+
+Jaise iss program mei, jab hum `a(example)` call karenge, toh jo `def a` mei changes honge, woh example variable ke andar ho jayenge. Jba hum `example` ko `print` karenge, toh `example` updated hoga.
+
+```python
+def a(l):
+    al = len(l)
+    for ( i in range()/2 ):
+        l[i] = a[al-i]
+
+
+example = [3,45,1,2,34]
+a(example)
+print example 
+```
+
 ```python
 def partition(lst, start, end):
     pos = start
@@ -86,9 +102,6 @@ def quick_sort_recursive(lst, start, end):
         pos = partition(lst, start, end)
         quick_sort_recursive(lst, start, pos - 1)
         quick_sort_recursive(lst, pos + 1, end)
-                                          # you don't need to return the list
-                                          # it's modified in place
-Example:
 
 example = [3,45,1,2,34]
 quick_sort_recursive(example, 0, len(example) - 1)
