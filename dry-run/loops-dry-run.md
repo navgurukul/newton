@@ -80,5 +80,6 @@ print h
 ```
 Yeh program kya karta hai? Kya aapne aise kisi cheez ki baarein mei school mei padha hai? Hints last mei diye hue hai.
 
+
 **Hints**
 - h - HCF nikalne ke liye hai.
