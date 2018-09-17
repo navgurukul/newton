@@ -45,6 +45,16 @@ print fib_series(8)
 ```
 
 ```python
+def hcf(a,b):
+    if(b==0):
+        return a
+    else:
+        return hcf(b,a%b)
+
+print hcf(120, 100)
+```
+
+```python
 def is_present_in_list(number_to_search, list_to_search):
     length_of_list = len(list_to_search)
 
