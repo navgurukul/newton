@@ -17,3 +17,16 @@ else:
   		print fac
 ```
 Alag alag `number` ki values ke saath iss program ko `dry run` kar kar samjhein ki kaise `while` loop kaam karta hai.
+
+
+```python
+n = 6
+s = 0
+i = 1
+
+while i <= n:
+    s = s + i
+    i = i + 1
+
+print s
+```
