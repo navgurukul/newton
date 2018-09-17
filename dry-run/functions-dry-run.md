@@ -3,6 +3,32 @@ name: Functions - Dry Run
 completionMethod: manual
 ```
 
+<!--
+Functions ka dry run aise kiya jaata hai. 
+Issi tareeke se aap ko saare programs ka dry run karna hai. 
+-->
+
+```python
+def a():
+    b() + c()
+
+def b():
+    return 3
+
+def c():
+    return 7 * b()
+
+print a()
+```
+
+```python
+n = 10
+def a(n):
+    return n+2
+
+print a(4)
+```
+
 ```python
 def sum1(n):
     if (n==0):
