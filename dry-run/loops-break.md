@@ -45,3 +45,18 @@ print prime
 if not prime:
     print first_divisor
 ```
+
+### Jab `nested loops` hote hai, toh `break` command se hum uss loop se bahar aate hai, jo immediately pehla loop hota hai jiske `andar` break likha hota hai.
+
+Jaise neeche diye hue program mei `break` statement sirf loop2 se bahar nikalega.
+
+```python
+for i in range(5): #loop1
+    for j in range(10): #loop2
+        if (j > 3): 
+            break 
+        else:
+            print "*", 
+    print ''
+```
+Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
