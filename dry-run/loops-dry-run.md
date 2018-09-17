@@ -43,3 +43,12 @@ print sum
 
 Alag alag `n` ki values ke saath iss program ko `dry run` kar kar samjhein ki `range` aur `for` loop kaise kaam karta hai.
 
+```python
+string = "she sells sea shells"
+count = 0
+for i in string:
+	if i != s:
+		count+=1
+print s
+```
+Yeh program kya karta hai, yeh samjhiye. Aapko bhi aise code likhna seekhna hai.
