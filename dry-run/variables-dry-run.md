@@ -57,12 +57,3 @@ a = a/4
 a = a + 3 * a
 a = a - a / 4
 ```
-
-*USE BDMAS - YAANI pehle Brackets ke liye solve karein, phir Division ke liye, phir Multiplication ke liye, phir Addition aur phir Subtraction*
-```python
-a = (4 + 5) / 3
-a = a * 8 / 4
-a = a / 2 * 10
-a = a + 2 * 10
-a = a + 2 * 10 - 5
-```
