@@ -20,3 +20,10 @@ for val in "string":
 
 print("The end")
 ```
+
+```python
+for x in range(7):
+    if (x == 3 or x==5):
+        continue
+    print(x)
+```
