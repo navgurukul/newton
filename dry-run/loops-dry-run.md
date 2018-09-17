@@ -103,5 +103,13 @@ for i in range(n) :
     print ''
 ```
 
+```python
+n = 4
+for i in range(4):
+    for j in range(i):
+        print 'x',
+    print ''
+```
+
 **Hints**
 - h - HCF nikalne ke liye hai.
