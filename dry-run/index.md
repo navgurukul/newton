@@ -3,6 +3,7 @@
 - variables-operators-precedence.md
 - if-else-dry-run.md
 - while-loop.md
+- loops-break.md
 - lists.md
 - for-loop.md
 - functions-dry-run.md
