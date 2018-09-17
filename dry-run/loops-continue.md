@@ -3,7 +3,7 @@ name: Using Continue
 completionMethod: manual
 ```
 
-![How Continue Statements Work!](assets/how-continuebreak-statement-works_1.jpg)
+![How Continue Statements Work!](assets/how-continue-statement-works.jpg)
 Agar aap yeh diagram dekhoge toh aap samjhoge, ki `continue` command se hum loop mei
 - jo bhi `continue` ke baad code hai uss loop mei, woh `execute` nahi hota
 - loop ki starting mei `control flow` pahuch jaata hai
