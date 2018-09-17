@@ -37,8 +37,6 @@ print fib(6)
 def fib_series(n):
     if (n==1):
         return [1, 1]
-    elif (n==2):
-        return [2, 1]
     else:
         series = fib_series(n-1)
         return [series[0] + series[1]] + series
