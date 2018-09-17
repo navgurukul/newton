@@ -1,68 +1,22 @@
 ```ngMeta
-name: Dry Run of Variables
+name: Hackathon - Dry Run
 completionMethod: manual
 ```
 
-## Humein inn programs ka dry run karna hai:
-### Kaise Use Karein
-Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
+## Hackathon
+### Dry Run on a Dry Day
 
-Jab aap ko confidence ho ki aap ka solution theek hai, tab aap kisi senior se solution verify kara kar aage badh sakte hai.
+Iss hackathon mei hum log *dry run* kar kar, hum *computer* ki tarah sochna seekhenge.
 
-Yeh bahut important hai ki yeh course aap bahut dhyaan se karein, kyuki programming ke basics iss course mei develop ho jayenge.
+<!-- Dry Run kaise karte hai, aap yeh video dekh kar sikein. -->
 
-<!-- TODO : Dry run kaise karte hai iske liye yeh video dekho. -->
+Dry Run karne ke liye aap sab log ek doosre ki help lenge. Aap mei se kuch logo ko accha se karna aata hai, kuch ko kam acche se.
 
-```python
-a = 1
-b = 2
-b = a
-```
+Dry Run bahut *dheere dheere* karna hoga, jisse koi galti nahi hogi. Kuch programs *galat* honge toh aap ko yeh dekhna hoga, ki woh kaha par galat hai.
 
-```python
-a = 1
-b = 2
-c = b
-b = a 
-a = c
-```
+Dhyaan rakhein ki - __galat program ka bhi dry run kiya jaa sakta hai__. Jaise hum agar *galat code* likhte hai, phir bhi computer usse samajh kar error throw karta hai, waise bhi unn cases mei humein woh *error throw* karni padegi aur batana hoga, ki woh program galat hai.
 
-```python
-a = 1
-b = a*2
-c = b*2
-a = c*2
-```
+### Ek Twist
+Aapko hackathons mei 30 problems solve karni hai, saath saaath, aapko at least 5 videos each bhi create kar kar *youtube* par upload karni hai. Videos can explain dry run kya hota hai, ya phir kisi bhi problem ki *solution video* ho sakti hai.
 
-```python
-a = 100
-a = a + 50
-a = a / 3
-a = a * 2
-```
-
-```python
-a = 10
-b = 10
-c = a * b
-a = c - b
-b = c + a
-c = a * c
-```
-
-```python
-a = 100
-a = a*2
-a = a/4
-a = a + 3 * a
-a = a - a / 4
-```
-
-*USE BDMAS - YAANI pehle Brackets ke liye solve karein, phir Division ke liye, phir Multiplication ke liye, phir Addition aur phir Subtraction*
-```python
-a = (4 + 5) / 3
-a = a * 8 / 4
-a = a / 2 * 10
-a = a + 2 * 10
-a = a + 2 * 10 - 5
-```
+*Solution video*, ek aisi video hoti hai, jo har ek problem statement ke liye banayi jaati hai, jisse dekh kar koi aur reader samajh sakta hai ki uss question ko kaise solve kiya jaata hai. Aapko inn videos mei detail mei dry run karna hoga, aur acche se samjhana hoga ki aapne jo kiya hai woh kyu kiya hai.
