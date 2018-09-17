@@ -52,3 +52,33 @@ for i in string:
 print s
 ```
 Yeh program kya karta hai, yeh samjhiye. Aapko bhi aise code likhna seekhna hai.
+
+```python
+a = [2,3,4,5,5,3,2,2]
+b=[]
+for i in a:
+	if i not in b:
+		b.append(i)
+
+print b
+```
+Yeh program kya karta hai, yeh samjhiye. Aapko bhi aise code likhna seekhna hai.
+
+```python
+x = 100
+y = 120
+if x > y:
+    smaller = y
+else:
+    smaller = x
+
+for i in range(1, smaller+1):
+    if ( (x % i == 0) and (y % i == 0) ):
+        h = i
+
+print h
+```
+Yeh program kya karta hai? Kya aapne aise kisi cheez ki baarein mei school mei padha hai? Hints last mei diye hue hai.
+
+**Hints**
+- h - HCF nikalne ke liye hai.

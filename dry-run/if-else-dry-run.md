@@ -12,6 +12,23 @@ if x>y:
 print False
 ```
 
+```python
+x = 10
+y = 5
+if x > y:
+    smaller = y
+else:
+    smaller = x
+```
+
+```python
+x = 10
+y = 5
+smaller = x
+if x > y:
+    smaller = y
+```
+Kya yeh dono program same hai ya alag? Kyu same hai? Thoda socho.
 
 ```python
 x = 34
