@@ -1,4 +1,5 @@
 - hackathon.md
 - variables-dry-run.md
 - variables-operators-precedence.md
+- if-else-dry-run.md
 - functions-dry-run.md
