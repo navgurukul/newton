@@ -23,7 +23,7 @@ Alag alag `n` ki values ke saath iss program ko `dry run` kar kar samjhein ki `r
 n = 5
 sum = 0
 for x in range(n):
-    if n % x == 0:
+    if n % (x+1) == 0:
         sum += x
 print sum
 ```
