@@ -64,3 +64,23 @@ else:
     print ("Paid Amount: ", amount-discount)
 ```
 Aap alag alag amounts ke liye yeh code run kar kar dekh sakte hai, better practice ke liye.
+
+
+```python
+amount  35000
+transaction_type = "L"
+if transaction_type == "L":
+    if amount <= 25000:
+        discount = amount*.0
+        print Net Amount:", amount-discount
+    if amount <=57000:
+        discount = amount*.5
+        print Net Amount:", amount-discount
+else:
+    if amount <=100000:
+        discount = amount*.075
+        print Net Amount:", amount-discount
+    If amount >= 100000:
+        discount = amount*.10
+        print Net Amount:", amount-discount
+```
