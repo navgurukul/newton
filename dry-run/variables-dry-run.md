@@ -20,11 +20,11 @@ b = a
 ```
 
 ```python
- a = 1
- b = 2
- c = b
- b = a 
- a = c
+a = 1
+b = 2
+c = b
+b = a 
+a = c
 ```
 
 ```python
