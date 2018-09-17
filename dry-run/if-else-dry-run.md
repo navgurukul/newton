@@ -1,5 +1,5 @@
 ```ngMeta
-name: If Else - dry run
+name: If Else - Dry Run
 completionMethod: manual
 ```
 
