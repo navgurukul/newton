@@ -111,24 +111,24 @@ else:
 u1 = "rock"
 u2 = "paper"
 if u1==u2:
-       return("It's a tie!")
+       print "It's a tie!"
 elif u1 == 'scissors':
     if u2 ==’rock’:
-        return("Rock wins!")
+        print "Rock wins!"
     else:
-        return("Paper wins!")
+        print "Paper wins!"
 elif u1 == 'paper':
     if u2 == 'scissors':
-        return("Scissors win!")
+        print "Scissors win!"
     else:
-        return("Rock wins!")
+        print "Rock wins!"
 elif u1 == 'rock':
     if u2 == 'paper':
-        return("Paper wins!")
+        print "Paper wins!"
     else:
-        return("Scissors win!")
+        print "Scissors win!"
 else:
-    return("Invalid input! You have not entered rock, paper or scissors, try again.")
+    print "Invalid input! You have not entered rock, paper or scissors, try again."
 ```
 
 u1 aur u2 ko different different values jaise "**rock**", "**scissors**", "**paper**", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
