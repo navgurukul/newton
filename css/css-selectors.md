@@ -8,7 +8,8 @@ completionMethod: peer
 CSS Selectors ke bare mei padne ke liye neeche diye links ka use kare:
 
 - [W3-school](http://www.w3schools.com/css/css_syntax.asp)
-- @[youtube](WrImGwPqy9Y)
+
+@[youtube](WrImGwPqy9Y)
 
 Ab apni style.css ke contents (andar jo bhi likha) hai usse hata do. CSS ke rules iss tarah add karo ki aapka webpage kuch [iss](https://abhishekgupta92.github.io/equality3) tarah se dikhai dena chahiye.
 

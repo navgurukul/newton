@@ -16,7 +16,9 @@ Appko pehle rock,paper ya scissors mei se chose karna hoga. Aur uske baad comput
 * To aap jeet jaoge kyunki "Rock" "Scissors" ko hara deta hai. ( Rule 3 )
 
 Aap iss game ke rules iss 
+
 @[youtube](d1ZduiNyvcM)
+
 se seekh sakte hai.
 
 Topics covered:
