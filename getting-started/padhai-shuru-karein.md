@@ -12,7 +12,10 @@ completionMethod: manual
 - Apne facilitator ko bol kar apni navgurukul.org wali email ID banwao. Uske baad uss se gmail.com par login karo.
 
 - Yeh video dekho - 
-@[youtube](opSNSVnTn68&). Iss video ko use karke Terminal use karna seekho. Iss Video ko dekh kar yeh exercise karo.
+
+@[youtube](opSNSVnTn68&)
+
+Iss video ko use karke Terminal use karna seekho. Iss Video ko dekh kar yeh exercise karo.
 
 ```bash
 	cd command use karke Desktop par jao
