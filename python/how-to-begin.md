@@ -5,7 +5,7 @@ completionMethod: manual
 
 # Iss course ko kaise use karein?
 
-Python kaise use karte hai, iss [**video**](https://www.youtube.com/watch?v=ccPrUbz1oto) ko dekh kar samjhe
+Python kaise use karte hai, iss @[youtube]@(ccPrUbz1oto) ko dekh kar samjhe
 
 Aage chal ke saare course mein har jagah alag alag tareeke se python ke code ke examples diye gaye hain. Inn examples ko aapko *python shell* mei chala kar dekhna padega. 
 
