@@ -1,5 +1,5 @@
 ```ngMeta
-name: Variables - Operators Precedence
+name: Variables - Boolean operators ki Understanding
 completionMethod: manual
 ```
 
