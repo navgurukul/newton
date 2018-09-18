@@ -9,5 +9,6 @@ completionMethod: manual
 
 - Teach them how to open Chrome Dev Tools. At the end they should see their console output in the chrome dev tools easily.
 
-- @[youtube](z-DeJIWWcLw)
+@[youtube](z-DeJIWWcLw)
+
 This video explains the concept of including JS into the page really really well.
