@@ -124,23 +124,41 @@ print example
 
 Yeh question karte waqt, aap uppar wale example ka dhyaan rakhiye.
 ```python
-def partition(lst, start, end):
-    pos = start
-    for i in range(start, end):
-        if lst[i] < lst[end]:
-            lst[i],lst[pos] = lst[pos],lst[i]
+def partition(l, s, e):
+    pos = s
+    for i in range(s, e):
+        if l[i] < l[e]:
+            l[i],l[pos] = l[pos],l[i]
             pos += 1
 
-    lst[pos],lst[end] = lst[end],lst[pos]
+    l[pos],l[e] = l[e],l[pos]
     return pos
 
-def quick_sort_recursive(lst, start, end):
-    if start < end:
-        pos = partition(lst, start, end)
-        quick_sort_recursive(lst, start, pos - 1)
-        quick_sort_recursive(lst, pos + 1, end)
+def so(l, s, e):
+    if s < e:
+        pos = partition(l, s, e)
+        so(l, s, pos - 1)
+        so(l, pos + 1, e)
 
 example = [3,45,1,2,34]
-quick_sort_recursive(example, 0, len(example) - 1)
+so(example, 0, len(example) - 1)
 print example
 ```
+
+```python
+def so(l):
+    for i in range(len(l)-1):
+        n = l[i]
+        if l[i+1] < n:
+            l[i] = l[i+1]
+            l[i+1] = n
+            so(l)
+    return l
+ 
+l = [64, 34, 25, 12, 22, 11, 90]
+so(l)
+ 
+print l
+```
+Yeh function kya karta hai? Kya aapne kuch interesting solution dekha iss algorithm mei?
+*HINT*: *Sorting*
