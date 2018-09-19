@@ -11,10 +11,7 @@ Variable ek memory location ke name hota hai jisme values; variable ko diya jata
 data_type_name variable_name;
 data_type_name variable_name1, variable_name2;
 ```
-```
-data_type_name variable_name; or <br>
-data_type_name variable_name1, variable_name2;
-```
+
 For example,
 ```java
   int a;
