@@ -6,3 +6,4 @@
 - SettingUpJavaEnvironment.md
 - GivingInstructionsInJava.md
 - JavaVariables.md
+- JavaDataTypes.md
