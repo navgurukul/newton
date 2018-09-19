@@ -6,8 +6,10 @@ completionMethod: manual
 Variable ek memory location ke name hota hai jisme values; variable ko diya jata hai aur wo uss location par store ho jata hai.
 
 <h2>Syntax for Variable Declaration</h2>
-`data_type_name variable_name; or
-data_type_name variable_name1, variable_name2;` <br>
+`
+data_type_name variable_name; or <br>
+data_type_name variable_name1, variable_name2;
+` <br>
  
 For example,
 ```java
