@@ -10,3 +10,4 @@
 - JavaOperator.md
 - ControllStatement
 	- JavaIfElse.md
+	- SwitchCase.md
