@@ -1,5 +1,5 @@
 ```ngMeta
-name: Java Loops
+name: Java for Loops
 completionMethod: manual
 ```
 `
@@ -44,5 +44,3 @@ public class WhileLoop{
 	}
 }
 ```
-
-<h5>do While Loop</h5>
