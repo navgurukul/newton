@@ -7,7 +7,7 @@ Variable ek memory location ke name hota hai jisme values; variable ko diya jata
 
 <h2>Syntax for Variable Declaration</h2>
 
-```ngMeta
+```
 data_type_name variable_name;
 data_type_name variable_name1, variable_name2;
 ```
@@ -20,7 +20,7 @@ For example,
 
 <h2>Syntax for Variable Definition</h2>
 
-```ngMeta
+```
 data_type variable_name = variable_value;
 ```
  <br>
