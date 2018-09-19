@@ -6,12 +6,20 @@ completionMethod: manual
 Variable ek memory location ke name hota hai jisme values; variable ko diya jata hai aur wo uss location par store ho jata hai.
 
 <h2>Syntax for Variable Declaration</h2>
+<<<<<<< HEAD
 
 ```ngMeta
 data_type_name variable_name;
 data_type_name variable_name1, variable_name2;
 ```
 <br>
+=======
+```
+data_type_name variable_name; or <br>
+data_type_name variable_name1, variable_name2;
+``` <br>
+ 
+>>>>>>> 50f88945b03b0052240fa8e949302e0e64f0ec95
 For example,
 ```java
   int a;
@@ -40,7 +48,7 @@ Java mein 3 type ke Variable hote hai<br>
 <h3>Local Variable</h3>
 Local Variable block, method aur constructor ke andar hota hai.
 Local Variable ka scope; local hota hai. Ye sirf method aur constructor ke andar visible hota hau.
-Aur jab Local Variable; method aur constructor ke bahar ho jata hai to tab wo distroy ho jata hai.
+Aur jab Local Variable; method aur constructor ke bahar ho jata hai to tab wo distroy ho jata hai.<br><br>
 
 Example,
 ```java
@@ -59,7 +67,7 @@ class Sample{
 
 <h3>Instance Variable</h3>
 Instance Variable; class ke andar hota hai aur method aur constructor ke bahar hota hai.
-Instance Variable non-static variable hota hai.
+Instance Variable non-static variable hota hai.<br><br>
 
 Eaxample,
 ```java
@@ -78,9 +86,9 @@ class Sample{
 <h3>Static Variable</h3>
 Static Variable ko hum Class Variable bhi khtai hai.
 Ye Instance Variable ke trah class ke andar aur method aur constructor ke bahar hota hai.
-'static' keyword ke sath inka use kiya jata hai
+'static' keyword ke sath inka use kiya jata hai.<br><br>
 
-Exampple,
+Example,
 ```java
 class Sample{
     static int a = 5;  //Static Variable
@@ -93,58 +101,3 @@ class Sample{
     }
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
