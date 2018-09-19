@@ -3,7 +3,7 @@ name: Operator
 completionMethod: manual
 ```
 
-Operator in java ek Symbol he jisse hum koi operation perform karne ke liye use karte hai. For eg: ```+,-,*,/``` etc. <br><br>
+Operator in java ek Symbol he jisse hum koi operation perform karne ke liye use karte hai. For eg: <b>```+,-,*,/```</b> etc. <br><br>
 
 *EXTRA TRIVIA* (Ye nahi bhi yaad ho toh bhi chalega aur agar apko inke bre me janna he to click <a href="https://www.hindilearn.in/tut/core-java/operators-in-hindi">Here</a>),<br>
 There are many types of operators in java which are given below:
