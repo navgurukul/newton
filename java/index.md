@@ -7,3 +7,4 @@
 - GivingInstructionsInJava.md
 - JavaVariables.md
 - JavaDataTypes.md
+- JavaOperator.md
