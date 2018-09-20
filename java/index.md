@@ -5,10 +5,10 @@
 	- features_of_java.md
 - SettingUpJavaEnvironment.md
 - GivingInstructionsInJava.md
-- JavaVariables.md
+<!-- - JavaVariables.md
 - JavaDataTypes.md
 - JavaOperator.md
 - ControllStatement
 	- JavaIfElse.md
 	- SwitchCase.md
-	- JavaLoop.md
+	- JavaLoop.md -->
