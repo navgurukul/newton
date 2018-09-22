@@ -1,6 +1,6 @@
 
 ```ngMeta
-name: Lists
+name: Lists Two
 completionMethod: manual
 ```
 
@@ -14,7 +14,7 @@ print len(list)
 ```
 
 
-Yeh `program` kya karte hai, list mai sai kaise elemenets fecth kar sakte hai.
+Yeh `program` kya karte hai, list mai sai kaise elemenets fecth kar sakte hai, iske liye agar aap ko nahi aata ho to aap kisi se puch sakte hai ya fir internet se padh sakte hai.
 
 ```python
 list = ['python', 'learning', '@', 'ng']
@@ -45,7 +45,7 @@ list = ['a', 'b', 'c']*-3
 print list
 ```
 
-index ka mtlb ki kaunsi jagah pe aayega, so isme `a = [1, 2]` 1 **0** index per hai
+index ka matlab ki kaunsi jagah pe aayega, so isme `a = ['hello', 2]`  hello ka index **0** hai
 
 ```python
 list1 = range(100, 110) #statement 1
