@@ -53,8 +53,6 @@ a = c*2
 <!-- TODO: MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
 ```python
 seconds = 96768
-
-
 seconds_to_report = (seconds/ 1) % (60)
 minutes = (seconds/60) % 60 
 hours = (seconds/(60*60)) % 24
