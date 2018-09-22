@@ -9,8 +9,8 @@ Agar aap yeh diagram dekhoge toh aap samjhoge, ki `break` command se hum jiss bh
 Ab iss idea ko use karte hue in example codes ka `dry run` karein.
 
 ```python
-for val in "string":
-    if val == "i":
+for val in "navgurukul":
+    if val == "g":
         break
     print(val)
 
