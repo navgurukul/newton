@@ -50,7 +50,7 @@ a = c*2
  c = a * c
 ```
 
-<!-- MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
+<!-- TODO: MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
 ```python
 seconds = 96768
 
@@ -111,8 +111,8 @@ amount = amount%1
 
 print note2000, note500, note100, note50, note10, note5, note2, note1
 
-new_amount = note2000 + note500 + note100 + note50 + note10 + note5 + note2 + note1
+new_amount = note2000*2000 + note500*500 + note100*100 + note50*50 + note10*10 + note5*5 + note2*2 + note1*1
 print new_amount
-print amount
+
 ```
 new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye
