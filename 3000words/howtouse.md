@@ -5,4 +5,4 @@ completionMethod: manual
 
 ## How to Use
 
-Rat lo inhein!
+Rat lo in words ko!
