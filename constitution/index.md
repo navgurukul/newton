@@ -1,3 +1,4 @@
+- navgurukul-constitution.md
 - section-0
 	- section-0.md
 	- right-to-dissent.md
@@ -20,7 +21,7 @@
 	- section-2-discipline.md
 	- appointment.md
 - section-3-complaints.md
-- section-4-elections.md
+- section-4-elections
+	- ethics.md
 - section-5-rules.md
 - section-6-center.md
-- navgurukul-constitution.md
