@@ -50,20 +50,38 @@ a = c*2
  c = a * c
 ```
 
+<!-- MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
 ```python
-seconds = 30
+seconds = 96768
 
-days = seconds/60*60*24
-seconds = seconds%(60*60*24)
 
-hours = seconds/60*60
-seconds =seconds/(60*60)
+seconds_to_report = (seconds/ 1) % (60)
+minutes = (seconds/60) % 60 
+hours = (seconds/(60*60)) % 24
+days = seconds/(60*60*24)
 
-minute = seconds/60
-seconds = seconds/60
-
-print days, hours, minute, seconds
+print days, hours, minutes, seconds_to_report
 ```
+
+
+
+```python
+seconds = 96768
+
+seconds_to_report = seconds % 60
+minutes = seconds / 60
+
+minutes_to_report = minutes % 60
+hours = minutes / 60
+
+hours_to_report = hours % 24
+days = hours / 24
+
+print days, hours_to_report, minutes_to_report, seconds_to_report
+```
+
+Kya yeh dono program same behave karte hai? If yes, toh aisa kyu?
+
 
 ```python
 amount = 8712
@@ -97,17 +115,4 @@ new_amount = note2000 + note500 + note100 + note50 + note10 + note5 + note2 + no
 print new_amount
 print amount
 ```
-**new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye**
-
-```python
-seconds = 3760
-
-days = seconds/(60*60*24)
-seconds = seconds%(60*60*24)
-
-minute = seconds%60
-
-hours = minutes/60
-
-print days, hours, minute, seconds
-```
+new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye
