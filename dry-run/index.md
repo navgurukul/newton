@@ -7,5 +7,7 @@
 - loops-break.md
 - loops-continue.md
 - lists.md
+- lists2.md
+- Strings.md
 - for-loop.md
 - functions-dry-run.md
