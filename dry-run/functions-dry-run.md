@@ -86,7 +86,7 @@ def is_present_in_list(number_to_search, list_to_search):
 
     if length_of_list == 1:
         if number_to_search == list_to_search[0]:
-            return False
+            return True
         else:
             return False
     
@@ -102,9 +102,8 @@ def is_present_in_list(number_to_search, list_to_search):
 
     return is_present_in_list(number_to_search, first_half_of_list) or is_present_in_list(number_to_search, second_half_of_list)
 
-print is_present_in_list(35, [23, 43, 87, 98, 35, 64, 18, 10, 80])
-print is_present_in_list(36, [23, 43, 87, 98, 35, 64, 18, 10, 80])
-```
+print is_present_in_list(3, [3, 5, 7, 8, 4, 6, 2, 1, 9])
+print is_present_in_list(10, [3, 5, 7, 8, 4, 6, 2, 1, 9])
 
 Jab Hum ek list ko as an argument pass karte hai, toh woh list copy ho kar nahi jaati, balki bas uska ek `reference` jaata hai. Iska matlab, jub hum uss function mei jaha par woh list bheji hai, ussmei jo hamari main item thi, wohi modify karte hai.
 
@@ -117,7 +116,7 @@ def a(l):
         l[i] = a[al-i]
 
 
-example = [3,45,1,2,34]
+example = [3, 9, 1, 2, 7]
 a(example)
 print example 
 ```
@@ -140,7 +139,7 @@ def so(l, s, e):
         so(l, s, pos - 1)
         so(l, pos + 1, e)
 
-example = [3,45,1,2,34]
+example = [3, 9, 1, 2, 7]
 so(example, 0, len(example) - 1)
 print example
 ```
@@ -155,7 +154,7 @@ def so(l):
             so(l)
     return l
  
-l = [64, 34, 25, 12, 22, 11, 90]
+l = [9, 2, 7, 5]
 so(l)
  
 print l
