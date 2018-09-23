@@ -2,6 +2,7 @@
 - variables-dry-run.md
 - variables-operators-precedence.md
 - boolean-operators.md
+- modulus.md
 - if-else-dry-run.md
 - while-loop.md
 - loops-break.md
