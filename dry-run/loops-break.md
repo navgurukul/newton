@@ -51,28 +51,35 @@ if not prime:
 Jaise neeche diye hue program mei `break` statement sirf loop2 se bahar nikalega.
 
 ```python
-for i in range(5): #loop1
-    for j in range(10): #loop2
+i = 0
+while(i<5):
+    j = 0
+    while(j<5): #loop2
         if (j > 3): 
             break 
         else:
             print "*", 
+        j = j + 1    
     print ''
+    i = i + 1
 ```
 Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
 Apne likhe hue naye program ka bhi `dry run` karein.
 
 ```python
-for a in range(6):
-    for b in range(6):
+a = 0
+while(a<6):
+    b = 0
+    while(b<6):
         if (a == b):
             break
         print '*',
+        b = b + 1
     print ''
+    a = a + 1
 ```
 Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
 Apne likhe hue naye program ka bhi `dry run` karein.
-
 ```python
 a = 1
 b = 1
