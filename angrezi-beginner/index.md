@@ -6,3 +6,5 @@
   - spotdifference.md
 - celebrity.md
 - tarot.md
+- questions
+  - tutorial.md
