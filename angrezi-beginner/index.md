@@ -1,4 +1,4 @@
-- introduction
+- introduction.md
 - identify-personality.md
 - simplepresent
   - videos.md
