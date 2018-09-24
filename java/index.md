@@ -1,4 +1,7 @@
 - WhatDoComputersDo.md
 - WhatIsProgramming.md
+- introduction
+	- what_is_java.md
+	- features_of_java.md
 - SettingUpJavaEnvironment.md
 - GivingInstructionsInJava.md

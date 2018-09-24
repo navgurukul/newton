@@ -22,16 +22,6 @@ completionMethod: peer
 
 ## Question Part 3
 
-1. variable aur constants mei kya pharak hota hai, apna answer comment mei likhe. Comment kaise likhte hain, woh neeche dekh lo.
-
-```python
-print "Yeh print hoyega."
-print "Yeh line bhi print hoyegi"
-# Yeh comment hai.
-# Yeh aap apni aasani ke liye likh sakte ho.
-# Jo bhi line "#" (hash) se shuru hoti hai, woh comment kehlati hai.
-# Aisi line hum programmers apni asani ke liye likhte hain. Computer inko ignore kar deta hai.
-print "Computer upar diye gaye comments ko nahi padega, lekin iss line ko print karega."
-```
+1. variable aur constants mei kya pharak hota hai, yeh kisi se discuss kar kar ensure karein aap ko yeh acche se samajh hai.
 
 Iss question ke saare parts ka code ek hi python file mein likh ke upload kariye.
