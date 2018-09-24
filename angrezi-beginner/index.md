@@ -1,6 +1,7 @@
 - introduction.md
 - identify-personality.md
 - simplepresent
+  - simplepresent.md
   - videos.md
   - activities.md
   - spotdifference.md
