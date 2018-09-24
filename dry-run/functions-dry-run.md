@@ -112,8 +112,10 @@ Jaise iss program mei, jab hum `a(example)` call karenge, toh jo `def a` mei cha
 ```python
 def a(l):
     al = len(l)
-    for ( i in range()/2 ):
-        l[i] = a[al-i]
+    i = 0
+    while(i<al/2):
+        i += 1
+        l[i] = l[al-i -1]
 
 
 example = [3, 9, 1, 2, 7]
@@ -125,10 +127,12 @@ Yeh question karte waqt, aap uppar wale example ka dhyaan rakhiye.
 ```python
 def partition(l, s, e):
     pos = s
-    for i in range(s, e):
+    i = s
+    while(i<e)
         if l[i] < l[e]:
             l[i],l[pos] = l[pos],l[i]
             pos += 1
+        i = i+1
 
     l[pos],l[e] = l[e],l[pos]
     return pos
@@ -146,12 +150,14 @@ print example
 
 ```python
 def so(l):
-    for i in range(len(l)-1):
+    i = 0
+    while(i< len(l)-1):
         n = l[i]
         if l[i+1] < n:
             l[i] = l[i+1]
             l[i+1] = n
             so(l)
+        i = i + 1    
     return l
  
 l = [9, 2, 7, 5]
