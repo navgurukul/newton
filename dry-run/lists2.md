@@ -30,10 +30,9 @@ print list
 ```
 
 index ka matlab ki kaunsi jagah pe aayega, so isme `a = ['hello', 2]`  hello ka index **0** hai
-
-<!-- todo: introduce range properly -->
+xw
 ```python
-list1 = range(100, 110) #statement 1
+list1 = [100, 101, 102, 103, 104, 105, 106 ,107, 108, 109] #statement 1
 print "index of element 105 is : ", list1.index(105) 
 ```
 
