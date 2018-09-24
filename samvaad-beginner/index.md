@@ -17,5 +17,5 @@
 	- hometown.md
 	- politics.md
 	- exams.md
-	- story.md
+	- reading comprehension.md
 
