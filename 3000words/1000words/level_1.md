@@ -7,8 +7,8 @@ completionMethod: manual
 
 - the
 - of
-- and
 - a
+- and
 - to
 - in
 - is
