@@ -5,9 +5,10 @@ completionMethod: manual
 
 <!-- fixme: wrong example -->
 ```python
-my_string = 'Hello world'
-for i in range(len(my_string)):
+i = 0
+while(i<len(my_string)):
     my_string[i].upper()
+    i = i+1    
 print (my_string)
 ```
 
@@ -25,9 +26,11 @@ print line.split(',')
 
 ```python
 my_string = 'hello world'
-for i in range(len(my_string)):
-    print (my_string)
+i = 0
+while(i<len(my_string)):
+	print (my_string)
     my_string = 'ng'
+    i = i+1    
 ```
 
 

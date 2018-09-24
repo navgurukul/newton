@@ -1,7 +1,13 @@
 ```ngMeta
-name: Variables - Operators Precedence
+name: Python
 completionMethod: manual
 ```
+
+## Understanding "Precedence" in Operators
+
+"PRECEDENCE" ka matlab hota hai - importance. Ki kaun sa **Operator** kitna important hai. Jaise School mei humne BODMAS padha hoga. BODMAS padh kar humne seekha tha ki kaise ek **`expression/statement`** mei agar *multiple operators* ho toh, kaunsa operator choose karte hai.
+
+Aise hi Programming languages mei apne rule hote hai. Alag alag programming languages mei alag alag rules bhi ho sakte hai. Pehle - Hum Python ke liye yeh rules dekhte aur samajhte hai.
 
 Iss exercise ko dry run karne ke liye, aapko operators ka order samajhna hoga. Jab bahut saare operators hote hai toh yeh order hota hai python mei importance ka.
 
@@ -41,48 +47,4 @@ Yeh operators hum aage aur details mei samjhenge. Tension mat lena. Dheere dheer
 1. 15 / 3 * 4 = 12 (Pehle 15 ko 3 se divide karenge, phir jo answer hai **5**, usko 4 se multiply karenge.)
 2. 9 * 2 / 4 = 4 (Pehle 9 ko 2 se divide karenge, phir jo answer hai **18**, usko 4 se divide karenge - aur jo quotient aayega woh output hoga.)
 
-*Yeh Understanding ke saath inn ka dry karein. Aur apna answer laptop par code chala kar verify karein.*
-
-```python
-a = 100
-a = a*2
-a = a/4
-a = a + 3 * a
-a = a - a / 4
-```
-
-```python
-a = (4 + 5) / 3
-a = a * 8 / 4
-a = a / 2 * 10
-a = a + 2 * 10
-a = a + 2 * 10 - 5
-```
-
-```python
-a = (4 + 5) / 3
-b = a * 8 / 4 - 10
-a = b / 2 * 10
-a = a + 2 * 10
-a = b + 2 * 10 - 5
-```
-
-```python
-a = 20
-b = 10
-c = 15
-d = 5
-e = 0
-
-e = (a + b) * c / d
-print "Value of (a + b) * c / d is ",  e
-
-e = ((a + b) * c) / d
-print "Value of ((a + b) * c) / d is ",  e
-
-e = (a + b) * (c / d)
-print "Value of (a + b) * (c / d) is ",  e
-
-e = a + (b * c) / d
-print "Value of a + (b * c) / d is ",  e
-```
+*Yeh Understanding ke saath ab hum kuch questions ka dry karenge. Aur apna answer laptop par code chala kar verify karein.*

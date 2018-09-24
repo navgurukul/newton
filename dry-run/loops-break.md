@@ -51,24 +51,152 @@ if not prime:
 Jaise neeche diye hue program mei `break` statement sirf loop2 se bahar nikalega.
 
 ```python
-for i in range(5): #loop1
-    for j in range(10): #loop2
+i = 0
+while(i<5):
+    j = 0
+    while(j<5): #loop2
         if (j > 3): 
             break 
         else:
             print "*", 
+        j = j + 1    
     print ''
+    i = i + 1
 ```
 Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
 Apne likhe hue naye program ka bhi `dry run` karein.
 
 ```python
-for a in range(6):
-    for b in range(6):
+a = 0
+while(a<6):
+    b = 0
+    while(b<6):
         if (a == b):
             break
         print '*',
+        b = b + 1
     print ''
+    a = a + 1
 ```
 Iss program ka `output` likh kar, iss program ko bina `break` statement ke likhiye.
 Apne likhe hue naye program ka bhi `dry run` karein.
+```python
+a = 1
+b = 1
+n = 7
+for i in range(n):
+    c = a + b
+    b = a
+    a = c
+
+print c
+```
+
+Alag alag `n` ki values ke saath iss program ko `dry run` kar kar samjhein ki `range` aur `for` loop kaise kaam karta hai.
+
+
+
+```python
+n = 5
+sum = 0
+for x in range(n):
+    if n % (x+1) == 0:
+        sum += x
+print sum
+```
+
+Alag alag `n` ki values ke saath iss program ko `dry run` kar kar samjhein ki `range` aur `for` loop kaise kaam karta hai.
+
+```python
+string = "she sells sea shells"
+count = 0
+for i in string:
+	if i != s:
+		count+=1
+print s
+```
+Yeh program kya karta hai, yeh samjhiye. Aapko bhi aise code likhna seekhna hai.
+
+```python
+a = [2,3,4,5,5,3,2,2]
+b=[]
+for i in a:
+	if i not in b:
+		b.append(i)
+
+print b
+```
+Yeh program kya karta hai, yeh samjhiye. Aapko bhi aise code likhna seekhna hai.
+
+```python
+x = 100
+y = 120
+if x > y:
+    smaller = y
+else:
+    smaller = x
+
+for i in range(1, smaller+1):
+    if ( (x % i == 0) and (y % i == 0) ):
+        h = i
+
+print h
+```
+Yeh program kya karta hai? Kya aapne aise kisi cheez ki baarein mei school mei padha hai? Hints last mei diye hue hai.
+
+Neeche diye hue program mei, `print` ke baad `,` daalne se nayi line print nahi hoti. Aur `print ''` se new line print hoti hai.
+```python
+n=5
+for i in range(5) :
+    for j in range(5) :
+        if i==j:
+            print 0,
+        else:
+            print "x",
+    print ''
+```
+
+```python
+n=5
+for i in range(n) :
+    for j in range(n) :
+        if (i==j) or (i+j==n-1):
+            print 'x'
+        else:
+            print '0'
+    print ''
+```
+
+```python
+n = 4
+for i in range(4):
+    for j in range(i):
+        print 'x',
+    print ''
+```
+
+```python
+for x in range(7):
+    if (x == 3 or x==5):
+        continue
+    print(x)
+```
+
+```python
+for x in range (10,20):
+    if (x == 15):
+        break
+    if (x % 2 == 0):
+        continue
+    print x
+```
+
+```python
+for num in range(2, 10):
+    if num % 2 == 0:
+        print "Found an even number", num
+        continue
+    print "Found a number", num
+```
+Iss program ko `execute` karo. Iss program ko bina `continue` statement ke dobara likho.
+
