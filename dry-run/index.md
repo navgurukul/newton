@@ -1,0 +1,19 @@
+- hackathon.md
+- variables-dry-run.md
+- operators
+    - theory.md
+    - exercises.md
+- boolean-operators.md
+- modulus.md
+- if-else-dry-run.md
+- while-loop.md
+- loops-break.md
+- loops-continue.md
+- lists.md
+- lists2.md
+- Strings.md
+- for-loop.md
+- functions-dry-run.md
+- python
+    - range.md
+    - range-exercises.md
