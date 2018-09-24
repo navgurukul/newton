@@ -79,6 +79,8 @@ print '--------'
 
 **Note: Waise toh aap jab code likh rahe hain toh aapke editor ko khud hi indent kar dena chaiye, agar woh nahi karta hai toh aap abhi ke liye Tab key ka use karke indent kar sakte hain.**
 
+**Note: Waise aap Space key ka istamal karke bhi indentation de sakte hai lekin Space key ko istamal karna thoda muskhil hojata hai jiske karan bahut sare error ajate hai ishi wajah se jyadatar Developers(Software Engineer) Tab key ka istamal karte hai taki error kaam se kaam aaie.**
+
 # Multiple Levels of Indentation
 
 Ek indented code block ke andar dusra indented code block bhi ho sakta hai. Jaise iss code ko padho aur samjho ki iska kya output aayega. Fir is code ko chala ke dekho aur dekho ki aapne sahi socha tha ya nahi. Agar nahi toh fir aur dimaag laga ke sochne ki koshish karo.
