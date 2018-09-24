@@ -19,4 +19,5 @@
 	- exams.md
 - reading
 	- readingcom.md
+	- Story 1.md
 
