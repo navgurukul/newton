@@ -17,5 +17,5 @@
 	- hometown.md
 	- politics.md
 	- exams.md
-	- reading.md
+	- reading com.md
 
