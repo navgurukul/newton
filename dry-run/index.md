@@ -1,6 +1,8 @@
 - hackathon.md
 - variables-dry-run.md
-- variables-operators-precedence.md
+- operators
+    - theory.md
+    - exercises.md
 - boolean-operators.md
 - modulus.md
 - if-else-dry-run.md
@@ -12,3 +14,6 @@
 - Strings.md
 - for-loop.md
 - functions-dry-run.md
+- python
+    - range.md
+    - range-exercises.md
