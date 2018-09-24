@@ -13,6 +13,21 @@ small
 - binary code
 - resolution
 - server
+- frontend
+- backend
+- networking
+- aspect ratio
+- authentication / authorisation
+- bitcoin
+- cryptocurrency / blockchain
+- client-server model
+- rgb
+- fifo / lifo
+- flowchart
+- keywords
+- LAN / WAN / MAN
+- localhost
+- y2k
 big
 - api
 - ai
@@ -26,6 +41,17 @@ big
 - router
 - intranet
 - phishing
+- packet
+- data mining
+- data science
+- load balancing
+- recursion
+- sampling
+- open source
+- technology stack
+- web app
+- hosting
+- saas
 bigger
 - dns
 - tcp/udp
@@ -33,3 +59,8 @@ bigger
 - how does computer boot (reboot)
 - cache
 - firewall
+- threads
+- iot - internet of things
+- cms - content management systems
+- ssl encryption
+- 64 bit vs 32 bit
