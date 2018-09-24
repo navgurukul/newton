@@ -13,7 +13,10 @@ small
 - binary code
 - resolution
 - server
-
+- sprint
+- pair programming
+- searching
+- sorting
 - frontend
 - backend
 - networking
@@ -29,7 +32,6 @@ small
 - LAN / WAN / MAN
 - localhost
 - y2k
-
 - database
 - what is download
 - bot
