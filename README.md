@@ -19,14 +19,14 @@ Every exercise also has a submission type which decided the student interaction 
 ```bash
 - exercise-1.md
 - exercise-2.md
-- exercise-3/
+- exercise-3
 		- exercise-3.md # this is parent MD file
 		- another-child-of-exercie-3.md # this is the child.
 		- yet-another-child.md # the structure of parent/child is defined by index.md
 - exercise-4.md
 - exercise-5.md
 - index.md
-- details/
+- details
 		- info.md
 		- details.md
 ```
