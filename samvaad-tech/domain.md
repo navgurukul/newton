@@ -16,6 +16,7 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-1. 
+1. NavGurukul ki website ka domain name kya hai?
+2. Agar aap apni website banaoge toh uska domain name kya rakhoge?
 
 Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
