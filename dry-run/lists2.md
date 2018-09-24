@@ -1,6 +1,6 @@
 
 ```ngMeta
-name: Lists Two
+name: Lists - Chalo thoda aur samjhein
 completionMethod: manual
 ```
 
@@ -37,3 +37,4 @@ list1 = range(100, 110) #statement 1
 print "index of element 105 is : ", list1.index(105) 
 ```
 
+<!-- todo: add more and more examples -->
