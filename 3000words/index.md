@@ -1,5 +1,5 @@
 - howtouse.md
-- 1000wordsss
+- 1000wordssss
   - list_of_words.md
   - level_1.md
   - level_2.md
