@@ -22,26 +22,35 @@ print("The end")
 ```
 
 ```python
-for x in range(7):
+x = 0
+while(x<7):
     if (x == 3 or x==5):
+        x = x + 1
         continue
     print(x)
+    x = x + 1
 ```
 
 ```python
-for x in range (10,20):
+x = 10
+while(x<20):
     if (x == 15):
         break
     if (x % 2 == 0):
+        x = x + 1
         continue
     print x
+    x = x + 1
 ```
 
 ```python
-for num in range(2, 10):
+num = 2
+while(num < 10):
     if num % 2 == 0:
         print "Found an even number", num
+        num = num + 1
         continue
     print "Found a number", num
+    num = num + 1
 ```
 Iss program ko `execute` karo. Iss program ko bina `continue` statement ke dobara likho.
