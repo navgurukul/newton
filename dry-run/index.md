@@ -1,6 +1,8 @@
 - hackathon.md
 - variables-dry-run.md
-- variables-operators-precedence.md
+- operators
+    - theory.md
+    - exercises.md
 - boolean-operators.md
 - if-else-dry-run.md
 - while-loop.md
