@@ -4,7 +4,7 @@ completionMethod: manual
 ```
 
 Watch the short film here:
-https://www.youtube.com/watch?v=H-BrSO47IXw
+@[youtube](H-BrSO47IXw)
 
 You can learn more about periods [here](https://www.girlshealth.gov/body/period/) and [here](https://www.medicinenet.com/menstruation/article.htm)
 

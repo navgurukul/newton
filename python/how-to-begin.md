@@ -5,7 +5,9 @@ completionMethod: manual
 
 # Iss course ko kaise use karein?
 
-Python kaise use karte hai, iss [**video**](https://www.youtube.com/watch?v=ccPrUbz1oto) ko dekh kar samjhe
+Python kaise use karte hai, iss video ko dekh kar samjhe
+
+@[youtube](ccPrUbz1oto) 
 
 Aage chal ke saare course mein har jagah alag alag tareeke se python ke code ke examples diye gaye hain. Inn examples ko aapko *python shell* mei chala kar dekhna padega. 
 
@@ -15,6 +17,7 @@ $ python
 ```
 
 ```python
+
 print "Yeh python mein print hoga"
 print "Yeh ek aur line print hoyegi"
 print 2 + 5
@@ -22,6 +25,7 @@ i = 0
 print i
 while i < 100:
     print "Main baar baar print hounga :)"
+
 ```
 Ab upar diye gaye code ko select karke Ctrl + C jishe yeh code copy hojyega aur phir app ishe Terminal pe jake Ctrl + Shift + V dabake paste karsakte hai.
 
@@ -98,4 +102,5 @@ apne laptop pe kholna padega. Usko khol ke usme yeh type kar ke python chalani p
 - Code ko copy-paste karke chalane se aap seekh nahi payenge dhang se. Aapko har code ko apne haath se chala ke dehna chaiye.
 - UPPER CASE ya **bold letters** mei likhe hue shabd kaafi important hai. Unhe yaad kar lo, woh aapko baar baar milenge.
 - Course mein bahot jagah aapko kuch questions ka javab dena hoga. Javab dene ke liye aap humesha file upload kar sakte hain.
+
 
