@@ -54,7 +54,7 @@ Alag alag `n` ki values ke saath iss program ko `dry run` kar kar samjhein ki `r
 string = "she sells sea shells"
 count = 0
 for i in string:
-	if i != s:
+	if i != "s":
 		count+=1
 print s
 ```
