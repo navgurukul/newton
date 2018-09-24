@@ -26,3 +26,14 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 6. Kya `OS` ko bhi kisi `programmer` ne likha hoga?
 7. Kya `OS` kya bhi `code` hoga?
 8. Jab hum bolte hai - `laptop` hang kar gaya hai, toh iska kya matlab hota hai?
+9. Kya ek simple phone, jo `smartphone` nahi hai, kya usmei bhi `OS` hota hai?
+10. Kya aap ko lagta hai, ki ek samay hoga jab `OS` itne advanced na ho, jitne aaj ho.
+11. Sochiye pehla windows `OS` kaisa dikhta hoga?
+
+Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+
+@[youtube](26QPDBe-NB8)
+
+**Tips**:
+1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
+2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
