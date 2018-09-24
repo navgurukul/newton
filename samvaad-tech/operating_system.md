@@ -18,5 +18,11 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-1. Operating System yaani OS kya hota hai?
-2. Agar hum ek computer hote toh hamara Operating System kya hota?
+1. `Operating System` yaani `OS` kya hota hai?
+2. Agar hum ek computer hote toh hamara `Operating System` kya hota?
+3. Aapke laptop mei kaunsa `OS` hai?
+4. NavGurukul ka `OS` kya hoga?
+5. NavGurukul ke `OS` mei `Hardware` kya hoga, aur `Software` kya hoga?
+6. Kya `OS` ko bhi kisi `programmer` ne likha hoga?
+7. Kya `OS` kya bhi `code` hoga?
+8. Jab hum bolte hai - `laptop` hang kar gaya hai, toh iska kya matlab hota hai?
