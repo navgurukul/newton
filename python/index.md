@@ -1,6 +1,7 @@
 - WhatDoComputersDo.md
 - WhatIsProgramming.md
 - how-to-begin.md
+- ipython.md
 - constants
 	- constants-intro.md
 	- constants-question1.md
