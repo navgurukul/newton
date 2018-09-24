@@ -5,19 +5,15 @@ completionMethod: manual
 
 # Basics of Functions
 
-Lightbot ke 2-2 level ko yaad karo. Yahan humne baar baar hone wala kaam - Aage, Left mudna, Aage, Right Mudna PROC1 mein daala hai. Aur P1 ka use kar ke MAIN mein iss kaam ko 4 baar kara hai.
-
-![Lightbot Level 2](assets/16-lightbot-level2.png)
-
 Aise hi python mein hum functions ka use kar ke hum ek baar kuch code likh ke usko bahot baar use kar sakte hain. Isse humara kaam bahot aasan ho jata hai.
-
-**Exercise: Lightbot mein firse 2nd Stage ke sare level khel kar socho functions kahan use kare aur kaise functions yahan aapki help kar rahe hain. [Lighhtbot ka link](https://lightbot.com/hocflash.html)**
 
 ```python
 print “NavGurukul”
+
 def say_hello():
     print “Hello!”
     print “Aap kaise ho?”
+
 say_hello()
 print “Python is awesome”
 say_hello()
@@ -43,7 +39,7 @@ Dhayn se dekho ki code mein jahan bhi `say_hello()` likha hai, wahan `Hello!` au
 
 # Introduction to Functions
 
-Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain.Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
+Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain. Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
 
 ```python
 names_list = [“Fiza”, “Shivam”, “Imtiyaz”, “Deepanshu”, “Rahman”]
@@ -55,22 +51,30 @@ Yahan `len(names_list)` ka use kar ke humne jana ki list mein kitne item hai. Ab
 Hum ek function likhenge. Iss code ko pehle chala ke dekho, aur fir neeche padiye iske baare mein samajhne ke liye.
 
 ```python
-def function_say_hello():
-    print "Hello"
-    print "Main function ke andar se print ho raha hun."
-function_say_hello()
-print "NavGurukul delhi mein hai."
-function_say_hello()
+def definition_say_hello():
+    print "NavGurukul"
+    print "NavGurukul mei humein apni learning ki responsibility leni padti hai."
+
+definition_say_hello()
+
+print "NavGurukul mei hum sab logo ko ek tarah se treat karte hai."
+
+definition_say_hello()
 ```
 
-1. Shuruat mein `def` ka use kar ke hum python ko bata rahe ki humne ek `function_say_hello` naam ka function likha hai.
-2. Iss function ka code (do print karne ki lines) kuch indent (space) deke `def function_say_hello()` ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.
-3. Fir agli line, `function_say_hello()` mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko **FUNCTION CALL** karna kehte hain.
-4. Iske baad print statement use kar ke humne ek string print kiya hai.
-5. Aakhir mein humne firse `function_say_hello()` likh ke function call ki hai jo ek aur baar function ek andar wale code ko chala deti hai jisse andar waali 2 print ki command chal jati hai.
-6. Yahan yeh dekho ki kaise `NavGurukul delhi mein hai` ke upar aur neeche `function_say_hello()` ke andar wali print command ke string print hue hain.
-
 Ek aur example FUNCTIONS samajhne ke liye. Iss code ko padh ke output socho. Chala ke dekhne ke baad dhyan se padho.
+
+1. Shuruat mein `def` ka use kar ke hum python ko bata rahe ki humne ek `definition_say_hello` naam ka function likha hai.
+![](assets/function_defn_inst_1.png)
+2. Iss function ka code (do print karne ki lines) kuch indent (space) deke `def definition_say_hello()` ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.
+![](assets/function_defn_inst_2.png)
+3. Fir agli line, `definition_say_hello()` mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko **FUNCTION CALL** karna kehte hain.
+![](assets/function_defn_inst_3.png)
+4. Iske baad print statement use kar ke humne ek string print kiya hai.
+![](assets/function_defn_inst_4.png)
+5. Aakhir mein humne firse `definition_say_hello()` likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - *2 print* command chal jati hai.
+![](assets/function_defn_inst_5.png)
+6. Yahan yeh dekho ki kaise `NavGurukul delhi mein hai` ke upar aur neeche `definition_say_hello()` ke andar wali print command ki values print hue hain.
 
 ```python
 def function_say_bye():
@@ -94,7 +98,7 @@ function_say_bye()
 Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya nahi. Nahi aa raha toh kyun nahi aa rahi?
 
 ```python
-def function_say_hello_again():
+def definition_hello_again():
     print "Firse Hello :)"
     print "Aap kaise ho?"
 ```
@@ -102,9 +106,9 @@ def function_say_hello_again():
 Ab apne code mein yeh line add karein aur dekhein ki koi output aati hai.
 
 ```python
-function_say_hello_again()
+definition_hello_again()
 ```
 
 Python mein sirf function likh dene se function ka code chalta nahi hai. Yahan pehle humne def keyword ka use karke python ko function ka code bataya. Isko **"FUNCTION DEFINITION"** kehte hain.
 
-Fir humne baad mein `function_say_hello_again()` likh ke function ko bulaya aur usme likha hua code chalwaya. Isko **"FUNCTION CALL"** karna kehte hain. **"FUNCTION CALL"** mein hum function ke naam ke baad 2 bracket `(` `)` lagate hain. Isse python ko pata chalta hai ki function ke andar ka code chalana hai.
+Fir humne baad mein `definition_hello_again()` likh ke function ko bulaya aur usme likha hua code chalwaya. Isko **"FUNCTION CALL"** karna kehte hain. **"FUNCTION CALL"** mein hum function ke naam ke baad 2 bracket `(` `)` lagate hain. Isse python ko pata chalta hai ki function ke andar ka code chalana hai.
