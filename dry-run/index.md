@@ -14,3 +14,5 @@
 - Strings.md
 - for-loop.md
 - functions-dry-run.md
+- python/range.md
+- python/range-exercises.md
