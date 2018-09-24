@@ -80,6 +80,9 @@ def hcf(a,b):
 print hcf(120, 100)
 ```
 
+Iss question ko solve karne ke baad aap @[yaha](https://youtu.be/aUgYYhe-nUc) se iska solution verify kar sakte
+hai.
+
 ```python
 def is_present_in_list(number_to_search, list_to_search):
     length_of_list = len(list_to_search)
