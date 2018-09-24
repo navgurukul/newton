@@ -1,5 +1,5 @@
 ```ngMeta
-name: Domain Names or URL
+name: Domain Name Server yaani DNS
 completionMethod: manual
 ```
 
