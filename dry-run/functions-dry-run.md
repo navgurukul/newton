@@ -118,7 +118,7 @@ def a(l):
 
 example = [3, 9, 1, 2, 7]
 a(example)
-print example 
+print example
 ```
 
 Yeh question karte waqt, aap uppar wale example ka dhyaan rakhiye.
