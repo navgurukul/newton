@@ -5,11 +5,12 @@ completionMethod: manual
 
 ## Celebrity Interviews
 
-`Function: Asking for and giving information about people`
-`Time Limit: 90 minutes`
-`Partcipation: Groups of 5 to 8`
-`Skill: Speaking`
-`Language: Wh questions`
+>Function: Asking for and giving information about people
+Time Limit: 90 minutes
+Group Size: 5 - 8
+Skill: Speaking
+Language: Wh questions
+
 
 ### Preparation
 Before the activity starts, all the participants will choose which celebrity they want to become in the activity and share with the entire group. No two people will become the same celebrity. Celebrities can be sportspersons, politicians, actors, actresses or any other famous people. 
