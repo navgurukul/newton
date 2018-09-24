@@ -1,7 +1,9 @@
 ```ngMeta
-name: Understanding "Precedence" in Operators
+name: Python
 completionMethod: manual
 ```
+
+## Understanding "Precedence" in Operators
 
 "PRECEDENCE" ka matlab hota hai - importance. Ki kaun sa **Operator** kitna important hai. Jaise School mei humne BODMAS padha hoga. BODMAS padh kar humne seekha tha ki kaise ek **`expression/statement`** mei agar *multiple operators* ho toh, kaunsa operator choose karte hai.
 
