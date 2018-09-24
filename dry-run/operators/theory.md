@@ -3,6 +3,10 @@ name: Understanding "Precedence" in Operators
 completionMethod: manual
 ```
 
+"PRECEDENCE" ka matlab hota hai - importance. Ki kaun sa **Operator** kitna important hai. Jaise School mei humne BODMAS padha hoga. BODMAS padh kar humne seekha tha ki kaise ek **`expression/statement`** mei agar *multiple operators* ho toh, kaunsa operator choose karte hai.
+
+Aise hi Programming languages mei apne rule hote hai. Alag alag programming languages mei alag alag rules bhi ho sakte hai. Pehle - Hum Python ke liye yeh rules dekhte aur samajhte hai.
+
 Iss exercise ko dry run karne ke liye, aapko operators ka order samajhna hoga. Jab bahut saare operators hote hai toh yeh order hota hai python mei importance ka.
 
 1. Brackets `(), [], {}`
