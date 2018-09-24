@@ -80,6 +80,8 @@ def hcf(a,b):
 print hcf(120, 100)
 ```
 
+Iss question ko solve karne ke baad aap [yaha](https://youtu.be/aUgYYhe-nUc) se iska solution verify kar sakte hai.
+
 ```python
 def is_present_in_list(number_to_search, list_to_search):
     length_of_list = len(list_to_search)
@@ -108,27 +110,32 @@ print is_present_in_list(10, [3, 5, 7, 8, 4, 6, 2, 1, 9])
 Jab Hum ek list ko as an argument pass karte hai, toh woh list copy ho kar nahi jaati, balki bas uska ek `reference` jaata hai. Iska matlab, jub hum uss function mei jaha par woh list bheji hai, ussmei jo hamari main item thi, wohi modify karte hai.
 
 Jaise iss program mei, jab hum `a(example)` call karenge, toh jo `def a` mei changes honge, woh example variable ke andar ho jayenge. Jba hum `example` ko `print` karenge, toh `example` updated hoga.
+```
 
 ```python
 def a(l):
     al = len(l)
-    for ( i in range()/2 ):
-        l[i] = a[al-i]
+    i = 0
+    while(i<al/2):
+        i += 1
+        l[i] = l[al-i -1]
 
 
 example = [3, 9, 1, 2, 7]
 a(example)
-print example 
+print example
 ```
 
 Yeh question karte waqt, aap uppar wale example ka dhyaan rakhiye.
 ```python
 def partition(l, s, e):
     pos = s
-    for i in range(s, e):
+    i = s
+    while(i<e)
         if l[i] < l[e]:
             l[i],l[pos] = l[pos],l[i]
             pos += 1
+        i = i+1
 
     l[pos],l[e] = l[e],l[pos]
     return pos
@@ -146,12 +153,14 @@ print example
 
 ```python
 def so(l):
-    for i in range(len(l)-1):
+    i = 0
+    while(i< len(l)-1):
         n = l[i]
         if l[i+1] < n:
             l[i] = l[i+1]
             l[i+1] = n
             so(l)
+        i = i + 1    
     return l
  
 l = [9, 2, 7, 5]

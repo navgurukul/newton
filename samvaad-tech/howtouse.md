@@ -18,3 +18,7 @@ Enjoy!
 * Revise your vocabulary diary everyday
 * Share your vocabulary lists with your friends and revise together
 * Listen to YouTube videos where they are having conversation about these topics
+
+Course start karnein se pehle, yeh simple video dekhein! :)
+
+@[youtube](F9GujgK0y2M)
