@@ -1,0 +1,35 @@
+small
+- operating system
+- domain
+- url
+- browser
+- linux
+    - permissions
+- scripting
+- hacking
+- ide/editor
+- bandwidth
+- bit / bytes
+- binary code
+- resolution
+- server
+big
+- api
+- ai
+- ml
+- json / xml
+- cloud computing
+- compression
+- cookie
+- device driver (yeh samajhna - driver install kar lo)
+- encryption
+- router
+- intranet
+- phishing
+bigger
+- dns
+- tcp/udp
+- bootstrap
+- how does computer boot (reboot)
+- cache
+- firewall
