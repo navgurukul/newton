@@ -17,7 +17,5 @@
 	- hometown.md
 	- politics.md
 	- exams.md
-- reading
-	- readingcom.md
-- FirstLevel
-	- levelfirst.md
+- firstlevel
+	- LevelFirst.md
