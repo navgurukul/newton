@@ -7,7 +7,7 @@ completionMethod: manual
 
 1. Watch this video to learn about introductions:
    
-   @[youtube](T5qJwnjPKI)
+   @[youtube](D91bOKIfKCI)
 
 2. Introduce Your Self
    * Divide yourself into groups of 4
