@@ -1,4 +1,4 @@
 - 2-howtouse.md
 - Cards
-	- stories.md
-	
+	- story1.md
+	- story2.md
