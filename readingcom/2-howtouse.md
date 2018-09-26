@@ -1,4 +1,6 @@
 ```ngMeta
-name: Stories
+name: How to Use
 completionMethod: manual
 ```
+
+## How to use..
