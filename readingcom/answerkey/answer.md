@@ -1,4 +1,4 @@
 ```ngMeta
-name: Answer-Key 
+name: Answer Key 
 completionMethod: manual
 ```
