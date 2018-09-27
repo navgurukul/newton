@@ -16,7 +16,6 @@ completionMethod: manual
 * [My Robot's Birthday](https://drive.google.com/open?id=0B24sXOipVHAxemJJcVFEZUtzNkU)
 * [Airships in Our Future?](https://drive.google.com/open?id=0B24sXOipVHAxZ1cyRTFuT3kxQWs)
 * [Phut Phat Concentrates](https://drive.google.com/open?id=0B24sXOipVHAxRU1UbEhHUkd6X00)
-* [Phut Phat Concentrates](https://drive.google.com/open?id=0B24sXOipVHAxRU1UbEhHUkd6X00)
 * [The Voyaga to Lilliput](https://drive.google.com/open?id=0B24sXOipVHAxQmpWNVlMRmZ4NlE)
 * [Magical Voyages to Magical World](https://drive.google.com/open?id=0B24sXOipVHAxNnk5NUF4WWNsdE0)
 * [Stunt](https://drive.google.com/open?id=0B24sXOipVHAxc01XNkR5Mk92Vnc)
@@ -24,5 +23,5 @@ completionMethod: manual
 * [Wonderful Stevie Wonder](https://drive.google.com/open?id=0B24sXOipVHAxT0dqVzJrWkZZdmM)
 * [What Jim Hawkins Heard](https://drive.google.com/open?id=0B24sXOipVHAxVGF2RldPa1ptRXc)
 * [The Seven Gifts](https://drive.google.com/open?id=0B24sXOipVHAxUWE0QVdiYnp3VzQ)
-* [The Seven Gifts](https://drive.google.com/open?id=0B24sXOipVHAxUWE0QVdiYnp3VzQ)
+
 
