@@ -1,6 +1,6 @@
 ```ngMeta
 name: Stories - Level Three
-completionMethod: Manual
+completionMethod: manual
 ```
 
 * [The Little Old Man Who could Not Read](https://drive.google.com/open?id=0B1XBdeTOOHL3ZjJIbTNiQjFFUWs)
