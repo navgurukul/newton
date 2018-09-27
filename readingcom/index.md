@@ -2,8 +2,8 @@
 - levelone
 	- stories.md
 - leveltwo
-	- stories.md
+	- story.md
 - levelthree
-	- stories.md
+	- storiess.md
 - levelfour
-	- stories.md
+	- storieses.md
