@@ -1,3 +1,0 @@
-- details
-	- info.md
-	- notes.md
