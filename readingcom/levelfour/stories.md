@@ -1,9 +1,5 @@
 ```ngMeta
-<<<<<<< HEAD
-name: Stories - Level four
-=======
-name: Stories - Level Four 
->>>>>>> c4284350bd728bfe79e6d2912db2a3537a2a624a
+name: Stories - Level four 
 completionMethod: Manual
 ```
 
