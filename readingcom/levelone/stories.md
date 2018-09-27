@@ -1,5 +1,5 @@
 ```ngMeta
-name: Stories - Level one
+name: Stories - Level One
 completionMethod: Manual
 ```
 
