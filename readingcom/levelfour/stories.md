@@ -1,5 +1,9 @@
 ```ngMeta
+<<<<<<< HEAD
 name: Stories - Level four
+=======
+name: Stories - Level Four 
+>>>>>>> c4284350bd728bfe79e6d2912db2a3537a2a624a
 completionMethod: Manual
 ```
 
@@ -15,11 +19,19 @@ completionMethod: Manual
 * [Early Dogs of North America](https://drive.google.com/open?id=0B24sXOipVHAxVGdfWG5LRmZ2Y0E)
 * [My Robot's Birthday](https://drive.google.com/open?id=0B24sXOipVHAxemJJcVFEZUtzNkU)
 * [Airships in Our Future?](https://drive.google.com/open?id=0B24sXOipVHAxZ1cyRTFuT3kxQWs)
+<<<<<<< HEAD
 *[Phut Phat Concentrates](https://drive.google.com/open?id=0B24sXOipVHAxRU1UbEhHUkd6X00)
+=======
+* [Phut Phat Concentrates](https://drive.google.com/open?id=0B24sXOipVHAxRU1UbEhHUkd6X00)
+>>>>>>> c4284350bd728bfe79e6d2912db2a3537a2a624a
 * [The Voyaga to Lilliput](https://drive.google.com/open?id=0B24sXOipVHAxQmpWNVlMRmZ4NlE)
 * [Magical Voyages to Magical World](https://drive.google.com/open?id=0B24sXOipVHAxNnk5NUF4WWNsdE0)
 * [Stunt](https://drive.google.com/open?id=0B24sXOipVHAxc01XNkR5Mk92Vnc)
 * [Mary's Monster](https://drive.google.com/open?id=0B24sXOipVHAxMDNhTnB4OW5tN1k)
 * [Wonderful Stevie Wonder](https://drive.google.com/open?id=0B24sXOipVHAxT0dqVzJrWkZZdmM)
 * [What Jim Hawkins Heard](https://drive.google.com/open?id=0B24sXOipVHAxVGF2RldPa1ptRXc)
+<<<<<<< HEAD
 * [The Seven Gifts](https://drive.google.com/open?id=0B24sXOipVHAxUWE0QVdiYnp3VzQ)
+=======
+* [The Seven Gifts](https://drive.google.com/open?id=0B24sXOipVHAxUWE0QVdiYnp3VzQ)
+>>>>>>> c4284350bd728bfe79e6d2912db2a3537a2a624a
