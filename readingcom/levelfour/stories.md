@@ -1,6 +1,6 @@
 ```ngMeta
 name: Stories - Level Four 
-completionMethod: Manual
+completionMethod: manual
 ```
 
 * [A Baby Is Born](https://drive.google.com/open?id=0B1XBdeTOOHL3OWRXVVQxOXJLT2c)
