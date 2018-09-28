@@ -4,6 +4,8 @@ completionMethod: manual
 ```
 
 ## How to use
+Order Order
+Learning English While Sequencing
 
-	Order Order 
+<Do It Yourself> 
 
