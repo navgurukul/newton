@@ -12,8 +12,4 @@
 - answerkeyone
 	- answerone.md
 - answerkeytwo
-	- asnwertwo.md
-- answerkeythree
-	- answerthree.md
-- answerkeyfour
-	- answerfour.md
+	- answertwo.md
