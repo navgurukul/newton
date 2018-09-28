@@ -7,7 +7,6 @@ completionMethod: manual
 
 Order Order
 Learning English While Sequencing
-
 Do It Yourself
 
 ### Process
