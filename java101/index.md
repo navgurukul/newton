@@ -16,7 +16,6 @@
   - Question1.md
   - SolutionVideo1.md
   - Question2.md
-  - SolutionVideo2.md
 - ConditionalsIfStatement
   - IfStatementIntroduction.md
   - IfQuestion1.md
