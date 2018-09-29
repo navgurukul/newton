@@ -1,2 +1,9 @@
 - modals
   - tutorial.md
+  - exercises.md
+- conditionals
+  - tutorial.md
+  - exercises.md
+- listening
+  - exercises.md
+  - tedx.md
