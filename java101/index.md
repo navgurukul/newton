@@ -17,10 +17,10 @@
   - SolutionVideo1.md
   - Question2.md
 - ConditionalsIfStatement
-  - IfStatementIntroduction.md
+  - Introduction.md
   - IfQuestion1.md
   - IfQuesiton2.md
-  - IfSolutionVideo.md
+  - IfSolutionVideo1.md
   - IfQuestion3.md
   - IfElseIntroduction.md
   - IfElseQuestion1.md
