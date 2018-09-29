@@ -1,5 +1,5 @@
 ```ngMeta
-name: Exercises
+name: Condtitionals - Exercises
 completionMethod: manual
 ```
 
