@@ -15,3 +15,5 @@
 	- answertwo.md
 - order
 	- order.md
+- quizmaster
+	- quiz.md
