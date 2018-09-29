@@ -15,4 +15,4 @@ Isko seekhne ke liye if statements samajhna bahot zaroori hai. Iss video mein If
 
 # Assignment
 
-1. Apne friends ke saath discuss kar ke yeh code ache se samajh lo
+1. Apne peers ke saath discuss kar ke yeh code ache se samajh lo
