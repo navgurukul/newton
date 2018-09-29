@@ -21,7 +21,6 @@
   - IfSolutionVideo1.md
   - IfQuestion1.md
   - IfQuesiton2.md
-  - IfQuestion3.md
   - IfElseIntroduction.md
   - IfElseQuestion1.md
   - IfElseQuestion2.md
