@@ -9,3 +9,9 @@
   - tutorial.md
   - activities.md
   - celebrity.md
+- past-tense
+  - tutorials.md
+  - activities.md
+- listening
+  - exercises.md
+  - blindfold.md
