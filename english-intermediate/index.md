@@ -6,6 +6,7 @@
   - exercises.md
 - comparatives
   - tutorial.md
+- inspite.md
 - listening
   - exercises.md
   - tedx.md
