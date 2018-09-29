@@ -24,3 +24,7 @@ The reason for this exercise is to give space to the council members to review t
 
 The general body members can voice their appreciation or disappointment with the Council in this meeting. They are expected to give constructive feedback to the Council on how they can manage things better. 
 
+
+### The Process
+
+
