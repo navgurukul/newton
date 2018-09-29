@@ -7,6 +7,7 @@ Hello! Iss course mein hum Java mein code likhna seekhenge. Java duniya ki sabse
 
 ![Who Uses Java?](assets/Welcome_DZoneWhoUsesJava.jpeg)
 ![Test](assets/test.png)
+![Test 2](assets/test2.png)
 
 Duniya mein lagbagh 2,000,000,000 (2 billion) android devices hain. Almost saare Android ki apps ka code Java mein likha hua hai. Agar achi java aati ho toh hum bahot saari cheezein kar sakte hain. Achi java aati hai, toh bahot saare companies mein java backend mein bhi istemaal ki jaati hai. Aap woh bhi kar sakte ho. Yeh course aapko apne java ke basics ko sahi karne mein bahot help karega.
 
