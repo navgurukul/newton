@@ -8,4 +8,6 @@ completionMethod: manual
 * Watch these videos first:
   
   @[youtube](HRwbUcoDQCM)
+  
   @[youtube](FsvHlprlc_o)
+  
