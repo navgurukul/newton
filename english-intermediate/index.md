@@ -4,6 +4,8 @@
 - conditionals
   - tutorial.md
   - exercises.md
+- comparatives
+  - tutorial.md
 - listening
   - exercises.md
   - tedx.md
