@@ -14,7 +14,7 @@ completionMethod: manual
 - Keep your answer by making answer key.
 
 ### Pro Tip
-#### To win, you have to keep two things in mind
+To win, you have to keep two things in mind
 - You have to understand the passage and create such questions that are challenging for the another team.
 - You have to give good answers of another team quiz itself and score a maximum.
 
