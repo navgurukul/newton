@@ -1,5 +1,5 @@
 ```ngMeta
-name: Exercises
+name: Listening - Exercises
 completionMethod: manual
 ```
 
