@@ -9,11 +9,13 @@
 - DataTypes
   - Introduction.md
   - Variables.md
+  - AddingTwoNumbers_SolutionVideo.md
   - Question1.md
   - Question2.md
-- AddingTwoNumbers_SolutionVideo.md
 - GettingInput
   - Introduction.md
+  - SolutionVideo1.md
+  - SolutionVideo2.md
   - Question1.md
   - Question2.md
 - ConditionalsIfStatement
