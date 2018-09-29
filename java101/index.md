@@ -22,9 +22,7 @@
   - IfQuestion1.md
   - IfQuesiton2.md
   - IfElseIntroduction.md
-  - IfElseSolutionVideo1.md
   - IfElseQuestion1.md
-  - IfElseSolutionVideo2.md
   - IfElseQuestion2.md
   - IfElseQuestion3.md
   - NestedIfIntroduction.md
