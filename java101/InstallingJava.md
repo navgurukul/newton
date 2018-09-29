@@ -43,3 +43,5 @@ java HelloWorld
 Aapke terminal pe `Hi from NavGurukul!` print hua hona chaiye. Agar hua hai toh matlab aapki java sahi se install ho gayi hai. Nahi toh apne peers se help karke isko sahi karo.
 
 Agle chapters se java ke baare mein dhang se samajhne shuru karte hain :)
+
+Course mein aage har chapter mein aapko bahot saare videos dikhaye jayenge. Videos dekh ke normally lagta hai ki humein ache se samajh aa gaya. But jab tak hum ache se apne aap code chala ke nahi dekhte tab tak samajh nahi aata. Isliye bahot important hai ki hum code ko saath saath chalaye aur jahan thodi si bhi confusion hai apne friends ke saath discuss karein aur concepts ko clear karein. Jab tak concepts ache se clear nahi ho jaate tab tak humein aage nahi badna chaiye.
