@@ -1,5 +1,5 @@
 ```ngMeta
-name: Tutorial
+name: Conditionals - Tutorial
 completionMethod: manual
 ```
 
