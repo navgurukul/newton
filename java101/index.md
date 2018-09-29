@@ -6,9 +6,8 @@
   - CompilingAndRunningJavaPrograms.md
   - Question1.md
   - Question2.md
-- DataTypes
+- DataTypesAndVariables
   - Introduction.md
-  - Variables.md
   - AddingTwoNumbers_SolutionVideo.md
   - Question1.md
   - Question2.md
