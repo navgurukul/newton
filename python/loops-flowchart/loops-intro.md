@@ -29,3 +29,5 @@ Yeh flowchart neeche diye gaye steps ke hisaab se kaam karta hai:
 Isko hum **loop** bolte hai. Loop matlab kisi cheez ko baar baar karna. Jaise agar hume ek ek glass ko bhar kar, usse matka bharna hai, toh hume woh baar baar karna hoga.
 
 Abhi agle kuch sections mein hum loops ke flowcharts banana seekenge. Ek baar hum woh sahi se seekh lein, fir hum loops ka code likhna bhi seekhenge.
+
+<span>loop ke bare main aur janane ke liye yaha</span><a href="http://automatetheboringstuff.com/chapter2/">Clike kare</a>
