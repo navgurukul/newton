@@ -62,5 +62,3 @@ Topics covered:
 
 * Key error
 * loop iterates over the wrong list.
-
-<span>CSV Files and JSON Data ke bare main aur janane ke liye yaha</span><a href="http://automatetheboringstuff.com/chapter14/">Click kare</a>
