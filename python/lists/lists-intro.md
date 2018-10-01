@@ -15,6 +15,8 @@ List ek aisa variable hai, jisme hum bahut saare values rakh sakte hai. List kaa
 
 Aur bhi aise bahot saare examples ho sakte hain.
 
+<span>Click here for more details about list</span><a href="http://automatetheboringstuff.com/chapter4/"> Click</a>
+
 # Kuch Examples
 
 Iss example mein hum kuch bachon ki naam ki list store kar rahe hain.
