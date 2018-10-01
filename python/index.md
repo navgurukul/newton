@@ -139,3 +139,7 @@
 	- debugging-question1.md
 	- debugging-question2.md
 	- debugging-question3.md
+	- debugging-extra-question4.md
+	- more-exercises.md
+- python-book
+	- book-intro.md

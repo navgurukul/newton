@@ -23,6 +23,7 @@ Toh hume computers ko instructions dene ke liye, in naye languages mein se koi e
 
 Hum Python language use karke computer ko instructions denge.
 
+<span>Basic python ke liye yaha</span><a href="http://automatetheboringstuff.com/chapter1/">Click kariye</a>
 **Assignment**
 - Kya aap kabhi doosre ko ya doosre se instructions lete hain? Kya hum usey __program__ keh sakte hain?
 - "Python" language aur uske applications ke baare mein search kijiye? Duniya mein Kitne log Java language use karte hain?
