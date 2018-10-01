@@ -110,4 +110,3 @@ Iss function mein dekho ki yeh 4 argument leta hai, `name_x`, `name_y`, `name_z`
 * `"Rahul"` ki value teesre parameter `name_z` mein jaati hai
 * `"Vidya"` ki value teesre parameter `name_a` mein jaati hai
 
-<span>function ke bare main aur janane ke liye yaha</span><a href="http://automatetheboringstuff.com/chapter3/">Click kare</a>

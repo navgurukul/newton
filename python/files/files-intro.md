@@ -163,7 +163,3 @@ my_file3.write("Kuch aur likhte hain")
 ```
 
 Aap dekhoge ki python error dikha deti hain. Error mein python bolti hai, "ValueError: I/O operation on closed file" Iska matlab hai ki hum ek band file ke saath kuch nahi kar sakte
-
-<span>files ke bare main aur janane ke liye yaha</span><a href="http://automatetheboringstuff.com/chapter8/">Click kariye</a>
-
-<span>file Reading and Writing ke bare main aur janane ke liye yaha</span><a href="http://automatetheboringstuff.com/chapter8/">Click kare</a>
