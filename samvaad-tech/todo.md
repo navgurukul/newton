@@ -1,5 +1,4 @@
 small
-<!-- - operating system -->
 - domain
 - url
 - browser
