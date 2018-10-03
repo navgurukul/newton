@@ -9,5 +9,9 @@
   - tutorial.md
   - activities.md
   - celebrity.md
-- order
-  - setone.md
+- past-tense
+  - tutorials.md
+  - activities.md
+- listening
+  - exercises.md
+  - blindfold.md

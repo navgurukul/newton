@@ -1,5 +1,7 @@
-small
-<!-- - operating system -->
+```ngMeta
+name: ToDo
+completionMethod: manual
+```
 - domain
 - url
 - browser
