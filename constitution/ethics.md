@@ -1,5 +1,5 @@
 ```ngMeta
-name: Ethics of the Election
+name: Ethics of Election
 completionMethod: manual
 ```
 
