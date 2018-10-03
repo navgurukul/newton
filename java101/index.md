@@ -20,7 +20,7 @@
   - IfIntroduction.md
   - IfSolutionVideo1.md
   - IfQuestion1.md
-  - IfQuesiton2.md
+  - IfQuestion2.md
   - IfElseIntroduction.md
   - IfElseQuestion1.md
   - IfElseQuestion2.md
