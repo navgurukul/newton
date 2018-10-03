@@ -31,3 +31,10 @@
   - ElseElIfIntroduction.md
   - ElseElIfQuestion1.md
   - ElseElIfQuestion2.md
+- Loops
+  - While_and_DoWhile.md
+  - Question1.md
+  - Question2.md
+  - Question3.md
+  - Question4.md
+  - Question5.md
