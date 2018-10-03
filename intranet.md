@@ -1,11 +1,11 @@
 name: intranet
 completionMethod: manual
 
-Aap yeh videos dekhein:
+##Aap yeh videos dekhein:
 
 @youtube[dIA1KweJoRY]
-@youtube[qZYE-GmKW_c]
-Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
+
+###Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
 
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
 
@@ -18,3 +18,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai
 3. Intranet ka use kaise hota hai?
 4. navgurukul intranet use karthe hai kya?
 5. Intraet ka yek udhaharan de?
+
+**Tips**: 
+1. Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
+2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
