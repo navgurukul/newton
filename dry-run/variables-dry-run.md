@@ -20,6 +20,12 @@ b = a
 ```
 
 ```python
+a = 7
+b = 8 * 4
+b = a
+```
+
+```python
 a = 1
 b = 2
 c = b

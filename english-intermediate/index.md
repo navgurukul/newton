@@ -1,2 +1,14 @@
 - modals
   - tutorial.md
+  - exercises.md
+- conditionals
+  - tutorial.md
+  - exercises.md
+- comparatives
+  - tutorial.md
+- inspite.md
+- taboo
+  - taboo.md
+- listening
+  - exercises.md
+  - tedx.md
