@@ -39,3 +39,5 @@
   - Question4.md
   - Question5.md
   - ForLoops.md
+  - ForSolutionVideo1.md
+  - ForSolutionVideo2.md
