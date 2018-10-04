@@ -1,10 +1,15 @@
-Name: Hacking completionMethod: manual
+```ngMeta
+name: hacking.md
+completionMethod: manual
+```
+
+
 ##Aap yeh videos dekhein:
 
-@youtub:https://www.youtube.com/watch?v=mOiMU9fIEwk
+@[youtub](mOiMU9fIEwk)
 
 
-###Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
+### Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
 
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
 
@@ -24,7 +29,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 6. Is hacking a legel and is it important? 
 
-Tips:
+## Tips:
 1.Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue.
 
 2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
