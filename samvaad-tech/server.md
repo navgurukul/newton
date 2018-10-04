@@ -1,11 +1,12 @@
-ngMeta
+```ngMeta
 name: Server
-completionMethod:Manual
+completionMethod: manual
+```
 
-Do log ko mil kar sabse pehle yeh videos dekhni hai
+## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
-@[youtube](CxdsNQXFFDK)
-@[youtube](ZN29NHUY7go)
+@youtube [CxdsNQXFFDK]
+@youtube [ZN29NHUY7go]
 
 
 Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
@@ -23,7 +24,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 
 
-Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+## Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
 
 **Tips**:
 1 . Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
