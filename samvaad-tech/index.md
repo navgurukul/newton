@@ -28,5 +28,6 @@
 - intranet.md
 - thread.md
 - url.md
+- fifo and lifo.md
 - todo.md
 
