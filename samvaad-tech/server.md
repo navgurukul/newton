@@ -20,7 +20,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 2. Server  kese work krta h?
 3. kya Server me data secure rhta hai?
 4. NavGurukul ka Server kya hai?
-5. client and server me kya difference hai?
+5. Client and server me kya difference hai?
 
 
 
