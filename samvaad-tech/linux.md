@@ -7,7 +7,6 @@ completionMethod: manual
 
 @[youtube](IslerGR3Ptc)
 
-
 @[youtube](xRX6ZI_P-LA&vl=en)
 
 
@@ -27,5 +26,5 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 8. Linux kernal kya hota hai?
 
 ### Tips:
-1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
-2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
+1. Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
+2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
