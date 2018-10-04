@@ -1,8 +1,9 @@
-``ngMeta
+
+```ngMeta
 Name:RED GREEN BLUE
 completionMethod: manual
 ```
-## AAp ye videos dekhkr rgb ko easily smjh skte he
+## Ap ye videos dekhkr rgb ko easily smjh skte he
 
 @[youtube](reGEoQDPfRNOk&featu=youtu.be)
 
