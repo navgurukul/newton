@@ -15,5 +15,6 @@
 - search_engine.md
 - 64bit_vs_32bit.md
 - data_mining.md
+- hacking.md
 - todo.md
 
