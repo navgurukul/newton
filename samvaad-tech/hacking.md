@@ -6,7 +6,7 @@ completionMethod: manual
 
 ##Aap yeh videos dekhein:
 
-@[youtub](mOiMU9fIEwk)
+@[youtube](mOiMU9fIEwk)
 
 
 
