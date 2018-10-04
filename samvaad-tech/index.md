@@ -25,7 +25,6 @@
 - flowchart.md
 - rgb.md
 - bit_coin.md
-- 
 - thread.md
 - url.md
 - fifo and lifo.md
