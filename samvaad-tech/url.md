@@ -11,6 +11,7 @@ Do log ko mil kar sabse pehle yeh videos dekhni hai
 Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
 
 
+
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
 
 
