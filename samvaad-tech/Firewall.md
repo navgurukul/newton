@@ -16,10 +16,11 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-questions
-1. what is firewall?
-2. what are the advantages of firewall?
-3. how can you connect firewall with real life example?
-4. firewall is used only in network or in linux or in any other softwore also?
-5. what are types of of firewall?
-6. name some more security software on any network?
+Questions
+
+1. What is firewall?
+2. What are the advantages of firewall?
+3. How can you connect firewall with real life example?
+4. Firewall is used only in network or in linux or in any other softwore also?
+5. What are types of of firewall?
+6. Name some more security software on any network?
