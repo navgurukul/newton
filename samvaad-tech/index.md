@@ -30,5 +30,6 @@
 - intranet.md
 - hosting.md
 - urlfile.md
+- bit_coins.md
 - todo.md
 
