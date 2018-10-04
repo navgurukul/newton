@@ -14,5 +14,5 @@ completionMethod: manual
     4. Kisi person ko zabardasti uski iccha ke bina kuch khilana ya pilana
     5. Khud  ya kisi aur ke sath uski ki iccha ke bina kuch potentially harmful karna
     6. Kisi bhi tarah ka molestation, sexual abuse ya stalking karna
-    7. Kisi bhi tarah ke misconduct ko sabhi community members seedha DISCO ko report karein
+ - Kisi bhi tarah ke misconduct ko sabhi community members seedha DISCO ko report karein
  - Off-campus Activities: NavGurukul me, kisi bhi student ki learning bahut had tak depend karti hai peer learning par aur ye sirf tabhi possible hai jab learning group ke sabhi members campus me available hon. Ye achieve karne ke liye zaroori hai ki sabhi members study hours me bhi campus me available hon. Isliye hum DISCO ko encourage karte hain ki off campus leisure activities specific time ke liye hi rakhe. Ye community members ke saftey aur security ke liye bhi zaroori hai. 
