@@ -25,9 +25,10 @@
 - flowchart.md
 - rgb.md
 - bit_coin.md
-- intranet.md
+- 
 - thread.md
 - url.md
 - fifo and lifo.md
+- intranet.md
 - todo.md
 
