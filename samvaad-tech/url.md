@@ -1,7 +1,9 @@
+
 ```ngMeta
 Name: URL
 completionMethod: manual
 ```
+
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
@@ -21,13 +23,13 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai.
 
 
 
-1.What is URL?
+1. What is URL?
 
-2.What is http?
+2. What is http?
 
-3.What is ftp?
+3. What is ftp?
 
-4.What is domain name?
+4. What is domain name?
 
 
 
