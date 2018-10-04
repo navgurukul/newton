@@ -4,7 +4,6 @@
 - dns.md
 - database.md
 - networking.md
-- server.md
 - client_server_model.md
 - linux.md
 - firewall.md
@@ -13,6 +12,7 @@
 - networking.md
 - what_is_hacking.md
 - search_engine.md
+- server.md
 - 64bit_vs_32bit.md
 - data_mining.md
 - hacking.md
