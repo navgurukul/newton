@@ -1,5 +1,5 @@
 ```ngMeta
-name: 64bit_vs_32bit
+name: 64bit vs 32bit
 completionMethod: manual
 ```
 ## Apko ye videos dekhne Rahe Hai
