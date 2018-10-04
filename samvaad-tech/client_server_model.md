@@ -1,5 +1,5 @@
 ```ngMeta
-name: Domain Names or URL
+name: Client_Server_Model
 completionMethod: manual
 ```
 *Apko ye videos dekhne Rahe Hai*
