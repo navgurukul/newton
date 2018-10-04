@@ -18,5 +18,6 @@
 - computer_networking.md
 - hacking.md
 - keyword.md
+- browser.md
 - todo.md
 
