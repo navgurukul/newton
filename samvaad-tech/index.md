@@ -5,4 +5,5 @@
 - database.md
 - networking.md
 - server.md
+- client_server_model.md
 - todo.md
