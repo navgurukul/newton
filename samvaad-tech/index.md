@@ -29,5 +29,6 @@
 - url.md
 - fifo and lifo.md
 - intranet.md
+- hosting.md
 - todo.md
 
