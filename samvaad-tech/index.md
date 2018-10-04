@@ -32,5 +32,6 @@
 - urlfile.md
 - bit_coins.md
 - social_media.md
+- bootstrap.md
 - todo.md
 
