@@ -24,7 +24,7 @@
 - flowchart.md
 - rgb.md
 - bit_coin.md
-- Intranet.md
+- intranet.md
 - thread.md
 - url.md
 - todo.md
