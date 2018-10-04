@@ -3,19 +3,12 @@ name:Browser
 completionMethod: manual
 ```
 
-Do log ko mil kar sabse pehle yeh videos dekhni hai
-
-
-@[youtube](completionMethod: manual)
-
-
-
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
 
 @[youtube](LIaKxPZ9TP8)
 
-@[youtube](EU3oD8k59oc&t=869s)
+@[youtube](BrXPcaRlBqo)
 
 Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
 
