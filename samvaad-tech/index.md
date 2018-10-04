@@ -7,4 +7,5 @@
 - server.md
 - client_server_model.md
 - linux.md
+- firewall.md
 - todo.md
