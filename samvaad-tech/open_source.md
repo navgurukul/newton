@@ -1,16 +1,16 @@
 ```ngMeta
-name: Open source
+name:Open Source
 completionMethod: manual
 ```
 
-Aap yeh videos dekhein:
+## Aap yeh videos dekhein:
 
 @[youtube](XuK88lawLWg)
 
 
 ### Ab aapko 30 mins ke liye aapas mei `english` mei baat karni hai.
 
-karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
+Discussion karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
 
 Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.
 
@@ -27,6 +27,3 @@ Yeh question open source se related hai:-
 **Tips**:
 
 1.Aap subtitles/captions on kar sakte hai,YouTube video dekhte hue
-
-
-
