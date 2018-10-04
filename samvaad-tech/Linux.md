@@ -2,7 +2,8 @@
 name: Domain Names or URL
 completionMethod: manual
 ```
-##Aap yei videos dekhaye
+
+## Aap yei videos dekhaye
 
 @[youtube](xRX6ZI_P-LA&vl=en)
 
@@ -11,7 +12,7 @@ completionMethod: manual
 ### What is Linux
 Linux is a family of free and open-source software operating systems built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution for both desktop and server use.
 
-###Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
+### Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
 
 Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
@@ -24,6 +25,6 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 7. Linux  hume kiu use krna chahiye?
 8. Linux ka kernal kya hota hai?
 
-###Tips:
+### Tips:
 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
 2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
