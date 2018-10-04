@@ -1,6 +1,5 @@
 - howtouse.md
 - operating_system.md
-- domain.md
 - dns.md
 - database.md
 - networking.md
