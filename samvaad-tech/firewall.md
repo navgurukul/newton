@@ -1,5 +1,5 @@
 ```ngMeta
-name: firewall
+name: Firewall
 completionMethod: manual
 ```
 
