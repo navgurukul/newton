@@ -18,5 +18,6 @@
 - hacking.md
 - keyword.md
 - browser.md
+- Bit and Byte.md
 - todo.md
 
