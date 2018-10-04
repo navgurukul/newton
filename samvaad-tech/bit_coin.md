@@ -21,7 +21,7 @@ Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe h
 Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.
 
 
-# Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
+### Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 
 1.What are bitcoins?
