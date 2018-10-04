@@ -5,7 +5,7 @@ completionMethod: manual
 ```
 ## Ap ye videos dekhkr rgb ko easily smjh skte he
 
-@[youtube](reGEoQDPfRNOk&featu=youtu.be)
+@[youtube](GEoQDPfRNOk&feature=youtu.be)
 
 @[youtube](K9DVg2OhXFQ&feature=youtu.be)
 
