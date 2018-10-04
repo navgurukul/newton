@@ -24,3 +24,8 @@ Questions
 4. Firewall is used only in network or in linux or in any other softwore also?
 5. What are types of of firewall?
 6. Name some more security software on any network?
+
+Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+Tips:
+1 . Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
+2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
