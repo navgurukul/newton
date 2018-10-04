@@ -31,5 +31,6 @@
 - hosting.md
 - urlfile.md
 - bit_coins.md
+- social_media.md
 - todo.md
 
