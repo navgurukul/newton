@@ -1,8 +1,8 @@
 ```ngMeta
-name: Client_Server_Model
+name: Client Server Model
 completionMethod: manual
 ```
-*Apko ye videos dekhne Rahe Hai*
+*Apko jo  videos dekhne Rahe Hai*
 
 @[youtube](L5BlpPU_muY)
 
