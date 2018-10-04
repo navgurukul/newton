@@ -6,7 +6,10 @@ completionMethod: manual
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
 @[youtube](cxdsNQXFFDk&t=105s)
+
+
 @[youtube](zN29NHUy7g0)
+
 
 
 Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
