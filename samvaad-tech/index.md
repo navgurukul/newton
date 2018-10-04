@@ -12,5 +12,6 @@
 - binary_code.md
 - networking.md
 - what_is_hacking.md
+- search-engine.md
 - todo.md
 
