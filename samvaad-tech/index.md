@@ -10,6 +10,7 @@
 - firewall.md
 - lan_man_wan.md
 - binary_code.md
--networking.md
+- networking.md
+- what_is_hacking.md
 - todo.md
 
