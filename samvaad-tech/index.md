@@ -21,6 +21,6 @@
 - bit_and_byte.md
 - cookie.md
 - flowchart.md
-- domain.md
+- rgb.md
 - todo.md
 
