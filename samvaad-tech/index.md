@@ -19,6 +19,7 @@
 - keyword.md
 - browser.md
 - bit_and_byte.md
+- open_source.md
 - cookie.md
 - flowchart.md
 - rgb.md
