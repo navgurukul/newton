@@ -5,8 +5,8 @@ completionMethod: manual
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
-@[youtube](CxdsNQXFFDK)
-@[youtube](ZN29NHUY7go)
+@[youtube](cxdsNQXFFDk&t=105s)
+@[youtube](zN29NHUy7g0)
 
 
 Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
@@ -21,6 +21,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 3. kya Server me data secure rhta hai?
 4. NavGurukul ka Server kya hai?
 5. Client and server me kya difference hai?
+
 
 
 
