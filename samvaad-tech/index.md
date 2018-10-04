@@ -19,7 +19,6 @@
 - keyword.md
 - browser.md
 - bit_and_byte.md
-- domain.md
 - cookie.md
 - flowchart.md
 - todo.md
