@@ -8,4 +8,5 @@
 - client_server_model.md
 - linux.md
 - firewall.md
+- lan_man_wan.md
 - todo.md
