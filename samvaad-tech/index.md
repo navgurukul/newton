@@ -23,5 +23,6 @@
 - flowchart.md
 - rgb.md
 - bit_coin.md
+- thread.md
 - todo.md
 
