@@ -33,7 +33,7 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 3.kya Browser bina internet ka chal skta hai.?
 
-4.Avi ke time me kon kon sa Browser least model ka hai? 
+4.Avi ke time me kon kon sa Browser least model ka hai?  
 
 5.Browser me web Browser page kya hai.?
 
