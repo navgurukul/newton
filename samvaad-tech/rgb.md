@@ -1,8 +1,8 @@
 ``ngMeta
-name: rgb
+Name:RED GREEN BLUE
 completionMethod: manual
 ```
-*Ap ye videos dekhkr rgb ko easily smjh skte he*
+## AAp ye videos dekhkr rgb ko easily smjh skte he
 
 @[youtube](reGEoQDPfRNOk&featu=youtu.be)
 
@@ -17,7 +17,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 yha kuch questions he in par ap apne partner ke sath english me discuss kre jisse apke concept clear hoske.
 
-1. what is rgb?
+1. what is RGB?
 2. white colour ke liye kitna red,kitna green and kitna blue colour lagega?
 3. hum 1 screen par sare colour kese dekh skte he.?
 4. green and red ke combition se konsa colour bnega?
