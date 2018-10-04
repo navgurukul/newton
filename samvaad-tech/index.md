@@ -23,6 +23,7 @@
 - flowchart.md
 - rgb.md
 - bit_coin.md
+- Intranet.md
 - thread.md
 - open_source.md
 - url.md
