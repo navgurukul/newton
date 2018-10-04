@@ -1,6 +1,6 @@
 
 ```ngMeta
-Name:RED GREEN BLUE
+Name:rgb
 completionMethod: manual
 ```
 ## Ap ye videos dekhkr rgb ko easily smjh skte he
