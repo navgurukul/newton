@@ -1,5 +1,5 @@
 ```ngMeta
-name: firewall
+name: data_mining
 completionMethod: manual```
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni ha
