@@ -1,5 +1,5 @@
 ```ngMeta
-name: Bit coin
+name: bit coin
 completionMethod: manual
 ```
 
