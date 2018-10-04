@@ -8,6 +8,7 @@
 - firewall.md
 - lan_man_wan.md
 - binary_code.md
+- bot.md
 - networking.md
 - server.md
 - search_engine.md
