@@ -22,5 +22,6 @@
 - cookie.md
 - flowchart.md
 - rgb.md
+- bit coin.md
 - todo.md
 
