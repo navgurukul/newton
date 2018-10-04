@@ -1,9 +1,9 @@
 ```ngMeta
-name: URL
+Name: URL
 completionMethod: manual
 ```
 
-Do log ko mil kar sabse pehle yeh videos dekhni hai
+## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
 @[youtube](SjuSCbCIXtc)
 
@@ -21,17 +21,17 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai.
 
 
 
-1.what is URL?
+1.What is URL?
 
-2.what is http?
+2.What is http?
 
-3.what is ftp?
+3.What is ftp?
 
-4.what is domain name?
+4.What is domain name?
 
 
 
-.Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
 
 **Tips**:
 
