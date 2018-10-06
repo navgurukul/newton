@@ -163,6 +163,15 @@ for i in range(5):
 ```
 Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=5s2Uo9333Mo) ya yeh [video](https://www.youtube.com/watch?v=pXbIsbvmKLQ) dekh sakte ho. Kaunsi video aapko jyada clear lagi?
 
+```python
+for a in range(4):
+    for b in range(4):
+        if (a==b):
+            break
+        print 'x',
+    print ''
+```
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=pXbIsbvmKLQ) dekh sakte ho.
 
 **Hints**
 - h - HCF nikalne ke liye hai.
