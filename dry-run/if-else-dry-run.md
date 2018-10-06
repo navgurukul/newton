@@ -134,3 +134,5 @@ else:
 ```
 
 u1 aur u2 ko different different values jaise "**rock**", "**scissors**", "**paper**", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
+
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=5v0Ie9ig0Qs) dekh sakte ho.

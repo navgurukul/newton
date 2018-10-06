@@ -130,7 +130,7 @@ for i in range(5):
             print 'x',
     print ''
 ```
-Iska solution verify ya samajhne ke liye aap yeh [video](https://www.youtube.com/watch?v=5s2Uo9333Mo) dekh sakte ho.
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=5s2Uo9333Mo) dekh sakte ho.
 
 **Hints**
 - h - HCF nikalne ke liye hai.
