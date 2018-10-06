@@ -6,6 +6,8 @@ completionMethod: manual
 Modulus/Remainder yani ki % and divide /, computers mai aise kaam karte hai,
 `x = 3`, agar x ko 2 se divide karenge to kya answer aayega?
 
+Modulus kya hota hai, yeh samajhne ke liye aap yeh [video](https://www.youtube.com/watch?v=0k-X9XXlp_U) dekho.
+
 yaad rakhiyega ki interger nos ke liye, hamesha integer hi answer aata hai, mtlb usme float nahi aata
 so jab 3 ko 2 se divide karenge to answer 1 aayega and Remainder bhi 1 hi aayega
 
