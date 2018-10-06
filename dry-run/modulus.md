@@ -52,24 +52,6 @@ else:
 ```
 Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=xBWa3aN7-84) dekh sakte ho.
 
-is program mai humne int or float dono daale hai, isko dhyaan se kijeyega
-
-```python
-x = 5
-y = 4
-z = y*1.0
-
-if x/y == x/z:
-	print "same hai"
-else:
-	print "same nahi hai"	
-
-
-print x/y
-print x/z
-```
-<!-- todo division of floats and integers -->
-
 ```python
 a = [23, 28, 12, 7, 49, 87]
 for i in a:
