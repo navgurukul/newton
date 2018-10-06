@@ -45,11 +45,12 @@ Ye program ye batata hai ki **x** 3 ka multiple hai ya nahi, is program ko dry r
 
 ```python
 x = 12
-if (x%6 == 0):
+if (x%3 == 0):
 	print "3 ka multiple hai"
 else:
 	print "3 ka multiple nahi hai"
 ```
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=xBWa3aN7-84) dekh sakte ho.
 
 is program mai humne int or float dono daale hai, isko dhyaan se kijeyega
 
