@@ -119,3 +119,22 @@ print new_amount
 
 ```
 new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye
+
+
+Iss program mai humne int or float dono daale hai, isko dhyaan se kijeyega. Dhyaan rakhein, floats aur integer division alag alag hota hai.
+
+```python
+x = 5
+y = 4
+z = y*1.0
+
+if x/y == x/z:
+	print "same hai"
+else:
+	print "same nahi hai"	
+
+
+print x/y
+print x/z
+```
+<!-- todo division of floats and integers: EXPLAIN -->
