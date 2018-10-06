@@ -26,6 +26,8 @@ while c < 3:
 else:
     print "Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai"
 ```
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=oG_jCqPVJYA) dekh sakte ho.
+
 
 ```python
 num = 407
