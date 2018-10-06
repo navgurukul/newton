@@ -3,6 +3,19 @@ name: While Loops
 completionMethod: manual
 ```
 
+While loop kya hota hai yeh samajhne ke liye aap yeh [video](https://www.youtube.com/watch?v=efg169eYEqo) ya [video](https://www.youtube.com/watch?v=oG_jCqPVJYA) dekhein.
+
+```python
+c = 0
+
+while c < 3:
+    print "Loop Ke Andar"
+    c = c + 1
+else:
+    print "Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai"
+```
+
+Ab aap yeh questions solve karein.
 ```python
 n = 6
 s = 0
@@ -16,18 +29,6 @@ print s
 ```
 
 `while` ke saath `else` ka bhi use ho sakta hai. Jab `while` loop khatam ho jata hai, toh `else` wala code execute hota hai. Yeh trick kaafi baar useful hoti hai.
-
-```python
-c = 0
-
-while c < 3:
-    print "Loop Ke Andar"
-    c = c + 1
-else:
-    print "Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai"
-```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=oG_jCqPVJYA) dekh sakte ho.
-
 
 ```python
 num = 407
