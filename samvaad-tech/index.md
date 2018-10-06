@@ -26,7 +26,6 @@
 - rgb.md
 - bit_coin.md
 - thread.md
-- fifo and lifo.md
 - intranet.md
 - hosting.md
 - urlfile.md
