@@ -55,6 +55,7 @@ a = c*2
  b = c + a
  c = a * c
 ```
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=fny5w_YKSc8) dekh sakte ho.
 
 <!-- TODO: MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
 ```python

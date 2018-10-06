@@ -18,25 +18,23 @@ print x%2
 
 ```python
 x = 1
-
 print x/2
 print x%2
-
 ```
 
 ```python
 x = 5
 y = 4
-print x/y
-print x%y
+print x / y
+print x % y
 ```
 
 
 ```python
 x = 5
 y = 4
-print x/y
-print x%y
+print x / y
+print x % y
 ```
 
 ye program mai kuch galti hai isko aap ko sahi karna hai
@@ -68,7 +66,7 @@ else:
 print x/y
 print x/z
 ```
-
+<!-- todo division of floats and integers -->
 
 ```python
 a = [23, 28, 12, 7, 49, 87]
