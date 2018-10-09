@@ -1,15 +1,14 @@
 - howtouse.md
 - operating_system.md
-- dns.md
 - database.md
 - networking.md
+- dns.md
 - client_server_model.md
 - linux.md
 - firewall.md
 - lan_man_wan.md
 - binary_code.md
 - bot_file.md
-- networking.md
 - server.md
 - search_engine.md
 - 64bit_vs_32bit.md
