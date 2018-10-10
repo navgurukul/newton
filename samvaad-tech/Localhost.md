@@ -1,5 +1,5 @@
 ```ngMeta
-name:Server
+name: Localhost
 completionMethod: manual
 ```
 
