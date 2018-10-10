@@ -49,13 +49,13 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-1.Encryption kya hota hai ?
-2.Encrypt kya hai ?
-3.Key kya hota hai ?
-4.Decryption karne kiski jarurat hoti hai ?
-5.Kya Encryption achcha tarika hai data ko safe karne ke liye agar hai to kyu.
+1.Encryption kya hota hai ?<br>
+2.Encrypt kya hai ?<br>
+3.Key kya hota hai ?<br>
+4.Decryption karne kiski jarurat hoti hai ?<br>
+5.Kya Encryption achcha tarika hai data ko safe karne ke liye agar hai to kyu.?<br>
 6.Yadi aapko apne friend ko encryption real life example deke samjhana ho to aap kya
-Example denge?
+Example denge?<br>
 
 **Tips**:
 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
