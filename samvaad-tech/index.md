@@ -37,7 +37,7 @@
 - json_xml.md
 - pair_programming.md
 - bootstrap.md
-- Internet_of_things.md
+- internet_of_things.md
 - cloud_computing.md
 - saas.md
 - router.md
