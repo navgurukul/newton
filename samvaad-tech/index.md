@@ -39,4 +39,5 @@
 - Internet_of_things.md
 - cloud_computing.md
 - saas.md
+- router.md
 - todo.md
