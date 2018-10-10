@@ -31,6 +31,7 @@
 - urlfile.md
 - bit_coins.md
 - socialmedia.md
+- Ide_editor.md
 - encryption.md
 - bootstrap.md
 - Internet_of_things.md
