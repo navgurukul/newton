@@ -8,6 +8,7 @@ Aap pahle ye videos dekh lijiye, ishse aapka concept clear ho jayega and aage sa
 
 In English
 @[youtube](kfPPmmd9CRE)
+
 In Hindi
 @[youtube](3KBfiOKMaWo)
 
@@ -29,11 +30,13 @@ dicoding code ko saada paath ya kishi bhi praaroop mein badalne ki prakriya hai 
 
 <span><img src="https://i.ytimg.com/vi/3per0Uq3BnA/maxresdefault.jpg
 "></span>
+
 Behtar jaankari ke liye aap ish video ko poora dekhiye..
 
 @[youtube](0qTnewnVRLo)
 
 ##Letter coding:-
+
 In letter coding type of questions, the real alphabets in a word are replaced be certain other alphabets according to a specific rule to form its code. The candidate is required to detect the common rule and answer the questions accordingly.
 
 @[youtube](jRHLrfJC6Rk)
