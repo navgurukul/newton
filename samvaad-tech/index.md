@@ -26,7 +26,6 @@
 - bit_coin.md
 - thread.md
 - intranet.md
-- hosting.md
 - urlfile.md
 - bit_coins.md
 - social_media.md
