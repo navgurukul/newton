@@ -20,7 +20,7 @@ ki help se flow ho sakta hai.
 note :-yha humne appko Bandwidth samjhne ki kosish ki hai.
 abb aap baki ka content English main padhe,or yeh apko tech se related kuch words batane main help krenge or jo abko kuch complicated lage bo aap Google kr skte hai.
 
-### You can also learn from hearn in english with small content.
+### You can also learn from here in english with small content.
 
 Bandwidth describes the maximum data transfer rate of a network or Internet connection. It measures how much data can be sent over a specific connection in a given amount of time. For example, a gigabit Ethernet connection has a bandwidth of 1,000 Mbps, (125 megabytes per second). An Internet connection via cable modem may provide 25 Mbps of bandwidth.
 
