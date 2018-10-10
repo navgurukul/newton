@@ -1,6 +1,6 @@
 
 ```ngMeta
-Name: urlfile
+Name: URL
 completionMethod: manual
 ```
 
@@ -11,7 +11,6 @@ completionMethod: manual
 
 
 ## Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
-
 
 
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
@@ -25,12 +24,11 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai.
 
 1. What is URL?
 
-2. What is http?
+2. What is HTTP?
 
-3. What is ftp?
+3. What is FTP?
 
 4. What is domain name?
-
 
 
 Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
@@ -40,4 +38,3 @@ Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
 
 2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
- 
