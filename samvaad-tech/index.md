@@ -12,6 +12,8 @@
 - server.md
 - search_engine.md
 - 64bit_vs_32bit.md
+- Backend.md
+- Frontend.md
 - data_mining.md
 - domain.md
 - computer_networking.md
