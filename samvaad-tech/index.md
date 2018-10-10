@@ -34,6 +34,7 @@
 - Ide_editor.md
 - Localhost.md
 - encryption.md
+- searching.md
 - pair_programming.md
 - bootstrap.md
 - Internet_of_things.md
