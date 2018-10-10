@@ -31,6 +31,6 @@
 - social_media.md
 - bootstrap.md
 - Internet_of_things.md
+- cloud_computing.md
 - saas.md
 - todo.md
-
