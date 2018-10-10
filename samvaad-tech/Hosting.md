@@ -27,15 +27,19 @@ Hosting service aapki website files ko web service per store kar deti hai. Jab k
 <span><img src="https://www.znetlive.com/blog/wp-content/uploads/2016/01/Web-hosting-ki-karya-pranali.jpg"></span>
 
 ##Types of Hosting :
-Web industry me different types ke web service available hai.-
-	1. Shared Server hosting
-	2. Virtual Private Server (VPS) hosting
-	3. Dedicated Server hosting
+
+*Web industry me different types ke web service available hai.-*
+
+1. Shared Server hosting
+2. Virtual Private Server (VPS) hosting
+3. Dedicated Server hosting
 
 ##1. Shared Server hosting:-
+
 Ye hosting ek hostal mein rahane ke saman hai.  jis prakaar hostal mein aap bahuton ke sang apane rahane ka sthaan baantate hain, ushi  prakaar is hosting prakaar ke antargat ek physichal server par bahut saaree websites ki mezabaanee kee jaatee hai. shared server in sabhi websites  ko web space aur CPU, RAM  jaise sansaadhano ko ek saath istamaal karane kee suvidha upalabdh karaata hain jisake parinaamasvaroop ish hosting prakaar kee laagat baki dono  prakaar ki hostings se kam hotee hai.
 
 ##2. Virtual Private Server (VPS) hosting:-
+
 Ye hosting ek flate mein rahane ke saman hai, jahaan aap bhale hee aap apana main get sabake sang share kare par apane ghar par ek aur extra gate hone se aapako apane selfnity (privecy) bhi praapt hoti hai.
 
 VPS hosting virtualization takaneek ka prayog karati hai, jisake antargat ek physical server ko virtually different server mein divide kiya jaata hai, parinaamavash ek hee server par hote hue bhee baki websites aapake hisse ke web space aur sansaadhano ka upayog nahi kar paatee hain. ish kaaran ye hosting aapako privecy  aur suraksha (protection)  jaise laabh pradaan karati hai.
