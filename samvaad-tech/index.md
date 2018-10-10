@@ -30,7 +30,7 @@
 - intranet.md
 - urlfile.md
 - bit_coins.md
-- social-media.md
+- socialmedia.md
 - bootstrap.md
 - Internet_of_things.md
 - cloud_computing.md
