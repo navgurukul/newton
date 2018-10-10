@@ -41,4 +41,7 @@
 - cloud_computing.md
 - saas.md
 - router.md
+- bandwidth.md
+- CMD.md
+- scripting.md
 - todo.md
