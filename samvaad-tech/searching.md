@@ -55,14 +55,14 @@ Find the location of value
 	
 </table>
 
-While low<=high
-Do mid=(low+high)/2
-If v=a[mid]
-    Return mid
-If v>a[mid]
-low=mid+1
-Else high =mid +1
-Return nill 
+While low<=high<br>
+Do mid=(low+high)/2<br>
+If v=a[mid]<br>
+    Return mid<br>
+If v>a[mid]<br>
+low=mid+1<br>
+Else high =mid +1<br>
+Return nill<br> 
 
 ### Binary Searching ko detail main samjne ke liye ye video dekhe
 @[youtube](1HIFzve0zCM)
