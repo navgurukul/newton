@@ -42,6 +42,6 @@
 - saas.md
 - router.md
 - bandwidth.md
-- CMD.md
+- CMS.md
 - scripting.md
 - todo.md
