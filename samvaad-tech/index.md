@@ -31,5 +31,7 @@
 - bit_coins.md
 - social_media.md
 - bootstrap.md
+- Internet_of_things.md
+- saas.md
 - todo.md
 
