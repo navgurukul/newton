@@ -33,6 +33,7 @@
 - socialmedia.md
 - Ide_editor.md
 - encryption.md
+- pair_programming.md
 - bootstrap.md
 - Internet_of_things.md
 - cloud_computing.md
