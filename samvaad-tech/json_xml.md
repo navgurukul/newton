@@ -18,7 +18,7 @@ json array,object, string, number aur values ko supports karata hai
 
 ## JSON Example
 aapako is example se maloom hoga ki apane topic aur edition ke aadhaar par books se sambandhit jaanakaaree store karane ke lie json ka upayog kaise karate hai.
-
+```
 {
    "book": [
 	
@@ -37,9 +37,9 @@ aapako is example se maloom hoga ki apane topic aur edition ke aadhaar par books
       }
    ]
 }
-
+```
 uparokt example dekhane ke baad aap neeche ek aur example dekh sakate hai jisko json.htm ke roop mein save kiya gaya hai .
-
+```
 <html>
    <head>
       <title>JSON Example</title>
@@ -69,7 +69,7 @@ uparokt example dekhane ke baad aap neeche ek aur example dekh sakate hai jisko 
    </body>
 	
 </html>
-
+```
 
 
 # XML
@@ -89,13 +89,15 @@ hamaara compare karane ka purpose yah nahin hai ki kaun nishchit roop se us line
 @[youtube](F7a_6r575RQ)
 
 ## JSON Example
+```
 {"employees":[  
     {"name":"Alia", "email":"alia050@gmail.com"},  
     {"name":"Kareena", "email":"kareenal12@gmail.com"},  
     {"name":"Salman", "email":"salman0202@gmail.com"}  
 ]}  
-
+```
 ## XML Example
+```
 <employees>  
     <employee>  
         <name>Alia</name>   
@@ -110,7 +112,7 @@ hamaara compare karane ka purpose yah nahin hai ki kaun nishchit roop se us line
         <email>salman0202@gmail.com</email>  
     </employee>  
 </employees>
-
+```
 # Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
 Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.
