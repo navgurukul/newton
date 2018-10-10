@@ -5,7 +5,7 @@ completionMethod: manual
 
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
-@[youtube](xXpwMzyhBqI&t=335s)
+@[youtube](xXpwMzyhBqI&t=335s)<br>
 @[youtube](j9wWPEmxSZg)
 
 
@@ -30,7 +30,7 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 Agar aapko Back-end development ke bare me detail me padna hai to aap neeche diye gaye links pe ja sakte hai :
 
-<span><a href="https://en.wikipedia.org/wiki/Front_and_back_ends">yaha click kare</a></span>
+<span><a href="https://en.wikipedia.org/wiki/Front_and_back_ends">yaha click kare</a></span><br>
 <span><a href="https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start">Yaha click kare</a></span>
 
 **Tips**:
