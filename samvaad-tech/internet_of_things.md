@@ -1,5 +1,5 @@
 ```ngMeta
-name: What is IOT (Internet of things)
+name: What is IOT 
 completionMethod: manual
 ```
 
