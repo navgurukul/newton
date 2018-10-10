@@ -51,7 +51,7 @@ Find the location of value
 	<td>19</td>
 	<td>21</td>
 	<td>23</td>
-	<td>25</td>/tr>		
+	<td>25</td></tr>		
 	
 </table>
 
