@@ -46,12 +46,12 @@ Find the location of value
  
   	      0	     1	      2   	     3	     4	     5	
 <table>
-	<tr><td>10</td>/tr>
-	<tr><td>18</td>/tr>
-	<tr><td>19</td>/tr>
-	<tr><td>21</td>/tr>
-	<tr><td>23</td>/tr>
-	<tr><td>25</td>/tr>		
+	<tr><td>10</td>
+	<td>18</td>
+	<td>19</td>
+	<td>21</td>
+	<td>23</td>
+	<td>25</td>/tr>		
 	
 </table>
 
