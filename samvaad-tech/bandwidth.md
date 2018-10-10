@@ -3,7 +3,7 @@ name: Bandwidth
 completionMethod: manual
 ```
 
-###What is Bandwidth ?
+### What is Bandwidth ?
 
 Bandwidth kisi network ya internet connection ki maximum data transfer
 rate ko describe karata hai.yah dekta hai ki kisi specific time par kisi specific
@@ -20,7 +20,7 @@ ki help se flow ho sakta hai.
 note :-yha humne appko Bandwidth samjhne ki kosish ki hai.
 abb aap baki ka content English main padhe,or yeh apko tech se related kuch words batane main help krenge or jo abko kuch complicated lage bo aap Google kr skte hai.
 
-###You can also learn from hearn in english with small content.
+### You can also learn from hearn in english with small content.
 
 Bandwidth describes the maximum data transfer rate of a network or Internet connection. It measures how much data can be sent over a specific connection in a given amount of time. For example, a gigabit Ethernet connection has a bandwidth of 1,000 Mbps, (125 megabytes per second). An Internet connection via cable modem may provide 25 Mbps of bandwidth.
 
@@ -28,21 +28,21 @@ While bandwidth is used to describe network speeds, it does not measure how fast
 
 @[youtube](2qpFgKVmyMc )
 
-##How does it work?
+## How does it work?
 
 @[youtube](4i3pmmXuS8s)
 
-###Type of Bandwidth :-
+### Type of Bandwidth :-
 
-##PUBLIC WIRELESS
+## PUBLIC WIRELESS
 
 Long Term Evolution (LTE) cellular service, also referred to as 4G, and satellite tend to be more expensive than terrestrial services offering similar bandwidth. 
 
-##PUBLIC BROADBAND
+## PUBLIC BROADBAND
 
 The term broadband is shorthand for broad bandwidth. These high-speed Internet connections are provided through either cable or telephone companies. Broadband Internet uses multiple data channels to transfer large quantities of information.
 
-##PRIVATE NETWORKS
+## PRIVATE NETWORKS
 
 As the name implies, private networks are not shared. They are sold through carriers as professional business services with Service Level Agreements (SLA) that include Quality of Service (QoS) terms. Because of this, contracts are significantly more expensive than best effort public broadband services and have lengthy contract durations (typically 36 to 60 months).
 
