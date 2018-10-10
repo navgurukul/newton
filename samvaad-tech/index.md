@@ -31,7 +31,6 @@
 - urlfile.md
 - bit_coins.md
 - socialmedia.md
-- Ide_editor.md
 - Localhost.md
 - encryption.md
 - searching.md
