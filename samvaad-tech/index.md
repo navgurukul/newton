@@ -35,6 +35,7 @@
 - Localhost.md
 - encryption.md
 - searching.md
+- json_xml.md
 - pair_programming.md
 - bootstrap.md
 - Internet_of_things.md
