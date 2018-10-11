@@ -5,7 +5,8 @@ completionMethod: manual
 
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
-@[youtube](xXpwMzyhBqI&t=335s)<br><br>
+@[youtube](xXpwMzyhBqI&t=335s)
+
 @[youtube](j9wWPEmxSZg)
 
 
