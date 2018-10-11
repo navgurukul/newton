@@ -3,7 +3,7 @@ name: Scripting
 completionMethod: manual
 ```
 
-### Scripting Language:-
+## Scripting Language:-
 
 ## What is Scripting Language?
 
@@ -31,7 +31,9 @@ completionMethod: manual
 Allow complex tasks to be performed in relatively few steps.
 
 #Umid krte hai ye videos aapko scripting language smjhne me madad kregi.
+
 @[youtube](9lN5vB9sKsk)
+
 @[youtube](XnsOTv7SUR4)
 
 ## In ouestion ko krte hue aap internet ka use kr sakte hai aur Friends help le skte hai:-
