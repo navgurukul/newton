@@ -6,7 +6,7 @@ completionMethod: manual
 ## PAIR PROGRAMMING
 Formally , one programmer is the driver and write codes. The other is the observer or the navigator who reviews each line of code as it is typed in. Jab programmers pair programming karte hai toh unse unki understanding better hoti hai and ek problem ya phir  ek task ko wo different method se solve kar sakte hai………
 
-## PAIR PROGRAMMING KE BAARE MAIN AUR ADHIK JAANE KE LIYE IS VIDEO KO DEKHE
+PAIR PROGRAMMING KE BAARE MAIN AUR ADHIK JAANE KE LIYE IS VIDEO KO DEKHE
 
 @[youtube](YhV4TaZaB84)
 
