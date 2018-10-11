@@ -2,15 +2,15 @@
 name: Searching
 completionMethod: manual
 ```
-### What is Searching
+## What is Searching
 A search is a that where find or searching any data, roll number, and type information from list.
 That is called search.
 
-### There are two type of search.
+## There are two type of search.
  1) Linear Search
  2) Binary Search
 
-### Linear searching :--
+## Linear searching :--
  Linear search is a searching any data by sequence or series.that is call Linear searching.
 
 Example:--
@@ -32,14 +32,15 @@ If a[i]==x;
     Return i;
 Return 0; (there is no element which you want to search)
 
-### Searching ko aur samjne ke liye aap ye video dekh skte hai
+## Searching ko aur samjne ke liye aap ye video dekh skte hai
+
 @[youtube](U55MOdjEWKY)
 
-### Advatages of Linear Search
+## Advatages of Linear Search
 1) It is very easy to understand and implement;
 2) It does not require the data in the array to be stored in any particular order.
 
-### Binary Searching
+## Binary Searching
 Binary search works on sorted arrays. Binary search begins by comparing the middle element of the array with the target value. If the target value matches the middle element, its position in the array is returned. If the target value is less than the middle element, the search continues in the lower half of the array.
 syntax:--
 Find the location of value
@@ -64,14 +65,15 @@ low=mid+1<br>
 Else high =mid +1<br>
 Return nill<br> 
 
-### Binary Searching ko detail main samjne ke liye ye video dekhe
+## Binary Searching ko detail main samjne ke liye ye video dekhe
+
 @[youtube](1HIFzve0zCM)
 
-### About detail of Binary search:
+## About detail of Binary search:
 
 https://en.wikipedia.org/wiki/Binary_search_algorithm.<br>
 
-### Advantages of Binary search:-
+## Advantages of Binary search:-
  1) If the array being searched contains 20,000 elements, the algorithm will have to look at all 20,000 elements in order to find a value in the last element.
  2) The binary search is much more efficient than the linear search.
 
