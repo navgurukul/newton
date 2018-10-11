@@ -4,7 +4,9 @@ completionMethod: manual
 ```
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
-@[youtube](uwnox19xoTk)<br><br>
+
+@[youtube](uwnox19xoTk)
+
 @[youtube](j9wWPEmxSZg)
 
 
