@@ -3,14 +3,14 @@ name: Encryption
 completionMethod: manual
 ```
 
-### ENCRYPTION KYA HAI ?
+## ENCRYPTION KYA HAI ?
 
 Encryption ek tarika hai jisse aap apne data ki safety ko increase karte hai.
 Agar hum simple language me baat kare to ye ek aisa tarika jisme hamara data 
 Machinary language me save hota jisse sirf wahi device ya software samjh sakta hai 
 Jiska use karke humne apna data save kiya hai.Dusre device ko samjhne ya access karne ke liye. Encrypt data ka key use karna padega jiske baare me hum aage padhenge.
 
-### Thoda Aur Samjhte hai. 
+## Thoda Aur Samjhte hai. 
 
 Jaise mera kisi social networking ka user name hai Satyam chauhan , to ab vo social 
 Networking software mere user name ko apni machinary language me save karega .
@@ -19,7 +19,7 @@ Maan lijiye usne mere username ke letters ko ek letter aage samjh kar save kiya 
 Save hoga jo sirf wahi software hi samjh sakta hai.
 Isi parkaar sabhi software ka data save karne ka tarika alag alag hota hai. .
 
-### ENCRYPT
+## ENCRYPT
 
 Simple language ko machinary language me convert karna hi encrypt kahlata hai .
 Jais ki hamne upar dekha ki software ne Satyam chauhan ko Tbuzbn dibvibo ki form
@@ -28,10 +28,10 @@ Convert kar diya hai ise hi encrypt kahte hai. Is whole process ko encryption ka
 ### Encryption ko sahi se samjhne ke liye in videos ko dekhe aur samjhe ki encryption kya hota hai.
 
 @[youtube](wMSYlOfS2uE)
-<br>
+
 @[youtube](tXR1N_D-9UU)
 
-### KEY
+## KEY
 
 Key kya hota hai ,key ek tarika hota hai data encrypt karne ka jaise hamne upar bataya tha
 Ki software hamare data ko apne machinary language  me convert karne ke liye ek tarika istmaal karta hai jaise (S ko T , a ko b , t ko u ………)samjh kar save karta hai isi tarike ko key kahte hai.
