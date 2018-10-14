@@ -46,4 +46,4 @@ Test Case 4:
 ```
 
 ### Hint
-Loop ka istamal hoga ishme.
+**Aap ish task ko karne se phele while loop kese kaam karta hai aur ushe kese istamal karna hai iske bare meh padhna kafi madad karega apki yeh question karne me.**
