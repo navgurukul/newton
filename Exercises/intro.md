@@ -11,8 +11,10 @@ Apka `Day-1, Day-2, ..... Day-n` bolke alag alag exercises ha jishme hardin apko
 
 
 ## Course ko Istamal kese kare?
-Agar app ka program sahi output nhi deh raha hai toh apne code sahi ni likha hai ush samhe uska DRY RUN karke dekhe
-ki flow sahi toh hai yeah nhi.
+**Agar app ka program sahi output nhi deh raha hai toh apne code sahi ni likha hai ush samhe uska DRY RUN karke dekhe
+ki flow sahi toh hai yeah nhi.**
+
+**Yeah phir ush topic ke bare meh jara padhle ki woh kese kaam karta hai aur kya apne ushe sahi tarike se istamal kiya hai yeah nhi.**
 
 ### Har ek Task me 4 sections hai
 

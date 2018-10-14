@@ -10,7 +10,7 @@ completionMethod: manual
 se divide kare toh reminder kya ayega iska yeh bata ta hai.
 
 ### Question
-Apko ek number diya jayega manlo **x** toh apko 1 se leke x ke bich meh joh bi *number* **3 or 5** se **divisible** hai ushe *print* kardo.
+Apko ek number diya jayega manlo **x** toh apko *1 se leke x* ke bich meh joh bi *number* **3 or 5** se **divisible** hai ushe *print* kardo.
 
 ```
 Eg:
