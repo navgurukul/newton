@@ -56,4 +56,4 @@ Test Case 1:
 ```
 
 ### Hint
-Saal ko naye variable me copy karke ke istamal karna jada asan hoga
+No Hints

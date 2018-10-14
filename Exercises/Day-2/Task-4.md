@@ -44,9 +44,10 @@ Test Case 4:
 ```
 
 ### Hint
-Agar koi number 2 se divisble hai toh woh even number kehlata hai
+No Hints
+<!-- Agar koi number 2 se divisble hai toh woh even number kehlata hai
 ```
   3%2==0
   False
 ```
-dega
+dega -->
