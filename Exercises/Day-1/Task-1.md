@@ -10,7 +10,7 @@ completionMethod: manual
 se divide kare toh reminder kya ayega iska yeh bata ta hai.
 
 ### Question
-Apko ish sawal me ek program likhna hai jishme ek value di jayegi manlo `10` toh apko jitne bi number `3 or 5` dono se divisible hai `0` se `10` ke bich me ushe *print* karna ha.
+Apko ek number diya jayega manlo **x** toh apko 1 se leke x ke bich meh joh bi *number* **3 or 5** se **divisible** hai ushe *print* kardo.
 
 ```
 Eg:
@@ -46,4 +46,4 @@ Test Case 4:
 ```
 
 ### Hint
-No Hints
+Loop ka istamal hoga ishme.
