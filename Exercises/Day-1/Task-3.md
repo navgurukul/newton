@@ -67,9 +67,11 @@ Test Case 4:
 
 ### Hint
 
+No Hints
+<!-- 
 **2<sup>3</sup>** ko app python meh `2**3` likh sakte ho aur
 
 Digit app ese nikal sakte hai
 **123%10 = 3** dega
 **12%10 = 2** dega
-**1%10 = 1** dega
+**1%10 = 1** dega -->

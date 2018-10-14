@@ -59,4 +59,5 @@ Test Case 4:
 ```
 
 ### Hint
-factor nikalne keh liye app `%` ka sign use karsakte ho.
+No Hints
+<!-- factor nikalne keh liye app `%` ka sign use karsakte ho. -->

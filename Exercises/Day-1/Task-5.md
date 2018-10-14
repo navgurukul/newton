@@ -54,4 +54,5 @@ Test Case 4:
 ```
 
 ### Hint
-Input-1 me ek letter jitni bar hai agar wahi letter utni bar Input-2 me nhi hai toh woh Anagram nhi hai.
+No Hints
+<!-- Input-1 me ek letter jitni bar hai agar wahi letter utni bar Input-2 me nhi hai toh woh Anagram nhi hai. -->
