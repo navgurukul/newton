@@ -1,5 +1,5 @@
 ```ngMeta
-name: Day-1-Task-2
+name: Day-2-Task-2
 completionMethod: manual
 ```
 
