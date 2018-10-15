@@ -23,7 +23,7 @@ Jese manle:
 ##### Calculation:
 2<sup>15</sup> kare toh output ayega **32768**
 ab apko **32768** ke sare digit ko plus karna hai.
-**3 + 2 + 7 + 6 + 8 = 26**
+**3 + 2 + 7 + 6 + 8** jiska out ayega niche.
 ##### Output:
 **26**
 
