@@ -1,5 +1,5 @@
 ```ngMeta
-name: Day-2-Task-5
+name: Day-3-Task-4
 completionMethod: manual
 ```
 
@@ -41,4 +41,4 @@ Test Case 4:
 ```
 
 ### Hint
-Kisi number se uske last digit ko nikalne ke liye app ushe 10 se divde karke ush reminder nikal sakte hai.
+Kisi number se uske last digit ko nikalne ke liye app ushe 10 se divde karke ush digit ko as reminder nikal sakte hai.
