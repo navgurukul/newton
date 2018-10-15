@@ -12,4 +12,4 @@ completionMethod: manual
 
 ### Vocabulary
 
-1. spend: बिताना
+1. Spend: बिताना
