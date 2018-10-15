@@ -24,3 +24,7 @@ completionMethod: manual
 * Evil – बुराई
 * Numerous –  बहुत
 * Enormous - विशाल 
+* Decoratin -सजावट
+* Religious Spirits - धार्मिक आस्था
+* Celebration - उत्सव
+* Happiness - ख़ुशी
