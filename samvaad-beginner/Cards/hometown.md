@@ -21,4 +21,4 @@ completionMethod: Manual
 * Cultivating - खेती
 * Spread - फैलाना
 * Pesticides - कीटनाशक
-* Rome - इधर-उधर भटकना
+* Roam - इधर-उधर भटकना
