@@ -16,7 +16,11 @@ completionMethod: manual
 
 
 ## Vocabulary
-1. Decoration
-2. Religious Spirits
-3. Celebration
-4. Happiness
+* Victory - विजय
+* Disappoint - निराश
+* Bounties - इनाम
+* Bestowing - कन्यादान
+* Dedicate- समर्पित करना
+* Evil – बुराई
+* Numerous –  बहुत
+* Enormous - विशाल 
