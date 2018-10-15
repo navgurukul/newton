@@ -15,5 +15,3 @@ completionMethod: manual
 1. Spend: बिताना
 
 2. Pursuing: पीछा करना
-
-3. Effort: प्रयास है
