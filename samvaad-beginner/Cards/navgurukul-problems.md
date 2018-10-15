@@ -13,3 +13,4 @@ completionMethod: manual
 ### Vocabulary
 
 1. Spend: बिताना
+2. Pursuing: पीछा करना
