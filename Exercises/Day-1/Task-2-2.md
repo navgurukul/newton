@@ -56,4 +56,4 @@ Test Case 1:
 ```
 
 ### Hint
-No Hints
+Jab tak 3 pichle leap year nhi ajaye tab tak loop chalao aur 3 leap year ajaye isko pata karne ke liye ek variable bana do jiski value 1 se increase karo jab tak woh 3 tak na poch jaye ishe leap year ka pata chal jayega
