@@ -1,0 +1,48 @@
+```ngMeta
+name: Day-1-Task-2
+completionMethod: manual
+```
+
+### Reading Material
+**Leap Year** har 4 saal me ek baar ahta hai aur woh bi ush saal me joh `4 se divisible hota hai`. Lekin saat hi agar woh saal `100 se divisible hai` magar `400 se divisible nhi hai`.
+Toh woh **Leap Year** nhi kehlata hai.
+
+Eg:
+  1800 **Leap Year** nhi hai kyunki yeh `100 se divisible hai` magar `400 se divisible nhi hai`
+  2000 **Leap Year** hai kyunki yeh `100 se divisible hai` aur `400 se divisible hai`
+
+### Question
+Apko ek number diya jayega apko yeh batana hai ki yeh number leap year hai yeah nhi.
+```
+Eg:
+  Input: 1998
+  Output: Nhi hai.
+```
+
+### Test
+```
+Test Case 1:
+  Input: 1000
+  Output: Nhi hai
+```
+
+```
+Test Case 2:
+  Input: 1460
+  Output: hai
+```
+
+```
+Test Case 3:
+  Input: 1568
+  Output: hai
+```
+
+```
+Test Case 1:
+  Input: 1
+  Output: Nhi hai
+```
+
+### Hint
+No Hints
