@@ -55,4 +55,4 @@ Test Case 1:
 ```
 
 ### Hint  
-No Hints
+Apko ishme 2 while loop lagenge.
