@@ -4,7 +4,7 @@ completionMethod: manual
 ```
 
 ### Reading Material
-**Leap Year** har 4 saal me ek baar ahta hai aur woh bi ush saal me joh `4 se divisible hota hai`. Lekin saat hi agar woh saal `100 se divisible hai` toh ushe `400 se divisible hona padega` warna woh **Leap Year** nhi kehlayega hai.
+**Leap Year** har 4 saal me ek baar ahta hai aur woh bi ush saal me joh `4 se divisible hota hai`. Lekin saat hi agar woh saal `100 se divisible hai` toh ushe `400 se divisible hona padega` warna woh **Leap Year** nhi kehlayega.
 
 Eg:
   1800 **Leap Year** nhi hai kyunki yeh `100 se divisible hai` magar `400 se divisible nhi hai`
