@@ -4,7 +4,7 @@ completionMethod: manual
 ```
 
 ### Reading Material
-Joh number 2 se **divisible** hote hai woh leap Year kehlate hai.
+Joh number 2 se **divisible** hote hai woh *even number* kehlate hai.
 
 ### Question
 Apko ish task meh koi bi ek number diya jayega uske piche ke 3 **even** number nikalo.
