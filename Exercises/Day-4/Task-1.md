@@ -10,6 +10,8 @@ Har sentence words se bana hota hai aur har words joh sentence meh hote hai unke
 Apko ek sentence di jayegi jismeh kitne words ha yeh pata lagana hai.
 
 ### Test
+#### Apne program ko test karne ke liye ish input ko dale ke uske output check kare
+
 ```
 Test Case 1:
   Input: "Hello app kese ho?"
