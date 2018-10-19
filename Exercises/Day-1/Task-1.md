@@ -20,6 +20,7 @@ Eg:
 ```
 
 ### Test
+#### Apne program ko test karne ke liye ish input ko dale ke uske output check kare
 
 ```
 Test Case 1:
