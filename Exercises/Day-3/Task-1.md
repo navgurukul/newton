@@ -14,6 +14,9 @@ Jese **5** ka factorial hoga **1*2*3*4*5=120**.
 Apko ek value dijayegi x jiska apko factorial nikalna hai.
 
 ### Test
+#### Apne program ko test karne ke liye ish input ko dale ke uske output check kare
+
+
 ```
 Test Case 1:
   Input: 5

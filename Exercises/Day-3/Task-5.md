@@ -29,6 +29,9 @@ ab apko **32768** ke sare digit ko plus karna hai.
 
 
 ### Test
+#### Apne program ko test karne ke liye ish input ko dale ke uske output check kare
+
+
 ```
 Test Case 1:
   Input:

@@ -17,6 +17,9 @@ Jese **2345** diya gaya hai apko toh iska factorial sum hoga.
 ```
 
 ### Test
+#### Apne program ko test karne ke liye ish input ko dale ke uske output check kare
+
+
 ```
 Test Case 1:
   Input: 2345

@@ -34,6 +34,9 @@ zero one two three four five six seven eight nine
 ```
 
 ### Test
+#### Apne program ko test karne ke liye ish input ko dale ke uske output check kare
+
+
 ```
 Test Case 1:
   Input: "three four five six"
