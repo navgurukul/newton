@@ -45,4 +45,4 @@ Test Case 1:
 ```
 
 ### Hint
-No Hints
+1000 saal leap year nhi hai.
