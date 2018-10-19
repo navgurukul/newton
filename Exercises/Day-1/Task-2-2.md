@@ -55,5 +55,5 @@ Test Case 1:
     Agle 3 Leap Year : 2000 2004 2008
 ```
 
-### Hint
+### Hint  
 Aap 3 leap year (aage yeah pichle wale) aye usko pata karne k liye ek alag varibale rakh sakte ho.Joh apki madad karega yeh jane meh 3 leap year nikal gaye yeah nhi.
