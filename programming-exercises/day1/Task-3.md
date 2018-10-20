@@ -8,8 +8,8 @@ completionMethod: manual
 Ek number **Armstrong** Number tab khelata hai jab uske har ek digit khudse 3 bar guna karke agar
 hum add kare toh hume wapas wahi number mil jata hai.
 
-Jese 153 **Armstrong** Number hai.
-Kyunki 1<sup>3</sup> + 5<sup>3</sup> + 3<sup>3</sup> = 153 hi ahta hai.
+Jese 153 **A rmstrong** Number hai.
+Kyunki **1 * 1 * 1  + 5 * 5 * 5 + 3 * 3 * 3 = 153** hi ahta hai.
 
 
 ### Question
@@ -68,9 +68,6 @@ Test Case 4:
 
 ### Hint
 
-No Hints
-
-**2<sup>3</sup>** ko app python meh `2**3` likh sakte ho aur
 
 Digit app ese nikal sakte hai
 **123%10 = 3** dega
