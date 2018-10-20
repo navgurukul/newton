@@ -8,9 +8,13 @@ completionMethod: manual
 Ek number **Armstrong** Number tab khelata hai jab uske har ek digit khudse 3 bar guna karke agar
 hum add kare toh hume wapas wahi number mil jata hai.
 
-Jese 153 **A rmstrong** Number hai.
-Kyunki **1 * 1 * 1  + 5 * 5 * 5 + 3 * 3 * 3 = 153** hi ahta hai.
+Jese 153 **Armstrong** Number hai.
+Kyunki
+**1 * 1 * 1 = 1**
+**5 * 5 * 5 = 125**
+**3 * 3 * 3 = 27**
 
+aur agar ineh add kare toh wapas **153** hi ahta hai.
 
 ### Question
 Apko ish sawal me ek program likhna hai jishme ek value di jayegi manlo `1000` toh apko jitne bi number **Armstrong** Number hai `0` se `1000` ke bich me ushe *print* karna ha.
