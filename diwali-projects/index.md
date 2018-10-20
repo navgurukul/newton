@@ -1,4 +1,3 @@
 - intro.md
 - upto_4_months.md
 - upto_8_months.md
-- otherwise.md

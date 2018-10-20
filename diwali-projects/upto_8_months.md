@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project for students who have joined within last 8 months
+name: Project for students who joined prior to 6 months
 completionMethod: manual
 ```
 
