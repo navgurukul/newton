@@ -24,7 +24,7 @@ Iss function ko normal python shell mei bhi execute kar kar dekhein, difference 
 
 ## Step 1
 ### Create a fork of this project
-Aap ko better_exceptions project ko fork karna hai, aur isko ng_exceptions ke naam se plugin banana hai. Dekho code mei kaha kaha changes karne padenge to ensure ki ab plugin ka naam `ng_extensions` ho jaye.
+Aap ko better_exceptions project ko fork karna hai, aur isko ng_exceptions ke naam se plugin banana hai. Dekho code mei kaha kaha changes karne padenge to ensure ki ab plugin ka naam `ng-exceptions` ho jaye.
 
 Samajhne ke liye aisa socho, ki aapne aaj decide kiya aap ko aaj apna naam change karna hai. Iske liye aapko bahut saara kaam karna hoga - apna naam apni bank statement, apne friends mei, apne school mei, har jagah change karana hoga. Agar kahi par abhi aap ka poorana naam hai, toh woh error throw karega kyuki uski jagah ab naya naam hona chahiye tha.
 
@@ -37,3 +37,9 @@ Aise aap apne naye plugin ko install karein.
 Jaise aapne `better-exceptions` use kiya tha, waise hi verify karein ki `ng-exceptions` bhi aap chala paa rahe hai.
 
 ## Step 2
+Ab aapko ek better_exceptions.py folder ke andar ek file create karni hai - translate.py ke naam se. Iss file ka kaam hoga ki jo bhi errors aati hai English mei, woh aapko Hindi mei print karni hai.
+
+Aapko iss file ko aisa load karna hai ki aapka naya plugin `ng-exceptions` hindi mei user ko bataye, ki usne kya galti ki hai. Yeh kaise hai, sabse important step hai. Is ke liye aapko samajhna hoga ki `formatter.py` file kaise kaam kar rahi hai. `formatter.py` aur `__init__.py` files ko acche se padh kar samjho ki aap yeh kaise achieve kar sakte hai.
+
+### Hai na useful? :)
+#### Happy Coding!
