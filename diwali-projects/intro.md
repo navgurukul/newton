@@ -14,4 +14,9 @@ Aap logo ko kitna time ho gaya hai, uske hisaab se aapko mahine calculate karne 
 
 Inn projects ko karne ke baad aapka ek interview liya jayega - to verify your solution and ensure ki aapne yeh solution khud hi kiya hai. Agar yeh paya gaya ki aapne cheating ki hai ya iss project mei kisi ki help li hai - to aapke uppar OIL ka bhi use kiya ja sakta hai. 
 
-Agar aap satisfactorily poora project kar lete hai - toh aap ko leaves mil jayegi!
+Leaves ke liye 3 step hai
+1. Aapko apna code poora kar kar submit karna hai.
+2. Aapka ek interview hoga - jismei aapka solution aur aapki solution ki understanding ko evaluate kiya jayega.
+3. Aapko apna solution kam se kam 5 aur logo ko samjhana hai, jisse ki woh bhi samajh payein.
+
+Uske baad aap ko leaves mil jayegi. Aap second step ke baad hi apni tickets book kara sakte hai, kyuki aap 3rd step toh kar hi lenge.
