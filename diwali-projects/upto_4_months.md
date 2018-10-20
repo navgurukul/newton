@@ -1,37 +1,30 @@
 ```ngMeta
-name: Project for students who have joined within last 4 months
+name: InstaAnalyze: Project for students who have joined within last 4 months
 completionMethod: manual
 ```
 
-### Instagram Bot
+### HiPy
 
-Humein ek instagram ke liye `bot` banana hai, jo mere instagram followers ki posts ka sentiment analysis karega.
+Iss project mei hum `python` ko seekhne mei hamari help karne ke liye hum ek extension banayenge.
 
-Iske liye aapko:
+### Using `better_exceptions`
+[Iss module](https://github.com/Qix-/better-exceptions) ko install aur use karne ki instructions dekhein.
+Jiss python shell mei better_exceptions enabled hai, waha par yeh code execute karne ki koshish karein:
 
-Instagram se data scrap karne ke liye aapko [InstaPy](https://github.com/timgrossmann/InstaPy) library use karni hai.
-Sentiment analysis ke liye aapko - [NLTK](http://www.nltk.org/howto/sentiment.html) library use karni hai.
+```python
+ek_sample_variable = 2
 
-### Process
-1. Aapko apne saare instagram followers ki saari descriptions download kar kar {username}.txt naame ki files mei dump karna hai. Har ek new line mei ek nayi post ka content store hoga.
-   
-Toh agar aapke 10 followers hai, toh 10 files hongi, jismei unki har ek instagram post ke liye ek nayi line hogi.
-Jaisa agar mai aapko follow karta hu, toh abhishekgupta921.txt mei meri saari instagram posts ek ek line mei hogi.
+def error_wala_function( koi_bhi_argument ):
+    return koi_bhi_argument * ek_undefined_variable
 
-2. Ab aapko sentiment analysis padh kar samajhna hai ki kya hota hai. Aap NLTK use kar kar ek simple sa sentiment analyser banaye jo [iss](https://www.kaggle.com/c/si650winter11) data par kaam karta hai. Dhyaan rakhein, ki simply Naive Bayes Classifier use karna, isse aapko kam efforts lagenge. Internet par bahut saare tutorials hai jo yeh karne mei aapki help karenge.
-
-3. Ab iss code ko aise modify karo ki aap ka analyzer jo kaggle se jo data hai, uss par train ho, par instagram posts ko analyse karein. Iske baad aap aisa kuch print karoge:
-
-```markdown
-abhishekgupta921 23/41
-rishabhverma21 10/14
-anuradhadaswani 1/9
-amar 1/18
+error_wala_function( ek_sample_variable )
 ```
 
-Yaani
-`{username} {number_of_positive_posts}/{number_of_total_posts}`
+Iss function ko normal python shell mei bhi execute kar kar dekhein, difference samajhne ke liye.
 
-Kuch bhi clarifications ke liye, aap cliq par #diwaliProjects channel par pooch sakte hai.
+## Step 1
+### Create a fork of this project
+Aap ko better_exceptions project ko fork karna hai, aur isko ng_exceptions ke naam se plugin banana hai.
 
-Good luck and happy coding.
+### Using `ng_exceptions`
+Jaise aapne `better-exceptions` use kiya tha, waise hi verify karein ki `ng-exceptions` bhi aap chala paa rahe hai.
