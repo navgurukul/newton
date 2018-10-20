@@ -1,5 +1,5 @@
 ```ngMeta
-name: InstaAnalyze: Project for students who have joined within last 4 months
+name: Project for students who have joined within last 4 months
 completionMethod: manual
 ```
 
@@ -24,7 +24,16 @@ Iss function ko normal python shell mei bhi execute kar kar dekhein, difference 
 
 ## Step 1
 ### Create a fork of this project
-Aap ko better_exceptions project ko fork karna hai, aur isko ng_exceptions ke naam se plugin banana hai.
+Aap ko better_exceptions project ko fork karna hai, aur isko ng_exceptions ke naam se plugin banana hai. Dekho code mei kaha kaha changes karne padenge to ensure ki ab plugin ka naam `ng_extensions` ho jaye.
+
+Samajhne ke liye aisa socho, ki aapne aaj decide kiya aap ko aaj apna naam change karna hai. Iske liye aapko bahut saara kaam karna hoga - apna naam apni bank statement, apne friends mei, apne school mei, har jagah change karana hoga. Agar kahi par abhi aap ka poorana naam hai, toh woh error throw karega kyuki uski jagah ab naya naam hona chahiye tha.
 
 ### Using `ng_exceptions`
+```bash
+pip install -e <DIRECTORY>
+```
+
+Aise aap apne naye plugin ko install karein.
 Jaise aapne `better-exceptions` use kiya tha, waise hi verify karein ki `ng-exceptions` bhi aap chala paa rahe hai.
+
+## Step 2
