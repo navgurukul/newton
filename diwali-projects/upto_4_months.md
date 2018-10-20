@@ -37,7 +37,7 @@ Aise aap apne naye plugin ko install karein.
 Jaise aapne `better-exceptions` use kiya tha, waise hi verify karein ki `ng-exceptions` bhi aap chala paa rahe hai.
 
 ## Step 2
-Ab aapko ek better_exceptions.py folder ke andar ek file create karni hai - translate.py ke naam se. Iss file ka kaam hoga ki jo bhi errors aati hai English mei, woh aapko Hindi mei print karni hai.
+Ab aapko ek better_exceptions.py folder ke andar ek file create karni hai - `translate.py` ke naam se. Iss file ka kaam hoga ki jo bhi errors aati hai English mei, woh aapko Hindi mei print karni hai.
 
 Aapko iss file ko aisa load karna hai ki aapka naya plugin `ng-exceptions` hindi mei user ko bataye, ki usne kya galti ki hai. Yeh kaise hai, sabse important step hai. Is ke liye aapko samajhna hoga ki `formatter.py` file kaise kaam kar rahi hai. `formatter.py` aur `__init__.py` files ko acche se padh kar samjho ki aap yeh kaise achieve kar sakte hai.
 
