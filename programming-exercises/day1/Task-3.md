@@ -73,7 +73,8 @@ Test Case 4:
 ### Hint
 
 
-Digit app ese nikal sakte hai
+Digit app ese nikal sakte hai.
+
 **123%10 = 3** dega
 **123/10 = 12** dega
 
