@@ -75,5 +75,10 @@ Test Case 4:
 
 Digit app ese nikal sakte hai
 **123%10 = 3** dega
+**123/10 = 12** dega
+
 **12%10 = 2** dega
+**12/10 = 1** dega
+
 **1%10 = 1** dega
+**1/10 = 0** dega
