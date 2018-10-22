@@ -32,7 +32,7 @@ Test Case 1:
   Input: 1000
   Output:
     Pichle 3 Leap Year : 996 992 988
-    Agle 3 Leap Year : 104 108 112
+    Agle 3 Leap Year : 1004 1008 1012
 ```
 
 ```
@@ -48,7 +48,7 @@ Test Case 3:
   Input: 1570
   Output:
     Pichle 3 Leap Year : 1568 1564 1560
-    Agle 3 Leap Year : 1574 1578 1582
+    Agle 3 Leap Year : 1572 1576 1580
 ```
 
 ```
