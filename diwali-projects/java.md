@@ -4,7 +4,6 @@ completionMethod: manual
 ```
 
 # Chalo Android mei Games banayein!
-
 Aapko **Learning Java by Building Android Games** book se chapters padh kar, games banane hai. Jab aap woh games successfully bana lenge, toh aapke interview honge. Agar aap unn interview mei theek perform karte hai, toh aapka project complete maana jayega.
 
 Aapko sirf ek chance hi milega interview ke liye. Iske liye aap pehle aapas mei interviews conduct karo, jisse ki aap ko confidence aaye.
