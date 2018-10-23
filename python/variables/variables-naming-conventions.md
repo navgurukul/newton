@@ -18,10 +18,11 @@ You can read details about [cases](https://www.chaseadams.io/most-common-program
 
 In Python, we usually use:
 
-| variableNames  | camelCase  |
-|----------------|------------|
-| CONSTANT_NAMES | UPPER_CASE |
-| function_names | snake_case |
+| Kiska Naam?    | Kaisa Case?  |
+|----------------|--------------|
+| variableNames  | camelCase    |
+| CONSTANT_NAMES | UPPER_CASE   |
+| function_names | snake_case   |
 
 Also, variable ke names dena bhi apne aap mei ek skill hai. Yeh [article](https://hackernoon.com/the-art-of-naming-variables-52f44de00aad) padho naming conventions samajhne ke liye.
 
