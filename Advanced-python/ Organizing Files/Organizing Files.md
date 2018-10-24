@@ -2,7 +2,7 @@
 name: Organizing Files
 completionMethod: manual
 ```
-#Organizing Files
+# Organizing Files
 In the previous chapter, you learned how to create and write to new files in Python. Your programs can also organize preexisting files on the hard drive. Maybe you’ve had the experience of going through a folder full of dozens, hundreds, or even thousands of files and copying, renaming, moving, or compressing them all by hand. Or consider tasks such as these:
 
 Making copies of all PDF files (and only the PDF files) in every sub-folder of a folder
