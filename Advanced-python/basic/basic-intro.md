@@ -48,8 +48,7 @@ Table 1-1. Math Operators from Highest to Lowest Precedence
 | -               | Subtraction          | 5-2 = 3                |
 | +               | Addition             | 2+2 = 4                |
 
-The order of operations (also called precedence) of Python math operators is similar to that of mathematics. The ** operator is evaluated first; the *, /, //, and % operators are evaluated next, from left to right; and the + and - operators are evaluated last (also from left to right). You can use parentheses to override the usual precedence if you need to. Enter the following expressions into the interactive shell:
-
+The order of operations (also called precedence) of Python math operators is similar to that of mathematics. The ** operator is evaluated first; the *, /, //, and % operators are evaluated next, from left to right; and the + and - operators are evaluated last (also from left to right). You can use parentheses to override the usual precedence if you need to. Enter the following expressions into the interactive shell.
 ```python
 >>> 2 + 3 * 6
 20
