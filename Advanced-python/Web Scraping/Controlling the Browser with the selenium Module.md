@@ -22,6 +22,8 @@ Importing the modules for Selenium is slightly tricky. Instead of import seleniu
 >>> browser.get('http://inventwithpython.com')
 ```
 You’ll notice when webdriver.Firefox() is called, the Firefox web browser starts up. Calling type() on the value webdriver.Firefox() reveals it’s of the WebDriver data type. And calling browser.get('http://inventwithpython.com') directs the browser to http://inventwithpython.com/. Your browser should look something like Figure
-![](assets/000018.jpg)
+
+![Mobile Video Recorder](assets/000018.jpg)
+
 After calling webdriver.Firefox() and get() in IDLE, the Firefox browser appears.
 
