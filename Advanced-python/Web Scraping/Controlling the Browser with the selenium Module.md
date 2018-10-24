@@ -2,7 +2,7 @@
 name: Controlling the Browser with the selenium Module
 completionMethod: manual
 ```
-#Controlling the Browser with the selenium Module
+# Controlling the Browser with the selenium Module
 The selenium module lets Python directly control the browser by programmatically clicking links and filling in login information, almost as though there is a human user interacting with the page. Selenium allows you to interact with web pages in a much more advanced way than Requests and Beautiful Soup; but because it launches a web browser, it is a bit slower and hard to run in the background if, say, you just need to download some files from the Web.
 
 Appendix A has more detailed steps on installing third-party modules.
@@ -22,6 +22,8 @@ Importing the modules for Selenium is slightly tricky. Instead of import seleniu
 >>> browser.get('http://inventwithpython.com')
 ```
 You’ll notice when webdriver.Firefox() is called, the Firefox web browser starts up. Calling type() on the value webdriver.Firefox() reveals it’s of the WebDriver data type. And calling browser.get('http://inventwithpython.com') directs the browser to http://inventwithpython.com/. Your browser should look something like Figure
+
 ![](assets/000018.jpg)
+
 After calling webdriver.Firefox() and get() in IDLE, the Firefox browser appears.
 
