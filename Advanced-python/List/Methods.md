@@ -2,12 +2,12 @@
 name: Methods
 completionMethod: manual
 ```
-#Methods
+# Methods
 A method is the same thing as a function, except it is “called on” a value. For example, if a list value were stored in spam, you would call the index() list method (which I’ll explain next) on that list like so: spam.index('hello'). The method part comes after the value, separated by a period.
 
 Each data type has its own set of methods. The list data type, for example, has several useful methods for finding, adding, removing, and otherwise manipulating values in a list.
 
-#Finding a Value in a List with the index() Method
+# Finding a Value in a List with the index() Method
 List values have an index() method that can be passed a value, and if that value exists in the list, the index of the value is returned. If the value isn’t in the list, then Python produces a ValueError error. Enter the following into the interactive shell:
 
 ```python
@@ -29,7 +29,7 @@ When there are duplicates of the value in the list, the index of its first appea
 >>> spam.index('Pooka')
 1
 ```
-#Adding Values to Lists with the append() and insert() Methods
+# Adding Values to Lists with the append() and insert() Methods
 To add new values to a list, use the append() and insert() methods. Enter the following into the interactive shell to call the append() method on a list value stored in the variable spam:
 
 ```python

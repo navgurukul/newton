@@ -2,7 +2,7 @@
 name: Using Data Structures to Model Real-World Things
 completionMethod: manual
 ```
-#Using Data Structures to Model Real-World Things
+# Using Data Structures to Model Real-World Things
 Even before the Internet, it was possible to play a game of chess with someone on the other side of the world. Each player would set up a chessboard at their home and then take turns mailing a postcard to each other describing each move. To do this, the players needed a way to unambiguously describe the state of the board and their moves.
 
 In algebraic chess notation, the spaces on the chessboard are identified by a number and letter coordinate, as in Figure
@@ -17,11 +17,11 @@ Computers have good memories. A program on a modern computer can easily store bi
 
 This is where lists and dictionaries can come in. You can use them to model real-world things, like chessboards. For the first example, you’ll use a game that’s a little simpler than chess: tic-tac-toe.
 
-#A Tic-Tac-Toe Board
+# A Tic-Tac-Toe Board
 A tic-tac-toe board looks like a large hash symbol (#) with nine slots that can each contain an X, an O, or a blank. To represent the board with a dictionary, you can assign each slot a string-value key, as shown in Figure 5-2.
 
 You can use string values to represent what’s in each slot on the board: 'X', 'O', or ' ' (a space character). Thus, you’ll need to store nine strings. You can use a dictionary of values for this. The string value with the key 'top-R' can represent the top-right corner, the string value with the key 'low-L' can represent the bottom-left corner, the string value with the key 'mid-M' can represent the middle, and so on.
-![](assets/000003.png)
+![Anoop](assets/000003.png)
  The slots of a tic-tactoe board with their corresponding keys
 
 This dictionary is a data structure that represents a tic-tac-toe board. Store this board-as-a-dictionary in a variable named theBoard. Open a new file editor window, and enter the following source code, saving it as ticTacToe.py:
@@ -32,7 +32,7 @@ theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
             'low-L': ' ', 'low-M': ' ', 'low-R': ' '}
 ```
 The data structure stored in the theBoard variable represents the tic-tactoe board in 
-![](assets/000006.png)
+![Anoop](assets/000006.png)
  An empty tic-tac-toe board
 
 Since the value for every key in theBoard is a single-space string, this dictionary represents a completely clear board. If player X went first and chose the middle space, you could represent that board with this dictionary:
@@ -43,7 +43,7 @@ theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
             'low-L': ' ', 'low-M': ' ', 'low-R': ' '}
 ```
 The data structure in theBoard now represents the tic-tac-toe board in Figure
-![](assets/000008.png)
+![Anoop](assets/000008.png)
 The first move
 
 A board where player O has won by placing Os across the top might look like this:
@@ -54,7 +54,7 @@ theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O',
             'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}
 ```
 The data structure in theBoard now represents the tic-tac-toe board in Figure
-![](assets/000010.png)
+![image](assets/000010.png)
 Player O wins.
 
 Of course, the player sees only what is printed to the screen, not the contents of variables. Let’s create a function to print the board dictionary onto the screen. Make the following addition to ticTacToe.py (new code is in bold):

@@ -2,12 +2,12 @@
 name: Don’t Debug with print()
 completionMethod: manual
 ```
-#Don’t Debug with print()
+# Don’t Debug with print()
 Typing import logging and logging.basicConfig(level=logging.DEBUG, format= '%(asctime)s - %(levelname)s - %(message)s') is somewhat unwieldy. You may want to use print() calls instead, but don’t give in to this temptation! Once you’re done debugging, you’ll end up spending a lot of time removing print() calls from your code for each log message. You might even accidentally remove some print() calls that were being used for nonlog messages. The nice thing about log messages is that you’re free to fill your program with as many as you like, and you can always disable them later by adding a single logging.disable(logging.CRITICAL) call. Unlike print(), the logging module makes it easy to switch between showing and hiding log messages.
 
 Log messages are intended for the programmer, not the user. The user won’t care about the contents of some dictionary value you need to see to help with debugging; use a log message for something like that. For messages that the user will want to see, like File not found or Invalid input, please enter a number, you should use a print() call. You don’t want to deprive the user of useful information after you’ve disabled log messages.
 
-#Logging Levels
+# Logging Levels
 Logging levels provide a way to categorize your log messages by importance. There are five logging levels, described in Table 10-1 from least to most important. Messages can be logged at each level using a different logging function.
 
 Table 10-1. Logging Levels in Python
@@ -52,8 +52,8 @@ Your logging message is passed as a string to these functions. The logging level
 
 ```python
 >>> import logging
->>> logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s -
-%(levelname)s - %(message)s')
+>>> logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s -'
+%(levelname)s - %(message)s')'
 >>> logging.debug('Some debugging details.')
 ```
 2015-05-18 19:04:26,901 - DEBUG - Some debugging details.

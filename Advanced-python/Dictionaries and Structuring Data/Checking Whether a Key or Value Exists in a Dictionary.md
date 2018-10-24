@@ -2,7 +2,7 @@
 name: Checking Whether a Key or Value Exists in a Dictionary
 completionMethod: manual
 ```
-#Checking Whether a Key or Value Exists in a Dictionary
+# Checking Whether a Key or Value Exists in a Dictionary
 Recall from the previous chapter that the in and not in operators can check whether a value exists in a list. You can also use these operators to see whether a certain key or value exists in a dictionary. Enter the following into the interactive shell:
 
 ```python
@@ -20,7 +20,7 @@ False
 ```
 In the previous example, notice that 'color' in spam is essentially a shorter version of writing 'color' in spam.keys(). This is always the case: If you ever want to check whether a value is (or isn’t) a key in the dictionary, you can simply use the in (or not in) keyword with the dictionary value itself.
 
-#The get() Method
+# The get() Method
 It’s tedious to check whether a key exists in a dictionary before accessing that key’s value. Fortunately, dictionaries have a get() method that takes two arguments: the key of the value to retrieve and a fallback value to return if that key does not exist.
 
 Enter the following into the interactive shell:

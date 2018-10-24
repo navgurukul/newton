@@ -2,7 +2,7 @@
 name: The File Reading/Writing Process
 completionMethod: manual
 ```
-#The File Reading/Writing Process
+# The File Reading/Writing Process
 Once you are comfortable working with folders and relative paths, you’ll be able to specify the location of files to read and write. The functions covered in the next few sections will apply to plaintext files. Plaintext files contain only basic text characters and do not include font, size, or color information. Text files with the .txt extension or Python script files with the .py extension are examples of plaintext files. These can be opened with Windows’s Notepad or OS X’s TextEdit application. Your programs can easily read the contents of plaintext files and treat them as an ordinary string value.
 
 Binary files are all other file types, such as word processing documents, PDFs, images, spreadsheets, and executable programs. If you open a binary file in Notepad or TextEdit, it will look like scrambled nonsense, like in Figure 8-5.
@@ -20,7 +20,7 @@ Call the read() or write() method on the File object.
 
 Close the file by calling the close() method on the File object.
 
-#Opening Files with the open() Function
+# Opening Files with the open() Function
 To open a file with the open() function, you pass it a string path indicating the file you want to open; it can be either an absolute or relative path. The open() function returns a File object.
 
 Try it by creating a text file named hello.txt using Notepad or TextEdit. Type Hello world! as the content of this text file and save it in your user home folder. Then, if you’re using Windows, enter the following into the interactive shell:
@@ -39,7 +39,7 @@ Both these commands will open the file in “reading plaintext” mode, or read 
 
 The call to open() returns a File object. A File object represents a file on your computer; it is simply another type of value in Python, much like the lists and dictionaries you’re already familiar with. In the previous example, you stored the File object in the variable helloFile. Now, whenever you want to read from or write to the file, you can do so by calling methods on the File object in helloFile.
 
-#Reading the Contents of Files
+# Reading the Contents of Files
 Now that you have a File object, you can start reading from it. If you want to read the entire contents of a file as a string value, use the File object’s read() method. Let’s continue with the hello.txt File object you stored in helloFile. Enter the following into the interactive shell:
 
 ```python

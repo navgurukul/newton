@@ -2,7 +2,7 @@
 name: Character Classes
 completionMethod: manual
 ```
-#Character Classes
+# Character Classes
 In the earlier phone number regex example, you learned that \d could stand for any numeric digit. That is, \d is shorthand for the regular expression (0|1|2|3|4|5|6|7|8|9). There are many such shorthand character classes, as shown in Table 7-1.
 
 Table 7-1. Shorthand Codes for Common Character Classes
@@ -29,10 +29,8 @@ For example, enter the following into the interactive shell:
 
 ```python
 >>> xmasRegex = re.compile(r'\d+\s\w+')
->>> xmasRegex.findall('12 drummers, 11 pipers, 10 lords, 9 ladies, 8 maids, 7
-swans, 6 geese, 5 rings, 4 birds, 3 hens, 2 doves, 1 partridge')
-['12 drummers', '11 pipers', '10 lords', '9 ladies', '8 maids', '7 swans', '6
-geese', '5 rings', '4 birds', '3 hens', '2 doves', '1 partridge']
+>>> xmasRegex.findall('12 drummers, 11 pipers, 10 lords, 9 ladies, 8 maids, 7swans, 6 geese, 5 rings, 4 birds, 3 hens, 2 doves, 1 partridge')
+['12 drummers', '11 pipers', '10 lords', '9 ladies', '8 maids', '7 swans', '6geese', '5 rings', '4 birds', '3 hens', '2 doves', '1 partridge']
 ```
 The regular expression \d+\s\w+ will match text that has one or more numeric digits (\d+), followed by a whitespace character (\s), followed by one or more letter/digit/underscore characters (\w+). The findall() method returns all matching strings of the regex pattern in a list.
 

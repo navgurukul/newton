@@ -2,7 +2,7 @@
 name: Local and Global Variables with the Same Name
 completionMethod: manual
 ```
-#Local and Global Variables with the Same Name
+# Local and Global Variables with the Same Name
 To simplify your life, avoid using local variables that have the same name as a global variable or another local variable. But technically, it’s perfectly legal to do so in Python. To see what happens, type the following code into the file editor and save it as sameName.py:
 
 ```python

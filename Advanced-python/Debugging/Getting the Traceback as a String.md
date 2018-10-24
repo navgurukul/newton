@@ -2,7 +2,7 @@
 name: Getting the Traceback as a String
 completionMethod: manual
 ```
-#Getting the Traceback as a String
+# Getting the Traceback as a String
 When Python encounters an error, it produces a treasure trove of error information called the traceback. The traceback includes the error message, the line number of the line that caused the error, and the sequence of the function calls that led to the error. This sequence of calls is called the call stack.
 
 Open a new file editor window in IDLE, enter the following program, and save it as errorExample.py:

@@ -2,10 +2,10 @@
 name: Dictionaries and Structuring Data
 completionMethod: manual
 ```
-#Dictionaries and Structuring Data
+# Dictionaries and Structuring Data
 In this chapter, I will cover the dictionary data type, which provides a flexible way to access and organize data. Then, combining dictionaries with your knowledge of lists from the previous chapter, you’ll learn how to create a data structure to model a tic-tac-toe board.
 
-#The Dictionary Data Type
+# The Dictionary Data Type
 Like a list, a dictionary is a collection of many values. But unlike indexes for lists, indexes for dictionaries can use many different data types, not just integers. Indexes for dictionaries are called keys, and a key with its associated value is called a key-value pair.
 
 In code, a dictionary is typed with braces, {}. Enter the following into the interactive shell:

@@ -2,7 +2,7 @@
 name: Negative Indexes
 completionMethod: manual
 ```
-#Negative Indexes
+# Negative Indexes
 While indexes start at 0 and go up, you can also use negative integers for the index. The integer value -1 refers to the last index in a list, the value -2 refers to the second-to-last index in a list, and so on. Enter the following into the interactive shell:
 
 ```python

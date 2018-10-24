@@ -2,10 +2,10 @@
 name: Practice Project
 completionMethod: manual
 ```
-#Practice Project
+# Practice Project
 For practice, write a program that does the following.
 
-#Debugging Coin Toss
+# Debugging Coin Toss
 The following program is meant to be a simple coin toss guessing game. The player gets two guesses (it’s an easy game). However, the program has several bugs in it. Run through the program a few times to find the bugs that keep the program from working correctly.
 
 

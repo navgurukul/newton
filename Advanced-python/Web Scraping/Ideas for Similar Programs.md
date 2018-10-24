@@ -2,7 +2,7 @@
 name: Ideas for Similar Programs
 completionMethod: manual
 ```
-#Ideas for Similar Programs
+# Ideas for Similar Programs
 As long as you have a URL, the webbrowser module lets users cut out the step of opening the browser and directing themselves to a website. Other programs could use this functionality to do the following:
 
 Open all links on a page in separate browser tabs.
@@ -11,7 +11,7 @@ Open the browser to the URL for your local weather.
 
 Open several social network sites that you regularly check.
 
-#Downloading Files from the Web with the requests Module
+# Downloading Files from the Web with the requests Module
 The requests module lets you easily download files from the Web without having to worry about complicated issues such as network errors, connection problems, and data compression. The requests module doesn’t come with Python, so you’ll have to install it first. From the command line, run pip install requests. (Appendix A has additional details on how to install third-party modules.)
 
 The requests module was written because Python’s urllib2 module is too complicated to use. In fact, take a permanent marker and black out this entire paragraph. Forget I ever mentioned urllib2. If you need to download things from the Web, just use the requests module.
@@ -23,7 +23,7 @@ Next, do a simple test to make sure the requests module installed itself correct
 ```
 If no error messages show up, then the requests module has been successfully installed.
 
-#Downloading a Web Page with the requests.get() Function
+# Downloading a Web Page with the requests.get() Function
 The requests.get() function takes a string of a URL to download. By calling type() on requests.get()’s return value, you can see that it returns a Response object, which contains the response that the web server gave for your request. I’ll explain the Response object in more detail later, but for now, enter the following into the interactive shell while your computer is connected to the Internet:
 
 ```python

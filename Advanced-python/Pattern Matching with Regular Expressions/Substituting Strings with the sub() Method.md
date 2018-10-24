@@ -2,7 +2,7 @@
 name: Substituting Strings with the sub() Method
 completionMethod: manual
 ```
-#Substituting Strings with the sub() Method
+# Substituting Strings with the sub() Method
 Regular expressions can not only find text patterns but can also substitute new text in place of those patterns. The sub() method for Regex objects is passed two arguments. The first argument is a string to replace any matches. The second is the string for the regular expression. The sub() method returns a string with the substitutions applied.
 
 For example, enter the following into the interactive shell:
@@ -19,7 +19,7 @@ For example, say you want to censor the names of the secret agents by showing ju
 ```python
 >>> agentNamesRegex = re.compile(r'Agent (\w)\w*')
 >>> agentNamesRegex.sub(r'\1****', 'Agent Alice told Agent Carol that Agent'
-Eve knew Agent Bob was a double agent.')
+Eve knew Agent Bob was a double agent.')'
 ```
 A**** told C**** that E**** knew B**** was a double agent.'
 

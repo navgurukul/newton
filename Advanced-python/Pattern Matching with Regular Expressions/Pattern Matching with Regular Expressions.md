@@ -3,7 +3,7 @@ name: Pattern Matching with Regular Expressions
 completionMethod: manual
 ```
 
-#Pattern Matching with Regular Expressions
+# Pattern Matching with Regular Expressions
 You may be familiar with searching for text by pressing CTRL-F and typing in the words you’re looking for. Regular expressions go one step further: They allow you to specify a pattern of text to search for. You may not know a business’s exact phone number, but if you live in the United States or Canada, you know it will be three digits, followed by a hyphen, and then four more digits (and optionally, a three-digit area code at the start). This is how you, as a human, know a phone number when you see it: 415-555-1234 is a phone number, but 4,155,551,234 is not.
 
 Regular expressions are helpful, but not many non-programmers know about them even though most modern text editors and word processors, such as Microsoft Word or OpenOffice, have find and find-and-replace features that can search based on regular expressions. Regular expressions are huge time-savers, not just for software users but also for programmers. In fact, tech writer Cory Doctorow argues that even before teaching programming, we should be teaching regular expressions:
@@ -12,7 +12,7 @@ Regular expressions are helpful, but not many non-programmers know about them ev
 
 In this chapter, you’ll start by writing a program to find text patterns without using regular expressions and then see how to use regular expressions to make the code much less bloated. I’ll show you basic matching with regular expressions and then move on to some more powerful features, such as string substitution and creating your own character classes. Finally, at the end of the chapter, you’ll write a program that can automatically extract phone numbers and email addresses from a block of text.
 
-#Finding Patterns of Text Without Regular Expressions
+# Finding Patterns of Text Without Regular Expressions
 Say you want to find a phone number in a string. You know the pattern: three numbers, a hyphen, three numbers, a hyphen, and four numbers. Here’s an example: 415-555-4242.
 
 Let’s use a function named isPhoneNumber() to check whether a string matches this pattern, returning either True or False. Open a new file editor window and enter the following code; then save the file as isPhoneNumber.py:
