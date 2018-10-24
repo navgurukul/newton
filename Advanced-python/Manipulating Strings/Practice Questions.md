@@ -2,7 +2,7 @@
 name: Project: Practice Questions
 completionMethod: manual
 ```
-#Practice Questions
+# Practice Questions
 
 Q:
 
@@ -62,10 +62,10 @@ Q:
 
 10. How can you trim whitespace characters from the beginning or end of a string?
 
-#Practice Project
+# Practice Project
 For practice, write a program that does the following.
 
-#Table Printer
+# Table Printer
 Write a function named printTable() that takes a list of lists of strings and displays it in a well-organized table with each column right-justified. Assume that all the inner lists will contain the same number of strings. For example, the value could look like this:
 
 

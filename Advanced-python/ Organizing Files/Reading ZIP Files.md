@@ -2,7 +2,7 @@
 name: Reading ZIP Files
 completionMethod: manual
 ```
-#Reading ZIP Files
+# Reading ZIP Files
 To read the contents of a ZIP file, first you must create a ZipFile object (note the capital letters Z and F). ZipFile objects are conceptually similar to the File objects you saw returned by the open() function in the previous chapter: They are values through which the program interacts with the file. To create a ZipFile object, call the zipfile.ZipFile() function, passing it a string of the .zip file’s filename. Note that zipfile is the name of the Python module, and ZipFile() is the name of the function.
 
 For example, enter the following into the interactive shell:
@@ -50,7 +50,7 @@ The extract() method for ZipFile objects will extract a single file from the ZIP
 ```
 The string you pass to extract() must match one of the strings in the list returned by namelist(). Optionally, you can pass a second argument to extract() to extract the file into a folder other than the current working directory. If this second argument is a folder that doesn’t yet exist, Python will create the folder. The value that extract() returns is the absolute path to which the file was extracted.
 
-#Creating and Adding to ZIP Files
+# Creating and Adding to ZIP Files
 To create your own compressed ZIP files, you must open the ZipFile object in write mode by passing 'w' as the second argument. (This is similar to opening a text file in write mode by passing 'w' to the open() function.)
 
 When you pass a path to the write() method of a ZipFile object, Python will compress the file at that path and add it into the ZIP file. The write() method’s first argument is a string of the filename to add. The second argument is the compression type parameter, which tells the computer what algorithm it should use to compress the files; you can always just set this value to zipfile.ZIP_DEFLATED. (This specifies the deflate compression algorithm, which works well on all types of data.) Enter the following into the interactive shell:

@@ -2,7 +2,7 @@
 name: Using for Loops with Lists
 completionMethod: manual
 ```
-#Using for Loops with Lists
+# Using for Loops with Lists
 In Chapter 2, you learned about using for loops to execute a block of code a certain number of times. Technically, a for loop repeats the code block once for each value in a list or list-like value. For example, if you ran this code:
 
 ```python
@@ -24,7 +24,7 @@ for i in [0, 1, 2, 3]:
 What the previous for loop actually does is loop through its clause with the variable i set to a successive value in the [0, 1, 2, 3] list in each iteration.
 ```
 
-#Note
+# Note
 In this book, I use the term list-like to refer to data types that are technically named sequences. You don’t need to know the technical definitions of this term, though.
 
 A common Python technique is to use range(len(someList)) with a for loop to iterate over the indexes of a list. For example, enter the following into the interactive shell:

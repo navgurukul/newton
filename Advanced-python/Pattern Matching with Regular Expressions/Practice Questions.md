@@ -2,7 +2,7 @@
 name: Practice Questions
 completionMethod: manual
 ```
-#Practice Questions
+# Practice Questions
 
 Q:
 
@@ -67,9 +67,7 @@ Q:
 Q:
 
 16. What is the difference between these two: .* and .*?
-
 Q:
-
 17. What is the character class syntax to match all numbers and lowercase letters?
 
 Q:

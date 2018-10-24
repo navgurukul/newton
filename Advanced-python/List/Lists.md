@@ -2,7 +2,7 @@
 name: Lists
 completionMethod: manual
 ```
-#Lists
+# Lists
 One more topic you’ll need to understand before you can begin writing programs in earnest is the list data type and its cousin, the tuple. Lists and tuples can contain multiple values, which makes it easier to write programs that handle large amounts of data. And since lists themselves can contain other lists, you can use them to arrange data into hierarchical structures.
 
 In this chapter, I’ll discuss the basics of lists. I’ll also teach you about methods, which are functions that are tied to values of a certain data type. Then I’ll briefly cover the list-like tuple and string data types and how they compare to list values. In the next chapter, I’ll introduce you to the dictionary data type.

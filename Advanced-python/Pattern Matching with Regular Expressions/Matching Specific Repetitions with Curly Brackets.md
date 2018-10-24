@@ -2,7 +2,7 @@
 name: Matching Specific Repetitions with Curly Brackets
 completionMethod: manual
 ```
-#Matching Specific Repetitions with Curly Brackets
+# Matching Specific Repetitions with Curly Brackets
 If you have a group that you want to repeat a specific number of times, follow the group in your regex with a number in curly brackets. For example, the regex (Ha){3} will match the string 'HaHaHa', but it will not match 'HaHa', since the latter has only two repeats of the (Ha) group.
 
 Instead of one number, you can specify a range by writing a minimum, a comma, and a maximum in between the curly brackets. For example, the regex (Ha){3,5} will match 'HaHaHa', 'HaHaHaHa', and 'HaHaHaHaHa'.
@@ -31,7 +31,7 @@ True
 ```
 Here, (Ha){3} matches 'HaHaHa' but not 'Ha'. Since it doesn’t match 'Ha', search() returns None.
 
-#Greedy and Nongreedy Matching
+# Greedy and Nongreedy Matching
 Since (Ha){3,5} can match three, four, or five instances of Ha in the string 'HaHaHaHaHa', you may wonder why the Match object’s call to group() in the previous curly bracket example returns 'HaHaHaHaHa' instead of the shorter possibilities. After all, 'HaHaHa' and 'HaHaHaHa' are also valid matches of the regular expression (Ha){3,5}.
 
 Python’s regular expressions are greedy by default, which means that in ambiguous situations they will match the longest string possible. The non-greedy version of the curly brackets, which matches the shortest string possible, has the closing curly bracket followed by a question mark.

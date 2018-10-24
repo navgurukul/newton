@@ -2,7 +2,7 @@
 name: Indexing and Slicing Strings
 completionMethod: manual
 ```
-#Indexing and Slicing Strings
+# Indexing and Slicing Strings
 Strings use indexes and slices the same way lists do. You can think of the string 'Hello world!' as a list and each character in the string as an item with a corresponding index.
 
 

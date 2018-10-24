@@ -2,7 +2,7 @@
 name: Practice Questions
 completionMethod: manual
 ```
-#Practice Questions
+# Practice Questions
 
 Q:
 
@@ -40,13 +40,13 @@ Q:
 
 9. What data structure does a shelf value resemble?
 
-#Practice Projects
+# Practice Projects
 For practice, design and write the following programs.
 
-#Extending the Multiclipboard
+# Extending the Multiclipboard
 Extend the multiclipboard program in this chapter so that it has a delete <keyword> command line argument that will delete a keyword from the shelf. Then add a delete command line argument that will delete all keywords.
 
-#Mad Libs
+# Mad Libs
 Create a Mad Libs program that reads in text files and lets the user add their own text anywhere the word ADJECTIVE, NOUN, ADVERB, or VERB appears in the text file. For example, a text file may look like this:
 
 
@@ -78,5 +78,5 @@ The silly panda walked to the chandelier and then screamed. A nearby pickup
 truck was unaffected by these events.
 The results should be printed to the screen and saved to a new text file.
 
-#Regex Search
+# Regex Search
 Write a program that opens all .txt files in a folder and searches for any line that matches a user-supplied regular expression. The results should be printed to the screen.

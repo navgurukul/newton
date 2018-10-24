@@ -10,7 +10,133 @@
 	- loop.md
 	- module.md
 	- question.md
-
 - introduction
 	- intro.md
 	- python.md
+-  Organizing Files
+	- Compressing Files with the zipfile Module.md
+	- Ideas for Similar Programs.md
+	- Moving and Renaming Files and Folders.md
+	- Organizing Files.md
+	- Permanently Deleting Files and Folders.md
+	- Practice Questions.md
+	- Project: Renaming Files with American-Style Dates to European-Style Dates.md
+	- Reading ZIP Files.md
+	- Safe Deletes with the send2trash Module.md
+	- The shutil Module.md
+	- Walking a Directory Tree.md
+-  Debugging
+	- Assertions.md
+	- Breakpoints.md
+	- Debugging a Number Adding Program.md
+	- Debugging.md
+	- Disabling Assertions.md
+	- Disabling Logging.md
+	- Don’t Debug with print().md
+	- Getting the Traceback as a String.md
+	- Logging to a File.md
+	- Practice Project.md
+	- Practice Questions.md
+	- Using an Assertion in a Traffic Light Simulation.md
+- Dictionaries and Structuring Data
+	- Practice Questions.md
+	- Checking Whether a Key or Value Exists in a Dictionary.md
+	- Dictionaries and Structuring Data.md
+	- List to Dictionary Function for Fantasy Game Inventory.md
+	- Nested Dictionaries and Lists.md
+	- Practice Questions.md
+	- Pretty Printing.md
+	- The keys(), values(), and items() Methods.md
+	- Using Data Structures to Model Real-World Things.md
+- function
+	- Exception Handling.md
+	- function_define.md
+	- Global Variables Can Be Read from a Local Scope.md
+	- function introduction.md
+	- Keyword Arguments and print().md
+	- Local and Global Scope.md
+	- Local and Global Variables with the Same Name.md
+	- Local Scopes Cannot Use Variables in Other Local Scopes.md
+	- Local Variables Cannot Be Used in the Global Scope.md
+	- Return Values and return Statements.md
+	- The global Statement.md
+- List
+	- List-like Types: Strings and Tuples.md
+	- Augmented Assignment Operators.md
+	- Character Picture Grid.md
+	- Removing Values from Lists with remove().md
+	- Converting Types with the list() and tuple() Functions.md
+	- Getting Individual Values in a List with Indexes.md
+	- Getting Sublists with Slices.md
+	- List Concatenation and List Replication.md
+	- Lists.md
+	- Methods.md
+	- Negative Indexes.md
+	- Practice Questions.md
+	- Sorting the Values in a List with the sort() Method.md
+	- The copy Module’s copy() and deepcopy() Functions.md
+	- The in and not in Operators.md
+	- The Multiple Assignment Trick.md
+	- The Tuple Data Type.md
+	- Using for Loops with Lists.md
+- Manipulating Strings
+	- Copying and Pasting Strings with the pyperclip Mo.md
+	- Manipulating Strings.md
+	- Indexing and Slicing Strings.md
+	- Multiline Strings with Triple Quotes.md
+	- Practice Questions.md
+	- Project: Adding Bullets to Wiki Markup.md
+	- The startswith() and endswith() String Methods.md
+	- Useful String Methods.md
+- Pattern Matching with Regular Expressions
+	- Character Classes.md
+	- Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE.md
+	- Finding Patterns of Text with Regular Expressions.md
+	- Making Your Own Character Classes.md
+	- Managing Complex Regexes.md
+	- Matching Newlines with the Dot Character.md
+	- Matching Specific Repetitions with Curly Brackets.md
+	- More Pattern Matching with Regular Expressions.md
+	- Optional Matching with the Question Mark.md
+	- Pattern Matching with Regular Expressions.md
+	- Practice Projects.md
+	- Practice Questions.md
+	- Project: Phone Number and Email Address Extractor.md
+	- Review of Regex Symbols.md
+	- Running the Program.md
+	- Substituting Strings with the sub() Method.md
+	- The Caret and Dollar Sign Characters.md
+	- The findall() Method.md
+	- The Wildcard Character.md
+- Reading and Writing Files
+	- Absolute vs. Relative Paths.md
+	- Creating New Folders with os.makedirs().md
+	- Finding File Sizes and Folder Contents.md
+	- Practice Questions.md
+	- Project: Generating Random Quiz Files.md
+	- Project: Multiclipboard.md
+	- Reading and Writing Files.md
+	- Saving Variables with the shelve Module.md
+	- The Current Working Directory.md
+	- The Current Working Directory.md
+	- The os.path Module.md
+	- Writing to Files.md
+- Web Scraping
+	- Checking for Errors.md
+	- Clicking Browser Buttons.md
+	- Clicking the Page.md
+	- Controlling the Browser with the selenium Module.md
+	- Creating a BeautifulSoup Object from HTML.md
+	- Filling Out and Submitting Forms.md
+	- Finding Elements on the Page.md
+	- HTML.md
+	- Ideas for Similar Programs.md
+	- Ideas for Similar Programs_2.md
+	- Opening Your Browser’s Developer Tools.md
+	- Practice Projects.md
+	- Practice Questions.md
+	- Project: mapit.py with the webbrowser Module.md
+	- Project: “I’m Feeling Lucky” Google Search.md
+	- Saving Downloaded Files to the Hard Drive.md
+	- Using the Developer Tools to Find HTML Elements.md
+	- Web Scraping.md

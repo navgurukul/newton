@@ -2,7 +2,7 @@
 name: The findall() Method
 completionMethod: manual
 ```
-#The findall() Method
+# The findall() Method
 In addition to the search() method, Regex objects also have a findall() method. While search() will return a Match object of the first matched text in the searched string, the findall() method will return the strings of every match in the searched string. To see how search() returns a Match object only on the first instance of matching text, enter the following into the interactive shell:
 
 ```python

@@ -2,7 +2,7 @@
 name: Safe Deletes with the send2trash Module
 completionMethod: manual
 ```
-#Safe Deletes with the send2trash Module
+# Safe Deletes with the send2trash Module
 Since Python’s built-in shutil.rmtree() function irreversibly deletes files and folders, it can be dangerous to use. A much better way to delete files and folders is with the third-party send2trash module. You can install this module by running pip install send2trash from a Terminal window. (See Appendix A for a more in-depth explanation of how to install third-party modules.)
 
 Using send2trash is much safer than Python’s regular delete functions, because it will send folders and files to your computer’s trash or recycle bin instead of permanently deleting them. If a bug in your program deletes something with send2trash you didn’t intend to delete, you can later restore it from the recycle bin.

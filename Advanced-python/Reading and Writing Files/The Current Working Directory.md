@@ -2,7 +2,7 @@
 name: The Current Working Directory
 completionMethod: manual
 ```
-#The Current Working Directory
+# The Current Working Directory
 Every program that runs on your computer has a current working directory, or cwd. Any filenames or paths that do not begin with the root folder are assumed to be under the current working directory. You can get the current working directory as a string value with the os.getcwd() function and change it with os.chdir(). Enter the following into the interactive shell:
 
 ```python
@@ -26,5 +26,5 @@ Traceback (most recent call last):
 FileNotFoundError: [WinError 2] The system cannot find the file specified:
 'C:\\ThisFolderDoesNotExist'
 
-#Note
+# Note
 While folder is the more modern name for directory, note that current working directory (or just working directory) is the standard term, not current working folder.

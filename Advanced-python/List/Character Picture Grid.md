@@ -2,7 +2,7 @@
 name: Character Picture Grid
 completionMethod: manual
 ```
-#Character Picture Grid
+# Character Picture Grid
 Say you have a list of lists where each value in the inner lists is a one-character string, like this:
 
 ```python
