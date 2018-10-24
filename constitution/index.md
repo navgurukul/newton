@@ -22,6 +22,6 @@
 	- appointment.md
 - section-3-complaints.md
 - section-4-elections
-	- ethics.md
+- ethics.md
 - section-5-rules.md
 - section-6-center.md
