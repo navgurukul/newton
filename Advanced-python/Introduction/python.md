@@ -1,3 +1,7 @@
+```ngMeta
+name: what is Python
+completionMethod: manual
+```
 # What Is Python?
 
 Python refers to the Python programming language (with syntax rules for writing what is considered valid Python code) and the Python interpreter software that reads source code (written in the Python language) and performs its instructions. The Python interpreter is free to download from http://python.org/, and there are versions for Linux, OS X, and Windows.
