@@ -2,13 +2,13 @@
 name: Pretty Printing
 completionMethod: manual
 ```
-#Pretty Printing
+# Pretty Printing
 If you import the pprint module into your programs, you’ll have access to the pprint() and pformat() functions that will “pretty print” a dictionary’s values. This is helpful when you want a cleaner display of the items in a dictionary than what print() provides. Modify the previous characterCount.py program and save it as prettyCharacterCount.py.
 
 ```python
 import pprint
-message = 'It was a bright cold day in April, and the clocks were striking
-thirteen.'
+message = 'It was a bright cold day in April, and the clocks were striking'
+thirteen.
 count = {}
 
 for character in message:

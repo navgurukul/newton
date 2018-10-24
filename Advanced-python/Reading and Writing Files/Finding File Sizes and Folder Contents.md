@@ -2,7 +2,7 @@
 name: Finding File Sizes and Folder Contents
 completionMethod: manual
 ```
-#Finding File Sizes and Folder Contents
+# Finding File Sizes and Folder Contents
 Once you have ways of handling file paths, you can then start gathering information about specific files and folders. The os.path module provides functions for finding the size of a file in bytes and the files and folders inside a given folder.
 
 Calling os.path.getsize(path) will return the size in bytes of the file in the path argument.
@@ -33,7 +33,7 @@ As you can see, the calc.exe program on my computer is 776,192 bytes in size, an
 1117846456
 As I loop over each filename in the C:\Windows\System32 folder, the totalSize variable is incremented by the size of each file. Notice how when I call os.path.getsize(), I use os.path.join() to join the folder name with the current filename. The integer that os.path.getsize() returns is added to the value of totalSize. After looping through all the files, I print totalSize to see the total size of the C:\Windows\System32 folder.
 
-#Checking Path Validity
+# Checking Path Validity
 Many Python functions will crash with an error if you supply them with a path that does not exist. The os.path module provides functions to check whether a given path exists and whether it is a file or folder.
 
 Calling os.path.exists(path) will return True if the file or folder referred to in the argument exists and will return False if it does not exist.

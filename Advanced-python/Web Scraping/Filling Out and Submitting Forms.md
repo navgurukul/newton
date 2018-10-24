@@ -2,7 +2,7 @@
 name: Filling Out and Submitting Forms
 completionMethod: manual
 ```
-#Filling Out and Submitting Forms
+# Filling Out and Submitting Forms
 Sending keystrokes to text fields on a web page is a matter of finding the <input> or <textarea> element for that text field and then calling the send_keys() method. For example, enter the following into the interactive shell:
 
 ```python
@@ -17,7 +17,7 @@ Sending keystrokes to text fields on a web page is a matter of finding the <inpu
 ```
 As long as Gmail hasn’t changed the id of the Username and Password text fields since this book was published, the previous code will fill in those text fields with the provided text. (You can always use the browser’s inspector to verify the id.) Calling the submit() method on any element will have the same result as clicking the Submit button for the form that element is in. (You could have just as easily called emailElem.submit(), and the code would have done the same thing.)
 
-#Sending Special Keys
+# Sending Special Keys
 Selenium has a module for keyboard keys that are impossible to type into a string value, which function much like escape characters. These values are stored in attributes in the selenium.webdriver.common.keys module. Since that is such a long module name, it’s much easier to run from selenium.webdriver.common.keys import Keys at the top of your program; if you do, then you can simply write Keys anywhere you’d normally have to write selenium.webdriver.common.keys. Table 11-5 lists the commonly used Keys variables.
 
 Table 11-5. Commonly Used Variables in the selenium.webdriver.common.keys Module

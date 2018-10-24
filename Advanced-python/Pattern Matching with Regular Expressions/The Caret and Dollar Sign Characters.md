@@ -2,7 +2,7 @@
 name: The Caret and Dollar Sign Characters
 completionMethod: manual
 ```
-#The Caret and Dollar Sign Characters
+# The Caret and Dollar Sign Characters
 You can also use the caret symbol (^) at the start of a regex to indicate that a match must occur at the beginning of the searched text. Likewise, you can put a dollar sign ($) at the end of the regex to indicate the string must end with this regex pattern. And you can use the ^ and $ together to indicate that the entire string must match the regex—that is, it’s not enough for a match to be made on some subset of the string.
 
 For example, the r'^Hello' regular expression string matches strings that begin with 'Hello'. Enter the following into the interactive shell:

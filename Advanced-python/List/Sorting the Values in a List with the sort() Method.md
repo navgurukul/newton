@@ -2,7 +2,7 @@
 name: Sorting the Values in a List with the sort() Method
 completionMethod: manual
 ```
-#Sorting the Values in a List with the sort() Method
+# Sorting the Values in a List with the sort() Method
 Lists of number values or lists of strings can be sorted with the sort() method. For example, enter the following into the interactive shell:
 
 ```python
@@ -52,7 +52,7 @@ If you need to sort the values in regular alphabetical order, pass str. lower fo
 ```
 This causes the sort() method to treat all the items in the list as if they were lowercase without actually changing the values in the list.
 
-#Example Program: Magic 8 Ball with a List
+# Example Program: Magic 8 Ball with a List
 Using lists, you can write a much more elegant version of the previous chapter’s Magic 8 Ball program. Instead of several lines of nearly identical elif statements, you can create a single list that the code works with. Open a new file editor window and enter the following code. Save it as magic8Ball2.py.
 
 ```python

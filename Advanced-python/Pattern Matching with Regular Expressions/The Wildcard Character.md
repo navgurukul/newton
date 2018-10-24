@@ -2,7 +2,7 @@
 name: The Wildcard Character
 completionMethod: manual
 ```
-#The Wildcard Character
+# The Wildcard Character
 The . (or dot) character in a regular expression is called a wildcard and will match any character except for a newline. For example, enter the following into the interactive shell:
 
 ```python
@@ -12,11 +12,9 @@ The . (or dot) character in a regular expression is called a wildcard and will m
 ```
 Remember that the dot character will match just one character, which is why the match for the text flat in the previous example matched only lat. To match an actual dot, escape the dot with a backslash: \..
 
-#Matching Everything with Dot-Star
+# Matching Everything with Dot-Star
 Sometimes you will want to match everything and anything. For example, say you want to match the string 'First Name:', followed by any and all text, followed by 'Last Name:', and then followed by anything again. You can use the dot-star (.*) to stand in for that “anything.” Remember that the dot character means “any single character except the newline,” and the star character means “zero or more of the preceding character.”
-
 Enter the following into the interactive shell:
-
 ```python
 >>> nameRegex = re.compile(r'First Name: (.*) Last Name: (.*)')
 >>> mo = nameRegex.search('First Name: Al Last Name: Sweigart')

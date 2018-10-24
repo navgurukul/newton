@@ -2,7 +2,7 @@
 name: Breakpoints
 completionMethod: manual
 ```
-#Breakpoints
+# Breakpoints
 A breakpoint can be set on a specific line of code and forces the debugger to pause whenever the program execution reaches that line. Open a new file editor window and enter the following program, which simulates flipping a coin 1,000 times. Save it as coinFlip.py.
 
 
@@ -21,7 +21,7 @@ Halfway done!
 Heads came up 490 times.
 If you ran this program under the debugger, you would have to click the Over button thousands of times before the program terminated. If you were interested in the value of heads at the halfway point of the program’s execution, when 500 of 1000 coin flips have been completed, you could instead just set a breakpoint on the line print('Halfway done!') ❷. To set a breakpoint, right-click the line in the file editor and select Set Breakpoint, as shown in Figure 10-5.
 
-![](assets/000001.jpg)
+![Anoop](assets/000001.jpg)
  Setting a breakpoint
 
 You don’t want to set a breakpoint on the if statement line, since the if statement is executed on every single iteration through the loop. By setting the breakpoint on the code in the if statement, the debugger breaks only when the execution enters the if clause.
@@ -30,7 +30,7 @@ The line with the breakpoint will be highlighted in yellow in the file editor. W
 
 If you want to remove a breakpoint, right-click the line in the file editor and select Clear Breakpoint from the menu. The yellow highlighting will go away, and the debugger will not break on that line in the future.
 
-#Summary
+# Summary
 Assertions, exceptions, logging, and the debugger are all valuable tools to find and prevent bugs in your program. Assertions with the Python assert statement are a good way to implement “sanity checks” that give you an early warning when a necessary condition doesn’t hold true. Assertions are only for errors that the program shouldn’t try to recover from and should fail fast. Otherwise, you should raise an exception.
 
 An exception can be caught and handled by the try and except statements. The logging module is a good way to look into your code while it’s running and is much more convenient to use than the print() function because of its different logging levels and ability to log to a text file.

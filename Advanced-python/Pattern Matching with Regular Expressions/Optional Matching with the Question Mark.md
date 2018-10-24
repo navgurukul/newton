@@ -2,7 +2,7 @@
 name: Optional Matching with the Question Mark
 completionMethod: manual
 ```
-#Optional Matching with the Question Mark
+# Optional Matching with the Question Mark
 Sometimes there is a pattern that you want to match only optionally. That is, the regex should find a match whether or not that bit of text is there. The ? character flags the group that precedes it as an optional part of the pattern. For example, enter the following into the interactive shell:
 
 ```python
@@ -33,7 +33,7 @@ You can think of the ? as saying, “Match zero or one of the group preceding th
 
 If you need to match an actual question mark character, escape it with \?.
 
-#Matching Zero or More with the Star
+# Matching Zero or More with the Star
 The * (called the star or asterisk) means “match zero or more”—the group that precedes the star can occur any number of times in the text. It can be completely absent or repeated over and over again. Let’s look at the Batman example again.
 
 ```python
@@ -54,7 +54,7 @@ For 'Batman', the (wo)* part of the regex matches zero instances of wo in the st
 
 If you need to match an actual star character, prefix the star in the regular expression with a backslash, \*.
 
-#Matching One or More with the Plus
+# Matching One or More with the Plus
 While * means “match zero or more,” the + (or plus) means “match one or more.” Unlike the star, which does not require its group to appear in the matched string, the group preceding a plus must appear at least once. It is not optional. Enter the following into the interactive shell, and compare it with the star regexes in the previous section:
 
 ```python

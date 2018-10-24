@@ -2,7 +2,7 @@
 name: The global Statement
 completionMethod: manual
 ```
-#The global Statement
+# The global Statement
 If you need to modify a global variable from within a function, use the global statement. If you have a line such as global eggs at the top of a function, it tells Python, “In this function, eggs refers to the global variable, so don’t create a local variable with this name.” For example, type the following code into the file editor and save it as sameName2.py:
 
 ```python
@@ -51,7 +51,7 @@ In the spam() function, eggs is the global eggs variable, because there’s a gl
 
 spam
 In a function, a variable will either always be global or always be local. There’s no way that the code in a function can use a local variable named eggs and then later in that same function use the global eggs variable.
-#Note
+# Note
 If you ever want to modify the value stored in a global variable from in a function, you must use a global statement on that variable.
 
 If you try to use a local variable in a function before you assign a value to it, as in the following program, Python will give you an error. To see this, type the following into the file editor and save it as sameName4.py:

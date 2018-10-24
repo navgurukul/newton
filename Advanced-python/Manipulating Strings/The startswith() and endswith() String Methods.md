@@ -2,7 +2,7 @@
 name: The startswith() and endswith() String Methods
 completionMethod: manual
 ```
-#The startswith() and endswith() String Methods
+# The startswith() and endswith() String Methods
 The startswith() and endswith() methods return True if the string value they are called on begins or ends (respectively) with the string passed to the method; otherwise, they return False. Enter the following into the interactive shell:
 
 ```python

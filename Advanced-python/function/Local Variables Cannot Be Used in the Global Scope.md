@@ -2,7 +2,7 @@
 name: Local Variables Cannot Be Used in the Global Scope
 completionMethod: manual
 ```
-#Local Variables Cannot Be Used in the Global Scope
+# Local Variables Cannot Be Used in the Global Scope
 Consider this program, which will cause an error when you run it:
 
 ```python

@@ -2,7 +2,7 @@
 name: List-like Types: Strings and Tuples
 completionMethod: manual
 ```
-#List-like Types: Strings and Tuples
+# List-like Types: Strings and Tuples
 Lists aren’t the only data types that represent ordered sequences of values. For example, strings and lists are actually similar, if you consider a string to be a “list” of single text characters. Many of the things you can do with lists can also be done with strings: indexing; slicing; and using them with for loops, with len(), and with the in and not in operators. To see this, enter the following into the interactive shell:
 
 ```python
@@ -75,8 +75,14 @@ If you wanted to actually modify the original list in eggs to contain [4, 5, 6],
 >>> eggs
 [4, 5, 6]
 ```
-![](aseets/000076.jpg)
+![image](aseets/000076.jpg)
  When eggs = [4, 5, 6] is executed, the contents of eggs are replaced with a new list value.
 
 In the first example, the list value that eggs ends up with is the same list value it started with. It’s just that this list has been changed, rather than overwritten. Figure 4-3 depicts the seven changes made by the first seven lines in the previous interactive shell example.
-![](aseets/000078.jpg)
+![image](aseets/000078.jpg)
+
+ The del statement and the append() method modify the same list value in place.
+
+Changing a value of a mutable data type (like what the del statement and append() method do in the previous example) changes the value in place, since the variable’s value is not replaced with a new list value.
+
+Mutable versus immutable types may seem like a meaningless distinction, but Passing References will explain the different behavior when calling functions with mutable arguments versus immutable arguments. But first, let’s find out about the tuple data type, which is an immutable form of the list data type.

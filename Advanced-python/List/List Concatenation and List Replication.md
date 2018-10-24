@@ -2,7 +2,7 @@
 name: List Concatenation and List Replication
 completionMethod: manual
 ```
-#List Concatenation and List Replication
+# List Concatenation and List Replication
 The + operator can combine two lists to create a new list value in the same way it combines two strings into a new string value. The * operator can also be used with a list and an integer value to replicate the list. Enter the following into the interactive shell:
 
 ```python
@@ -15,7 +15,7 @@ The + operator can combine two lists to create a new list value in the same way 
 >>> spam
 [1, 2, 3, 'A', 'B', 'C']
 ```
-#Removing Values from Lists with del Statements
+# Removing Values from Lists with del Statements
 The del statement will delete values at an index in a list. All of the values in the list after the deleted value will be moved up one index. For example, enter the following into the interactive shell:
 
 ```python
@@ -31,7 +31,7 @@ The del statement can also be used on a simple variable to delete it, as if it w
 
 In practice, you almost never need to delete simple variables. The del statement is mostly used to delete values from lists.
 
-#Working with Lists
+# Working with Lists
 When you first begin writing programs, it’s tempting to create many individual variables to store a group of similar values. For example, if I wanted to store the names of my cats, I might be tempted to write code like this:
 
 ```python

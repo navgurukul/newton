@@ -2,7 +2,7 @@
 name: Creating a BeautifulSoup Object from HTML
 completionMethod: manual
 ```
-#Creating a BeautifulSoup Object from HTML
+# Creating a BeautifulSoup Object from HTML
 The bs4.BeautifulSoup() function needs to be called with a string containing the HTML it will parse. The bs4.BeautifulSoup() function returns is a BeautifulSoup object. Enter the following into the interactive shell while your computer is connected to the Internet:
 
 ```python
@@ -25,7 +25,7 @@ You can also load an HTML file from your hard drive by passing a File object to 
 <class 'bs4.BeautifulSoup'>
 Once you have a BeautifulSoup object, you can use its methods to locate specific parts of an HTML document.
 
-#Finding an Element with the select() Method
+# Finding an Element with the select() Method
 You can retrieve a web page element from a BeautifulSoup object by calling the select()method and passing a string of a CSS selector for the element you are looking for. Selectors are like regular expressions: They specify a pattern to look for, in this case, in HTML pages instead of general text strings.
 
 A full discussion of CSS selector syntax is beyond the scope of this book (there’s a good selector tutorial in the resources at http://nostarch.com/automatestuff/), but here’s a short introduction to selectors. Table 11-2 shows examples of the most common CSS selector patterns.
@@ -115,7 +115,7 @@ inventwithpython.com">my website</a>.</p>'
 ```
 'By Al Sweigart'
 This time, select() gives us a list of three matches, which we store in pElems. Using str() on pElems[0], pElems[1], and pElems[2] shows you each element as a string, and using getText() on each element shows you its text.
-#Getting Data from an Element’s Attributes
+# Getting Data from an Element’s Attributes
 The get() method for Tag objects makes it simple to access attribute values from an element. The method is passed a string of an attribute name and returns that attribute’s value. Using example.html, enter the following into the interactive shell:
 
 ```python

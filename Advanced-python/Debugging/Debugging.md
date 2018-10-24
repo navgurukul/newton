@@ -2,7 +2,7 @@
 name: Debugging
 completionMethod: manual
 ```
-#Debugging
+# Debugging
 Now that you know enough to write more complicated programs, you may start finding not-so-simple bugs in them. This chapter covers some tools and techniques for finding the root cause of bugs in your program to help you fix bugs faster and with less effort.
 
 To paraphrase an old joke among programmers, “Writing code accounts for 90 percent of programming. Debugging code accounts for the other 90 percent.”
@@ -13,7 +13,7 @@ Fortunately, there are a few tools and techniques to identify what exactly your 
 
 Second, you will look at how to use the debugger. The debugger is a feature of IDLE that executes a program one instruction at a time, giving you a chance to inspect the values in variables while your code runs, and track how the values change over the course of your program. This is much slower than running the program at full speed, but it is helpful to see the actual values in a program while it runs, rather than deducing what the values might be from the source code.
 
-#Raising Exceptions
+# Raising Exceptions
 Python raises an exception whenever it tries to execute invalid code. In Chapter 3, you read about how to handle Python’s exceptions with try and except statements so that your program can recover from exceptions that you anticipated. But you can also raise your own exceptions in your code. Raising an exception is a way of saying, “Stop running the code in this function and move the program execution to the except statement.”
 
 Exceptions are raised with a raise statement. In code, a raise statement consists of the following:

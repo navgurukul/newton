@@ -2,7 +2,7 @@
 name: Saving Variables with the shelve Module
 completionMethod: manual
 ```
-#Saving Variables with the shelve Module
+# Saving Variables with the shelve Module
 You can save variables in your Python programs to binary shelf files using the shelve module. This way, your program can restore data to variables from the hard drive. The shelve module will let you add Save and Open features to your program. For example, if you ran a program and entered some configuration settings, you could save those settings to a shelf file and then have the program load them the next time it is run.
 
 Enter the following into the interactive shell:
@@ -44,7 +44,7 @@ Just like dictionaries, shelf values have keys() and values() methods that will 
 ```
 Plaintext is useful for creating files that you’ll read in a text editor such as Notepad or TextEdit, but if you want to save data from your Python programs, use the shelve module.
 
-#Saving Variables with the pprint.pformat() Function
+# Saving Variables with the pprint.pformat() Function
 Recall from Pretty Printing that the pprint.pprint() function will “pretty print” the contents of a list or dictionary to the screen, while the pprint.pformat() function will return this same text as a string instead of printing it. Not only is this string formatted to be easy to read, but it is also syntactically correct Python code. Say you have a dictionary stored in a variable and you want to save this variable and its contents for future use. Using pprint.pformat() will give you a string that you can write to .py file. This file will be your very own module that you can import whenever you want to use the variable stored in it.
 
 For example, enter the following into the interactive shell:

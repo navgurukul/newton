@@ -2,7 +2,7 @@
 name: The Tuple Data Type
 completionMethod: manual
 ```
-#The Tuple Data Type
+# The Tuple Data Type
 The tuple data type is almost identical to the list data type, except in two ways. First, tuples are typed with parentheses, ( and ), instead of square brackets, [ and ]. For example, enter the following into the interactive shell:
 
 ```python
@@ -28,10 +28,12 @@ If you have only one value in your tuple, you can indicate this by placing a tra
 
 ```python
 >>> type(('hello',))
-<class 'tuple'>
->>> type(('hello'))
-<class 'str'>
 ```
+<class 'tuple'>
+```python
+>>> type(('hello'))
+```
+<class 'str'>
 You can use tuples to convey to anyone reading your code that you don’t intend for that sequence of values to change. If you need an ordered sequence of values that never changes, use a tuple. A second benefit of using tuples instead of lists is that, because they are immutable and their contents don’t change, Python can implement some optimizations that make code using tuples slightly faster than code using lists.
 
 
