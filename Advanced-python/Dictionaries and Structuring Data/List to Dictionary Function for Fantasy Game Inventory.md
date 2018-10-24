@@ -2,7 +2,7 @@
 name: List to Dictionary Function for Fantasy Game Inventory
 completionMethod: manual
 ```
-#List to Dictionary Function for Fantasy Game Inventory
+# List to Dictionary Function for Fantasy Game Inventory
 Imagine that a vanquished dragon’s loot is represented as a list of strings like this:
 
 

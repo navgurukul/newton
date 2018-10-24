@@ -2,7 +2,7 @@
 name: Multiline Strings with Triple Quotes
 completionMethod: manual
 ```
-#Multiline Strings with Triple Quotes
+# Multiline Strings with Triple Quotes
 While you can use the \n escape character to put a newline into a string, it is often easier to use multiline strings. A multiline string in Python begins and ends with either three single quotes or three double quotes. Any quotes, tabs, or newlines in between the “triple quotes” are considered part of the string. Python’s indentation rules for blocks do not apply to lines inside a multiline string.
 
 Open the file editor and write the following:
@@ -29,7 +29,7 @@ Notice that the single quote character in Eve's does not need to be escaped. Esc
 
 print('Dear Alice,\n\nEve\'s cat has been arrested for catnapping, cat
 burglary, and extortion.\n\nSincerely,\nBob')
-#Multiline Comments
+# Multiline Comments
 While the hash character (#) marks the beginning of a comment for the rest of the line, a multiline string is often used for comments that span multiple lines. The following is perfectly valid Python code:
 
 

@@ -2,7 +2,7 @@
 name: Assertions
 completionMethod: manual
 ```
-#Assertions
+# Assertions
 An assertion is a sanity check to make sure your code isn’t doing something obviously wrong. These sanity checks are performed by assert statements. If the sanity check fails, then an AssertionError exception is raised. In code, an assert statement consists of the following:
 
 The assert keyword

@@ -2,7 +2,7 @@
 name: Project: Generating Random Quiz Files
 completionMethod: manual
 ```
-#Project: Generating Random Quiz Files
+# Project: Generating Random Quiz Files
 Say you’re a geography teacher with 35 students in your class and you want to give a pop quiz on US state capitals. Alas, your class has a few bad eggs in it, and you can’t trust the students not to cheat. You’d like to randomize the order of questions so that each quiz is unique, making it impossible for anyone to crib answers from anyone else. Of course, doing this by hand would be a lengthy and boring affair. Fortunately, you know some Python.
 
 Here is what the program does:
@@ -25,7 +25,7 @@ Call open(), write(), and close() for the quiz and answer key text files.
 
 Use random.shuffle() to randomize the order of the questions and multiple-choice options.
 
-#Step 1: Store the Quiz Data in a Dictionary
+# Step 1: Store the Quiz Data in a Dictionary
 The first step is to create a skeleton script and fill it with your quiz data. Create a file named randomQuizGenerator.py, and make it look like the following:
 
 
@@ -46,13 +46,13 @@ The first step is to create a skeleton script and fill it with your quiz data. C
    'Lansing', 'Minnesota': 'Saint Paul', 'Mississippi': 'Jackson', 'Missouri':
    'Jefferson City', 'Montana': 'Helena', 'Nebraska': 'Lincoln', 'Nevada':
    'Carson City', 'New Hampshire': 'Concord', 'New Jersey': 'Trenton', 'New'
-   Mexico': 'Santa Fe', 'New York': 'Albany', 'North Carolina': 'Raleigh',
+   Mexico': 'Santa Fe', 'New York': 'Albany', 'North Carolina': 'Raleigh','
    'North Dakota': 'Bismarck', 'Ohio': 'Columbus', 'Oklahoma': 'Oklahoma City',
    'Oregon': 'Salem', 'Pennsylvania': 'Harrisburg', 'Rhode Island': 'Providence',
    'South Carolina': 'Columbia', 'South Dakota': 'Pierre', 'Tennessee':
    'Nashville', 'Texas': 'Austin', 'Utah': 'Salt Lake City', 'Vermont':
    'Montpelier', 'Virginia': 'Richmond', 'Washington': 'Olympia', 'West'
-   Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}
+   Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}'
 
    # Generate 35 quiz files.
 ❸ for quizNum in range(35):
@@ -66,7 +66,7 @@ The first step is to create a skeleton script and fill it with your quiz data. C
 ```
 Since this program will be randomly ordering the questions and answers, you’ll need to import the random module ❶ to make use of its functions. The capitals variable ❷ contains a dictionary with US states as keys and their capitals as values. And since you want to create 35 quizzes, the code that actually generates the quiz and answer key files (marked with TODO comments for now) will go inside a for loop that loops 35 times ❸. (This number can be changed to generate any number of quiz files.)
 
-#Step 2: Create the Quiz File and Shuffle the Question Order
+# Step 2: Create the Quiz File and Shuffle the Question Order
 Now it’s time to start filling in those TODOs.
 
 The code in the loop will be repeated 35 times—once for each quiz—so you have to worry about only one quiz at a time within the loop. First you’ll create the actual quiz file. It needs to have a unique filename and should also have some kind of standard header in it, with places for the student to fill in a name, date, and class period. Then you’ll need to get a list of states in randomized order, which can be used later to create the questions and answers for the quiz.
@@ -101,7 +101,7 @@ The filenames for the quizzes will be capitalsquiz<N>.txt, where <N> is a unique
 
 The write() statements at ❸ create a quiz header for the student to fill out. Finally, a randomized list of US states is created with the help of the random.shuffle() function ❹, which randomly reorders the values in any list that is passed to it.
 
-#Step 3: Create the Answer Options
+# Step 3: Create the Answer Options
 Now you need to generate the answer options for each question, which will be multiple choice from A to D. You’ll need to create another for loop—this one to generate the content for each of the 50 questions on the quiz. Then there will be a third for loop nested inside to generate the multiple-choice options for each question. Make your code look like the following:
 
 

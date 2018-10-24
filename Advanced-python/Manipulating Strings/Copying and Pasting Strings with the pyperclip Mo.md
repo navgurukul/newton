@@ -29,11 +29,11 @@ You probably have accounts on many different websites. It’s a bad habit to use
 
 The password manager program you’ll create in this example isn’t secure, but it offers a basic demonstration of how such programs work.
 
-#The Chapter Projects
+# The Chapter Projects
 
 This is the first “chapter project” of the book. From here on, each chapter will have projects that demonstrate the concepts covered in the chapter. The projects are written in a style that takes you from a blank file editor window to a full, working program. Just like with the interactive shell examples, don’t only read the project sections—follow along on your computer!
 
-#Step 1: Program Design and Data Structures
+# Step 1: Program Design and Data Structures
 You want to be able to run this program with a command line argument that is the account’s name—for instance, email or blog. That account’s password will be copied to the clipboard so that the user can paste it into a Password field. This way, the user can have long, complicated passwords without having to memorize them.
 
 Open a new file editor window and save the program as pw.py. You need to start the program with a #! (shebang) line (see Appendix B) and should also write a comment that briefly describes the program. Since you want to associate each account’s name with its password, you can store these as strings in a dictionary. The dictionary will be the data structure that organizes your account and password data. Make your program look like the following:

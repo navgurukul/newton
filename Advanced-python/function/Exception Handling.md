@@ -2,7 +2,7 @@
 name: Exception Handling
 completionMethod: manual
 ```
-#Exception Handling
+# Exception Handling
 Right now, getting an error, or exception, in your Python program means the entire program will crash. You don’t want this to happen in real-world programs. Instead, you want the program to detect errors, handle them, and then continue to run.
 
 For example, consider the following program, which has a “divide-by-zero” error. Open a new file editor window and enter the following code, saving it as zeroDivide.py:

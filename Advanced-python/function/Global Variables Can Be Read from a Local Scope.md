@@ -2,7 +2,7 @@
 name: Global Variables Can Be Read from a Local Scope
 completionMethod: manual
 ```
-#Global Variables Can Be Read from a Local Scope
+# Global Variables Can Be Read from a Local Scope
 Consider the following program:
 
 

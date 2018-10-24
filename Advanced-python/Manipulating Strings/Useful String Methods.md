@@ -2,10 +2,10 @@
 name: Useful String Methods
 completionMethod: manual
 ```
-#Useful String Methods
+# Useful String Methods
 Several string methods analyze strings or create transformed string values. This section describes the methods you’ll be using most often.
 
-#The upper(), lower(), isupper(), and islower() String Methods
+# The upper(), lower(), isupper(), and islower() String Methods
 The upper() and lower() string methods return a new string where all the letters in the original string have been converted to uppercase or lower-case, respectively. Nonletter characters in the string remain unchanged. Enter the following into the interactive shell:
 
 ```python

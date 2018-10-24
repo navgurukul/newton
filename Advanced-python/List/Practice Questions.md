@@ -2,7 +2,7 @@
 name: Practice Questions
 completionMethod: manual
 ```
-#Practice Questions
+# Practice Questions
 
 Q:
 
@@ -76,10 +76,10 @@ Q:
 
 17. What is the difference between copy.copy() and copy.deepcopy()?
 
-#Practice Projects
+# Practice Projects
 For practice, write programs to do the following tasks.
 
-#Comma Code
+# Comma Code
 Say you have a list value like this:
 
 ```python

@@ -2,7 +2,7 @@
 name: Project: mapit.py with the webbrowser Module
 completionMethod: manual
 ```
-#Project: mapit.py with the webbrowser Module
+# Project: mapit.py with the webbrowser Module
 The webbrowser module’s open() function can launch a new browser to a specified URL. Enter the following into the interactive shell:
 
 ```python
@@ -27,7 +27,7 @@ Call the webbrowser.open() function to open the web browser.
 
 Open a new file editor window and save it as mapIt.py.
 
-#Step 1: Figure Out the URL
+# Step 1: Figure Out the URL
 Based on the instructions in Appendix B, set up mapIt.py so that when you run it from the command line, like so...
 
 
@@ -38,7 +38,7 @@ First you need to figure out what URL to use for a given street address. When yo
 
 The address is in the URL, but there’s a lot of additional text there as well. Websites often add extra data to URLs to help track visitors or customize sites. But if you try just going to https://www.google.com/maps/place/870+Valencia+St+San+Francisco+CA/, you’ll find that it still brings up the correct page. So your program can be set to open a web browser to 'https://www.google.com/maps/place/your_address_string' (where your_address_string is the address you want to map).
 
-#Step 2: Handle the Command Line Arguments
+# Step 2: Handle the Command Line Arguments
 Make your code look like this:
 
 
@@ -66,7 +66,7 @@ mapit 870 Valencia St, San Francisco, CA 94110
 ['mapIt.py', '870', 'Valencia', 'St, ', 'San', 'Francisco, ', 'CA', '94110']
 The address variable will contain the string '870 Valencia St, San Francisco, CA 94110'.
 
-#Step 3: Handle the Clipboard Content and Launch the Browser
+# Step 3: Handle the Clipboard Content and Launch the Browser
 Make your code look like the following:
 
 

@@ -2,7 +2,7 @@
 name: Ideas for Similar Programs
 completionMethod: manual
 ```
-#Ideas for Similar Programs
+# Ideas for Similar Programs
 There are many other reasons why you might want to rename a large number of files.
 
 To add a prefix to the start of the filename, such as adding spam_ to rename eggs.txt to spam_eggs.txt
@@ -16,14 +16,14 @@ Say you’re working on a project whose files you keep in a folder named C:\AlsP
 
 For this project, open a new file editor window and save it as backupToZip.py.
 
-#Step 1: Figure Out the ZIP File’s Name
+# Step 1: Figure Out the ZIP File’s Name
 The code for this program will be placed into a function named backupToZip(). This will make it easy to copy and paste the function into other Python programs that need this functionality. At the end of the program, the function will be called to perform the backup. Make your program look like this:
 
 
    #! python3
    # backupToZip.py - Copies an entire folder and its contents into
    # a ZIP file whose filename increments.
-
+```python
 ❶ import zipfile, os
 
    def backupToZip(folder):
@@ -39,22 +39,17 @@ The code for this program will be placed into a function named backupToZip(). Th
            if not os.path.exists(zipFilename):
                break
            number = number + 1
-
 ❹     # TODO: Create the ZIP file.
-
        # TODO: Walk the entire folder tree and compress the files in each folder.
        print('Done.')
-
    backupToZip('C:\\delicious')
+```
 Do the basics first: Add the shebang (#!) line, describe what the program does, and import the zipfile and os modules ❶.
-
 Define a backupToZip() function that takes just one parameter, folder. This parameter is a string path to the folder whose contents should be backed up. The function will determine what filename to use for the ZIP file it will create; then the function will create the file, walk the folder folder, and add each of the subfolders and files to the ZIP file. Write TODO comments for these steps in the source code to remind yourself to do them later ❹.
-
 The first part, naming the ZIP file, uses the base name of the absolute path of folder. If the folder being backed up is C:\delicious, the ZIP file’s name should be delicious_N.zip, where N = 1 is the first time you run the program, N = 2 is the second time, and so on.
-
 You can determine what N should be by checking whether delicious_1.zip already exists, then checking whether delicious_2.zip already exists, and so on. Use a variable named number for N ❷, and keep incrementing it inside the loop that calls os.path.exists() to check whether the file exists ❸. The first nonexistent filename found will cause the loop to break, since it will have found the filename of the new zip.
 
-#Step 2: Create the New ZIP File
+# Step 2: Create the New ZIP File
 Next let’s create the ZIP file. Make your program look like the following:
 
 
@@ -79,7 +74,7 @@ Next let’s create the ZIP file. Make your program look like the following:
    backupToZip('C:\\delicious')
 Now that the new ZIP file’s name is stored in the zipFilename variable, you can call zipfile.ZipFile() to actually create the ZIP file ❶. Be sure to pass 'w' as the second argument so that the ZIP file is opened in write mode.
 
-#Step 3: Walk the Directory Tree and Add to the ZIP File
+# Step 3: Walk the Directory Tree and Add to the ZIP File
 Now you need to use the os.walk() function to do the work of listing every file in the folder and its subfolders. Make your program look like the following:
 
 
@@ -121,7 +116,7 @@ Adding files in C:\delicious\walnut...
 Adding files in C:\delicious\walnut\waffles...
 Done.
 The second time you run it, it will put all the files in C:\delicious into a ZIP file named delicious_2.zip, and so on.
-#Ideas for Similar Programs
+# Ideas for Similar Programs
 You can walk a directory tree and add files to compressed ZIP archives in several other programs. For example, you can write programs that do the following:
 
 Walk a directory tree and archive just files with certain extensions, such as .txt or .py, and nothing else

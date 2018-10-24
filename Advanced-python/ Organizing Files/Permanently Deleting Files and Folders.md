@@ -2,7 +2,7 @@
 name: Permanently Deleting Files and Folders
 completionMethod: manual
 ```
-#Permanently Deleting Files and Folders
+# Permanently Deleting Files and Folders
 You can delete a single file or a single empty folder with functions in the os module, whereas to delete a folder and all of its contents, you use the shutil module.
 
 Calling os.unlink(path) will delete the file at path.
