@@ -50,7 +50,7 @@ The last flow control concept to cover is how to terminate the program. This alw
 
 Open a new file editor window and enter the following code, saving it as exitExample.py:
 
-
+```python
 import sys
 
 while True:
@@ -59,4 +59,6 @@ while True:
     if response == 'exit':
         sys.exit()
     print('You typed ' + response + '.')
+```
+
 Run this program in IDLE. This program has an infinite loop with no break statement inside. The only way this program will end is if the user enters exit, causing sys.exit() to be called. When response is equal to exit, the program ends. Since the response variable is set by the input() function, the user must enter exit in order to stop the program.
