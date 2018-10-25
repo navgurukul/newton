@@ -55,7 +55,7 @@ After importing the modules we need, we make a directory to store comics in ❶ 
 Now that we’ve defined downloadXkcd(), we’ll create the multiple threads that each call downloadXkcd() to download different ranges of comics from the XKCD website. Add the following code to multidownloadXkcd.py after the downloadXkcd() function definition:
 
 
-#! python3
+# !python3
 # multidownloadXkcd.py - Downloads XKCD comics using multiple threads.
 
 --snip--
@@ -75,7 +75,7 @@ As the Thread object’s start() method is called and the new thread begins to r
 The main thread moves on as normal while the other threads we create download comics. But say there’s some code you don’t want to run in the main thread until all the threads have completed. Calling a Thread object’s join() method will block until that thread has finished. By using a for loop to iterate over all the Thread objects in the downloadThreads list, the main thread can call the join() method on each of the other threads. Add the following to the bottom of your program:
 
 
-#! python3
+# !python3
 # multidownloadXkcd.py - Downloads XKCD comics using multiple threads.
 
 --snip--

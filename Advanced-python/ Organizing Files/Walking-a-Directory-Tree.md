@@ -6,7 +6,9 @@ completionMethod: manual
 Say you want to rename every file in some folder and also every file in every subfolder of that folder. That is, you want to walk through the directory tree, touching each file as you go. Writing a program to do this could get tricky; fortunately, Python provides a function to handle this process for you.
 
 Let’s look at the C:\delicious folder with its contents, shown in Figure 
+
 ![](assets/000054.jpg)
+
 An example folder that contains three folders and four files
 
 Here is an example program that uses the os.walk() function on the directory tree from Figure 9-1:

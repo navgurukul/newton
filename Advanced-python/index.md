@@ -1,5 +1,8 @@
 - basic
 	- basic-intro.md
+	- A-Short-Program: -Guess-the-Number.md
+	- Practice-Questions.md
+	- question.md
 - flow_control
 	- bool.md
 	- break.md
@@ -10,10 +13,10 @@
 	- loop.md
 	- module.md
 	- question.md
-- introduction
+- Introduction
 	- intro.md
 	- python.md
--  Organizing Files
+- Organizing Files
 	- Compressing-Files-with-the-zipfile-Module.md
 	- Ideas-for-Similar-Programs.md
 	- Moving-and-Renaming-Files-and-Folders.md
@@ -25,7 +28,7 @@
 	- Safe-Deletes-with-the-send2trash-Module.md
 	- The-shutil-Module.md
 	- Walking-a-Directory-Tree.md
--  Debugging
+- Debugging
 	- Assertions.md
 	- Breakpoints.md
 	- Debugging-a-Number-Adding-Program.md

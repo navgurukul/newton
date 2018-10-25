@@ -25,16 +25,17 @@ This program will require the time module for the time.sleep() function and the 
 
    #! python3
    # countdown.py - A simple countdown script.
-
-   import time, subprocess
+```python
+import time, subprocess
 
 ❶ timeLeft = 60
    while timeLeft > 0:
 ❷     print(timeLeft, end='')
 ❸     time.sleep(1)
 ❹     timeLeft = timeLeft - 1
+```
 
-   # TODO: At the end of the countdown, play a sound file.
+  # TODO: At the end of the countdown, play a sound file.
 After importing time and subprocess, make a variable called timeLeft to hold the number of seconds left in the countdown ❶. It can start at 60—or you can change the value here to whatever you need or even have it get set from a command line argument.
 
 In a while loop, you display the remaining count ❷, pause for one second ❸, and then decrement the timeLeft variable ❹ before the loop starts over again. The loop will keep looping as long as timeLeft is greater than 0. After that, the countdown will be over.
@@ -47,7 +48,7 @@ You can use any sound file that is on your computer to play at the end of the co
 Add the following to your code:
 
 
-#! python3
+# !python3
 # countdown.py - A simple countdown script.
 
 import time, subprocess
