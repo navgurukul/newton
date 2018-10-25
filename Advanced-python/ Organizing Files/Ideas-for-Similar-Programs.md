@@ -116,6 +116,7 @@ Adding files in C:\delicious\walnut...
 Adding files in C:\delicious\walnut\waffles...
 Done.
 The second time you run it, it will put all the files in C:\delicious into a ZIP file named delicious_2.zip, and so on.
+
 # Ideas for Similar Programs
 You can walk a directory tree and add files to compressed ZIP archives in several other programs. For example, you can write programs that do the following:
 
