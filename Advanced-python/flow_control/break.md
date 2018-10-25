@@ -22,4 +22,5 @@ Just like before, this program asks the user to type your name ❷. Now, however
 Run yourName2.py, and enter the same text you entered for yourName.py. The rewritten program should respond in the same way as the original.
 
 ![](assets/brek.jpg)
+
 Figure 2-12. The flowchart for the yourName2.py program with an infinite loop. Note that the X path will logically never happen because the loop condition is always True.
