@@ -1,3 +1,7 @@
+```ngMeta
+name: Flow control
+completionMethod: manual
+```
 # Elements of Flow Control
 Conditions
 The Boolean expressions you’ve seen so far could all be considered conditions, which are the same thing as expressions; condition is just a more specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False. A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
