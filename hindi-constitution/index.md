@@ -1,3 +1,4 @@
+- ng-constitution.md
 - section-0
 	- section-0.md
 	- right-to-dissent.md
@@ -23,4 +24,4 @@
 - section-4-elections.md
 - section-5-rules.md
 - section-6-center.md
-- ng-constitution.md
+

@@ -11,7 +11,7 @@ Every three months, the DISCO will conduct elections to choose members of the Co
 
 DISCO will call for nominations 7 days prior to the date of elections through a message visible to all, and a reminder 4 days prior to the date of elections. Candidates who are interested to contest elections for a particular profile in the Council can nominate themselves for the respective profile. A student can nominate himself/herself for two profiles at most.
 
-Nominations will be open only after DISCO announcement by DISCO. This is the [form for collecting nominations](https://goo.gl/forms/5MgDqDviAdSvI1s12).
+Nominations will be open only after announcement by DISCO. This is the [form](https://goo.gl/forms/5MgDqDviAdSvI1s12) for collecting nominations.
 
 ### Voting
 
