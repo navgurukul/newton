@@ -1,5 +1,5 @@
 ```ngMeta
-name: Python
+name: Operators Precedence
 completionMethod: manual
 ```
 
