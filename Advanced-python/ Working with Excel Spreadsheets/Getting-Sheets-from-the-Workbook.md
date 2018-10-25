@@ -16,11 +16,11 @@ You can get a list of all the sheet names in the workbook by calling the get_she
 >>> sheet
 ```
 <Worksheet "Sheet3">
-```python
+
 >>> type(sheet) <class 'openpyxl.worksheet.worksheet.Worksheet'>
 >>> sheet.title
-```
 'Sheet3'
+
 ```python
 >>> anotherSheet = wb.active
 >>> anotherSheet

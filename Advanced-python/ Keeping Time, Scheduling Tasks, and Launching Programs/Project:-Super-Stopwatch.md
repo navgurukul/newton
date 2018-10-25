@@ -29,7 +29,7 @@ The stopwatch program will need to use the current time, so you’ll want to imp
 Enter the following code into the file editor, writing a TODO comment as a placeholder for the rest of the code:
 
 
-#! python3
+# !python3
 # stopwatch.py - A simple stopwatch program.
 
 import time

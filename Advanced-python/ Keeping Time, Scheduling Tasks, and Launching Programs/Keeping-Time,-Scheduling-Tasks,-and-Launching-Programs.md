@@ -24,7 +24,7 @@ The interactive shell examples will yield dates and times for when I wrote this 
 
 Epoch timestamps can be used to profile code, that is, measure how long a piece of code takes to run. If you call time.time() at the beginning of the code block you want to measure and again at the end, you can subtract the first timestamp from the second to find the elapsed time between those two calls. For example, open a new file editor window and enter the following program:
 
-
+```python
    import time
 ❶ def calcProd():
        # Calculate the product of the first 100,000 numbers.
@@ -38,6 +38,8 @@ Epoch timestamps can be used to profile code, that is, measure how long a piece 
 ❸ endTime = time.time()
 ❹ print('The result is %s digits long.' % (len(str(prod))))
 ❺ print('Took %s seconds to calculate.' % (endTime - startTime))
+```
+
 At ❶, we define a function calcProd() to loop through the integers from 1 to 99,999 and return their product. At ❷, we call time.time() and store it in startTime. Right after calling calcProd(), we call time.time() again and store it in endTime ❸. We end by printing the length of the product returned by calcProd() ❹ and how long it took to run calcProd() ❺.
 
 Save this program as calcProd.py and run it. The output will look something like this:
@@ -45,6 +47,7 @@ Save this program as calcProd.py and run it. The output will look something like
 
 The result is 456569 digits long.
 Took 2.844162940979004 seconds to calculate.
+
 # Note
 Another way to profile your code is to use the cProfile.run() function, which provides a much more informative level of detail than the simple time.time() technique. The cProfile.run() function is explained at <span><a href="https://docs.python.org/3/library/profile.html.">https://docs.python.org/3/library/profile.html.</a></span>
 
