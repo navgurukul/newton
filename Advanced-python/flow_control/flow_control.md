@@ -6,7 +6,7 @@ completionMethod: manual
 Conditions
 The Boolean expressions you’ve seen so far could all be considered conditions, which are the same thing as expressions; condition is just a more specific name in the context of flow control statements. Conditions always evaluate down to a Boolean value, True or False. A flow control statement decides what to do based on whether its condition is True or False, and almost every flow control statement uses a condition.
 
-Blocks of Code
+# Blocks of Code
 Lines of Python code can be grouped together in blocks. You can tell when a block begins and ends from the indentation of the lines of code. There are three rules for blocks.
 
 1. Blocks begin when the indentation increases.
