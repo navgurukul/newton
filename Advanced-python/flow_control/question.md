@@ -1,3 +1,7 @@
+```ngMeta
+name: Practice Questions
+completionMethod: manual
+```
 # Practice Questions
  Q:
 

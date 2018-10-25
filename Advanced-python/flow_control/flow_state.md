@@ -1,3 +1,7 @@
+```ngMeta
+name: Flow Control Statements
+completionMethod: manual
+```
 # Flow Control Statements
 
 Now, let’s explore the most important piece of flow control: the statements themselves. The statements represent the diamonds you saw in the flowchart in Figure 2-1, and they are the actual decisions your programs will make.
