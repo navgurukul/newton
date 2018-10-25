@@ -1,7 +1,7 @@
 ```ngMeta
-name: Samvaad - Mentorship-through-dialogue
+name: Samvaad - Learning through dialogue!
 type: html
 daysToComplete: 30
-shortDescription: One-on-one dialogues with volunteers about various topics
+shortDescription: Learn English with one-on-one dialogues and reflecting on various important topics
 logo: http://Google.com
 ```

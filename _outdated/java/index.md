@@ -5,4 +5,4 @@
 	- features_of_java.md
 - SettingUpJavaEnvironment.md
 - GivingInstructionsInJava.md
-- javaVariabes.md
+- JavaVariables.md
