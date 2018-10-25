@@ -13,7 +13,7 @@ list2 = [75, 23, 98, 12, 78, 10, 1]
 Inn dono list se aapki nayi list yeh banni chaiye:
 
 ```python
-new_list = [1, 75, 98]
+new_list = [1, 23, 75, 98]
 ```
 
 Iss nayi list mein sirf `1`, `75` aur `98` isliye hain kyunki aur koi bhi items dono lists mein nahi aa rahi. Dusri saari items ya toh pehli list mein aa rahi hai ya dusri mein.
