@@ -19,3 +19,6 @@ completionMethod: manual
 5. Responsibility - ज़िम्मेदारी
 6. Concentration - एकाग्रता
 7. Coyly -शर्मीले
+8. Stack -ढेर
+9.Knots -समुद्री मीलबुर्ज
+10.Turrest -बुर्ज
