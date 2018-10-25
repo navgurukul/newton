@@ -9,9 +9,9 @@ The strftime() method uses directives similar to Python’s string formatting. T
 
 Table 15-1. strftime() Directives
 
-strftime directive 					Meaning
-
-%Y 									Year with century, as in '2014'
+|strftime directive 	       |				Meaning                              |
+|------------------------------|-----------------------------------------------------|
+|%Y 						   |		Year with century, as in '2014'              |
 
 %y 									Year without century, '00' to '99' (1970 to 2069)
 

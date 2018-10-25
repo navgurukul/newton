@@ -59,12 +59,12 @@ OpenWeatherMap.org provides real-time weather information in JSON format. Your p
 `# quickWeather.py - Prints the weather for a location from the command line.
 
 --snip--
-```python
+
 	# Download the JSON data from OpenWeatherMap.org's API.
-url ='<span><a href="http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3'">http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3'</a></span> % (location)
+
+url =<span><a href="http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3'">http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3'</a></span> % (location)
 response = requests.get(url)
 response.raise_for_status()
-```
 
 	# TODO: Load JSON data into a Python variable.
 We have location from our command line arguments. To make the URL we want to access, we use the %s placeholder and insert whatever string is stored in location into that spot in the URL string. We store the result in url and pass url to requests.get(). The requests.get() call returns a Response object, which you can check for errors by calling raise_for_status(). If no exception is raised, the downloaded text will be in response.text.

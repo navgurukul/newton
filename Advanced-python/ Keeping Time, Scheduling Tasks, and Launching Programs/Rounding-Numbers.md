@@ -22,6 +22,7 @@ When working with times, you’ll often encounter float values with many digits 
 ```python
 >>> round(now)
 ```
+
 1425064108
 After importing time and storing time.time() in now, we call round(now, 2) to round now to two digits after the decimal, round(now, 4) to round to four digits after the decimal, and round(now) to round to the nearest integer.
 

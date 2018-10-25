@@ -5,7 +5,7 @@ completionMethod: manual
 # Multithreading
 To introduce the concept of multithreading, let’s look at an example situation. Say you want to schedule some code to run after a delay or at a specific time. You could add code like the following at the start of your program:
 
-
+```python
 import time, datetime
 
 startTime = datetime.datetime(2029, 10, 31, 0, 0, 0)
@@ -13,6 +13,8 @@ while datetime.datetime.now() < startTime:
     time.sleep(1)
 
 print('Program now starting on Halloween 2029')
+```
+
 --snip--
 This code designates a start time of October 31, 2029, and keeps calling time.sleep(1) until the start time arrives. Your program cannot do anything while waiting for the loop of time.sleep() calls to finish; it just sits around until Halloween 2029. This is because Python programs by default have a single thread of execution.
 
@@ -22,7 +24,7 @@ Rather than having all of your code wait until the time.sleep() function finishe
 
 To make a separate thread, you first need to make a Thread object by calling the threading.Thread() function. Enter the following code in a new file and save it as threadDemo.py:
 
-
+```python
    import threading, time
    print('Start of program.')
 
@@ -34,6 +36,8 @@ To make a separate thread, you first need to make a Thread object by calling the
 ❸ threadObj.start()
 
    print('End of program.')
+```
+
 At ❶, we define a function that we want to use in a new thread. To create a Thread object, we call threading.Thread() and pass it the keyword argument target=takeANap ❷. This means the function we want to call in the new thread is takeANap(). Notice that the keyword argument is target=takeANap, not target=takeANap(). This is because you want to pass the takeANap() function itself as the argument, not call takeANap() and pass its return value.
 
 After we store the Thread object created by threading.Thread() in threadObj, we call threadObj.start() ❸ to create the new thread and start executing the target function in the new thread. When this program is run, the output will look like this:
