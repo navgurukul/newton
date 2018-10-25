@@ -18,3 +18,4 @@ completionMethod: manual
 4. Care - ध्यान
 5. Responsibility - ज़िम्मेदारी
 6. Concentration - एकाग्रता
+7. Coyly -शर्मीले
