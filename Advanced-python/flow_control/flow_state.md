@@ -91,4 +91,5 @@ elif age > 100:
     print('You are not Alice, grannie.')
 ```
 Here I’ve added two more elif statements to make the name checker greet a person with different answers based on age. Figure 2-6 shows the flowchart for this.
+
 ![](/assets/ifelse.png)
