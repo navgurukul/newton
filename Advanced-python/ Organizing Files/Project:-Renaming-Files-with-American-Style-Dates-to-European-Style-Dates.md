@@ -28,12 +28,12 @@ The first part of the program will need to import the necessary modules and crea
 
 
    #! python3
-   # renameDates.py - Renames filenames with American MM-DD-YYYY date format
-   # to European DD-MM-YYYY.
+    # renameDates.py - Renames filenames with American MM-DD-YYYY date format
+    # to European DD-MM-YYYY.
 
 ❶ import shutil, os, re
 
-   # Create a regex that matches files with the American date format.
+    # Create a regex that matches files with the American date format.
 ❷ datePattern = re.compile(r"""^(.*?) # all text before the date
        ((0|1)?\d)-                     # one or two digits for the month
        ((0|1|2|3)?\d)-                 # one or two digits for the day
@@ -41,17 +41,17 @@ The first part of the program will need to import the necessary modules and crea
        (.*?)$                          # all text after the date
 ❸     """, re.VERBOSE)
 
-   # TODO: Loop over the files in the working directory.
+    # TODO: Loop over the files in the working directory.
 
-   # TODO: Skip files without a date.
+    # TODO: Skip files without a date.
 
-   # TODO: Get the different parts of the filename.
+    # TODO: Get the different parts of the filename.
 
-   # TODO: Form the European-style filename.
+    # TODO: Form the European-style filename.
 
-   # TODO: Get the full, absolute file paths.
+    # TODO: Get the full, absolute file paths.
 
-   # TODO: Rename the files.
+    # TODO: Rename the files.
 From this chapter, you know the shutil.move() function can be used to rename files: Its arguments are the name of the file to rename and the new filename. Because this function exists in the shutil module, you must import that module ❶.
 
 But before renaming the files, you need to identify which files you want to rename. Filenames with dates such as spam4-4-1984.txt and 01-03-2014eggs.zip should be renamed, while filenames without dates such as littlebrother.epub can be ignored.
@@ -67,8 +67,8 @@ Next, the program will have to loop over the list of filename strings returned f
 
 
    #! python3
-   # renameDates.py - Renames filenames with American MM-DD-YYYY date format
-   # to European DD-MM-YYYY.
+    # renameDates.py - Renames filenames with American MM-DD-YYYY date format
+    # to European DD-MM-YYYY.
 
    --snip--
 ```python
@@ -108,8 +108,8 @@ As the final step, concatenate the strings in the variables made in the previous
 
 
    #! python3
-   # renameDates.py - Renames filenames with American MM-DD-YYYY date format
-   # to European DD-MM-YYYY.
+    # renameDates.py - Renames filenames with American MM-DD-YYYY date format
+    # to European DD-MM-YYYY.
 
    --snip--
 ```python
