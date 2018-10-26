@@ -22,3 +22,7 @@ completionMethod: manual
 8. Stack -ढेर
 9.Knots -समुद्री मीलबुर्ज
 10.Turrest -बुर्ज
+11.Pity -दया
+12.Praise -प्रशंसा
+13.Sharp -तेज़
+14.Exhibition -प्रदर्शनी
