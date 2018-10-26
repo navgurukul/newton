@@ -17,7 +17,7 @@
 	- intro.md
 	- python.md
 - Organizing Files
-	- Compressing-Files-with-the-zipfile-Module.md
+	- Compressing_Files_with_the_zipfile_Module.md
 	- Ideas-for-Similar-Programs.md
 	- Moving-and-Renaming-Files-and-Folders.md
 	- Organizing-Files.md
