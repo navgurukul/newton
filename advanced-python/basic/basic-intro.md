@@ -1,5 +1,5 @@
 ```ngMeta
-name: Python Basics
+name: python-basics
 completionMethod: manual
 ```
 # Python Basics
