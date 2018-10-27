@@ -4,15 +4,15 @@
 	- practice-questions.md
 	- question.md
 - flow_control
-	- bool.md
+	- booleans.md
 	- break.md
 	- continue.md
 	- flow_control.md
-	- flow_state.md
+	- flow-control-statements.md
 	- loop.md
 	- module.md
-	- question.md
+	- practice-questions.md
 - introduction
-	- intro.md
-	- python.md
+	- python-introduction.md
+	- what-is-python.md
 
