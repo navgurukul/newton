@@ -84,6 +84,5 @@ The computer will evaluate the left expression first, and then it will evaluate 
 You can also use multiple Boolean operators in an expression, along with the comparison operators.
 
 The Boolean operators have an order of operations just like the math operators do. After any math and comparison operators evaluate, Python evaluates the not operators first, then the and operators, and then the or operators.
-
-![](assets/opra.jpg) 
+ 
 

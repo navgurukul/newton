@@ -79,8 +79,10 @@ The order of operations (also called precedence) of Python math operators is sim
 >>> (5 - 1) * ((7 + 1) / (3 - 1))
 16.0
 ```
+
+
 In each case, you as the programmer must enter the expression, but Python does the hard part of evaluating it down to a single value. Python will keep evaluating parts of the expression until it becomes a single value, as shown in Figure 1-1.
-![](assets/math.png)
+
 
 Figure 1-1. Evaluating an expression reduces it to a single value.
 
