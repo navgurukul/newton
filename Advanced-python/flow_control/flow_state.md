@@ -26,7 +26,7 @@ if name == 'Alice':
     print('Hi, Alice.')
 ```
 All flow control statements end with a colon and are followed by a new block of code (the clause). This if statement’s clause is the block with print('Hi, Alice.'). Figure 2-3 shows what a flowchart of this code would look like.
-![](assets/if.jpg)
+
 Figure 2-3. The flowchart for an if statement
 
 # else Statements
@@ -47,7 +47,6 @@ else:
     print('Hello, stranger.')
 ```
 Figure 2-4 shows what a flowchart of this code would look like.
-![](assets/else.png)
 
 Figure 2-4. The flowchart for an else statement
 
@@ -73,7 +72,6 @@ elif age < 12:
 ```
 This time, you check the person’s age, and the program will tell them something different if they’re younger than 12. You can see the flowchart for this in Figure 2-5.
 
-![](assets/elif.png)
 Figure 2-5. The flowchart for an elif statement
 
 The elif clause executes if age < 12 is True and name == 'Alice' is False. However, if both of the conditions are False, then both of the clauses are skipped. It is not guaranteed that at least one of the clauses will be executed. When there is a chain of elif statements, only one or none of the clauses will be executed. Once one of the statements’ conditions is found to be True, the rest of the elif clauses are automatically skipped. For example, open a new file editor window and enter the following code, saving it as 
@@ -92,4 +90,3 @@ elif age > 100:
 ```
 Here I’ve added two more elif statements to make the name checker greet a person with different answers based on age. Figure 2-6 shows the flowchart for this.
 
-![](/assets/ifelse.png)

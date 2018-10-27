@@ -8,7 +8,6 @@
 	- break.md
 	- continue.md
 	- flow_control.md
-	- flow_intro.md
 	- flow_state.md
 	- loop.md
 	- module.md
