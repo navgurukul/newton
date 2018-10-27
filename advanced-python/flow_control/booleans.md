@@ -1,5 +1,5 @@
 ```ngMeta
-name: Booleans
+name: booleans
 completionMethod: manual
 ```
 # Boolean Values
