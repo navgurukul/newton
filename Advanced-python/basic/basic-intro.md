@@ -58,8 +58,10 @@ Table 1-1. Math Operators from Highest to Lowest Precedence
 | -               | Subtraction          | 5-2 = 3                |
 | +               | Addition             | 2+2 = 4                |
 
-The order of operations (also called precedence) of Python math operators is similar to that of mathematics. The ** operator is evaluated first; the *, /, //, and % operators are evaluated next, from left to right; and the + and - operators are evaluated last (also from left to right). You can use parentheses to override the usual precedence if you need to. Enter the following expressions into the interactive shell.
-```python
+The order of operations (also called precedence) of Python math operators is similar to that of mathematics. The ** operator is evaluated first; the *, /, //, and % operators are evaluated next, from left to right; and the + and - operators are evaluated last (also from left to right). You can use parentheses to override the usual precedence if you need to. Enter the following expressions into the interactive shell
+
+
+
 >>> 2 + 3 * 6
 20
 >>> (2 + 3) * 6
@@ -78,7 +80,7 @@ The order of operations (also called precedence) of Python math operators is sim
 4
 >>> (5 - 1) * ((7 + 1) / (3 - 1))
 16.0
-```
+
 
 
 In each case, you as the programmer must enter the expression, but Python does the hard part of evaluating it down to a single value. Python will keep evaluating parts of the expression until it becomes a single value, as shown in Figure 1-1.
@@ -168,9 +170,9 @@ Traceback (most recent call last):
     'Alice' * 5.0
 TypeError: can't multiply sequence by non-int of type 'float'
 It makes sense that Python wouldn’t understand these expressions: You can’t multiply two words, and it’s hard to replicate an arbitrary string a fractional number of times.
-```python
+
 >>> 'Hello world!
-```
+
 SyntaxError: EOL while scanning string literal
 
 # Variable Names
