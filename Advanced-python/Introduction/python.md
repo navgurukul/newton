@@ -34,9 +34,9 @@ If you can’t find the answer by searching online, try asking people in a web f
 
 2. Specify the point at which the error happens. Does it occur at the very start of the program or only after you do a certain action?
 
-3. Copy and paste the entire error message and your code to http://pastebin.com/ or http://gist.github.com/.
+3. Copy and paste the entire error message and your code to <span><a href="http://pastebin.com/">http://pastebin.com/</a></span> or <span><a href="http://gist.github.com/.">http://gist.github.com/.</a></span>
 
-4. These websites make it easy to share large amounts of code with people over the Web, without the risk of losing any text formatting. You can then put the URL of the posted code in your email or forum post. For example, here some pieces of code I’ve posted: http://pastebin.com/SzP2DbFx/ and https://gist.github.com/asweigart/6912168/.
+4. These websites make it easy to share large amounts of code with people over the Web, without the risk of losing any text formatting. You can then put the URL of the posted code in your email or forum post. For example, here some pieces of code I’ve posted:<span><a href=" http://pastebin.com/SzP2DbFx/"> http://pastebin.com/SzP2DbFx/</a></span> and <span><a href="https://gist.github.com/asweigart/6912168/.">https://gist.github.com/asweigart/6912168/.</a></span>
 
 5. Explain what you’ve already tried to do to solve your problem. This tells people you’ve already put in some work to figure things out on your own.
 
@@ -52,13 +52,14 @@ Always follow good online etiquette as well. For example, don’t post your ques
 
 Solving programming problems on your own is easier than you might think. If you’re not convinced, then let’s cause an error on purpose: Enter '42' + 3 into the interactive shell. You don’t need to know what this instruction means right now, but the result should look like this:
 
-
+```python
   >>> '42' + 3
 ❶ Traceback (most recent call last):
     File "<pyshell#0>", line 1, in <module>
       '42' + 3
 ❷ TypeError: Can't convert 'int' object to str implicitly
   >>>
+  ```
 The error message ❷ appeared here because Python couldn’t understand your instruction. The traceback part ❶ of the error message shows the specific instruction and line number that Python had trouble with. If you’re not sure what to make of a particular error message, search online for the exact error message. Enter “TypeError: Can’t convert ‘int’ object to str implicitly” (including the quotes) into your favorite search engine, and you should see tons of links explaining what the error message means and what causes it, as shown in Figure 2.
 
 
