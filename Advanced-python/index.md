@@ -1,7 +1,7 @@
 - basic
 	- basic-intro.md
-	- A-Short-Program: -Guess-the-Number.md
-	- Practice-Questions.md
+	- a-short-program-guess-the-number.md
+	- practice-questions.md
 	- question.md
 - flow_control
 	- bool.md
@@ -12,7 +12,7 @@
 	- loop.md
 	- module.md
 	- question.md
-- Introduction
+- introduction
 	- intro.md
 	- python.md
 
