@@ -17,7 +17,6 @@ When you run this program, it will print Hello world! to the screen forever, bec
 Let’s use continue to write a program that asks for a name and password. Enter the following code into a new file editor window and save the program as swordfish.py.
 If the user enters any name besides Joe ❶, the continue statement ❷ causes the program execution to jump back to the start of the loop. When it reevaluates the condition, the execution will always enter the loop, since the condition is simply the value True. Once they make it past that if statement, the user is asked for a password ❸. If the password entered is swordfish, then the break statement ❹ is run, and the execution jumps out of the while loop to print Access granted ❺. Otherwise, the execution continues to the end of the while loop, where it then jumps back to the start of the loop. See Figure 2-13 for this program’s flowchart.
 
-![image](assets/000100.jpg)
 
 Figure 2-13. A flowchart for swordfish.py. The X path will logically never happen because the loop condition is always True.
 

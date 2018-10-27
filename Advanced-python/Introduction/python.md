@@ -14,8 +14,6 @@ The most common anxiety I hear about learning to program is that people think it
 
 To solve a Sudoku puzzle, the numbers 1 through 9 must be filled in for each row, each column, and each 3×3 interior square of the full 9×9 board. You find a solution by applying deduction and logic from the starting numbers. For example, since 5 appears in the top left of the Sudoku puzzle shown in Figure 1, it cannot appear elsewhere in the top row, in the leftmost column, or in the top-left 3×3 square. Solving one row, column, or square at a time will provide more number clues for the rest of the puzzle.
 
-![](assets/puzle.jpg)
-![](assets/puzle2.jpg)
 
 Just because Sudoku involves numbers doesn’t mean you have to be good at math to figure out the solution. The same is true of programming. Like solving a Sudoku puzzle, writing programs involves breaking down a problem into individual, detailed steps. Similarly, when debugging programs (that is, finding and fixing errors), you’ll patiently observe what the program is doing and find the cause of the bugs. And like all skills, the more you program, the better you’ll become.
 
@@ -63,7 +61,7 @@ Solving programming problems on your own is easier than you might think. If you�
   >>>
 The error message ❷ appeared here because Python couldn’t understand your instruction. The traceback part ❶ of the error message shows the specific instruction and line number that Python had trouble with. If you’re not sure what to make of a particular error message, search online for the exact error message. Enter “TypeError: Can’t convert ‘int’ object to str implicitly” (including the quotes) into your favorite search engine, and you should see tons of links explaining what the error message means and what causes it, as shown in Figure 2.
 
-![](assets/google.jpg)
+
 Figure 2. The Google results for an error message can be very helpful.
 
 You’ll often find that someone else had the same question as you and that some other helpful person has already answered it. No one person can know everything about programming, so an everyday part of any software developer’s job is looking up answers to technical questions.
