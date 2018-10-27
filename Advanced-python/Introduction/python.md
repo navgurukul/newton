@@ -57,7 +57,7 @@ Solving programming problems on your own is easier than you might think. If you�
 ❶ Traceback (most recent call last):
     File "<pyshell#0>", line 1, in <module>
       '42' + 3
-❷ TypeError: Can't convert 'int' object to str implicitly
+❷ """TypeError: Can't convert 'int' object to str "implicitly"""
   >>>
   ```
 The error message ❷ appeared here because Python couldn’t understand your instruction. The traceback part ❶ of the error message shows the specific instruction and line number that Python had trouble with. If you’re not sure what to make of a particular error message, search online for the exact error message. Enter “TypeError: Can’t convert ‘int’ object to str implicitly” (including the quotes) into your favorite search engine, and you should see tons of links explaining what the error message means and what causes it, as shown in Figure 2.
@@ -67,7 +67,7 @@ Figure 2. The Google results for an error message can be very helpful.
 
 You’ll often find that someone else had the same question as you and that some other helpful person has already answered it. No one person can know everything about programming, so an everyday part of any software developer’s job is looking up answers to technical questions.
 
-
+![image](assets/000060.jpg)
 
 
 
