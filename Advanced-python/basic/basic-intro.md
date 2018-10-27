@@ -444,7 +444,6 @@ True
 ```
 True
 Python makes this distinction because strings are text, while integers and floats are both numbers.
-![](assets/pro.png)
 
 # Practice Questions
 Q:
