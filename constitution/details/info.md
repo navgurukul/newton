@@ -3,5 +3,5 @@ name: NavGurukul - Constitution
 type: html
 daysToComplete: 3
 shortDescription: We will learn about the Constitution of NavGurukul.
-logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45XOJktoBRJaQPl3NTSIo-i_ZfjsvJi66Ta8YDvGBie-0Tiof
+logo: http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png
 ```
