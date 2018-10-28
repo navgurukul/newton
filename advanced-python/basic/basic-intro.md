@@ -43,7 +43,7 @@ Errors are Okay!
 
 Programs will crash if they contain code the computer can’t understand, which will cause Python to show an error message. An error message won’t break your computer, though, so don’t be afraid to make mistakes. A crash just means the program stopped running unexpectedly.
 
-If you want to know more about an error message, you can search for the exact message text online to find out more about that specific error. You can also check out the resources at http://nostarch.com/automatestuff/ to see a list of common Python error messages and their meanings.
+If you want to know more about an error message, you can search for the exact message text online to find out more about that specific error. You can also check out the resources at <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span> to see a list of common Python error messages and their meanings.
 
 There are plenty of other operators you can use in Python expressions, too. For example, Table 1-1 lists all the math operators in Python.
 
@@ -61,30 +61,48 @@ Table 1-1. Math Operators from Highest to Lowest Precedence
 The order of operations (also called precedence) of Python math operators is similar to that of mathematics. The ** operator is evaluated first; the *, /, //, and % operators are evaluated next, from left to right; and the + and - operators are evaluated last (also from left to right). You can use parentheses to override the usual precedence if you need to. Enter the following expressions into the interactive shell
 
 
-
+```python
 >>> 2 + 3 * 6
+```
 20
+```python
 >>> (2 + 3) * 6
+```
 30
+```python
 >>> 48565878 * 578453
+```
 28093077826734
+```python
 >>> 2 ** 8
+```
 256
+```python
 >>> 23 / 7
+```
 3.2857142857142856
+```python
 >>> 23 // 7
+```
 3
+```python
 >>> 23 % 7
+```
 2
+```python
 >>> 2     +            2
+```
 4
+```python
 >>> (5 - 1) * ((7 + 1) / (3 - 1))
+```
 16.0
 
 
 
 In each case, you as the programmer must enter the expression, but Python does the hard part of evaluating it down to a single value. Python will keep evaluating parts of the expression until it becomes a single value, as shown in Figure 1-1.
 
+![](assets/000056.png)
 
 Figure 1-1. Evaluating an expression reduces it to a single value.
 
