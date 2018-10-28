@@ -1,5 +1,5 @@
 ```ngMeta
-name: Continue Function
+name: continue
 completionMethod: manual
 ```
 # continue Statements

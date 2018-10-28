@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 index.md
 - keeping-time-scheduling-tasks-and-launching-programs
 	- passing-arguments-to-the-threads-target-function.md
@@ -280,3 +281,23 @@ index.md
 	- reading-word-documents.md
 	- word-documents.md
 	- working-with-pdf-and-word-documents.md
+=======
+- introduction
+	- python-introduction.md
+	- what-is-python.md
+- basic
+	- basic-intro.md
+	- a-short-program-guess-the-number.md
+	- practice-questions.md
+	- question.md
+- flow_control
+	- booleans.md
+	- break.md
+	- continue.md
+	- flow_control.md
+	- flow-control-statements.md
+	- loop.md
+	- module.md
+	- practice-questions.md
+
+>>>>>>> 1d7071111efd9d9e0390428aa87a432397101bcb
