@@ -1,5 +1,5 @@
 ```ngMeta
-name: Break Function
+name: break
 completionMethod: manual
 ```
 # break Statements
