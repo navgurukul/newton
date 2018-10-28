@@ -1,5 +1,5 @@
 ```ngMeta
-name: A Short Program: Guess the Number
+name: a-short-program-guess-the-number
 completionMethod: manual
 ```
 #A Short Program: Guess the Number

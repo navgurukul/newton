@@ -21,7 +21,7 @@
 	- section-2-discipline.md
 	- appointment.md
 - section-3-complaints.md
-- section-4-elections
+- section-4-elections.md
 - ethics.md
 - section-5-rules.md
 - section-6-center.md
