@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 index.md
 - keeping-time-scheduling-tasks-and-launching-programs
 	- passing-arguments-to-the-threads-target-function.md
@@ -281,7 +280,6 @@ index.md
 	- reading-word-documents.md
 	- word-documents.md
 	- working-with-pdf-and-word-documents.md
-=======
 - introduction
 	- python-introduction.md
 	- what-is-python.md
@@ -299,5 +297,3 @@ index.md
 	- loop.md
 	- module.md
 	- practice-questions.md
-
->>>>>>> 1d7071111efd9d9e0390428aa87a432397101bcb
