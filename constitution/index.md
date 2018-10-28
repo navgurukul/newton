@@ -12,7 +12,7 @@
 	- outreach.md
 	- training.md
 	- cultural.md
-	- manintenance.md
+	- maintenance.md
 	- happiness.md
 	- eligibility.md
 	- gbm.md
