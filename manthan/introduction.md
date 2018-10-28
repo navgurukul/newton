@@ -5,7 +5,7 @@ completionMethod: manual
 
 ### What is Manthan
 
-> We are a country of a billion plus people. At least 10 million Gandhi(s) are needed to solve the problems faced by the billion of us.
+> *We are a country of a billion plus people. At least 10 million Gandhi(s) are needed to solve the problems faced by the billion of us.*
 
 
 Education isn't just equipping students with the hard skills like Software Engineering, but also exposing them to experiences that facilitate a strong connection between themselves and the community. Alignment with one's own self is critical for achieving harmony with one's environment. Such experiences help to nurture an understanding of our own selves and be more aware.
