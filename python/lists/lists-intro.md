@@ -88,6 +88,6 @@ print type(students_list)
 
 Yahan humne ek list ke andar ek aur list daal di hai.
 
-Yeh observe karein ki har LIST mei kisi bhi tarah ke ITEMS rakhe ja sakte hai. LIST ek generic structure hai jismei aap jo chahe unko rakh sakte hai. LIST hai ya nahi dekhne ke liye [ ] (square brackets) ko dhundhe. 
+Yeh observe karein ki har LIST mei kisi bhi tarah ke ITEMS rakhe ja sakte hai. LIST ek generic structure hai jismei aap jo chahe unko rakh sakte hai. LIST hai ya nahi dekhne ke liye [ ] (square brackets) ko dhundhe.
 
 **Aapne observe kiya hoga, sab ka type 'list' hi hai.**
