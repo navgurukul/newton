@@ -3,5 +3,5 @@ name: English - Beginner
 type: js
 daysToComplete: 30
 shortDescription: Learn English Basics
-logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWg1eOYYluvwSKR-8n7VO4wp6VnvK0EtqPyMyCBpLO_KMT6XZe
+logo: http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png
 ```
