@@ -12,6 +12,8 @@
 	- outreach.md
 	- training.md
 	- cultural.md
+	- maintenance.md
+	- happiness.md
 	- eligibility.md
 	- gbm.md
 	- recall.md

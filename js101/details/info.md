@@ -3,5 +3,5 @@ name: JavaScript 101
 type: js
 daysToComplete: 30
 shortDescription: We will learn basics of programming using JavaScript in this course.
-logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexT10e_GMxBs4eM1IxPlSiclgQkOQ_nkCRn3Rn-6S4b6cOnW0
+logo: http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png
 ```
