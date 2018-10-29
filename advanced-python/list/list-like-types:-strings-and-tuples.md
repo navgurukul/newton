@@ -76,9 +76,11 @@ If you wanted to actually modify the original list in eggs to contain [4, 5, 6],
 [4, 5, 6]
 ```
 ![image](aseets/000076.jpg)
+
  When eggs = [4, 5, 6] is executed, the contents of eggs are replaced with a new list value.
 
 In the first example, the list value that eggs ends up with is the same list value it started with. It’s just that this list has been changed, rather than overwritten. Figure 4-3 depicts the seven changes made by the first seven lines in the previous interactive shell example.
+
 ![image](aseets/000078.jpg)
 
  The del statement and the append() method modify the same list value in place.
