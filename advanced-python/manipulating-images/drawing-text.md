@@ -53,8 +53,8 @@ To set a typeface and size, we first store the folder name (like /Library/Fonts)
 
 The resulting text.png file will look like Figure 17-15.
 
-![image](assets/000073.jpg)
-
+<!-- ![image](assets/000073.jpg)
+ -->
 Figure 17-15. The resulting text.png image
 
 ## Summary
