@@ -1,5 +1,5 @@
 ```ngMeta
-name: Logging in to the SMTP Server
+name: logging-in-to-the-smtp-server
 completionMethod: manual
 ```
 # Logging in to the SMTP Server

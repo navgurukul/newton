@@ -1,5 +1,5 @@
 ```ngMeta
-name: Character Classes
+name: character-classes
 completionMethod: manual
 ```
 # Character Classes

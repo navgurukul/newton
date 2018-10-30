@@ -1,5 +1,5 @@
 ```ngMeta
-name: Setting the Font Style of Cells
+name: setting-the-font-style-of-cells
 completionMethod: manual
 ```
 # Setting the Font Style of Cells

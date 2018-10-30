@@ -1,5 +1,5 @@
 ```ngMeta
-name: The Caret and Dollar Sign Characters
+name: the-caret-and-dollar-sign-characters
 completionMethod: manual
 ```
 # The Caret and Dollar Sign Characters

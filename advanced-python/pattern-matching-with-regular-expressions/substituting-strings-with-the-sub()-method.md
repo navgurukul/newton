@@ -1,5 +1,5 @@
 ```ngMeta
-name: Substituting Strings with the sub() Method
+name: substituting-strings-with-the-sub()-method
 completionMethod: manual
 ```
 # Substituting Strings with the sub() Method

@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Project: Removing the Header from CSV Files
+name:  project-removing-the-header-from-csv-files
 completionMethod: manual
 ```
 # Project: Removing the Header from CSV Files

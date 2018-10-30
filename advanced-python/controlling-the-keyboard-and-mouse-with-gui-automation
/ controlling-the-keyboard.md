@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling the Keyboard
+name:  controlling-the-keyboard
 completionMethod: manual
 ```
 # Controlling the Keyboard

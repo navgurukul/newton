@@ -1,5 +1,5 @@
 ```ngMeta
-name: Using Data Structures to Model Real-World Things
+name: using-data-structures-to-model-real-world-things
 completionMethod: manual
 ```
 # Using Data Structures to Model Real-World Things

@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Project: Multithreaded XKCD Downloader
+name:  project-multithreaded-xkcd-downloader
 completionMethod: manual
 ```
 # Project: Multithreaded XKCD Downloader

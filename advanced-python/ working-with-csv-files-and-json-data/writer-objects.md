@@ -1,5 +1,5 @@
 ```ngMeta
-name: Writer Objects
+name: writer-objects
 completionMethod: manual
 ```
 # Writer Objects

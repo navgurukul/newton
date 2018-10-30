@@ -1,5 +1,5 @@
 ```ngMeta
-name: Installing the openpyxl Module
+name: installing-the-openpyxl-module
 completionMethod: manual
 ```
 # Installing the openpyxl Module

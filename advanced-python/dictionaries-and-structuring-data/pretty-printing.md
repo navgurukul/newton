@@ -1,5 +1,5 @@
 ```ngMeta
-name: Pretty Printing
+name: pretty-printing
 completionMethod: manual
 ```
 # Pretty Printing

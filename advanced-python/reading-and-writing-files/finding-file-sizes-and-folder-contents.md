@@ -1,5 +1,5 @@
 ```ngMeta
-name: Finding File Sizes and Folder Contents
+name: finding-file-sizes-and-folder-contents
 completionMethod: manual
 ```
 # Finding File Sizes and Folder Contents

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Multiclipboard
+name: project-multiclipboard
 completionMethod: manual
 ```
 # Project: Multiclipboard

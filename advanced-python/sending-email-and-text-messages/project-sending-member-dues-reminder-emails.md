@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Sending Member Dues Reminder Emails
+name: project-sending-member-dues-reminder-emails
 completionMethod: manual
 ```
 # Project: Sending Member Dues Reminder Emails

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Creating a BeautifulSoup Object from HTML
+name: creating-a-beautifulsoup-object-fromhtml
 completionMethod: manual
 ```
 # Creating a BeautifulSoup Object from HTML

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Assertions
+name: assertions
 completionMethod: manual
 ```
 # Assertions

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Return Values and return Statements
+name: return-values-and-return-statements
 completionMethod: manual
 ```
 # Return Values and return Statements

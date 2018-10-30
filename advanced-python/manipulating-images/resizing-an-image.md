@@ -1,5 +1,5 @@
 ```ngMeta
-name: Resizing an Image
+name: resizing-an-image
 completionMethod: manual
 ```
 # Resizing an Image

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Fetching an Email and Marking It As Read
+name: fetching-an-email-and-marking-it-as-read
 completionMethod: manual
 ```
 # Fetching an Email and Marking It As Read

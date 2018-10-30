@@ -1,5 +1,5 @@
 ```ngMeta
-name:   Writing Excel Documents
+name:  writing-excel-documents
 completionMethod: manual
 ```
 # Writing Excel Documents

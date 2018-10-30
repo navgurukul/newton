@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Merging and Unmerging Cells
+name:  merging-and-unmerging-cells
 completionMethod: manual
 ```
 # Merging and Unmerging Cells

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Launching Other Programs from Python
+name: aunching-other-programs-from-python
 completionMethod: manual
 ```
 # Launching Other Programs from Python

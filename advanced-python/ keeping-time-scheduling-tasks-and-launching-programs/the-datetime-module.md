@@ -1,5 +1,5 @@
 ```ngMeta
-name: The datetime Module
+name: the-datetime-module
 completionMethod: manual
 ```
 # The datetime Module

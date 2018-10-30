@@ -1,5 +1,5 @@
 ```ngMeta
-name: Copying and Pasting Images onto Other Images
+name: copying-and-pasting-images-onto-other-images
 completionMethod: manual
 ```
 # Copying and Pasting Images onto Other Images

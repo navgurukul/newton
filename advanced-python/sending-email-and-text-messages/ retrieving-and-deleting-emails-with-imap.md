@@ -1,5 +1,5 @@
 ```ngMeta
-name: Retrieving and Deleting Emails with IMAP
+name:  retrieving-and-deleting-emails-with-imap
 completionMethod: manual
 ```
 # Retrieving and Deleting Emails with IMAP

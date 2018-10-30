@@ -1,5 +1,5 @@
 ```ngMeta
-name: Formulas
+name: formulas
 completionMethod: manual
 ```
 # Formulas

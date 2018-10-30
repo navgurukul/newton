@@ -1,5 +1,5 @@
 ```ngMeta
-name: Negative Indexes
+name: negative-indexes
 completionMethod: manual
 ```
 # Negative Indexes

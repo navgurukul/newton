@@ -1,5 +1,5 @@
 ```ngMeta
-name: The os.path Module
+name: the-os-path-module
 completionMethod: manual
 ```
 # The os.path Module

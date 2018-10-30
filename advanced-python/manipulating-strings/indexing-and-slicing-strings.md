@@ -1,5 +1,5 @@
 ```ngMeta
-name: Indexing and Slicing Strings
+name: indexing-and-slicing-strings
 completionMethod: manual
 ```
 # Indexing and Slicing Strings

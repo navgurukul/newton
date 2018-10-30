@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Simple Countdown Program
+name: project-simple-countdown-program
 completionMethod: manual
 ```
 # Project: Simple Countdown Program

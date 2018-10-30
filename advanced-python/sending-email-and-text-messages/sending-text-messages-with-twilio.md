@@ -1,5 +1,5 @@
 ```ngMeta
-name: Sending Text Messages with Twilio
+name: sending-text-messages-with-twilio
 completionMethod: manual
 ```
 # Sending Text Messages with Twilio
