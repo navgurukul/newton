@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Writing Word Documents
+name:  writing-word-documents
 completionMethod: manual
 ```
 # Writing Word Documents

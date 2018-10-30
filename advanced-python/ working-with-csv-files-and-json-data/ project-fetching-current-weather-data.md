@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Project: Fetching Current Weather Data
+name:  project-fetching-current-weather-data
 completionMethod: manual
 ```
 # Project: Fetching Current Weather Data

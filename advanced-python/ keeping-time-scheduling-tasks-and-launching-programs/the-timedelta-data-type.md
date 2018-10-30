@@ -1,5 +1,5 @@
 ```ngMeta
-name: The timedelta Data Type
+name: the-timedelta-data-type
 completionMethod: manual
 ```
 # The timedelta Data Type

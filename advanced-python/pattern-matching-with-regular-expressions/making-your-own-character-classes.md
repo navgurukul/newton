@@ -1,5 +1,5 @@
 ```ngMeta
-name: Making Your Own Character Classes
+name: making-your-own-character-classes
 completionMethod: manual
 ```
 # Making Your Own Character Classes

@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Encrypting PDFs
+name:  encrypting-pdfs
 completionMethod: manual
 ```
 # Encrypting PDFs

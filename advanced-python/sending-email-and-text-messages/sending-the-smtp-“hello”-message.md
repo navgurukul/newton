@@ -1,5 +1,5 @@
 ```ngMeta
-name: Sending the SMTP “Hello” Message
+name: sending-the-smtp-“hello”-message
 completionMethod: manual
 ```
 # Sending the SMTP “Hello” Message

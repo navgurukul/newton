@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Freeze Panes
+name: freeze-panes
 completionMethod: manual
 ```
 # Freeze Panes

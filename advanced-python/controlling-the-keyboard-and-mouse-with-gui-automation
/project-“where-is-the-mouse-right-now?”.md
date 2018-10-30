@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: “Where Is the Mouse Right Now?”
+name: project-“where-is-the-mouse-right-now?”
 completionMethod: manual
 ```
 # Project: “Where Is the Mouse Right Now?”

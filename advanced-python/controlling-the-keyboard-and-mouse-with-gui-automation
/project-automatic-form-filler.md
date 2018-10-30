@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Automatic Form Filler
+name: project-automatic-form-filler
 completionMethod: manual
 ```
 # Project: Automatic Form Filler

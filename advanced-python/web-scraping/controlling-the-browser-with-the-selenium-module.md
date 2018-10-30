@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling the Browser with the selenium Module
+name: controlling-the-browser-with-the-selenium-module
 completionMethod: manual
 ```
 # Controlling the Browser with the selenium Module

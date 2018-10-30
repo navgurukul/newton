@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Adding Bullets to Wiki Markup
+name: project:-adding-bullets-to-wiki-markup
 completionMethod: manual
 ```
 # Project: Adding Bullets to Wiki Markup

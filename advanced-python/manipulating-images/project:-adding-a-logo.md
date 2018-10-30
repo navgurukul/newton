@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Adding a Logo
+name: project:-adding-a-logo
 completionMethod: manual
 ```
 # Project: Adding a Logo

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Copying and Pasting Strings with the pyperclip Module
+name: copying-and-pasting-strings-with-the-pyperclip-mo
 completionMethod: manual
 ```
 # Copying and Pasting Strings with the pyperclip Module

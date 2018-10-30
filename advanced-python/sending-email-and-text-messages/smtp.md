@@ -1,5 +1,5 @@
 ```ngMeta
-name: SMTP
+name: smtp
 completionMethod: manual
 ```
 # SMTP

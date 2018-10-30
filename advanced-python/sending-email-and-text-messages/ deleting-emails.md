@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Deleting Emails
+name:  deleting-emails
 completionMethod: manual
 ```
 # Deleting Emails

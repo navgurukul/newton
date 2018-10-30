@@ -1,5 +1,5 @@
 ```ngMeta
-name: Reading Word Documents
+name: reading-word-documents
 completionMethod: manual
 ```
 # Reading Word Documents

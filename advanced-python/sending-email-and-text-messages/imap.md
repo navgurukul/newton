@@ -1,5 +1,5 @@
 ```ngMeta
-name: IMAP
+name: imap
 completionMethod: manual
 ```
 # IMAP

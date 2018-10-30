@@ -1,5 +1,5 @@
 ```ngMeta
-name: Opening Your Browser’s Developer Tools
+name: opening-your-browser’s-developer-tools
 completionMethod: manual
 ```
 # Opening Your Browser’s Developer Tools

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Review of Python’s Time Functions
+name: review-of-python’s-time-functions
 completionMethod: manual
 ```
 # Review of Python’s Time Functions

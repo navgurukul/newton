@@ -1,5 +1,5 @@
 ```ngMeta
-name: Local and Global Scope
+name: local-and-global-scope
 completionMethod: manual
 ```
 # Local and Global Scope

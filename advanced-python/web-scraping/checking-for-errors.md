@@ -1,5 +1,5 @@
 ```ngMeta
-name: Checking for Errors
+name: checking-for-errors
 completionMethod: manual
 ```
 # Checking for Errors

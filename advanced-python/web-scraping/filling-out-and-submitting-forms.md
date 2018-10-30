@@ -1,5 +1,5 @@
 ```ngMeta
-name: Filling Out and Submitting Forms
+name: filling-out-and-submitting-forms
 completionMethod: manual
 ```
 # Filling Out and Submitting Forms

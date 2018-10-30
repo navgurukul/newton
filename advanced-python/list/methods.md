@@ -1,5 +1,5 @@
 ```ngMeta
-name: Methods
+name: methods
 completionMethod: manual
 ```
 # Methods

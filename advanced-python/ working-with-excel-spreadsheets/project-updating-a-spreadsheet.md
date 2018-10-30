@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Project: Updating a Spreadsheet
+name: project-updating-a-spreadsheet
 completionMethod: manual
 ```
 # Project: Updating a Spreadsheet

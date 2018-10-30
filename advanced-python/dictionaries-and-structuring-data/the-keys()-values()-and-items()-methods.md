@@ -1,5 +1,5 @@
 ```ngMeta
-name: The keys(), values(), and items() Methods
+name: the-keys()-values()-and-items()-methods
 completionMethod: manual
 ```
 # The keys(), values(), and items() Methods
