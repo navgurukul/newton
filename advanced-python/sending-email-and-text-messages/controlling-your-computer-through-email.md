@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling Your Computer Through Email
+name: controlling-your-computer-through-email
 completionMethod: manual
 ```
 # Controlling Your Computer Through Email

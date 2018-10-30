@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling Mouse Movement
+name: controlling-mouse-movement
 completionMethod: manual
 ```
 # Controlling Mouse Movement

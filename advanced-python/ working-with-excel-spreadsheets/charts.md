@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Charts
+name: charts
 completionMethod: manual
 ```
 # Charts

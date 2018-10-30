@@ -1,5 +1,5 @@
 ```ngMeta
-name: Multithreading
+name: multithreading
 completionMethod: manual
 ```
 # Multithreading

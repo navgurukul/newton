@@ -1,5 +1,5 @@
 ```ngMeta
-name: Overlaying Pages
+name: overlaying-pages
 completionMethod: manual
 ```
 # Overlaying Pages

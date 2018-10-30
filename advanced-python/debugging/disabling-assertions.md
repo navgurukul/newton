@@ -1,5 +1,5 @@
 ```ngMeta
-name: Disabling Assertions
+name: disabling-assertions
 completionMethod: manual
 ```
 # Disabling Assertions

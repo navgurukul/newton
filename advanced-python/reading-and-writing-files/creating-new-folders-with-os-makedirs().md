@@ -1,5 +1,5 @@
 ```ngMeta
-name: Creating New Folders with os.makedirs()
+name: creating-new-folders-with-os-makedirs()
 completionMethod: manual
 ```
 # Creating New Folders with os.makedirs()

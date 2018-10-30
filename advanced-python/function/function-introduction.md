@@ -1,5 +1,5 @@
 ```ngMeta
-name: function Introduction
+name: function-introduction
 completionMethod: manual
 ```
 You’re already familiar with the print(), input(), and len() functions from the previous chapters. Python provides several builtin functions like these, but you can also write your own functions. A function is like a mini-program within a program.

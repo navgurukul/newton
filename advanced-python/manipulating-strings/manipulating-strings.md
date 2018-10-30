@@ -1,5 +1,5 @@
 ```ngMeta
-name: Manipulating Strings
+name: manipulating-strings
 completionMethod: manual
 ```
 # Manipulating Strings

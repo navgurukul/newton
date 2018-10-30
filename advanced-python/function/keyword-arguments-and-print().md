@@ -1,5 +1,5 @@
 ```ngMeta
-name: Keyword Arguments and print()
+name: keyword-arguments-and-print()
 completionMethod: manual
 ```
 # Keyword Arguments and print()

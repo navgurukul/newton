@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting the Full Text from a .docx File
+name: getting-the-full-text-from-a-docx-file
 completionMethod: manual
 ```
 # Getting the Full Text from a .docx File

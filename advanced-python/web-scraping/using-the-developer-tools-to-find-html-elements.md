@@ -1,5 +1,5 @@
 ```ngMeta
-name: Using the Developer Tools to Find HTML Elements
+name: using-the-developer-tools-to-find-html-elements
 completionMethod: manual
 ```
 # Using the Developer Tools to Find HTML Elements

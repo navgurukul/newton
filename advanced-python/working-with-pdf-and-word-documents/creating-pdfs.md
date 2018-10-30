@@ -1,5 +1,5 @@
 ```ngMeta
-name: Creating PDFs
+name: creating-pdfs
 completionMethod: manual
 ```
 # Creating PDFs

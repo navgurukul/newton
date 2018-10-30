@@ -1,5 +1,5 @@
 ```ngMeta
-name: Drawing Text
+name: drawing-text
 completionMethod: manual
 ```
 # Drawing Text

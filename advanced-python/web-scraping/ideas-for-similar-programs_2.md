@@ -1,5 +1,5 @@
 ```ngMeta
-name: Ideas for Similar Programs
+name: ideas-for-similar-programs_2
 completionMethod: manual
 ```
 # Ideas for Similar Programs
@@ -26,8 +26,8 @@ Follows the Previous Comic link.
 
 Repeats until it reaches the first comic.
 
-![image](asseta/000016.jpg)
-
+<!-- ![image](asseta/000016.jpg)
+ -->
  “a webcomic of romance, sarcasm, math, and language”
 
 This means your code will need to do the following:

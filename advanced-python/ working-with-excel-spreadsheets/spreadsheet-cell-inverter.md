@@ -1,5 +1,5 @@
 ```ngMeta
-name: Spreadsheet Cell Inverter
+name: spreadsheet-cell-inverter
 completionMethod: manual
 ```
 # Spreadsheet Cell Inverter

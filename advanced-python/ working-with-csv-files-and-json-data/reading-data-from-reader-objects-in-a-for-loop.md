@@ -1,5 +1,5 @@
 ```ngMeta
-name: Reading Data from Reader Objects in a for Loop
+name: reading-data-from-reader-objects-in-a-for-loop
 completionMethod: manual
 ```
 # Reading Data from Reader Objects in a for Loop

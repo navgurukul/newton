@@ -1,5 +1,5 @@
 ```ngMeta
-name: Working with PDF and word Documents
+name: working-with-pdf-and-word-documents
 completionMethod: manual
 ```
 # Working with PDF and word Documents

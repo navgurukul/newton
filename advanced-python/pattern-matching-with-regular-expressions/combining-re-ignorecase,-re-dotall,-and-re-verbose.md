@@ -1,5 +1,5 @@
 ```ngMeta
-name: Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE
+name: combining-re-ignorecase,-re-dotall,-and-re-verbose
 completionMethod: manual
 ```
 # Combining re.IGNORECASE, re.DOTALL, and re.VERBOSE

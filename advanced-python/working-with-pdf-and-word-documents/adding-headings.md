@@ -1,5 +1,5 @@
 ```ngMeta
-name: Adding Headings
+name: adding-headings
 completionMethod: manual
 ```
 # Adding Headings

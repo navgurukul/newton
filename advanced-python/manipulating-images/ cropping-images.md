@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Cropping Images
+name:  cropping-images
 completionMethod: manual
 ```
 # Cropping Images

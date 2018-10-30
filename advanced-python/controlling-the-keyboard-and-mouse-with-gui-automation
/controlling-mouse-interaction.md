@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling Mouse Interaction
+name: controlling-mouse-interaction
 completionMethod: manual
 ```
 # Controlling Mouse Interaction

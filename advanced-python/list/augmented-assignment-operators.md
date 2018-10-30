@@ -1,5 +1,5 @@
 ```ngMeta
-name: Augmented Assignment Operators
+name: augmented-assignment-operators
 completionMethod: manual
 ```
 # Augmented Assignment Operators

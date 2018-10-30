@@ -1,5 +1,5 @@
 ```ngMeta
-name: Working with the Screen
+name: working-with-the-screen
 completionMethod: manual
 ```
 # Working with the Screen

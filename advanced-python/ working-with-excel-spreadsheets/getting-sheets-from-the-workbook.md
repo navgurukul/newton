@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting Sheets from the Workbook
+name: getting-sheets-from-the-workbook
 completionMethod: manual
 ```
 # Getting Sheets from the Workbook

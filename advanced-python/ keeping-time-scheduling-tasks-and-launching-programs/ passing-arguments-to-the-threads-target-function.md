@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Passing Arguments to the Thread’s Target Function
+name:  passing-arguments-to-the-threads-target-function
 completionMethod: manual
 ```
 # Passing Arguments to the Thread’s Target Function

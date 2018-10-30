@@ -1,5 +1,5 @@
 ```ngMeta
-name: Don’t Debug with print()
+name: don’t-debug-with-print()
 completionMethod: manual
 ```
 # Don’t Debug with print()

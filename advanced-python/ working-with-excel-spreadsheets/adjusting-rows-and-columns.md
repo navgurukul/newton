@@ -1,5 +1,5 @@
 ```ngMeta
-name: Adjusting Rows and Columns
+name: adjusting-rows-and-columns
 completionMethod: manual
 ```
 # Adjusting Rows and Columns

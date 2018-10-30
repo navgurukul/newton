@@ -1,5 +1,5 @@
 ```ngMeta
-name: Using an Assertion in a Traffic Light Simulation
+name: using-an-assertion-in-a-traffic-light-simulation
 completionMethod: manual
 ```
 # Using an Assertion in a Traffic Light Simulation

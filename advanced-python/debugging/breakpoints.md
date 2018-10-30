@@ -1,5 +1,5 @@
 ```ngMeta
-name: Breakpoints
+name: breakpoints
 completionMethod: manual
 ```
 # Breakpoints

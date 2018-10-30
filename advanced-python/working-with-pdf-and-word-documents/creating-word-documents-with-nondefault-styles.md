@@ -1,5 +1,5 @@
 ```ngMeta
-name: Creating Word Documents with Nondefault Styles
+name: creating-word-documents-with-nondefault-styles
 completionMethod: manual
 ```
 # Creating Word Documents with Nondefault Styles

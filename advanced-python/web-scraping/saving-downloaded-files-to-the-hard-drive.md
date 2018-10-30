@@ -1,5 +1,5 @@
 ```ngMeta
-name: Saving Downloaded Files to the Hard Drive
+name: saving-downloaded-files-to-the-hard-drive
 completionMethod: manual
 ```
 # Saving Downloaded Files to the Hard Drive

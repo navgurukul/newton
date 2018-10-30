@@ -1,5 +1,5 @@
 ```ngMeta
-name: Debugging a Number Adding Program
+name: debugging-a-number-adding-program
 completionMethod: manual
 ```
 # Debugging a Number Adding Program

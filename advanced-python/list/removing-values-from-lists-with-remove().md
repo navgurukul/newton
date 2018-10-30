@@ -1,5 +1,5 @@
 ```ngMeta
-name: Removing Values from Lists with remove()
+name: removing-values-from-lists-with-remove()
 completionMethod: manual
 ```	
 # Removing Values from Lists with remove()

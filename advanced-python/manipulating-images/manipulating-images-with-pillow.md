@@ -1,5 +1,5 @@
 ```ngMeta
-name: Manipulating Images with Pillow
+name: manipulating-images-with-pillow
 completionMethod: manual
 ```
 # Manipulating Images with Pillow

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Matching Newlines with the Dot Character
+name: matching-newlines-with-the-dot-character
 completionMethod: manual
 ```
 # Matching Newlines with the Dot Character
