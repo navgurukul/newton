@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Connecting to an IMAP Server
+name:  connecting-to-an-imap-server
 completionMethod: manual
 ```
 # Connecting to an IMAP Server

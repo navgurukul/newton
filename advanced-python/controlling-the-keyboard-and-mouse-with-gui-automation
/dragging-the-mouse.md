@@ -1,5 +1,5 @@
 ```ngMeta
-name: Dragging the Mouse
+name: dragging-the-mouse
 completionMethod: manual
 ```
 # Dragging the Mouse

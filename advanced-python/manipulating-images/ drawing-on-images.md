@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Drawing on Images
+name:  drawing-on-images
 completionMethod: manual
 ```
 # Drawing on Images

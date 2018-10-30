@@ -1,5 +1,5 @@
 ```ngMeta
-name: Reading JSON with the loads() Function
+name: reading-json-with-the-loads()-function
 completionMethod: manual
 ```
 # Reading JSON with the loads() Function

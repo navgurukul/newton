@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Image Recognition
+name:  image-recognition
 completionMethod: manual
 ```
 # Image Recognition

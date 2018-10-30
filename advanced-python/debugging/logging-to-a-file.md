@@ -1,5 +1,5 @@
 ```ngMeta
-name: Logging to a File
+name: logging-to-a-file
 completionMethod: manual
 ```
 # Logging to a File

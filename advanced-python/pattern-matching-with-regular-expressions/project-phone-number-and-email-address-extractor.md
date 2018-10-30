@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Phone Number and Email Address Extractor
+name: project-phone-number-and-email-address-extractor
 completionMethod: manual
 ```
 # Project: Phone Number and Email Address Extractor

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Rounding Numbers
+name: rounding-numbers
 completionMethod: manual
 ```
 # Rounding Numbers

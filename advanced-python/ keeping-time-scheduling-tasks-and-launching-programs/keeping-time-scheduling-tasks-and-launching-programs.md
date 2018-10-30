@@ -1,5 +1,5 @@
 ```ngMeta
-name: Keeping Time, Scheduling Tasks, and Launching Programs
+name: keeping-time-scheduling-tasks-and-launching-programs
 completionMethod: manual
 ```
 # Keeping Time, Scheduling Tasks, and Launching Programs

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Local Scopes Cannot Use Variables in Other Local Scopes
+name: local-scopes-cannot-Use-variables-in-other-local-scopes
 completionMethod: manual
 ```
 # Local Scopes Cannot Use Variables in Other Local Scopes

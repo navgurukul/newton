@@ -1,5 +1,5 @@
 ```ngMeta
-name: Reading and Writing Files
+name: reading-and-writing-files
 completionMethod: manual
 ```
 # Reading and Writing Files

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Sending an Email
+name: sending-an-email
 completionMethod: manual
 ```
 # Sending an Email

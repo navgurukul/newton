@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Workbooks, Sheets, Cells
+name: workbooks-sheets-cells
 completionMethod: manual
 ```
 # Workbooks, Sheets, Cells

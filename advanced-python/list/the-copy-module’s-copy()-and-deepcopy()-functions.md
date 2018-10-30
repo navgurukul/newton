@@ -1,5 +1,5 @@
 ```ngMeta
-name: The copy Module’s copy() and deepcopy() Functions
+name: the-copy-module’s-copy()-and-deepcopy()-functions
 completionMethod: manual
 ```
 # The copy Module’s copy() and deepcopy() Functions

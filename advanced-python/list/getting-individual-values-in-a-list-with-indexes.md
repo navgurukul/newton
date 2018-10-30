@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting Individual Values in a List with Indexes
+name: getting-individual-values-in-a-list-with-indexes
 completionMethod: manual
 ```
 # Getting Individual Values in a List with Indexes

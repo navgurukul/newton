@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: “I’m Feeling Lucky” Google Search
+name: project:-“i’m-feeling-lucky”-google-search
 completionMethod: manual
 ```
 # Project: “I’m Feeling Lucky” Google Search

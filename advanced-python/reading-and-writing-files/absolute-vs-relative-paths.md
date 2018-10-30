@@ -1,5 +1,5 @@
 ```ngMeta
-name: Absolute vs. Relative Paths
+name: absolute-vs-relative-paths
 completionMethod: manual
 ```
 # Absolute vs. Relative Paths

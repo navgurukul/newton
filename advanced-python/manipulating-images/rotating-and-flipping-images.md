@@ -1,5 +1,5 @@
 ```ngMeta
-name: Rotating and Flipping Images
+name: rotating-and-flipping-images
 completionMethod: manual
 ```
 # Rotating and Flipping Images

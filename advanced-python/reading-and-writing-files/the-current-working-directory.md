@@ -1,5 +1,5 @@
 ```ngMeta
-name: The Current Working Directory
+name: the-current-working-directory
 completionMethod: manual
 ```
 # The Current Working Directory

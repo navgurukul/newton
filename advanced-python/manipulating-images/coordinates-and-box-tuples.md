@@ -1,5 +1,5 @@
 ```ngMeta
-name: Coordinates and Box Tuples
+name: coordinates-and-box-tuples
 completionMethod: manual
 ```
 # Coordinates and Box Tuples

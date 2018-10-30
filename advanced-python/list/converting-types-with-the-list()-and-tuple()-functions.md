@@ -1,5 +1,5 @@
 ```ngMeta
-name: Converting Types with the list() and tuple() Functions
+name: converting-types-with-the-list()-and-tuple()-functions
 completionMethod: manual
 ```
 # Converting Types with the list() and tuple() Functions

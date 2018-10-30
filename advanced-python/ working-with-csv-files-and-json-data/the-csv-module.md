@@ -1,5 +1,5 @@
 ```ngMeta
-name: The CSV Module
+name: the-csv-module
 completionMethod: manual
 ```
 # The CSV Module

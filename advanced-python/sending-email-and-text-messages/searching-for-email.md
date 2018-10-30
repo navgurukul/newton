@@ -1,5 +1,5 @@
 ```ngMeta
-name: Searching for Email 
+name: searching-for-email
 completionMethod: manual
 ```
 # Searching for Email

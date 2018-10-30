@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting the Traceback as a String
+name: getting-the-traceback-as-a-string
 completionMethod: manual
 ```
 # Getting the Traceback as a String

@@ -1,5 +1,5 @@
 ```ngMeta
-name: The Multiple Assignment Trick
+name: the-multiple-assignment-trick
 completionMethod: manual
 ```
 # The Multiple Assignment Trick

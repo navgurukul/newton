@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling the Keyboard and Mouse with GUI Automation
+name: controlling-the-keyboard-and-mouse-with-gui-automation
 completionMethod: manual
 ```
 # Controlling the Keyboard and Mouse with GUI Automation

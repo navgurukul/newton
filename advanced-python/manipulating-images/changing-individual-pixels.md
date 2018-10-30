@@ -1,5 +1,5 @@
 ```ngMeta
-name: Changing Individual Pixels
+name: changing-individual-pixels
 completionMethod: manual
 ```
 # Changing Individual Pixels
