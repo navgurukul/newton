@@ -29,3 +29,5 @@ The DISCO will conduct another round of elections to vote for the GenSec. All ge
 
 Two candidates who receive the maximum number of votes will be interviewed by the Board of Governors and one of them will be appointed as the GenSec.
 
+The one who is appointed as the GenSec will drop the Council profile and whosoever has gotten the second highest votes for that profile, will be selected for the respective profile. 
+
