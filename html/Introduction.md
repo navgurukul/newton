@@ -1,6 +1,6 @@
 ```ngMeta
 name: HTML Introduction
-completionMethod: manual
+submissionType: url
 ```
 
 # HTML Introduction 
