@@ -1,6 +1,5 @@
 ```ngMeta
 name: HTML Introduction
-submissionType: url
 ```
 
 # HTML Introduction 
