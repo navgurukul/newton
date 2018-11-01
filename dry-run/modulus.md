@@ -11,6 +11,18 @@ Modulus kya hota hai, yeh samajhne ke liye aap yeh [video](https://www.youtube.c
 yaad rakhiyega ki interger nos ke liye, hamesha integer hi answer aata hai, mtlb usme float nahi aata
 so jab 3 ko 2 se divide karenge to answer 1 aayega and Remainder bhi 1 hi aayega
 
+<!-- TODO Aap iss video ko dekhein. -->
+
+```python
+x = 30
+a = x % 7
+b = x % 8
+c = b % a
+d = a % b
+e = c % d
+f = d % c
+print x, a, b, c, d, e
+```
 
 ```python
 x = 5
