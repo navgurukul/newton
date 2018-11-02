@@ -1,3 +1,4 @@
+- assessment.md
 - introduction.md
 - identify-personality.md
 - simplepresent
