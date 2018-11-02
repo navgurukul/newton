@@ -3,7 +3,7 @@ name: While Loops
 completionMethod: manual
 ```
 
-<!-- TODO Aap pehle iss video ko dekhein `while` program ka dry run samajhne ke liye. -->
+Aap pehle iss [video](https://www.youtube.com/watch?v=s_7YgktIJFo&feature=youtu.be) ko dekhein `while` program ka dry run samajhne ke liye. 
 
 ```python
 c = 0
