@@ -5,7 +5,7 @@ completionMethod: manual
 
 **Note: Yaad se saare code examples ko chala ke dekhna. Chala ke aur samajh ke hi aap seekh paoge.**
 
-# Constants kya hote hain?
+#Constants kya hote hain?
 
 Numbers, letters, aur strings ko **"CONSTANTS"** kaha jata hai, kyuki unki value change nahi hoti. Jin ki value change hoti hai unko variables kehte hain. Hum log pehle constants ke bare mein padhenge.
 
@@ -20,6 +20,7 @@ Numbers, letters, aur strings ko **"CONSTANTS"** kaha jata hai, kyuki unki value
 print 123
 print 9999
 ```
+
 
 ## Decimal numbers ko python mei FLOAT bolte hain
 
@@ -44,4 +45,4 @@ print 'hello world'
 print 'navgurukul'
 ```
 
-- Exercise: [navgurukul.org/python/constants-a.py](http://navgurukul.org/python/constants-a.py)  
+- Exercise: [navgurukul.org/python/constants-a.py](http://navgurukul.org/python/constants-a.py) 

@@ -6,9 +6,23 @@ completionMethod: manual
 Modulus/Remainder yani ki % and divide /, computers mai aise kaam karte hai,
 `x = 3`, agar x ko 2 se divide karenge to kya answer aayega?
 
+Modulus kya hota hai, yeh samajhne ke liye aap yeh [video](https://www.youtube.com/watch?v=0k-X9XXlp_U) dekho.
+
 yaad rakhiyega ki interger nos ke liye, hamesha integer hi answer aata hai, mtlb usme float nahi aata
 so jab 3 ko 2 se divide karenge to answer 1 aayega and Remainder bhi 1 hi aayega
 
+<!-- TODO Aap pehle iss video ko dekhein `modulus operator` ka dry run samajhne ke liye. -->
+
+```python
+x = 30
+a = x % 7
+b = x % 8
+c = b % a
+d = a % b
+e = c % d
+f = d % c
+print x, a, b, c, d, e
+```
 
 ```python
 x = 5
@@ -18,25 +32,23 @@ print x%2
 
 ```python
 x = 1
-
 print x/2
 print x%2
-
 ```
 
 ```python
 x = 5
 y = 4
-print x/y
-print x%y
+print x / y
+print x % y
 ```
 
 
 ```python
 x = 5
 y = 4
-print x/y
-print x%y
+print x / y
+print x % y
 ```
 
 ye program mai kuch galti hai isko aap ko sahi karna hai
@@ -45,29 +57,12 @@ Ye program ye batata hai ki **x** 3 ka multiple hai ya nahi, is program ko dry r
 
 ```python
 x = 12
-if (x%6 == 0):
+if (x%3 == 0):
 	print "3 ka multiple hai"
 else:
 	print "3 ka multiple nahi hai"
 ```
-
-is program mai humne int or float dono daale hai, isko dhyaan se kijeyega
-
-```python
-x = 5
-y = 4
-z = y*1.0
-
-if x/y == x/z:
-	print "same hai"
-else:
-	print "same nahi hai"	
-
-
-print x/y
-print x/z
-```
-
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=xBWa3aN7-84) dekh sakte ho.
 
 ```python
 a = [23, 28, 12, 7, 49, 87]

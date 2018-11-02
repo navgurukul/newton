@@ -1,3 +1,4 @@
+- assessment.md
 - modals
   - tutorial.md
   - exercises.md
