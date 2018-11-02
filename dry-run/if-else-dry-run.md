@@ -3,7 +3,7 @@ name: If Else - Dry Run
 completionMethod: manual
 ```
 
-<!-- TODO Aap pehle iss video ko dekhein if-else program ka dry run karne ke liye. -->
+Aap pehle iss [video](https://www.youtube.com/watch?v=5jlV9b1GB9k&feature=youtu.be) ko dekhein if-else program ka dry run karne ke liye. 
 
 ```python
 x = 15
