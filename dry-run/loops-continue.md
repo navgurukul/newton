@@ -3,6 +3,26 @@ name: Using Continue
 completionMethod: manual
 ```
 
+<!-- TODO Aap pehle iss video ko dekhein `continue` command ka loop mei kaam samajhne ke liye. Iss understanding ko use kar kar, humein aage likhe hue code ka dry run karna hai. -->
+
+```python
+counter = 0
+string = "navgurukul"
+while (counter < len(string)):
+    counter += 1
+
+    if string[counter] == "a":
+        continue
+
+    if string[counter] == "u"
+        continue
+    
+    print(string[counter])
+
+print("The end", string[counter])
+```
+
+
 ![How Continue Statements Work!](assets/how-continue-statement-works.jpg)
 Agar aap yeh diagram dekhoge toh aap samjhoge, ki `continue` command se hum loop mei
 - jo bhi `continue` ke baad code hai uss loop mei, woh `execute` nahi hota
@@ -11,15 +31,6 @@ Agar aap yeh diagram dekhoge toh aap samjhoge, ki `continue` command se hum loop
 Ab iss idea ko use karte hue in example codes ka `dry run` karein.
 
 __Ek baar dhyaan se dekhein ki break aur continue mei kya difference hai__
-
-```python
-for val in "string":
-    if val == "i":
-        continue
-    print(val)
-
-print("The end")
-```
 
 ```python
 x = 0
