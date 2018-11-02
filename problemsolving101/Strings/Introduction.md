@@ -1,5 +1,5 @@
 ```ngMeta
-name: Strings Easy Question 1
+name: Strings
 completionMethod: manual
 ```
 
