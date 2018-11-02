@@ -7,6 +7,17 @@ completionMethod: manual
 ### Kaise Use Karein
 Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
 
+<!-- TODO : Variables ka dry run samajhne ke liye aap iss video ko dekhein. -->
+
+```python
+a = 3
+b = 4
+c = a * b
+a = b * c
+b = a + c
+c = a + b + c
+```
+
 Jab aap ko confidence ho ki aap ka solution theek hai, tab aap kisi senior se solution verify kara kar aage badh sakte hai.
 
 Yeh bahut important hai ki yeh course aap bahut dhyaan se karein, kyuki programming ke basics iss course mei develop ho jayenge.
@@ -55,6 +66,7 @@ a = c*2
  b = c + a
  c = a * c
 ```
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=fny5w_YKSc8) ya yeh [video](https://www.youtube.com/watch?v=RsmMloOHrRQ) ya yeh [video](https://www.youtube.com/watch?v=pyFetzD0b38) dekh sakte ho. Kaunsi video aap ko jyada clear lagi?
 
 <!-- TODO: MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
 ```python
@@ -118,3 +130,22 @@ print new_amount
 
 ```
 new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye
+
+
+Iss program mai humne int or float dono daale hai, isko dhyaan se kijeyega. Dhyaan rakhein, floats aur integer division alag alag hota hai.
+
+```python
+x = 5
+y = 4
+z = y*1.0
+
+if x/y == x/z:
+	print "same hai"
+else:
+	print "same nahi hai"	
+
+
+print x/y
+print x/z
+```
+<!-- TODO: division of floats and integers: EXPLAIN: NEED A NEW CHAPTER IN ITSELF -->

@@ -3,6 +3,28 @@ name: If Else - Dry Run
 completionMethod: manual
 ```
 
+<!-- TODO Aap pehle iss video ko dekhein if-else program ka dry run karne ke liye. -->
+
+```python
+x = 15
+y = 12
+
+if x > y:
+    print "y se bada x hai"
+else:
+    print "x se bada y hai"
+
+x = 12
+y = 15
+z = 18
+
+if x > y:
+    print "y se bada x hai"
+elif y > z:
+    print "z se bada y hai"
+else:
+    print "x se bada y hai, aur y se bada z hai"
+```
 
 
 ```python
@@ -134,3 +156,5 @@ else:
 ```
 
 u1 aur u2 ko different different values jaise "**rock**", "**scissors**", "**paper**", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
+
+Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=5v0Ie9ig0Qs) dekh sakte ho.
