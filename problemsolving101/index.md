@@ -5,14 +5,17 @@
   - WarmupQuestion2.md
   - WarmupQuestion3.md
 - Arrays
+  - Introduction.md
   - ArraysEasyQuestion1.md
   - ArraysEasyQuestion2.md
   - ArraysBonus.md
 - Dictionaries
+  - Introduction.md
   - DictionariesEasyQuestion1.md
   - DictionariesEasyQuestion2.md
   - DictionariesBonus.md
 - Implementation
+  - Introduction.md
   - ImplementationEasyQuestion1.md
   - ImplementationEasyQuestion2.md
   - ImplementationEasyQuestion3.md
@@ -22,6 +25,7 @@
   - ImplementationMediumQuestion1.md
   - ImplementationMediumQuestion2.md
 - Strings
+  - Introduction.md
   - StringsEasyQuestion1.md
   - StringsEasyQuestion2.md
   - StringsEasyQuestion3.md
@@ -33,6 +37,7 @@
   - StringMediumQuestion2.md
   - StringMediumQuestion3.md
 - MoreArrays
+  - Introduction.md
   - MoreArraysEasyQuestion1.md
   - MoreArraysEasyQuestion2.md
   - MoreArraysEasyQuestion3.md
@@ -41,6 +46,7 @@
   - MoreArraysMediumQuestion1.md
   - MoreArraysMediumQuestion2.md
 - Search
+  - Introduction.md
   - SearchEasyQuestion1.md
   - SearchEasyQuestion2.md
   - SearchEasyQuestion3.md
