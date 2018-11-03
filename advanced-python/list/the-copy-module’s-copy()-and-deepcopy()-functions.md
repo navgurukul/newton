@@ -1,5 +1,5 @@
 ```ngMeta
-name: The copy Module’s copy() and deepcopy() Functions
+name: the-copy-module’s-copy()-and-deepcopy()-functions
 completionMethod: manual
 ```
 # The copy Module’s copy() and deepcopy() Functions
@@ -17,8 +17,8 @@ Although passing around references is often the handiest way to deal with lists 
 ```
 Now the spam and cheese variables refer to separate lists, which is why only the list in cheese is modified when you assign 42 at index 1. As you can see in Figure 4-7, the reference ID numbers are no longer the same for both variables because the variables refer to independent lists.
 
-![](assets/000084.jpg)
-
+<!-- ![](assets/000084.jpg)
+ -->
  cheese = copy.copy(spam) creates a second list that can be modified independently of the first.
 
 If the list you need to copy contains lists, then use the copy.deepcopy() function instead of copy.copy(). The deepcopy() function will copy these inner lists as well.

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Extending the mouseNow Program
+name: project-extending-the-mousenow-program
 completionMethod: manual
 ```
 # Project: Extending the mouseNow Program

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: “Just Text Me” Module
+name: project:-“just-text-me”-module
 completionMethod: manual
 ```
 # Project: “Just Text Me” Module

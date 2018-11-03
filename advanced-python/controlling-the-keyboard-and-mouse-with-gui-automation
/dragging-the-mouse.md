@@ -1,5 +1,5 @@
 ```ngMeta
-name: Dragging the Mouse
+name: dragging-the-mouse
 completionMethod: manual
 ```
 # Dragging the Mouse
@@ -25,8 +25,8 @@ With the mouse cursor over the drawing application’s canvas and the Pencil or 
        pyautogui.dragRel(0, -distance, duration=0.2)  # move up
 When you run this program, there will be a five-second delay ❶ for you to move the mouse cursor over the drawing program’s window with the Pencil or Brush tool selected. Then spiralDraw.py will take control of the mouse and click to put the drawing program in focus ❷. A window is in focus when it has an active blinking cursor, and the actions you take—like typing or, in this case, dragging the mouse—will affect that window. Once the drawing program is in focus, spiralDraw.py draws a square spiral pattern like the one in Figure 18-2.
 
-![image](assets/000015.jpg)
-
+<!-- ![image](assets/000015.jpg)
+ -->
 Figure 18-2. The results from the pyautogui.dragRel() example
 
 The distance variable starts at 200, so on the first iteration of the while loop, the first dragRel() call drags the cursor 200 pixels to the right, taking 0.2 seconds ❸. distance is then decreased to 195 ❹, and the second dragRel() call drags the cursor 195 pixels down ❺. The third dragRel() call drags the cursor –195 horizontally (195 to the left) ❻, distance is decreased to 190, and the last dragRel() call drags the cursor 190 pixels up. On each iteration, the mouse is dragged right, down, left, and up, and distance is slightly smaller than it was in the previous iteration. By looping over this code, you can move the mouse cursor to draw a square spiral.

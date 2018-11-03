@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Super Stopwatch
+name: project:-super-stopwatch
 completionMethod: manual
 ```
 # Project: Super Stopwatch

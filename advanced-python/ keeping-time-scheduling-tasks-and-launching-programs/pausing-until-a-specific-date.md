@@ -1,5 +1,5 @@
 ```ngMeta
-name: Pausing Until a Specific Date
+name: pausing-until-a-specific-date
 completionMethod: manual
 ```
 # Pausing Until a Specific Date

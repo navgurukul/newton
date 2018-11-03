@@ -1,12 +1,12 @@
 ```ngMeta
-name:  Project: Updating a Spreadsheet
+name: project-updating-a-spreadsheet
 completionMethod: manual
 ```
 # Project: Updating a Spreadsheet
 In this project, you’ll write a program to update cells in a spreadsheet of produce sales. Your program will look through the spreadsheet, find specific kinds of produce, and update their prices. Download this spreadsheet from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>. Figure 12-3 shows what the spreadsheet looks like.
 
-![image](assets/000030.jpg)
-
+<!-- ![image](assets/000030.jpg)
+ -->
 Figure 12-3. A spreadsheet of produce sales
 
 Each row represents an individual sale. The columns are the type of produce sold (A), the cost per pound of that produce (B), the number of pounds sold (C), and the total revenue from the sale (D). The TOTAL column is set to the Excel formula =ROUND(B3*C3, 2), which multiplies the cost per pound by the number of pounds sold and rounds the result to the nearest cent. With this formula, the cells in the TOTAL column will automatically update themselves if there is a change in column B or C.

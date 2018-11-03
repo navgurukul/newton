@@ -1,5 +1,5 @@
 ```ngMeta
-name: Lists
+name: lists
 completionMethod: manual
 ```
 # Lists

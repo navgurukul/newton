@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling the Keyboard
+name:  controlling-the-keyboard
 completionMethod: manual
 ```
 # Controlling the Keyboard
@@ -17,8 +17,8 @@ Notice how placing two commands on the same line, separated by a semicolon, keep
 
 Python will first send a virtual mouse click to the coordinates (100, 100), which should click the file editor window and put it in focus. The typewrite() call will send the text Hello world! to the window, making it look like Figure 18-3. You now have code that can type for you!
 
-![image](assets/0000108.jpg)
-
+<!-- ![image](assets/0000108.jpg)
+ -->
 Figure 18-3. Using PyAutogGUI to click the file editor window and type Hello world! into it
 
 By default, the typewrite() function will type the full string instantly. However, you can pass an optional second argument to add a short pause between each character. This second argument is an integer or float value of the number of seconds to pause. For example, pyautogui.typewrite('Hello world!', 0.25) will wait a quarter-second after typing H, another quarter-second after e, and so on. This gradual typewriter effect may be useful for slower applications that can’t process keystrokes fast enough to keep up with PyAutoGUI.

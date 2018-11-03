@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Signing Up for a Twilio Account
+name:  signing-up-for-a-twilio-account
 completionMethod: manual
 ```
 # Signing Up for a Twilio Account

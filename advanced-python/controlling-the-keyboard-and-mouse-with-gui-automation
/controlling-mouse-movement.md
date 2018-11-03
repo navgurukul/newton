@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling Mouse Movement
+name: controlling-mouse-movement
 completionMethod: manual
 ```
 # Controlling Mouse Movement
@@ -7,8 +7,8 @@ In this section, you’ll learn how to move the mouse and track its position on 
 
 The mouse functions of PyAutoGUI use x- and y-coordinates. Figure 18-1 shows the coordinate system for the computer screen; it’s similar to the coordinate system used for images, discussed in Chapter 17. The origin, where x and y are both zero, is at the upper-left corner of the screen. The x-coordinates increase going to the right, and the y-coordinates increase going down. All coordinates are positive integers; there are no negative coordinates.
 
-![image](assets/000011.jpg)
-
+<!-- ![image](assets/000011.jpg)
+ -->
 Figure 18-1. The coordinates of a computer screen with 1920×1080 resolution
 
 Your resolution is how many pixels wide and tall your screen is. If your screen’s resolution is set to 1920×1080, then the coordinate for the upper-left corner will be (0, 0), and the coordinate for the bottom-right corner will be (1919, 1079).

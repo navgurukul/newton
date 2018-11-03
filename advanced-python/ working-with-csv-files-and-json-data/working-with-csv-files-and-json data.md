@@ -1,5 +1,5 @@
 ```ngMeta
-name: Working with CSV Files and JSON Data
+name: working-with-csv-files-and-json data
 completionMethod: manual
 ```
 # Working with CSV Files and JSON Data

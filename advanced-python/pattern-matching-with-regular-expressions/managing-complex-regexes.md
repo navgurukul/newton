@@ -1,5 +1,5 @@
 ```ngMeta
-name: Managing Complex Regexes
+name: managing-complex-regexes
 completionMethod: manual
 ```
 # Managing Complex Regexes

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Converting Types with the list() and tuple() Functions
+name: converting-types-with-the-list()-and-tuple()-functions
 completionMethod: manual
 ```
 # Converting Types with the list() and tuple() Functions
@@ -46,15 +46,20 @@ When you create the list ❶, you assign a reference to it in the spam variable.
 
 Remember that variables are like boxes that contain values. The previous figures in this chapter show that lists in boxes aren’t exactly accurate because list variables don’t actually contain lists—they contain references to lists. (These references will have ID numbers that Python uses internally, but you can ignore them.) Using boxes as a metaphor for variables, Figure 4-4 shows what happens when a list is assigned to the spam variable.
 
-![image](assets/000081.jpg)
+<!-- ![image](assets/000081.jpg)
+ -->
 spam = [0, 1, 2, 3, 4, 5] stores a reference to a list, not the actual list.
 
 Then, in Figure 4-5, the reference in spam is copied to cheese. Only a new reference was created and stored in cheese, not a new list. Note how both references refer to the same list.
-![image](assets/000082.jpg)
+
+<!-- ![image](assets/000082.jpg)
+ -->
 spam = cheese copies the reference, not the list.
 
 When you alter the list that cheese refers to, the list that spam refers to is also changed, because both cheese and spam refer to the same list. You can see this in Figure
-![image](assets/000071.jpg)
+
+<!-- ![image](assets/000071.jpg)
+ -->
 cheese[1] = 'Hello!' modifies the list that both variables refer to.
 
 Variables will contain references to list values rather than list values themselves. But for strings and integer values, variables simply contain the string or integer value. Python uses references whenever variables must store values of mutable data types, such as lists or dictionaries. For values of immutable data types such as strings, integers, or tuples, Python variables will store the value itself.

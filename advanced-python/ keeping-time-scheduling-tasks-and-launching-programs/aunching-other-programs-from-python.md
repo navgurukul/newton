@@ -1,5 +1,5 @@
 ```ngMeta
-name: Launching Other Programs from Python
+name: aunching-other-programs-from-python
 completionMethod: manual
 ```
 # Launching Other Programs from Python
@@ -9,7 +9,7 @@ Every process can have multiple threads. Unlike threads, a process cannot direct
 
 If you want to start an external program from your Python script, pass the program’s filename to subprocess.Popen(). (On Windows, right-click the application’s Start menu item and select Properties to view the application’s filename. On OS X, CTRL-click the application and select Show Package Contents to find the path to the executable file.) The Popen() function will then immediately return. Keep in mind that the launched program is not run in the same thread as your Python program.
 
-![image](assets/000013.jpg)
+<!-- ![image](assets/000013.jpg) -->
 
 Figure 15-1. Six running processes of the same calculator program
 
@@ -21,7 +21,6 @@ On a Windows computer, enter the following into the interactive shell:
 ```
 <subprocess.Popen object at 0x0000000003055A58>
 On Ubuntu Linux, you would enter the following:
-
 ```python
 >>> import subprocess
 >>> subprocess.Popen('/usr/bin/gnome-calculator')

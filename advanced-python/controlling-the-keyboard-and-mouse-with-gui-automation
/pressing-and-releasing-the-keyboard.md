@@ -1,5 +1,5 @@
 ```ngMeta
-name: Pressing and Releasing the Keyboard
+name: pressing-and-releasing-the-keyboard
 completionMethod: manual
 ```
 # Pressing and Releasing the Keyboard
