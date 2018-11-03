@@ -1,5 +1,5 @@
 ```ngMeta
-name: Opening Excel Documents with OpenPyXL
+name: opening-excel-documents-with-openpyxl
 completionMethod: manual
 ```
 # Opening Excel Documents with OpenPyXL

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Identifying Photo Folders on the Hard Drive
+name: identifying-photo-folders-on-the-hard-drive
 completionMethod: manual
 ```
 # Identifying Photo Folders on the Hard Drive

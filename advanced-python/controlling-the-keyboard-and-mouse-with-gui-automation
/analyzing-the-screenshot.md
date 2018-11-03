@@ -1,5 +1,5 @@
 ```ngMeta
-name: Analyzing the Screenshot
+name: analyzing-the-screenshot
 completionMethod: manual
 ```
 # Analyzing the Screenshot

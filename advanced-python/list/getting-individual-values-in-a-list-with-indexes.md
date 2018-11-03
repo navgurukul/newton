@@ -1,8 +1,8 @@
 ```ngMeta
-name: Getting Individual Values in a List with Indexes
+name: getting-individual-values-in-a-list-with-indexes
 completionMethod: manual
 ```
-#Getting Individual Values in a List with Indexes
+# Getting Individual Values in a List with Indexes
 Say you have the list ['cat', 'bat', 'rat', 'elephant'] stored in a variable named spam. The Python code spam[0] would evaluate to 'cat', and spam[1] would evaluate to 'bat', and so on. The integer inside the square brackets that follows the list is called an index. The first value in the list is at index 0, the second value is at index 1, the third value is at index 2, and so on. Figure 4-1 shows a list value assigned to spam, along with what the index expressions would evaluate to.
 
  A list value stored in the variable spam, showing which value each index refers to

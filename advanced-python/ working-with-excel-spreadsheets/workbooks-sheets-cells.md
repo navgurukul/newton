@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Workbooks, Sheets, Cells
+name: workbooks-sheets-cells
 completionMethod: manual
 ```
 # Workbooks, Sheets, Cells
@@ -23,8 +23,8 @@ Read the Cell object’s value attribute.
 # Project: Reading Data from a Spreadsheet
 Say you have a spreadsheet of data from the 2010 US Census and you have the boring task of going through its thousands of rows to count both the total population and the number of census tracts for each county. (A census tract is simply a geographic area defined for the purposes of the census.) Each row represents a single census tract. We’ll name the spreadsheet file censuspopdata.xlsx, and you can download it from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>. Its contents look like Figure 12-2.
 
-![image](assets/000026.png)
-
+<!-- ![image](assets/000026.png)
+ -->
 Figure 12-2. The censuspopdata.xlsx spreadsheet
 
 Even though Excel can calculate the sum of multiple selected cells, you’d still have to select the cells for each of the 3,000-plus counties. Even if it takes just a few seconds to calculate a county’s population by hand, this would take hours to do for the whole spreadsheet.

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Installing the openpyxl Module
+name: installing-the-openpyxl-module
 completionMethod: manual
 ```
 # Installing the openpyxl Module
@@ -15,8 +15,8 @@ This book covers version 2.3.3 of OpenPyXL, but new versions are regularly relea
 # Reading Excel Documents
 The examples in this chapter will use a spreadsheet named example.xlsx stored in the root folder. You can either create the spreadsheet yourself or download it from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>. Figure 12-1 shows the tabs for the three default sheets named Sheet1, Sheet2, and Sheet3 that Excel automatically provides for new workbooks. (The number of default sheets created may vary between operating systems and spreadsheet programs.)
 
-![image](assets/000024.jpg)
-
+<!-- ![image](assets/000024.jpg)
+ -->
 Figure 12-1. The tabs for a workbook’s sheets are in the lower-left corner of Excel.
 
 Sheet 1 in the example file should look like Table 12-1. (If you didn’t download example.xlsx from the website, you should enter this data into the sheet yourself.)

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Opening Files with Default Applications
+name: opening-files-with-default-applications
 completionMethod: manual
 ```
 # Opening Files with Default Applications

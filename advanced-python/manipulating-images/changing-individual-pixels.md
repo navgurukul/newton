@@ -1,5 +1,5 @@
 ```ngMeta
-name: Changing Individual Pixels
+name: changing-individual-pixels
 completionMethod: manual
 ```
 # Changing Individual Pixels
@@ -36,8 +36,8 @@ At ❶ we make a new image that is a 100×100 transparent square. Calling getpix
 
 Say we want to color the bottom half of the image dark gray but don’t know the RGB tuple for dark gray. The putpixel() method doesn’t accept a standard color name like 'darkgray', so you have to use ImageColor.getcolor() to get a color tuple from 'darkgray'. Loop through the pixels in the bottom half of the image ❺ and pass putpixel() the return value of ImageColor.getcolor() ❻, and you should now have an image that is light gray in its top half and dark gray in the bottom half, as shown in Figure 17-10. You can call getpixel() on some coordinates to confirm that the color at any given pixel is what you expect. Finally, save the image to putPixel.png.
 
-![image](assets/000083.jpg)
-
+<!-- ![image](assets/000083.jpg)
+ -->
 Figure 17-10. The putPixel.png image
 
 Of course, drawing one pixel at a time onto an image isn’t very convenient. If you need to draw shapes, use the ImageDraw functions explained later in this chapter.

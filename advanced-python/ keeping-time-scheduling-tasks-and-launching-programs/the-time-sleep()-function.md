@@ -1,5 +1,5 @@
 ```ngMeta
-name: The time.sleep() Function
+name: the-time-sleep()-function
 completionMethod: manual
 ```
 # The time.sleep() Function

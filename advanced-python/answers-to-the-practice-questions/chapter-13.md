@@ -1,5 +1,5 @@
 ```ngMeta
-name: Chapter 13
+name: chapter-13
 completionMethod: manual
 ```
 # Chapter 13

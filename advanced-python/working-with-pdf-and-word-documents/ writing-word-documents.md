@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Writing Word Documents
+name:  writing-word-documents
 completionMethod: manual
 ```
 # Writing Word Documents
@@ -16,8 +16,8 @@ To create your own .docx file, call docx.Document() to return a new, blank Word 
 
 This will create a file named helloworld.docx in the current working directory that, when opened, looks like Figure 13-8.
 
-![image](assets/000038.jpg)
-
+<!-- ![image](assets/000038.jpg)
+ -->
 Figure 13-8. The Word document created using add_paragraph('Hello world!')
 
 You can add paragraphs by calling the add_paragraph() method again with the new paragraph’s text. Or to add text to the end of an existing paragraph, you can call the paragraph’s add_run() method and pass it a string. Enter the following into the interactive shell:
@@ -39,8 +39,8 @@ Keep in mind that as of Python-Docx version 0.5.3, new Paragraph objects can be 
 
 The save() method can be called again to save the additional changes you’ve made.
 
-![image](assets/000045.jpg)
-
+<!-- ![image](assets/000045.jpg)
+ -->
 Figure 13-9. The document with multiple Paragraph and Run objects added
 
 Both add_paragraph() and add_run() accept an optional second argument that is a string of the Paragraph or Run object’s style. For example:

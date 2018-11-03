@@ -1,5 +1,5 @@
 ```ngMeta
-name: Converting datetime Objects into Strings
+name: converting-datetime-objects-into-strings
 completionMethod: manual
 ```
 # Converting datetime Objects into Strings

@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Drawing on Images
+name:  drawing-on-images
 completionMethod: manual
 ```
 # Drawing on Images
@@ -49,8 +49,8 @@ Enter the following into the interactive shell:
 ```
 After making an Image object for a 200×200 white image, passing it to ImageDraw.Draw() to get an ImageDraw object, and storing the ImageDraw object in draw, you can call drawing methods on draw. Here we make a thin, black outline at the edges of the image ❶, a blue rectangle with its top-left corner at (20, 30) and bottom-right corner at (60, 60) ❷, a red ellipse defined by a box from (120, 30) to (160, 60) ❸, a brown polygon with five points ❹, and a pattern of green lines drawn with a for loop ❺. The resulting drawing.png file will look like Figure 17-14.
 
-![image](assets/000070.jpg)
-
+<!-- ![image](assets/000070.jpg)
+ -->
 Figure 17-14. The resulting drawing.png image
 
 There are several other shape-drawing methods for ImageDraw objects. The full documentation is available at <span><a href="http://pillow.readthedocs.org/en/latest/reference/ImageDraw.html.">http://pillow.readthedocs.org/en/latest/reference/ImageDraw.html.</a></span>

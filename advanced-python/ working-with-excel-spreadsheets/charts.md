@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Charts
+name: charts
 completionMethod: manual
 ```
 # Charts
@@ -25,8 +25,8 @@ A tuple of two integers, representing the bottom-right cell of the rectangular s
 
 Figure 12-9 shows some sample coordinate arguments.
 
-![image](assets/000047.jpg)
-
+<!-- ![image](assets/000047.jpg)
+ -->
 Figure 12-9. From left to right: (1, 1), (10, 1); (3, 2), (6, 4); (5, 3), (5, 3)
 
 Enter this interactive shell example to create a bar chart and add it to the spreadsheet:
@@ -50,8 +50,8 @@ Enter this interactive shell example to create a bar chart and add it to the spr
 This produces a spreadsheet that looks like Figure 12-10.
 ```
 
-![image](assets/000028.jpg)
-
+<!-- ![image](assets/000028.jpg)
+ -->
 Figure 12-10. A spreadsheet with a chart added
 
 We’ve created a bar chart by calling openpyxl.chart.BarChart(). You can also create line charts, scatter charts, and pie charts by calling openpyxl.chart.LineChart(), openpyxl.chart.ScatterChart(), and openpyxl.chart.PieChart().

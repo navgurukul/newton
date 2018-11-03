@@ -1,5 +1,5 @@
 ```ngMeta
-name: JSON and APIs
+name: json-and-apis
 completionMethod: manual
 ```
 # JSON and APIs

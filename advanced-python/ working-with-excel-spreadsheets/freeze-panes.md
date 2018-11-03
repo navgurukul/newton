@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Freeze Panes
+name: freeze-panes
 completionMethod: manual
 ```
 # Freeze Panes
@@ -32,8 +32,8 @@ Make sure you have the produce sales spreadsheet from <span><a href="http://nost
 ```
 If you set the freeze_panes attribute to 'A2', row 1 will always be viewable, no matter where the user scrolls in the spreadsheet. You can see this in Figure 12-8.
 
-![image](assets/000044.jpg)
-
+<!-- ![image](assets/000044.jpg)
+ -->
 Figure 12-8. With freeze_panes set to 'A2', row 1 is always visible even as the user scrolls down.
 
 

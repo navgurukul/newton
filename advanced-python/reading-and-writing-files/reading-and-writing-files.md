@@ -1,5 +1,5 @@
 ```ngMeta
-name: Reading and Writing Files
+name: reading-and-writing-files
 completionMethod: manual
 ```
 # Reading and Writing Files
@@ -8,8 +8,8 @@ Variables are a fine way to store data while your program is running, but if you
 # Files and File Paths
 A file has two key properties: a filename (usually written as one word) and a path. The path specifies the location of a file on the computer. For example, there is a file on my Windows 7 laptop with the filename project.docx in the path C:\Users\asweigart\Documents. The part of the filename after the last period is called the file’s extension and tells you a file’s type. project.docx is a Word document, and Users, asweigart, and Documents all refer to folders (also called directories). Folders can contain files and other folders. For example, project.docx is in the Documents folder, which is inside the asweigart folder, which is inside the Users folder. Figure 8-1 shows this folder organization.
 
-![image](assets/000027.jpg)
-
+<!-- ![image](assets/000027.jpg)
+ -->
 A file in a hierarchy of folders
 
 The C:\ part of the path is the root folder, which contains all other folders. On Windows, the root folder is named C:\ and is also called the C: drive. On OS X and Linux, the root folder is /. In this book, I’ll be using the Windows-style root folder, C:\. If you are entering the interactive shell examples on OS X or Linux, enter / instead.

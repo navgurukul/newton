@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Merging and Unmerging Cells
+name:  merging-and-unmerging-cells
 completionMethod: manual
 ```
 # Merging and Unmerging Cells
@@ -19,8 +19,8 @@ The argument to merge_cells() is a single string of the top-left and bottom-righ
 
 When you run this code, merged.xlsx will look like Figure 12-7.
 
-![image](assets/000040.png)
-
+<!-- ![image](assets/000040.png)
+ -->
 Figure 12-7. Merged cells in a spreadsheet
 
 To unmerge cells, call the unmerge_cells() sheet method. Enter this into the interactive shell.

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Word Documents
+name: word-documents
 completionMethod: manual
 ```
 # Word Documents
