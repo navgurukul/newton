@@ -1,5 +1,5 @@
 ```ngMeta
-name: Exception Handling
+name: exception-handling
 completionMethod: manual
 ```
 # Exception Handling

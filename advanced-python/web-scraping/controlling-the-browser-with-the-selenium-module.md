@@ -1,5 +1,5 @@
 ```ngMeta
-name: Controlling the Browser with the selenium Module
+name: controlling-the-browser-with-the-selenium-module
 completionMethod: manual
 ```
 # Controlling the Browser with the selenium Module
@@ -26,14 +26,14 @@ You’ll notice when webdriver.Firefox() is called, the Firefox web browser star
 <<<<<<< HEAD
 ```
 
-![image](assets/000018.jpg)
-
+<!-- ![image](assets/000018.jpg)
+ -->
 ```python
 =======
 ```
 
-![image](assets/000018.jpg)
-
+<!-- ![image](assets/000018.jpg)
+ -->
 ```python
 >>>>>>> e7c92b8136151bdc6c9b42ea47eaf1dc7cfdbe70
 ```

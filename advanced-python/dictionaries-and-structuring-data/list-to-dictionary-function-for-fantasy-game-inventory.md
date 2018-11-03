@@ -1,5 +1,5 @@
 ```ngMeta
-name: List to Dictionary Function for Fantasy Game Inventory
+name: list-to-dictionary-function-for-fantasy-game-inventory
 completionMethod: manual
 ```
 # List to Dictionary Function for Fantasy Game Inventory

@@ -1,5 +1,5 @@
 ```ngMeta
-name: The delimiter and lineterminator Keyword Arguments
+name: the-delimiter-and-lineterminator-keyword-arguments
 completionMethod: manual
 ```
 # The delimiter and lineterminator Keyword Arguments

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Review of the PyAutoGUI Functions
+name: review-of-the-pyautogui-functions
 completionMethod: manual
 ```
 # Review of the PyAutoGUI Functions

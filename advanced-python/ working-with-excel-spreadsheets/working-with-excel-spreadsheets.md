@@ -1,5 +1,5 @@
 ```ngMeta
-name: Working with Excel Spreadsheets
+name: working-with-excel-spreadsheets
 completionMethod: manual
 ```
 # Working with Excel Spreadsheets

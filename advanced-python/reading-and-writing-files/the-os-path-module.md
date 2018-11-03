@@ -1,14 +1,14 @@
 ```ngMeta
-name: The os.path Module
+name: the-os-path-module
 completionMethod: manual
 ```
-#The os.path Module
+# The os.path Module
 The os.path module contains many helpful functions related to filenames and file paths. For instance, you’ve already used os.path.join() to build paths in a way that will work on any operating system. Since os.path is a module inside the os module, you can import it by simply running import os. Whenever your programs need to work with files, folders, or file paths, you can refer to the short examples in this section. The full documentation for the os.path module is on the Python website at<span><a href=" http://docs.python.org/3/library/os.path.html."> http://docs.python.org/3/library/os.path.html.</a></span>
 
 Note
 Most of the examples that follow in this section will require the os module, so remember to import it at the beginning of any script you write and any time you restart IDLE. Otherwise, you’ll get a NameError: name 'os' is not defined error message.
 
-#Handling Absolute and Relative Paths
+# Handling Absolute and Relative Paths
 The os.path module provides functions for returning the absolute path of a relative path and for checking whether a given path is an absolute path.
 
 Calling os.path.abspath(path) will return a string of the absolute path of the argument. This is an easy way to convert a relative path into an absolute one.

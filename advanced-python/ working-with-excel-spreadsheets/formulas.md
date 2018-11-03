@@ -1,5 +1,5 @@
 ```ngMeta
-name: Formulas
+name: formulas
 completionMethod: manual
 ```
 # Formulas
@@ -10,8 +10,8 @@ Formulas, which begin with an equal sign, can configure cells to contain values 
 ```
 This will store =SUM(B1:B8) as the value in cell B9. This sets the B9 cell to a formula that calculates the sum of values in cells B1 to B8. You can see this in action in Figure 12-5.
 
-![image](assets/000012.jpg)
-
+<!-- ![image](assets/000012.jpg)
+ -->
 Figure 12-5. Cell B9 contains the formula =SUM(B1:B8), which adds the cells B1 to B8.
 
 A formula is set just like any other text value in a cell. Enter the following into the interactive shell:

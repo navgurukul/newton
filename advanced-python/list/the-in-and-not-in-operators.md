@@ -1,5 +1,5 @@
 ```ngMeta
-name: The in and not in Operators
+name: the-in-and-not-in-operators
 completionMethod: manual
 ```
 # The in and not in Operators

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Using for Loops with Lists
+name: using-for-loops-with-lists
 completionMethod: manual
 ```
 # Using for Loops with Lists

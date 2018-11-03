@@ -1,5 +1,5 @@
 ```ngMeta
-name: Creating PDFs
+name: creating-pdfs
 completionMethod: manual
 ```
 # Creating PDFs
@@ -80,6 +80,6 @@ Here we use getPage(0) to select the first page of the PDF ❶, and then we call
 
 The resulting PDF will have one page, rotated 90 degrees clockwise, as in Figure 13-2. The return values from rotateClockwise() and rotateCounterClockwise() contain a lot of information that you can ignore.
 
-![image](assets/000104.jpg)
-
+<!-- ![image](assets/000104.jpg)
+ -->
 Figure 13-2. The rotatedPage.pdf file with the page rotated 90 degrees clockwise

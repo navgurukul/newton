@@ -1,5 +1,5 @@
 ```ngMeta
-name: Local and Global Variables with the Same Name
+name: local-and-global-variables-with-the-same-name
 completionMethod: manual
 ```
 # Local and Global Variables with the Same Name

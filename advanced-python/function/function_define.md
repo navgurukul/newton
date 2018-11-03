@@ -1,5 +1,5 @@
 ```ngMeta
-name: def Statements with Parameters
+name: function_define
 completionMethod: manual
 ```
 # def Statements with Parameters

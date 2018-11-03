@@ -102,8 +102,8 @@ The order of operations (also called precedence) of Python math operators is sim
 
 In each case, you as the programmer must enter the expression, but Python does the hard part of evaluating it down to a single value. Python will keep evaluating parts of the expression until it becomes a single value, as shown in Figure 1-1.
 
-![](assets/000056.png)
-
+<!-- ![](assets/000056.png)
+ -->
 Figure 1-1. Evaluating an expression reduces it to a single value.
 
 These rules for putting operators and values together to form expressions are a fundamental part of Python as a programming language, just like the grammar rules that help us communicate. Here’s an example:

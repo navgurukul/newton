@@ -1,5 +1,5 @@
 ```ngMeta
-name: Passing Command Line Arguments to Popen()
+name: passing-command-line-arguments-to-open()
 completionMethod: manual
 ```
 # Passing Command Line Arguments to Popen()

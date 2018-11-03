@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Colors and RGBA Values
+name:  colors-and-rgba-values
 completionMethod: manual
 ```
 # Colors and RGBA Values

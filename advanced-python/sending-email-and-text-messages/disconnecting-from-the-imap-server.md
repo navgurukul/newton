@@ -1,5 +1,5 @@
 ```ngMeta
-name: Disconnecting from the IMAP Server
+name: disconnecting-from-the-imap-server
 completionMethod: manual
 ```
 # Disconnecting from the IMAP Server
