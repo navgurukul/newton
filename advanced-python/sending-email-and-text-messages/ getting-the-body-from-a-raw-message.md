@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Getting the Body from a Raw Message
+name:  getting-the-body-from-a-raw-message
 completionMethod: manual
 ```
 # Getting the Body from a Raw Message

@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Shutting Down Everything by Logging Out
+name:  shutting-down-everything-by-logging-out
 completionMethod: manual
 ```
 # Shutting Down Everything by Logging Out

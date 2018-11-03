@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Reader Objects
+name: reader-objects
 completionMethod: manual
 ```
 # Reader Objects

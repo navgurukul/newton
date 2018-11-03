@@ -1,5 +1,5 @@
 ```ngMeta
-name: Adjusting Rows and Columns
+name: adjusting-rows-and-columns
 completionMethod: manual
 ```
 # Adjusting Rows and Columns
@@ -24,8 +24,8 @@ A sheet’s row_dimensions and column_dimensions are dictionary-like values; row
 
 The dimensions.xlsx spreadsheet looks like Figure 12-6.
 
-![image](assets/000098.jpg)
-
+<!-- ![image](assets/000098.jpg)
+ -->
 Figure 12-6. Row 1 and column B set to larger heights and widths
 
 Once you have the RowDimension object, you can set its height. Once you have the ColumnDimension object, you can set its width. The row height can be set to an integer or float value between 0 and 409. This value represents the height measured in points, where one point equals 1/72 of an inch. The default row height is 12.75. The column width can be set to an integer or float value between 0 and 255. This value represents the number of characters at the default font size (11 point) that can be displayed in the cell. The default column width is 8.43 characters. Columns with widths of 0 or rows with heights of 0 are hidden from the user.

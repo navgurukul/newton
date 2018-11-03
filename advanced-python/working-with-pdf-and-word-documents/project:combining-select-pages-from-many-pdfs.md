@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Combining Select Pages from Many PDFs
+name: project:combining-select-pages-from-many-pdfs
 completionMethod: manual
 ```
 # Project: Combining Select Pages from Many PDFs

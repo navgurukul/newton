@@ -1,5 +1,5 @@
 ```ngMeta
-name: Matching Specific Repetitions with Curly Brackets
+name: matching-specific-repetitions-with-curly-brackets
 completionMethod: manual
 ```
 # Matching Specific Repetitions with Curly Brackets

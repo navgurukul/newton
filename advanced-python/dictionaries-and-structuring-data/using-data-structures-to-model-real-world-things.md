@@ -1,5 +1,5 @@
 ```ngMeta
-name: Using Data Structures to Model Real-World Things
+name: using-data-structures-to-model-real-world-things
 completionMethod: manual
 ```
 # Using Data Structures to Model Real-World Things
@@ -7,8 +7,8 @@ Even before the Internet, it was possible to play a game of chess with someone o
 
 In algebraic chess notation, the spaces on the chessboard are identified by a number and letter coordinate, as in Figure
 
-![](assets/000002.jpg)
-
+<!-- ![](assets/000002.jpg)
+ -->
 The coordinates of a chessboard in algebraic chess notation
 
 The chess pieces are identified by letters: K for king, Q for queen, R for rook, B for bishop, and N for knight. Describing a move uses the letter of the piece and the coordinates of its destination. A pair of these moves describes what happens in a single turn (with white going first); for instance, the notation 2. Nf3 Nc6 indicates that white moved a knight to f3 and black moved a knight to c6 on the second turn of the game.
@@ -24,8 +24,8 @@ A tic-tac-toe board looks like a large hash symbol (#) with nine slots that can 
 
 You can use string values to represent what’s in each slot on the board: 'X', 'O', or ' ' (a space character). Thus, you’ll need to store nine strings. You can use a dictionary of values for this. The string value with the key 'top-R' can represent the top-right corner, the string value with the key 'low-L' can represent the bottom-left corner, the string value with the key 'mid-M' can represent the middle, and so on.
 
-![Anoop](assets/000003.png)
-
+<!-- ![Anoop](assets/000003.png)
+ -->
  The slots of a tic-tactoe board with their corresponding keys
 
 This dictionary is a data structure that represents a tic-tac-toe board. Store this board-as-a-dictionary in a variable named theBoard. Open a new file editor window, and enter the following source code, saving it as ticTacToe.py:
@@ -37,8 +37,8 @@ theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
 ```
 The data structure stored in the theBoard variable represents the tic-tactoe board in 
 
-![Anoop](assets/000006.png)
-
+<!-- ![Anoop](assets/000006.png)
+ -->
  An empty tic-tac-toe board
 
 Since the value for every key in theBoard is a single-space string, this dictionary represents a completely clear board. If player X went first and chose the middle space, you could represent that board with this dictionary:
@@ -50,8 +50,8 @@ theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',
 ```
 The data structure in theBoard now represents the tic-tac-toe board in Figure
 
-![Anoop](assets/000008.png)
-
+<!-- ![Anoop](assets/000008.png)
+ -->
 The first move
 
 A board where player O has won by placing Os across the top might look like this:
@@ -63,8 +63,8 @@ theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O',
 ```
 The data structure in theBoard now represents the tic-tac-toe board in Figure
 
-![image](assets/000010.png)
-
+<!-- ![image](assets/000010.png)
+ -->
 Player O wins.
 
 Of course, the player sees only what is printed to the screen, not the contents of variables. Let’s create a function to print the board dictionary onto the screen. Make the following addition to ticTacToe.py (new code is in bold):

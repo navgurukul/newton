@@ -173,5 +173,14 @@ for a in range(4):
 ```
 Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=pXbIsbvmKLQ) dekh sakte ho.
 
+```python
+for val in "navgurukul":
+    if val == "g":
+        break
+    print(val)
+
+print("The end")
+```
+
 **Hints**
 - h - HCF nikalne ke liye hai.

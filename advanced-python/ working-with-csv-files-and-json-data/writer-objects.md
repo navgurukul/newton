@@ -1,5 +1,5 @@
 ```ngMeta
-name: Writer Objects
+name: writer-objects
 completionMethod: manual
 ```
 # Writer Objects
@@ -27,8 +27,8 @@ First, call open() and pass it 'w' to open a file in write mode ❶. This will c
 
 On Windows, you’ll also need to pass a blank string for the open() function’s newline keyword argument. For technical reasons beyond the scope of this book, if you forget to set the newline argument, the rows in output.csv will be double-spaced, as shown in Figure 14-1.
 
-![image](assets/000067.png)
-
+<!-- ![image](assets/000067.png)
+ -->
 Figure 14-1. If you forget the newline='' keyword argument in open(), the CSV file will be double-spaced.
 
 The writerow() method for Writer objects takes a list argument. Each value in the list is placed in its own cell in the output CSV file. The return value of writerow() is the number of characters written to the file for that row (including newline characters).

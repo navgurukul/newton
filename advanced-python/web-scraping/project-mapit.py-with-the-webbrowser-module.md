@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: mapit.py with the webbrowser Module
+name: project-mapit.py-with-the-webbrowser-module
 completionMethod: manual
 ```
 # Project: mapit.py with the webbrowser Module

@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Cropping Images
+name:  cropping-images
 completionMethod: manual
 ```
 # Cropping Images
@@ -13,8 +13,8 @@ Enter the following into the interactive shell:
 ```
 This makes a new Image object for the cropped image, stores the object in croppedIm, and then calls save() on croppedIm to save the cropped image in cropped.png. The new file cropped.png will be created from the original image, like in Figure 17-4.
 
-![image](assets/000043.jpg)
-
+<!-- ![image](assets/000043.jpg)
+ -->
 Figure 17-4. The new image will be just the cropped section of the original image.
 
 

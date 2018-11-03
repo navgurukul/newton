@@ -1,5 +1,5 @@
 ```ngMeta
-name: List Concatenation and List Replication
+name: list-concatenation-and-list-replication
 completionMethod: manual
 ```
 # List Concatenation and List Replication

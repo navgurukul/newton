@@ -1,5 +1,5 @@
 ```ngMeta
-name: The Wildcard Character
+name: the-wildcard-character
 completionMethod: manual
 ```
 # The Wildcard Character

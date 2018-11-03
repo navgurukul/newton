@@ -3,19 +3,26 @@ name: Using Breaks
 completionMethod: manual
 ```
 
+<!-- TODO Aap pehle iss video ko dekhein `break` command ka loop mei kaam samajhne ke liye. Iss understanding ko use kar kar, humein aage likhe hue code ka dry run karna hai. -->
+
+```python
+counter = 0
+string = "navgurukul"
+while (counter < len(string)):
+    if string[counter] == "g":
+        break
+    
+    print(string[counter])
+    counter += 1
+
+print("The end", string[counter])
+```
+
+
 ![How Break Statements Work!](assets/how-break-statement-works.jpg)
 Agar aap yeh diagram dekhoge toh aap samjhoge, ki `break` command se hum jiss bhi loop ke andar aapne woh command likhi hai, uss loop se immediately bahar nikal jaate hai.
 
 Ab iss idea ko use karte hue in example codes ka `dry run` karein.
-
-```python
-for val in "navgurukul":
-    if val == "g":
-        break
-    print(val)
-
-print("The end")
-```
 
 ```python
 var = 10

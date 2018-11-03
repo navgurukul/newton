@@ -1,5 +1,5 @@
 ```ngMeta
-name: Setting the Font Style of Cells
+name: setting-the-font-style-of-cells
 completionMethod: manual
 ```
 # Setting the Font Style of Cells
@@ -62,8 +62,8 @@ You can call Font() to create a Font object and store that Font object in a vari
 ```
 Here, we store a Font object in fontObj1 and then set the A1 Cell object’s font attribute to fontObj1. We repeat the process with another Font object to set the style of a second cell. After you run this code, the styles of the A1 and B3 cells in the spreadsheet will be set to custom font styles, as shown in Figure 12-4.
 
-![image](assets/000033.png)
-
+<!-- ![image](assets/000033.png)
+ -->
 Figure 12-4. A spreadsheet with custom font styles
 
 For cell A1, we set the font name to 'Times New Roman' and set bold to true, so our text appears in bold Times New Roman. We didn’t specify a size, so the openpyxl default, 11, is used. In cell B3, our text is italic, with a size of 24; we didn’t specify a font name, so the openpyxl default, Calibri, is used.

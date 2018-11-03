@@ -1,5 +1,5 @@
 ```ngMeta
-name: Task Scheduler, launchd, and cron
+name: task-scheduler-launchd-and-cron
 completionMethod: manual
 ```
 # Task Scheduler, launchd, and cron

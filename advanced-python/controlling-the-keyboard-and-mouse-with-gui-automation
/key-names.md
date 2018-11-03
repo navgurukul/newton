@@ -1,5 +1,5 @@
 ```ngMeta
-name: Key Names
+name: key-names
 completionMethod: manual
 ```
 # Key Names

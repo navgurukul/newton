@@ -1,5 +1,5 @@
 ```ngMeta
-name: Checking Whether a Key or Value Exists in a Dictionary
+name: checking-whether-a-key-or-value-exists-in-a-dictionary
 completionMethod: manual
 ```
 # Checking Whether a Key or Value Exists in a Dictionary

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Automatic Form Filler
+name: project-automatic-form-filler
 completionMethod: manual
 ```
 # Project: Automatic Form Filler
@@ -7,8 +7,8 @@ Of all the boring tasks, filling out forms is the most dreaded of chores. It’s
 
 The form for this project is a Google Docs form that you can find at <span><a href="http://autbor.com/form">http://autbor.com/form</a></span>. It looks like Figure 18-4.
 
-![image](assets/000021.jpg)
-
+<!-- ![image](assets/000021.jpg)
+ -->
 Figure 18-4. The form used for this project
 
 At a high level, here’s what your program should do:

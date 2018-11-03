@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Practice Questions
+name: practice-questions
 completionMethod: manual
 ```
 # Practice Questions

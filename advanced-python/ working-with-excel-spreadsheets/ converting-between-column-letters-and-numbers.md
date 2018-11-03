@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Converting Between Column Letters and Numbers
+name:  converting-between-column-letters-and-numbers
 completionMethod: manual
 ```
 # Converting Between Column Letters and Numbers

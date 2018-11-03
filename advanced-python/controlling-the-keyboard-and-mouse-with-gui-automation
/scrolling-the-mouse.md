@@ -1,5 +1,5 @@
 ```ngMeta
-name: Scrolling the Mouse
+name: scrolling-the-mouse
 completionMethod: manual
 ```
 # Scrolling the Mouse
