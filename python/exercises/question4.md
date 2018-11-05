@@ -1,5 +1,6 @@
 ```ngMeta
 name: Question 4
+submissionType: number
 completionMethod: peer
 ```
 
