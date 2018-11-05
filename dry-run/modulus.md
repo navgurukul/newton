@@ -11,7 +11,7 @@ Modulus kya hota hai, yeh samajhne ke liye aap yeh [video](https://www.youtube.c
 yaad rakhiyega ki interger nos ke liye, hamesha integer hi answer aata hai, mtlb usme float nahi aata
 so jab 3 ko 2 se divide karenge to answer 1 aayega and Remainder bhi 1 hi aayega
 
-<!-- TODO Aap pehle iss video ko dekhein `modulus operator` ka dry run samajhne ke liye. -->
+Aap iss [video](https://www.youtube.com/watch?v=guFq-gTwTG8&feature=youtu.be) ko dekhein. 
 
 ```python
 x = 30
