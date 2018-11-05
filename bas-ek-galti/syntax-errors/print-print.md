@@ -20,8 +20,10 @@ print i
 ```python
 dict = { "Name": "zeba", "Age": 7, "Name": "mann1"}
 print (dict["Name"]: ", "dict"["Name"])
+'OUTPUT: Name : zeba'
 dict = {["name"]: "zeba", "age": 7}
-print {"dict["name"]: ", dict["name"]}
+print {"dict["age"]: ", dict["Age"]}
+'OUTPUT : Age: 7'
 ```
 
 ```python

@@ -5,5 +5,4 @@ while i <= 10
 i = i + 1
 if i == 10:
   print Top flor par hu
-
 ```
