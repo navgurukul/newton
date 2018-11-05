@@ -10,6 +10,10 @@ def second_minimum(number):
             num = num + 1
             print i          
 
-print(second_minimum([70, 50, 20, 23, 40])) #OUTPUT : 23
-print(second_minimum([70, 50, 10, 2, 40])) #OUTPUT : 10
+print(second_minimum([70, 50, 20, 23, 40]))
+
+'OUTPUT : 23'
+print(second_minimum([70, 50, 10, 2, 40]))
+
+'OUTPUT : 10'
 ```

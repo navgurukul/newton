@@ -6,7 +6,8 @@ name_length = len(name)
 while i <= name_length:
   fevicol = name[i]
 
-print(fevicol) #OUTPUT: NITIN
+print(fevicol)
+'OUTPUT: NITIN'
 ```
 
 
@@ -18,7 +19,8 @@ name_length = len(name)
 while i < name_length:
   fevicol = name[i]
 
-print(fevicol) #OUTPUT: NITIN
+print(fevicol)
+'OUTPUT: NITIN'
 ```
 
 
@@ -30,5 +32,6 @@ name_length = name
 while i < name_length:
     fevicol = name[i]
 
-print(fevicol) #OUTPUT: NITIN
+print(fevicol)
+'OUTPUT: NITIN'
 ```
