@@ -14,9 +14,9 @@ print(add_string('ab'))
 print(add_string('abc'))
 print(add_string('abcing'))
 ```
-# OUTPUT: ab
-# OUTPUT: abcing
-# OUTPUT: abcingly
+###### OUTPUT: ab
+###### OUTPUT: abcing
+###### OUTPUT: abcingly
 
 ```python
 def add_string(str1):
@@ -34,6 +34,6 @@ print(add_string('ab'))
 print(add_string('abc'))
 print(add_string('abcing'))
 ```
-# OUTPUT: ab
-# OUTPUT: abcing
-# OUTPUT: abcingly
+###### OUTPUT: ab
+###### OUTPUT: abcing
+###### OUTPUT: abcingly
