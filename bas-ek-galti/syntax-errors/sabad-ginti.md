@@ -28,8 +28,8 @@ word_count(str):
     return count
 print(word_counts("the quick brown fox jumps over the lazy dog.))
 
-'OUTPUT : 9'
-```
+`#``
+#OUTPUT : 9'
 
 ```python
 word_count(str):
