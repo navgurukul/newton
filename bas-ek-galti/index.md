@@ -1,2 +1,5 @@
 - hackathon.md
 - syntax-errors/pirates.md
+- dictionary-ji.md
+- grades.md
+- classes.md
