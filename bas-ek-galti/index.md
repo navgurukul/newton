@@ -5,11 +5,13 @@
     - sabad-ginti.md
     - string-both.md
     - time-traveler.md
+    - print-navgurukul.md
 - logical-errors
     - kya-hai-yeh-list-comprehension.md
     - str-string-stringly.md
     - ulta-sida-ek-saman.md
-    - loops-se-bindu-ki-jung.md
+    - loops-se-NG-ki-jung.md
+- choco-yea-late.md
 - dictionary-ji.md
 - grades.md
 - bmi.md
