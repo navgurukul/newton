@@ -10,9 +10,12 @@ def add_string(str1):
   return str1
 
 
-print(add_string('ab')) # OUTPUT: ab
-print(add_string('abc')) # OUTPUT: abcing
-print(add_string('abcing')) # OUTPUT: abcingly
+print(add_string('ab'))
+'OUTPUT: ab'
+print(add_string('abc'))
+'OUTPUT: abcing'
+print(add_string('abcing'))
+'OUTPUT: abcingly'
 ```
 
 ```python
@@ -27,7 +30,10 @@ def add_string(str1):
   return str1
 
 
-print(add_string('ab')) # OUTPUT: ab
-print(add_string('abc')) # OUTPUT: abcing
-print(add_string('abcing')) # OUTPUT: abcingly
+print(add_string('ab'))
+'OUTPUT: ab'
+print(add_string('abc'))
+'OUTPUT: abcing'
+print(add_string('abcing'))
+'OUTPUT: abcingly'
 ```
