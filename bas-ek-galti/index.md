@@ -1,7 +1,7 @@
 - hackathon.md
 - syntax-errors
     - pirates.md
-    - odd-values.md
+    - odd-values-function.md
 - dictionary-ji.md
 - grades.md
 - classes.md
