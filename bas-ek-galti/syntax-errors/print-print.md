@@ -20,11 +20,11 @@ print i
 ```python
 dict = { "Name": "zeba", "Age": 7, "Name": "mann1"}
 print (dict["Name"]: ", "dict"["Name"])
-'OUTPUT: Name : zeba'
 dict = {["name"]: "zeba", "age": 7}
 print {"dict["age"]: ", dict["Age"]}
-'OUTPUT : Age: 7'
 ```
+# OUTPUT: Name : zeba'
+# OUTPUT : Age: 7'
 
 ```python
 for i in range (1,200):

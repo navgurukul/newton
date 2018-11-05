@@ -11,9 +11,8 @@ def second_minimum(number):
             print i          
 
 print(second_minimum([70, 50, 20, 23, 40]))
-
-'OUTPUT : 23'
 print(second_minimum([70, 50, 10, 2, 40]))
 
-'OUTPUT : 10'
 ```
+# OUTPUT : 23
+# OUTPUT : 10
