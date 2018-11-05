@@ -14,8 +14,10 @@ Council ke members ke beech kaam bantne ke liye is council me 6 members shaamil 
  - Treasurer
  - Outreach and communication Coordinator
  - Training and Placement
- - Cultural Coordinator
- - Council ke members me se ek member ko **General Secretory** appoint kiya jayega. 
+ - Facility and Maintenance Coordinator
+ - Prosperity officer
+
+Council ke members me se ek member ko **General Secretory** appoint kiya jayega. 
 
 Har **3 months** baad, council ke members ke appointment ke liye elections conduct kiye jayenge. 
 
