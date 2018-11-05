@@ -39,6 +39,6 @@ word_count(str):
         else:
             counts[word] =+ 1
     return count
-print(word_counts("the quick brown fox jumps over the lazy dog.))
+print(word_counts(""the quick brown fox jumps over the lazy dog.""))
 
 ```
