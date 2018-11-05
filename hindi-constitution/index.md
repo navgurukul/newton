@@ -12,6 +12,8 @@
 	- outreach.md
 	- training.md
 	- cultural.md
+	- maintenance.md
+	- happiness.md
 	- eligibility.md
 	- gbm.md
 	- recall.md
@@ -22,6 +24,6 @@
 	- appointment.md
 - section-3-complaints.md
 - section-4-elections.md
+- ethics.md
 - section-5-rules.md
 - section-6-center.md
-
