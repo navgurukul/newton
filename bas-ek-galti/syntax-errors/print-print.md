@@ -17,15 +17,6 @@ print i
 ```
 
 
-```python
-dict = { "Name": "zeba", "Age": 7, "Name": "mann1"}
-print (dict["Name"]: ", "dict"["Name"])
-dict = {["name"]: "zeba", "age": 7}
-print {"dict["age"]: ", dict["Age"]}
-```
-
-###### OUTPUT: Name : zeba
-###### OUTPUT : Age: 7
 
 
 ```python
@@ -39,3 +30,13 @@ while (number > 0):
 if i==result:
 	print i
 ```
+
+```python
+dict = { "Name": "zeba", "Age": 7, "Name": "mann1"}
+print (dict["Name"]: ", "dict"["Name"])
+dict = {["name"]: "zeba", "age": 7}
+print {"dict["age"]: ", dict["Age"]}
+```
+
+###### OUTPUT: Name : zeba
+###### OUTPUT : Age: 7
