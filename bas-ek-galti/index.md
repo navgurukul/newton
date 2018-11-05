@@ -1,1 +1,2 @@
 - hackathon.md
+- syntax-errors/pirates.md
