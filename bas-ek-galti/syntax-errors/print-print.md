@@ -24,8 +24,8 @@ dict = {["name"]: "zeba", "age": 7}
 print {"dict["age"]: ", dict["Age"]}
 ```
 
-# OUTPUT: Name : zeba
-# OUTPUT : Age: 7
+###### OUTPUT: Name : zeba
+###### OUTPUT : Age: 7
 
 
 ```python
