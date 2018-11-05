@@ -1,4 +1,9 @@
 ```python
+greeting = input("Kya naam hai aapka?
+print(greeting)
+```
+
+```python
 greeting = input("Kya naam hai aapka?")
 print(greting)
 ```
