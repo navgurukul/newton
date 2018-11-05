@@ -2,6 +2,8 @@
 - syntax-errors
     - pirates.md
     - odd-values-function.md
+    - sabad-ginti.md
+    - string-both.md
 - dictionary-ji.md
 - grades.md
 - bmi.md
