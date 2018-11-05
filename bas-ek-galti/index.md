@@ -4,6 +4,7 @@
     - odd-values-function.md
     - sabad-ginti.md
     - string-both.md
+    - time-traveler.md
 - dictionary-ji.md
 - grades.md
 - bmi.md
