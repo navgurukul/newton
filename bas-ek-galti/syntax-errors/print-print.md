@@ -23,8 +23,10 @@ print (dict["Name"]: ", "dict"["Name"])
 dict = {["name"]: "zeba", "age": 7}
 print {"dict["age"]: ", dict["Age"]}
 ```
-# OUTPUT: Name : zeba'
-# OUTPUT : Age: 7'
+
+# OUTPUT: Name : zeba
+# OUTPUT : Age: 7
+
 
 ```python
 for i in range (1,200):
@@ -36,5 +38,4 @@ while (number > 0):
 	number = number/10
 if i==result:
 	print i
-
 ```
