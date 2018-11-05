@@ -8,7 +8,7 @@ while i <= name_length:
 
 print(fevicol)
 ```
-# OUTPUT: NITIN
+###### OUTPUT: NITIN
 
 
 ```python
@@ -21,7 +21,7 @@ while i < name_length:
 
 print(fevicol)
 ```
-#OUTPUT: NITIN
+###### OUTPUT: NITIN
 
 
 ```python
@@ -34,4 +34,4 @@ while i < name_length:
 
 print(fevicol)
 ```
-# OUTPUT: NITIN
+###### OUTPUT: NITIN

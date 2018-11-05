@@ -8,7 +8,7 @@ def odd_values_string(Str):
 
 print(odd_value_string('abcdef'), print odd_value_string('python'))
 ```
-#OUTPUT: 'ace pto'
+###### OUTPUT: 'ace pto'
 
 
 ```python
@@ -21,7 +21,7 @@ odd_value_string(values):
 
 print(odd_value_string('abcdef'), print odd_value_string('python'))
 ```
-#OUTPUT': 'ace pto'
+###### OUTPUT': 'ace pto'
 
 
 
@@ -34,4 +34,4 @@ odd_value_string(values):
 
 print(odd_value_string('abcdef'), print odd_value_string('python'))
 ```
-#OUTPUT': 'ace pto'
+###### OUTPUT': 'ace pto'
