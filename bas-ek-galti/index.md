@@ -4,4 +4,5 @@
     - odd-values-function.md
 - dictionary-ji.md
 - grades.md
+- bmi.md
 - classes.md
