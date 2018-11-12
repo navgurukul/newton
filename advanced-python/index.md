@@ -1,4 +1,3 @@
-index.md
 - keeping-time-scheduling-tasks-and-launching-programs
 	- passing-arguments-to-the-threads-target-function.md
 	- project-multithreaded-xkcd-downloader.md
