@@ -107,9 +107,6 @@
 	- practice-project.md
 	- practice-questions.md
 	- using-an-assertion-in-a-traffic-light-simulation.md
-- details
- 	- info.md
- 	- note.md
 - dictionaries-and-structuring-data
 	- practice-questions.md
 	- checking-whether-a-key-or-value-exists-in-a-dictionary.md
