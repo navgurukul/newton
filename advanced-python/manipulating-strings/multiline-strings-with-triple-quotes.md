@@ -1,5 +1,5 @@
 ```ngMeta
-name: Multiline Strings with Triple Quotes
+name: multiline-strings-with-triple-quotes
 completionMethod: manual
 ```
 # Multiline Strings with Triple Quotes

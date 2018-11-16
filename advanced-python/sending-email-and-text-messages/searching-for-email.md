@@ -1,5 +1,5 @@
 ```ngMeta
-name: Searching for Email 
+name: searching-for-email
 completionMethod: manual
 ```
 # Searching for Email
@@ -139,8 +139,8 @@ Using Imapclient’s Gmail_Search( ) Method
 
 If you are logging in to the imap.gmail.com server to access a Gmail account, the IMAPClient object provides an extra search function that mimics the search bar at the top of the Gmail web page, as highlighted in Figure 16-1.
 
-![image](assets/000087.jpg)
-
+<!-- ![image](assets/000087.jpg)
+ -->
 Figure 16-1. The search bar at the top of the Gmail web page
 
 Instead of searching with IMAP search keys, you can use Gmail’s more sophisticated search engine. Gmail does a good job of matching closely related words (for example, a search for driving will also match drive and drove) and sorting the search results by most significant matches. You can also use Gmail’s advanced search operators (see <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span> for more information). If you are logging in to a Gmail account, pass the search terms to the gmail_search() method instead of the search() method, like in the following interactive shell example:

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Pattern Matching with Regular Expressions
+name: pattern-matching-with-regular-expressions
 completionMethod: manual
 ```
 

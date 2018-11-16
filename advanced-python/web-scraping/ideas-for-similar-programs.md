@@ -1,5 +1,5 @@
 ```ngMeta
-name: Ideas for Similar Programs
+name: ideas-for-similar-programs
 completionMethod: manual
 ```
 # Ideas for Similar Programs

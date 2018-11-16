@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Running the Program
+name: running-the-program
 completionMethod: manual
 ```
 # Running the Program

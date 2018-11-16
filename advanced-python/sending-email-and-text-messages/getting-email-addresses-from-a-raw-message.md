@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting Email Addresses from a Raw Message
+name: getting-email-addresses-from-a-raw-message
 completionMethod: manual
 ```
 # Getting Email Addresses from a Raw Message
