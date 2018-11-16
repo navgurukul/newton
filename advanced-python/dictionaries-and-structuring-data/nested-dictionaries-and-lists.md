@@ -1,5 +1,5 @@
 ```ngMeta
-name: Nested Dictionaries and Lists
+name: nested-dictionaries-and-lists
 completionMethod: manual
 ```
 # Nested Dictionaries and Lists

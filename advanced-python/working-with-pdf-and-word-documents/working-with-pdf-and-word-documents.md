@@ -1,5 +1,5 @@
 ```ngMeta
-name: Working with PDF and word Documents
+name: working-with-pdf-and-word-documents
 completionMethod: manual
 ```
 # Working with PDF and word Documents
@@ -19,8 +19,8 @@ While PDF files are great for laying out text in a way that’s easy for people 
 # Extracting Text from PDFs
 PyPDF2 does not have a way to extract images, charts, or other media from PDF documents, but it can extract text and return it as a Python string. To start learning how PyPDF2 works, we’ll use it on the example PDF shown in Figure 13-1.
 
-![image](assets/000065.jpg)
-
+<!-- ![image](assets/000065.jpg)
+ -->
 Figure 13-1. The PDF page that we will be extracting text from
 
 Download this PDF from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>, and enter the following into the interactive shell:

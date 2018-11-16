@@ -1,5 +1,5 @@
 ```ngMeta
-name: Dictionaries and Structuring Data
+name: dictionaries-and-structuring-data
 completionMethod: manual
 ```
 # Dictionaries and Structuring Data

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Clicking Browser Buttons
+name: clicking-browser-buttons
 completionMethod: manual
 ```
 # Clicking Browser Buttons

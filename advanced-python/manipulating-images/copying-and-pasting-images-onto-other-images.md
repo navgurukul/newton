@@ -1,5 +1,5 @@
 ```ngMeta
-name: Copying and Pasting Images onto Other Images
+name: copying-and-pasting-images-onto-other-images
 completionMethod: manual
 ```
 # Copying and Pasting Images onto Other Images
@@ -25,8 +25,8 @@ The paste() method is called on an Image object and pastes another image on top 
 ```
 First we pass crop() a box tuple for the rectangular area in zophie.png that contains Zophie’s face. This creates an Image object representing a 230×215 crop, which we store in faceIm. Now we can paste faceIm onto catCopyIm. The paste() method takes two arguments: a “source” Image object and a tuple of the x- and y-coordinates where you want to paste the top-left corner of the source Image object onto the main Image object. Here we call paste() twice on catCopyIm, passing (0, 0) the first time and (400, 500) the second time. This pastes faceIm onto catCopyIm twice: once with the top-left corner of faceIm at (0, 0) on catCopyIm, and once with the top-left corner of faceIm at (400, 500). Finally, we save the modified catCopyIm to pasted.png. The pasted.png image looks like Figure 17-5.
 
-![image](assets/000031.jpg)
-
+<!-- ![image](assets/000031.jpg)
+ -->
 Figure 17-5. Zophie the cat, with her face pasted twice
 
 Note
@@ -61,8 +61,8 @@ Say you want to tile Zophie’s head across the entire image, as in Figure 17-6.
 ```
 Here we store the width of height of catIm in catImWidth and catImHeight. At ❶ we make a copy of catIm and store it in catCopyTwo. Now that we have a copy that we can paste onto, we start looping to paste faceIm onto catCopyTwo. The outer for loop’s left variable starts at 0 and increases by faceImWidth(230) ❷. The inner for loop’s top variable start at 0 and increases by faceImHeight(215) ❸. These nested for loops produce values for left and top to paste a grid of faceIm images over the catCopyTwo Image object, as in Figure 17-6. To see our nested loops working, we print left and top. After the pasting is complete, we save the modified catCopyTwo to tiled.png.
 
-![image](assets/000049.jpg)
-
+<!-- ![image](assets/000049.jpg)
+ -->
 Figure 17-6. Nested for loops used with paste() to duplicate the cat’s face (a duplicat, if you will).
 
 Pasting Transparent Pixels

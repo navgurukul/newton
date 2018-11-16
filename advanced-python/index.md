@@ -1,4 +1,3 @@
-index.md
 - keeping-time-scheduling-tasks-and-launching-programs
 	- passing-arguments-to-the-threads-target-function.md
 	- project-multithreaded-xkcd-downloader.md
@@ -20,7 +19,7 @@ index.md
 	- the-datetime-module.md
 	- the-time-sleep()-function.md
 	- the-timedelta-data-type.md
--  working-with-csv-files-and-json-data
+- working-with-csv-files-and-json-data
 	- project-fetching-current-weather-data.md
 	- project-removing-the-header-from-csv-files.md
 	- reader-objects.md
@@ -33,7 +32,7 @@ index.md
 	- the-delimiter-and-lineterminator-keyword-arguments.md
 	- working-with-csv-files-and-json data.md
 	- writer-objects.md
--  working-with-excel-spreadsheets
+- working-with-excel-spreadsheets
 	- converting-between-column-letters-and-numbers.md
 	- merging-and-unmerging-cells.md
 	- practice-questions.md
@@ -108,9 +107,6 @@ index.md
 	- practice-project.md
 	- practice-questions.md
 	- using-an-assertion-in-a-traffic-light-simulation.md
-- details
- 	- info.md
- 	- note.md
 - dictionaries-and-structuring-data
 	- practice-questions.md
 	- checking-whether-a-key-or-value-exists-in-a-dictionary.md
@@ -283,11 +279,6 @@ index.md
 - introduction
 	- python-introduction.md
 	- what-is-python.md
-- basic
-	- basic-intro.md
-	- a-short-program-guess-the-number.md
-	- practice-questions.md
-	- question.md
 - flow_control
 	- booleans.md
 	- break.md

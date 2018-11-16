@@ -1,5 +1,5 @@
 ```ngMeta
-name: The Tuple Data Type
+name: the-tuple-data-type
 completionMethod: manual
 ```
 # The Tuple Data Type

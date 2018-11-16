@@ -1,5 +1,5 @@
 ```ngMeta
-name: Useful String Methods
+name: useful-string-methods
 completionMethod: manual
 ```
 # Useful String Methods

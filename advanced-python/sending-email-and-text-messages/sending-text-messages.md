@@ -1,5 +1,5 @@
 ```ngMeta
-name: Sending Text Messages
+name: sending-text-messages
 completionMethod: manual
 ```
 # Sending Text Messages

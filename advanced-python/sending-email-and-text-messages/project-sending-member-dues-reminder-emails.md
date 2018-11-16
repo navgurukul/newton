@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Sending Member Dues Reminder Emails
+name: project-sending-member-dues-reminder-emails
 completionMethod: manual
 ```
 # Project: Sending Member Dues Reminder Emails
@@ -28,8 +28,8 @@ Open a new file editor window and save it as sendDuesReminders.py.
 Step 1: Open the Excel File
 Let’s say the Excel spreadsheet you use to track membership dues payments looks like Figure 16-2 and is in a file named duesRecords.xlsx. You can download this file from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>.
 
-![image](assets/000022.jpg)
-
+<!-- ![image](assets/000022.jpg)
+ -->
 Figure 16-2. The spreadsheet for tracking member dues payments
 
 This spreadsheet has every member’s name and email address. Each month has a column tracking members’ payment statuses. The cell for each member is marked with the text paid once they have paid their dues.
@@ -128,7 +128,7 @@ Sending email to <span><a href="bob@example.com">bob@example.com...</a></span>
 Sending email to <span><a href=" eve@example.com"> eve@example.com...</a></span>
 The recipients will receive an email that looks like Figure 16-3.
 
-![image](assets/000025.jpg)
-
+<!-- ![image](assets/000025.jpg)
+ -->
 Figure 16-3. An automatically sent email from sendDuesReminders.py
 

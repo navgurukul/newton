@@ -1,6 +1,5 @@
 ```ngMeta
 name: HTML Introduction
-completionMethod: manual
 ```
 
 # HTML Introduction 

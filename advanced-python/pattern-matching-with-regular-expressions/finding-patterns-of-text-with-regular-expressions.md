@@ -1,5 +1,5 @@
 ```ngMeta
-name: Finding Patterns of Text with Regular Expressions
+name: finding-patterns-of-text-with-regular-expressions
 completionMethod: manual
 ```
 # Finding Patterns of Text with Regular Expressions

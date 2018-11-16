@@ -3,12 +3,27 @@ name: While Loops
 completionMethod: manual
 ```
 
+Aap pehle iss [video](https://www.youtube.com/watch?v=s_7YgktIJFo&feature=youtu.be) ko dekhein `while` program ka dry run samajhne ke liye. 
+
+```python
+c = 0
+d = 1
+
+while c < 3:
+    c = c + 1
+    d = d * c
+    print "Loop Ke Andar", c, d
+else:
+    print "Loop Ke Bahar", c, d
+```
+
+
 While loop kya hota hai yeh samajhne ke liye aap yeh [video](https://www.youtube.com/watch?v=efg169eYEqo) ya [video](https://www.youtube.com/watch?v=oG_jCqPVJYA) dekhein.
 
 ```python
 c = 0
 
-while c < 3:
+while c < 5:
     print "Loop Ke Andar"
     c = c + 1
 else:

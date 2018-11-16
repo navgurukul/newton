@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting the Full Text from a .docx File
+name: getting-the-full-text-from-a-docx-file
 completionMethod: manual
 ```
 # Getting the Full Text from a .docx File
@@ -43,8 +43,8 @@ As you can see, it takes only a few lines of code to write functions that will r
 # Styling Paragraph and Run Objects
 In Word for Windows, you can see the styles by pressing CTRL-ALT-SHIFT-S to display the Styles pane, which looks like Figure 13-5. On OS X, you can view the Styles pane by clicking the View▸Styles menu item.
 
-![image](assets/000035.jpg)
-
+<!-- ![image](assets/000035.jpg)
+ -->
 Figure 13-5. Display the Styles pane by pressing CTRL-ALT-SHIFT-S on Windows.
 
 Word and other word processors use styles to keep the visual presentation of similar types of text consistent and easy to change. For example, perhaps you want to set body paragraphs in 11-point, Times New Roman, left-justified, ragged-right text. You can create a style with these settings and assign it to all body paragraphs. Then, if you later want to change the presentation of all body paragraphs in the document, you can just change the style, and all those paragraphs will be automatically updated.

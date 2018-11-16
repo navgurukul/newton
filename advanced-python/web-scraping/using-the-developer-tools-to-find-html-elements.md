@@ -1,5 +1,5 @@
 ```ngMeta
-name: Using the Developer Tools to Find HTML Elements
+name: using-the-developer-tools-to-find-html-elements
 completionMethod: manual
 ```
 # Using the Developer Tools to Find HTML Elements
@@ -9,8 +9,8 @@ This is where the browser’s developer tools can help. Say you want to write a 
 
 What if you’re interested in scraping the temperature information for that ZIP code? Right-click where it is on the page (or CONTROL-click on OS X) and select Inspect Element from the context menu that appears. This will bring up the Developer Tools window, which shows you the HTML that produces this particular part of the web page. Figure 11-5 shows the developer tools open to the HTML of the temperature.
 
-![](assets/000014.jpg)
-
+<!-- ![](assets/000014.jpg)
+ -->
 Inspecting the element that holds the temperature text with the developer tools
 
 From the developer tools, you can see that the HTML responsible for the temperature part of the web page is <p class="myforecast-current -lrg">59°F</p>. This is exactly what you were looking for! It seems that the temperature information is contained inside a <p> element with the myforecast-current-lrg class. Now that you know what you’re looking for, the BeautifulSoup module will help you find it in the string.
