@@ -1,5 +1,5 @@
 ```ngMeta
-name: Connecting to an SMTP Server
+name: connecting-to-an-smtp-server
 completionMethod: manual
 ```
 # Connecting to an SMTP Server

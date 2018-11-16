@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Adding Line and Page Breaks
+name: adding-line-and-page-breaks
 completionMethod: manual
 ```
 # Adding Line and Page Breaks

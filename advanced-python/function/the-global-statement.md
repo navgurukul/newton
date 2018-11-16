@@ -1,5 +1,5 @@
 ```ngMeta
-name: The global Statement
+name: the-global-statement
 completionMethod: manual
 ```
 # The global Statement

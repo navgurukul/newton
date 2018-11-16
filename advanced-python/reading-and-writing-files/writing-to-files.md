@@ -1,5 +1,5 @@
 ```ngMeta
-name: Writing to Files
+name: writing-to-files
 completionMethod: manual
 ```
 # Writing to Files

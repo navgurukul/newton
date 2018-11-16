@@ -1,5 +1,5 @@
 ```ngMeta
-name: Local Variables Cannot Be Used in the Global Scope
+name: local-variables-cannot-be-used-in-the-global-scope
 completionMethod: manual
 ```
 # Local Variables Cannot Be Used in the Global Scope

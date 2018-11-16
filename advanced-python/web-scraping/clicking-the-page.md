@@ -1,5 +1,5 @@
 ```ngMeta
-name: Clicking the Page
+name: clicking-the-page
 completionMethod: manual
 ```
 # Clicking the Page

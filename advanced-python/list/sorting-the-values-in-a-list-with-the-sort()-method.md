@@ -1,5 +1,5 @@
 ```ngMeta
-name: Sorting the Values in a List with the sort() Method
+name: sorting-the-values-in-a-list-with-the-sort()-method
 completionMethod: manual
 ```
 # Sorting the Values in a List with the sort() Method

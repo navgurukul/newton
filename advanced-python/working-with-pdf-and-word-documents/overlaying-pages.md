@@ -1,5 +1,5 @@
 ```ngMeta
-name: Overlaying Pages
+name: overlaying-pages
 completionMethod: manual
 ```
 # Overlaying Pages
@@ -31,6 +31,6 @@ Now that we’ve called mergePage() on minutesFirstPage, minutesFirstPage repres
 
 Figure 13-3 shows the results. Our new PDF, watermarkedCover.pdf, has all the contents of the meetingminutes.pdf, and the first page is watermarked.
 
-![image](assets/000101.jpg)
-
+<!-- ![image](assets/000101.jpg)
+ -->
 Figure 13-3. The original PDF (left), the watermark PDF (center), and the merged PDF (right)

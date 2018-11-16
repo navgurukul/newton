@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Generating Random Quiz Files
+name: project-generating-random-quiz-files
 completionMethod: manual
 ```
 # Project: Generating Random Quiz Files

@@ -1,0 +1,19 @@
+- hackathon.md
+- syntax-errors
+    - pirates.md
+    - sabad-ginti.md
+    - string-both.md
+    - time-traveler.md
+    - print-print.md
+    - odd-values-function.md
+- logical-errors
+    - kya-hai-yeh-list-comprehension.md
+    - str-string-stringly.md
+    - ulta-sida-ek-saman.md
+    - loops-se-NG-ki-jung.md
+
+- choco-yea-late.md
+- dictionary-ji.md
+- grades.md
+- bmi.md
+- classes.md

@@ -1,5 +1,5 @@
 ```ngMeta
-name: The startswith() and endswith() String Methods
+name: the-startswith()-and-endswith()-string-methods
 completionMethod: manual
 ```
 # The startswith() and endswith() String Methods

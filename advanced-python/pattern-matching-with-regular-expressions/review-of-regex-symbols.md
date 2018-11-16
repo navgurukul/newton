@@ -1,5 +1,5 @@
 ```ngMeta
-name: Review of Regex Symbols
+name: review-of-regex-symbols
 completionMethod: manual
 ```
 # Review of Regex Symbols

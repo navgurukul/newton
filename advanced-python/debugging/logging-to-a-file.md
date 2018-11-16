@@ -1,5 +1,5 @@
 ```ngMeta
-name: Logging to a File
+name: logging-to-a-file
 completionMethod: manual
 ```
 # Logging to a File
@@ -24,8 +24,8 @@ A list of all local variables and their values
 
 A list of all global variables and their values
 
-![Anoop](assets/000020.jpg)
-
+<!-- ![Anoop](assets/000020.jpg)
+ -->
 The Debug Control window
 
 You’ll notice that in the list of global variables there are several variables you haven’t defined, such as __builtins__, __doc__, __file__, and so on. These are variables that Python automatically sets whenever it runs a program. The meaning of these variables is beyond the scope of this book, and you can comfortably ignore them.

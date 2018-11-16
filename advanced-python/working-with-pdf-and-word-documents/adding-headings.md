@@ -1,5 +1,5 @@
 ```ngMeta
-name: Adding Headings
+name: adding-headings
 completionMethod: manual
 ```
 # Adding Headings
@@ -23,7 +23,7 @@ The arguments to add_heading() are a string of the heading text and an integer f
 
 The resulting headings.docx file will look like Figure 13-10.
 
-![image](assets/000050.jpg)
-
+<!-- ![image](assets/000050.jpg)
+ -->
 Figure 13-10. The headings.docx document with headings 0 to 4
 

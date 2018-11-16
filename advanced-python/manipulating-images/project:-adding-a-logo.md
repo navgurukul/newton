@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project: Adding a Logo
+name: project:-adding-a-logo
 completionMethod: manual
 ```
 # Project: Adding a Logo
@@ -7,8 +7,8 @@ Say you have the boring job of resizing thousands of images and adding a small l
 
 Say that Figure 17-11 is the logo you want to add to the bottom-right corner of each image: a black cat icon with a white border, with the rest of the image transparent.
 
-![image](assets/000029.jpg)
-
+<!-- ![image](assets/000029.jpg)
+ -->
 Figure 17-11. The logo to be added to the image.
 
 At a high level, here’s what the program should do:
@@ -138,8 +138,8 @@ Once width and height contain the new image dimensions, pass them to the resize(
 # Step 4: Add the Logo and Save the Changes
 Whether or not the image was resized, the logo should still be pasted to the bottom-right corner. Where exactly the logo should be pasted depends on both the size of the image and the size of the logo. Figure 17-12 shows how to calculate the pasting position. The left coordinate for where to paste the logo will be the image width minus the logo width; the top coordinate for where to paste the logo will be the image height minus the logo height.
 
-![image](assets/000061.jpg)
-
+<!-- ![image](assets/000061.jpg)
+ -->
 Figure 17-12. The left and top coordinates for placing the logo in the bottom-right corner should be the image width/height minus the logo width/height.
 
 After your code pastes the logo into the image, it should save the modified Image object. Add the following to your program:
@@ -171,8 +171,8 @@ Resizing zophie.png...
 Adding logo to zophie.png...
 The image zophie.png will be changed to a 225×300-pixel image that looks like Figure 17-13. Remember that the paste() method will not paste the transparency pixels if you do not pass the logoIm for the third argument as well. This program can automatically resize and “logo-ify” hundreds of images in just a couple minutes.
 
-![assets](assets/000066.jpg)
-
+<!-- ![assets](assets/000066.jpg)
+ -->
 # Ideas for Similar Programs
 Being able to composite images or modify image sizes in a batch can be useful in many applications. You could write similar programs to do the following:
 

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Getting Sublists with Slices
+name: getting-sublists-with-slices
 completionMethod: manual
 ```
 # Getting Sublists with Slices

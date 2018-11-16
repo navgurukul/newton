@@ -1,5 +1,5 @@
 ```ngMeta
-name: Manipulating Images with Pillow
+name: manipulating-images-with-pillow
 completionMethod: manual
 ```
 # Manipulating Images with Pillow
@@ -12,8 +12,8 @@ Once you have the image file Zophie.png in your current working directory, you�
 >>> catIm = Image.open('zophie.png')
 ```
 
-![image](assets/000039.jpg)
-
+<!-- ![image](assets/000039.jpg)
+ -->
 Figure 17-3. My cat Zophie. The camera adds 10 pounds (which is a lot for a cat).
 
 To load the image, you import the Image module from Pillow and call Image.open(), passing it the image’s filename. You can then store the loaded image in a variable like CatIm. The module name of Pillow is PIL to make it backward compatible with an older module called Python Imaging Library, which is why you must run from PIL import Image instead of from Pillow import Image. Because of the way Pillow’s creators set up the pillow module, you must use the from PIL import Image form of import statement, rather than simply import PIL.

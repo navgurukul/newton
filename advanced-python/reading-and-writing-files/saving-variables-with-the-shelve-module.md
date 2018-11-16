@@ -1,5 +1,5 @@
 ```ngMeta
-name: Saving Variables with the shelve Module
+name: saving-variables-with-the-shelve-module
 completionMethod: manual
 ```
 # Saving Variables with the shelve Module

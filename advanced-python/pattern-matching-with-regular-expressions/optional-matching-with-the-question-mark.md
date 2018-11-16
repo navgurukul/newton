@@ -1,5 +1,5 @@
 ```ngMeta
-name: Optional Matching with the Question Mark
+name: optional-matching-with-the-question-mark
 completionMethod: manual
 ```
 # Optional Matching with the Question Mark

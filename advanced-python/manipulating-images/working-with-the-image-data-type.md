@@ -1,5 +1,5 @@
 ```ngMeta
-name: Working with the Image Data Type
+name: working-with-the-image-data-type
 completionMethod: manual
 ```
 # Working with the Image Data Type
