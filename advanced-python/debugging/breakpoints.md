@@ -1,5 +1,5 @@
 ```ngMeta
-name: Breakpoints
+name: breakpoints
 completionMethod: manual
 ```
 # Breakpoints
@@ -21,8 +21,8 @@ Halfway done!
 Heads came up 490 times.
 If you ran this program under the debugger, you would have to click the Over button thousands of times before the program terminated. If you were interested in the value of heads at the halfway point of the program’s execution, when 500 of 1000 coin flips have been completed, you could instead just set a breakpoint on the line print('Halfway done!') ❷. To set a breakpoint, right-click the line in the file editor and select Set Breakpoint, as shown in Figure 10-5.
 
-![Anoop](assets/000001.jpg)
-
+<!-- ![Anoop](assets/000001.jpg)
+ -->
  Setting a breakpoint
 
 You don’t want to set a breakpoint on the if statement line, since the if statement is executed on every single iteration through the loop. By setting the breakpoint on the code in the if statement, the debugger breaks only when the execution enters the if clause.

@@ -1,8 +1,8 @@
 ```ngMeta
-name: Checking for Errors
+name: checking-for-errors
 completionMethod: manual
 ```
-#Checking for Errors
+# Checking for Errors
 As you’ve seen, the Response object has a status_code attribute that can be checked against requests.codes.ok to see whether the download succeeded. A simpler way to check for success is to call the raise_for_status() method on the Response object. This will raise an exception if there was an error downloading the file and will do nothing if the download succeeded. Enter the following into the interactive shell:
 
 ```python

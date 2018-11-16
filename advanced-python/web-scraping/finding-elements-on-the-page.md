@@ -1,5 +1,5 @@
 ```ngMeta
-name: Finding Elements on the Page
+name: finding-elements-on-the-page
 completionMethod: manual
 ```
 # Finding Elements on the Page

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Disabling Logging
+name: disabling-logging
 completionMethod: manual
 ```
 # Disabling Logging

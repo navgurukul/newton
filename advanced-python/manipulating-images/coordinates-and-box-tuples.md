@@ -1,5 +1,5 @@
 ```ngMeta
-name: Coordinates and Box Tuples
+name: coordinates-and-box-tuples
 completionMethod: manual
 ```
 # Coordinates and Box Tuples
@@ -7,8 +7,8 @@ Image pixels are addressed with x- and y-coordinates, which respectively specify
 
 Many of Pillow’s functions and methods take a box tuple argument. This means Pillow is expecting a tuple of four integer coordinates that represent a rectangular region in an image. The four integers are, in order, as follows:
 
-![image](assets/000004.jpg)
-
+<!-- ![image](assets/000004.jpg)
+ -->
 Figure 17-1. The x- and y-coordinates of a 27×26 image of some sort of ancient data storage device
 
 Left: The x-coordinate of the leftmost edge of the box.
@@ -19,8 +19,8 @@ Right: The x-coordinate of one pixel to the right of the rightmost edge of the b
 
 Bottom: The y-coordinate of one pixel lower than the bottom edge of the box. This integer must be greater than the top integer.
 
-![image](assets/000096.jpg)
-
+<!-- ![image](assets/000096.jpg)
+ -->
 Figure 17-2. The area represented by the box tuple (3, 1, 9, 6)
 
 Note that the box includes the left and top coordinates and goes up to but does not include the right and bottom coordinates. For example, the box tuple (3, 1, 9, 6) represents all the pixels in the black box in Figure 17-2.

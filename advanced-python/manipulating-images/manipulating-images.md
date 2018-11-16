@@ -1,5 +1,5 @@
 ```ngMeta
-name: Manipulating Images
+name: manipulating-images
 completionMethod: manual
 ```
 # Manipulating Images

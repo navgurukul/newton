@@ -1,5 +1,5 @@
 ```ngMeta
-name: Decrypting PDFs
+name: decrypting-pdfs
 completionMethod: manual
 ```
 # Decrypting PDFs

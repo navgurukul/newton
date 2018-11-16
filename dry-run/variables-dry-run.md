@@ -7,6 +7,17 @@ completionMethod: manual
 ### Kaise Use Karein
 Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
 
+Variables ka dry run samajhne ke liye aap [iss video](https://www.youtube.com/watch?v=9PnmC9NAvzU&feature=youtu.be) ko dekhein.
+
+```python
+a = 3
+b = 4
+c = a * b
+a = b * c
+b = a + c
+c = a + b + c
+```
+
 Jab aap ko confidence ho ki aap ka solution theek hai, tab aap kisi senior se solution verify kara kar aage badh sakte hai.
 
 Yeh bahut important hai ki yeh course aap bahut dhyaan se karein, kyuki programming ke basics iss course mei develop ho jayenge.

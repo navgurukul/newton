@@ -4,15 +4,6 @@ completionMethod: manual
 ```
 
 ```python
-a = 100
-a = a*2
-a = a/4
-a = a + 3 * a
-a = a - a / 4
-```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=dwCIg0WjliI) dekh sakte ho.
-
-```python
 a = (4 + 5) / 3
 a = a * 8 / 4
 a = a / 2 * 10

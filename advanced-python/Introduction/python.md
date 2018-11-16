@@ -1,5 +1,5 @@
 ```ngMeta
-name: what is Python
+name: python
 completionMethod: manual
 ```
 # What Is Python?
@@ -67,7 +67,7 @@ Figure 2. The Google results for an error message can be very helpful.
 
 You’ll often find that someone else had the same question as you and that some other helpful person has already answered it. No one person can know everything about programming, so an everyday part of any software developer’s job is looking up answers to technical questions.
 
-![image](assets/000060.jpg)
-
+<!-- ![image](assets/000060.jpg)
+ -->
 
 

@@ -1,8 +1,8 @@
 ```ngMeta
-name: Copying and Pasting Strings with the pyperclip Module
+name: copying-and-pasting-strings-with-the-pyperclip-mo
 completionMethod: manual
 ```
-#Copying and Pasting Strings with the pyperclip Module
+# Copying and Pasting Strings with the pyperclip Module
 The pyperclip module has copy() and paste() functions that can send text to and receive text from your computer’s clipboard. Sending the output of your program to the clipboard will make it easy to paste it to an email, word processor, or some other software.
 
 Pyperclip does not come with Python. To install it, follow the directions for installing third-party modules in Appendix A. After installing the pyperclip module, enter the following into the interactive shell:
@@ -24,7 +24,7 @@ Running Python Scripts Outside of IDLE
 
 So far, you’ve been running your Python scripts using the interactive shell and file editor in IDLE. However, you won’t want to go through the inconvenience of opening IDLE and the Python script each time you want to run a script. Fortunately, there are shortcuts you can set up to make running Python scripts easier. The steps are slightly different for Windows, OS X, and Linux, but each is described in Appendix B. Turn to Appendix B to learn how to run your Python scripts conveniently and be able to pass command line arguments to them. (You will not be able to pass command line arguments to your programs using IDLE.)
 
-#Project: Password Locker
+# Project: Password Locker
 You probably have accounts on many different websites. It’s a bad habit to use the same password for each of them because if any of those sites has a security breach, the hackers will learn the password to all of your other accounts. It’s best to use password manager software on your computer that uses one master password to unlock the password manager. Then you can copy any account password to the clipboard and paste it into the website’s Password field.
 
 The password manager program you’ll create in this example isn’t secure, but it offers a basic demonstration of how such programs work.
@@ -46,7 +46,7 @@ PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',
              'blog': 'VmALvQyKAxiVH5G8v01if1MLZF3sdt',
              'luggage': '12345'}
 ```
-Step 2: Handle Command Line Arguments
+# Step 2: Handle Command Line Arguments
 The command line arguments will be stored in the variable sys.argv. (See Appendix B for more information on how to use command line arguments in your programs.) The first item in the sys.argv list should always be a string containing the program’s filename ('pw.py'), and the second item should be the first command line argument. For this program, this argument is the name of the account whose password you want. Since the command line argument is mandatory, you display a usage message to the user if they forget to add it (that is, if the sys.argv list has fewer than two values in it). Make your program look like the following:
 
 
@@ -64,7 +64,7 @@ if len(sys.argv) < 2:
 
 account = sys.argv[1]      # first command line arg is the account name
 ```
-Step 3: Copy the Right Password
+# Step 3: Copy the Right Password
 Now that the account name is stored as a string in the variable account, you need to see whether it exists in the PASSWORDS dictionary as a key. If so, you want to copy the key’s value to the clipboard using pyperclip.copy(). (Since you’re using the pyperclip module, you need to import it.) Note that you don’t actually need the account variable; you could just use sys.argv[1] everywhere account is used in this program. But a variable named account is much more readable than something cryptic like sys.argv[1].
 
 Make your program look like the following:

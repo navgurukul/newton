@@ -1,5 +1,5 @@
 ```ngMeta
-name: Character Picture Grid
+name: character-picture-grid
 completionMethod: manual
 ```
 # Character Picture Grid

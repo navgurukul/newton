@@ -1,5 +1,5 @@
 ```ngMeta
-name: The findall() Method
+name: the-findall()-method
 completionMethod: manual
 ```
 # The findall() Method
