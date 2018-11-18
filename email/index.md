@@ -1,4 +1,4 @@
-- phrases.md
+- phrases
   - phrases.md
   - opening.md
   - mainbody.md
