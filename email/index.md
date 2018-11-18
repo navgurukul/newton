@@ -1,0 +1,7 @@
+- phrases.md
+  - phrases.md
+  - opening.md
+  - mainbody.md
+  - closing.md
+  - job.md
+- jobapplications.md
