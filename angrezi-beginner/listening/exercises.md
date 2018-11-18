@@ -1,9 +1,9 @@
 ```ngMeta
-name: Exercises
+name: Listening
 completionMethod: manual
 ```
 
-Larning to listen for specific information is an important skill for the following purposes:
+Learning to listen for specific information is an important skill for the following purposes:
 * Have a meaningful conversation
 * Listen to lectures, news, instructions
 * Watch movies
