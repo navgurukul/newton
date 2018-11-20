@@ -80,6 +80,10 @@ Studies have shown that our brains work in very different ways when we read an a
 
 In other words, you might be changing the way your brain works right now, just by reading these words on a screen instead of a printed page. Pretty crazy!
 
+7. **Skim and scan.**
+
+ Scanning a text means looking for a specific part or for the answer to a specific question. Skimming a text means letting your eyes look over the text quickly without really reading every word. These are both excellent strategies to use before you start reading. They will let you understand a little bit about the text or topic so you have a rough idea of what you’re going to read about.
+
 
 
 
