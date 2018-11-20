@@ -3,3 +3,8 @@
 	- motivation.md
 	- alcoholism.md
 	- peer-pressure.md
+	- navgurukul.md
+	- selfdriving.md
+	- technology.md
+	- apocalypse.md
+	- wishes.md
