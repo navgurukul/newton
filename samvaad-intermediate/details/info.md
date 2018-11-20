@@ -3,5 +3,5 @@ name: Samvaad - Intermediate
 type: html
 daysToComplete: 30
 shortDescription: English Conversation Cards
-logo: http://bit.do/enG
+logo: https://bit.ly/2PzSPkJ
 ```
