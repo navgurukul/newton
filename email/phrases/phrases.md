@@ -1,5 +1,5 @@
 ```ngMeta
-name: How to Use
+name: Important Phrases
 completionMethod: manual
 ```
 
