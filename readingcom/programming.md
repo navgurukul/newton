@@ -110,11 +110,13 @@ In case of input data being supplied to the question, it should be assumed to be
 tuple() method can convert list to tuple
 
 Solution:
+```
 values=raw_input()
 l=values.split(",")
 t=tuple(l)
 print l
 print t
+```
 
 
 
@@ -131,6 +133,7 @@ Hints:
 Use __init__ method to construct some parameters
 
 Solution:
+```
 class InputOutString(object):
     def __init__(self):
         self.s = ""
@@ -144,6 +147,7 @@ class InputOutString(object):
 strObj = InputOutString()
 strObj.getString()
 strObj.printString()
+```
 
 
 
@@ -168,6 +172,7 @@ If the output received is in decimal form, it should be rounded off to its neare
 In case of input data being supplied to the question, it should be assumed to be a console input. 
 
 Solution:
+```
 !/usr/bin/env python
 import math
 c=50
@@ -178,7 +183,7 @@ for d in items:
     value.append(str(int(round(math.sqrt(2*c*float(d)/h)))))
 
 print ','.join(value)
-
+```
 
 
 Question 7
@@ -197,6 +202,7 @@ Hints:
 Note: In case of input data being supplied to the question, it should be assumed to be a console input in a comma-separated form.
 
 Solution:
+```
 input_str = raw_input()
 dimensions=[int(x) for x in input_str.split(',')]
 rowNum=dimensions[0]
@@ -208,7 +214,7 @@ for row in range(rowNum):
         multilist[row][col]= row*col
 
 print multilist
-
+```
 
 
 Question 8
@@ -595,6 +601,7 @@ Hints:
 Consider use yield
 
 Solution:
+```
 def putNumbers(n):
     i = 0
     while i<n:
@@ -605,7 +612,7 @@ def putNumbers(n):
 
 for i in reverse(100):
     print i
-
+```
 
 
 Question 21
@@ -632,6 +639,7 @@ Hints:
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Solution:
+```
 import math
 pos = [0,0]
 while True:
@@ -653,7 +661,7 @@ while True:
         pass
 
 print int(round(math.sqrt(pos[1]**2+pos[0]**2)))
-
+```
 
 
 Question 22
@@ -680,6 +688,7 @@ Hints
 In case of input data being supplied to the question, it should be assumed to be a console input.
 
 Solution:
+```
 freq = {}   # frequency of words in text
 line = raw_input()
 for word in line.split():
@@ -691,7 +700,7 @@ words.sort()
 for w in words:
     print "%s:%d" % (w,freq[w])
 
-
+```
 
 Question 23
 level 1
@@ -703,12 +712,13 @@ Hints:
     Using the ** operator
 
 Solution:
+```
 def square(num):
     return num ** 2
 
 print square(2)
 print square(3)
-
+```
 
 
 Question 24
@@ -723,6 +733,7 @@ Hints:
     The built-in document method is __doc__
 
 Solution:
+```
 print abs.__doc__
 print int.__doc__
 print raw_input.__doc__
@@ -736,7 +747,7 @@ def square(num):
 
 print square(2)
 print square.__doc__
-
+```
 
 
 Question 25
@@ -750,6 +761,7 @@ Hints:
     You can init a object with construct parameter or set the value later
 
 Solution:
+```
 class Person:
     # Define the class parameter "name"
     name = "Person"
@@ -764,7 +776,7 @@ print "%s name is %s" % (Person.name, jeffrey.name)
 nico = Person()
 nico.name = "Nico"
 print "%s name is %s" % (Person.name, nico.name)
-
+```
 
 
 **Question:**
@@ -774,10 +786,27 @@ Hints:
 Define a function with two numbers as arguments. You can compute the sum in the function and return the value.
 
 Solution
+```
 def SumFunction(number1, number2):
 	return number1+number2
 
 print SumFunction(1,2)
+```
+
+**Question:**
+Define a function that can convert a integer into a string and print it in console.
+
+Hints:
+
+Use str() to convert a number to string.
+
+Solution
+```
+def printValue(n):
+	print str(n)
+
+printValue(3)
+```	
 
 
 **Question:**
@@ -788,26 +817,12 @@ Hints:
 Use str() to convert a number to string.
 
 Solution
+```
 def printValue(n):
 	print str(n)
 
 printValue(3)
-	
-
-
-**Question:**
-Define a function that can convert a integer into a string and print it in console.
-
-Hints:
-
-Use str() to convert a number to string.
-
-Solution
-def printValue(n):
-	print str(n)
-
-printValue(3)
-
+```
 
 2.10
 
@@ -819,12 +834,12 @@ Hints:
 Use int() to convert a string to integer.
 
 Solution
+```
 def printValue(s1,s2):
 	print int(s1)+int(s2)
 
 printValue("3","4") #7
-
-
+```
 
 2.10
 
@@ -837,11 +852,12 @@ Hints:
 Use + to concatenate the strings
 
 Solution
+```
 def printValue(s1,s2):
 	print s1+s2
 
 printValue("3","4") #34
-
+```
 
 2.10
 
@@ -854,6 +870,7 @@ Hints:
 Use len() function to get the length of a string
 
 Solution
+```
 def printValue(s1,s2):
 	len1 = len(s1)
 	len2 = len(s2)
@@ -867,7 +884,7 @@ def printValue(s1,s2):
 		
 
 printValue("one","three")
-
+```
 
 
 
@@ -881,6 +898,7 @@ Hints:
 Use % operator to check if a number is even or odd.
 
 Solution
+```
 def checkValue(n):
 	if n%2 == 0:
 		print "It is an even number"
@@ -889,7 +907,7 @@ def checkValue(n):
 		
 
 checkValue(7)
-
+```
 
 
 2.10
@@ -903,6 +921,7 @@ Use dict[key]=value pattern to put entry into a dictionary.
 Use ** operator to get power of a number.
 
 Solution
+```
 def printDict():
 	d=dict()
 	d[1]=1
@@ -912,7 +931,7 @@ def printDict():
 		
 
 printDict()
-
+```
 
 
 
@@ -930,6 +949,7 @@ Use ** operator to get power of a number.
 Use range() for loops.
 
 Solution
+```
 def printDict():
 	d=dict()
 	for i in range(1,21):
@@ -938,7 +958,7 @@ def printDict():
 		
 
 printDict()
-
+```
 
 
 2.10
@@ -954,6 +974,7 @@ Use range() for loops.
 Use keys() to iterate keys in the dictionary. Also we can use item() to get key/value pairs.
 
 Solution
+```
 def printDict():
 	d=dict()
 	for i in range(1,21):
@@ -963,6 +984,7 @@ def printDict():
 		
 
 printDict()
+```
 
 
 2.10
