@@ -1,3 +1,4 @@
+- lessons.md
 - phrases
   - phrases.md
   - opening.md
