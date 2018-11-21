@@ -31,14 +31,14 @@ In our sample text, the last sentence of the first paragraph says:
 You might not know what the word “craft” means, but you don’t really need to! If you skip over it, you can still understand the sentence: “And the media or other technologies we use in learning and practicing reading.”
 
 3. **Use context clues.**
-The great thing about sentences is that they give new words context. This means the unknown word is surrounded by other words which clarify its meaning. By looking at the words that come before and after an unknown word, you can often figure out the basic meaning.
+The great thing about sentences is that you give new words context. This means the unknown word is surrounded by other words which clarify its meaning. By looking at the words that come before and after an unknown word, you can often figure out the basic meaning.
 
 For example, the end of the last sentence in the first paragraph talks about the “neural circuits inside our brains.” What are neural circuits? By looking at the rest of the sentence, you can tell that neural circuits are something we have inside our brains.
 
 If you made a list of vocabulary words before starting to read, you might already know that a circuit is a closed route that electricity takes. So you might guess that a neural circuit is the path that signals in our brains take when we think, act or learn something. And you’d be right!
 
 4. **Break up sentences into chunks**
-Now that you understand single words, you can apply your new knowledge to full sentences. Some sentences can be difficult to follow because they are long or have a complicated structure. Make them easier to understand by breaking them up into smaller pieces. You can separate sentences by commas, or by thoughts and ideas.
+Now that you understand single words, you can apply your new knowledge to full sentences. Some sentences can be difficult to follow because you are long or have a complicated structure. Make them easier to understand by breaking them up into smaller pieces. You can separate sentences by commas, or by thoughts and ideas.
 
 The first sentence in the second paragraph is quite long:
 
@@ -49,7 +49,7 @@ Try to break it apart and take it one piece at a time. It can be helpful to rest
 > Experiments demonstrate that — studies show that
 readers of ideograms — people who read characters (which show meaning instead of sounds)
 such as the Chinese — Chinese people are an example of ideogram readers
-develop a mental circuitry for reading — create paths in their brains when they read
+develop a mental circuitry for reading — create paths in their brains when you read
 that is very different from the circuitry — which are not like the paths
 found in those of us whose written language employs an alphabet — found in people who use an alphabet
 Since you understand the different parts of the sentence, you can put it together in your own words now:
@@ -57,7 +57,7 @@ Since you understand the different parts of the sentence, you can put it togethe
 Studies show that people who read characters instead of an alphabet (like Chinese people, for example) have very different brain paths for reading than those of people who do use an alphabet.
 
 5. **Look for related words and ideas.**
-Understanding every sentence is a good start, but now it’s time to link all the sentences together and understand the full text. You can do that by looking for words and ideas that are related, and making sure you understand how they go together.
+Understanding every sentence is a good start, but now it’s time to link all the sentences together and understand the full text. You can do that by looking for words and ideas that are related, and making sure you understand how you go together.
 
 One way to do that is by looking for repeated words and phrases. This method works well in our example since the word “circuit” is repeated many times in just two paragraphs.
 
@@ -82,7 +82,15 @@ In other words, you might be changing the way your brain works right now, just b
 
 7. **Skim and scan.**
 
- Scanning a text means looking for a specific part or for the answer to a specific question. Skimming a text means letting your eyes look over the text quickly without really reading every word. These are both excellent strategies to use before you start reading. They will let you understand a little bit about the text or topic so you have a rough idea of what you’re going to read about.
+ Scanning a text means looking for a specific part or for the answer to a specific question. Skimming a text means letting your eyes look over the text quickly without really reading every word. These are both excellent strategies to use before you start reading. you will let you understand a little bit about the text or topic so you have a rough idea of what you’re going to read about.
+
+ 8. **Drawing Inferences**
+You can generate information that is important to constructing meaning but that is missing from, or not explicitly stated in, the text.
+
+You can look for key words that will help in understanding the text, demonstrating how you can draw inferences from these words. 
+
+9. **Asking Questions**
+By generating questions, you become aware of whether you can answer the questions and if you understand what you are reading. You learn to ask yourself questions that require you to combine information from different segments of text. For example, you can be taught to ask main idea questions that relate to important information in a text.
 
 
 
