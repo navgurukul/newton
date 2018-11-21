@@ -4,7 +4,7 @@ completionMethod: manual
 ```
 
 Yeh [video](https://www.youtube.com/watch?v=nh2mdtFrpl4) dekh kar aap for loop ko ek baar samjhein.
-Iss video dekhne ke baad iss program ka dry run phir se karein.
+Iss video dekhne ke baad iss program ka dry run phir se karein. 
 ```python
 for i in range(4):
     for j in range(i):
