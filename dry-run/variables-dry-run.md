@@ -8,7 +8,9 @@ completionMethod: manual
 ### Kaise Use Karein
 Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
 
-Variables ka dry run samajhne ke liye aap [iss video](https://www.youtube.com/watch?v=9PnmC9NAvzU&feature=youtu.be) ko dekhein aur samjhe.
+Variables ka dry run samajhne ke liye aap iss video ko dekhein aur samjhe.
+
+@[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
 
 ```python
 a = 3
