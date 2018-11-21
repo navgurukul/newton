@@ -15,7 +15,9 @@ a = a + 3 * a
 a = a - a / 4
 ```
 
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=dwCIg0WjliI) dekh sakte ho.
+Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=dwCIg0WjliI)
 
 
 "PRECEDENCE" ka matlab hota hai - importance. Ki kaun sa **Operator** kitna important hai. Jaise School mei humne BODMAS padha hoga. BODMAS padh kar humne seekha tha ki kaise ek **`expression/statement`** mei agar *multiple operators* ho toh, kaunsa operator choose karte hai.
