@@ -7,7 +7,9 @@ Aap booleans ke liye yaha se concepts revise kar sakte ho - http://saral.navguru
 
 Ab inn exercises ka dry run karo - http://saral.navgurukul.org/course?id=18&slug=python__logical-operators%2Flogical-operators-question1
 
- Aap iss [video](https://www.youtube.com/watch?v=cXcyunbDS4I&feature=youtu.be) ko dekhein.
+Boolean operators ko samajhne ke liye yeh video dekhein.
+
+@[youtube](https://www.youtube.com/watch?v=cXcyunbDS4I)
 
 ```python
 x = True
