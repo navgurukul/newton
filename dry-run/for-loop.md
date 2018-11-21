@@ -3,7 +3,10 @@ name: For Loops
 completionMethod: manual
 ```
 
-Yeh [video](https://www.youtube.com/watch?v=nh2mdtFrpl4) dekh kar aap for loop ko ek baar samjhein.
+Yeh video dekh kar aap for loop ko ek baar samjhein.
+
+@[youtube](https://www.youtube.com/watch?v=nh2mdtFrpl4)
+
 Iss video dekhne ke baad iss program ka dry run phir se karein. 
 ```python
 for i in range(4):
@@ -132,7 +135,9 @@ for x in range(7):
         continue
     print(x)
 ```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=FHpxgqGDZhM) dekh sakte ho.
+Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=FHpxgqGDZhM)
 
 ```python
 for x in range (10,20):
@@ -161,7 +166,13 @@ for i in range(5):
             print 'x',
     print ''
 ```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=5s2Uo9333Mo) ya yeh [video](https://www.youtube.com/watch?v=pXbIsbvmKLQ) dekh sakte ho. Kaunsi video aapko jyada clear lagi?
+Iska solution verify ya samajhne k liye aap yeh videos dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=5s2Uo9333Mo)
+
+@[youtube](https://www.youtube.com/watch?v=pXbIsbvmKLQ)
+
+Kaunsi video aapko jyada clear lagi?
 
 ```python
 for a in range(4):
@@ -171,7 +182,9 @@ for a in range(4):
         print 'x',
     print ''
 ```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=pXbIsbvmKLQ) dekh sakte ho.
+Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=pXbIsbvmKLQ)
 
 ```python
 for val in "navgurukul":
