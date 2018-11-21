@@ -59,4 +59,7 @@ x = 8
 y = 4
 print not (((x>4) and (x<6)) or (x==y))
 ```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=1G9UY3yrkWw) dekh sakte ho.
+
+Iska solution verify karne ke liye neeche wala video dekhein.
+
+@[youtube](https://www.youtube.com/watch?v=1G9UY3yrkWw)
