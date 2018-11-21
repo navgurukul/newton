@@ -7,9 +7,6 @@ Yahan hum ek video dekhenge yeh samajhne ke liye java kya hai. Iss video ke kuch
 
 @[youtube](FKzoriOapnU)
 
-
-@[youtube](FKzoriOapnU)
-
 ## Assignment
 
 1. JVM aur Java kaise kaam karta hai isko ache se sun ke apne notes banao.
