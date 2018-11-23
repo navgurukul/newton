@@ -1,2 +1,3 @@
 - introduction.md
-- 
+- patterns
+    - addition.md
