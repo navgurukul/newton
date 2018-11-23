@@ -11,5 +11,5 @@ def pattern(number):
     if number == 1:
         return 1
     else:
-        return pattern(n-1) + 3
+        return pattern(number-1) + 3
 ```
