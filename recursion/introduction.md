@@ -56,3 +56,5 @@ Ab kyuki `twopowers(3)` ki value pata hai. Toh `2 * twopowers(2)` ki value calcu
 Ab kyuki `twopowers(4)` ki value pata hai. Toh `2 * twopowers(3)` ki value calculate ho kar 2 * 8 = `16` pata chal jaati hai. Yeh `twopowers(5)` ki value hai.
 
 Isliye `twopowers(5)` ka answer 16 hai.
+
+Kya aap isi tarah sochte hue, agli exercise mei diye hue kuch patterns ka solution likh sakte hai?
