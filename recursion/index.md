@@ -1,3 +1,4 @@
 - introduction.md
 - patterns
     - addition.md
+    - alternative.md
