@@ -1,3 +1,4 @@
+- strategies.md
 - 2-howtouse.md
 - levelone
 	- stories.md
@@ -13,6 +14,7 @@
 	- answerone.md
 - answerkeytwo
 	- answertwo.md
+- programming.md
 - order
 	- order.md
 - quizmaster
