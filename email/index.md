@@ -1,0 +1,8 @@
+- lessons.md
+- phrases
+  - phrases.md
+  - opening.md
+  - mainbody.md
+  - closing.md
+  - job.md
+- jobapplications.md

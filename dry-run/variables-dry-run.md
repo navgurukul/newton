@@ -4,10 +4,13 @@ completionMethod: manual
 ```
 
 ## Humein inn programs ka dry run karna hai:
+
 ### Kaise Use Karein
 Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
 
-Variables ka dry run samajhne ke liye aap [iss video](https://www.youtube.com/watch?v=9PnmC9NAvzU&feature=youtu.be) ko dekhein.
+Variables ka dry run samajhne ke liye aap iss video ko dekhein aur samjhe.
+
+@[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
 
 ```python
 a = 3
@@ -66,7 +69,15 @@ a = c*2
  b = c + a
  c = a * c
 ```
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=fny5w_YKSc8) ya yeh [video](https://www.youtube.com/watch?v=RsmMloOHrRQ) ya yeh [video](https://www.youtube.com/watch?v=pyFetzD0b38) dekh sakte ho. Kaunsi video aap ko jyada clear lagi?
+Iska solution verify ya samajhne k liye aap yeh videos dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=fny5w_YKSc8)
+
+@[youtube](https://www.youtube.com/watch?v=RsmMloOHrRQ)
+
+@[youtube](https://www.youtube.com/watch?v=pyFetzD0b38)
+
+Aapko kaunse video mein zyada clarity lagi?
 
 <!-- TODO: MODULUS KA KHUD KA EK MINI COURSE CURATE KARNA HOGA -->
 ```python

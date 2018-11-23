@@ -3,7 +3,9 @@ name: While Loops
 completionMethod: manual
 ```
 
-Aap pehle iss [video](https://www.youtube.com/watch?v=s_7YgktIJFo&feature=youtu.be) ko dekhein `while` program ka dry run samajhne ke liye. 
+Aap pehle iss video ko dekhein `while` program ka dry run samajhne ke liye. 
+
+@[youtube](https://www.youtube.com/watch?v=s_7YgktIJFo)
 
 ```python
 c = 0
@@ -17,8 +19,11 @@ else:
     print "Loop Ke Bahar", c, d
 ```
 
+While loop kya hota hai yeh samajhne ke liye aap yeh dono videos dekh sakte ho.  
 
-While loop kya hota hai yeh samajhne ke liye aap yeh [video](https://www.youtube.com/watch?v=efg169eYEqo) ya [video](https://www.youtube.com/watch?v=oG_jCqPVJYA) dekhein.
+@[youtube](https://www.youtube.com/watch?v=efg169eYEqo)
+
+@[youtube](https://www.youtube.com/watch?v=oG_jCqPVJYA)
 
 ```python
 c = 0

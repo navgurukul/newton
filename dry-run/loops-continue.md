@@ -3,7 +3,9 @@ name: Using Continue
 completionMethod: manual
 ```
 
-Aap pehle [iss video](https://www.youtube.com/watch?v=rOfNF7gj5t0&feature=youtu.be) ko dekhein `continue` command ka loop mei kaam samajhne ke liye. Iss understanding ko use kar kar, humein aage likhe hue code ka dry run karna hai.
+Aap pehle iss video ko dekhein `continue` command ka loop mei kaam samajhne ke liye. Iss understanding ko use kar kar, humein aage likhe hue code ka dry run karna hai.
+
+@[youtube](https://www.youtube.com/watch?v=rOfNF7gj5t0)
 
 ```python
 counter = 0

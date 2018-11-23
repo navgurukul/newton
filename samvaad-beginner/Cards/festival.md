@@ -28,3 +28,4 @@ completionMethod: manual
 * Religious Spirits - धार्मिक आस्था
 * Celebration - उत्सव
 * Happiness - ख़ुशी
+* Burst -फोड़ने

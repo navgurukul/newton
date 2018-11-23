@@ -21,7 +21,7 @@ Pehle Team A se ek person aaega aur is deck me se ek card pick karega. Is baat k
 Jab ek team khel rahi hogi, dusri team ka ek member time par dhyan de raha hoga.
 8. Aap har round ke baad points note down karoge. Game tab tak chalegi jab tak dono teams ka har player participate nahi kar leta. Agar ek team me koi extra player hai, toh dusri team ke kisi ek player ko do chances milengi.
 
-You can also watch the instructions [here](4QeA4nrcQV0)
+You can also watch the instructions [here](https://youtu.be/4QeA4nrcQV0)
 
 <!-- TODO attach taboo sheets>
 
