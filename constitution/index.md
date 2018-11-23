@@ -11,7 +11,6 @@
 	- treasurer.md
 	- outreach.md
 	- training.md
-	- cultural.md
 	- maintenance.md
 	- happiness.md
 	- eligibility.md

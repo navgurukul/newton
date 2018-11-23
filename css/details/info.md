@@ -3,5 +3,5 @@ name: Introduction to CSS
 type: html
 daysToComplete: 20
 shortDescription: Learn how to use CSS to add styles to simple web pages :)
-logo: http://bit.do/Cascad
+logo: https://bit.ly/2BfcwWh
 ```

@@ -3,7 +3,9 @@ name: If Else - Dry Run
 completionMethod: manual
 ```
 
-Aap pehle iss [video](https://www.youtube.com/watch?v=5jlV9b1GB9k&feature=youtu.be) ko dekhein if-else program ka dry run karne ke liye. 
+Aap pehle iss video ko dekhein if-else program ka dry run karne ke liye. 
+
+@[youtube](https://www.youtube.com/watch?v=5jlV9b1GB9k)
 
 ```python
 x = 15
@@ -157,4 +159,6 @@ else:
 
 u1 aur u2 ko different different values jaise "**rock**", "**scissors**", "**paper**", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.
 
-Iska solution verify ya samajhne k liye aap yeh [video](https://www.youtube.com/watch?v=5v0Ie9ig0Qs) dekh sakte ho.
+Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=5v0Ie9ig0Qs)
