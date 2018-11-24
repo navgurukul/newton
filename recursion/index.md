@@ -1,4 +1,5 @@
 - introduction.md
 - patterns
-    - addition.md
-    - alternative.md
+    - simple-series.md
+    - alternative-series-1.md
+    - alternative-series-2.md
