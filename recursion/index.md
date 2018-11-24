@@ -3,3 +3,5 @@
     - simple-series.md
     - alternative-series-1.md
     - alternative-series-2.md
+- fibonacci-series.md
+- fibonacci-advanced.md
