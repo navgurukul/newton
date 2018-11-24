@@ -5,3 +5,4 @@
     - alternative-series-2.md
 - fibonacci-series.md
 - fibonacci-advanced.md
+- binary-search.md
