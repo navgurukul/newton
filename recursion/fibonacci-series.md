@@ -17,13 +17,13 @@ Yeh ek aisi recursion hai jismei current value - ussi function ki last do values
 
 ## Solution
 ```python
-def fib(number):
+def getFibNumber(number):
     if number == 1:
         return 0
     elif number == 2:
         return 1
     else:
-        return fib(number-1) + fib(number-2)
+        return getFibNumber(number-1) + getFibNumber(number-2)
 ```
 
 ## Aage
