@@ -1,5 +1,5 @@
 ```ngMeta
-name: Soch Rahe Hain
+name: Interesting Naam
 type: html
 daysToComplete: 7
 shortDescription: Important habits and tools
