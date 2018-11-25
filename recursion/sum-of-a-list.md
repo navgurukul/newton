@@ -7,12 +7,16 @@ Agar aapko sum karna ho list ke elements ka recursion use kar kar, toh aap kaise
 
 ## Solution
 ```python
+# sum nahi use kar sakte as the function name, as sum python ka reserved keyword hai
+# list nahi use kar sakte as an argument name, as list python ka reserved keyword hai
 
-# list nahi use kar sakte as a keyword, as list python ka reserved keyword hai
-def sum(lis):
+def sum_list(lis):
     if len(lis)==1:
         return lis[0]
-    return lis[0] + sum(lis[1:])
+    return lis[0] + sum_list(lis[1:])
 
-print sum([1, 4, 7, 10])
+print sum_list([1, 4, 7, 10])
 ```
+
+## Aage
+Kya aap aise hi ek length naam ka function bana sakte hai?
