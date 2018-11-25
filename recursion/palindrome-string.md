@@ -12,7 +12,6 @@ Aapko ek function likhna hai recursion use kar kar jo dekhega ki given `string` 
 - Agar list mei do character hai, aur woh dono same hai toh palindrome hoga, else palindrome nahi hoga.
   
 ## Solution
-
 ```python
 def ifPalindrome(string):
     if string == "":  # BASE CASE CONDITION
