@@ -14,7 +14,7 @@ completionMethod: Manual
 
 
 
-## Hometown
+---
 * Rural - ग्रामीण
 * Warmth - गर्मी
 * Trouble - मुसीबत
