@@ -28,6 +28,7 @@ type(varB) == types.IntType # False
 
 type(varA) == types.ListType # False
 type(varB) == types.ListType # True
+
 ```
 
 ## Solution

@@ -10,3 +10,5 @@
 - fibonacci-advanced.md
 - binary-search.md
 - nested-lists.md
+- nested-lists-grammar.md
+- congrats.md
