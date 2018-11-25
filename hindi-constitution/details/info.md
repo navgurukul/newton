@@ -1,5 +1,5 @@
 ```ngMeta
-name: NavGurukul ka Constitution
+name: NavGurukul ka Constitution - Hindi
 type: html
 daysToComplete: 3
 shortDescription: We will learn about the Constitution of NavGurukul.
