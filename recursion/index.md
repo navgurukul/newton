@@ -3,7 +3,9 @@
     - simple-series.md
     - alternative-series-1.md
     - alternative-series-2.md
+- sum-of-a-list.md
 - palindrome-string.md
 - fibonacci-series.md
 - fibonacci-advanced.md
 - binary-search.md
+- nested-lists.md
