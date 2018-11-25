@@ -19,6 +19,8 @@ Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.
 
 @[youtube](https://www.youtube.com/watch?v=dwCIg0WjliI)
 
+Aap ko es picture se yhe concept aur acha se samaz aa jaye ga.
+![PEMDAS](../assets/pemdas.png)
 
 "PRECEDENCE" ka matlab hota hai - importance. Ki kaun sa **Operator** kitna important hai. Jaise School mei humne BODMAS padha hoga. BODMAS padh kar humne seekha tha ki kaise ek **`expression/statement`** mei agar *multiple operators* ho toh, kaunsa operator choose karte hai.
 
