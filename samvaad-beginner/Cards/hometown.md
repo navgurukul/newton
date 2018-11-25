@@ -1,5 +1,5 @@
 ```ngMeta
-name: Topics
+name: Hometown
 completionMethod: Manual
 ```
 
