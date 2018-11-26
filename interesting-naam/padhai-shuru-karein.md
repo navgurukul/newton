@@ -58,11 +58,3 @@ sudo apt-get update
 sudo apt-get install brackets
 ```
 
-### English
-
-- English learning start karne ke liye, pehle is link ko use karke Google classroom kholein: https://classroom.google.com/
-- Is code ko use karke 'Life Skills' ka classroom join karein: mxrnr0
-- Apne baseline assessment tests dein: http://www.languagelevel.com/english/
-- Reading comprehension: https://www.englishclub.com/reading/test.htm
-- Apne tests ke score ko is sheet me record karein: https://docs.google.com/spreadsheets/d/1JQNtvbBWpCVkH8s_uxQSQt6c13MakNuMltc2n44imA8/edit?usp=sharing
-
