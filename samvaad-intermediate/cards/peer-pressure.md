@@ -8,7 +8,9 @@ completionMethod: manual
 * Is peer pressure harmful or beneficial to individuals?
 * What are some ways in which in which peer pressure can be beneficial?
 * What are some ways in which peer pressure can be harmful?
-* How can one resist peer pressure?Pe
+* How can one resist peer pressure?
+* When have you been a victim of peer pressure?
+* Do people face peer pressure in NavGurukul? How can it be improved?
 
 Resources to study about peer pressure
 * [What is peer pressure?](https://www.verywellmind.com/what-is-peer-pressure-22246)
