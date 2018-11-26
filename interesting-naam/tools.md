@@ -1,5 +1,7 @@
 Here are some of the tools that can make your learning easier. Using all of these tools and extensions is highly recommended for everyone.
 
+![Tools for Learning](assets/tools.png)
+
 1. [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en): Grammarly helps in writing without spelling and grammatical errors.
 
 2. [Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en): This is a tool that helps in finding the meanings of words on a selected word on the webpage itself. 
