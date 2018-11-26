@@ -8,7 +8,7 @@ Here are some of the tools that can make your learning easier. Using all of thes
 
 ![Subtitles and Speed](assets/subtitles.png)
 
-4. [Toggl](https://toggl.com/)]: Toggl is the time tracking tool that helps you in tracking the time that you are spending in the various activities you engage in throughout the day.
+4. [Toggl](https://toggl.com/): Toggl is the time tracking tool that helps you in tracking the time that you are spending in the various activities you engage in throughout the day.
 5. [Cliq](https://cliq.zoho.com/): Cliq is the communications tool that is used for internal communication in NavGurukul. All students and team members are present on the platform and communications happen on personal as well as relevant group levels.
 6. [Google Drive](https://www.google.com/drive/): Google Drive is used to store all data on the cloud. This ensures that the data is available to you anywhere, anytime and also that sharing is easier.
 
