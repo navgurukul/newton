@@ -11,13 +11,13 @@ Game ko samajhne ke liye aap [yaha](https://hangmanwordgame.com) par ja kar iss 
 - Aisa chalta rehta hai, jab tak aap word ko sahi se guess nahi kar paatein
 
 Game mei aur bhi bahut saari cheezein ki jaa sakti hai
-- Hint
+- **Hint**
 User ek baar hint maang sakta hai, aur computer user ko ek letter reveal kar sakta hai
 
-- Limited Lives
+- **Limited Lives**
 User ko kuch hi lives do, agar woh lives khatam ho jaye, toh "Game Over" dikhao
 
-- Animation ya Design
+- **Animation ya Design**
 Aap game ko improve karne ke liye animations ya design add kar sakte hai
 
 
