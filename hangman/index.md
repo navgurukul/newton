@@ -3,4 +3,6 @@
 - looping.md
 - lives.md
 - available-letters.md
+- invalid-input.md
 - game-won.md
+- hint.md
