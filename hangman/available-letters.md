@@ -1,6 +1,8 @@
 ## Available Letters
 Ab aapko ek feature implement karna hai, jisse ki user ko hum dikha sake ki kaun kaun se letters abhi tak user ne use nahi kiye hai. Aise letters ko hum `Available Letters` ke naam se refer karenge.
 
+Aap `available_letters` ka use apni tarah se program ko interesting banane mei kar sakte hai.
+
 ## Hint
 - `available_letters` ke liye get_available_letters function use hota hai. Isliye aapko iss function mei changes karne hai
 - `get_available_letters` mei further hints hai, isko karne ke liye
@@ -14,6 +16,7 @@ def get_available_letters(letters_guessed):
     eg agar letters_guessed = ['e', 'a'] hai to humme baki charecters return karne hai
     jo ki `bcdfghijklmnopqrstuvwxyz' ye hoga
     '''
+
     import string
     all_letters = string.ascii_lowercase
     letters_left = ""
@@ -21,7 +24,6 @@ def get_available_letters(letters_guessed):
     for letter in all_letters:
         if letter not in letters_guessed:
             letters_left += letter
-    # Apna code aap ab yaha par likhein
     
     return letters_left
 ```
