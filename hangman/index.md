@@ -2,8 +2,8 @@
 - setting-up.md
 - looping.md
 - lives.md
+- hangman-images.md
 - available-letters.md
 - invalid-input.md
 - game-won.md
 - hint.md
-- hangman-images.md
