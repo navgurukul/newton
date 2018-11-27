@@ -7,3 +7,4 @@
 - invalid-input.md
 - game-won.md
 - hint.md
+- lots-of-words.md
