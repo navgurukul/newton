@@ -6,3 +6,4 @@
 - invalid-input.md
 - game-won.md
 - hint.md
+- hangman-images.md
