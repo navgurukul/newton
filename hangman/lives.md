@@ -60,6 +60,7 @@ def hangman(secret_word):
 
         else:
             print "Oops! That letter is not in my word: " + get_guessed_word(secret_word, letters_guessed)
+            print "Remaining Lives : ", remaining_lives
             print ""
             letters_guessed.append(letter)
             remaining_lives -= 1
