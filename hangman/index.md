@@ -3,4 +3,4 @@
 - looping.md
 - lives.md
 - available-letters.md
-- game_won.md
+- game-won.md
