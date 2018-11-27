@@ -1,2 +1,3 @@
 - introduction.md
 - setting-up.md
+- looping.md
