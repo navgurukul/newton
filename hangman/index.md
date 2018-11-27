@@ -2,3 +2,4 @@
 - setting-up.md
 - looping.md
 - lives.md
+- available-letters.md
