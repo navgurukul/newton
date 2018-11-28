@@ -16,5 +16,5 @@
 - open_source.md
 - flowchart.md
 - rgb.md
-- mbps & kbps.md
+- mbps_&_kbps.md
 - todo.md
