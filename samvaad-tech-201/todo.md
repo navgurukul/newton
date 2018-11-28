@@ -24,4 +24,12 @@ completionMethod: manual
 - css
 - flipkart
 - startup
-  
+- algorithm
+- flowchart
+- cloud
+- data kya hota hai
+- virus kya hota hai
+- anti virus
+- ms office
+- ppt
+- google doc / google drive
