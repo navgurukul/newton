@@ -1,5 +1,5 @@
 ```ngMeta
-name: Review & Feeback
+name: Review & Feedback
 completionMethod: manual
 ```
 
