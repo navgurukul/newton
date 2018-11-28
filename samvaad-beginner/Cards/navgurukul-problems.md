@@ -1,8 +1,3 @@
-```ngMeta
-name: NavGurukul - Problems
-completionMethod: manual
-```
-
 ## NavGurukul - Problems
 
 * What are three biggest problems faced by NavGurukul today?
@@ -20,9 +15,9 @@ completionMethod: manual
 6. Concentration - एकाग्रता
 7. Coyly -शर्मीले
 8. Stack -ढेर
-9.Knots -समुद्री मीलबुर्ज
-10.Turrest -बुर्ज
-11.Pity -दया
-12.Praise -प्रशंसा
-13.Sharp -तेज़
-14.Exhibition -प्रदर्शनी
+9. Knots -समुद्री मीलबुर्ज
+10. Turrest -बुर्ज
+11. Pity -दया
+12. Praise -प्रशंसा
+13. Sharp -तेज़
+14. Exhibition -प्रदर्शनी

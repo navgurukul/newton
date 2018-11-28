@@ -1,6 +1,5 @@
 ```ngMeta
-name: Modals-Tutotial
-completionMethod: manual
+name: Modals Tutorial
 ```
 
 @[youtube](hRFyAUgfKaA)
@@ -10,4 +9,3 @@ completionMethod: manual
 * [Lesson](https://www.englisch-hilfen.de/en/grammar/hilfsverben2.htm)
 
 * [Worksheets to Practice](https://www.myenglishpages.com/site_php_files/grammar-exercise-modals.php)
-
