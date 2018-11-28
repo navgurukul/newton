@@ -18,6 +18,7 @@ Enjoy!
 * Revise your vocabulary diary everyday
 * Share your vocabulary lists with your friends and revise together
 * Listen to YouTube videos where they are having conversation about these topics
+* **Koi bhi topic padhne ke baad aap apni understanding ko ek comment ke through `English` mei uss topic ke neeche "comment box" mei daalein.**
 
 Course start karnein se pehle, yeh simple video dekhein! :)
 
