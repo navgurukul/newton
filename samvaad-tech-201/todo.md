@@ -33,3 +33,5 @@ completionMethod: manual
 - ms office
 - ppt
 - google doc / google drive
+- apple
+- browser
