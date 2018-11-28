@@ -1,5 +1,5 @@
 ```ngMeta
-name: Client Server Model
+name: mbps / kbps internet speed
 completionMethod: manual
 ```
 @[youtube](hdIhkwJgh7g)
