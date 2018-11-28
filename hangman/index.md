@@ -7,4 +7,5 @@
 - invalid-input.md
 - game-won.md
 - hint.md
+- difficulty-level.md
 - lots-of-words.md
