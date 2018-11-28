@@ -1,4 +1,4 @@
-Agar aap game ko chala kar dekhoge, toh game sirf ek baar chalta hai. Aapko code loop mei daalna hai jisse ki user multiple baar letter daal daal kar try kar sake.
+Agar aap game ko chala kar dekhoge, toh game sirf ek baar user se input leta hai. Aapko code loop mei daalna hai jisse ki user multiple baar letter daal daal kar try kar sake.
 
 Aapko bahut jyada dhyaan rakhna hai, ki kaunsi instructions loop mei jayengi, kaunsi nahi? 
 
