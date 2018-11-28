@@ -36,7 +36,8 @@ def ifValid(user_input):
     if not user_input.isalpha():
         return False
 
-    # True humne tab hi return kiya hai jab user_input ki length 1 hai aur woh character hai
+    # True humne tab hi return kiya hai jab
+    # user_input ki length 1 hai aur woh character hai
     return True
 ```
 
