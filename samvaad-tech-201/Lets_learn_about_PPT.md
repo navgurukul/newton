@@ -21,11 +21,11 @@ completionMethod: manual
 @[youtube](vSuQQgiimy8)
 
 
-### Since you have learned about PPt we will try and make a PPT about any topic that you like:
+### Since you have learned about PPt we will try and make a PPT file about any topic that you like:
 
 
 
 ## Tips:
 
-1.You can use subtitle/caption that provided in youtube settings
+1.You can use subtitle/caption that is  provided in youtube settings of the video.
 
