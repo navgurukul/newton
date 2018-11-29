@@ -23,6 +23,14 @@ completionMethod: manual
 
 ### Since you have learned about PPt we will try and make a PPT file about any topic that you like:
 
+## And let us answer few questions and see how we understood. Come on lets go
+
+1. What is the full form PPT?
+2. Where is it used?
+3. Is PPT necessary in our projects? if yes,why?
+4. What did you learn in the example video?
+5. Have you ever done any PPT before?
+
 
 
 ## Tips:
