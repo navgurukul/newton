@@ -14,8 +14,12 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 1.Machine Learning Kya hai?
+
 2.Machine Learning ki jarurat kyo padi?
+
 3.Iski ki applications kya hai?
-4.Yeh kaam kaise karta hai? 
+
+4.Yeh kaam kaise karta hai?
+
 5.Machine Learning se chijo ko identify kaise karte hai?
 
