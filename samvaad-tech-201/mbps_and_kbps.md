@@ -1,7 +1,4 @@
-```ngMeta
-name: mbps and kbps
-completionMethod: manual
-```
+
 @[youtube](hdIhkwJgh7g)
 
 ## mbps / kbps internet speed:
