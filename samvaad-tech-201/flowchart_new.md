@@ -12,8 +12,6 @@ completion method: manual
 @[youtube](DF2XAc07eI0)
 
 
-(flowchart-programming.html)
-
 ## now you have to the discussion to 30 minutes about the watched video.
 
 During Discussion you have to observe that how much used technology word.
