@@ -25,9 +25,9 @@ completionMethod: manual
 
 ## And let us answer few questions and see how we understood. Come on lets go
 
-1. What is the full form PPT?
-2. Where is it used?
-3. Is PPT necessary in our projects? if yes,why?
+1. Think you have a project that need to presented in front of all the staffs how would you present?
+2. How easy is to understand a project through PPT?
+3. Is PPT necessary in a project? if yes,why?
 4. What did you learn in the example video?
 5. Have you ever done any PPT before?
 
@@ -35,5 +35,5 @@ completionMethod: manual
 
 ## Tips:
 
-1.You can use subtitle/caption that is  provided in youtube settings of the video.
+1.You can use subtitle/caption that is provided in youtube settings of the video.
 
