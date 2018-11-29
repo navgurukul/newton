@@ -1,6 +1,6 @@
 **First you have to watch this video**
 
-@[video](0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+@[video](PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 **Algorithm**
 
