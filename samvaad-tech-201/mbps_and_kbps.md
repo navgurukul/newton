@@ -19,4 +19,4 @@ if there is any word like which your partner and and you don't know than try to 
 6. Is 50 mbps is greater than 120 kbps?
 
 ### If you want to understand than watch this vedio:
-@[youtube](E9o2FlF1P5A)
+@[youtube](v=E9o2FlF1P5A)
