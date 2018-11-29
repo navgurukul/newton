@@ -45,7 +45,9 @@ During this discussion you can think about these points.
 
 5.what is Different between Downloading and Uploading?
 
-6. Is IDM in your laptop?
+
+6.Is IDM in your laptop?
+
 
 If you want better understand you can watch it.
 
