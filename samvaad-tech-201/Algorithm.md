@@ -1,5 +1,5 @@
 
-*Do log ko mil kar sabse pehle yeh videos dekhni hai*
+#Do log ko mil kar sabse pehle yeh videos dekhni hai#
 
 @[ Text](https://simple.wikipedia.org/wiki/Algorithm)
 
@@ -9,10 +9,10 @@
 
 @[video](vOEN65nm4YU)
 
-**Now you have to disccuss about these topics at least 30min among you. **
+#Now you have to disccuss about these topics at least 30min among you. #
 
 
-*Remmember these points also while disccussion.*
+#Remmember these points also while disccussion.#
 
 
 1.What is algorithm?
@@ -31,4 +31,5 @@
 
 **Tips:**
 1 - You can on subtitles/captions while watching youtube video.
+
 2 -You can increase or decrease speed of the video if you face any difficult.
