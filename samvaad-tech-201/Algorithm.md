@@ -55,7 +55,6 @@ Proportional Integral
 
 **Remmember these points also while disccussion.**
 
-
 1.What is algorithm?
 
 2.What are the types of algorithm?
@@ -67,6 +66,8 @@ Proportional Integral
 5.What is the sequence of algorithm?
 
 6.What are the advantages of algorithm?
+
+
 
 
 
