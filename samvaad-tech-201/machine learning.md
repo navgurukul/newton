@@ -31,7 +31,7 @@ Some of the major industries
 
 @[youtube](3bJ7RChxMWQ)
 
-#### Go through the following contents:
+#### Go through the following content:
 
 [Machine Learning-wiki](https://www.mathworks.com/discovery/machine-learning.html)
 
