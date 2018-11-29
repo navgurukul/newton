@@ -1,6 +1,5 @@
 - howtouse.md
 - Lets_learn_about_PPT.md
-- login.md
 - operating_system.md
 - database.md
 - linux.md
