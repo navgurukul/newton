@@ -1,4 +1,5 @@
 - howtouse.md
+- Lets_learn_about_PPT.md
 - login.md
 - operating_system.md
 - database.md
@@ -16,4 +17,11 @@
 - open_source.md
 - flowchart.md
 - rgb.md
+- mbps_and_kbps.md
+- what_is_programming.md
+- flowchart_new.md
+- ms-office.md
+- android_kya_hai.md
+- facebook.md
+- machine_learning.md
 - todo.md
