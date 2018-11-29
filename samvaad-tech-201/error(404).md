@@ -7,8 +7,7 @@ completionMethod: manual
 
 [click for more ](http://alistapart.com/article/amoreuseful404)
 
-## Now we will discuss the ques
- tions that are given below:
+## Now we will discuss the questions that are given below:
 
 
 
