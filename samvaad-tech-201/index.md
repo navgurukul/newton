@@ -1,4 +1,5 @@
 - howtouse.md
+- Algorithm.md
 - Lets_learn_about_PPT.md
 - operating_system.md
 - database.md
