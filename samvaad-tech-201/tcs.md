@@ -1,7 +1,10 @@
 # TCS TATA CONSULTANCY SERVICS LIMITED.
-@[youtube.com](tmywxKYuzIc)
-@[youtube.com](vTY89okfyGE)
-@[youtube.com](jv2b8Mom4hg)
+
+@[youtube](tmywxKYuzIc)
+
+@[youtube](vTY89okfyGE)
+
+@[youtube](jv2b8Mom4hg)
 
 Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
@@ -17,4 +20,4 @@ Jb apka discussion ho jaye toh inn questions kai answer bhi discuss kare:-
 1.  What is tcs?
 2.  Name some top IT companies in INDIA?
 3.  Who is the founder of tcs?
-4   Explain about the work of IT companies.
+4.  Explain about the work of IT companies.
