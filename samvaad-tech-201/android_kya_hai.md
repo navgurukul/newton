@@ -19,12 +19,12 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-1.What is Android?
-2.Is android is open-source platform or not?
-3.Which language is basically used to write android's code?
-4.Can you tell some features of android?
-5.Android is based on which os?
-6.Name some of android application?
+1. What is Android?
+2. Is android is open-source platform or not?
+3. Which language is basically used to write android's code?
+4. Can you tell some features of android?
+5. Android is based on which os?
+6. Name some of android application?
 
 Tips: 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue 
       2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
