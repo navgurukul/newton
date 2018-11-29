@@ -9,7 +9,7 @@ Machine learning gives computers the ability to learn without being explicitly p
 
 #### 1.Self-driving Google car
 
-Google designed such a car which don't need a driver to drive.It will stop and drive automatically if is there any traffic than it will analysis and stop there.analysis
+Google designed such a car which don't need a driver to drive. It will stop and drive automatically if is there any traffic than it will analysis and stop there.analysis
 
 #### 2.Online recommendation offers
 
