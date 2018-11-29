@@ -23,4 +23,5 @@
 - ms-office.md
 - android_kya_hai.md
 - facebook.md
+- machine_learning.md
 - todo.md
