@@ -3,13 +3,12 @@ completionMethod: manual
 
 ### You will discuss this topic with your partner for 30 min and see what you understood:
 
-@[video in English](ImEQFprFKWA)
+@[video](ImEQFprFKWA)
 
-@[video in Hindi](9n9NcXRvDPo)
+[click for more ](http://alistapart.com/article/amoreuseful404)
 
-[click for more ](868171568#Overview)
-
-## Now we will discuss the quetions that are given below:
+## Now we will discuss the ques
+ tions that are given below:
 
 
 
@@ -19,7 +18,7 @@ completionMethod: manual
 2. try to find how can you solve that error.
 3. how is HTTP related to 404 error?
 4. how many errors can you find like this discuss with your partner.
-5.  
+5. Discuss more option given more to know different types of errors  
 
 
 
