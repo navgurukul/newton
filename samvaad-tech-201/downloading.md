@@ -11,49 +11,49 @@ Do log ko mil kar sabse pehle yeh videos dekhni hai
 @[youtube](F69kWUbi9Xk)
 
 
-@[youtube](OeDk3ugRvzk)
+@[youtube](GLqsY0Oxtgo)
 
 @[youtube](kfqGio32jLA)
 
 
 
-## now you have to discussion to 30 minut about watched video.
+## Now you have to discussion 30 minutes about videos.
 
-During Discussion you have to observe that how much used techonology word.
-
-
-
-If your partner telling new words during discussion you have now about this word and try to it understand.
+During Discussion you have to observe that how much used technology word.
 
 
 
-during this discussion you can think about these points.
+If your partner is speaking new words during discussion. you have to understand this word.
+
+
+
+During this discussion you can think about these points.
 
 
 
 1.What  Is Downloading?
 
 
-2.What Is IDM?
+2.What Is IDM? how to use IDM during downloading videos?
 
 
-3.What Is ISP?
+3.What Is ISP? how to work in mobile?
 
 
-4.How Many Type of  ISP?
+4.How Many Type of  ISP? and which ISP use you on your mobile?
 
 
-5.Different between Downloading and Uploading?
+5.what is Different between Downloading and Uploading?
 
+6. Is IDM in your laptop?
 
-
-If you want batter understading you can watch it.
+If you want better understand you can watch it.
 
 Tips:
 
-1 - You can on the subtitle / caption while watching youtube video
+1 - You can on the subtitles  while watching youtube videos
 
-2 - You can do slow and fast during watching video that you can batter understand.
+2 - You can do slow and fast during watching videos that you can better understand.
 
 
 
