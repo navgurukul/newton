@@ -24,5 +24,6 @@
 - facebook.md
 - machine learning.md
 - downloading.md
+- antivirus.md
 - google.md
 - todo.md
