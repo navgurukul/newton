@@ -44,5 +44,4 @@
 - bandwidth.md
 - CMS.md
 - scripting.md
-- what_is_programming.md
 - todo.md
