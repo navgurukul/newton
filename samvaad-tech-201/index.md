@@ -22,6 +22,6 @@
 - ms-office.md
 - android_kya_hai.md
 - facebook.md
-- machine_learning.md
+- machine learning.md
 - downloading.md
 - todo.md
