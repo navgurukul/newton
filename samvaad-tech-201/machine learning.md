@@ -23,9 +23,11 @@ Some of the major industries
 - Identify insights on data
 - Prevent Fraud
 
-# Now it's time to wacth these videos for more better understanding.
+# Now it's time to watch these videos for more better understanding.
 
 @[youtube](elojMnjn4kk)
+
+# English is difficult but try to understand the topic using sub-titles.
 
 @[youtube](3bJ7RChxMWQ)
 
