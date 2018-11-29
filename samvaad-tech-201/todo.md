@@ -31,7 +31,7 @@ completionMethod: manual
 - virus kya hota hai
 - anti virus
 - ms office
-- Lets_learn_about_PPT
+- ppt
 - google doc / google drive
 - apple
 - browser
