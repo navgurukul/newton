@@ -26,4 +26,5 @@
 - downloading.md
 - antivirus.md
 - google.md
+- tcs.md
 - todo.md
