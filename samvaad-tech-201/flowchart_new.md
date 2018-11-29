@@ -4,10 +4,10 @@ completionMethod:manual
 ```
 **You have to watch this video in a pair ?
 
-@[youtube](v=iJmcgQRk048)
+@[youtube](iJmcgQRk048)
 
 
-@[youtube](v=DF2XAc07eI0)
+@[youtube](DF2XAc07eI0)
 
 
 @[youtube](flowchart-programming.html)
