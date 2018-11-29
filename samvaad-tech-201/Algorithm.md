@@ -4,6 +4,7 @@
 @[ Text](https://simple.wikipedia.org/wiki/Algorithm)
 
 @[video](0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
 @[video](FbYzBWdhMb0)
 
 @[video](vOEN65nm4YU)
