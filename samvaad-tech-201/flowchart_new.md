@@ -12,7 +12,7 @@ completion method: manual
 @[youtube](DF2XAc07eI0)
 
 
-@[youtube](flowchart-programming.html)
+@(flowchart-programming.html)
 
 ## now you have to the discussion to 30 minutes about the watched video.
 
