@@ -31,8 +31,10 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-1. What is Google?
+1. What is search engine?
 2. How many offices does google have in India?
-3. What is the advantage of google?
+3. Explain how google map is working?
 4. How google store large amount of data?
-5. How Google works?
+5. Explain what happen when user enter any queries means how google gives output?
+6. How google correct your spelling mistake, when you enter wrong word?
+7. Those data which is coming to us where it is stored?
