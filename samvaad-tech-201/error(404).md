@@ -1,9 +1,10 @@
-name: error(404)
-completionMethod: manual
+
+
+
 
 ### You will discuss this topic with your partner for 30 min and see what you understood:
 
-@[video](ImEQFprFKWA)
+@[youtube](ImEQFprFKWA)
 
 [click for more ](http://alistapart.com/article/amoreuseful404)
 
