@@ -1,4 +1,4 @@
-Microsoft Office (Ms Office)
+## Microsoft Office (Ms Office)
 Watch this video to understand this topic.
 
 @[youtube](shaXOcxm8Wk) 
@@ -10,7 +10,8 @@ For you're farther understand you can visit this link.
 [Microsoft Office - Wiki](https://en.wikipedia.org/wiki/Microsoft_Office)
 
 
-Questions:
+## Questions:
+  ##  Answer these questions to check what you have understood.  
 1.  What is Ms Office?
 2.  Name six applications of Ms Office?
 3.  Which Operating System supports Ms Office?
