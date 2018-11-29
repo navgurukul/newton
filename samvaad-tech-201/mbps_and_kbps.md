@@ -14,10 +14,10 @@ if there is any word like which your partner and and you don't know than try to 
 ### While doing discussion you can think for this points:
 1. In NavGurgurukul differentiate between students and mentor who is kbps and mbps?
 2. Who is mbps and kbps in NavGurukul?
-3. In your home whom you think is kbps and mbps?
+3. What is 500 kbps in MB?
 4. Why people get confiused in mbps and kbps?
 5. What is a good Internet speed?
-6. Is 50 mbps is greater than 120 kbps?
+6. Kbps or mbps is bigger?
 
 ### If you want to understand than watch this vedio:
 @[youtube](E9o2FlF1P5A)
