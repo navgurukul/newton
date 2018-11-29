@@ -55,17 +55,17 @@ Proportional Integral
 
 **Remmember these points also while disccussion.**
 
-1.What is algorithm?
+1. What is algorithm?
 
-2.What are the types of algorithm?
+2. What are the types of algorithm?
 
-3.Is a recipe an algorithm? Discuss in detail.
+3. Is a recipe an algorithm? Discuss in detail.
 
-4.What is the use of algorithm?
+4. What is the use of algorithm?
 
-5.What is the sequence of algorithm?
+5. What is the sequence of algorithm?
 
-6.What are the advantages of algorithm?
+6. What are the advantages of algorithm?
 
 
 
