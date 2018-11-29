@@ -1,7 +1,8 @@
-
+```
+ngMeta
 name: What is Programming/coding?
 completionMethod: manual
-
+```
 What is Programming/Coding?
 
 Computer programming, also known as coding ,is the process of creating software .But what exactly is softwareand how it made?
