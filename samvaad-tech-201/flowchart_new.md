@@ -1,8 +1,10 @@
+
+
 ```ngMeta
 name:flowchart_new
-completionMethod:manual
+completion method: manual
 ```
-**You have to watch this video in a pair ?
+**You have to watch this video in a pair?
 
 @[youtube](iJmcgQRk048)
 
@@ -12,31 +14,32 @@ completionMethod:manual
 
 @[youtube](flowchart-programming.html)
 
-## now you have to discussion to 30 minut about watched video.
+## now you have to the discussion to 30 minutes about the watched video.
 
-During Discussion you have to observe that how much used techonology word.
+During Discussion you have to observe that how much used technology word.
 
-If your partner telling new words during discussion you have now about this word and try to it understand.
+If your partner telling new words during the discussion you have now about this word and try to it understand.
 
-during this discussion you can think about these points.
-
-
-1.What is flowchart and how does it work?
+during this discussion, you can think about these points.
 
 
-2.why people use flow chart?and where?
+1. What is a flowchart and how does it work?
 
 
-3.If people not use flow chart and what will be happen after that any work?
+2.why people use flow chart? and where?
 
 
-4.How many  symbol to make flow chart write these name?
+3.If people do not use flowchart and what will happen after that any work?
 
 
-5.write a paragraph which is how to work in flowchart on per symbol with commanads and what ans how are doing all commands ?
+4. How many symbols to make flowchart write these name?
 
 
-6.Write a program on your note book ans make these flowchart?
+5.write a paragraph which is how to work in the flowchart on per symbol with commands and what and how are doing all commands?
+
+
+6. Make a flowchart about search campus of navGurukul.
+
 
 If you want batter understading you can watch it.
 
