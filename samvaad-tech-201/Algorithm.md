@@ -1,3 +1,6 @@
+**First you have to watch this video**
+
+@[video](0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 **Algorithm**
 
@@ -42,8 +45,6 @@ Link Analysis. ...
 Proportional Integral
 
 **If you want to know more about algorithm you can watch these videos.**
-
-@[video](0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 @[video](FbYzBWdhMb0)
 
