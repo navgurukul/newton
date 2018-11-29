@@ -18,4 +18,5 @@
 - rgb.md
 - mbps_and_kbps.md
 - what_is_programming.md
+- flowchart_new.md
 - todo.md
