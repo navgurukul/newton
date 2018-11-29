@@ -3,6 +3,7 @@
 - operating_system.md
 - database.md
 - linux.md
+- virus_worm.md
 - binary_code.md
 - bot_file.md
 - server.md
