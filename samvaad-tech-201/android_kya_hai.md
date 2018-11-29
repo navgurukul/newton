@@ -1,9 +1,8 @@
 ## yeh videos dekhni hai
-@youtube
 
-@youtube[TTpe2lOGF4g]
+@youtube(TTpe2lOGF4g)
 
-@youtube[KitoxUB11go]
+@youtube(KitoxUB11go)
 
 ##Ab aapko mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.
 
