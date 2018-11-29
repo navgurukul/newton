@@ -29,8 +29,12 @@ Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap 
 
 Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
-1. What is facebook?
-2. What is the technology used in facebook?
-3. What software does facebook used?
-4. Does Facebook use python?
-5. How facebook works?
+1. What is the technology used in facebook?
+2. What software does facebook used?
+3. What is an API facebook?
+4. What is a facebook SDK?
+5. When facebook is started how many people works there?
+6. How facebook is coded?
+7. If you are working in facebook as a developer what chenges you want to make or what features you want to add?
+8. Suppose you want to make your own app then what features you want in your app?
+
