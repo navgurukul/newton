@@ -59,7 +59,7 @@ Proportional Integral
 
 2.What are the types of algorithm?
 
-3.Is a recipe an algorithm?Disccuss in detail.
+3.Is a recipe an algorithm? Discuss in detail.
 
 4.What is the use of algorithm?
 
