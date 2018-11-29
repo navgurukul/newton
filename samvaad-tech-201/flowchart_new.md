@@ -38,7 +38,7 @@ during this discussion, you can think about these points.
 5.write a paragraph which is how to work in the flowchart on per symbol with commands and what and how are doing all commands?
 
 
-6. Make a flowchart about search campus hunt of navGurukul.
+6. Make a flowchart about campus hunt of navGurukul.
 
 
 If you want batter understading you can watch it.
