@@ -1,4 +1,8 @@
-name: what is Machine learning?
-completionMethod: manual
+'''name: what is Machine learning?
+completionMethod: manual'''
 
-Do
+## Aap ye videos dekhien:
+
+@[youtube](XyogitQeYDA)
+
+https://www.youtube.com/watch?v=XyogitQeYDA
