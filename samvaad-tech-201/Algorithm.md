@@ -1,6 +1,6 @@
 **First you have to watch this video**
 
-@[youtube.com](PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+@[youtube](0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 **Algorithm**
 
@@ -46,9 +46,9 @@ Proportional Integral
 
 **If you want to know more about algorithm you can watch these videos.**
 
-@[youtube.com](FbYzBWdhMb0)
+@[youtube](FbYzBWdhMb0)
 
-@[youtube.com](vOEN65nm4YU)
+@[youtube](vOEN65nm4YU)
 
 **Now you have to disccuss about these topics at least 30min in pairs. **
 
