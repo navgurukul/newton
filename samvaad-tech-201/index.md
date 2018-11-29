@@ -1,4 +1,5 @@
 - howtouse.md
+- error(404).md
 - Algorithm.md
 - Lets_learn_about_PPT.md
 - operating_system.md
