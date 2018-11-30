@@ -29,6 +29,7 @@ while (i < l):
         m1 = a[i]
     if a[i] < m1:
         m2 = a[i]
+    i = i + 1
 print s, m1, m2
 ```
 
