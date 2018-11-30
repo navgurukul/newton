@@ -6,3 +6,4 @@
 - shakira.md
 - jennifer-lopez.md
 - bruno-mars.md
+- pete-seeger.md
