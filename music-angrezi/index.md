@@ -4,5 +4,5 @@
 - britney-spears.md
 - bryan-adams.md
 - shakira.md
-- jeniffer-lopez.md
+- jennifer-lopez.md
 - bruno-mars.md
