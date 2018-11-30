@@ -8,3 +8,4 @@
 - bruno-mars.md
 - pete-seeger.md
 - lenka.md
+- katty-perry.md
