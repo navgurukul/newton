@@ -1,1 +1,8 @@
 - introduction.md
+- taylor-swift.md
+- adele.md
+- britney-spears.md
+- bryan-adams.md
+- shakira.md
+- jeniffer-lopez.md
+- bruno-mars.md
