@@ -7,3 +7,4 @@
 - jennifer-lopez.md
 - bruno-mars.md
 - pete-seeger.md
+- lenka.md
