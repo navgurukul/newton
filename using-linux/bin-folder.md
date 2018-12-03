@@ -9,3 +9,17 @@ ls
 ```
 
 Dekhiye kya aapko koi familiar names dikhayi de rahe hai?
+
+Iss folder mei jo bhi `executable` files hongi, woh aap kahi se bhi sirf uss file ka naam likh kar execute kar sakte ho. Hum aage aisa ek program banayenge.
+
+Aise hi
+
+```bash
+cd /bin
+ls
+```
+
+ke contents ko samajh kar, observe kariye, ki kya contents hai, aur in mei se koi `commands/programs/executables` aapne kabhi use kiye hai kya?
+
+Note:
+Jo bhi file `executable` hogi, uss file ki permission mei aapko 'x' character dikhega `ls -l` karnei par.
