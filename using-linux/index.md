@@ -13,3 +13,4 @@
 - chown.md
 - chmod.md
 - top.md
+- bin-folder.md
