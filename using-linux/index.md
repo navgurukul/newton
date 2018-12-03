@@ -17,6 +17,7 @@
 - chown.md
 - chmod.md
 - top.md
+- editors.md
 - which.md
 - bin-folder.md
 - apna-program-banaye.md
