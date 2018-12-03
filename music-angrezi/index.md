@@ -9,3 +9,4 @@
 - pete-seeger.md
 - lenka.md
 - katty-perry.md
+- Motivational_songs.md
