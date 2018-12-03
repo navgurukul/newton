@@ -1,6 +1,7 @@
 - introduction.md
 - cd.md
 - mkdir.md
+- sudo.md
 - nautilus.md
 - apt.md
 - echo.md
