@@ -1,2 +1,5 @@
 - introduction.md
 - cd.md
+- mkdir.md
+- nautilus.md
+- apt.md
