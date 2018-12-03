@@ -1,7 +1,10 @@
 - introduction.md
 - cd.md
+- pwd.md
+- current-directory.md
 - mkdir.md
 - ls.md
+- permissions.md
 - sudo.md
 - case.md
 - nautilus.md
