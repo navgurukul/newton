@@ -10,6 +10,7 @@
 - sleep.md
 - wget.md
 - statements.md
+- bashrc.md
 - chown.md
 - chmod.md
 - top.md
