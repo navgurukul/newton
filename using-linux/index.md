@@ -3,3 +3,4 @@
 - mkdir.md
 - nautilus.md
 - apt.md
+- sleep.md
