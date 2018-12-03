@@ -1,13 +1,18 @@
 ## chmod
 
 ```bash
-touch somefile.txt # `somefile.txt` naam ki file create karo
-ls -l somefile.txt # `somefile.txt` file ki permissions dekho
-chmod root:root somefile.txt # `somefile.txt` file ki permissions root ko de do
-ls -l somefile.txt
-```
+touch random.txt            # `random.txt` naam ki file create karo
+ls -l random.txt            # `random.txt` file ki permissions dekho
 
-```bash
-chmod aapkausername:aapkausername somefile.txt
-sudo chmod aapkausername:aapkausername somefile.txt
+chmod 755 random.txt
+ls -l random.txt
+
+chmod g+w random.txt
+ls -l random.txt
+
+chmod o+x random.txt
+ls -l random.txt
+
+chmod g-r random.txt
+ls -l random.txt
 ```
