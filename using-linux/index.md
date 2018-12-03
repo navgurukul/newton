@@ -22,3 +22,4 @@
 - bin-folder.md
 - apna-program-banaye.md
 - executable-in-python.md
+- bash.md
