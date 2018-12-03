@@ -8,6 +8,8 @@
 - apt.md
 - echo.md
 - sleep.md
+- wget.md
 - statements.md
 - chown.md
 - chmod.md
+- top.md
