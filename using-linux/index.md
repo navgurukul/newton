@@ -1,9 +1,13 @@
 - introduction.md
 - cd.md
 - mkdir.md
+- ls.md
 - sudo.md
+- case.md
 - nautilus.md
 - apt.md
 - echo.md
 - sleep.md
 - statements.md
+- chown.md
+- chmod.md
