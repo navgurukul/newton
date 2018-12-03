@@ -3,4 +3,6 @@
 - mkdir.md
 - nautilus.md
 - apt.md
+- echo.md
 - sleep.md
+- statements.md
