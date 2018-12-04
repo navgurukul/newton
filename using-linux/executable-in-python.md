@@ -29,7 +29,7 @@ chmod +x merapythonprogram
 Ab iss program ko aap, `/usr/bin` directory mei move kar de. Yaha move karne se, yeh program kahi se bhi aap execute kar payenge.
 
 ```bash
-mv merapythonprogram /usr/bin/
+sudo mv merapythonprogram /usr/bin/
 ```
 
 Ab aap apne program ko execute kar sakte ho
