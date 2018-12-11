@@ -9,7 +9,7 @@ Kisi bi number **x** a power nikalne k liye apko ush **number** ko ushi number s
 #### Jese:
 Number = 2
 Power = 5
-toh hum 2<sup>5</sup> ko **2*2*2*2*2** likh sakte hai.
+toh hum 2<sup>5</sup> ko **2 * 2 * 2 * 2 * 2** likh sakte hai.
 
 ### Question
 **Power Digit Sum.**
