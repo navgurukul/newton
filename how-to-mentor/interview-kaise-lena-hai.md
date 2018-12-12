@@ -15,10 +15,9 @@
     Those students who do not follow steps outlined below
 
 ### To check if the student is working hard or putting the right input?
-1. Presents in classroom
-2. Peer learning
-3. Dedication
-4. Fight by yourself
-5. Study with Saral
-6. Helping nature
-7. Track time by Toggl
+1. Weekly GBU
+2. Weekly Classes
+3. Speaking in English
+4. Tech Samvaad
+5. Work hard during the day
+6. Use Toggl for time tracking
