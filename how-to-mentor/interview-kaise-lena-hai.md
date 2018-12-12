@@ -1,7 +1,16 @@
 ## Interview  kaise lana hai.
+
+### To check if the student is working hard or putting the right input?
+1. Weekly GBU - thrice in a month
+2. Weekly Classes
+3. Speaking in English - all the time
+4. Tech Samvaad - four times a week
+5. Work hard during the day
+6. Use Toggl for time tracking
+
 ### Hardworking
 - Yes
-    Progress is visible?
+    **Is the Progress visible?**
 
         - Yes
             Green Flag
@@ -14,11 +23,3 @@
 - No
     Red Flag
     Those students who do not follow steps outlined below
-
-### To check if the student is working hard or putting the right input?
-1. Weekly GBU
-2. Weekly Classes
-3. Speaking in English
-4. Tech Samvaad
-5. Work hard during the day
-6. Use Toggl for time tracking
