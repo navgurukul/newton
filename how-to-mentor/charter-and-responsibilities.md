@@ -25,3 +25,6 @@ The students have to do reflections using GBU at least thrice in a month.
 
 ### Tech Samvaad
 Students have to do Tech Samvaad at least four times a week.
+
+### Toggl
+Students should use Toggl for monitoring their time. Mentors to use this while interviewing students for the weekly progress.
