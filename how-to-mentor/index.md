@@ -7,3 +7,4 @@
 - art-of-giving-feedback.md
 - good-code.md
 - english-activities.md
+- feedback-for-curriculum.md
