@@ -4,4 +4,4 @@ Mentors should do daily standup with the mentees either in physical presence or 
 
 - can be effectively understood and evaluated
 - can set up achievable goals
-- 
+- can follow up with them on their progress
