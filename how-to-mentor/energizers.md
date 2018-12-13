@@ -11,4 +11,5 @@ Every hour starting from 6 am, we can do quick 3-5 minute Energizers starting fr
 ## Possible Energizers
 - Stretching Exercises
 - Dancing on Random SONGS
-- 
+- Sing Songs
+- Karate
