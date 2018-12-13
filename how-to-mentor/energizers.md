@@ -8,5 +8,5 @@ it is crucial, that every once in a while every hour or so we do energizers and 
 
 ## Possible Energizers
 - Stretching Exercises
-- Dancing on Random (ENGLISH SONGS)
+- Dancing on Random SONGS
 - 
