@@ -12,7 +12,7 @@ print len(srtring_name)
 
 Yahan print command 9 print karegi kyunki `"Shakrudin"` mein 9 letters ya charecters hai.
 
-``python
+```python
 string_name = "Rishabh Verma"
 print len(string_name)
 ```
