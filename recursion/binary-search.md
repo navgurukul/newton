@@ -1,6 +1,9 @@
+```ngMeta
+submissionType: url
+```
 ## Binary Search
 
-Humei ek list mei koi element search karna hai. Ek example lete hai. 
+Humei ek list mei koi element search karna hai. Ek example lete hai.
 
 ```python
 to_find_list = [2, 5, 9, 12, 81, 23, 71, 28, 90, 67]
@@ -20,7 +23,7 @@ second_part = [23, 71, 28, 90, 67]
 
 Toh agar aap dekhein toh
 
-`to_find_element` - `to_find_list` mei hoga agar woh uske dono mei se kisi part mei hai, nahi toh nahi hoga. Toh aap iss information ko use kar kar code likhein jo element ko search karta hai. 
+`to_find_element` - `to_find_list` mei hoga agar woh uske dono mei se kisi part mei hai, nahi toh nahi hoga. Toh aap iss information ko use kar kar code likhein jo element ko search karta hai.
 
 Dhyaan rakhein ki dheere dheere dono parts ya toh empty ho jayenge, ya usmei ek single element bachega jo `to_find_element` ke equal hoga.
 
@@ -38,7 +41,7 @@ def is_present_in_list(number_to_search, list_to_search):
             return True
         else:
             return False
-                
+
     first_half_of_list = list_to_search[:length_of_list/2]
     second_half_of_list = list_to_search[length_of_list/2:]
 
@@ -56,7 +59,7 @@ def is_present_in_list(number_to_search, list_to_search):
         if number_to_search == list_to_search[counter]:
             return True
         counter += 1
-    
+
     return False
 
 print is_present_in_list(3, [3, 5, 7, 8, 4, 6, 2, 1, 9])
