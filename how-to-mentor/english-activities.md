@@ -8,7 +8,7 @@
     * Email/blog writing
     * Track your speaking/ listening/ reading/ writing time in english using toggle
     * Play games like celebrity introduction and Mafia
-    * You can use 
+    * Do quizlet exercises 
 ## For Intermediates
     * Debating
     * Download extension of vocabulary using terminal
