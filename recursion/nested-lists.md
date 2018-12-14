@@ -1,3 +1,6 @@
+```ngMeta
+submissionType: url
+```
 ## Nested Lists
 Aise sochiye ki aapke paas ek list hai, jismei numbers bhi ho sakte hai, aur lists bhi, aur jo lists uss list mei hai, uske andar bhi numbers ya list ho sakte hai, aur aapko nahi pata ki kab list hai kab numbers, aur kitne levels deep tak aisa hai.
 
@@ -13,7 +16,7 @@ Jaise:
 Yeh aapko recursion ka use kar kar, karna hai.
 
 ## Hints
-- Agar aapke paas andar ki saari lists flat hai, toh kya aap yeh recursion soch paa rahe hai? 
+- Agar aapke paas andar ki saari lists flat hai, toh kya aap yeh recursion soch paa rahe hai?
 
 - Yeh check karne ke liye ki element integer hai ya list, aap aisa kar sakte hai:
 
@@ -49,6 +52,6 @@ def nested_to_flat(lis):
             flat_list.append(element)
 
         index += 1
-        
-    return flat_list 
+
+    return flat_list
 ```
