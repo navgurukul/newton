@@ -9,6 +9,7 @@
 - fibonacci-series.md
 - fibonacci-advanced.md
 - binary-search.md
+- calculate.md
 - nested-lists.md
 - nested-lists-grammar.md
 - congrats.md
