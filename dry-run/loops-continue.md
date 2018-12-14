@@ -16,7 +16,7 @@ while (counter < len(string)):
     if string[counter] == "a":
         continue
 
-    if string[counter] == "u"
+    if string[counter] == "u":
         continue
     
     print(string[counter])
