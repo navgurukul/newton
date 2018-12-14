@@ -1,3 +1,6 @@
+```ngMeta
+submissionType: url
+```
 ## Sum of a List
 Agar aapko sum karna ho list ke elements ka recursion use kar kar, toh aap kaise karoge?
 
