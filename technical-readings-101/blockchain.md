@@ -1,5 +1,5 @@
 # Blockchain
-A digital ledger in which transactions made in bitcoin or another cryptocurrency
+Blockchain is a digital ledger in which transactions made in bitcoin or another cryptocurrency
 are recorded serially and publicly.
 ## Ledger
 Ledger is a book of records which maintain financial transactions.
