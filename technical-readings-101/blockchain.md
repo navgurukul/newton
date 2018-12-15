@@ -1,7 +1,6 @@
 # Blockchain
 Blockchain is an universal digital ledger in which transactions made in bitcoin
-or another cryptocurrency
-are recorded serially and publicly.
+or another cryptocurrency are recorded serially and publicly.
 ## Ledger
 Ledger is a book of records which maintain financial transactions.
 ## Bitcoins
@@ -26,7 +25,7 @@ transfer of funds. Farthermore, cryptocurrencies operate independently of a cent
     copy of the Blockchain.
 9.  These computers are called nodes.
 10. The Blockchain updates itself every 10 minutes.
-Read about this topics
-In simple English : @(Link)[https://simple.wikipedia.org/wiki/Blockchain]
-In medium English : @(Link)[https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners#hash-function]
-In advanced English : @(Link)[https://medium.com/@yannmjl/what-is-blockchain-in-simple-english-25e684c1cea3]
+## Read about this topic from here.
+* In simple English : [Link](https://simple.wikipedia.org/wiki/Blockchain)
+* In medium English : [Link](https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners#hash-function)
+* In advanced English : [Link](https://medium.com/@yannmjl/what-is-blockchain-in-simple-english-25e684c1cea3)
