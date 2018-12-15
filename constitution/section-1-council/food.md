@@ -1,5 +1,5 @@
 ```ngMeta
-name: Food and Hygiene Coordinator
+name: Food and Kitchen Coordinator
 completionMethod: manual
 ```
 
