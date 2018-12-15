@@ -7,7 +7,7 @@ completionMethod: manual
 
 The council will be elected by the **members** of a NavGurukul campus and would be responsible to represent the campus, ensure **learning** of one and all while ensuring smooth **management** of the day-to-day operations. This council is comprised of six members to simplify work distribution among the different members of the council:
 
-- Campus Affairs: Food and hygiene Coordinator
+- Campus Affairs: Food and Kitchen Coordinator
  - Information Technology Coordinator
  - Treasurer
  - Outreach and communication Coordinator
