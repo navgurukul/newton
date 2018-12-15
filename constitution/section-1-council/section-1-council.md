@@ -11,9 +11,9 @@ The council will be elected by the **members** of a NavGurukul campus and would 
  - Information Technology Coordinator
  - Treasurer
  - Outreach and communication Coordinator
- - Training and Placement
+ - Training and Placement Coordinator
  - Facility and Maintenance Coordinator
- - Prosperity officer
+ - Prosperity Officer
 
 One of the members of the Council will be appointed as the **General Secretary**.
 
