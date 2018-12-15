@@ -10,10 +10,9 @@
 - Edge Cases
 - Hangman like examples
 - Python Requests - making a small eLearning app using Python
-- Making your own database
-
-- Stack
-- Trees
+- Making your own database - Redis and MongoDB
+- Stack using Programs
+- Trees using Programs
 
 ## Bakait Courses
 - Venn Diagrams
