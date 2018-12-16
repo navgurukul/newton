@@ -1,9 +1,11 @@
 - howtouse.md
+- error(404).md
+- Algorithm.md
 - Lets_learn_about_PPT.md
-- login.md
 - operating_system.md
 - database.md
 - linux.md
+- virus_worm.md
 - binary_code.md
 - bot_file.md
 - server.md
@@ -11,6 +13,7 @@
 - Backend.md
 - Frontend.md
 - domain.md
+- github.md
 - hacking.md
 - keyword.md
 - browser.md
@@ -23,5 +26,11 @@
 - ms-office.md
 - android_kya_hai.md
 - facebook.md
-- machine_learning.md
+- machine learning.md
+- downloading.md
+- antivirus.md
+- google.md
+- tcs.md
+- 404_error_found.md
 - todo.md
+
