@@ -1,4 +1,7 @@
-Fibonacci series yeh hoti hai: 
+```ngMeta
+submissionType: url
+```
+Fibonacci series yeh hoti hai:
 
 **0, 1, 1, 2, 3, 5, 8, 13, 21, 34**
 
