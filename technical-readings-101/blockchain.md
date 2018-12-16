@@ -19,12 +19,15 @@ transfer of funds. Farthermore, cryptocurrencies operate independently of a cent
 5. The hash depends not only on the transaction but the previous transaction's hash.
    Even a small change in a transaction creates a completely new hash.
 6. The nodes check to make sure a transaction has not been changed by inspecting the hash.
-   If a transaction is approved by a majority of the nodes than it is written into a block.
+
+    If a transaction is approved by a majority of the nodes than it is written into a block.
+
 7. Each block refers to the previous block and together make the Blockchain.
-8. A Blockchain is effective as it is spread over many computers, each of which have a
-    copy of the Blockchain.
+8. A Blockchain is effective as it is spread over many computers, each of which have a copy of the Blockchain.
 9.  These computers are called nodes.
 10. The Blockchain updates itself every 10 minutes.
+
+
 ## Read about this topic from here.
 * In simple English : [Link](https://simple.wikipedia.org/wiki/Blockchain)
 * In medium English : [Link](https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners#hash-function)
