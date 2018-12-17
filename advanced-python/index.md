@@ -288,3 +288,5 @@
 	- loop.md
 	- module.md
 	- practice-questions.md
+-basic_defination
+	- definations-part-1.md
