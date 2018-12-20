@@ -1,6 +1,7 @@
 ```ngMeta
 name: Cipher 1.0
 completionMethod: peer
+submission Type: url
 ```
 
 Apne simple se message ko aise change karna jisse koi dusra insaan usse samajh na paye usse encryption bolte hai. Encryption karne ke bhot sare ways hote hai. Hum cipher wheel use karenge. Cipher wheel mei hum her character ko kissi number se aage shift kar dete hai. Jaise:
