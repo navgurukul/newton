@@ -1,6 +1,7 @@
 ```ngMeta
 name: Strings - Constants
 completionMethod: peer
+submissionType: url
 ```
 
 *Yeh iss course ka pehla question hai. Saare questions ko answer karne ke liye, pehle iPython mein code likh ke dekhiye ki woh code sahi chal raha hai ya nahi. Fir ek nahi python ki file banake uss file ko yahan upload kariye.*
