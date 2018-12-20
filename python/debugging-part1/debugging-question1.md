@@ -1,7 +1,8 @@
 ```ngMeta
 name: Question 1
 completionMethod: peer
-submissionType: url```
+submissionType: url
+```
 
 Aage ke kuch debugging ke questions mein aapko likha hua code milega. Uss code ko sahi kar ke ek file mein save kar ke aapko submit karna hai.
 
