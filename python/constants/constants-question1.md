@@ -1,6 +1,5 @@
 ```ngMeta
 name: Strings - Constants
-completionMethod: peer
 submissionType: url
 ```
 
