@@ -1,6 +1,7 @@
 ```ngMeta
 name: Fight the Alien
 completionMethod: peer
+submission Type: url
 ```
 
 Iss game mein aap ek alien se fight karoge. Game mei alien ka stamina 10 se shuru hoga. Aapko uska stamina khatam karna hai yaani ki 0 karna hai. Aisa karne ke liye aap alien ke against in 4 options mei se koi option use kar sakte ho.
