@@ -1,7 +1,8 @@
 ```ngMeta
 name: Question 1
 completionMethod: peer
-```submissionType: url
+submissionType: url
+```
 
 Ek `number` naam ke variable mein ek variable input lo aur usko integer mein type cast kar lo.
 
