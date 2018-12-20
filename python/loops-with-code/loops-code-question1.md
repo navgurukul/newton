@@ -2,6 +2,7 @@
 name: Question 1
 completionMethod: peer
 ```
+submissionType: url
 
 **Abhi tak humne sirf flowcharts banaye hai. Aage waale questions mein apne program ka flowchart aur python code dono submit karna hai.**
 
