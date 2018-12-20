@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 14
 completionMethod: peer
+submissionType: url
 ```
 
 Ek flowchart banao jo `fibonacci series` ke pehle 100 number print kare. Fibonacci series aisi hoti hai:
