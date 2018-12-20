@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 2
 completionMethod: peer
+submissionType: url
 ```
 
 Iss code mein user ka naam print hona chaiye lekin woh sahi se print nahi ho raha.
