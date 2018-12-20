@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 3
 completionMethod: peer
+subimissionType: url
 ```
 
 Aapke paas ek variable hai, jisme yeh value hai:
