@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 2
 completionMethod: peer
+submissionType: url
 ```
 
 Ek flowchart banao jo 0 se 10 tak numbers print kare.

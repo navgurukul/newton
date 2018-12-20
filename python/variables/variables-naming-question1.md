@@ -1,6 +1,7 @@
 ```ngMeta
 name: Variable Naming Exercise 1
 completionMethod: peer
+submissionType: url
 ```
 
 ## Question

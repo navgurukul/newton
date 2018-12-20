@@ -1,10 +1,10 @@
 ```ngMeta
 name: Conditionals, Loop and Variable Naming
 completionMethod: peer
-submission Type: url
+submissionType: url
 ```
 
-Yeh rock paper scissors game ka program hai. Iss game ko aap computer ke against kheloge. Iss game ke 3 rules hai 
+Yeh rock paper scissors game ka program hai. Iss game ko aap computer ke against kheloge. Iss game ke 3 rules hai
 
 * Rock Paper se haar jata hai
 * Paper Scissors se haar jaata hai
@@ -16,7 +16,7 @@ Appko pehle rock,paper ya scissors mei se chose karna hoga. Aur uske baad comput
 * Agar aapne "Rock" chose kiya aur computer ne "Scissors"
 * To aap jeet jaoge kyunki "Rock" "Scissors" ko hara deta hai. ( Rule 3 )
 
-Aap iss game ke rules iss 
+Aap iss game ke rules iss
 
 @[youtube](d1ZduiNyvcM)
 

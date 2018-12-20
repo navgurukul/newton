@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 2
 completionMethod: peer
+submissionType: url
 ```
 
 `function_print_lines` naam ka ek function likho jo 2 strings leta ho, aur unko neeche diye hue dhang se print karta ho.

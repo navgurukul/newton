@@ -1,7 +1,7 @@
 ```ngMeta
 name: Pass by Reference and Functions
 completionMethod: peer
-submission Type: url
+submissionType: url
 ```
 
 Iss program ko run karo aur dekho ki num_list aur num_list_20 ki value same aa rahi. Iss code ko ais chane karo jisse hume num_list ki intial value bhi mil jaye.
