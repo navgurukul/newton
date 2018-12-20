@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 7
 completionMethod: peer
+submissionType: url
 ```
 
 Socho aapke paas 2 lists hain. Aapne aisa code likhna hain jisse ek nayi list banne jisme inn dono lists ke woh item hone chaiye ho dono list mein aa rahe hain. Socho aapki do list yeh hain:

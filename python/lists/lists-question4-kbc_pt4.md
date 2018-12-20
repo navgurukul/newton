@@ -1,6 +1,7 @@
 ```ngMeta
 name: KBC Part 3
 completionMethod: peer
+submissionType: url
 ```
 
 **Iss exercise ko karne ke liye aapko apni `KBC Part 3` waali file ki copy bana ke edit karni padegi.**
@@ -23,7 +24,7 @@ What is the capital of India?
 
 Dhyan se dekho ki har ek option ke pehle serial number print ho raha hai.
 
-## Part 2	
+## Part 2
 Pichle part mein aapne user se answer ka input toh le liya tha lekin ab check bhi karna hai ki user ne sahi answer daala hai ya nahi. `ans_key` waali list ka use kar ke check karo aur agar sahi hai toh print karo `"Congrats! Aapka answer sahi hai"` nahi toh print karo `Sadly aapka javab galat hai.`
 
 
