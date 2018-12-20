@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 1
 completionMethod: peer
+submissionType: url
 ```
 
 Code likho jo iss list mein se maximum dhund kar ke print kare.
