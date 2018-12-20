@@ -1,6 +1,7 @@
 ```ngMeta
 name: Variable Naming Rules
 completionMethod: peer
+submissionType: url
 ```
 
 # VARIABLE ko naam dene ke rules

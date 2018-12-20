@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 1
 completionMethod: peer
+submissionType: url
 ```
 
 Code likho jo di gayi list mein jo number 20 se bade hai aur 40 se chote hai unhe count kare. Aur firr unka count print kare.
