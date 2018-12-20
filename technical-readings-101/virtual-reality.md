@@ -12,7 +12,7 @@ The development of an imagined environment for a game or interactive story.
 Explore more about Virtual Reality by reading these articles.
 * In simple English : [Choose me](https://kids.kiddle.co/Virtual_reality)
 * In medium English : [Click me](https://en.wikipedia.org/wiki/Virtual_reality)
-* In advance English :[click here](https://www.wired.com/story/wired-guide-to-virtual-reality/)
+* In advance English : [Click here](https://www.wired.com/story/wired-guide-to-virtual-reality/)
 
 ## Tips 
 If you don't understand any word please google it.
