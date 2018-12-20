@@ -1,6 +1,7 @@
 ```ngMeta
 name: Cipher 2.0
 completionMethod: peer
+submiissionType: url
 ```
 
 Encrypt function ek message input leta hai aur firr uss message ko encrypt karta hai. Encrypt karne ke liye yeh har character ko 3 character aage wale character se change kar deta hai. Aisa karne ke liye yeh har character ki ascii value ko 3 se increase kar deta hai. Jaise:
