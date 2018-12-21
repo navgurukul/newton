@@ -71,7 +71,7 @@ Adding two or more strings together called concatenation. Ex. "Bill" + "Gates. O
 A condition must evaluate to either true or false.
 Usually we use the greater then or less then or equal-equals == (equality test) to generate our boolean values.
 
-### Boolean
+### Boolean 
  The Boolean data type is a data type that has one of two possible values (usually denoted true and false),
  intended to represent the two truth values of logic.Their are only two possible boolean values: true and false . 
  The default value for boolean is true.
