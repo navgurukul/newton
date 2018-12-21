@@ -1,6 +1,7 @@
 ```ngMeta
 name: Files in Python
 completionMethod: manual
+submissionType: url
 ```
 
 # How to Work with Files?
