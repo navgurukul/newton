@@ -1,6 +1,7 @@
 ```ngMeta
 name: Read the JSON
 completionMethod: peer
+submissionType: url
 ```
 
 Iss program ko attempt karne ke liye pehle ek `users.json` naam ki file mein neeche diye hue text ko save karein.

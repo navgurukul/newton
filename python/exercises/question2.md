@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 2
 completionMethod: peer
+submissionType: url
 ```
 
 Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge

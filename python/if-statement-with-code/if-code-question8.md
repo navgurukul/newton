@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 8
 completionMethod: peer
+submissionType: url
 ```
 
 Ek flowchart banao jo user se **ek number input** le aur yeh check kare ki kya number **5 aur 15** dono se **divisible** hai?

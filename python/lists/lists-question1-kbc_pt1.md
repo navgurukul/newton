@@ -1,6 +1,7 @@
 ```ngMeta
 name: KBC Part 1
 completionMethod: peer
+submissionType: url
 ```
 
 
@@ -30,7 +31,7 @@ Jaise maan lo 2 questions aur unki options hain hain:
 1. Which country is Delhi located in?
 	* India
 	* USA
-	* France	
+	* France
 	* Czech Republic
 2. What is the capital of India?
 	* Chandigarh
@@ -48,7 +49,7 @@ Aur aise hi dusri lists ki values. 5 questions ke liye har list mein 5 values ho
 Ek LIST banao jiska naam ho `all_options` jiske ITEMS `first_options`, `second_options`, v aur `fourth_options` wali list ho. Iss list mein dusri lists hongi.
 
 ## Part 4
- 
+
 Ek LIST banao jiske ITEMS answer key hogi, iss list ka naam `ans_key` hona chaiye. Jaise agar pehle question ka answer pehla option hai toh list ans_key mein 0 daalo aur doosra option hai toh answer key mein 1 daalo.
 
 Example humare example mein pehle question ka sahi javab pehla option hai aur doosre question ka sahi javab teesra option hai. Isliye humari ans_key waali list aisi dikhegi:
@@ -56,4 +57,3 @@ Example humare example mein pehle question ka sahi javab pehla option hai aur do
 ```python
 ans_key = [0, 2]
 ```
-
