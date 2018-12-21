@@ -1,6 +1,7 @@
 ```ngMeta
 name: KBC Final Parts
 completionMethod: peer
+submissionType: url
 ```
 
 **Iss exercise ko karne ke liye aapko apni `KBC Part 4` waali file ki copy bana ke edit karni padegi.**
@@ -44,6 +45,6 @@ Ab aapne code ko is tareeke si update karna hai ki 5th, 10th aur 15th question k
 
 
 ## Part 3
-Abhi user galat javab deta hai toh game chalti rehti hai. Lekin humein aisa nahi chaiye. Jaise hi user galat javab de toh game khatam ho jaani chaiye. Yeh karne ke liye `break` statement ke baare mein padho aur jaise hi user galat javab do toh `Aap KBC haar chuke hain` print ho jana chaiye. 
+Abhi user galat javab deta hai toh game chalti rehti hai. Lekin humein aisa nahi chaiye. Jaise hi user galat javab de toh game khatam ho jaani chaiye. Yeh karne ke liye `break` statement ke baare mein padho aur jaise hi user galat javab do toh `Aap KBC haar chuke hain` print ho jana chaiye.
 
 Saath saath yeh bhi print hona chaiye ki user ne kitne paise kama liye.

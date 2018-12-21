@@ -1,6 +1,7 @@
 ```ngMeta
 name: raw_input Question 1
 completionMethod: peer
+submissionType: url
 ```
 **Aapne iska code ek python file (`.py` extension ke saath) save kar ke submit karna.**
 
@@ -17,6 +18,6 @@ Yeh question different parts mein divided hai. Saare code ko ek hi python file m
 
 
 # Part 3
-`var1` aur `var2` ko jod kar print kijiye. 
+`var1` aur `var2` ko jod kar print kijiye.
 
 *Jaise agar `var1` mein `"Nav"` string hai aur `var_2` mein `Gurukul` string hai, toh `NavGurukul` print hona chaiye.*

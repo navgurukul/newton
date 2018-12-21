@@ -1,6 +1,7 @@
 ```ngMeta
 name: If Statement Question 1
 completionMethod: peer
+submissionType: url
 ```
 
 **Agle kuch questions mein aapne neeche diye gaye flowchart ko question ke hisaab se complete karna hai. Flowcharts ke colors pe dhyaan dene ki zaroorat nahi hai.**
