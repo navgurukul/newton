@@ -29,9 +29,9 @@ Front-end web development is the practice of converting data to graphical interf
 ### Back-end
 Back end Development refers to the server side of development where you are primarily focused on how the site works. Making updates and changes in addition to monitoring functionality of the site will be you're primary responsibility.
 ### Icon
- Icon is a small visual display of an application which can be activated by clicking on it.
- ### Internet
- Internet is a network that accommodates several computers to facilitate exchange and transfer of data.
+Icon is a small visual display of an application which can be activated by clicking on it.
+### Internet
+Internet is a network that accommodates several computers to facilitate exchange and transfer of data.
 ### Memory
 Memory is the internal storage location where data and information is stored on a computer.
 ### Network
