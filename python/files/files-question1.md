@@ -1,6 +1,8 @@
 ```ngMeta
 name: Question 1
 completionMethod: peer
+submissionType: url
+
 ```
 
 Iss text ko `people1-exercise.txt` ke naam ki file mein save karo.

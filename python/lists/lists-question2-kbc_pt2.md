@@ -1,6 +1,7 @@
 ```ngMeta
 name: KBC Part 2
 completionMethod: peer
+submissionType: url
 ```
 
 **Iss exercise ko karne ke liye aapko apni `KBC Part 1` waali file ki copy bana ke edit karni padegi.**
@@ -15,7 +16,7 @@ Yeh questions alag alag parts mein divided hai. Saare parts ko ek hi file mein c
 *Hint: Yaad karo aapne indexes ke baare mein kya pada tha.*
 
 # Part 2
-`first_options`, `second_options`, `third_options`, `fourth_options` ka use kar pehle question ki chaaron options ko print karo.	
+`first_options`, `second_options`, `third_options`, `fourth_options` ka use kar pehle question ki chaaron options ko print karo.
 
 # Part 3
 Ab `all_options` waali lsit ka use kar ke third question ki saari options ka print karo.
@@ -36,4 +37,4 @@ Ab `all_options` waali lsit ka use kar ke third question ki saari options ka pri
 Check karo ki kya `option2` variable ki value `third_options` waali list mein hai ya nahi.
 
 
-Har ek part ka code likh ke aur comments daal ke submit karo :) 
+Har ek part ka code likh ke aur comments daal ke submit karo :)

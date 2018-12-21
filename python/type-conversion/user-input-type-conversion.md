@@ -1,6 +1,7 @@
 ```ngMeta
 name: type conversion
 completionMethod: peer
+submissionType: url
 ```
 
 # Introduction
@@ -28,9 +29,9 @@ number1 = raw_input("Ek number daalo ")
 ```
 
 Yahan dekho ki raw_input ke brackets ke andar humne ek string daala hai. Iss string ki value "Ek number daalo" hai. Hum inn brackets ke andar jo bhi string daalte hain, woh string python use se input maangne se pehle print kar deti hai. Isse user ko kuch hint mil jata hai ki kya input karna hai. Jaise upar wale example mein, python input maangne se pehle `"Ek number daalo"` print kar dega. Aur jab user number (input) daal ke `Enter`
-press karega, toh `number1` variable mein woh value chali jayegi. 
+press karega, toh `number1` variable mein woh value chali jayegi.
 
-Python shell mein `print number1` karenge toh humne jo bhi value daali hai, woh print ho jayegi. 
+Python shell mein `print number1` karenge toh humne jo bhi value daali hai, woh print ho jayegi.
 
 # User Input ka Type Conversion
 
@@ -38,7 +39,7 @@ Hum jab bhi `raw_input` se kisi variable mein user input lete hain woh string. T
 
 ```python
 number2 = raw_input("Ek number daalo ")
-```	
+```
 
 Yahan `number2` ka data type string hoga. Jab bhi hum kisi variable ki value `raw_input` se input lete hain toh woh value string ki roop mein hoti hai. Agar user ne number bhi input dala hai toh, woh string ke roop mein hoga.
 
@@ -55,7 +56,7 @@ print type(number3)
 
 ## Ek Aur Type Conversion aur `raw_input` ka Example
 
-Neeche ek final example hai inn sab cheezon ko ache se samajhne ke liye. Yeh example do numbers ko input ko leke unko multiple kar ke print karta hai. 
+Neeche ek final example hai inn sab cheezon ko ache se samajhne ke liye. Yeh example do numbers ko input ko leke unko multiple kar ke print karta hai.
 
 ```python
 number_x = raw_input("Pehla number daaliye ")
