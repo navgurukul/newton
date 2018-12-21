@@ -1,8 +1,3 @@
-```ngMeta
-name: iPython
-completionMethod: manual
-```
-
 # Ab hum iPython ke bare me sikhenge
 
 <!-- Yahan ipython kya ha aur kyu ushe ishtamal karte hai -->
