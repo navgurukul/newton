@@ -1,2 +1,2 @@
-- howtouse.md
+- how-to-use.md
 - list.md
