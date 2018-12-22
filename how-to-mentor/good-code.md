@@ -22,3 +22,4 @@ Agar aapko code chalane mei bahut saari attempts karni pad rahi hai, iska matlab
 Apne code ko acche se document karna bahut jaroori hai. Agar aapka code properly documented nahi hai toh, isse aapko kaafi problems aayengi. Interviews ke time par bhi yeh ek bahut important habit hai. Mentors should reject code which isn't properly documented.
 
 ### DRY - Don't Repeat Yourself
+Jo bhi aap code likh rahe hai, woh repeat nahi karna chahiye.

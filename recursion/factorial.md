@@ -1,3 +1,6 @@
+```ngMeta
+submissionType: url
+```
 ## Factorial
 Factorial ek maths ka function hota hai, jiska kaafi jagah use hota hai, specially probability yaani chance calculate karne ke liye.
 
@@ -12,9 +15,9 @@ Kisi bhi number ka factorial 1 se le kar uss number tak ke beech ke saare number
 
 ## Hint
 - Agar aapko `7!` factorial nikalna hai, aur aapke paas `6!` factorial given hai, toh aap kaise nikaloge? Agar aap yeh sahi se soch paa rahe hai, phir program likhna asaan ho jayega.
-  
+
 - Base case kya hoga?
-  
+
 ## Solution
 ```python
 def factorial(number):

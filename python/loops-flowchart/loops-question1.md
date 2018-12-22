@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 1
 completionMethod: peer
+submissionType: url
 ```
 
 **Aane waali questions mein aapne draw.io ka use kar ke flowcharts banane hain aur fin unn flowcharts ko submit karna hai.**

@@ -1,8 +1,11 @@
+```ngMeta
+submissionType: url
+```
 ## Using Grammar to create Nested Lists
 
 **Yeh thoda advanced concept hai. Iss par aap 4-5 ghante lagane ke baad bhi nahi samajh paa rahe, toh aap isse skip kar kar aage badh sakte hai**
 
-Jaise English mei `Grammar` hoti hai, aise hi hamare code ki bhi grammar hoti hai. Issi grammar ko use kar kar `compiler` samajhta hai, hamare code ka kya matlab hai, aur woh matlab samajh kar, machine yaai computer samjhata hai. Jis `language` mei `compiler` `machine` ko woh code samjhata hai, usse `machine code` kehte hai. 
+Jaise English mei `Grammar` hoti hai, aise hi hamare code ki bhi grammar hoti hai. Issi grammar ko use kar kar `compiler` samajhta hai, hamare code ka kya matlab hai, aur woh matlab samajh kar, machine yaai computer samjhata hai. Jis `language` mei `compiler` `machine` ko woh code samjhata hai, usse `machine code` kehte hai.
 
 Nested Lists ko grammar ko tarah se samajhte hai.
 
@@ -11,7 +14,7 @@ Nested Lists ko grammar ko tarah se samajhte hai.
 3. NESTED_LIST = [ INTEGER, NESTED_LIST ]
 4. NESTED_LIST = NESTED_LIST + NESTED_LIST
 
-Dariye mat, yeh bahut simple se rules hai. Yeh rules kehte hai ki, right side mei jo bhi `grammar rules` diye gaye hai woh rules ko use kar kar aap ek nayi `nested list` bana sakte hai. 
+Dariye mat, yeh bahut simple se rules hai. Yeh rules kehte hai ki, right side mei jo bhi `grammar rules` diye gaye hai woh rules ko use kar kar aap ek nayi `nested list` bana sakte hai.
 
 Jaise,
 
@@ -52,13 +55,13 @@ def generateRandomNestedList():
     random_rule = random.randrange(4)
     if random_rule == 0:
         return [generateRandomNumber()]
-    
+
     elif random_rule == 1:
         return [generateRandomNestedList(), generateRandomNumber()]
-    
+
     elif random_rule == 2:
         return [generateRandomNumber(), generateRandomNestedList()]
-    
+
     elif random_rule == 3:
         return generateRandomNestedList() + generateRandomNestedList()
 
@@ -69,6 +72,6 @@ print generateRandomNestedList()
 Agar aap ko thoda aur samajhna ka mann hai, toh aap nested_list of INTEGER and STRINGS mix ke rules likh kar, usko generate karne ka cocde likh sakte hai.
 
 ## Bahut Aage
-Agar aapko yeh exercise interesting lagi, aur aap yeh samajh paa rahe hai, toh aap Shakuntala Devi ka code samajh sakte hai. Woh issi logic ko use kar kar likha gaya hai. 
+Agar aapko yeh exercise interesting lagi, aur aap yeh samajh paa rahe hai, toh aap Shakuntala Devi ka code samajh sakte hai. Woh issi logic ko use kar kar likha gaya hai.
 
 Code [yaha](https://github.com/navgurukul/shakuntala-devi) par available hai.

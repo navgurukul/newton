@@ -23,15 +23,15 @@ completionMethod: manual
 - html
 - css
 - flipkart
-- startup
+- ~~startup~~
 - ~~algorithm~~
 - ~~flowchart~~
 - ~~cloud~~
 - data kya hota hai
-- virus kya hota hai
+- ~~virus kya hota hai~~
 - ~~anti virus~~
 - ~~ms office~~
-- ppt
+- ~~ppt~~
 - google doc / google drive / excel sheet
 - apple
 - browser

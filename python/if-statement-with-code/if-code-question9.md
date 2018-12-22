@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 9
 completionMethod: peer
+submissionType: url
 ```
 
 Socho aap ek planet par ho jahan yeh rules hain
