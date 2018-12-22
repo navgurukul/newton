@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 10
 completionMethod: peer
+submissionType: url
 ```
 
 Python mein hum ek loop ke andar loop bhi chala sakte hain Sochiye humare paas ek list hai jisme aur list hain jinme integers hain. Kuch aise:
@@ -23,7 +24,7 @@ while counter1 < len(big_list):
     counter1 = counter1 + 1
     print '-----'
 ```
- 
+
 Iski output kuch aisi aayegi:
 
 ```
@@ -61,7 +62,7 @@ marks = [[45, 21, 42, 63], [12, 42, 42, 53], [42, 90, 78, 13], [94, 89, 78, 76],
 
 Yeh ek list mein andar aur lists hain. Andar waali list mein har bache ke saare subjects mein marks hain. Ek `max_marks` naam ka function banao jo ki ek aisi list le aur har students ke maximum marks print kare.
 
-Jaise agar main aapke `max_marks` function ko upar waali list ke saath call karunga , 
+Jaise agar main aapke `max_marks` function ko upar waali list ke saath call karunga ,
 
 ```python
 max_marks(marks)

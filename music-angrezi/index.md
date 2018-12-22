@@ -1,4 +1,5 @@
 - introduction.md
+- avril-lavigne.md
 - taylor-swift.md
 - adele.md
 - britney-spears.md

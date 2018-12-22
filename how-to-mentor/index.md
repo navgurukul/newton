@@ -2,6 +2,9 @@
 - charter-and-responsibilities.md
 - interview-kaise-lena-hai.md
 - academic-circle.md
+- daily-standup.md
 - energizers.md
 - art-of-giving-feedback.md
 - good-code.md
+- english-activities.md
+- feedback-for-curriculum.md
