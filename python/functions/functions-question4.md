@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 4
 completionMethod: peer
+submissionType: url
 ```
 
 Yeh question 2 parts mein hai. Dono parts ka code same file mein likh ke submit karein.

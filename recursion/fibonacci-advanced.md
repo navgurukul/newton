@@ -1,3 +1,6 @@
+```ngMeta
+submissionType: url
+```
 Iss program mei hum ek aisa function banayenge jo fibonacci numbers ki list generate karta ho. Ek bahut asaan tareeka yeh hai ki, jo function humne pehle fibonacci numbers solve karne ke liye banaya tha, hum usi function ko use kar le.
 
 Yeh wala program bahut mushkil nahi hai - agar aap dhyaan se notebook par sochoge.
@@ -31,7 +34,7 @@ Iss code ka dry run kar kar ya terminal par run kar kar dekhiye, kaise `getFibLi
 - Yeh single recursion se ho jayega - iska matlab aap koi bhi fibonacci list sirf peechli wali fibonacci list ko use kar kar hi nikal sakte ho
 
 - Ab aapka base case, ek list return karega
-  
+
 - Kyuki aapka function ab ek list return kar raha hai, toh aapko yeh sochna padega ki aapki list mei kya function use karenge recursion karne ke liye.
 
 ## Solution
@@ -39,7 +42,7 @@ Iss code ka dry run kar kar ya terminal par run kar kar dekhiye, kaise `getFibLi
 def getFibList(number):
     if number == 1:
         return [1]
-        
+
     elif number == 2:
         return [1, 1]
 
