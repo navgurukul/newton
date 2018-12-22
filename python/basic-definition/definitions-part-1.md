@@ -53,5 +53,5 @@ Source code is the set of instructions and statements written by a programmer us
 ### Libaray
 There are inbuilt functions which are grouped together and placed in a common place called library. Each library performs specific operation. We can make use of these library to get the pre-defined block of codes instead of writing our own code to get those outputs by importing it in our program. Ex. Math, Random, etc.
 ### Directory
-The files and folders on a Linux system are arranged in what way is called a hierarchical directory structure. This means that they are organie in an areas on a hard disk in which files can be stored and organized.
+The files and folders on Linux system are arranged in what way is called a hierarchical directory structure. This means that they are organie in an areas on a hard disk in which files can be stored and organized.
  
