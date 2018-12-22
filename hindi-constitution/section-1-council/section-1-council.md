@@ -9,7 +9,7 @@ Council ko Navgurukul campus ke **members** dwara elect kiya jayega aur wo campu
 Council sabhi ki **learning** ensure karte hue day-to day operations ko **smoothly manage** karegi. 
 Council ke members ke beech kaam bantne ke liye is council me 7 members shaamil honge:
 
- - Campus Affairs: Food and Kitchen Coordinator
+ - Food and Kitchen Coordinator
  - Information Technology Coordinator
  - Treasurer
  - Outreach and Communication Coordinator
