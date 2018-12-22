@@ -7,17 +7,17 @@ completionMethod: manual
 
 Council ko Navgurukul campus ke **members** dwara elect kiya jayega aur wo campus ko represent karne ke liye responsible honge. 
 Council sabhi ki **learning** ensure karte hue day-to day operations ko **smoothly manage** karegi. 
-Council ke members ke beech kaam bantne ke liye is council me 6 members shaamil honge:
+Council ke members ke beech kaam bantne ke liye is council me 7 members shaamil honge:
 
- - Campus Affairs: Food and hygiene Coordinator
+ - Food and Kitchen Coordinator
  - Information Technology Coordinator
  - Treasurer
- - Outreach and communication Coordinator
- - Training and Placement
+ - Outreach and Communication Coordinator
+ - Training and Placement Coordinator
  - Facility and Maintenance Coordinator
- - Prosperity officer
+ - Prosperity Officer
 
-Council ke members me se ek member ko **General Secretory** appoint kiya jayega. 
+Council ke members ke alawa general body se ek member ko **General Secretory** appoint kiya jayega. 
 
 Har **3 months** baad, council ke members ke appointment ke liye elections conduct kiye jayenge. 
 

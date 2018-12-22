@@ -1,6 +1,7 @@
 ```ngMeta
 name: Return Values
 completionMethod: manual
+submissionType: url
 ```
 
 # How to return a value from a function?

@@ -8,3 +8,4 @@ Election NavGurukul ka ek core aur important process hai. Ye bahut zaroori hai k
 
 
 Community ke sabhi members ko ye elections se pehle hi communicate kiya jana ki wo usi nominated member ko vote karein jinhe wo us profile ke liye sabse suited maante hain. Agar elections ke baad, DISCO ya Governor ko kisi bhi tarah se aisa lagta hai ki elections fair nahi hain, to wo election ko disqualify kar sakte hain. Iske baad Re-elections conduct kiye jayenge.
+

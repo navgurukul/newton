@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 10
 completionMethod: peer
+submissionType: url
 ```
 
 Ek flowchart banao jo number ko neeche diye dhang se print kare.

@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 3
 completionMethod: peer
+submissionType: url
 ```
 
 Jaise hum list ki length nikalne ki len ka use karte aa rahe hain, waise hi hum strings ki length nikalne ke liye len ka use kar sakte hain.
@@ -12,7 +13,7 @@ print len(srtring_name)
 
 Yahan print command 9 print karegi kyunki `"Shakrudin"` mein 9 letters ya charecters hai.
 
-``python
+```python
 string_name = "Rishabh Verma"
 print len(string_name)
 ```

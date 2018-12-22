@@ -1,6 +1,7 @@
 ```ngMeta
 name: KBC Part 3
 completionMethod: peer
+submissionType: url
 ```
 
 **Iss exercise ko karne ke liye aapko apni `KBC Part 2` waali file ki copy bana ke edit karni padegi.**
@@ -11,7 +12,7 @@ Yeh questions alag alag parts mein divided hai. Saare parts ko ek hi file mein c
 
 ## Part 1
 
-Apni `questions_list` pe iterate kar ke saare questions aur unki corresponding options print karo. Options print karne ke liye aapko `first_options`, `second_options`, `third_options`, `fourth_options` lists ka use karna padega. 
+Apni `questions_list` pe iterate kar ke saare questions aur unki corresponding options print karo. Options print karne ke liye aapko `first_options`, `second_options`, `third_options`, `fourth_options` lists ka use karna padega.
 
 Example: Maan lo aapka question *What is the capital of India?* hai aur uski options hain, *Delhi*, *Mumbai*, *Jaipur*, *Chandigarh* toh aapko har question ke liye kuch aisa print karna hai:
 
@@ -26,7 +27,7 @@ What is the capital of India?
 
 ## Part 2
 
-Upar `Part 1` waale code ko aise modify karo ki aap har question ke liye `raw_input` use kar ke user se uska answer input lein. User option ka number daalega answer mein. Jaise upar waale question mein `Delhi` sahi javab hai toh user `0` daalega. Agar `Mumbai` hota toh `1` daalta, `Jaipur` hota 
+Upar `Part 1` waale code ko aise modify karo ki aap har question ke liye `raw_input` use kar ke user se uska answer input lein. User option ka number daalega answer mein. Jaise upar waale question mein `Delhi` sahi javab hai toh user `0` daalega. Agar `Mumbai` hota toh `1` daalta, `Jaipur` hota
 
 ## Part 3
 

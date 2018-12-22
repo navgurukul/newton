@@ -28,3 +28,6 @@ Students have to do Tech Samvaad at least four times a week.
 
 ### Toggl
 Students should use Toggl for monitoring their time. Mentors to use this while interviewing students for the weekly progress.
+
+### Daily Standups
+Mentors are advised to do daily Standups with their Mentees for effective goal setting and follow ups.
