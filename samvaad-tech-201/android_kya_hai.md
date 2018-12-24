@@ -26,6 +26,9 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 5. Android is based on which os?
 6. Name some of android application?
 
+### For more information click on `Android` link-
+* [Android](https://www.javatpoint.com/android-what-where-and-why)
+
 Tips: 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue 
       2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
 
