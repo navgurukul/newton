@@ -38,5 +38,6 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 7. If you are working in facebook as a developer what chenges you want to make or what features you want to add?
 8. Suppose you want to make your own app then what features you want in your app?
 
-https://www.lifewire.com/what-is-facebook-3486391
-https://en.wikipedia.org/wiki/Facebook
+*.[You can know more about this topic](https://www.lifewire.com/what-is-facebook-3486391)
+*.[You can know more about this topic](https://en.wikipedia.org/wiki/Facebook)
+
