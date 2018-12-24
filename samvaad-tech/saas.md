@@ -23,6 +23,7 @@ completionMethod: manual
 ## SAAS in E-commerce
 
 @[youtube](b2-5XaByaO4)
+(https://www.infoworld.com/article/3226386/saas/what-is-saas-the-modern-way-to-run-software.html)
 
 ### Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
