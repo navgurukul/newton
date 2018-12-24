@@ -30,3 +30,5 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
 
 [You can know more about this topic on this link](https://en.wikipedia.org/wiki/Internet)
+
+(https://www.britannica.com/technology/Internet)
