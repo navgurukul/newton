@@ -30,6 +30,8 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 
 ## Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+https://www.techopedia.com/definition/2282/server
+https://www.computerhope.com/jargon/s/server.htm
 
 **Tips**:
 1. Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
