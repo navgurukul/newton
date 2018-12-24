@@ -32,6 +32,8 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 8. Upar waale process, mai kya DNS ka use aayega?
 9. Make a list ki aur kya kya naye tech shabdh hai, jinka aapne naam suna.
 
+### For more information click on the link- 
+* .[Networking](https://www.computerhope.com/jargon/n/network.htm)
 
 **Tips**:
 1 - Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
