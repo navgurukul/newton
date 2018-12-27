@@ -1,15 +1,16 @@
 ```ngMeta
 name: Cipher 1.0
 completionMethod: peer
+submissionType: url
 ```
 
 Apne simple se message ko aise change karna jisse koi dusra insaan usse samajh na paye usse encryption bolte hai. Encryption karne ke bhot sare ways hote hai. Hum cipher wheel use karenge. Cipher wheel mei hum her character ko kissi number se aage shift kar dete hai. Jaise:
- 
+
 Hum iss cihper wheel mein her character ki value ko 2 se increase kar denge. Aisa karne ke liye hum chars aur shifted_chars array ka use karenge.
 
 Example:
 
-``` 
+```
 plain_message = "navgurukul"
 iska encrypted text aisa hoga => pcxiwtwmwn
 ```
@@ -21,7 +22,7 @@ shifted_chars = ['c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r'
 
 ```
 chars[13] = 'n'
-shifted_chars[13] = 'p' 
+shifted_chars[13] = 'p'
 isliye navgurukul ka n ==> p mein change ho gaya.
 chars[0] = 'a'
 shifted_chars[0] = 'c'
@@ -70,7 +71,7 @@ def encrypt_message(plain_msg):
             encrypted_msg = encrypted_msg + new_char
         else:
             encrypted_msg = encrypted_msg + character
-            
+
 # decrypt_message function defined here but not called
 def decrypt_message(encrypted_msg):
 # this fucnction takes "encrypted_msg" as an argument and print/return the encrypted message. The "encrypted_msg" is tranfered into "decrypted_msg" using "shifted_chars" list. Example, if encrypted_msg = "pi" then p => n, i => g  and hence decrypted_msg = "ng"

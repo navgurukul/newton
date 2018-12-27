@@ -1,6 +1,7 @@
 ```ngMeta
 name: Integers - Constants
 completionMethod: automatic
+submissionType: url
 ```
 
 ## Question
