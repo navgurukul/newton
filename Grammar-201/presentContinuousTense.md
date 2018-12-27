@@ -20,45 +20,45 @@ completionMethod: manual```
 
 questions
 1. Hurry up! We ……………………….. for you.
-waiting
-are waiting
-wait
+  waiting
+  are waiting
+  wait
 2. ‘What are you ……………………….?' ‘I ………………………. letters.’
-doing, writing
-done, writing
-doing, write
+  doing, writing
+  done, writing
+  doing, write
 3. He …………………………. in Italy at the moment.
-works
-working
-is working
+  works
+  working
+  is working
 4. She doesn’t like to be disturbed when she …………………………..
-works
-working
-is working
+  works
+  working
+  is working
 5. That child ……………………………… bigger everyday.
-gets
-getting
-is getting
+  gets
+  getting
+  is getting
 6. Who is that girl …………………………….. on the table?
-stand
-standing
-is standing
+  stand
+  standing
+  is standing
 7. I …………………………….. for the shops to open.
-wait
-am waiting
-waiting
+  wait  
+  am waiting
+  waiting
 8. I …………………………….. Jane tomorrow.
-see
-am seeing
-seeing
+  see
+  am seeing
+  seeing
 9. The universe ………………………, and has been so since its beginning.
-expands
-is expanding
-expanding
+  expands
+  is expanding
+  expanding
 10. My sister ……………………. at home for the moment.
-lives
-living
-is living
+  lives
+  living
+  is living
 
 
 **question:**
