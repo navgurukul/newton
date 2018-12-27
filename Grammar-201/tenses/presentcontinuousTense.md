@@ -14,11 +14,8 @@ completionMethod: manual```
 
 1.http://www.studyandexam.com/present-continuous-tense.html
 
- **Now you have to disccuss about these topics at least 30min in pairs. **
 
-
-
-questions
+Questions
 1. Hurry up! We ……………………….. for you.
   waiting
   are waiting
@@ -58,16 +55,7 @@ questions
   lives
   living
   is living
-
-
-question:
-1."Ram  is clean the car ". it is convert to present continuous affirmative se?
-
-2."Gita is singing a song".it is convert to nagtive sentence?
-
-3."I am telling a lie". it is convert to intrrogative sentence?
-
-.Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+ 
 
 **Tips**:
 
