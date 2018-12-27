@@ -1,5 +1,5 @@
 - tenses
   - SimplePresent.md
-  - presentContinuousTense.md
+  - presentcontinuousTense.md
 - verbs
   - verbs.md
