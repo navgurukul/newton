@@ -1,3 +1,3 @@
-- tenses.md
+- tenses
 - verbs
   - verbs.md
