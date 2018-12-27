@@ -1,4 +1,4 @@
 - tenses
-  - simplepresent.md
+  - Simple_Present.md
 - verbs
   - verbs.md
