@@ -12,8 +12,4 @@
 - lists.md
 - lists2.md
 - Strings.md
-- for-loop.md
 - functions-dry-run.md
-- python
-    - range.md
-    - range-exercises.md

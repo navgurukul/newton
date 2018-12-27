@@ -1,8 +1,3 @@
-```ngMeta
-name: iPython
-completionMethod: manual
-```
-
 # Ab hum iPython ke bare me sikhenge
 
 <!-- Yahan ipython kya ha aur kyu ushe ishtamal karte hai -->
@@ -16,13 +11,9 @@ iPython ka bi kaam yehi hota hai lekin ussme kuch extra feature hume milte hai j
 
 ### Phele iPython ke sath
 App Terminal pe phele ```ipython``` likhe aur *Enter* dabaye.
-
 Ab app ushme ```cd Downloads``` likhe aur *Enter* dabaye.
-
 Ab app ushme ```ls``` likhe aur *Enter* dabaye.
-
 Apko woh sare *folder aur file* dikh rahe honge joh apne Downloads wale folder me rakhe hai.
-
 Ab iPython ke shell se bahar ane ke liye ```quit``` likhe shell ke andar aur *Enter* dabaye.
 
 

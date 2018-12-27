@@ -1,6 +1,7 @@
 ```ngMeta
 name: Variables Exercise 1
 completionMethod: peer
+submissionType: url
 ```
 
 *Har question ka javab aap ek file upload kar ke kar sakte hain.*

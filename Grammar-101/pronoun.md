@@ -12,6 +12,21 @@ In the first sentence, proper noun 'Rahul' has been repeatedly used, whereas the
 
 **Excercise:**
 
-Replace the word in bracket with suitable pronouns.
+1. Replace the word in bracket with suitable pronouns.
 
 1. (Sonam) is the the new Training and Placement Coordinator.
+2. Khushboo, Pooja and Swati are in the kitchen today. (Khushboo, Pooja and Swati) will make gulab jamun.
+3. NavGurukul boys stay in Dharamsala. NavGurukul boys like to code.
+4. In Indian families, people don't talk about periods. (People) think periods are tabboo.
+5. Mary Kom has won six world championship and (Mary Kom) is the first boxer to have won this.
+6. I want to discuss about the code with Rahul. Please go and call (Rahul).
+
+
+2. Following is the list of most common pronouns. Find their meaning and make 20 sentences using different pronouns. Write your sentences in the comments.
+
+I, you, he, she, it, we, they, me, him, her, us, them, this, that, these, those, who, whom, which, what,myself,yourself, himself, herself, itself
+
+
+Practice the following exercises:
+[Exercise 1](https://www.myenglishpages.com/site_php_files/grammar-exercise-object-pronouns.php)
+[Exercise 2](https://www.myenglishpages.com/site_php_files/grammar-exercise-personal-pronouns.php)
