@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 5
 completionMethod: peer
+submissionType: url
 ```
 
 Ek number ka factorial 1 se leke uss number tak ke saare numbers ko ek saath multiply karke nikalta hai.

@@ -1,6 +1,7 @@
 ```ngMeta
 name: Cipher 2.0
 completionMethod: peer
+submissionType: url
 ```
 
 Encrypt function ek message input leta hai aur firr uss message ko encrypt karta hai. Encrypt karne ke liye yeh har character ko 3 character aage wale character se change kar deta hai. Aisa karne ke liye yeh har character ki ascii value ko 3 se increase kar deta hai. Jaise:
@@ -26,7 +27,7 @@ def encrypt():
   encrypt_message = [ chr(char) for char in ascii_message]  
   print ''.join(encrypt_message)
 
-  
+
 def decrypt():
   message = raw_input("Enter the message you want to decrypt")
   ascii_message = [ord(char) for char in message]
@@ -37,7 +38,7 @@ flag = True
 while flag == False
 choice = raw_input("What do you want to do? \n1. Encrypt a message 2. Decrypt a message \nEnter E or D respectively!")
 if choice = 'e':
-encrypt() 
+encrypt()
 els choice = 'd':
   decrypt()    
 else
