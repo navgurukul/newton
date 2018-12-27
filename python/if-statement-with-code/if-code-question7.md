@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 7
 completionMethod: peer
+submissionType: url
 ```
 
 Ek flowchart banao jo user se **2 numbers input** le. Aur dono mein se bade number ko **print** kare. 

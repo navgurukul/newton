@@ -1,6 +1,8 @@
 ```ngMeta
 name: Question 3
 completionMethod: peer
+submissionType: url
+
 ```
 
 Aapke paas ek list hai. Iss list mein har string ko ek `file-question3.txt` naam ki file mein nayi line mein daalo. Aapki list yeh rahi:

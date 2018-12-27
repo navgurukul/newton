@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 3
 completionMethod: peer
+submissionType: url
 ```
 
 Yeh question 2 parts mein hai. Dono parts ka code same file mein likh ke submit karein.
@@ -16,7 +17,7 @@ Dono ka number ka 68 hai.
 ```
 
 ## Part 2
-`add_numbers_list` naam ka function likhiye jo do integers ki 2 lists leta ho aur fir same position wale integers ka sum print karta ho. 
+`add_numbers_list` naam ka function likhiye jo do integers ki 2 lists leta ho aur fir same position wale integers ka sum print karta ho.
 
 Same position waale 2 integers ka sum karne ke liye `add_numbers` waale function ka use karo.
 

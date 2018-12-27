@@ -1,6 +1,7 @@
 ```ngMeta
 name: Question 6
 completionMethod: peer
+submissionType: url
 ```
 
 Neeche diye gaye kaam ke liye ek flowchart banao, aur fir uska code likho.
