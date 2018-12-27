@@ -16,12 +16,15 @@
  of google translator.
  9.Blogger: You can make your blog.
  
+ https://www.digitalunite.com/technology-guides/using-internet/searching-browsing/what-google
 
 ## Aap yeh videos dekhein:
+
 
 @[youtube](Quk88piD8PM)
 
 @[youtube](6kFyvovDNl8)
+
 
 ### Ab aapko 30 mins ke liye aapas mei english mei baat karni hai.
 
