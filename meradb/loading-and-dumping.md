@@ -7,6 +7,8 @@ Aise hi, dump karna json.dumps ke barabar hoga.
 Iske liye hum python ki [json](https://docs.python.org/2/library/json.html) library use karenge.
 
 ## Solution
+Iss solution ko implement karne ke liye, maine classes use ki hai. Aap kisi aur tarah se bhi yeh kar sakte hai. Classes ke introduction ke liye, aap yeh [padhein](https://www.w3schools.com/python/python_classes.asp).
+
 ```python
 import json
 

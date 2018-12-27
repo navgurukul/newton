@@ -2,7 +2,7 @@
 
 Iss exercise mei humei ek bahut sa simple sa database banana hai.
 
-Yeh (padhein](https://pythonhosted.org/pickleDB/). Aise databases ko key-value store ya key-value database bolte hai. Kyuki - yeh database aapko kisi bhi key ke liye uske corresponding values return karte hai.
+Yeh [padhein](https://pythonhosted.org/pickleDB/). Aise databases ko key-value store ya key-value database bolte hai. Kyuki - yeh database aapko kisi bhi key ke liye uske corresponding values return karte hai.
 
 ```bash
 >>> import pickledb 
