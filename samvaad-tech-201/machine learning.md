@@ -50,5 +50,6 @@ Whiile doing discussion think about the  following points:
 3.Can you think about some more examples of Machine Learning?
 
 4.How does Machine Learning "works"?
-
+### For more information click on the link-
+* .[machine learning](https://www.quora.com/What-is-machine-learning-4)
 
