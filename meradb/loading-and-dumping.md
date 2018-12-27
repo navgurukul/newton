@@ -1,8 +1,10 @@
 # Loading and Dumping Database
 
-Agar dekha jaye, toh yeh database ek simple json file hi hai. Database load karna - simply - uss file ko json mei padh kar ek json object mei load karna ke barabar hoga.
+Agar dekha jaye, toh yeh database ek simple json file hi hai.
 
-Aise hi, dump karna json.dumps ke barabar hoga. 
+Database load karna - simply - uss file ko json mei padh kar ek json object mei load karna ke barabar hoga.
+
+Aise hi, dump karna uss file ko json.dumps use kar kar, uss file mei dump karne ke barabar hoga. 
 
 Iske liye hum python ki [json](https://docs.python.org/2/library/json.html) library use karenge.
 
@@ -43,4 +45,3 @@ import meradb
 db = meradb.load()
 db.dump()
 ```
-
