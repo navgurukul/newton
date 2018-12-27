@@ -30,6 +30,9 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 6. Is hacking a legel and is it important? 
 
+### For more information click on the link-
+* .[About hacking](https://www.guru99.com/what-is-hacking-an-introduction.html)
+
 ## Tips:
 1.Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue.
 

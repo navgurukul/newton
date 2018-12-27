@@ -5,6 +5,7 @@ completionMethod: manual
 
 # Aap yeh videos dekhein:
 
+
 ## Introduction of SAAS
 
 1. Eska pura nam `Software as a Service` hai yah ek distribution model hai jo ki internet mai software application(jaise browser) ko ek service ke rup mai customer ko provide karta hai
@@ -22,6 +23,8 @@ completionMethod: manual
 ## SAAS in E-commerce
 
 @[youtube](b2-5XaByaO4)
+(https://www.infoworld.com/article/3226386/saas/what-is-saas-the-modern-way-to-run-software.html)
+(https://www.inboundlogistics.com/cms/article/choosing-enterprise-vs-software-as-a-service-tms/)
 
 ### Ab aapko 30 mins ke liye aapas mei `english` mei inn topics ke baarein mei baat karni hai.
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
