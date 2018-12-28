@@ -14,6 +14,8 @@ completionMethod: Manual```
 
 Aaj hum baat karenge Simple Present Tense ke bare me
 
+* [Exercise 1](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
+
 
 All example
 
