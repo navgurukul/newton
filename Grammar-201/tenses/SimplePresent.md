@@ -16,7 +16,8 @@ Aaj hum baat karenge Simple Present Tense ke bare me
 
 
 All example
-1) Affirmative:
+
+1) Affirmative: Simple sentences hote hain jaise General actions speech ke liye use hote hain
 
 * मैं प्रतिदिन खाना खाता हूँ।				
 I eat food every day.			
@@ -29,7 +30,7 @@ Sonu lives beside tha Ganga river.
 * मेरी माँ रोज मंदिर जाती हैं।
 My mother goes to temple daily.
 
-2) Negative:
+2) Negative: Jis sabdh me nahi lga hota hain wo negative wale hote hain
 
 * तुम सवाल नहीं जानते।
 You do not know tha question.
@@ -42,7 +43,7 @@ Our teacher speaks so quickly that most of students do not understand him.
 * मोहन यह काम नहीं करता।
 Mohan does not do this work.
 
-3)Interrogative:
+3) Interrogative: ka mtlb hota hain prashnavaachak sentence
 
 * क्या तुम उससे प्यार करते हो? नहीं, मुझे सिर्फ उसका स्वभाव पसंद है।
 Do you love her? No, I only like her manners.
