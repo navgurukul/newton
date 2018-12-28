@@ -12,9 +12,11 @@ completionMethod: Manual```
 
 @[youtube](QUGETmMFuGQ)
 
-Aaj hum baat karenge Simple Present Tense ke bare me
+Aaj hum baat karenge Simple Present Tense ke bare me 
+aapko sabse phale ye Exercise dekhna hai aache se 
 
 * [Exercise 1](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
+* [Exercise 1](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
 
 
 All example
@@ -58,17 +60,6 @@ Does the bell ring at 10:33.
 * क्या आपको सर्दी लगती है?
 Do you feel cold?
 
-Exercise for practice :
-1. वह हमेशा सच बोलता है।
-2. हम आपस में कभी नहीं लड़ते।
-3. कोयल अपना घोंसला स्वंय नहीं बनाती।
-4. क्या बतखें बड़े अंडे नहीं देती हैं।
-5. क्या बिल्लियाँ भौंकती हैं?
-6. राम रात के समय पढ़ता है।
-7. वह मुझसे सहमत तो है।
-8. सुशमा रात में आराम नहीं करती।
-9. कई लोग कठिनाईयों से संघर्ष करने का प्रयत्न नहीं करते।
-10. क्या आप मंगलवार को मंदिर में पूजा करते हैं।
 
 
 
