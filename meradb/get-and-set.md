@@ -11,3 +11,6 @@ Set as an argument ek key aur corresponding value lega, aur usko jObject mei daa
 
 ### Testing
 Apne dono functions ko acche se test karo, aur check karo jo values aapne set karne ke baad dump ki hai, woh database mei likhi jaa chuki hai.
+
+### Edge Case
+Jab key exist nahi karti toh aapka program kya return karta hai? Kya aapne code karte hue, iss case ko consider kiya tha?
