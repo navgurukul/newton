@@ -81,7 +81,7 @@ Agar aap dekhenge toh humne jaise pickleDB use kiya jaata hai, ussi ki tarah ki 
 
 Uske baad iss code ko khud likhiye, aur koshish karein ki `ek hi baar` mei chal jayein. Copy and paste kar kar chalane ka fayda nahi hai.
 
-## FAQ
+## FAQs
 Humne teen **`files`** kyu banayi hai?
 - Jo hum database bana rahe hai - uska code ek file mei **`meradb.py`** hai, jisse ki koi bhi usse use kar payein.
 - **`usedb.py`** woh code hai, jo koi bhi user likh sakta hai - hamare database ko use karne ke liye.
