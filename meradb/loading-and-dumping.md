@@ -67,10 +67,20 @@ You can use by writing the following content in your `usedb.py` file.
 
 ```python
 import meradb
-db = meradb.load()
+db = meradb.load("table.db")
 db.dump()
 ```
+
+Ek `table.db` file banao jismei yeh content daalo.
+```json
+{}
+```
+Isse aapka code `table.db` se ek empty database ko load kar payega.
 
 Agar aap dekhenge toh humne jaise pickleDB use kiya jaata hai, ussi ki tarah ki basic implementation kar di hai. Yeh implementation samajhne ke liye aap ko thoda time spend karna chahiye.
 
 Uske baad iss code ko khud likhiye, aur koshish karein ki `ek hi baar` mei chal jayein. Copy and paste kar kar chalane ka fayda nahi hai.
+
+
+## Exercise
+Iss code mei ek error hai. Yeh code nahi chalega agar 
