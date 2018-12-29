@@ -1,5 +1,4 @@
 name: Future Perfect Tense
-completionMethod: manual```
 
 
 **First you have to watch this video**
