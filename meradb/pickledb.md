@@ -5,21 +5,21 @@ Iss exercise mei humei ek bahut sa simple sa database banana hai.
 Yeh [padhein](https://pythonhosted.org/pickleDB/). Aise databases ko key-value store ya key-value database bolte hai. Kyuki - yeh database aapko kisi bhi key ke liye uske corresponding values return karte hai.
 
 ```bash
->>> import pickledb 
+>>> import pickledb
 
->>> db = pickledb.load('example.db', False) 
+>>> db = pickledb.load('example.db', False)
 
->>> db.set('key', 'value') 
-True 
+>>> db.set('key', 'value')
+True
 
->>> db.get('key') 
-'value' 
+>>> db.get('key')
+'value'
 
->>> db.dump() 
+>>> db.dump()
 True
 ```
 
-Uss link par aapne yeh code padha hoga. Humein - sabse pehle yeh chaar commands implement karni hai - `load`, `set`, `get` and `dump`. Sabse pehle aap 
+Uss link par aapne yeh code padha hoga. Humein - sabse pehle yeh chaar commands implement karni hai - `load`, `set`, `get` and `dump`. Sabse pehle aap -
 
 ```bash
 # For Python 2.7
