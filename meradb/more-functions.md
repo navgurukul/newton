@@ -13,3 +13,10 @@ Ek `exist` naam ka function banao, jo `key` argument leta hai aur `True` ya `Fal
 # TOTALKEYS -> `total_keys`
 **Get the total number of keys in whole database**
 Total Number of Keys return kar do.
+
+# DELDB -> `del_db`
+**Remove all the keys and values from the database**
+
+# RANDOMINSERT -> `random_insert (number)`
+**Insert `number` random - keys and values**
+Jo argument diya gaya hai, utni random entries add kar do apne database mei.
