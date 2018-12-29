@@ -22,8 +22,13 @@ True
 Uss link par aapne yeh code padha hoga. Humein - sabse pehle yeh chaar commands implement karni hai - `load`, `set`, `get` and `dump`. Sabse pehle aap 
 
 ```bash
-sudo apt install python-pip # or python3-pip if you use python3
+# For Python 2.7
+sudo apt install python-pip
 pip install pickledb
+
+# For Python 3.0+
+sudo apt install python3-pip
+pip3 install pickledb
 ```
 
 `pickledb` khel kar, usmei kuch values insert karo, kuch values read karo, database dump kar kar file ke content dekho, etc. Aap ne kya kya commands try ki, neeche comment box mei likhiye.
