@@ -83,4 +83,14 @@ Uske baad iss code ko khud likhiye, aur koshish karein ki `ek hi baar` mei chal 
 
 
 ## Exercise
-Iss code mei ek error hai. Yeh code nahi chalega agar 
+### Edge Case 1
+Agar `table.db` ek empty file hogi, toh code mei kya error aayegi? Aap kaise code ko modify kar sakte hai, jisse ki ek empty file hone se bhi database load ho jaye aur error throw na ho.
+
+Kya aap code ko padh kar samajh gaye the ki - yeh case sahi se handled nahi hai?
+
+### Edge Case 2
+Agar `table.db` file exist nahi karegi, toh code kya error throw karega? (Koshish kara karein, ki bina run guess kar payein, aise questions ka answer. Phir chala kar apna answer verify aur discuss karein. Aise hi aap acche se programming mei apna confidence build kar payenge.)
+
+Kya yeh error throw ki jaani chahiye?
+
+Agar aap chahe ki yeh error na throw ho toh - toh aap kya modifications kar sakte hai jisse ki agar file na bhi exist karein toh bhi aapka code sahi chalein? 
