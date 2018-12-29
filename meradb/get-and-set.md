@@ -1,4 +1,3 @@
-
 ## Get and Set
 
 Ab aapko jo code humne peechle part mei samjha tha, usko modify karna hai. Usmei aap ko `get` and `set` naam ka function define karna hai class mei.
