@@ -2,3 +2,4 @@
 - pickledb.md
 - loading-and-dumping.md
 - get-and-set.md
+- auto-dump.md
