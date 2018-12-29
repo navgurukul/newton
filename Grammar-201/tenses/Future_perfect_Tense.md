@@ -68,7 +68,7 @@ Example:- Tamara will have completed her Bachelor’s Degree by June. (complete)
 
 9. By the time we get on the plane, they ____already _____ the luggage. (load)
 
-10.By 2025, I hope researchers ______ a cure for cancer. (find)
+10. By 2025, I hope researchers ______ a cure for cancer. (find)
 
 
 
