@@ -93,4 +93,6 @@ Agar `table.db` file exist nahi karegi, toh code kya error throw karega? (Koshis
 
 Kya yeh error throw ki jaani chahiye?
 
-Agar aap chahe ki yeh error na throw ho toh - toh aap kya modifications kar sakte hai jisse ki agar file na bhi exist karein toh bhi aapka code sahi chalein? 
+Agar aap chahe ki yeh error na throw ho toh - toh aap kya modifications kar sakte hai jisse ki agar file na bhi exist karein toh bhi aapka code sahi chalein aur koi error throw na karein?
+
+Kya aap yeh edge case soch payei the?
