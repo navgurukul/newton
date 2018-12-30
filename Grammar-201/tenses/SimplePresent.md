@@ -13,7 +13,7 @@ completionMethod: Manual```
 @[youtube](QUGETmMFuGQ)
 
 Aaj hum baat karenge Simple Present Tense ke bare me 
-Tense ke bare me padhne ke liye sabse phale aapko iss Tutorial padhna hoga.
+Tense ke bare me padhne ke liye sabse phale aapko iss Tutorial ko padhna hoga.
 
 * [Tutorial](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
 * [Tutorial](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
@@ -60,6 +60,42 @@ Does the bell ring at 10:33.
 * क्या आपको सर्दी लगती है?
 Do you feel cold?
 
+* practice questions
 
+मैं एक आम खाता हूँ।
 
+वह पाठ याद करता है।
 
+धोबी कपड़े इस्त्री करता है। 
+ 
+विद्यार्थी शोर मचाते हैं
+ 
+मोहन  क्रिकेट खेलता है। 
+
+वह मंदिर जाता है।	
+
+वो मंदिर नहीं जाती है।
+
+राम प्रतिदिन पूजा करता है।
+
+सीता  पूजा नहीं करती है।
+
+* Answers
+
+I eat a mango. 
+
+He learns the lesson.
+ 
+Dhobi irons clothes.
+
+ Students make noise.
+
+Mohan plays cricket?
+	
+He goes to temple.
+
+She does not go to temple.
+
+Ram prays every day.
+
+Seeta does not pray.
