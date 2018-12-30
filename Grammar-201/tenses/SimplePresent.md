@@ -80,6 +80,14 @@ Do you feel cold?
 
 सीता  पूजा नहीं करती है।
 
+मैं बाजार जाता हूँ।
+
+तुम क्रिकेट खेलते हो।
+
+वह स्कूल जाता है।
+
+सूर्य पूर्व में उगता है।
+
 * Answers
 
 I eat a mango. 
@@ -99,3 +107,12 @@ She does not go to temple.
 Ram prays every day.
 
 Seeta does not pray.
+
+I go to market.
+
+He goes to school.
+
+You play cricket
+
+The sun rises in the east.
+
