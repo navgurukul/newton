@@ -91,7 +91,7 @@ Do you feel cold?
 ---
 
 #### Answers
-
+(Exercises ko khud solve karne ke baad hi answers dekhein, nahi toh aapki learning nahi hogi.)
 1) I eat a mango. 
 
 2) He learns the lesson.
