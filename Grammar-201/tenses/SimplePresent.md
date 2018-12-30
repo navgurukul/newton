@@ -13,10 +13,10 @@ completionMethod: Manual```
 @[youtube](QUGETmMFuGQ)
 
 Aaj hum baat karenge Simple Present Tense ke bare me 
-aapko sabse phale ye Exercise dekhna hai aache se 
+Tense ke bare me padhne ke liye sabse phale aapko iss Tutorial padhna hoga.
 
-* [Exercise 1](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
-* [Exercise 1](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
+* [Tutorial](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
+* [Tutorial](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
 
 
 All example
@@ -34,7 +34,7 @@ Sonu lives beside tha Ganga river.
 * मेरी माँ रोज मंदिर जाती हैं।
 My mother goes to temple daily.
 
-2) Negative: Jis sabdh me nahi lga hota hain wo negative wale hote hain
+2) Negative: Jis sentence me "nahi" laga hota hain wo negative wale hote hain
 
 * तुम सवाल नहीं जानते।
 You do not know tha question.
