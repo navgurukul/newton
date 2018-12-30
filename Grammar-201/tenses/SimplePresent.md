@@ -60,7 +60,7 @@ Does the bell ring at 10:33.
 * क्या आपको सर्दी लगती है?
 Do you feel cold?
 
-* practice questions
+### Practice questions
 
 1) मैं एक आम खाता हूँ।
 
@@ -88,7 +88,9 @@ Do you feel cold?
 
 13) सूर्य पूर्व में उगता है।
 
-* Answers
+---
+
+#### Answers
 
 1) I eat a mango. 
 
