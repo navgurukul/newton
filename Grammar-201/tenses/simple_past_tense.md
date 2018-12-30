@@ -48,7 +48,7 @@ Fill in the verbs in parentheses in simple past tense.
 
 20)We ....... at Ajunta caves.(reach)
 
-Yuo chak your answer
+You chak your answer
 
 1)I .met.... swati.
 
