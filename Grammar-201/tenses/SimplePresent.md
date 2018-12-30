@@ -62,57 +62,57 @@ Do you feel cold?
 
 * practice questions
 
-मैं एक आम खाता हूँ।
+1) मैं एक आम खाता हूँ।
 
-वह पाठ याद करता है।
+2) वह पाठ याद करता है।
 
-धोबी कपड़े इस्त्री करता है। 
+3) धबी कपड़े इस्त्री करता है। 
  
-विद्यार्थी शोर मचाते हैं
+4) विद्यार्थी शोर मचाते हैं
  
-मोहन  क्रिकेट खेलता है। 
+5) मोहन  क्रिकेट खेलता है। 
 
-वह मंदिर जाता है।	
+6) वह मंदिर जाता है।	
 
-वो मंदिर नहीं जाती है।
+7) वो मंदिर नहीं जाती है।
 
-राम प्रतिदिन पूजा करता है।
+8) राम प्रतिदिन पूजा करता है।
 
-सीता  पूजा नहीं करती है।
+9) सीता  पूजा नहीं करती है।
 
-मैं बाजार जाता हूँ।
+10) मैं बाजार जाता हूँ।
 
-तुम क्रिकेट खेलते हो।
+11) तुम क्रिकेट खेलते हो।
 
-वह स्कूल जाता है।
+12) वह स्कूल जाता है।
 
-सूर्य पूर्व में उगता है।
+13) सूर्य पूर्व में उगता है।
 
 * Answers
 
-I eat a mango. 
+1) I eat a mango. 
 
-He learns the lesson.
+2) He learns the lesson.
  
-Dhobi irons clothes.
+3) Dhobi irons clothes.
 
- Students make noise.
+4) Students make noise.
 
-Mohan plays cricket?
+5) Mohan plays cricket?
 	
-He goes to temple.
+6) He goes to temple.
 
-She does not go to temple.
+7) She does not go to temple.
 
-Ram prays every day.
+8) Ram prays every day.
 
-Seeta does not pray.
+9) Seeta does not pray.
 
-I go to market.
+10) I go to market.
 
-He goes to school.
+11) He goes to school.
 
-You play cricket
+12) You play cricket
 
-The sun rises in the east.
+13) The sun rises in the east.
 
