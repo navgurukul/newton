@@ -1,4 +1,4 @@
-name: Future Perfect Tense
+## Future Perfect Tense
 
 
 **First you have to watch this video**
@@ -13,6 +13,9 @@ name: Future Perfect Tense
 You can visit this website:-
 
 https://www.englishpage.com/verbpage/futureperfect.html
+
+
+### Exercise1:-
 
 Fill in the verbs in parentheses in future perfect tense.
 
@@ -41,34 +44,43 @@ Fill in the verbs in parentheses in future perfect tense.
 
 
 
+### Exercise2:-
 
-Fill in the correct form verb in either the future perfect simple or future perfect progressive tense.
+Make sentences in the future perfect tense:
 
+1) I_______________________________________ (leave) by six.
 
+2) Will __________________________________ (you/finish) the report by the deadline?
 
-Example:- Tamara will have completed her Bachelor’s Degree by June. (complete)
-          The customer service department will have been operating for 2 years by then. (operate)
-          
-          
-1. By the time I start my shift, Dr. Frazier _________ for 18 hours straight. (work)
+3) When _________________________________ (we/do) everything?
 
-2. Sheila ____ the scholarship by the time she starts school in September. (get)
+4) She __________________________ (finish) her exams by then, so we can go out for dinner.
 
-3. By this time next month, I hope they ____building the community center. (finish)
+5) You______________________________________ (read) the book before the next class.
 
-4. Professor Adams ______ at this university for 25 years by the time he retires in June. (teach)
+6) She _________________________________________ (not/finish) the work by seven.
 
-5. By this time tomorrow night we ______ in Australia. (arrive)
+7) When_______________________________________ (you/complete) the work?
 
-6. ______ he ______ the message by the time your flight takes off? (receive)
+8) They ____________________________________ (arrive) by dinner time.
 
-7. Dana _____ the night shift by the time you get up in the morning. (not finish)
+9) We __________________________________ (be) in London for three years by next week.
 
-8. The team _____ at the exhibition for five hours by the time I arrive there. (work)
+10)________________________________________ (she/get) home by lunch time?
 
-9. By the time we get on the plane, they ____already _____ the luggage. (load)
+### Answers
 
-10. By 2025, I hope researchers ______ a cure for cancer. (find)
-
+#### Exercise1:-
+Exercise 1.	                                    Exercise 2.	 
+1. will have repaired	                          1. will have left	
+2. will have done	                                    2. you have finished	
+3. will have visited	                          3. will we have done	
+4. will have finished	                          4. will have finished	
+5. will have left	                                    5. will have read	
+6. will have discussed	                          6. will not have finished	
+7. will have arrested	                          7. will you have completed
+8. will have written                                    8. will have arrive
+9. will have managed                                    9. will have been	                       
+10.will have fulfilled	                          10.will she have gotten                 
 
 
