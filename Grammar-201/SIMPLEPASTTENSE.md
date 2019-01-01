@@ -1,6 +1,6 @@
 Simple Past Tense
 
-name Simple present Tense
+name Simple past Tense
 completionMethod: Manual```
 
 @[youtube](-vlx-7hyJf4)
