@@ -3,7 +3,6 @@
   - presentcontinuousTense.md
   - Future_perfect_Tense.md
   - Simple_Future_Tense.md
-  - simple_continuous_tense.md
   - SIMPLEPASTTENSE.md
   - present_perfect_tense.md
 - verbs
