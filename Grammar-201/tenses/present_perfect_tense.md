@@ -5,6 +5,9 @@ completionMethod: manual```
 
 @[youtube](k3eGDA-IJuM link of video )
 
+
+https://www.examtricksadda.com/2017/08/present-perfect-tense-hindi-to-english-translation-anuwad-rules-has-have-uses.html
+
 Present Perfect Tense Examples
 
 
@@ -29,7 +32,7 @@ have worked: I have worked here since I graduated school.
 has done: He has finished his homework.
 
 
-have been: We have been to Canada.
+have been: We have been to Canada. 
 
 
 has forgotten: she has forgotten her folder.
@@ -121,4 +124,30 @@ have you called your mom yet?
 
 
 has Anthony played basketball yet?
+
+Fill in the gaps with the right forms of the verbs in brackets to complete the following English sentences in Present Perfect Tense.
+
+
+1. They_____London this month. (leave)
+ 
+ 
+2. He_____ a lot of English papers. (bring)
+ 
+ 
+3. She____me about it. (tell)
+ 
+ 
+4. I_____a long letter from father this week. (get)
+
+
+5. She (just)_______; she will speak to you in a minute. (come)
+
+
+6. I______to Radio City. (be)
+
+7. I think the director______the town. (leave)
+
+
+8. I_____my office. (paint)
+
 
