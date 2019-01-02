@@ -128,24 +128,24 @@ Has Anthony played basketball yet?
 Fill in the gaps with the right forms of the verbs in brackets to complete the following English sentences in Present Perfect Tense.
 
 
-1. They_____London this month. (leave)
+1. They_____London this month.(leave)
  
  
-2. He_____ a lot of English papers. (bring)
+2. He_____ a lot of English papers.(bring)
  
  
-3. She____me about it. (tell)
+3. She____me about it.(tell)
  
  
-4. I_____a long letter from father this week. (get)
+4. I_____a long letter from father this week.(get)
 
 
-5. She (just)_______; she will speak to you in a minute. (come)
+5. She (just)_______; she will speak to you in a minute.(come)
 
 
-6. I______to Radio City. (be)
+6. I______to Radio City.(be)
 
-7. I think the director______the town. (leave)
+7. I think the director______the town.(leave)
 
 
 8. I_____my office.(paint)
