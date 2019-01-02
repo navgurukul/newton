@@ -148,6 +148,6 @@ Fill in the gaps with the right forms of the verbs in brackets to complete the f
 7. I think the director______the town. (leave)
 
 
-8. I_____my office. (paint)
+8. I_____my office.(paint)
 
 
