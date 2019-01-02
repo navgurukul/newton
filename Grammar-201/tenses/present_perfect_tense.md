@@ -79,10 +79,10 @@ some examples of present perfect tense used to express an unfinished period of t
 We haven't seen her today.
 
 
-they have been to the mall twice this month.
+They have been to the mall twice this month.
 
 
-she has watched that show three times this week.
+She has watched that show three times this week.
 
 
 examples of using present perfect in talking about events that happened in the recent past but the effect of the recent event is still felt in the present include:
