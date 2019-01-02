@@ -5,6 +5,6 @@
   - Simple_Future_Tense.md
   - simple_continuous_tense.md
   - SIMPLEPASTTENSE.md
-  - persent_perfect_tense.md
+  - present_perfect_tense.md
 - verbs
   - verbs.md
