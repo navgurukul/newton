@@ -11,7 +11,7 @@ https://www.examtricksadda.com/2017/08/present-perfect-tense-hindi-to-english-tr
 Present Perfect Tense Examples
 
 
-present perfect tense combines the present tense and the perfect aspect used to express an event that happened in the past that has present consequences. this tense is used to show a link between the present and past and is commonly used in everyday conversations, in the news, on the radio, and when writing letters.
+Present perfect tense combines the present tense and the perfect aspect used to express an event that happened in the past that has present consequences. this tense is used to show a link between the present and past and is commonly used in everyday conversations, in the news, on the radio, and when writing letters.
 
 using present perfect tense
 
