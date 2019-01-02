@@ -1,8 +1,10 @@
 - tenses
-  - SimplePresent.md
-  - presentcontinuousTense.md
-  - Future_perfect_Tense.md
+  - Simple_Present_Tense.md
+  - Present_Continuous_Tense.md
+  - Present_Perfect_Tense.md
+  - Past_Continuous_Tense.md
+  - Past Continuous Tense.md
   - Simple_Future_Tense.md
-  - present_perfect_tense.md
+  - Future_Perfect_Tense.md
 - verbs
   - verbs.md
