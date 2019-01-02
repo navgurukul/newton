@@ -4,4 +4,4 @@
   - Present_Continuous_Tense.md
   - Simple_Future_Tense.md
 - verbs
-  - Verbs.md
+  - verbs.md
