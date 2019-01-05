@@ -7,3 +7,6 @@
 - auto-dump.md
 - managing-multiple-db.md
 - dmerge.md
+- congrats.md
+- need-for-cache.md
+- using-db-as-cache.md
