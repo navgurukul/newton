@@ -14,6 +14,9 @@ Iss code ko implement karne ke liye, maine classes use ki hai. Aap kisi aur tara
 ```python
 import json
 
+# fileName = "hello.db"
+# Default argument dena ek acchi coding practice hai.
+# Isse agar user koi argument nahi bhi de, toh bhi code sahi chalega
 def load(fileName='hello.db'):
     ```
     Yeh ek fileName leta hai, jiska content yeh load karta hai
@@ -30,6 +33,21 @@ def load(fileName='hello.db'):
 class MeraDB():
     ```
     Yeh main class hai, jaha saara magic hoga!
+
+    Humne yeh class isliye banayi jisse ki hum meradb object bana kar
+    uss par koi bhi functions call kar sake
+
+    Jaise list_a = [1,2,4] kar kar aap list_a naam ki list create karte ho
+    Phir aap list_a object par functions call kar sakte ho, jaise
+    list_a.append(another_list), list_a.pop()
+
+    aise hi jab aap meradb ka object declare karoge, toh class use karne ke
+    vajah se, hum meradb object par functions call kar payenge, jaise:
+
+    mdb = MeraDB("dbfile.json")
+    mdb.load_file()
+    mdb.dump()
+
     ```
     fileName = ""
     jObject = {}
@@ -37,7 +55,19 @@ class MeraDB():
     def __init__(self, fileName):
         ```
         Yeh constructor function hai, jo object declare karne par
-        call hoga
+        call hoga. Jo bhi fileName isse milega, yeh woh apni 
+        fileName property mei store kar lega. Isse yeh property
+        object mei kahi bhi self.fileName kar kar, available hogi.
+        Isliye jab hum dump_file function aage call karenge
+        toh apne aap iss code ko pata hoga, ki kis file mei content
+        dump karne hai. Woh bas self.fileName file mei jakar contents
+        save/dump kar dega. Aise hi aap aur bhi properties bana sakte
+        hai. Jaise humne jObject kar kar ek property banayi hai. Iss
+        property mei, jab bhi database load karte hai, woh dictionary
+        hum jObject store kar lete hai. Jab bhi koi value set ya get karni
+        hoti hai, toh hum jObject se hi karte hai. Aakhir mei, dump karte 
+        hue hum jObject ko dump kar dete hai, jab bhi dump function call
+        hota hai.
         ```
         self.fileName = fileName
 
@@ -91,6 +121,13 @@ Hum aagein **`Exercise`** mei dekhenge ki kaise bina hello.db file banaye, yeh c
 ## Exercise
 ### Edge Case 1
 Agar `table.db` ek empty file hogi, toh code mei kya error aayegi? Aap kaise code ko modify kar sakte hai, jisse ki ek empty file hone se bhi database load ho jaye aur error throw na ho.
+
+Yeh baat ka dhyaan rakhna ki edge ek special case hota hai. Jab bhi woh edge case aayega, toh humei specially us ko handle karna hota hai. Toh is ko aise sochiye, ki koi if condition hogi, jo aapko daalni hogi, iske solution ke liye.
+
+```python
+if edge_case:
+    kuch_jugaad_karo
+```
 
 Kya aap code ko padh kar samajh gaye the ki - yeh case sahi se handled nahi hai?
 
