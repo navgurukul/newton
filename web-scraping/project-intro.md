@@ -1,5 +1,5 @@
 ```ngMeta
-name: Introduction to Web Scraping
+name: Project Introduction
 completionMethod: manual
 ```
 
