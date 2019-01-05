@@ -89,6 +89,8 @@ Humne teen **`files`** kyu banayi hai?
 Hum aagein **`Exercise`** mei dekhenge ki kaise bina hello.db file banaye, yeh code likha ja sakta hai.
 
 Note: Iss program mai hum ek file se data nikal ke dusre file mai store kar rhe hai, par diye gai program mai hum ek hi file se data nikal ke usmai hi store kar rhe hai , aap chahe toh do file bana sakte hai or ek file se data nikal kar dusre mai store kar ke dekh sakte hai.
+Why we are using json. before dumps and loads?
+We are doing so, to convert python data to JSON data. At first import json module. Than use json.dumps() function to decode the json data.
 
 ## Exercise
 ### Edge Case 1
