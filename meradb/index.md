@@ -3,6 +3,7 @@
 - loading-and-dumping.md
 - get-and-set.md
 - more-functions.md
+- ram-vs-hard-disk.md
 - auto-dump.md
 - managing-multiple-db.md
 - dmerge.md
