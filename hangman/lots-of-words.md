@@ -1,3 +1,6 @@
+```ngMeta
+submissionType:url
+```
 ## Lots of Words
 Abhi sirf teen-chaar words mei se ek word user ko de diya jaata hai. (Check `words.py`)
 Aapko `words.txt` file ko code mei read kar kar, `words.py` file ko modify karna hai. 
