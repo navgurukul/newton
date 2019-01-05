@@ -1,3 +1,6 @@
+```ngMeta
+submissionType:url
+```
 ## Hint
 Aapko ab yeh change karna hai jisse jab bhi user input ke time par - agar `hint` likhein, toh aap usse koi bhi ek letter jo abhi tak user ne guess nahi kiya hai, woh letter guess kar kar, accordingly word display kar de.
 
