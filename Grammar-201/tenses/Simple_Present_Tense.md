@@ -13,10 +13,10 @@ completionMethod: Manual```
 @[youtube](QUGETmMFuGQ)
 
 Aaj hum baat karenge Simple Present Tense ke bare me 
-aapko sabse phale ye Exercise dekhna hai aache se 
+Tense ke bare me padhne ke liye sabse phale aapko iss Tutorial ko padhna hoga.
 
-* [Exercise 1](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
-* [Exercise 1](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
+* [Tutorial](https://howhindi.com/simple-present-tense-hindi-to-english-translation/)
+* [Tutorial](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
 
 
 All example
@@ -34,7 +34,7 @@ Sonu lives beside tha Ganga river.
 * मेरी माँ रोज मंदिर जाती हैं।
 My mother goes to temple daily.
 
-2) Negative: Jis sabdh me nahi lga hota hain wo negative wale hote hain
+2) Negative: Jis sentence me "nahi" laga hota hain wo negative wale hote hain
 
 * तुम सवाल नहीं जानते।
 You do not know tha question.
@@ -60,6 +60,61 @@ Does the bell ring at 10:33.
 * क्या आपको सर्दी लगती है?
 Do you feel cold?
 
+### Practice questions
 
+1) मैं एक आम खाता हूँ।
 
+2) वह पाठ याद करता है।
+
+3) धबी कपड़े इस्त्री करता है। 
+ 
+4) विद्यार्थी शोर मचाते हैं
+ 
+5) मोहन  क्रिकेट खेलता है। 
+
+6) वह मंदिर जाता है।	
+
+7) वो मंदिर नहीं जाती है।
+
+8) राम प्रतिदिन पूजा करता है।
+
+9) सीता  पूजा नहीं करती है।
+
+10) मैं बाजार जाता हूँ।
+
+11) तुम क्रिकेट खेलते हो।
+
+12) वह स्कूल जाता है।
+
+13) सूर्य पूर्व में उगता है।
+
+---
+
+#### Answers
+(Exercises ko khud solve karne ke baad hi answers dekhein, nahi toh aapki learning nahi hogi.)
+1) I eat a mango. 
+
+2) He learns the lesson.
+ 
+3) Dhobi irons clothes.
+
+4) Students make noise.
+
+5) Mohan plays cricket?
+	
+6) He goes to temple.
+
+7) She does not go to temple.
+
+8) Ram prays every day.
+
+9) Seeta does not pray.
+
+10) I go to market.
+
+11) He goes to school.
+
+12) You play cricket
+
+13) The sun rises in the east.
 

@@ -14,6 +14,10 @@ Inn Videos bahut dhyaan se dekhein, aur aapas mei discuss karein. Aap subtitles 
 
 @[youtube](7YcW25PHnAA)
 
+To learn more about rest Api go through this @[link](https://guide.freecodecamp.org/rest-api/)
+
 ## What is JSON?
 
 @[youtube](7mj-p1Os6QA)
+
+To learn more about Json go through this @[link](https://guide.freecodecamp.org/javascript/standard-objects/json/json-syntax/)
