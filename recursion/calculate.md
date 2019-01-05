@@ -1,3 +1,7 @@
+```ngMeta
+submissionType: url
+```
+
 ## Calculate
 
 ```python
