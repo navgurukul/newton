@@ -86,7 +86,16 @@ class MeraDB():
         Iss function ko use kar kar, aap content ko dump kar satke hai
         ```
         print "Dumping database to ", self.fileName, " !"
+        
         open(self.fileName, 'w').write(json.dumps(self.jObject))
+        ```
+        You can also write the above line as:
+        file_handler = open(self.fileName, 'w')
+        json_dump = json.dumps(self.jObject)
+        file_handler.write(json_dump)
+        file_handler.close()
+        ```
+
         print "DB dumped successfully!"
         return "OK"
 ```
