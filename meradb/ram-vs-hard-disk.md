@@ -1,6 +1,6 @@
 Inn questions ke baarein mei thoda socho
 
-- Variables kaha store hota hai - **RAM** mei ya Hard Disk mei?
+- Variables kaha store hota hai - **[RAM](https://kids.kiddle.co/Random-access_memory)*** mei ya Hard Disk mei?
 
 - Database kaha store ho raha hai, hamare code mei? Database mei ya RAM mei?
 **Hint:**
