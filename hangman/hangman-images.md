@@ -1,3 +1,7 @@
+```ngMeta
+submissionType:url
+```
+
 ## Hangman Images
 Aapko images.py se IMAGES import kar kar, woh images print karni hai. Jab bhi user koi galat input deta hai, toh aap corresponding image dikhayenge. 
 
