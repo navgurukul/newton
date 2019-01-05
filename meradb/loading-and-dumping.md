@@ -88,6 +88,8 @@ Humne teen **`files`** kyu banayi hai?
 - **`hello.db`** woh code hai, jo ek empty database initialise karta hai.
 Hum aagein **`Exercise`** mei dekhenge ki kaise bina hello.db file banaye, yeh code likha ja sakta hai.
 
+Note: Iss program mai hum ek file se data nikal ke dusre file mai store kar rhe hai, par diye gai program mai hum ek hi file se data nikal ke usmai hi store kar rhe hai , aap chahe toh do file bana sakte hai or ek file se data nikal kar dusre mai store kar ke dekh sakte hai.
+
 ## Exercise
 ### Edge Case 1
 Agar `table.db` ek empty file hogi, toh code mei kya error aayegi? Aap kaise code ko modify kar sakte hai, jisse ki ek empty file hone se bhi database load ho jaye aur error throw na ho.
