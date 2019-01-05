@@ -1,5 +1,10 @@
 - introduction.md
-- what-are-loops.md
+- QuestionSet1
+  - introduction.md
+  - question1.md
+  - question2.md
+  - question3.md
+  - question4.md
 - Counters
   - introduction.md
   - examples.md
@@ -22,7 +27,7 @@
   - introduction.md
   - solution1.md
   - solution2.md
-  - solution3.md
+  - solution3.m d
 - QuestionSet2
   - introduction.md
   - question1.md
