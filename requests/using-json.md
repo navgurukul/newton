@@ -10,13 +10,22 @@ Jo code humne likha tha, requests library kar kar, courses download karne ke liy
     - `courses.json` file padh kar
     - aapko iss object ko ek json argument mei load karna hai
     - uss json object ko parse kar kar
-    - aapko saare courses ki list print karni hai
+    - aapko saare courses ki list print karni hai, jaise
 
-Yeh karne se pehle aap ek chota sa change karo, ki
 
-    agar `courses.json` pehle se exist karti hai, toh aap
-    dobara API call mat karo. isse aap debugging fast kar
-    paoge.
+    - 1. Introduction to Javascript
+    - 2. Getting Started
+    - 3. Implementing PickleDB - DB - Part I
+    - ...
+    - ...
+    - n. Web Scraping 101
+
+Yeh karne se pehle aap apne code mei ek chota sa change karo, ki
+
+    check karo ki agar (if) `courses.json` pehle se exist karti hai,
+    toh aap dobara API call mat karo. isse aap debugging fast kar
+    paoge. API call sirf tab karo, jab `courses.json` file exist nahi
+    karti
 
 isse aap fast debugging kar paoge, nahi toh baar baar
 aapko API call khatam hone ka wait karna padega.
