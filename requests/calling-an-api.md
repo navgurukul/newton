@@ -7,7 +7,11 @@
 Abhi ke liye, humei ek bahut simple sa code likhna hai. 
 
 ## Assignment
-Ab aapko `requests` module use kar kar, yeh `API Endpoint` ya `URL` call kar kar, yeh data `courses.json` file mei store karna hai.
+Ab aapko
+
+    - `requests` module use kar kar,
+    - [yeh](http://saral.navgurukul.org/api/courses) `API Endpoint` ya `URL` call kar kar
+    - yeh data `courses.json` file mei store karna hai.
 
 ## Kuch Important Baatein
 - `call` hum `functions` ke liye bhi use karte hai. functions ko hum karte hai, kuch `arguments` dete hai, aur kuch vapas lete hai (jo function `return` karta hai)
