@@ -1,7 +1,8 @@
 ### Introduction of verbs.
 Diffination :- Jisse kisi kam ko karne ya hone ka pata chalta hai use Verb kahte hai.
 
-Ex :- Eat = Khana (Kuchh karne ka pata chalta hai)
+Ex :- 
+      Eat = Khana (Kuchh karne ka pata chalta hai)
 
       Rohan is eating food. = Rohan khana kha raha hai.(Iska matlab vah kuchh kar raha hia aur vah kiya kar raha hai kha raha hai, so isse kuchh karne ka pata chalta hai, Isliye yah ak verb hai.)
       
