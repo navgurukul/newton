@@ -1,2 +1,7 @@
 - introduction.md
-- json.md
+- calling-an-api.md
+- understanding-json.md
+- using-json.md
+- thodi-si-programming.md
+- api-again.md
+- 

@@ -1,3 +1,7 @@
+```ngMeta
+submissionType:url
+```
+
 Ab aapko ek feature implement karna hai, jisse ki user ke paas limited chances ho.
 Maan lete hai ki user ke paas sirf 8 chances hai - aur aapko apne loop ko aise modify karna hai ki user ke paas 8 chances ho.
 
