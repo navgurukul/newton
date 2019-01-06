@@ -12,3 +12,11 @@ Jo code humne likha tha, requests library kar kar, courses download karne ke liy
     - uss json object ko parse kar kar
     - aapko saare courses ki list print karni hai
 
+Yeh karne se pehle aap ek chota sa change karo, ki
+
+    agar `courses.json` pehle se exist karti hai, toh aap
+    dobara API call mat karo. isse aap debugging fast kar
+    paoge.
+
+isse aap fast debugging kar paoge, nahi toh baar baar
+aapko API call khatam hone ka wait karna padega.
