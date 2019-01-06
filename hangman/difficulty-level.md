@@ -1,3 +1,6 @@
+```ngMeta
+submissionType:url
+```
 ## Difficulty Level
 Game shuru karne se pehle aap user se poocho, ki user kitna difficulty level par khelna chahta hai. - Easy, Medium ya Hard.
 Easy, Medium aur Hard levels ke liye user ko 8, 6, 4 chances respectively do. (Yaani Easy ke liye 8, Medium ke liye 6 aur Hard ke liye 4).

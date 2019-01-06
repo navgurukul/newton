@@ -1,3 +1,8 @@
+```ngMeta
+submissionType:url
+```
+
+
 ## Available Letters
 Ab aapko ek feature implement karna hai, jisse ki user ko hum dikha sake ki kaun kaun se letters abhi tak user ne use nahi kiye hai. Aise letters ko hum `Available Letters` ke naam se refer karenge.
 
