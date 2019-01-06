@@ -9,6 +9,10 @@ Phir jab aap koi bhi request karte hai, toh aap batate hai, aap wohi ho
 jisne thodi der pehle login kiya tha. Yeh sab karne ke liye aap headers
 ka use karte ho. Unn sab cheezo ka hum `API - Part 2` mei focus karenge.
 
+Aise hi humne abhi bahut simple `get` requests use ki hai, aage hum `post`
+request use bhi karenge, aur sahi se dono tarah ki requests mei difference
+bhi pata karenge.
+
 Tab tak aap yeh features integrate kar sakte ho, apne code mei, jisse ki
 woh aur behetar ho jaye:
 
