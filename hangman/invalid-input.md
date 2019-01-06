@@ -1,3 +1,7 @@
+```ngMeta
+submissionType:url
+```
+
 # Invalid Inputs
 
 Aapko yeh check karna hai ki user no jo input daala hai, woh valid hai ya nahi. Iske liye aapko yeh dekhna hai ki jo user ne input daala hai,
