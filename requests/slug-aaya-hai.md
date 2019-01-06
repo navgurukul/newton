@@ -25,4 +25,6 @@ Phir aap yeh process repeat karna:
     - Yeh karte karte observe karo, ki aap slug kaise nikal rahe ho.
     - Aap ussi karne ke tareeke ki - ek user story likho.
     - Uss user story ko code mei badalne ki koshish karo
-  
+
+Aise kar kar shayad aap soch pao, ki kaise user ki selection ke basis par aap usse
+koi slug recommend kar sakte ho.
