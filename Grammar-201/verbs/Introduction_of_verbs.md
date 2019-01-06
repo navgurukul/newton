@@ -1,5 +1,5 @@
 ### Introduction of verbs.
-Diffination :- Jisse kisi kam ko karne ya hone ka pata chalta hai use Verb kahte hai.
+Defination :- Jisse kisi kam ko karne ya hone ka pata chalta hai use Verb kahte hai.
 
 Ex :- 
       Eat = Khana (Kuchh karne ka pata chalta hai)
@@ -19,16 +19,10 @@ Ex :-
       She can catch the ball. = Vaha ball pakar sakti hai. (Means vah pakar sakti hai, isse bhi kuchh karne ka pata chalta
       hai.)
       
-Identification of verbs:
+### Agar apko or information leni hai toh aap inn video ko dekh skte ho:-
 
-Jeen words ke last me na lagta hai usse verb kahate hai.
-
-For Example: kaha,peena,sona or bolna etc.
-
-### Agar apko or imformation leni hai toh aap inn video ko dekh skte ho:-
-
-@[youtube](PE3-4g5Lqmk)
-@[youtube](ScywAwMbBQY)
+@ [youtube](PE3-4g5Lqmk)
+@ [youtube](ScywAwMbBQY)
 
 
 
