@@ -12,10 +12,10 @@ Web scraping ki advantages aur disadvantages ke liye neeche diye gaye link par j
 https://scrapingexpert.com/advantages-disadvantages-web-scraping/
 
 
-##TODO: Put a video which talks about web scraping. If you don't get a very good video then also put a link with it.
+TODO: Put a video which talks about web scraping. If you don't get a very good video then also put a link with it.
 
-##EXAMPLES of WEB SCRAPING
-#Real Estate Listings gathering
-#Trivago
-@[youtube](https://www.youtube.com/watch?v=eA5MNQ4f1uc)
-#
+EXAMPLES of WEB SCRAPING
+Real Estate Listings gathering
+Trivago
+[youtube](https://www.youtube.com/watch?v=eA5MNQ4f1uc)
+
