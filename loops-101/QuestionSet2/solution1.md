@@ -1,6 +1,5 @@
 ```ngMeta
 name: Solution 1
-completionMethod: manuala
 ```
 
 # Solution 1
