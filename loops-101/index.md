@@ -8,10 +8,21 @@
 - Counters
   - introduction.md
   - examples.md
+- QuestionSet2
+  - introduction.md
+  - question1.md
+  - question2.md
+  - question3.md
+  - solution1.md
+  - question4.md
+  - question5.md
+  - question6.md
+  - question7.md [DONE TILL HERE]
 - LoopConditions
   - introduction.md
-  - infinite-loops.md
-  - examples.md
+
+
+
 - SolutionSet1
   - introduction.md
   - solution1.md
