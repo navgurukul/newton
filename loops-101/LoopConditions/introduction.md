@@ -1,5 +1,6 @@
 ```ngMeta
 name: Introduction to Loops
+completionMethod: manual
 ```
 
 # Understanding Loop Conditions
@@ -22,4 +23,20 @@ Yeh code 1 se leke 99 tak numbers ko print kar dega. Lekin agar iss code ko ache
 
 Yahan pe `i = i + 1` aur `while i < 100` sabse important statements mein se hai. Yeh video dekh ke hum samjhenge ki inn lines ka exact matlab kya hai aur computer inko kaise samajhta hai. Isse hum better tareeke se loops likh payenge.
 
-## Contents of Video 
+## Contents of Video
+1. What does it mean to write the `i < 100` in the following loop?
+```python
+i = 1
+while i <= 10:
+  print(i)
+  i = i + 1
+```
+2. How does the loop run? Every time the code within the loop block is executed the condition is evaluated once again and until the condition is true the loop keeps on running. Basically the condition results into a boolean and if the boolean is True then the loop is run otherwise it is not run.
+3. Apart from this we can also put the statement like this.
+```python
+i = 1
+while i != 10:
+  print(i)
+  i = i + 1
+```
+4.
