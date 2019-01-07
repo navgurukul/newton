@@ -26,4 +26,5 @@ Trivago ek **Hotel Comparison Engine** hai. Maan lein hum Jaipur jaa rahe hain. 
 ### Google News
 Google News, web scraping ka ek bahut hi accha example. Google News bahut saari news websites ki **Headlines** aur un **Headlines ki Details**  extract karke humare samne present kar deta hai. Agar aap [iss](https://news.google.com/?hl=en-IN&gl=IN&ceid=IN:en) link ko khol kar dekhe to aapko dikhega ki google news **Times of India**, **The Hindu**, **NDTV**, **News18**, **Hindustan Times** jaisi websites se data extract karke print karta hai.
 
-
+### Indeed.com
+Indeed.com ek employment related search engine hai jo web scraping ka use karta hai. Agar aap [Indeed.com](https://www.indeed.co.in/) pr jate hai aur koi job title karte hai to indeed.com vo saari jobs jo aapke job description se match karti hai un sabhi ko alag alag employemetn related websites se extract karke appke samne print kr deta hai. Sochiye alag alag websites ko open kar ke unme job dhundna aasan hai ya fir ek website me.
