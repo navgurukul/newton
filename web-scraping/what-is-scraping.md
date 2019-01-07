@@ -13,7 +13,7 @@ How can we scrape in Python?
 - Print the same HTML in the Terminal which you got.
 - Install BeautifulSoup and show how we can get the title and a few other tags to give a basic glimpse into BeautifulSoup of a page using Beautiful Soup?
 
-# Package need to Scrape Data and why we use them
+# Packages need to Scrape Data and why we use them
 What is pip?
 - Hum pip ko install iss liye krte hai because it is a package management system jisse ki help karta hai python ke Module ko - install karne main.
 - pip is a package management system used to install and manage software packages written in Python.
