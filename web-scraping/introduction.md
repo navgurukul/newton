@@ -3,9 +3,9 @@ name: Introduction to Web Scraping
 completionMethod: manual
 ```
 
-### WEB SCRAPING in PYTHON
+# WEB SCRAPING in PYTHON
 
-# Definition:
+### Definition:
 Web scraping ek process hai jisme ek user software ya fir bots ka use kar ke websites se data extract karta hai. Ise ek tarah se copying keh sakte hai jisme hum websites se vo data extract karte hai jiski hume zarurat hai aur fir vo data ko hum ek jagha save karte hai. Baad me hum use data par analysis bhi run karsakte hai.
 
 @[youtube](https://www.youtube.com/watch?v=7IUfRVYew-o)
