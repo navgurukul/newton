@@ -9,18 +9,19 @@ db.set('key2', 'value2')
 db1.get('key2')
 ```
 
-Yeh code execute karo. Kya iss code ko execute karne ke baad `ektha.db` file ke contents change hue?
-Agar haa, kya yeh theek hai?
-Agar naa, toh aisa kyu hua?
+Yeh code execute karo. Kya iss code ko execute karne ke baad `ektha.db` file ke contents change honge?
 
-Kya woh changes important hai?
+    Agar haa, kya yeh theek hai?
+    Agar naa, toh aisa kyu hua?
+
+    Kya woh changes important hai?
 
 Agar hum chahte hai, ki hamare changes, hamari file (yaani Hard Disk mei) **persistently** jaaye, toh hum `dump` function abhi tak call kar rahe the.
 
 Par hum ab kuch aisa karenge, ki bina `dump` function call karein bhi, jaise jaise, hum values set karte jaye, toh woh changes hamari `hard disk` yaani `file` mei bhi write ho jaye.
 
 ## Task
-Humein `load` function ko aise modify karna hai, ki agar second argument `True` ho toh - file mei `auto dumping` enable ho jaye.
+Humein `load` function (aur accordingly MeraDB Class) ko aise modify karna hai, ki agar second argument `True` ho toh - file mei `auto dumping` enable ho jaye.
 
 Iska matlab hai ki, jaise hi koi bhi value `set` ki jaye, toh woh database mei `write` ho jaye.
 
@@ -33,3 +34,11 @@ Par `auto dumping` enable karne se, hamara code har `set` operation ke baad auto
 - ya `False` argument milega
 
 toh code pehle ki tarah hi chalega. Yaani agar `dump` function call nahi kiya hoga, toh database mei koi change nahi hoga.
+
+## Dhyaan Rakhein
+Jab bhi aap ko koi aisa task milta hai, toh aapko poore dhyaan se questions poochne chahiye.
+- Humein kya karna hai?
+- Woh kar ne ke liye koi smaller steps jo humei karne hi padenge?
+- Jo hum kar rahe hai, uska kya use hai?
+- Kya usko kisi behtar tarah se kar sakte hai?
+etc.
