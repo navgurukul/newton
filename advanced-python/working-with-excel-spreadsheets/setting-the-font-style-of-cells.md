@@ -1,6 +1,5 @@
 ```ngMeta
 name: setting-the-font-style-of-cells
-completionMethod: manual
 ```
 # Setting the Font Style of Cells
 Styling certain cells, rows, or columns can help you emphasize important areas in your spreadsheet. In the produce spreadsheet, for example, your program could apply bold text to the potato, garlic, and parsnip rows. Or perhaps you want to italicize every row with a cost per pound greater than $5. Styling parts of a large spreadsheet by hand would be tedious, but your programs can do it instantly.

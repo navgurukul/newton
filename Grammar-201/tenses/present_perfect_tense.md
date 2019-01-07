@@ -1,6 +1,5 @@
 ```ngMeta
 name: present perfect tense Tense
-completionMethod: manual```
 
 
 @[youtube](k3eGDA-IJuM link of video )

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Hosting
-completionMethod: manual
 ```
 
 

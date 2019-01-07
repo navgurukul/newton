@@ -1,6 +1,5 @@
 ```ngMeta
 name: Java Walo Ke liye
-completionMethod: manual
 ```
 
 # Chalo Android mei Games banayein!

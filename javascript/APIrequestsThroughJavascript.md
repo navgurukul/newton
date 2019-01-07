@@ -1,6 +1,5 @@
 ```ngMeta
 name: API requests through Javascript
-completionMethod: manual
 ```
 
 Aapne browser ke through API service ko request bhejna seekha.

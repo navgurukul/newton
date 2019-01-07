@@ -1,6 +1,5 @@
 ```ngMeta
 name: opening-excel-documents-with-openpyxl
-completionMethod: manual
 ```
 # Opening Excel Documents with OpenPyXL
 Once you’ve imported the openpyxl module, you’ll be able to use the openpyxl.load_workbook() function. Enter the following into the interactive shell:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Writing a Hello World Program
-completionMethod: manual
 ```
 
 Iss video ko dekh ke hum java mein apna pehla program likhenge. Iss video har program ke alag alag parts bahot ache se explained hai. Pehle video dekho aur fir ache se program ko khud chala ke dekho.

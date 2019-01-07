@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-copy-module’s-copy()-and-deepcopy()-functions
-completionMethod: manual
 ```
 # The copy Module’s copy() and deepcopy() Functions
 Although passing around references is often the handiest way to deal with lists and dictionaries, if the function modifies the list or dictionary that is passed, you may not want these changes in the original list or dictionary value. For this, Python provides a module named copy that provides both the copy() and deepcopy() functions. The first of these, copy.copy(), can be used to make a duplicate copy of a mutable value like a list or dictionary, not just a copy of a reference. Enter the following into the interactive shell:

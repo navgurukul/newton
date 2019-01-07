@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-9
-completionMethod: manual
 ```
 # Chapter 9
 The shutil.copy() function will copy a single file, while shutil.copytree() will copy an entire folder, along with all its contents.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Operators Precedence - Exercises
-completionMethod: manual
 ```
 
 ```python

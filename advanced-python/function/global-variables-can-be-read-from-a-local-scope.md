@@ -1,6 +1,5 @@
 ```ngMeta
 name: global-variables-can-be-read-from-a-local-scope
-completionMethod: manual
 ```
 # Global Variables Can Be Read from a Local Scope
 Consider the following program:

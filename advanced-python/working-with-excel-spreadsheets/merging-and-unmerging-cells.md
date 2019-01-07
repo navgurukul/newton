@@ -1,6 +1,5 @@
 ```ngMeta
 name:  merging-and-unmerging-cells
-completionMethod: manual
 ```
 # Merging and Unmerging Cells
 A rectangular area of cells can be merged into a single cell with the merge_cells() sheet method. Enter the following into the interactive shell:

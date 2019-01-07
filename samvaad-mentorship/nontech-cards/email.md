@@ -1,6 +1,5 @@
 ```ngMeta
 name: Email Writing
-completionMethod: manual
 ```
 
 ### Email Writing

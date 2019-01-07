@@ -1,6 +1,5 @@
 ```ngMeta
 name: Arrays In Java
-completionMethod: manual
 ```
 Humne pichle lessons mein data ko store karne ke liye bahut saare **variables** banaye the ......
 

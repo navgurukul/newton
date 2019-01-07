@@ -1,6 +1,5 @@
 ```ngMeta
 name: manipulating-images
-completionMethod: manual
 ```
 # Manipulating Images
 If you have a digital camera or even if you just upload photos from your phone to Facebook, you probably cross paths with digital image files all the time. You may know how to use basic graphics software, such as Microsoft Paint or Paintbrush, or even more advanced applications such as Adobe Photoshop. But if you need to edit a massive number of images, editing them by hand can be a lengthy, boring job.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Strings
-completionMethod: manual
 ```
 
 <!-- fixme: wrong example -->

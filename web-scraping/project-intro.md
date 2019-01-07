@@ -1,6 +1,5 @@
 ```ngMeta
 name: Project Introduction
-completionMethod: manual
 ```
 
 # Project Introduction

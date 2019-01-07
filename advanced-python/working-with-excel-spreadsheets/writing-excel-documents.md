@@ -1,6 +1,5 @@
 ```ngMeta
 name:  writing-excel-documents
-completionMethod: manual
 ```
 # Writing Excel Documents
 OpenPyXL also provides ways of writing data, meaning that your programs can create and edit spreadsheet files. With Python, it’s simple to create spreadsheets with thousands of rows of data.

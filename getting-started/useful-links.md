@@ -1,6 +1,5 @@
 ```ngMeta
 name: Useful Links
-completionMethod: manual
 ```
 
 ## Useful Links

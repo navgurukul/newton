@@ -1,6 +1,5 @@
 ```ngMeta
 name: Styling your Application
-completionMethod: manual
 ```
 
 Apne React App ko hum CSS file ke through usi tarah style kar sakte hain - jaise hum normally web applications ko karte hain.

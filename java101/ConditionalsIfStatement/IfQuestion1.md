@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question #1
-completionMethod: manual
 ```
 
 Ek program likho jo check kare ki kya `100 - 33` `55` ke barabar hai ya nahi?

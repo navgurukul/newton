@@ -1,7 +1,6 @@
 
 ```ngMeta
 name: Keyword
-completionMethod: manual
 ```
 
 

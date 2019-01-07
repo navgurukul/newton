@@ -1,6 +1,5 @@
 ```ngMeta
 name: sending-text-messages-with-twilio
-completionMethod: manual
 ```
 # Sending Text Messages with Twilio
 Most people are more likely to be near their phones than their computers, so text messages can be a more immediate and reliable way of sending notifications than email. Also, the short length of text messages makes it more likely that a person will get around to reading them.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Pass by Reference and Functions
-completionMethod: peer
 submissionType: url
 ```
 

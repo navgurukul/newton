@@ -1,6 +1,5 @@
 ```ngMeta
 name: flow-control
-completionMethod: manual
 ```
 # Elements of Flow Control
 Conditions

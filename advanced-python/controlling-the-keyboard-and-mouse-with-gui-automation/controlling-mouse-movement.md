@@ -1,6 +1,5 @@
 ```ngMeta
 name: controlling-mouse-movement
-completionMethod: manual
 ```
 # Controlling Mouse Movement
 In this section, you’ll learn how to move the mouse and track its position on the screen using PyAutoGUI, but first you need to understand how PyAutoGUI works with coordinates.

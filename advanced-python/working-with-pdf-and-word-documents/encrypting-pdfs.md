@@ -1,6 +1,5 @@
 ```ngMeta
 name:  encrypting-pdfs
-completionMethod: manual
 ```
 # Encrypting PDFs
 A PdfFileWriter object can also add encryption to a PDF document. Enter the following into the interactive shell:

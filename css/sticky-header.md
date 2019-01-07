@@ -1,6 +1,5 @@
 ```ngMeta
 name: Sticky Header
-completionMethod: peer
 ```
 
 # Part XIII - Sticky Header

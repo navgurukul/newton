@@ -1,6 +1,5 @@
 ```ngMeta
 name: flex-direction : Container Property
-completionMethod: manual
 ```
 
 # flex-direction : Container Property

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Adding two Numbers
-completionMethod: manual
 ```
 
 Iss video mein hum dekhenge ki kaise Java mein hum ek program likh sakte hain do numbers ko add karne ke liye. Dhyan se sara code padhein.

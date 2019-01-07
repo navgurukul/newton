@@ -1,6 +1,5 @@
 ```ngMeta
 name: Topics
-completionMethod: Manual
 ```
 
 ## Family

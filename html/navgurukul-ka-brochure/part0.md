@@ -1,6 +1,5 @@
 ```ngMeta
 name: Brochure - Introduction
-completionMethod: automatic
 ```
 
 # Part Zero

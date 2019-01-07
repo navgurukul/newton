@@ -1,6 +1,5 @@
 ```ngMeta
 name: methods
-completionMethod: manual
 ```
 # Methods
 A method is the same thing as a function, except it is “called on” a value. For example, if a list value were stored in spam, you would call the index() list method (which I’ll explain next) on that list like so: spam.index('hello'). The method part comes after the value, separated by a period.

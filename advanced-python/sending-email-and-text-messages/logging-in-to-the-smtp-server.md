@@ -1,6 +1,5 @@
 ```ngMeta
 name: logging-in-to-the-smtp-server
-completionMethod: manual
 ```
 # Logging in to the SMTP Server
 Once your encrypted connection to the SMTP server is set up, you can log in with your username (usually your email address) and email password by calling the login() method.

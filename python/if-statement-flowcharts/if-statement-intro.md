@@ -1,6 +1,5 @@
 ```ngMeta
 name: If Statements
-completionMethod: manual
 ```
 
 # Programming & If Statements

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Forms
-completionMethod: Manual
 ```
 
 Humne React mein *props*, *state* aur *Event binding* use karna seekh liya hai.

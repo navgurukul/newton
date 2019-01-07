@@ -1,6 +1,5 @@
 ```ngMeta
 name: Breaking it again
-completionMethod: manual
 ```
 
 Lesson 5 wapas se padhiye jahan humne apne project problem ko breakdown kiya tha. Ab jab aapki java vocabulary better ho gayi hai toh aap apne project ka breakdown better kar payenge.

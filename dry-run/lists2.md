@@ -1,7 +1,6 @@
 
 ```ngMeta
 name: Lists - Chalo thoda aur samjhein
-completionMethod: manual
 ```
 
 Yeh `program` kya karte hai, inhe acche se samjhe aur inke dry run kare.

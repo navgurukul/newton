@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-2
-completionMethod: manual
 ```
 # Chapter 2
 True and False, using capital T and F, with the rest of the word in lowercase

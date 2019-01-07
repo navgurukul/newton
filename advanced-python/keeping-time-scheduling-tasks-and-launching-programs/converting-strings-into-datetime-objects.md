@@ -1,6 +1,5 @@
 ```ngMeta
 name: converting-strings-into-datetime-objects
-completionMethod: manual
 ```
 # Converting Strings into datetime Objects
 If you have a string of date information, such as '2015/10/21 16:29:00' or 'October 21, 2015', and need to convert it to a datetime object, use the datetime.datetime.strptime() function. The strptime() function is the inverse of the strftime() method. A custom format string using the same directives as strftime() must be passed so that strptime() knows how to parse and understand the string. (The p in the name of the strptime() function stands for parse.)

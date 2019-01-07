@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part Four
-completionMethod: peer
 ```
 
 ## Part IV - Paths

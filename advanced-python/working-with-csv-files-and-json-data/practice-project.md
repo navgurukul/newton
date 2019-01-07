@@ -1,6 +1,5 @@
 ```ngMeta
 name: practice-project
-completionMethod: manual
 ```
 # Practice Project
 For practice, write a program that does the following.

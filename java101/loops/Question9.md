@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 9
-completionMethod: peer
 ```
 
 1. Ab hum pichli wali game ko thoda change karenge. Humne sirf yeh check kara the ki kya user ne jo number input kiya hai wo humare number ke barabar hai ya nahi.

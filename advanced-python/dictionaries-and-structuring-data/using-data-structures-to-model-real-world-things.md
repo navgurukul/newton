@@ -1,6 +1,5 @@
 ```ngMeta
 name: using-data-structures-to-model-real-world-things
-completionMethod: manual
 ```
 # Using Data Structures to Model Real-World Things
 Even before the Internet, it was possible to play a game of chess with someone on the other side of the world. Each player would set up a chessboard at their home and then take turns mailing a postcard to each other describing each move. To do this, the players needed a way to unambiguously describe the state of the board and their moves.

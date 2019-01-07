@@ -1,6 +1,5 @@
 ```ngMeta
 name: Environmental Justice
-completionMethod: manual
 ```
 
 ### Environmental Justice

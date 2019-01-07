@@ -1,6 +1,5 @@
 ```ngMeta
 name: python
-completionMethod: manual
 ```
 # What Is Python?
 

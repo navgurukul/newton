@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part V StopWatch
-completionMethod: facilitator
 ```
 
 # Part V StopWatch

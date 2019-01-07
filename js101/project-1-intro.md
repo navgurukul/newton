@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kuch banate hain
-completionMethod: manual
 ```
 
 - Give introduction to a basic calculator project that we are going to use as a base project for the following topics

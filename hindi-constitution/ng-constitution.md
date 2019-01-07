@@ -1,6 +1,5 @@
 ```ngMeta
 name: NavGurukul Constitution
-completionMethod: manual
 ```
 
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: If / Else Question 2
-completionMethod: manual
 ```
 
 Aapke paas ek variable hai, jisme yeh value hai:

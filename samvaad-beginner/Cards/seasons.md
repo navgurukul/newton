@@ -1,6 +1,5 @@
 ```ngMeta
 name: Seasons
-completionMethod: manual
 ```
 
 ### Seasons

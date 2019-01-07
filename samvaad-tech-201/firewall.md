@@ -1,6 +1,5 @@
 ```ngMeta
 name: Firewall
-completionMethod: manual
 ```
 
 
@@ -12,7 +11,6 @@ completionMethod: manual
 
 ## Ab aapko 30 mins ke lngMeta
 
-completionMethod: manualiye aapas mei english mei inn topics ke baarein mei baat karni hai.
 Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.
 
 Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: If / Else Question 1
-completionMethod: manual
 ```
 
 Ek `number` naam ke variable mein integer input lo.

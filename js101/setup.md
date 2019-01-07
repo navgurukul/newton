@@ -1,6 +1,5 @@
 ```ngMeta
 name: Shuruaat karte hain
-completionMethod: manual
 ```
 
 - Tell them to create a JS file and add a <script> tag in the html page.

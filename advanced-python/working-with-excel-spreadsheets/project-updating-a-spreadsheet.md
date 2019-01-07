@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-updating-a-spreadsheet
-completionMethod: manual
 ```
 # Project: Updating a Spreadsheet
 In this project, you’ll write a program to update cells in a spreadsheet of produce sales. Your program will look through the spreadsheet, find specific kinds of produce, and update their prices. Download this spreadsheet from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>. Figure 12-3 shows what the spreadsheet looks like.

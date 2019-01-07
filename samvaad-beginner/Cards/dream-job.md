@@ -1,6 +1,5 @@
 ```ngMeta
 name: Dream Job
-completionMethod: manual
 ```
 
 ## Dream Job

@@ -1,6 +1,5 @@
 ```ngMeta
 name: using-for-loops-with-lists
-completionMethod: manual
 ```
 # Using for Loops with Lists
 In Chapter 2, you learned about using for loops to execute a block of code a certain number of times. Technically, a for loop repeats the code block once for each value in a list or list-like value. For example, if you ran this code:

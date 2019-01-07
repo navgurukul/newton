@@ -1,6 +1,5 @@
 ```ngMeta
 name: Story Setup or Git Setup
-completionMethod: manual
 ```
 Aap ek nayi Project directory **Stories** banaiye
 

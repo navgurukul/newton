@@ -1,6 +1,5 @@
 ```ngMeta
 name: Welcome :)
-completionMethod: manual
 ```
 
 Hello! Iss course mein hum Java mein code likhna seekhenge. Java duniya ki sabse popular programming languages mein se ek hai. Bahot saare devices jaise Mobiles, tablets, computers, washing machines, fridges, smart devices aur TVs par Java use hoti hai.

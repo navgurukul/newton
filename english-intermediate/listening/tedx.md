@@ -1,6 +1,5 @@
 ```ngMeta
 name: TedX Talks
-completionMethod: manual
 ```
 
 ### TedX Talks

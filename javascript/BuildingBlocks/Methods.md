@@ -1,6 +1,5 @@
 ```ngMeta
 name: Methods
-completionMethod: manual
 ```
 
 # Methods

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Counters
-completionMethod: manual
 ```
 
 # What are Counters?

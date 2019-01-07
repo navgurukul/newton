@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 1
-completionMethod: manual
 ```
 
 Ab hum apna pehla Java ka program likhenge. Aapne yeh print karna hai:

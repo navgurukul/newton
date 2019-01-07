@@ -1,6 +1,5 @@
 ```ngMeta
 name: Conversion
-completionMethod: manual
 ```
 
 **Note: Yaad se saare code examples ko chala ke dekhna. Chala ke aur samajh ke hi aap seekh paoge.**

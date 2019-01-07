@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question #2
-completionMethod: manual
 ```
 
 Java mein string ki length nikalne ke liye aap yeh kar sakte ho.

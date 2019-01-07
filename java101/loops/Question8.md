@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 8
-completionMethod: peer
 ```
 
 Ab hum loops ka use karke ek game banayenge. Iss game ko hum "**guessing game**" bolte hai.

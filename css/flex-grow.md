@@ -1,6 +1,5 @@
 ```ngMeta
 name: flex-grow : Item Property
-completionMethod: manual
 ```
 
 # flex-grow: Item Property

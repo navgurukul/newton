@@ -1,6 +1,5 @@
 ```ngMeta
 name:  retrieving-and-deleting-emails-with-imap
-completionMethod: manual
 ```
 # Retrieving and Deleting Emails with IMAP
 Finding and retrieving an email in Python is a multistep process that requires both the imapclient and pyzmail third-party modules. Just to give you an overview, here’s a full example of logging in to an IMAP server, searching for emails, fetching them, and then extracting the text of the email messages from them.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Exercise - Correct the Emails
-completionMethod: manual
 ```
 
 

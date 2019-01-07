@@ -1,6 +1,5 @@
 ```ngMeta
 name: Indentation
-completionMethod: manual
 ```
 
 # Indentation kya hoti hai?

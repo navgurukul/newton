@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 7
-completionMethod: peer
 ```
 
 Ek program banao jo number ko neeche diye dhang se print kare.

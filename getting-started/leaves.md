@@ -1,6 +1,5 @@
 ```ngMeta
 name: Leave Policy
-completionMethod: manual
 ```
 
 ## Leave Policy

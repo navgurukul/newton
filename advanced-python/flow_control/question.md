@@ -1,6 +1,5 @@
 ```ngMeta
 name: question
-completionMethod: manual
 ```
 # Practice Questions
  Q:

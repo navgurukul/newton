@@ -1,6 +1,5 @@
 ```ngMeta
 name:  drawing-on-images
-completionMethod: manual
 ```
 # Drawing on Images
 If you need to draw lines, rectangles, circles, or other simple shapes on an image, use Pillow’s ImageDraw module. Enter the following into the interactive shell:

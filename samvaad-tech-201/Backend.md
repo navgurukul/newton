@@ -1,6 +1,5 @@
 ```ngMeta
 name: Backend
-completionMethod: manual
 ```
 
 

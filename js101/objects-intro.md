@@ -1,6 +1,5 @@
 ```ngMeta
 name: Objects ke baare mein seekhte hain
-completionMethod: manual
 ```
 
 - introducing key, value concept and how to define an object and access its properties

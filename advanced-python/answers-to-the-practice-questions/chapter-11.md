@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-11
-completionMethod: manual
 ```
 # Chapter 11
 The webbrowser module has an open() method that will launch a web browser to a specific URL, and that’s it. The requests module can download files and pages from the Web. The BeautifulSoup module parses HTML. Finally, the selenium module can launch and control a browser.

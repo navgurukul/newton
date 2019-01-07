@@ -1,6 +1,5 @@
 ```ngMeta
 name: sending-text-messages
-completionMethod: manual
 ```
 # Sending Text Messages
 Once you’ve installed the twilio module, signed up for a Twilio account, verified your phone number, registered a Twilio phone number, and obtained your account SID and auth token, you will finally be ready to send yourself text messages from your Python scripts.

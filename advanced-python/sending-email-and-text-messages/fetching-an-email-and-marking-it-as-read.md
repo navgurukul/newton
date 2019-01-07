@@ -1,6 +1,5 @@
 ```ngMeta
 name: fetching-an-email-and-marking-it-as-read
-completionMethod: manual
 ```
 # Fetching an Email and Marking It As Read
 Once you have a list of UIDs, you can call the IMAPClient object’s fetch() method to get the actual email content.

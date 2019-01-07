@@ -1,6 +1,5 @@
 ```ngMeta
 name: review-of-the-pyautogui-functions
-completionMethod: manual
 ```
 # Review of the PyAutoGUI Functions
 Since this chapter covered many different functions, here is a quick summary reference:

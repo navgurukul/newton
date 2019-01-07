@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-generating-random-quiz-files
-completionMethod: manual
 ```
 # Project: Generating Random Quiz Files
 Say you’re a geography teacher with 35 students in your class and you want to give a pop quiz on US state capitals. Alas, your class has a few bad eggs in it, and you can’t trust the students not to cheat. You’d like to randomize the order of questions so that each quiz is unique, making it impossible for anyone to crib answers from anyone else. Of course, doing this by hand would be a lengthy and boring affair. Fortunately, you know some Python.

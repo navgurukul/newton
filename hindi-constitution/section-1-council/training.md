@@ -1,6 +1,5 @@
 ```ngMeta
 name: Training and Placement Coordinator
-completionMethod: manual
 ```
 
 # Training and Placement Coordinator

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Exercise - Job Applications
-completionMethod: manual
 ```
 
 Neeche kuch job descriptions diye gae hain. Aapko in job descriptions ke liye apply karte hue ek email compose karna hai. 

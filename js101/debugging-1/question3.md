@@ -1,6 +1,5 @@
 ```ngMeta
 name: Jadui Javascript
-completionMethod: manual
 ```
 
 # Data Type Mismatch Debugging

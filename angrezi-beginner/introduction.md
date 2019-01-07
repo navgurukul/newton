@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction of Self
-completionMethod: manual
 ```
 
 ## Introduction of Self

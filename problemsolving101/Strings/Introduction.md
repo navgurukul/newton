@@ -1,6 +1,5 @@
 ```ngMeta
 name: Strings
-completionMethod: manual
 ```
 
 Total **Strings** mein se aapko 10 questions solve karne hain. **7** `Easy` category ke aur **3** `Medium` category ke.

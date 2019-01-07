@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bloody Nasreen-Part III
-completionMethod: facilitator
 ```
 
 # Part III

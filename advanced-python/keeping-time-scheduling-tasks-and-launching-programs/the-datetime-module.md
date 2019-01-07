@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-datetime-module
-completionMethod: manual
 ```
 # The datetime Module
 The time module is useful for getting a Unix epoch timestamp to work with. But if you want to display a date in a more convenient format, or do arithmetic with dates (for example, figuring out what date was 205 days ago or what date is 123 days from now), you should use the datetime module.

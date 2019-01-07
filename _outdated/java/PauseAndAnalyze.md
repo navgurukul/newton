@@ -1,6 +1,5 @@
 ```ngMeta
 name: Pause and Analyze 1
-completionMethod: manual
 ```
 
 Lesson 5 ko dobara padhiye jisme humne apne project problem ko chote-chote parts mein break kiya tha.

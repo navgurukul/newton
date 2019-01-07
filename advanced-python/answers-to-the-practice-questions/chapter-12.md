@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-12
-completionMethod: manual
 ```
 # Chapter 12
 The openpyxl.load_workbook() function returns a Workbook object.

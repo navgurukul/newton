@@ -1,6 +1,5 @@
 ```ngMeta
 name: Writing User Story
-completionMethod: manual
 ```
 
 Kaafi baar jab hum koi application banana chahte hain to hum iss baat par atak jaate hain ki hum shuru kahan se karein?

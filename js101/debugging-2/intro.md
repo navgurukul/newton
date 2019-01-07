@@ -1,6 +1,5 @@
 ```ngMeta
 name: Debugging Intro
-completionMethod: manual
 ```
 
 Introduce some of the errors which the students might face while writing the particular code of the above topics:

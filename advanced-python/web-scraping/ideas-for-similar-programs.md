@@ -1,6 +1,5 @@
 ```ngMeta
 name: ideas-for-similar-programs
-completionMethod: manual
 ```
 # Ideas for Similar Programs
 As long as you have a URL, the webbrowser module lets users cut out the step of opening the browser and directing themselves to a website. Other programs could use this functionality to do the following:

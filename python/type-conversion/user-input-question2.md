@@ -1,6 +1,5 @@
 ```ngMeta
 name: raw_input Question 2
-completionMethod: automatic
 ```
 *Aapne iska code ek python file (`.py` extension ke saath) save kar ke submit karna 
 

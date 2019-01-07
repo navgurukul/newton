@@ -1,6 +1,5 @@
 ```ngMeta
 name: Useful Phrases for Job Application
-completionMethod: manual
 ```
 
 #### Subject Lines

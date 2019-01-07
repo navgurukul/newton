@@ -1,6 +1,5 @@
 ```ngMeta
 name: Git WorkFlow
-completionMethod: manual
 ```
 
 Code academy ke [iss](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/git-workflow?action=resume_content_item) link ko padh kar, Git ke workflow ko samajhne ki kosis kijiye.

@@ -4,7 +4,6 @@
 
 ```ngMeta
 name Simple present Tense
-completionMethod: Manual```
 
 @[youtube](SXJXaHaWS9U)
 

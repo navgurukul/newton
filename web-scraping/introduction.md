@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction to Web Scraping
-completionMethod: manual
 ```
 
 # WEB SCRAPING in PYTHON

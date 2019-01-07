@@ -1,6 +1,5 @@
 ```ngMeta
 name: Javascript Events
-completionMethod: manual
 ```
 
 # Javascript Events

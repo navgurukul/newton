@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bandwidth
-completionMethod: manual
 ```
 
 # What is Bandwidth ?

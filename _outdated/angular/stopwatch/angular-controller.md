@@ -1,6 +1,5 @@
 ```ngMeta
 name: PartII Counter
-completionMethod: facilitator
 ```
 # Part II Counter
 

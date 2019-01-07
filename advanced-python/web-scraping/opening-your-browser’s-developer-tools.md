@@ -1,6 +1,5 @@
 ```ngMeta
 name: opening-your-browser’s-developer-tools
-completionMethod: manual
 ```
 # Opening Your Browser’s Developer Tools
 In addition to viewing a web page’s source, you can look through a page’s HTML using your browser’s developer tools. In Chrome and Internet Explorer for Windows, the developer tools are already installed, and you can press F12 to make them appear (see Figure 11-4). Pressing F12 again will make the developer tools disappear. In Chrome, you can also bring up the developer tools by selecting View▸Developer▸Developer Tools. In OS X, pressing -OPTION-I will open Chrome’s Developer Tools.

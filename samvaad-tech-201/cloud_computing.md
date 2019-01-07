@@ -1,6 +1,5 @@
 ```ngMeta
 name: Cloud_Computing
-completionMethod: manual
 ```
 
 ### What is Cloud Computing ?

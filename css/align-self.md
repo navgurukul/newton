@@ -1,6 +1,5 @@
 ```ngMeta
 name: align-self : Item Property
-completionMethod: manual
 ```
 
 # align-self: Item Property

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Strings Easy Question 5
-completionMethod: manual
 ```
 
 **Strings** waale section mein se koi bhi ek bhi ek "Easy" category wala question solve karo.

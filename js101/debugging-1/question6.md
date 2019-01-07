@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 6
-completionMethod: manual
 ```
 
 # Variable not defined

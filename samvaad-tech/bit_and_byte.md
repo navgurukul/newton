@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bit and Byte
-completionMethod: manual
 ```
 
 Yeh video apko Keyword ki imformation degi:-

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Dice Rolling 
-completionMethod: manual
 ```
 
 # Dice Rolling

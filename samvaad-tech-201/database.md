@@ -1,6 +1,5 @@
 ```ngMeta
 name: Database
-completionMethod: manual
 ```
 
 Aap yeh videos dekhein:

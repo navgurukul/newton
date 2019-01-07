@@ -1,6 +1,5 @@
 ```ngMeta
 name: Need To Serve
-completionMethod: automatic
 ```
 
 # Need to Serve?

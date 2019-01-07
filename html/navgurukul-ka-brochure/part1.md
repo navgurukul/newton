@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part One
-completionMethod: peer
 ```
 
 # Part I - Basics

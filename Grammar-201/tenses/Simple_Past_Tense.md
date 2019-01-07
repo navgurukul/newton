@@ -1,7 +1,6 @@
 Simple Past Tense
 
 name Simple past Tense
-completionMethod: Manual```
 
 @[youtube](-vlx-7hyJf4)
 @[youtube](y0VTP7https)

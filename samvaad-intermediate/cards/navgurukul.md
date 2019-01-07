@@ -1,6 +1,5 @@
 ```ngMeta
 name: NavGurkul Values
-completionMethod: manual
 ```
 
 * What should be the most important values for a self-learning community like NavGurukul?

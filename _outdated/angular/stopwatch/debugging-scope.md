@@ -1,6 +1,5 @@
 ```ngMeta
 name: Scope... Continued
-completionMethod: peer
 ```
 # Scope... Continued
 

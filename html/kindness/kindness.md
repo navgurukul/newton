@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kindness - Part One
-completionMethod: peer
 ```
 
 ## Part I

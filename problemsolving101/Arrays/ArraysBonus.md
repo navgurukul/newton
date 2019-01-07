@@ -1,6 +1,5 @@
 ```ngMeta
 name: Arrays Bonus Question
-completionMethod: manual
 ```
 
 Agar aapka man hai, toh koi bhi ek `Medium` ya `Hard` category wala question solve kar sakte ho.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Constitution
-completionMethod: manual
 ```
 
 ## Constitution

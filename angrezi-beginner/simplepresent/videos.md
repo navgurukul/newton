@@ -1,6 +1,5 @@
 ```ngMeta
 name: Simple Present Tense
-completionMethod: manual
 ```
 
 ## Learning Simple Present Tense

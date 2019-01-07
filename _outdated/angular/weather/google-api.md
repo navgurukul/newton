@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part II Google’s Api
-completionMethod: peer
 ```
 
 # Part II Google’s Api

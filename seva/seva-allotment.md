@@ -1,6 +1,5 @@
 ```ngMeta
 name: Process of Seva Allotment
-completionMethod: manual
 ```
 
 ## Process of Seva Allotment

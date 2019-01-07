@@ -1,6 +1,5 @@
 ```ngMeta
 name: Hometown
-completionMethod: Manual
 ```
 
 ## Hometown

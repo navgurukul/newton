@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-1
-completionMethod: manual
 ```
 # Chapter 1
 The operators are +, -, *, and /. The values are 'hello', -88.8, and 5.

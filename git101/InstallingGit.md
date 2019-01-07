@@ -1,6 +1,5 @@
 ```ngMeta
 name: Installing Git
-completionMethod: manual
 ```
 
 Git ke saath khelne se pehle, hume git ko install karna hoga.

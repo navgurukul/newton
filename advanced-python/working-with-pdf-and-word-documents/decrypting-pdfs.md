@@ -1,6 +1,5 @@
 ```ngMeta
 name: decrypting-pdfs
-completionMethod: manual
 ```
 # Decrypting PDFs
 Some PDF documents have an encryption feature that will keep them from being read until whoever is opening the document provides a password. Enter the following into the interactive shell with the PDF you downloaded, which has been encrypted with the password rosebud:

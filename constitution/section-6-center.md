@@ -1,6 +1,5 @@
 ```ngMeta
 name: Section VI - Center and Board of Governors
-completionMethod: manual
 ```
 
 # Center and Board of Governors

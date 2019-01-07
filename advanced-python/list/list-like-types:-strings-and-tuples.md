@@ -1,6 +1,5 @@
 ```ngMeta
 name:  list-like-types:-strings-and-tuples
-completionMethod: manual
 ```
 # List-like Types: Strings and Tuples
 Lists aren’t the only data types that represent ordered sequences of values. For example, strings and lists are actually similar, if you consider a string to be a “list” of single text characters. Many of the things you can do with lists can also be done with strings: indexing; slicing; and using them with for loops, with len(), and with the in and not in operators. To see this, enter the following into the interactive shell:

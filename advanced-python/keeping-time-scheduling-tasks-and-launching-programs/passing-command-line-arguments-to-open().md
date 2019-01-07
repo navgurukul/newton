@@ -1,6 +1,5 @@
 ```ngMeta
 name: passing-command-line-arguments-to-open()
-completionMethod: manual
 ```
 # Passing Command Line Arguments to Popen()
 You can pass command line arguments to processes you create with Popen(). To do so, you pass a list as the sole argument to Popen(). The first string in this list will be the executable filename of the program you want to launch; all the subsequent strings will be the command line arguments to pass to the program when it starts. In effect, this list will be the value of sys.argv for the launched program.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: List Operation
-completionMethod: manual
 ```
 
 # Lists ke saath kya kar sakte hain?

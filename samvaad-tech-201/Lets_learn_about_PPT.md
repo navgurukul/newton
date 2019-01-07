@@ -1,6 +1,5 @@
 ```ngMeta
 name: Lets_learn_about_PPT
-completionMethod: manual
 ```
 
 

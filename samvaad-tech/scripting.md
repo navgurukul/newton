@@ -1,6 +1,5 @@
 ```ngMeta
 name: Scripting
-completionMethod: manual
 ```
 
 ## Scripting Language:-

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Facility Maintenance Coordinator
-completionMethod: manual
 ```
 
 ### Facility Maintenance Coordinator

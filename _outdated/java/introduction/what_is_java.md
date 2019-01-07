@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction
-completionMethod: manual
 ```
 
 <h2>What is Java?</h2></br>

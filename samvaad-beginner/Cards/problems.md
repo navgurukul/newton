@@ -1,6 +1,5 @@
 ```ngMeta
 name: Problems
-completionMethod: manual
 ```
 
 ### Problems

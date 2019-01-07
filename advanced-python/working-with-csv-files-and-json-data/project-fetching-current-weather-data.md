@@ -1,6 +1,5 @@
 ```ngMeta
 name:  project-fetching-current-weather-data
-completionMethod: manual
 ```
 # Project: Fetching Current Weather Data
 Checking the weather seems fairly trivial: Open your web browser, click the address bar, type the URL to a weather website (or search for one and then click the link), wait for the page to load, look past all the ads, and so on.

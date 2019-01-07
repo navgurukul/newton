@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kabhi strings to kabhi numbers, yeh kya mamla hai?
-completionMethod: manual
 ```
 
 - Show an example how addition of string and addition of numbers work.

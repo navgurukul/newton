@@ -1,6 +1,5 @@
 ```ngMeta
 name: Hobbies
-completionMethod: Manual
 ```
 
 ## Hobbies

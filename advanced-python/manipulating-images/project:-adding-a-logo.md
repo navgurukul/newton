@@ -1,6 +1,5 @@
 ```ngMeta
 name: project:-adding-a-logo
-completionMethod: manual
 ```
 # Project: Adding a Logo
 Say you have the boring job of resizing thousands of images and adding a small logo watermark to the corner of each. Doing this with a basic graphics program such as Paintbrush or Paint would take forever. A fancier graphics application such as Photoshop can do batch processing, but that software costs hundreds of dollars. Let’s write a script to do it instead.

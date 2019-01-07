@@ -1,6 +1,5 @@
 ```ngMeta
 name: States
-completionMethod: manual
 ```
 
 Aapne <NutritionAnalyzer> naam ka component banaya hoga jo aapke nutrient display hone ka UI represent karti hai.

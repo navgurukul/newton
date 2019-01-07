@@ -1,6 +1,5 @@
 ```ngMeta
 name: debugging-a-number-adding-program
-completionMethod: manual
 ```
 # Debugging a Number Adding Program
 Open a new file editor window and enter the following code:

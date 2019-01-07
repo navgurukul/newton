@@ -1,6 +1,5 @@
 ```ngMeta
 name: Git Repeat
-completionMethod: manual
 ```
 
 Apne abhi tak ye commands seekhe hain:

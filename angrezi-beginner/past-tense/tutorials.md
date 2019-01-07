@@ -1,6 +1,5 @@
 ```ngMeta
 name: Simple Past Tense
-completionMethod: manual
 ```
 
 ## Tutorials

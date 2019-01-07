@@ -1,6 +1,5 @@
 ```ngMeta
 name: HTML5 Video
-completionMethod: peer
 ```
 
 # HTML5 Videos

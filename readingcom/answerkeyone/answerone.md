@@ -1,6 +1,5 @@
 ```ngMeta
 name: Answer Key-Level One 
-completionMethod: manual
 ```
 ## LEVEL 1
 * [The Cream and the Cat](https://drive.google.com/open?id=1Gd8-5l1e_oFsNOIHGK4dR4FmY0QbX9O1TTb67zroAsI)

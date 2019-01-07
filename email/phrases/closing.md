@@ -1,6 +1,5 @@
 ```ngMeta
 name: Closing Phrases
-completionMethod: manual
 ```
 
 ### Closing line when you need a reply

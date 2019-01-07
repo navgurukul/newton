@@ -1,6 +1,5 @@
 ```ngMeta
 name: Firing Up React Application
-completionMethod: manual
 ```
 
 Aapne abhi tak React application mein ye banaya hai:

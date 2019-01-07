@@ -1,6 +1,5 @@
 ```ngMeta
 name: debugging
-completionMethod: manual
 ```
 # Debugging
 Now that you know enough to write more complicated programs, you may start finding not-so-simple bugs in them. This chapter covers some tools and techniques for finding the root cause of bugs in your program to help you fix bugs faster and with less effort.

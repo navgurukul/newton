@@ -1,6 +1,5 @@
 ```ngMeta
 name: removing-values-from-lists-with-remove()
-completionMethod: manual
 ```	
 # Removing Values from Lists with remove()
 The remove() method is passed the value to be removed from the list it is called on. Enter the following into the interactive shell:

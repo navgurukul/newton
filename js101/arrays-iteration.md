@@ -1,6 +1,5 @@
 ```ngMeta
 name: Baar baar dekho! Hazaar baar dekho
-completionMethod: manual
 ```
 
 - Explain the concept of traversing and accessing elements in a list

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Controll Statement
-completionMethod: manual
 ```
 <h1 style="text-align: center;">Java if-else</h1>
 Java if statement hum koi condition check karne ke liye use karte hai aur ye hmesha boolean condition check karta hai :

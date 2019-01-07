@@ -1,6 +1,5 @@
 ```ngMeta
 name:  chapter-16
-completionMethod: manual
 ```
 # Chapter 16
 SMTP and IMAP, respectively

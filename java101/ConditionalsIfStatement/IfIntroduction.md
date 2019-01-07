@@ -1,6 +1,5 @@
 ```ngMeta
 name: If Statements Introduction
-completionMethod: manual
 ```
 
 Bahot baar humein alag alag cases mein apne code se alag alag kaam karvana hota hai. Aam apps aur websites jo aap use karte ho unme iske bahot saare examples hain.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is Scraping?
-completionMethod: manual
 ```
 
 # Introduction

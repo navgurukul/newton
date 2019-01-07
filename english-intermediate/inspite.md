@@ -1,6 +1,5 @@
 ```ngMeta
 name: Inspite Of - Despite
-completionMethod: manual
 ```
 
 When we have to use two contrasting ideas together in a sentence, we use certains words to connect them. These are words like "despite", "inspite of", "although" etc.

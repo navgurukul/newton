@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-csv-module
-completionMethod: manual
 ```
 # The CSV Module
 Each line in a CSV file represents a row in the spreadsheet, and commas separate the cells in the row. For example, the spreadsheet example.xlsx from <span><a href="http://nostarch.com/automatestuff/ ">http://nostarch.com/automatestuff/ </a></span> would look like this in a CSV file:

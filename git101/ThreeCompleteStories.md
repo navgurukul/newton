@@ -1,6 +1,5 @@
 ```ngMeta
 name: Three Complete Stories
-completionMethod: manual
 ```
 
 Aapne dekha ki kaise aap Git ko use karke apne peers ke saath story-writing mein collaborate kar sakte hain.

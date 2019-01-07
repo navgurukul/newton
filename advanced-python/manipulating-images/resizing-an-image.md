@@ -1,6 +1,5 @@
 ```ngMeta
 name: resizing-an-image
-completionMethod: manual
 ```
 # Resizing an Image
 The resize() method is called on an Image object and returns a new Image object of the specified width and height. It accepts a two-integer tuple argument, representing the new width and height of the returned image. Enter the following into the interactive shell:

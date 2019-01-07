@@ -1,6 +1,5 @@
 ```ngMeta
 name: Reading Strategies
-completionMethod: manual
 ```
 ### Strategies to Read and Comprehend
 1. **Make a vocabulary list before you begin.**

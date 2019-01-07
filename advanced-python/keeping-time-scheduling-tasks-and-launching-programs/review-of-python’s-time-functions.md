@@ -1,6 +1,5 @@
 ```ngMeta
 name: review-of-python’s-time-functions
-completionMethod: manual
 ```
 # Review of Python’s Time Functions
 Dates and times in Python can involve quite a few different data types and functions. Here’s a review of the three different types of values used to represent time:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: flex-wrap : Container Property
-completionMethod: manual
 ```
 
 # flex-wrap: Container Property

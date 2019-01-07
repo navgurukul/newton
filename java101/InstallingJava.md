@@ -1,6 +1,5 @@
 ```ngMeta
 name: Installing Java
-completionMethod: manual
 ```
 
 Ab hum apne system pe Java install karenge. Jab humare system pe java hoga woh humein java ke saare programs ko run karne mein help karega.

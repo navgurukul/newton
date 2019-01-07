@@ -1,6 +1,5 @@
 ```ngMeta
 name: NavGurukul - Journey
-completionMethod: Manual
 ```
 
 ## NavGurukul - Journey

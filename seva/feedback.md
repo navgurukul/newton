@@ -1,6 +1,5 @@
 ```ngMeta
 name: Feedback
-completionMethod: manual
 ```
 
 Is process ko kaam karne ke liye time time par ye ensure karna important hai ki saare projects me kaam smoothly chal raha hai. Saare students apni puri efficiency ke sath seva me participate kar pa rahe hain ya nahi. Iske liye ek process setup kiya gaya hai. Ek weekly review process hoga jisme saare students ka evaluation hoga. 

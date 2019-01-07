@@ -1,6 +1,5 @@
 ```ngMeta
 name: Search
-completionMethod: manual
 ```
 
 Total **Search** mein se aapko 9 questions solve karne hain. Sirf **4** `Easy` category ke

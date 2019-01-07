@@ -1,6 +1,5 @@
 ```ngMeta
 name: Creating Pull Requests
-completionMethod: manual
 ```
 
 Aap apne friends ke story mein kuch edits kar sakte hain. Aur use review ke liye unhe bhej sakte hain.

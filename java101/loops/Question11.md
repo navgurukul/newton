@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 11
-completionMethod: peer
 ```
 
 Ek program banao jo `fibonacci series` ke pehle 100 number print kare. Fibonacci series aisi hoti hai:

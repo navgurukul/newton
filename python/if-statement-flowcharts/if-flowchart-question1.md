@@ -1,6 +1,5 @@
 ```ngMeta
 name: If Statement Question 1
-completionMethod: peer
 submissionType: url
 ```
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: useful-string-methods
-completionMethod: manual
 ```
 # Useful String Methods
 Several string methods analyze strings or create transformed string values. This section describes the methods you’ll be using most often.

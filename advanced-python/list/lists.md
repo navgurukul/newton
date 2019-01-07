@@ -1,6 +1,5 @@
 ```ngMeta
 name: lists
-completionMethod: manual
 ```
 # Lists
 One more topic you’ll need to understand before you can begin writing programs in earnest is the list data type and its cousin, the tuple. Lists and tuples can contain multiple values, which makes it easier to write programs that handle large amounts of data. And since lists themselves can contain other lists, you can use them to arrange data into hierarchical structures.

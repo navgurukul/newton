@@ -1,6 +1,5 @@
 ```ngMeta
 name: dragging-the-mouse
-completionMethod: manual
 ```
 # Dragging the Mouse
 Dragging means moving the mouse while holding down one of the mouse buttons. For example, you can move files between folders by dragging the folder icons, or you can move appointments around in a calendar app.

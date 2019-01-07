@@ -1,6 +1,5 @@
 ```ngMeta
 name: Activities
-completionMethod: manual
 ```
 
 > Skills: Writing

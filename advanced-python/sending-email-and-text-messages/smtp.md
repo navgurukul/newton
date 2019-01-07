@@ -1,6 +1,5 @@
 ```ngMeta
 name: smtp
-completionMethod: manual
 ```
 # SMTP
 Much like HTTP is the protocol used by computers to send web pages across the Internet, Simple Mail Transfer Protocol (SMTP) is the protocol used for sending email. SMTP dictates how email messages should be formatted, encrypted, and relayed between mail servers, and all the other details that your computer handles after you click Send. You don’t need to know these technical details, though, because Python’s smtplib module simplifies them into a few functions.

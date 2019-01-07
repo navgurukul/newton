@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-delimiter-and-lineterminator-keyword-arguments
-completionMethod: manual
 ```
 # The delimiter and lineterminator Keyword Arguments
 Say you want to separate cells with a tab character instead of a comma and you want the rows to be double-spaced. You could enter something like the following into the interactive shell:

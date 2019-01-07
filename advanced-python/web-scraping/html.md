@@ -1,6 +1,5 @@
 ```ngMeta
 name: html
-completionMethod: manual
 ```
 #HTML
 Before you pick apart web pages, you’ll learn some HTML basics. You’ll also see how to access your web browser’s powerful developer tools, which will make scraping information from the Web much easier.

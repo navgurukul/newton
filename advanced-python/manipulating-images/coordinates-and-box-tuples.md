@@ -1,6 +1,5 @@
 ```ngMeta
 name: coordinates-and-box-tuples
-completionMethod: manual
 ```
 # Coordinates and Box Tuples
 Image pixels are addressed with x- and y-coordinates, which respectively specify a pixel’s horizontal and vertical location in an image. The origin is the pixel at the top-left corner of the image and is specified with the notation (0, 0). The first zero represents the x-coordinate, which starts at zero at the origin and increases going from left to right. The second zero represents the y-coordinate, which starts at zero at the origin and increases going down the image. This bears repeating: y-coordinates increase going downward, which is the opposite of how you may remember y-coordinates being used in math class. Figure 17-1 demonstrates how this coordinate system works.

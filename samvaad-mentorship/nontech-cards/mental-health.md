@@ -1,6 +1,5 @@
 ```ngMeta
 name: Mental Health
-completionMethod: manual
 ```
 
 ### Mental Health Awareness

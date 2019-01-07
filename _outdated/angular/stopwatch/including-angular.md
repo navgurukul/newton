@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part I Basics
-completionMethod: automatic
 ```
 # Part I...  Basics
 - Aapko _[yeh](https://github.com/vidur149/angular-multifunctional/issues/1)_ issue resolve karna hai. Issue resolve karne se pehle iss slide ko padho.

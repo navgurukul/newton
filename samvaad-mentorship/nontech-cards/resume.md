@@ -1,6 +1,5 @@
 ```ngMeta
 name: Resume Writing
-completionMethod: manual
 ```
 
 ## Resume Writing

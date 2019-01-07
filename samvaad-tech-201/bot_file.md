@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bot
-completionMethod: manual
 ```
 
 @[youtube](unc5JMWNQag)

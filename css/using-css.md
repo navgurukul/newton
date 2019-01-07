@@ -1,6 +1,5 @@
 ```ngMeta
 name: Using CSS
-completionMethod: peer
 ```
 
 ## Using CSS

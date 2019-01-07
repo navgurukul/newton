@@ -1,6 +1,5 @@
 ```ngMeta 
 name: Encryption
-completionMethod: manual
 ```
 
 ## ENCRYPTION KYA HAI ?

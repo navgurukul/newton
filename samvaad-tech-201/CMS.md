@@ -1,6 +1,5 @@
 ```ngMeta
 name: CMS
-completionMethod: manual
 ```
 
 # CMS(Control Management System):-

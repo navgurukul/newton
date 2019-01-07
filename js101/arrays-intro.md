@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kuch arrays banate hain
-completionMethod: manual
 ```
 
 - Explain what is array and how to declare an array like a bag of items

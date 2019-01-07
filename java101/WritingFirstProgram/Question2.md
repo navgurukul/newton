@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 2
-completionMethod: manual
 ```
 
 Dusre program mein yeh print karna hai.

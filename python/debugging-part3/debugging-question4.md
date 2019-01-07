@@ -1,6 +1,5 @@
 ```ngMeta
 name: Fight the Alien
-completionMethod: peer
 submissionType: url
 ```
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Setting Up Java Environment
-completionMethod: manual
 ```
 
 Java Development Environment setup karne ke liye aapko openjdk package install karna parega. 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: PartIV Scope
-completionMethod: manual
 ```
 # Part IV Scope
 

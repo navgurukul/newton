@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part II Filters   
-completionMethod: manual
 ```
 # Part II Filters
 

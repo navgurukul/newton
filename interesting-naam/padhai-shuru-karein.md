@@ -1,6 +1,5 @@
 ```ngMeta
 name: Padhain Shuru Karein
-completionMethod: manual
 ```
 
 ## Padhai Shuru Karein

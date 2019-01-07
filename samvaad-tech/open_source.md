@@ -1,6 +1,5 @@
 ```ngMeta
 name:Open Source
-completionMethod: Manual
 ```
 
 ## Aap yeh videos dekhein:

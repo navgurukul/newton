@@ -1,6 +1,5 @@
 ```ngMeta
 name: Motivation
-completionMethod: manual
 ```
 ## Motivation
 

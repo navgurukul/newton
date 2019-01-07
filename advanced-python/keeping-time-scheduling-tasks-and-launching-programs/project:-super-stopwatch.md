@@ -1,6 +1,5 @@
 ```ngMeta
 name: project:-super-stopwatch
-completionMethod: manual
 ```
 # Project: Super Stopwatch
 Say you want to track how much time you spend on boring tasks you haven’t automated yet. You don’t have a physical stopwatch, and it’s surprisingly difficult to find a free stopwatch app for your laptop or smartphone that isn’t covered in ads and doesn’t send a copy of your browser history to marketers. (It says it can do this in the license agreement you agreed to. You did read the license agreement, didn’t you?) You can write a simple stopwatch program yourself in Python.

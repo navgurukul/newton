@@ -1,6 +1,5 @@
 ```ngMeta
 name: creating-word-documents-with-nondefault-styles
-completionMethod: manual
 ```
 # Creating Word Documents with Nondefault Styles
 If you want to create Word documents that use styles beyond the default ones, you will need to open Word to a blank Word document and create the styles yourself by clicking the New Style button at the bottom of the Styles pane (Figure 13-6 shows this on Windows).

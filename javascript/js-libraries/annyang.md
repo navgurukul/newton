@@ -1,6 +1,5 @@
 ```ngMeta
 name: Annyang.js
-completionMethod: manual
 ```
 
 # Part II  another JS library

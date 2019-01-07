@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-in-and-not-in-operators
-completionMethod: manual
 ```
 # The in and not in Operators
 You can determine whether a value is or isn’t in a list with the in and not in operators. Like other operators, in and not in are used in expressions and connect two values: a value to look for in a list and the list where it may be found. These expressions will evaluate to a Boolean value. Enter the following into the interactive shell:

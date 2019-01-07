@@ -1,6 +1,5 @@
 ```ngMeta
 name: Basic Financial Literact - Part Two
-completionMethod: manual
 ```
 
 ## Basic Financial Literacy - Part Two

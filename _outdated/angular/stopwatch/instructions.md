@@ -1,6 +1,5 @@
 ```ngMeta
 name: Stopwatch
-completionMethod: manual
 ```
 # Instructions...
 

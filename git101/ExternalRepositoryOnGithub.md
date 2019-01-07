@@ -1,6 +1,5 @@
 ```ngMeta
 name: Repository On GitHub
-completionMethod: manual
 ```
 
 Aapne abhi tak apne project repository ko apne system mein hi rakha hai.

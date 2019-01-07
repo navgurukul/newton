@@ -1,6 +1,5 @@
 ```ngMeta
 name: Çomparison Operator
-completionMethod: manual
 ```
 
 # Comparison Operator

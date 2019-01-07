@@ -1,6 +1,5 @@
 ```ngMeta
 name: What Do Computers Do?
-completionMethod: manual
 ```
 
 Human History mein kuch innovations ne Human progress ki direction aur speed hamesha ke liye change kar diya.

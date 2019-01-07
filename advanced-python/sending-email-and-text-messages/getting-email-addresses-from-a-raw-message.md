@@ -1,6 +1,5 @@
 ```ngMeta
 name: getting-email-addresses-from-a-raw-message
-completionMethod: manual
 ```
 # Getting Email Addresses from a Raw Message
 The raw messages returned from the fetch() method still aren’t very useful to people who just want to read their email. The pyzmail module parses these raw messages and returns them as PyzMessage objects, which make the subject, body, “To” field, “From” field, and other sections of the email easily accessible to your Python code.

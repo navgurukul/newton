@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction to Diwali Projects
-completionMethod: manual
 ```
 
 ## Diwali Projects

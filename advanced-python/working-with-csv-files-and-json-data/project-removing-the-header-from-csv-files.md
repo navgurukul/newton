@@ -1,6 +1,5 @@
 ```ngMeta
 name:  project-removing-the-header-from-csv-files
-completionMethod: manual
 ```
 # Project: Removing the Header from CSV Files
 Say you have the boring job of removing the first line from several hundred CSV files. Maybe you’ll be feeding them into an automated process that requires just the data and not the headers at the top of the columns. You could open each file in Excel, delete the first row, and resave the file—but that would take hours. Let’s write a program to do it instead.

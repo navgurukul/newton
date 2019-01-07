@@ -1,6 +1,5 @@
 ```ngMeta
 name: Food and Kitchen Coordinator
-completionMethod: manual
 ```
 
 # Food and Kitchen Coordinator

@@ -1,6 +1,5 @@
 ```ngMeta
 name: El-If Question 1
-completionMethod: manual
 ```
 
 Socho aap ek planet par ho jahan yeh rules hain

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question #2
-completionMethod: manual
 ```
 
 Ek program likho jo user 2 input le. Pehli input mein woh user ka naam le aur dusri input mein user ki age.

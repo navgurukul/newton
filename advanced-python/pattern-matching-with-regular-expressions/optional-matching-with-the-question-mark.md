@@ -1,6 +1,5 @@
 ```ngMeta
 name: optional-matching-with-the-question-mark
-completionMethod: manual
 ```
 # Optional Matching with the Question Mark
 Sometimes there is a pattern that you want to match only optionally. That is, the regex should find a match whether or not that bit of text is there. The ? character flags the group that precedes it as an optional part of the pattern. For example, enter the following into the interactive shell:

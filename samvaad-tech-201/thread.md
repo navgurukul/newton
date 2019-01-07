@@ -1,6 +1,5 @@
 ```ngMeta
 name: thread
-completionMethod: manual
 ```
 
 ## Apko ye videos dekhni hai phle

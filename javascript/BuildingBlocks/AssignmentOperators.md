@@ -1,6 +1,5 @@
 ```ngMeta
 name: Assignment Operators
-completionMethod: manual
 ```
 
 # Assignment Operators

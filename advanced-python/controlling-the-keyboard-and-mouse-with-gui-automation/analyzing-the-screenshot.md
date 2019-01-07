@@ -1,6 +1,5 @@
 ```ngMeta
 name: analyzing-the-screenshot
-completionMethod: manual
 ```
 # Analyzing the Screenshot
 Say that one of the steps in your GUI automation program is to click a gray button. Before calling the click() method, you could take a screenshot and look at the pixel where the script is about to click. If it’s not the same gray as the gray button, then your program knows something is wrong. Maybe the window moved unexpectedly, or maybe a pop-up dialog has blocked the button. At this point, instead of continuing—and possibly wreaking havoc by clicking the wrong thing—your program can “see” that it isn’t clicking on the right thing and stop itself.

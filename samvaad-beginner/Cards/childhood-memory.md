@@ -1,6 +1,5 @@
 ```ngMeta
 name: Childhood Memory
-completionMethod: Manual
 ```
 
 ## Childhood Memory

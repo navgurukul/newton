@@ -1,6 +1,5 @@
 ```ngMeta
 name: Compiling & Running Your Programs
-completionMethod: manual
 ```
 
 Humne apna pehla program toh likh liya. Ab humein apne programs ache se run karne bhi aate hain.

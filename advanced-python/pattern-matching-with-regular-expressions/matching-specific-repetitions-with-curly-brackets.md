@@ -1,6 +1,5 @@
 ```ngMeta
 name: matching-specific-repetitions-with-curly-brackets
-completionMethod: manual
 ```
 # Matching Specific Repetitions with Curly Brackets
 If you have a group that you want to repeat a specific number of times, follow the group in your regex with a number in curly brackets. For example, the regex (Ha){3} will match the string 'HaHaHa', but it will not match 'HaHa', since the latter has only two repeats of the (Ha) group.

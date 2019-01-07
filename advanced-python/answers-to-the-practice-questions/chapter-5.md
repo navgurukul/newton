@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-5
-completionMethod: manual
 ```
 # Chapter 5
 Two curly brackets: {}

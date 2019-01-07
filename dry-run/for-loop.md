@@ -1,6 +1,5 @@
 ```ngMeta
 name: For Loops
-completionMethod: manual
 ```
 
 Yeh video dekh kar aap for loop ko ek baar samjhein.

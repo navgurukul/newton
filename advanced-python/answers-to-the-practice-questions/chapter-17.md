@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-17
-completionMethod: manual
 ```
 # Chapter 17
 An RGBA value is a tuple of 4 integers, each ranging from 0 to 255. The four integers correspond to the amount of red, green, blue, and alpha (transparency) in the color.

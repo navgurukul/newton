@@ -1,6 +1,5 @@
 ```ngMeta
 name: manipulating-strings
-completionMethod: manual
 ```
 # Manipulating Strings
 Text is one of the most common forms of data your programs will handle. You already know how to concatenate two string values together with the + operator, but you can do much more than that. You can extract partial strings from string values, add or remove spacing, convert letters to lowercase or uppercase, and check that strings are formatted correctly. You can even write Python code to access the clipboard for copying and pasting text.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Nested Nested If Question 2
-completionMethod: manual
 ```
 
 1. User se ek `varx` naam ka integer input lo.

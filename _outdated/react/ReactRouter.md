@@ -1,6 +1,5 @@
 ```ngMeta
 name: React Router
-completionMethod: manual
 ```
 
 Generally, aapne dekha hoga ki jab hum website ke ek page se doosre page par navigate karne ke liye koi link click karte hain, toh page ya toh refresh hota hai ya naya HTML page render hota hai.

@@ -1,6 +1,5 @@
 ```ngMeta
 name:  passing-arguments-to-the-threads-target-function
-completionMethod: manual
 ```
 # Passing Arguments to the Thread’s Target Function
 If the target function you want to run in the new thread takes arguments, you can pass the target function’s arguments to threading.Thread(). For example, say you wanted to run this print() call in its own thread:

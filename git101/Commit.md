@@ -1,6 +1,5 @@
 ```ngMeta
 name: Committing to a Repository
-completionMethod: manual
 ```
 
 Aapne working directory mein files ko edit karke apni story ki beginning likh li hai.

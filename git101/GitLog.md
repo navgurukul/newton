@@ -1,6 +1,5 @@
 ```ngMeta
 name: Git Log
-completionMethod: manual
 ```
 Aap apne file repository mein bahut saare changes/ commits kar sakte hain.
 

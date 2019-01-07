@@ -1,6 +1,5 @@
 ```ngMeta
 name: Running JS code inside JSX
-completionMethod: manual
 ```
 
 Aapne abhi tak JSX mein dekha ki:

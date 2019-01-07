@@ -1,6 +1,5 @@
 ```ngMeta
 name: overlaying-pages
-completionMethod: manual
 ```
 # Overlaying Pages
 PyPDF2 can also overlay the contents of one page over another, which is useful for adding a logo, timestamp, or watermark to a page. With Python, it’s easy to add watermarks to multiple files and only to pages your program specifies.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Implementation Medium Question 2
-completionMethod: manual
 ```
 
 Implementation waale section mein se koi bhi ek bhi ek "Medium" category wala question solve karo.

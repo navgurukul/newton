@@ -1,6 +1,5 @@
 ```ngMeta
 name: Client Server Model
-completionMethod: manual
 ```
 *Apko jo  videos dekhne Rahe Hai*
 

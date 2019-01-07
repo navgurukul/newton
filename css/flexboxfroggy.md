@@ -1,6 +1,5 @@
 ```ngMeta
 name: CSS3 Flexbox - Let's play a game
-completionMethod: manual
 ```
 
 # CSS3 Flexbox - Let's play a game

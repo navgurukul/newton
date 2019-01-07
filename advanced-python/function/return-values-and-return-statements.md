@@ -1,6 +1,5 @@
 ```ngMeta
 name: return-values-and-return-statements
-completionMethod: manual
 ```
 # Return Values and return Statements
 When you call the len() function and pass it an argument such as 'Hello', the function call evaluates to the integer value 5, which is the length of the string you passed it. In general, the value that a function call evaluates to is called the return value of the function.

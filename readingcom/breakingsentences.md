@@ -1,6 +1,5 @@
 ```ngMeta
 name: Breaking Down Sentences into Phrases
-completionMethod: manual
 ```
 
 

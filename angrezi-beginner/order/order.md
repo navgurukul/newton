@@ -1,6 +1,5 @@
 ```ngMeta
 name: Order Order
-completionMethod: manual
 ```
 
 ## Order Order
