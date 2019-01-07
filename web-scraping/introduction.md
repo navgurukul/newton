@@ -3,9 +3,9 @@ name: Introduction to Web Scraping
 completionMethod: manual
 ```
 
-##WEB SCRAPING in PYTHON
+WEB SCRAPING in PYTHON
 
-##DEFINITION:
+DEFINITION:
 Web scraping ek process hai jisme ek user software ya fir bots ka use kar ke websites se data extract karta hai. Ise ek tarah se copying keh sakte hai jisme hum websites se vo data extract karte hai jiski hume zarurat hai aur fir vo data ko hum ek jagha save karte hai. Baad me hum use data par analysis bhi run karsakte hai.
 For example aapko apne saare facebook friends ki list chaiye to aap web scraping ka use kar ke ek scraper bana sakte hai jiska kaam hoga aapke saare facebook friends ki list extract karna.
 Web scraping ki advantages aur disadvantages ke liye neeche diye gaye link par jayein.
@@ -17,5 +17,5 @@ https://scrapingexpert.com/advantages-disadvantages-web-scraping/
 ##EXAMPLES of WEB SCRAPING
 #Real Estate Listings gathering
 #Trivago
-@[eA5MNQ4f1uc]
+@[youtube](https://www.youtube.com/watch?v=eA5MNQ4f1uc)
 #
