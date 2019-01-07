@@ -19,7 +19,7 @@ Iss project hum yeh sab tasks karenge:
 2. Movies ko unki **release date ke hisaab se** group karenge.
 3. Movies ko **decade of release ke hisaab se** group karenge. Jaise saari 1960s ki movies ek saath print karenge, 1970s ki alag se etc.
 4. Movies ko unke **Directors** aur **Actors** ke hisaab se group karenge.
-5. Yeh dekhenge ki kaunse kaunse actors ek dusre ke saath act karte hain.
+5. Yeh dekhenge ki kaunse kaunse actors ek dusre ke saath zyada kaam karte hain. Kya `Rajesh Khanna` aur `Amitabh Bachan` ki ek saaath zyada movies hain ya `Rajesh Khanna` aur `Dev Anand`. 
 6. Aur bhi bahot saari interesting tasks karenge. Aap apne aap bhi bahot saari interesting cheezein soch sakte ho.
 
 Happy Learning !!
