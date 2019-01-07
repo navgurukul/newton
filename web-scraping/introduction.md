@@ -25,6 +25,6 @@ Scraping ke aur bahot saare interesting cases hote hain. Kuch use cases ko humne
 Trivago ek **Hotel Comparison Engine** hai. Maan lein hum Jaipur jaa rahe hain. Hum wahan rehne ke liye MakeMyTrip jaisi websites ka use kar ke hotels book kara sakte hain. Lekin hotels book karane ki itni saari websites hain, humein saari check karke sabsi sasti dhundni bahot mushkil hoti hai. Yahan **Trivago** humare liye ek hotel ki price saari online booking websites se nikaal ke ek jagah pe dikhata hai. Yeh karne ke liye woh saari hotel booking websites ko scrape karta hai. Upar di hui ad ko dekh ko isko aur ache se samajh sakte ho.
 
 ### Google News
-Google News, web scraping ka ek bahut hi accha example. Google News bahut saari news websites ki **Headlines** aur un **Headlines ki Details**  extract karke humare samne present kar deta hai. Agar aap [iss](https://www.scrapehero.com/a-beginners-guide-to-web-scraping-part-1-the-basics/) link ko khol kar dekhe to aapko dikhega ki google news **Times of India**, **The Hindu**, **NDTV**, **News18**, **Hindustan Times** jaisi websites se data extract karke print karta hai.
+Google News, web scraping ka ek bahut hi accha example. Google News bahut saari news websites ki **Headlines** aur un **Headlines ki Details**  extract karke humare samne present kar deta hai. Agar aap [iss](https://news.google.com/?hl=en-IN&gl=IN&ceid=IN:en) link ko khol kar dekhe to aapko dikhega ki google news **Times of India**, **The Hindu**, **NDTV**, **News18**, **Hindustan Times** jaisi websites se data extract karke print karta hai.
 
 
