@@ -8,23 +8,17 @@ Yahan hun apne project ke baare mein ache se samjhenge ki hum kya bana rahe hain
 
 @[youtube](https://youtu.be/HSeAiYYXzFc)
 
-To basically hume ek scraper banayenge jo ki IMDb ka data scrape karega. 
-Hum following tasks karenge:
-Top 250 Indian movies ki list ko teminal par print karayege.
-Un movies ki details bhi extract karenge.
-Hum movies ko group bhi kareneg. For example, hum vo sarri movies ek sath print kara sakte hai jo ek hi year me release hui hai ya fir ek decade me bani hai. 
+Upar waali video mein maine ache se explain kia hai ki hum kya applications bana rahe hain.
 
-## Hum web scraping se bhot si cool cheeze kar skte hai jaise:
-#### Fetching Twitter trends
-#### Fetching buying trends on ecommerce sites
-#### Scraping data of job vacancies
-#### Fetching data on Google trends
-#### Getting trending news
-#### Getting popular topics/news on social media
-#### E-commerce
-#### Social Media
-#### Sales Leads
-#### Search Engine Optimization
-#### Recruitment
-#### Blogging
+Isko aur ache se samajhne ke liye aap [IMDB.com](https://imdb.com) pe jaake ek baar uss website ko ache se dekh sakte hain. IMDB se hum **Top 250 Indian Movies** ki list to scrape karenge. Uske baad hum movies ki details ko analuse karenge. Iss list ko aap [iss link](https://www.imdb.com/india/top-rated-indian-movies?ref_=nv_mv_250_in) pe dekh sakte hain.
 
+Iss project hum yeh sab tasks karenge:
+
+1. **Top 250 Indian Movies** waali list mein se saari movies ki detail apne python ke code mein nikalenge.
+2. Movies ko unki **release date ke hisaab se** group karenge.
+3. Movies ko **decade of release ke hisaab se** group karenge. Jaise saari 1960s ki movies ek saath print karenge, 1970s ki alag se etc.
+4. Movies ko unke **Directors** aur **Actors** ke hisaab se group karenge.
+5. Yeh dekhenge ki kaunse kaunse actors ek dusre ke saath zyada kaam karte hain. Kya `Rajesh Khanna` aur `Amitabh Bachan` ki ek saaath zyada movies hain ya `Rajesh Khanna` aur `Dev Anand`. 
+6. Aur bhi bahot saari interesting tasks karenge. Aap apne aap bhi bahot saari interesting cheezein soch sakte ho.
+
+Happy Learning !!
