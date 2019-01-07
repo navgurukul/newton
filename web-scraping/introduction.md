@@ -17,5 +17,5 @@ https://scrapingexpert.com/advantages-disadvantages-web-scraping/
 ##EXAMPLES of WEB SCRAPING
 #Real Estate Listings gathering
 #Trivago
-[eA5MNQ4f1uc]
+@[eA5MNQ4f1uc]
 #
