@@ -1,11 +1,9 @@
-```ngMeta
-name: present perfect tense Tense
-```
-
-@[youtube](k3eGDA-IJuM link of video )
 
 
-https://www.examtricksadda.com/2017/08/present-perfect-tense-hindi-to-english-translation-anuwad-rules-has-have-uses.html
+@[youtube](k3eGDA-IJuM)
+
+
+[Link](https://www.examtricksadda.com/2017/08/present-perfect-tense-hindi-to-english-translation-anuwad-rules-has-have-uses.html)
 
 Present Perfect Tense Examples
 
