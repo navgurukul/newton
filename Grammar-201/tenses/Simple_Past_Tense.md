@@ -1,9 +1,9 @@
-Simple Past Tense
-
-name Simple past Tense
+## Simple Past Tense
 
 @[youtube](-vlx-7hyJf4)
+
 @[youtube](y0VTP7https)
+
 @[youtube](OxyQRx9cUTA)
 1)How do you form the simple past tense?
 The past simple is usually formed by adding d, ed, or ied to the base form of the verb, however, in English there are many irregular verbs that take on a completely different form in the past tense. Some people call this the V2 form of the verb. The best thing to do is to try and memorize them.
@@ -50,7 +50,7 @@ Fill in the verbs in parentheses in simple past tense.
 
 20)We ....... at Ajunta caves.(reach)
 
-###You chak your answer
+### You chak your answer
 
 1)I .met.... swati.
 
@@ -92,9 +92,9 @@ Fill in the verbs in parentheses in simple past tense.
 
 20)We ..reached..... at Ajunta caves.
 
-###Simple past Tense
+### Simple past Tense
 You can visit more learn this website:-
 
-*[Exercise](https://www.englishgrammar.org/simple-tense-exercise/)
-*[Exercise](https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php)
-*[Exercise](https://www.easypacelearning.com/pdf/tense2.pdf)
+[Exercise](https://www.englishgrammar.org/simple-tense-exercise/)
+[Exercise](https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php)
+[Exercise](https://www.easypacelearning.com/pdf/tense2.pdf)
