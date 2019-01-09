@@ -2,7 +2,6 @@
   - Tenses.md
   - Simple_Present_Tense.md
   - Present_Continuous_Tense.md
-  - Simple_Past_Tense
   - Past_Continuos_Tense.md
   - Past_Perfect_Tense.md
   - Simple_Future_Tense.md
