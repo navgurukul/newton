@@ -10,6 +10,10 @@ Jisse ki `words.txt` mei se koi random word computer use kare user se guess kara
 - `words.txt` ko read kar kar, ek `array/list` bana kar `load_words` se return kar sakte ho
 - file padhne ke liye, `readline()` function use kar sakte ho 
 
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=6LiPNTmkNeY)
+
 ## Possible Solution
 ```python
 def load_words():
