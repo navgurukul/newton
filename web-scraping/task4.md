@@ -1,16 +1,19 @@
 ```ngMeta
 name: Task 4
+submissionType:url
 ```
 
 # Task 4
 
-Ab humne movies ki list se ek ache se structure mein unki details nikalne ka scraper toh likh liya hai `scrape_top_list()` waale function mein. Aap agar notice karoge toh 
+Ab humne movies ki list se ek ache se structure mein unki details nikalne ka scraper toh likh liya hai `scrape_top_list()` waale function mein. Aap agar notice karoge toh har **Top Rated Indian Movies** waali list mein har movie ka ek alag link diya hua hai. Iss linked page pe uss movie ki saari details depth mein likhi hui hain. Iss task mein humne ek aur function likhna hai jo uss movie ke saari indivual details nikalega.
 
-Now we have to write a function to extract the indivual details of a movie. Yeh karke hum har movie ke page pe jake uski poori details nikaal sakte hain. The function should be called extract_movie_details and it should take a parameter called movie_url`. The `movie_url prameter will have the URL of IMDB which has all the details of a movie.
-The function should return the following details about a movie. Example if I give https://www.imdb.com/title/tt0066763/ then it should return the following dictionary.
+![Anand IMDB](images/anand_imdb.png)
 
+Iss function ka naam `scrape_movie_details` hoga. Yeh function ek parameter lega called `movie_url` jismein uss movie ka URL hai jiski details nikalni hai. Iss function ko ek dictionary return karni hogi. Iss dictionary ka structure neeche diya hua hai. Agar aap yeh code Anand movie (https://www.imdb.com/title/tt0066763/) ke liye chala rahe ho toh woh function neeche di hui dictionary return karega.
+
+```
 {
-"name": "Anand"
+	"name": "Anand"
 	"director": ["Hrishikesh Mukherjee"],
 	"country": "India",
 	"language": ["Hindi"],
@@ -21,24 +24,18 @@ The function should return the following details about a movie. Example if I giv
 		"Drama"
 	]
 }
+```
 
+Kuch important cheezein aapko apne dimaag mein rakhni hai when writing the code for this function.
 
-Upar waali dictionary mein har value ki data type ko gaur se dekho. Yeh data type same honi chaiye tumhari output ki bhi.
+1. Upar waali dictionary mein har value ki data type ko gaur se dekho. Yahan dia hua data type aur aapki final dictionary ka output same hona chaiye.
+2. Genre mein ek strings ki list hai. Kyunki Anand ki sirf ek hi Genre hai toh usme sirf ek string hai. Kuch movies ki multiple genre hoti hai aur woh comma se seperated diye hote hain. Toh uss case mein genre waali list mein alag alag strings hone chaiye. Aisi ek movie **Andhadhun** (https://www.imdb.com/title/tt8108198/) hai.
+3. Anand ka toh ek hi director hai isliye uski `"director"` waali list mein sirf `["Hrishikesh Mukherjee"]` hai. Lekin kuch movies hoti hai jinme ek se zyada director hote hain. Unn movies mein saare directors ka naam comma seperated hona chaiye. **Taare Zameen Par** (https://www.imdb.com/title/tt0986264/) ek aisi movie hai jiske IMDB ke hisaab se 2 directors hain.
+4. Directors aur Genre ki tarah ek movie mein multiple languages ka use bhi kia ho sakta hai. Isiliye `languages` waali dictionary key bhi list of strings ki honi chaiye. Nayakan ek aisi movie hai jismein multiple languages hain. (https://www.imdb.com/title/tt0093603/)
+5. Notice karo `"runtime"` key mein bas ek integer hain. Waise runtime jo hai woh **2h 13m** jaise format mein dia hota hai. Aapko iss format ko sirf minutes mein convert karna hoga. Jaise **2h 13m** 133 minutes ban jayega kyunki **(2*60) + 13 = 133**. Isliye 133 minutes.
 
-Genre mein ek strings ki list hai. Kyunki Anand ki sirf ek hi Genre hai toh usme sirf ek string hai. Kuch movies ki multiple genre hoti hai aur woh comma se seperated diye hote hain. Toh uss case mein genre waali list mein alag alag strings hone chaiye.
-
-Kuch movies hain jinme ek se zyada director honge jisme comma seperated list di hogi. Jaise `Taare Zameen Par`. Isliye Director bhi ek list hogi.
-
-Directors aur Genre ki tarah ek movie mein ek se zyada languages ka prayog hua ho sakta hai. Isliye woh bhi list honi chaiye. Jaise Nayakan https://www.imdb.com/title/tt0093603/
-
-Runtime ko Technical Specs wale section mein se scrape karo. Wahan runtime sirf minutes mein dia hua hai.
-
-# Hint
-
-
+Submit karne se pehle apne code ko at least 10 movies ke alag alag pages ke test karke dekho ki aapka code sahi results return kar raha hai.
 
 # Solution
 
 @[youtube](video-id-here)
-
-**TODO: Add the solution video here.**
