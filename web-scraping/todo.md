@@ -4,7 +4,7 @@ name: Pending To-Dos (for course creators)
 
 # Pending Tasks
 
-- `introduction.md` Add examples and a basic description for scraping.
+- ~~`introduction.md` Add examples and a basic description for scraping.~~
 - project-intro.md
 - what-is-scraping.md
 - task1.md
