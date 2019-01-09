@@ -4,7 +4,7 @@ name: Task 4
 
 # Task 4
 
-**TODO: Iski description ache se likhne ki zaroorat hai.**
+Ab humne movies ki list se ek ache se structure mein unki details nikalne ka scraper toh likh liya hai `scrape_top_list()` waale function mein. Aap agar notice karoge toh 
 
 Now we have to write a function to extract the indivual details of a movie. Yeh karke hum har movie ke page pe jake uski poori details nikaal sakte hain. The function should be called extract_movie_details and it should take a parameter called movie_url`. The `movie_url prameter will have the URL of IMDB which has all the details of a movie.
 The function should return the following details about a movie. Example if I give https://www.imdb.com/title/tt0066763/ then it should return the following dictionary.
