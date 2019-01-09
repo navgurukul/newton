@@ -5,8 +5,10 @@
 @[youtube](y0VTP7https)
 
 @[youtube](OxyQRx9cUTA)
-1)How do you form the simple past tense?
-The past simple is usually formed by adding d, ed, or ied to the base form of the verb, however, in English there are many irregular verbs that take on a completely different form in the past tense. Some people call this the V2 form of the verb. The best thing to do is to try and memorize them.
+
+
+How do you form the simple past tense?
+The past simple is usually formed by adding 'd', 'ed', or 'ied' to the base form of the verb, however, in English there are many irregular verbs that take on a completely different form in the past tense. Some people call this the V2 form of the verb. The best thing to do is to try and memorize them.
 
 Fill in the verbs in parentheses in simple past tense.
 
