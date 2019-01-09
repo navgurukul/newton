@@ -14,4 +14,12 @@ name: Pending To-Dos (for course creators)
 - ~~**@Rishabh** Add the structure for `task5.md`~~
 - ~~**@Rishabh** Add the structure for `task6.md`~~
 - ~~**@Rishabh** Add the structure for `task7.md`~~
-- **@Rishabh** Add the structure for `task8.md`
+- ~~**@Rishabh** Add the structure for `task8.md` Caching of data using the ID in the IMDB URL in a directory. That cache will be used always from now. use_cache=True/False~~
+- **Rishabh** Getting the list of all movies by using a random sleep timer of 1 to 3 seconds.
+- **Rishabh** Language and director comparison of all movies.
+- **Rishabh** Analyse by Genre
+- **Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.
+- **Rishabh** Given the name of an actor can we figure out who he acts with the most?
+- **Rishabh** List of all actors who feature in more than 2 movies.
+- **Rishabh** Bonus: Scrape Similar Movies.
+- **Rishabh** Bonus Analysis: Figure out what kind of movies are liked by Men & Women. https://www.imdb.com/title/tt8108198/ratings?ref_=tt_ov_rt
