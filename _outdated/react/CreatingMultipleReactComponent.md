@@ -1,6 +1,5 @@
 ```ngMeta
 name: Creating Multiple React Components
-completionMethod: manual
 ```
 Aapne iss se pehle lessons mein ek <Header> naam ka React component banaya tha.
 

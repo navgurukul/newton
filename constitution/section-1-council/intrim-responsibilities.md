@@ -1,6 +1,5 @@
 ```ngMeta
 name: Interim Responsibilities
-completionMethod: manual
 ```
 
 ## Interim Responsibilities

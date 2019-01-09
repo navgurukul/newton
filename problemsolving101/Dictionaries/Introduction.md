@@ -1,6 +1,5 @@
 ```ngMeta
 name: Dictionaries
-completionMethod: manual
 ```
 
 Total dictionaries mein se aapko 2 questions solve karne hain. Saare "Easy" tag waale.

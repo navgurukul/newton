@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-keys()-values()-and-items()-methods
-completionMethod: manual
 ```
 # The keys(), values(), and items() Methods
 There are three dictionary methods that will return list-like values of the dictionary’s keys, values, or both keys and values: keys(), values(), and items(). The values returned by these methods are not true lists: They cannot be modified and do not have an append() method. But these data types (dict_keys, dict_values, and dict_items, respectively) can be used in for loops. To see how these methods work, enter the following into the interactive shell:

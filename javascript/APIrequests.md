@@ -1,6 +1,5 @@
 ```ngMeta
 name: API Request
-completionMethod: manual
 ```
 
 Apne browser ke address box mein "http://quotes.rest/qod.json?category=inspire" daale.

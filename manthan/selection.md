@@ -1,6 +1,5 @@
 ```ngMeta
 name: Selection Process
-completionMethod: manual
 ```
 ### Manthan Selection Criteria
 In order to be fair and transparent, we have documented the process of selection of students for Manthan. Manthan selection is based on the following criteria:

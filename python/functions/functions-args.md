@@ -1,6 +1,5 @@
 ```ngMeta
 name: Function Arguments
-completionMethod: manual
 ```
 
 # What are function arguments?

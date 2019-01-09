@@ -1,6 +1,5 @@
 ```ngMeta
 name: python-introduction
-completionMethod: manual
 ```
 # Conventions
 

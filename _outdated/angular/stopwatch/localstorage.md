@@ -1,6 +1,5 @@
 ```ngMeta
 name: PartIII Local Storage
-completionMethod: peer
 ```
 # Part III Local Storage
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Iterating on Two Lists Togetherw
-completionMethod: manual
 ```
 
 # How to iterate on two lists together?

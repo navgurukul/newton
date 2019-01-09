@@ -1,6 +1,5 @@
 ```ngMeta
 name: Arithmetic Operations! Yaani maths.
-completionMethod: manual
 ```
 
 - Explain them how to do addition/subtraction/multiplication or power of two numbers.

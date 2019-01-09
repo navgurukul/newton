@@ -1,6 +1,5 @@
 ```ngMeta
 name: augmented-assignment-operators
-completionMethod: manual
 ```
 # Augmented Assignment Operators
 When assigning a value to a variable, you will frequently use the variable itself. For example, after assigning 42 to the variable spam, you would increase the value in spam by 1 with the following code:

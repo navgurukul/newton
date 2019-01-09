@@ -1,6 +1,5 @@
 ```ngMeta
 name: raw_input Question 1
-completionMethod: peer
 submissionType: url
 ```
 **Aapne iska code ek python file (`.py` extension ke saath) save kar ke submit karna.**

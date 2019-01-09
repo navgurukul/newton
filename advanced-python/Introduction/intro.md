@@ -1,6 +1,5 @@
 ```ngMeta
 name: intro
-completionMethod: manual
 ```
 # Conventions
 

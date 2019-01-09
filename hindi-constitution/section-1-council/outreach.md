@@ -1,6 +1,5 @@
 ```ngMeta
 name: Outreach and Communications Coordinator
-completionMethod: manual
 ```
 
 # Outreach and Communications Coordinator

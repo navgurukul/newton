@@ -1,6 +1,5 @@
 ```ngMeta
 name: aunching-other-programs-from-python
-completionMethod: manual
 ```
 # Launching Other Programs from Python
 Your Python program can start other programs on your computer with the Popen() function in the built-in subprocess module. (The P in the name of the Popen() function stands for process.) If you have multiple instances of an application open, each of those instances is a separate process of the same program. For example, if you open multiple windows of your web browser at the same time, each of those windows is a different process of the web browser program. See Figure 15-1 for an example of multiple calculator processes open at once.

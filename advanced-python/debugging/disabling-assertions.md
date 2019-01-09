@@ -1,6 +1,5 @@
 ```ngMeta
 name: disabling-assertions
-completionMethod: manual
 ```
 # Disabling Assertions
 Assertions can be disabled by passing the -O option when running Python. This is good for when you have finished writing and testing your program and don’t want it to be slowed down by performing sanity checks (although most of the time assert statements do not cause a noticeable speed difference). Assertions are for development, not the final product. By the time you hand off your program to someone else to run, it should be free of bugs and not require the sanity checks. See Appendix B for details about how to launch your probably-not-insane programs with the -O option.

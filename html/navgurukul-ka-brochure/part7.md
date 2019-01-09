@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part Seven
-completionMethod: peer
 ```
 
 # Part VII -  Alignment

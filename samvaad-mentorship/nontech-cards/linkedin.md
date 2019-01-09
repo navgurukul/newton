@@ -1,6 +1,5 @@
 ```ngMeta
 name: Linkedin Profile
-completionMethod: manual
 ```
 
 ## LinkedIn Profile

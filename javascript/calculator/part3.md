@@ -1,6 +1,5 @@
 ```ngMeta
 name: Calculator-Part III
-completionMethod: peer
 ```
 
 # Part III

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Basic Financial Literacy - Part 1
-completionMethod: manual
 ```
 
 ## Basic Financial Literacy - Banking

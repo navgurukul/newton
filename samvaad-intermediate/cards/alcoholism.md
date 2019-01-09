@@ -1,6 +1,5 @@
 ```ngMeta
 name: Alcoholism
-completionMethod: manual
 ```
 
 ## Alcoholism

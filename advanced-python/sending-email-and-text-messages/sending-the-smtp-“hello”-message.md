@@ -1,6 +1,5 @@
 ```ngMeta
 name: sending-the-smtp-“hello”-message
-completionMethod: manual
 ```
 # Sending the SMTP “Hello” Message
 Once you have the SMTP object, call its oddly named ehlo() method to “say hello” to the SMTP email server. This greeting is the first step in SMTP and is important for establishing a connection to the server. You don’t need to know the specifics of these protocols. Just be sure to call the ehlo() method first thing after getting the SMTP object or else the later method calls will result in errors. The following is an example of an ehlo() call and its return value:

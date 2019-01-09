@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part I ng-repeat
-completionMethod: peer
 ```
 # Part I ng-repeat
 

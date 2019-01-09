@@ -1,6 +1,5 @@
 ```ngMeta
 name:  practice-questions
-completionMethod: manual
 ```
 # Practice Questions
 For the following questions, imagine you have a Workbook object in the variable wb, a Worksheet object in sheet, a Cell object in cell, a Comment object in comm, and an Image object in img.

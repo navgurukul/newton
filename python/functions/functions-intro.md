@@ -1,6 +1,5 @@
 ```ngMeta
 name: Functions
-completionMethod: manual
 ```
 
 # Basics of Functions

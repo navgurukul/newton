@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 3
-completionMethod: manual
 ```
 Ek loop banao jo user se 10 numbers ko input le. Input lene ke baad unn saare numbers ka sum print kare.
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: 64bit vs 32bit
-completionMethod: manual
 ```
 ## Apko ye videos dekhne Rahe Hai
 

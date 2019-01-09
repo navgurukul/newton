@@ -1,6 +1,5 @@
 ```ngMeta
 name: Student Guidelines
-completionMethod: manual
 ```
 
 ### Student Guidelines

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kaise shuru karein?
-completionMethod: peer
 submissionType: url
 ```
 

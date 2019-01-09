@@ -1,6 +1,5 @@
 ```ngMeta
 name: Level Eight
-completionMethod: manual
 ```
 
 # Level Eight

@@ -1,6 +1,5 @@
 ```ngMeta
 name: adding-headings
-completionMethod: manual
 ```
 # Adding Headings
 Calling add_heading() adds a paragraph with one of the heading styles. Enter the following into the interactive shell:

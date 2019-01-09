@@ -1,6 +1,5 @@
 ```ngMeta
 name: More Arrays Medium Question 2
-completionMethod: manual
 ```
 
 **Arrays** waale section mein se koi bhi ek bhi ek "Medium" category wala question solve karo.

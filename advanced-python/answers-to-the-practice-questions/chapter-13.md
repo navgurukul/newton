@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-13
-completionMethod: manual
 ```
 # Chapter 13
 A File object returned from open()

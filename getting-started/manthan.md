@@ -1,6 +1,5 @@
 ```ngMeta
 name: Manthan
-completionMethod: manual
 ```
 
 ## Manthan

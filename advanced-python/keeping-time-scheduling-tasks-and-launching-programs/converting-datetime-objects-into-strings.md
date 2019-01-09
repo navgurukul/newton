@@ -1,6 +1,5 @@
 ```ngMeta
 name: converting-datetime-objects-into-strings
-completionMethod: manual
 ```
 # Converting datetime Objects into Strings
 Epoch timestamps and datetime objects aren’t very friendly to the human eye. Use the strftime() method to display a datetime object as a string. (The f in the name of the strftime() function stands for format.)

@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-automatic-form-filler
-completionMethod: manual
 ```
 # Project: Automatic Form Filler
 Of all the boring tasks, filling out forms is the most dreaded of chores. It’s only fitting that now, in the final chapter project, you will slay it. Say you have a huge amount of data in a spreadsheet, and you have to tediously retype it into some other application’s form interface—with no intern to do it for you. Although some applications will have an Import feature that will allow you to upload a spreadsheet with the information, sometimes it seems that there is no other way than mindlessly clicking and typing for hours on end. You’ve come this far in this book; you know that of course there’s another way.

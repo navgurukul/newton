@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variables Exercise 1
-completionMethod: peer
 submissionType: url
 ```
 

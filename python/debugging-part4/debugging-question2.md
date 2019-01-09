@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bagels
-completionMethod: peer
 submissionType: url
 ```
 

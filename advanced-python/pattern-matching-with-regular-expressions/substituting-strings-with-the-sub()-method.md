@@ -1,6 +1,5 @@
 ```ngMeta
 name: substituting-strings-with-the-sub()-method
-completionMethod: manual
 ```
 # Substituting Strings with the sub() Method
 Regular expressions can not only find text patterns but can also substitute new text in place of those patterns. The sub() method for Regex objects is passed two arguments. The first argument is a string to replace any matches. The second is the string for the regular expression. The sub() method returns a string with the substitutions applied.

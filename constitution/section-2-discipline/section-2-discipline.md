@@ -1,6 +1,5 @@
 ```ngMeta
 name: Section II - Disciplinary Committee
-completionMethod: manual
 ```
 
 # Disciplinary Committee

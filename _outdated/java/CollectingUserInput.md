@@ -1,6 +1,5 @@
 ```ngMeta
 name: Collecting User Input
-completionMethod: manual
 ```
 
 Aapne pichle lesson mein dekha ki Java mein sab kuch **Object-oriented** hai.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Using Library
-completionMethod: manual
 ```
 
 # Using Library

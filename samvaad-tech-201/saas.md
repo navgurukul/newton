@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is SAAS (Software-as-a-Service)
-completionMethod: manual
 ```
 
 # Aap yeh videos dekhein:

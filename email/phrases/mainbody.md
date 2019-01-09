@@ -1,6 +1,5 @@
 ```ngMeta
 name: Useful Phrases for Main Body
-completionMethod: manual
 ```
 
 ## Useful Phrases for Main Body of the Email

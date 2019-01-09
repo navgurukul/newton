@@ -1,6 +1,5 @@
 ```ngMeta
 name: Git Pull and Git Fetch
-completionMethod: manual
 ```
 
 Aapne kuch lesson pehle apne peer ki repository ko apne system mein "clone" kiya tha.

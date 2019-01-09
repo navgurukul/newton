@@ -1,6 +1,5 @@
 ```ngMeta
 name: Friends
-completionMethod: manual
 ```
 
 ### Friends

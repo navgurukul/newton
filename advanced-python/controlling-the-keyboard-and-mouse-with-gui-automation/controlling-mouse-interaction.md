@@ -1,6 +1,5 @@
 ```ngMeta
 name: controlling-mouse-interaction
-completionMethod: manual
 ```
 # Controlling Mouse Interaction
 Now that you know how to move the mouse and figure out where it is on the screen, you’re ready to start clicking, dragging, and scrolling.

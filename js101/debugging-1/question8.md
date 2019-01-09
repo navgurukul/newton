@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 8
-completionMethod: manual
 ```
 
 # If statements and boolean logic

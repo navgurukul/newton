@@ -1,6 +1,5 @@
 ```ngMeta
 name: copying-and-pasting-images-onto-other-images
-completionMethod: manual
 ```
 # Copying and Pasting Images onto Other Images
 The copy() method will return a new Image object with the same image as the Image object it was called on. This is useful if you need to make changes to an image but also want to keep an untouched version of the original. For example, enter the following into the interactive shell:

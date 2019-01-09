@@ -1,6 +1,5 @@
 ```ngMeta
 name: ReactIntro
-completionMethod: manual
 ```
 
 Iss video ko dekhiye: https://youtu.be/Pc6Bm4Xgkj8

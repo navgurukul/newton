@@ -1,6 +1,5 @@
 ```ngMeta
 name: review-of-regex-symbols
-completionMethod: manual
 ```
 # Review of Regex Symbols
 This chapter covered a lot of notation, so here’s a quick review of what you learned:

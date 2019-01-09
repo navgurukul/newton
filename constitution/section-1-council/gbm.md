@@ -1,6 +1,5 @@
 ```ngMeta
 name: General Body Meeting
-completionMethod: manual
 ```
 
 # General Body Meeting

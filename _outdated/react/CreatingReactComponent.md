@@ -1,6 +1,5 @@
 ```ngMeta
 name: Creating A React Component
-completionMethod: Manual
 ```
 
 Aapne pichle lessons mein dekha ki kaise React Applications, **Components** se bane hote hain.

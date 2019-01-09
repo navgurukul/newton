@@ -1,6 +1,5 @@
 ```ngMeta
 name: Taboo
-completionMethod: manual
 ```
 
 ### Preparation

@@ -1,6 +1,5 @@
 ```ngMeta
 name: present continuous Tense
-completionMethod: manual```
 
 
 **First you have to watch this video**

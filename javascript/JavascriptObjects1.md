@@ -1,6 +1,5 @@
 ```ngMeta
 name: Javascript Objects
-completionMethod: manual
 ```
 
 Humne bahut pehle dekha tha ki Javascript ek Object-Oriented language hai. Abhi tak humne jo Integers, Strings, Arrays etc. javascript mein use kiya hai wo sab object hain.

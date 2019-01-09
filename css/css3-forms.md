@@ -1,6 +1,5 @@
 ```ngMeta
 name: CSS3 Forms
-completionMethod: peer
 ```
 
 # CSS3 Forms

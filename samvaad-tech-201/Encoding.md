@@ -1,6 +1,5 @@
 ```ngMeta
 name: Encoding and Decoding
-completionMethod: manual
 ```
 
 ##Encoding and Decoding :-

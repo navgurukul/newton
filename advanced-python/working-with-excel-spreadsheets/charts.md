@@ -1,6 +1,5 @@
 ```ngMeta
 name: charts
-completionMethod: manual
 ```
 # Charts
 OpenPyXL supports creating bar, line, scatter, and pie charts using the data in a sheet’s cells. To make a chart, you need to do the following:

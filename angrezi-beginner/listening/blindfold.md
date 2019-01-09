@@ -1,6 +1,5 @@
 ```ngMeta
 name: BlindFold - Learning in the Dark
-completionMethod: manual
 ```
 
 > Skills: Speaking, Listenig

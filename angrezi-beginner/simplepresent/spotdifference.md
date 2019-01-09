@@ -1,6 +1,5 @@
 ```ngMeta
 name: Spot the Difference
-completionMethod: manual
 ```
 
 ## Spot the Difference

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Identify the Personality
-completionMethod: manual
 ```
 
 ## Identify the Personality

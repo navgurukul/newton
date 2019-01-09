@@ -1,6 +1,5 @@
 ```ngMeta
 name: Some Recap
-completionMethod: facilitator
 ```
 
 # Some Recap 

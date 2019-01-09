@@ -1,6 +1,5 @@
 ```ngMeta
 name: sending-an-email
-completionMethod: manual
 ```
 # Sending an Email
 Once you are logged in to your email provider’s SMTP server, you can call the sendmail() method to actually send the email. The sendmail() method call looks like this:

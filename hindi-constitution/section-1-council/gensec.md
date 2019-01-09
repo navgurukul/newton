@@ -1,6 +1,5 @@
 ```ngMeta
 name: General Secretary
-completionMethod: manual
 ```
 
 # General Secretary

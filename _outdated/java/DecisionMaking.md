@@ -1,6 +1,5 @@
 ```ngMeta
 name: Decision Making
-completionMethod: manual
 ```
 
 Aapne computers ko __instructions__ de kar, unhe __variables__ mein store hone wale values ko print karna seekha.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Wishes
-completionMethod: manual
 ```
 
 * If you could become omnipotent for one day, what would you do?

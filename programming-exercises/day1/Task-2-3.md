@@ -1,6 +1,5 @@
 ```ngMeta
 name: Day-1-Task-2-3
-completionMethod: manual
 ```
 
 ### Reading Material

@@ -1,6 +1,5 @@
 ```ngMeta
 name: align-items : Container Property
-completionMethod: manual
 ```
 
 # align-items: Container Property

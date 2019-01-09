@@ -1,6 +1,5 @@
 ```ngMeta
 name: Sports
-completionMethod: manual
 ```
 
 ## Sports

@@ -10,7 +10,11 @@ Wohi instructions loop mei jayengi jo aapko lagta hai ki aapko repeat karni hai 
 - user se input aapko har baar lena hai, toh woh loop mei jana chahiye
 - Jab hum print karte hai "welcome to the game", woh sirf ek baar karein toh theek hai, toh isliye woh loop mei nahi hona chahiye
 
-### Possible Solution:
+## Solution Video
+
+@[youtube](https://www.youtube.com/watch?v=SZGo7oa8vsc)
+
+## Possible Solution:
 Your `hangman` function can look like:
 
 ```python

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part IV Http Service
-completionMethod: facilitator
 ```
 # Part IV Http Service
 

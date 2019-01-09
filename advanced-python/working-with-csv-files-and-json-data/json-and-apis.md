@@ -1,6 +1,5 @@
 ```ngMeta
 name: json-and-apis
-completionMethod: manual
 ```
 # JSON and APIs
 JavaScript Object Notation is a popular way to format data as a single human-readable string. JSON is the native way that JavaScript programs write their data structures and usually resembles what Python’s pprint() function would produce. You don’t need to know JavaScript in order to work with JSON-formatted data.

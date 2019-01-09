@@ -1,6 +1,5 @@
 ```ngMeta
 name: React Dev Tool
-completionMethod: manual
 ```
 
 Iss video ko dekhiye - https://youtu.be/osG1yIFnapc

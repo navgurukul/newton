@@ -1,6 +1,5 @@
 ```ngMeta
 name: Agar hamein khud kuch btana ho code ko?
-completionMethod: manual
 ```
 
 - Use prompt to take in two numbers and logging them in the console.

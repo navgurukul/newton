@@ -1,6 +1,5 @@
 ```ngMeta
 name: Using Breaks
-completionMethod: manual
 ```
 
 <!-- TODO Aap pehle iss video ko dekhein `break` command ka loop mei kaam samajhne ke liye. Iss understanding ko use kar kar, humein aage likhe hue code ka dry run karna hai. -->

@@ -1,6 +1,5 @@
 ```ngMeta
 name: rotating-and-flipping-images
-completionMethod: manual
 ```
 # Rotating and Flipping Images
 Images can be rotated with the rotate() method, which returns a new Image object of the rotated image and leaves the original Image object unchanged. The argument to rotate() is a single integer or float representing the number of degrees to rotate the image counterclockwise. Enter the following into the interactive shell:

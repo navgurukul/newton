@@ -1,6 +1,5 @@
 ```ngMeta
 name: Self Driving Cars
-completionMethod: manual
 ```
 
 * What would be the advantages of self-driving cars?

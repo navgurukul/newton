@@ -1,6 +1,5 @@
 ```ngMeta
 name: Stories-Level One
-completionMethod: manual
 ```
 ## LEVEL 1
 * [Whow Gets What](https://drive.google.com/open?id=0B1XBdeTOOHL3eFVxWVYwTXpoRjA)

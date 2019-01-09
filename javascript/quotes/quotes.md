@@ -1,6 +1,5 @@
 ```ngMeta
 name: Quotes
-completionMethod: automatic
 ```
 
 # Quotes

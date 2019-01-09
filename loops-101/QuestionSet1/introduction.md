@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question Set 1
-completionMethod: manual
 ```
 # Question Set 1
 

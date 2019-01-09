@@ -1,6 +1,5 @@
 ```ngMeta
 name: Quotes-Part VI
-completionMethod: peer
 ```
 
 # Part VI

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Stories-Level Two 
-completionMethod: manual
 ```
 ## LEVEL 2
 * [Keeping Secrets](https://drive.google.com/open?id=0B1XBdeTOOHL3dmxPdkRpSVZJNHc)

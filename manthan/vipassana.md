@@ -1,6 +1,5 @@
 ```ngMeta
 name: Vipassana Guidelines
-completionMethod: manual
 ```
 
 >Guidelines for students who wish to go to Vipassana Manthan

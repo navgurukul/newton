@@ -1,6 +1,5 @@
 ```ngMeta
 name: While Loops
-completionMethod: manual
 ```
 
 Aap pehle iss video ko dekhein `while` program ka dry run samajhne ke liye. 

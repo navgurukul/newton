@@ -1,6 +1,5 @@
 ```ngMeta
 name: Strings Medium Question 1
-completionMethod: manual
 ```
 
 **Strings** waale section mein se koi bhi ek bhi ek "Medium" category wala question solve karo.

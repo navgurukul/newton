@@ -1,6 +1,5 @@
 ```ngMeta
 name: Filters Continued
-completionMethod: facilitator
 ```
 
 # Filters Continued

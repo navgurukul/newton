@@ -1,6 +1,5 @@
 ```ngMeta
 name: Javascript Philosophy
-completionMethod: manual
 ```
 
 # Javscript Philosophy

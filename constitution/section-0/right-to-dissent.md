@@ -1,6 +1,5 @@
 ```ngMeta
 name: Right to Dissent
-completionMethod: manual
 ```
 
 # Right to Dissent

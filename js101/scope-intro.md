@@ -1,6 +1,5 @@
 ```ngMeta
 name: Mera code kahan raj karta hai aur kahan nahi?
-completionMethod: manual
 ```
 
 - Defining variables inside/outside functions. How does it change?

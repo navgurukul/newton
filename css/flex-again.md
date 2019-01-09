@@ -1,6 +1,5 @@
 ```ngMeta
 name: It's me - Flex!
-completionMethod: peer
 ```
 
 # It's me - Flex Again!

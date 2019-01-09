@@ -1,6 +1,5 @@
 ```ngMeta
 name: Lists
-completionMethod: manual
 ```
 
 # What are Lists?

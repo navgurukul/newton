@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variable Naming Exercise 4
-completionMethod: automatic
 submissionType: url
 ```
 

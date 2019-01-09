@@ -1,6 +1,5 @@
 ```ngMeta
 name: Movies
-completionMethod: manual
 ```
 
 ## Movies

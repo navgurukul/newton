@@ -1,6 +1,5 @@
 ```ngMeta
 name: reading-word-documents
-completionMethod: manual
 ```
 # Reading Word Documents
 Let’s experiment with the python-docx module. Download demo.docx from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span> and save the document to the working directory. Then enter the following into the interactive shell:

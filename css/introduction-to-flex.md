@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction to Flex
-completionMethod: manual
 ```
 
 # Introduction to flex

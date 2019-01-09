@@ -1,6 +1,5 @@
 ```ngMeta
 name: Searching
-completionMethod: manual
 ```
 ## What is Searching
 A search is a that where find or searching any data, roll number, and type information from list.

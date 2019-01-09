@@ -1,6 +1,5 @@
 ```ngMeta
 name: Right to Audit
-completionMethod: manual
 ```
 
 # Right to Audit

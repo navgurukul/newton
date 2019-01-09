@@ -1,6 +1,5 @@
 ```ngMeta
 name: Beginnings
-completionMethod: manual
 ```
 
 Apne Stories directory mein ek text file banaye jisme aap apni story likhenge.

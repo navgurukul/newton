@@ -1,6 +1,5 @@
 ```ngMeta
 name: Refactoring React Code
-completionMethod: manual
 ```
 
 Abhi tak humara code aisa kuch hai:

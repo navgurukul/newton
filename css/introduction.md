@@ -1,6 +1,5 @@
 ```ngMeta
 name: CSS Introduction
-completionMethod: manual
 ```
 
 ## CSS Introduction

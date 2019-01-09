@@ -1,6 +1,5 @@
 ```ngMeta
 name: Debugging Code
-completionMethod: manual
 ```
 
 Code likhne ke baad aap observe karenge ki kaafi time aisa hota hai ki humara code hum jaisa chahte hain waisa behave nahi karta hai :(

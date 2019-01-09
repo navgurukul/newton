@@ -1,6 +1,5 @@
 ```ngMeta
 name: Logical Operators Practice Questions
-completionMethod: manual
 ```
 
 Neeche diye gaye programs ka output bina chalaye guess karne ki koshish karo. Agar aapka output sahi nahi hai toh apne peers se discuss kar ke figure out karo ki aap kya galti kar rahe ho. Agar sahi bhi hai toh apne concepts ko better karne ke liye output ko better karo.

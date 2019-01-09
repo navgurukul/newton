@@ -1,6 +1,5 @@
 ```ngMeta
 name: installing-the-openpyxl-module
-completionMethod: manual
 ```
 # Installing the openpyxl Module
 Python does not come with OpenPyXL, so you’ll have to install it. Follow the instructions for installing third-party modules in Appendix A; the name of the module is openpyxl. To test whether it is installed correctly, enter the following into the interactive shell:

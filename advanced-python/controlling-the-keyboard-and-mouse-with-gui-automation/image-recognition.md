@@ -1,6 +1,5 @@
 ```ngMeta
 name:  image-recognition
-completionMethod: manual
 ```
 # Image Recognition
 But what if you do not know beforehand where PyAutoGUI should click? You can use image recognition instead. Give PyAutoGUI an image of what you want to click and let it figure out the coordinates.

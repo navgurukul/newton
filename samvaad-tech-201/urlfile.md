@@ -1,7 +1,6 @@
 
 ```ngMeta
 name: URL
-completionMethod: manual
 ```
 
 

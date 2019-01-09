@@ -1,6 +1,5 @@
 ```ngMeta
 name: clicking-the-page
-completionMethod: manual
 ```
 # Clicking the Page
 WebElement objects returned from the find_element_* and find_elements_* methods have a click() method that simulates a mouse click on that element. This method can be used to follow a link, make a selection on a radio button, click a Submit button, or trigger whatever else might happen when the element is clicked by the mouse. For example, enter the following into the interactive shell:

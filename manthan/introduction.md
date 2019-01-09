@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is Manthan
-completionMethod: manual
 ```
 
 ### What is Manthan

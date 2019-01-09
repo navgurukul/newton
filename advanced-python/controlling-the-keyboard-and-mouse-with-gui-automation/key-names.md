@@ -1,6 +1,5 @@
 ```ngMeta
 name: key-names
-completionMethod: manual
 ```
 # Key Names
 Not all keys are easy to represent with single text characters. For example, how do you represent SHIFT or the left arrow key as a single character? In PyAutoGUI, these keyboard keys are represented by short string values instead: 'esc' for the ESC key or 'enter' for the ENTER key.

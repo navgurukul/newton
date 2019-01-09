@@ -1,6 +1,5 @@
 ```ngMeta
 name: Search Easy Question 4
-completionMethod: manual
 ```
 
 **Search** waale section mein se koi bhi ek bhi ek "Easy" category wala question solve karo.

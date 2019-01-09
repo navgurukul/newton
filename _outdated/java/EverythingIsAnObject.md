@@ -1,6 +1,5 @@
 ```ngMeta
 name: Everything is an Object
-completionMethod: manual
 ```
 
 Real Life mein hum apna saara kaam "Objects" ko use karke poora karte hain.

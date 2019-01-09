@@ -1,6 +1,5 @@
 ```ngMeta
 name: Thinking about the Application
-completionMethod: manual
 ```
 
 

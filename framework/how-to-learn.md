@@ -1,6 +1,5 @@
 ```ngMeta
 name: How to Learn?
-completionMethod: automatic
 ```
 
 # How to Learn?

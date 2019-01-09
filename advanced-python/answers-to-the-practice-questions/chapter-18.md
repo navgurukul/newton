@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-18
-completionMethod: manual
 ```
 # Chapter 18
 Move the mouse to the top-left corner of the screen, that is, the (0, 0) coordinates.

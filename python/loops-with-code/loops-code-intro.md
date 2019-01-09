@@ -1,6 +1,5 @@
 ```ngMeta
 name: Writing Code for Loops
-completionMethod: manual
 ```
 
 # Writing code for loops

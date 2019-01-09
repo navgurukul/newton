@@ -1,6 +1,5 @@
 ```ngMeta
 name: keeping-time-scheduling-tasks-and-launching-programs
-completionMethod: manual
 ```
 # Keeping Time, Scheduling Tasks, and Launching Programs
 Running programs while you’re sitting at your computer is fine, but it’s also useful to have programs run without your direct supervision. Your computer’s clock can schedule programs to run code at some specified time and date or at regular intervals. For example, your program could scrape a website every hour to check for changes or do a CPU-intensive task at 4 AM while you sleep. Python’s time and datetime modules provide these functions.

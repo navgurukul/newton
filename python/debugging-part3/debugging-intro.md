@@ -1,6 +1,5 @@
 ```ngMeta
 name: Debugging Part 3
-completionMethod: manual
 ```
 
 # Debugging

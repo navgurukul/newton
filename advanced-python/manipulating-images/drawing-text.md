@@ -1,6 +1,5 @@
 ```ngMeta
 name: drawing-text
-completionMethod: manual
 ```
 # Drawing Text
 The ImageDraw object also has a text() method for drawing text onto an image. The text() method takes four arguments: xy, text, fill, and font.

@@ -1,6 +1,5 @@
 ```ngMeta
 name:  converting-between-column-letters-and-numbers
-completionMethod: manual
 ```
 # Converting Between Column Letters and Numbers
 To convert from letters to numbers, call the openpyxl.cell.column_index_from_string() function. To convert from numbers to letters, call the openpyxl.cell.get_column_letter() function. Enter the following into the interactive shell:

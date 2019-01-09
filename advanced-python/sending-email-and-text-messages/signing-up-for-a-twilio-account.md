@@ -1,6 +1,5 @@
 ```ngMeta
 name:  signing-up-for-a-twilio-account
-completionMethod: manual
 ```
 # Signing Up for a Twilio Account
 Go to <span><a href="http://twilio.com/">http://twilio.com/</a></span> and fill out the sign-up form. Once you’ve signed up for a new account, you’ll need to verify a mobile phone number that you want to send texts to. (This verification is necessary to prevent people from using the service to spam random phone numbers with text messages.)

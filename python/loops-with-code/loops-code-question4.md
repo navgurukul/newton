@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 4
-completionMethod: peer
 submissionType: url
 ```
 

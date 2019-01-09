@@ -1,6 +1,5 @@
 ```ngMeta
 name: getting-sublists-with-slices
-completionMethod: manual
 ```
 # Getting Sublists with Slices
 Just as an index can get a single value from a list, a slice can get several values from a list, in the form of a new list. A slice is typed between square brackets, like an index, but it has two integers separated by a colon. Notice the difference between indexes and slices.

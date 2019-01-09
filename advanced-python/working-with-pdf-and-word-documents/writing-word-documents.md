@@ -1,6 +1,5 @@
 ```ngMeta
 name:  writing-word-documents
-completionMethod: manual
 ```
 # Writing Word Documents
 Enter the following into the interactive shell:

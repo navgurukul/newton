@@ -1,6 +1,5 @@
 ```ngMeta
 name: manipulating-images-with-pillow
-completionMethod: manual
 ```
 # Manipulating Images with Pillow
 Now that you know how colors and coordinates work in Pillow, let’s use Pillow to manipulate an image. Figure 17-3 is the image that will be used for all the interactive shell examples in this chapter. You can download it from <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>.

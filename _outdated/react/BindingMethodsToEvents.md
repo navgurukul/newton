@@ -1,6 +1,5 @@
 ```ngMeta
 name: Binding Methods to Events
-completionMethod: manual
 ```
 
 Hum chahte hain ki user ke *button* *click* hote hi ek function call karein jo humare React Component ka state change kar de.

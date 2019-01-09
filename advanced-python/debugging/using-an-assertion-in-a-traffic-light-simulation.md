@@ -1,6 +1,5 @@
 ```ngMeta
 name: using-an-assertion-in-a-traffic-light-simulation
-completionMethod: manual
 ```
 # Using an Assertion in a Traffic Light Simulation
 Say you’re building a traffic light simulation program. The data structure representing the stoplights at an intersection is a dictionary with keys 'ns' and 'ew', for the stoplights facing north-south and east-west, respectively. The values at these keys will be one of the strings 'green', ' yellow', or 'red'. The code would look something like this:

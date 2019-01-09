@@ -1,6 +1,5 @@
 ```ngMeta
 name: justify-content : Container Property
-completionMethod: manual
 ```
 
 # justify-content : Container property

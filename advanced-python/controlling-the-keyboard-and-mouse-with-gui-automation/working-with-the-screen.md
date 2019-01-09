@@ -1,6 +1,5 @@
 ```ngMeta
 name: working-with-the-screen
-completionMethod: manual
 ```
 # Working with the Screen
 Your GUI automation programs don’t have to click and type blindly. PyAutoGUI has screenshot features that can create an image file based on the current contents of the screen. These functions can also return a Pillow Image object of the current screen’s appearance. If you’ve been skipping around in this book, you’ll want to read Chapter 17 and install the pillow module before continuing with this section.

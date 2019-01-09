@@ -29,6 +29,10 @@ Aapko yeh check karna hai ki user no jo input daala hai, woh valid hai ya nahi. 
 - Agar input valid hai toh sab accha hai
 - Par agar input invalid hai toh aap loop ko wapis se continue karo aur dobara user input lo
 
+## Solution Video
+
+@[youtube](https://www.youtube.com/watch?v=-3aK5qikWBs)
+
 
 ## Solution
 

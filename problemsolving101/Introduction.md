@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction Problem Solving
-completionMethod: manual
 ```
 
 Programmers har roz nayi nayi problems ko face karte hain. Har code iss duniya mein koi na koi problem ko solve karne ke liye likha jaata hai. As programmers humein apne dimaag ko train karne ke zaroorat hai ki kaise hum nayi nayi problems ko asaani se solve kar payein. Iss course mein alag alag problems hain humne sovle karna hai.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Project Menstrual Clock
-completionMethod: manual
 ```
 
 Watch the short film here:

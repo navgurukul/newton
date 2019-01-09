@@ -1,6 +1,5 @@
 ```ngMeta
 name: Hackathon - Dry Run
-completionMethod: manual
 ```
 
 ## Hackathon

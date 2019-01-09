@@ -1,6 +1,5 @@
 ```ngMeta
 name: Computer_networking
-completionMethod: manual
 ```
 
 

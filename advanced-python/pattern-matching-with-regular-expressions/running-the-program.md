@@ -1,6 +1,5 @@
 ```ngMeta
 name: running-the-program
-completionMethod: manual
 ```
 # Running the Program
 For an example, open your web browser to the No Starch Press contact page at http://www.nostarch.com/contactus.htm, press CTRL-A to select all the text on the page, and press CTRL-C to copy it to the clipboard. When you run this program, the output will look something like this:

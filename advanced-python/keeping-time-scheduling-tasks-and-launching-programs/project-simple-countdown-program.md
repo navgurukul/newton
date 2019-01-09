@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-simple-countdown-program
-completionMethod: manual
 ```
 # Project: Simple Countdown Program
 Just like it’s hard to find a simple stopwatch application, it can be hard to find a simple countdown application. Let’s write a countdown program that plays an alarm at the end of the countdown.

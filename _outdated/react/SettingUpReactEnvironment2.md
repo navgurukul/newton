@@ -1,6 +1,5 @@
 ```ngMeta
 name: Setting up React Environment
-completionMethod: manual
 ```
 
 Aapne pichle class mein nodejs aur npm install kar liya tha. Aapne ye bhi dekha tha ki React ek Javascript *Library* hai.

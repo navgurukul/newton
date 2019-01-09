@@ -1,6 +1,5 @@
 ```ngMeta
 name: Features Of Java
-completionMethod: manual
 ```
 
 <p>The list of most important features of java language is given below</p>

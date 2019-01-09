@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variable ke names kaise rakhne chahiye
-completionMethod: manual
 ```
 
 Code mei `Variable` ke sahi se `name` dena bahut important hai.

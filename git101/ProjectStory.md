@@ -1,6 +1,5 @@
 ```ngMeta
 name: Project Story(or Stories)
-completionMethod: manual
 ```
 
 Git sikhte hue hum ek interestinng story project karenge. Har story mein ek beginning, ek middle aur ek ending hoti hai.

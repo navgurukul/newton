@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-15
-completionMethod: manual
 ```
 # Chapter 15
 A reference moment that many date and time programs use. The moment is January 1st, 1970, UTC.

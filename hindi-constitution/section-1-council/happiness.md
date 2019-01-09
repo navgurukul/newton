@@ -1,6 +1,5 @@
 ```ngMeta
 name: Prosperity Officer
-completionMethod: manual
 ```
 
 ### Prosperity Officer

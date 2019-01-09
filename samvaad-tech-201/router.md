@@ -1,6 +1,5 @@
 ```ngMeta
 name: Router
-completionMethod: manual
 ```
 
 ##WHAT IS ROUTER

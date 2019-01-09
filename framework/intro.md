@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction
-completionMethod: automatic
 ```
 
 # NavGurukul

@@ -1,6 +1,5 @@
 ```ngMeta
 name:  controlling-the-keyboard
-completionMethod: manual
 ```
 # Controlling the Keyboard
 PyAutoGUI also has functions for sending virtual keypresses to your computer, which enables you to fill out forms or enter text into applications.

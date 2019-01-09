@@ -1,6 +1,5 @@
 ```ngMeta
 name: Return Values
-completionMethod: manual
 submissionType: url
 ```
 

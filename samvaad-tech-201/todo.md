@@ -1,6 +1,5 @@
 ```ngMeta
 name: ToDo
-completionMethod: manual
 ```
 
 - login

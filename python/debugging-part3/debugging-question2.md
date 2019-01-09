@@ -1,6 +1,5 @@
 ```ngMeta
 name: Conditionals, Loop and Variable Naming
-completionMethod: peer
 submissionType: url
 ```
 

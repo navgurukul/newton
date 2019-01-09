@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kaise shuru karein?
-completionMethod: automatic
 submissionType: url
 ```
 

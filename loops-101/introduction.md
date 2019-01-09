@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction to Loops
-completionMethod: manual
 ```
 
 # What are loops?

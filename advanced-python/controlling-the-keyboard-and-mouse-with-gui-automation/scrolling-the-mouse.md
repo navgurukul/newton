@@ -1,6 +1,5 @@
 ```ngMeta
 name: scrolling-the-mouse
-completionMethod: manual
 ```
 # Scrolling the Mouse
 The final PyAutoGUI mouse function is scroll(), which you pass an integer argument for how many units you want to scroll the mouse up or down. The size of a unit varies for each operating system and application, so you’ll have to experiment to see exactly how far it scrolls in your particular situation. The scrolling takes place at the mouse cursor’s current position. Passing a positive integer scrolls up, and passing a negative integer scrolls down. Run the following in IDLE’s interactive shell while the mouse cursor is over the IDLE window:

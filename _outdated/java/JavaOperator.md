@@ -1,6 +1,5 @@
 ```ngMeta
 name: Operator
-completionMethod: manual
 ```
 
 Operator in java ek Symbol he jisse hum koi operation perform karne ke liye use karte hai. For eg: <b>```+,-,*,/```</b>	 etc. <br><br>

@@ -1,6 +1,5 @@
 ```ngMeta
 name: KBC Part 3
-completionMethod: peer
 submissionType: url
 ```
 

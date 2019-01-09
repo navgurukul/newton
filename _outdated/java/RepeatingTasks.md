@@ -1,6 +1,5 @@
 ```ngMeta
 name: Repeating Tasks in Java
-completionMethod: manual
 ```
 
 Apne pichle program mein jab aapko kisi person ka social profile(name, age, gender, profession etc.) print karna tha toh aapne kuch aise kiya hoga.

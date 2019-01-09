@@ -1,6 +1,5 @@
 ```ngMeta
 name:  deleting-emails
-completionMethod: manual
 ```
 # Deleting Emails
 To delete emails, pass a list of message UIDs to the IMAPClient object’s delete_messages() method. This marks the emails with the \Deleted flag. Calling the expunge() method will permanently delete all emails with the \Deleted flag in the currently selected folder. Consider the following interactive shell example:

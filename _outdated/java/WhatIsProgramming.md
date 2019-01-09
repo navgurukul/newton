@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is Programming?
-completionMethod: manual
 ```
 
 Aapne dekha ki hum computers ko **instructions** de kar, unke through complex problems solve kar sakte hain.

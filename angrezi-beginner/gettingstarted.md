@@ -1,6 +1,5 @@
 ```ngMeta
 name: Getting Started
-completionMethod: manual
 ```
 
 Let's begin with English learning!

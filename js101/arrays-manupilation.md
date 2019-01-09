@@ -1,6 +1,5 @@
 ```ngMeta
 name: Arrays mein cheezon ko daalte aur nikalte kaise hain?
-completionMethod: manual
 ```
 
 - Explain arrays operation such as push, pop, splice

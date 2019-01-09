@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-14
-completionMethod: manual
 ```
 # Chapter 14
 In Excel, spreadsheets can have values of data types other than strings; cells can have different fonts, sizes, or color settings; cells can have varying widths and heights; adjacent cells can be merged; and you can embed images and charts.

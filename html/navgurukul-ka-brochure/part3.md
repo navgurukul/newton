@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part Three
-completionMethod: peer
 ```
 
 ## Part III - Images

@@ -1,3 +1,12 @@
+- todo.md
 - introduction.md
 - project-intro.md
 - what-is-scraping.md
+- task1.md
+- task2.md
+- task3.md
+- task4.md
+- task5.md
+- task6.md
+- task7.md
+- task8.md

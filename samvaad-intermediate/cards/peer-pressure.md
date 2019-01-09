@@ -1,6 +1,5 @@
 ```ngMeta
 name: Peer Pressure
-completionMethod: manual
 ```
 
 ## Peer Pressure

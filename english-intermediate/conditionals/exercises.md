@@ -1,6 +1,5 @@
 ```ngMeta
 name: Condtitionals - Exercises
-completionMethod: manual
 ```
 
 ### Chain Game

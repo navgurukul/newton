@@ -1,6 +1,5 @@
 ```ngMeta
 name: Comparatives - Tutorial
-completionMethod: manual
 ```
 
 @[youtube](13TLUMw6og0)

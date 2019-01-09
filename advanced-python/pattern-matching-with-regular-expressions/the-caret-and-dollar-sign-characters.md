@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-caret-and-dollar-sign-characters
-completionMethod: manual
 ```
 # The Caret and Dollar Sign Characters
 You can also use the caret symbol (^) at the start of a regex to indicate that a match must occur at the beginning of the searched text. Likewise, you can put a dollar sign ($) at the end of the regex to indicate the string must end with this regex pattern. And you can use the ^ and $ together to indicate that the entire string must match the regex—that is, it’s not enough for a match to be made on some subset of the string.

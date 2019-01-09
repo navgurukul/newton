@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bloody Nasreen-Part II
-completionMethod: peer
 ```
 
 # Part II

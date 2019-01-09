@@ -1,6 +1,5 @@
 ```ngMeta
 name: finding-patterns-of-text-with-regular-expressions
-completionMethod: manual
 ```
 # Finding Patterns of Text with Regular Expressions
 The previous phone number–finding program works, but it uses a lot of code to do something limited: The isPhoneNumber() function is 17 lines but can find only one pattern of phone numbers. What about a phone number formatted like 415.555.4242 or (415) 555-4242? What if the phone number had an extension, like 415-555-4242 x99? The isPhoneNumber() function would fail to validate them. You could add yet more code for these additional patterns, but there is an easier way.

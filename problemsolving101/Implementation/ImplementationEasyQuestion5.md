@@ -1,6 +1,5 @@
 ```ngMeta
 name: Implementation Easy Question 5
-completionMethod: manual
 ```
 
 Implementation waale section mein se koi bhi ek bhi ek "Easy" category wala question solve karo.

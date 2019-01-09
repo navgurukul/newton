@@ -1,6 +1,5 @@
 ```ngMeta
 name: Props
-completionMethod: manual
 ```
 
 HTML padhte samay aapne har elements ke kuch pre-defined **attributes** use kiye the

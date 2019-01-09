@@ -1,6 +1,5 @@
 ```ngMeta
 name: CSS Box Model
-completionMethod: peer
 ```
 
 # CSS Box Model

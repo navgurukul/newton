@@ -1,6 +1,5 @@
 ```ngMeta
 name: Cipher 1.0
-completionMethod: peer
 submissionType: url
 ```
 

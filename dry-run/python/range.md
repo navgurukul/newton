@@ -1,6 +1,5 @@
 ```ngMeta
 name: Understanding Range Function
-completionMethod: manual
 ```
 
 Range is a very important Python function. 

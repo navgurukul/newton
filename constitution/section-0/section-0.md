@@ -1,6 +1,5 @@
 ```ngMeta
 name: Power to the People
-completionMethod: manual
 ```
 
 # Power to the People

@@ -1,6 +1,5 @@
 ```ngMeta
 name:  shutting-down-everything-by-logging-out
-completionMethod: manual
 ```
 # Shutting Down Everything by Logging Out
 Perhaps the simplest way to stop an out-of-control GUI automation program is to log out, which will shut down all running programs. On Windows and Linux, the logout hotkey is CTRL-ALT-DEL. On OS X, it is -SHIFT-OPTION-Q. By logging out, you’ll lose any unsaved work, but at least you won’t have to wait for a full reboot of the computer.

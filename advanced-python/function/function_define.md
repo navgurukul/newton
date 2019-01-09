@@ -1,6 +1,5 @@
 ```ngMeta
 name: function_define
-completionMethod: manual
 ```
 # def Statements with Parameters
 When you call the print() or len() function, you pass in values, called arguments in this context, by typing them between the parentheses. You can also define your own functions that accept arguments. Type this example into the file editor and save it as helloFunc2.py:

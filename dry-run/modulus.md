@@ -1,6 +1,5 @@
 ```ngMeta
 name: Modulus
-completionMethod: manual
 ```
 
 Modulus/Remainder yani ki % and divide /, computers mai aise kaam karte hai,

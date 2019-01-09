@@ -1,6 +1,5 @@
 ```ngMeta
 name: project:-adding-bullets-to-wiki-markup
-completionMethod: manual
 ```
 # Project: Adding Bullets to Wiki Markup
 When editing a Wikipedia article, you can create a bulleted list by putting each list item on its own line and placing a star in front. But say you have a really large list that you want to add bullet points to. You could just type those stars at the beginning of each line, one by one. Or you could automate this task with a short Python script.

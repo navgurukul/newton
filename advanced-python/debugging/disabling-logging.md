@@ -1,6 +1,5 @@
 ```ngMeta
 name: disabling-logging
-completionMethod: manual
 ```
 # Disabling Logging
 After you’ve debugged your program, you probably don’t want all these log messages cluttering the screen. The logging.disable() function disables these so that you don’t have to go into your program and remove all the logging calls by hand. You simply pass logging.disable() a logging level, and it will suppress all log messages at that level or lower. So if you want to disable logging entirely, just add logging.disable(logging.CRITICAL) to your program. For example, enter the following into the interactive shell:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: checking-whether-a-key-or-value-exists-in-a-dictionary
-completionMethod: manual
 ```
 # Checking Whether a Key or Value Exists in a Dictionary
 Recall from the previous chapter that the in and not in operators can check whether a value exists in a list. You can also use these operators to see whether a certain key or value exists in a dictionary. Enter the following into the interactive shell:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Bringing It All together
-completionMethod: manual
 ```
 
 Aapne apne pichle lesson mein poore problem ko smaller problems mein break kiya. Ab time aa gaya hai ki apni java ki knowledge ko use karke aap inhe solve karein.

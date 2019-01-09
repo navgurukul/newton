@@ -1,6 +1,5 @@
 ```ngMeta
 name: Operators
-completionMethod: manual
 ```
 
 # Introduction

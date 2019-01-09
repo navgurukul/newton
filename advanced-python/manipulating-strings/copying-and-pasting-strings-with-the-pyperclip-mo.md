@@ -1,6 +1,5 @@
 ```ngMeta
 name: copying-and-pasting-strings-with-the-pyperclip-mo
-completionMethod: manual
 ```
 # Copying and Pasting Strings with the pyperclip Module
 The pyperclip module has copy() and paste() functions that can send text to and receive text from your computer’s clipboard. Sending the output of your program to the clipboard will make it easy to paste it to an email, word processor, or some other software.

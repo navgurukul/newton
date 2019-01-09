@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 2
-completionMethod: manual
 ```
 Ek program likho jo loop ka use kar ke 1 se leke 100 tak saare numbers ka sum print kare.
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: local-scopes-cannot-Use-variables-in-other-local-scopes
-completionMethod: manual
 ```
 # Local Scopes Cannot Use Variables in Other Local Scopes
 A new local scope is created whenever a function is called, including when a function is called from another function. Consider this program:

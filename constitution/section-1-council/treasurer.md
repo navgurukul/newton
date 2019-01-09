@@ -1,6 +1,5 @@
 ```ngMeta
 name: Treasurer
-completionMethod: manual
 ```
 
 # Treasurer

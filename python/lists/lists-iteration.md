@@ -1,6 +1,5 @@
 ```ngMeta
 name: Lists
-completionMethod: manual
 ```
 
 # Lists ko iterate karna

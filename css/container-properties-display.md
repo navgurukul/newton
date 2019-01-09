@@ -1,6 +1,5 @@
 ```ngMeta
 name: Display Flex: Container Property
-completionMethod: manual
 ```
 
 # Display Flex: Container Property

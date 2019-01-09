@@ -1,6 +1,5 @@
 ```ngMeta
 name: Floats  - Constants
-completionMethod: peer
 submissionType: url
 ```
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Whatsapp.Com
-completionMethod: peer
 ```
 
 # PROJECT - Whatsapp.com

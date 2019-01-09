@@ -1,6 +1,5 @@
 ```ngMeta
 name: Dry Run of Variables
-completionMethod: manual
 ```
 
 ## Humein inn programs ka dry run karna hai:

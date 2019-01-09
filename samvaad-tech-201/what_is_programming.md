@@ -1,7 +1,6 @@
 ```
 ngMeta
 name: What is Programming/coding?
-completionMethod: manual
 ```
 What is Programming/Coding?
 

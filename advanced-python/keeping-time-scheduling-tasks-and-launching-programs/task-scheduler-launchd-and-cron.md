@@ -1,6 +1,5 @@
 ```ngMeta
 name: task-scheduler-launchd-and-cron
-completionMethod: manual
 ```
 # Task Scheduler, launchd, and cron
 If you are computer savvy, you may know about Task Scheduler on Windows, launchd on OS X, or the cron scheduler on Linux. These well-documented and reliable tools all allow you to schedule applications to launch at specific times. If you’d like to learn more about them, you can find links to tutorials at <span><a href="http://nostarch.com/automatestuff/">http://nostarch.com/automatestuff/</a></span>.

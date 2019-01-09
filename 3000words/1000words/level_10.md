@@ -1,6 +1,5 @@
 ```ngMeta
 name: Level Ten
-completionMethod: manual
 ```
 
 # Level Ten

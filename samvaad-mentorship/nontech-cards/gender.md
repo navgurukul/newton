@@ -1,6 +1,5 @@
 ```ngMeta
 name: Gender Roles
-completionMethod: manual
 ```
 
 ### Gender Roles

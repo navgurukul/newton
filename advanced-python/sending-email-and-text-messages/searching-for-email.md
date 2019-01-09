@@ -1,6 +1,5 @@
 ```ngMeta
 name: searching-for-email
-completionMethod: manual
 ```
 # Searching for Email
 Once you’re logged on, actually retrieving an email that you’re interested in is a two-step process. First, you must select a folder you want to search through. Then, you must call the IMAPClient object’s search() method, passing in a string of IMAP search keywords.

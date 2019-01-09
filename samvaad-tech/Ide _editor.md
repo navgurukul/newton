@@ -1,6 +1,5 @@
 ```ngMeta
 name: IDE_Editors
-completionMethod: manual
 ```
 
 IDE/EDITOR(Integrated Development Environment)

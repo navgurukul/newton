@@ -1,6 +1,5 @@
 ```ngMeta
 name: Jquery
-completionMethod: facilitator
 ```
 
 # Part I  fun with jquery

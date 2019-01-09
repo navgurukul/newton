@@ -1,6 +1,5 @@
 ```ngMeta
 name: Level Two
-completionMethod: manual
 ```
 
 # Level Two

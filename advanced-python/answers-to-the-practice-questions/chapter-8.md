@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-8
-completionMethod: manual
 ```
 # Chapter 8
 Relative paths are relative to the current working directory.
