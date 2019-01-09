@@ -97,6 +97,6 @@ Fill in the verbs in parentheses in simple past tense.
 ### Simple past Tense
 You can visit more learn this website:-
 
-[Exercise](https://www.englishgrammar.org/simple-tense-exercise/)
-[Exercise](https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php)
-[Exercise](https://www.easypacelearning.com/pdf/tense2.pdf)
+* [Exercise](https://www.englishgrammar.org/simple-tense-exercise/)
+* [Exercise](https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php)
+* [Exercise](https://www.easypacelearning.com/pdf/tense2.pdf)
