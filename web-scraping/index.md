@@ -10,3 +10,5 @@
 - task6.md
 - task7.md
 - task8.md
+- task9.md
+- task10.md
