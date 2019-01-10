@@ -22,7 +22,8 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task13.md`
 ~- **Rishabh** Given the name of an actor can we figure out who he acts with the most?~
 - **Pick this task.** Make a solution video for `task14.md`
-- **Rishabh** List of all actors who feature in more than 2 movies.
+~~- **Rishabh** List of all actors who feature in more than 2 movies.~~
+- **Pick this task.** Make a solution video for `task15.md`
 - **Rishabh** Bonus: Scrape Similar Movies.
 - **Rishabh** Bonus Analysis: Figure out what kind of movies are liked by Men & Women. https://www.imdb.com/title/tt8108198/ratings?ref_=tt_ov_rt
 
