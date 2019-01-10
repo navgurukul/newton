@@ -9,7 +9,7 @@ name: Pending To-Dos (for course creators)
 - **@Naresh** Add a video telling how to use requests and BS4. Also talk about how to use the common commands to beautiful soup. what-is-scraping.md
 - ~~@vishal** Explain the task listed in `task1.md` and also explain how to identify the patterns.~~
 - **@Akhil** Make a solution video for `task2.md`
-- **@Naresh** Make a solution video for `task3.md`
+- **@AKHIL** Make a solution video for `task3.md`
 - ~~**@Rishabh** Add the structure for `task4.md`~~
 - ~~**@Rishabh** Add the structure for `task5.md`~~
 - ~~**@Rishabh** Add the structure for `task6.md`~~
