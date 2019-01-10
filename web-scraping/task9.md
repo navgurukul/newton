@@ -20,11 +20,13 @@ Bahot important hai yeh samjhna ki websites scrapers ko kyun block karti hai aur
 
 Yeh links padhte hue aapko bahot saari new terms milegi. Aapko unn saari terms ke baare mein ache se research kar ke samjhna padega.
 
-Generally jab bhi websites aapke scrapers ko block karte hain toh woh aapke computers ya laptop ke public IP ko block karte hain. Best yeh hai ki aap apne phone ke hotspot se internet ka use kar ke scraping karo. Phones apna assigned IP har baar internet on/off karne pe change kar dete hain. Toh agar aap kabhi block hue bhi toh jaldi se IP change kar sakte hain. Jab aapko ek website block karegi toh aap request maaroge toh kuch error aane lagegi.
+Generally jab bhi websites aapke scrapers ko block karte hain toh woh aapke computers ya laptop ke public IP ko block karte hain. Best yeh hai ki aap apne phone ke hotspot se internet ka use kar ke scraping karo. Phones apna assigned IP har baar internet on/off karne pe change kar dete hain. Toh agar aap kabhi b lock hue bhi toh jaldi se IP change kar sakte hain. Jab aapko ek website block karegi toh aap request maaroge toh kuch error aane lagegi.
 
 Abhi blocking ko prevent karne ke liye humein IMDB ko dikhane ki zaroorat hai ki hum ek human user hain aur scraper nahi hai. Generally jab bhi human users website ka use karte hain toh har request mein (page khulne mein) alag alag time hota hai. Lekin yahan humara `get_movie_list_details` ek loop mein ek baad baad ek request maar raha hai. Iss task mein aapko apni har request ke beeche mein ek 1 se 3 ke beech mein kuch random seconds ka sleep timer lagana hai.
 
 Iske liye aapko `random.randint` ka use kar ke ek random integer choose karo 1 aur 3 ke beech mein. Fir `time.sleep` ka use kar ke apne program ko utni der ke liye sleep karvao.
+
+Yeh task complete kar ne ke baad aapko `get_movie_list_details` wala function saari 250 movies ki list ke saath call karna hai. Yeh bhi ensure kar lena ki aapka `scrape_movie_details` wala function aapke data ko cache kar raha hai. Aur ek baar apna code chala ke saari 250 movies ki poori details cache mein store kar lo ki aage wala saara code likhna asaan ho.
 
 ## Hint
 
