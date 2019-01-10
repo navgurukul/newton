@@ -2,9 +2,8 @@
 name: Pending To-Dos (for course creators)
 ```
 
-# Pending Tasks
+# Tasks
 
-- ~~`introduction.md` Add examples and a basic description for scraping.~~
 - **@Vishal** Add an intro video to `project-intro.md`. Upload the video on Youtube.
 - **Pick this task** Add a video telling how to use requests and BS4. Also talk about how to use the common commands to beautiful soup. what-is-scraping.md
 - **@Vishal** Explain the task listed in task1.md and also explain how to identify the patterns.
@@ -24,6 +23,9 @@ name: Pending To-Dos (for course creators)
 - **Rishabh** Bonus: Scrape Similar Movies.
 - **Rishabh** Bonus Analysis: Figure out what kind of movies are liked by Men & Women. https://www.imdb.com/title/tt8108198/ratings?ref_=tt_ov_rt
 
+## Move Completed Tasks Here.
+
+- ~~`introduction.md` Add examples and a basic description for scraping.~~
 - ~~**@Rishabh** Add the structure for `task4.md`~~
 - ~~**@Rishabh** Add the structure for `task5.md`~~
 - ~~**@Rishabh** Add the structure for `task6.md`~~
