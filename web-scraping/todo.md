@@ -17,15 +17,12 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task9.md`
 - **Pick this task.** Make a solution video for `task10.md`
 - **Pick this task.** Make a solution video for `task11.md`
-- ~~**Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.~~
 - **Pick this task.** Make a solution video for `task12.md`
 - **Pick this task.** Make a solution video for `task13.md`
-~- **Rishabh** Given the name of an actor can we figure out who he acts with the most?~
 - **Pick this task.** Make a solution video for `task14.md`
-~~- **Rishabh** List of all actors who feature in more than 2 movies.~~
 - **Pick this task.** Make a solution video for `task15.md`
-- **Rishabh** Bonus: Scrape Similar Movies.
-- **Rishabh** Bonus Analysis: Figure out what kind of movies are liked by Men & Women. https://www.imdb.com/title/tt8108198/ratings?ref_=tt_ov_rt
+- **Pick this task.** Make a solution video for `bonus-task1.md`
+- **Pick this task.** Make a solution video for `bonus-task2.md`
 
 ## Move Completed Tasks Here.
 
@@ -38,3 +35,8 @@ name: Pending To-Dos (for course creators)
 - ~~**Rishabh** Getting the list of all movies by using a random sleep timer of 1 to 3 seconds.~~
 - ~~**Rishabh** Language and director comparison of all movies.~~
 - ~~**Rishabh** Analyse by Genre~~
+- ~~**Rishabh** Bonus Analysis: Figure out what kind of movies are liked by Men & Women. https://www.imdb.com/title/tt8108198/ratings?ref_=tt_ov_rt.~~
+- ~~**Rishabh** Given the name of an actor can we figure out who he acts with the most?~~
+- ~~**Rishabh** List of all actors who feature in more than 2 movies.~~
+- ~~**Rishabh** Bonus: Scrape Similar Movies.~~
+- ~~**Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.~~
