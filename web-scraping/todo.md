@@ -24,7 +24,8 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task9.md`
 - ~~**Rishabh** Language and director comparison of all movies.~~
 - **Pick this task.** Make a solution video for `task10.md`
-- **Rishabh** Analyse by Genre
+- ~~**Rishabh** Analyse by Genre~~
+- **Pick this task.** Make a solution video for `task11.md`
 - **Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.
 - **Rishabh** Given the name of an actor can we figure out who he acts with the most?
 - **Rishabh** List of all actors who feature in more than 2 movies.
