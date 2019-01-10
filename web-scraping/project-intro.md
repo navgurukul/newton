@@ -7,7 +7,8 @@ name: Project Introduction
 Yahan hun apne project ke baare mein ache se samjhenge ki hum kya bana rahe hain.
 
 @[youtube](https://studio.youtube.com/video/4xcdR0HT_zE/edit)
-Created by Vishal Gaddam (vishal18@navgurukul.org)
+**Created by Vishal Gaddam (vishal18@navgurukul.org)**
+
 
 Upar waali video mein maine ache se explain kia hai ki hum kya applications bana rahe hain.
 
