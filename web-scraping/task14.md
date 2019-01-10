@@ -16,7 +16,7 @@ List mein jinn actors/actresses ka naam pehle hota hai woh lead actors hote hain
 
 Lekin abhi apne analysis ko asaan banane ke liye hum har movie ke top ke 5 actors/actresses ki baat karenge. Uske neeche wale pe aap baad mein analysis kar ke dekh sakte ho?
 
-Yeh karne ke liye aapko ek `analyse_actors` naam ka function likhna hai jo ki `movies_list` naam ka ek parameter lega. Iss parameter mein saari movies aur unki cast ki list hogi. Basically jo list aapka updated `get_movie_list_details` wala function return karta hai woh iss function mein parameter ki tarah jayegi. Iss list mein har movie ki details ke saath saath uski cast ki details bhi honi chaiye. Yeh `movies_list` kuch aisi dikhegi:
+Yeh karne ke liye aapko ek `analyse_co_actors` naam ka function likhna hai jo ki `movies_list` naam ka ek parameter lega. Iss parameter mein saari movies aur unki cast ki list hogi. Basically jo list aapka updated `get_movie_list_details` wala function return karta hai woh iss function mein parameter ki tarah jayegi. Iss list mein har movie ki details ke saath saath uski cast ki details bhi honi chaiye. Yeh `movies_list` kuch aisi dikhegi:
 
 ```python
 [
