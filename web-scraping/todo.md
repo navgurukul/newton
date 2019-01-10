@@ -17,8 +17,11 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task9.md`
 - **Pick this task.** Make a solution video for `task10.md`
 - **Pick this task.** Make a solution video for `task11.md`
-- **Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.
-- **Rishabh** Given the name of an actor can we figure out who he acts with the most?
+- ~~**Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.~~
+- **Pick this task.** Make a solution video for `task12.md`
+- **Pick this task.** Make a solution video for `task13.md`
+~- **Rishabh** Given the name of an actor can we figure out who he acts with the most?~
+- **Pick this task.** Make a solution video for `task14.md`
 - **Rishabh** List of all actors who feature in more than 2 movies.
 - **Rishabh** Bonus: Scrape Similar Movies.
 - **Rishabh** Bonus Analysis: Figure out what kind of movies are liked by Men & Women. https://www.imdb.com/title/tt8108198/ratings?ref_=tt_ov_rt
