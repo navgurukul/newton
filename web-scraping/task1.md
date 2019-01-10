@@ -58,6 +58,5 @@ Pehle poori task ko khud karne ki koshish karo. Agar bahot zyada issue aata hai 
 
 # Solution
 
-@[youtube](video-id-here)
+@[youtube](https://www.youtube.com/watch?v=PNv9cD-ene8)
 
-**TODO: Add the solution video here.**
