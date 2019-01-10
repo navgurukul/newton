@@ -1,6 +1,5 @@
 ```ngMeta
 name: Recap
-submissionType:url
 ```
 
 # Recap
