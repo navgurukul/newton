@@ -22,7 +22,8 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task7.md`
 - **Pick this task.** Make a solution video for `task8.md`
 - **Pick this task.** Make a solution video for `task9.md`
-- **Rishabh** Language and director comparison of all movies.
+- ~~**Rishabh** Language and director comparison of all movies.~~
+- **Pick this task.** Make a solution video for `task10.md`
 - **Rishabh** Analyse by Genre
 - **Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.
 - **Rishabh** Given the name of an actor can we figure out who he acts with the most?
