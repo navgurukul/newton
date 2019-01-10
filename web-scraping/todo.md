@@ -15,7 +15,13 @@ name: Pending To-Dos (for course creators)
 - ~~**@Rishabh** Add the structure for `task6.md`~~
 - ~~**@Rishabh** Add the structure for `task7.md`~~
 - ~~**@Rishabh** Add the structure for `task8.md` Caching of data using the ID in the IMDB URL in a directory. That cache will be used always from now. use_cache=True/False~~
-- **Rishabh** Getting the list of all movies by using a random sleep timer of 1 to 3 seconds.
+- ~~**Rishabh** Getting the list of all movies by using a random sleep timer of 1 to 3 seconds.~~
+- **Pick this task.** Make a solution video for `task4.md`
+- **Pick this task.** Make a solution video for `task5.md`
+- **Pick this task.** Make a solution video for `task6.md`
+- **Pick this task.** Make a solution video for `task7.md`
+- **Pick this task.** Make a solution video for `task8.md`
+- **Pick this task.** Make a solution video for `task9.md`
 - **Rishabh** Language and director comparison of all movies.
 - **Rishabh** Analyse by Genre
 - **Rishabh** Get the details of the cast of a movie. Also make sure that it is cached too. And caching should be separate.
