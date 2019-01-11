@@ -9,7 +9,7 @@ name: Pending To-Dos (for course creators)
 - **Yogendra** Factorial video
 - **Satyam** Sum of a list solution video
 - **Yogendra** palindrome string solution video
-- ~**Satyam** fibonacci series solution Video~
+- **Satyam** fibonacci series solution Video
 - **Pralhad** fibonacci series advanced solution Video
 - **Pralhad** binary search solution Video
 - **Pavan** calculate solution Video
