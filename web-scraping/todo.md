@@ -13,7 +13,7 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task5.md`
 - **Pick this task.** Make a solution video for `task6.md`
 - **Pick this task.** Make a solution video for `task7.md`
-- **Pick this task.** Make a solution video for `task8.md`
+- **@vishal** Make a solution video for `task8.md`
 - **Pick this task.** Make a solution video for `task9.md`
 - **Pick this task.** Make a solution video for `task10.md`
 - **Pick this task.** Make a solution video for `task11.md`
