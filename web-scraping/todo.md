@@ -9,7 +9,7 @@ name: Pending To-Dos (for course creators)
 - ~~@Vishal** Explain the task listed in task1.md and also explain how to identify the patterns.~~
 - **Pick this task** Make a solution video for `task2.md`
 - **Pick this task** Make a solution video for `task3.md`
-- **@vishal** Make a solution video for `task4.md`
+- ~~@vishal** Make a solution video for `task4.md`~~
 - **Pick this task.** Make a solution video for `task5.md`
 - **Pick this task.** Make a solution video for `task6.md`
 - **Pick this task.** Make a solution video for `task7.md`
