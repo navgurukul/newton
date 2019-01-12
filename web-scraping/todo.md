@@ -14,9 +14,9 @@ name: Pending To-Dos (for course creators)
 - **Pick this task.** Make a solution video for `task6.md`
 - **Pick this task.** Make a solution video for `task7.md`
 - **@vishal** Make a solution video for `task8.md`
-- **Pick this task.** Make a solution video for `task9.md`
-- **Pick this task.** Make a solution video for `task10.md`
-- **Pick this task.** Make a solution video for `task11.md`
+- **@vishal** Make a solution video for `task9.md`
+- **@vishal** Make a solution video for `task10.md`
+- **@vishal** Make a solution video for `task11.md`
 - **Pick this task.** Make a solution video for `task12.md`
 - **Pick this task.** Make a solution video for `task13.md`
 - **Pick this task.** Make a solution video for `task14.md`
