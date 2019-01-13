@@ -42,8 +42,8 @@ Step 4. from bs4 import BeautifulSoup
 Step 5. soup = BeautifulSoup(sample.text,"html.parser") # iss object ke throw hum kahi bhi khel sakte hai
 Step 6. Title = soup.title
 
-print(Title)
+print(Title)#ye apke web page ka title print karega
 ```
-
+Ab aap yha se scraping start karenge ..............
 
 
