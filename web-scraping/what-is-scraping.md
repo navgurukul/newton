@@ -35,5 +35,15 @@ how to install these packages
 # Let's start
 Sabse phle humko [some important things](https://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python) ke bare main pata hona chahiye.
 
+Step 1. import requests
+Step 2. URL = "Yha per apka url hoga jis bhi web page ko aap scrape karna chahte ho"
+Step 3. sample = requests.get(URL) #ye hamare webpage ka sample Download kr dega
+Step 4. from bs4 import BeautifulSoup
+Step 5. soup = BeautifulSoup(sample.text,"html.parser") # iss object ke throw hum kahi bhi khel sakte hai
+Step 6. Title = soup.title
+```
+   print(Title)
+```
+
 
 
