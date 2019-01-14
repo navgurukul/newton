@@ -25,4 +25,5 @@ Abhi jab bhi hum `scrape_movie_details` function ko call karte hain, toh woh req
 
 
 @[youtube](https://youtu.be/cWGgsxmf3g8)
+
 **Created by Vishal Gaddam**(vishal18@navgurukul.org)
