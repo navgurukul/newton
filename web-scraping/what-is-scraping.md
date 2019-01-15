@@ -25,7 +25,7 @@ Why we use pip install beautifulsoup4?
 how to install these packages
 ```
    $ sudo apt-get install python3-pip
-   $ pip install requests Or pip --use requests
+   $ pip install requests Or pip --user requests
    $ pip install beautifulsoup4
    
 ```
