@@ -5,22 +5,22 @@ name: Pending To-Dos (for course creators)
 # Tasks
 
 - ~~@Vishal** Add an intro video to `project-intro.md`. Upload the video on Youtube.~~
-- ~~@Naresh**Pick this task** Add a video telling how to use requests and BS4. Also talk about how to use the common commands to beautiful soup. what-is-scraping.md~~
+- ~~@Naresh** Add a video telling how to use requests and BS4. Also talk about how to use the common commands to beautiful soup. what-is-scraping.md~~
 - ~~@Vishal** Explain the task listed in task1.md and also explain how to identify the patterns.~~
-- **@Akhil**Pick this task** Make a solution video for `task2.md`
-- **@Naresh**Pick this task** Make a solution video for `task3.md`
+- ~~**@Akhil** Make a solution video for `task2.md`
+- **@Naresh** Make a solution video for `task3.md`
 - ~~@vishal** Make a solution video for `task4.md`~~
-- **@Naresh**Pick this task.** Make a solution video for `task5.md`
-- **@Naresh**Pick this task.** Make a solution video for `task6.md`
-- **@Naresh**Pick this task.** Make a solution video for `task7.md`
+- **@Naresh** Make a solution video for `task5.md`
+- **@Naresh** Make a solution video for `task6.md`
+- **@Naresh** Make a solution video for `task7.md`
 - **@vishal** Make a solution video for `task8.md`
 - **@vishal** Make a solution video for `task9.md`
 - **@vishal** Make a solution video for `task10.md`
 - **@vishal** Make a solution video for `task11.md`
-- **@Akhil**Pick this task.** Make a solution video for `task12.md`
-- **@Akhil**Pick this task.** Make a solution video for `task13.md`
-- **@Akhil**Pick this task.** Make a solution video for `task14.md`
-- **@Akhil**Pick this task.** Make a solution video for `task15.md`
+- **@Akhil** Make a solution video for `task12.md`
+- **@Akhil** Make a solution video for `task13.md`
+- **@Akhil** Make a solution video for `task14.md`
+- **@Akhil** Make a solution video for `task15.md`
 - **Pick this task.** Make a solution video for `bonus-task1.md`
 - **Pick this task.** Make a solution video for `bonus-task2.md`
 
