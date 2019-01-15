@@ -10,17 +10,17 @@ name: Pending To-Dos (for course creators)
 - **Akhil**Pick this task** Make a solution video for `task2.md`
 - **@Naresh**Pick this task** Make a solution video for `task3.md`
 - ~~@vishal** Make a solution video for `task4.md`~~
-- **Pick this task.** Make a solution video for `task5.md`
-- **Pick this task.** Make a solution video for `task6.md`
-- **Pick this task.** Make a solution video for `task7.md`
+- **Naresh**Pick this task.** Make a solution video for `task5.md`
+- **Naresh**Pick this task.** Make a solution video for `task6.md`
+- **Naresh**Pick this task.** Make a solution video for `task7.md`
 - **@vishal** Make a solution video for `task8.md`
 - **@vishal** Make a solution video for `task9.md`
 - **@vishal** Make a solution video for `task10.md`
 - **@vishal** Make a solution video for `task11.md`
-- **Pick this task.** Make a solution video for `task12.md`
-- **Pick this task.** Make a solution video for `task13.md`
-- **Pick this task.** Make a solution video for `task14.md`
-- **Pick this task.** Make a solution video for `task15.md`
+- **Akhil**Pick this task.** Make a solution video for `task12.md`
+- **Akhil**Pick this task.** Make a solution video for `task13.md`
+- **Akhil**Pick this task.** Make a solution video for `task14.md`
+- **Akhil**Pick this task.** Make a solution video for `task15.md`
 - **Pick this task.** Make a solution video for `bonus-task1.md`
 - **Pick this task.** Make a solution video for `bonus-task2.md`
 
