@@ -2,7 +2,7 @@
 
 Inn Videos bahut dhyaan se dekhein, aur aapas mei discuss karein. Aap subtitles `on` kar sakte hai, inn videos ko acche se samajhne ke liye.
 
-Iss topic se related koi v discussion krne ke lye is link pr jaaye : [requests_course](https://cliq.zoho.com/channels/pythonrequestdatabase)
+Iss topic se related koi v discussion krne ke lye is link pr jaaye : [Requests_course](https://cliq.zoho.com/channels/pythonrequestdatabase)
 
 ## What is a Server?
 
