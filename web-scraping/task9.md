@@ -50,6 +50,6 @@ Agar aapko ek function ki documentation dekhni hai toh uss function ko call kare
 
 ### Solution Video :-
 
-[youtube](https://youtu.be/5FIPLIXWmtQ]
+[youtube](https://youtu.be/5FIPLIXWmtQ)
 
 **Created by Vishal Gaddam** (vishal18@navgurukul.org)
