@@ -19,7 +19,8 @@ Abhi jab bhi hum `scrape_movie_details` function ko call karte hain, toh woh req
 
 1. Data parse karke dictionary mein return karne se pehle uss dictionary ko JSON mein convert kar ke ek file mein store karna hai. Agar aap URL ko dhyaan se dekhoge toh har movie ke URL uss movie ki IMDB ke hisaab se ek ID hoti hai. Jaise yeh Anand (https://www.imdb.com/title/tt0066763/) ka URL hai. Ismein `tt0066763` ID hai. Humein humesha URL se yeh ID nikaalni hai aur iss ke naam se ek file banani hai jismein `scrape_movie_details` ki final dictionary ko JSON mein convert kar ke save karenge. Anand ki cache file ka naam `tt0066763.json` hoga.
 
-**#TODO: Add how to convert dictionary to JSON or paste a relevant link for it.**
+**how to convert dictionary to JSON**
+https://www.w3schools.com/python/python_json.asp
 
 2. Aapko function ka flow aise change karna hai ki woh pehle dekhe ki kya humare cache mein (matlab movie ki ID ke hisaab se ek JSON file exist karti hai kya?) yeh movie exist karti hai. Agar karti hai toh cache se details lake de deni hain. Nahi toh uss movie ki details IMDB se nikaalni hain.
 
