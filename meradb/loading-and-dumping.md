@@ -47,6 +47,8 @@ class MeraDB():
     mdb = MeraDB("dbfile.json")
     mdb.load_file()
     mdb.dump()
+    
+    class ke ander variable ko property bolte hai aur function ko method.
 
     ```
     fileName = ""
