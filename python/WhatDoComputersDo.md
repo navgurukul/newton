@@ -24,4 +24,4 @@ Computers khud se nahi soch sakte - hume unhe koi bhi kaam perform karane ke liy
 - Internet par computers ke applications search karo. Ye applications kaun sa problem solve kar rahe hain? Socho ki inn computers ko humne kis tarah ke instructions diye honge?
 
 ## Link for discussion
-Pyhton se related koi v discussion krne ke lye is link pr jaaye. [Python_Course](https://cliq.zoho.com/channels/pythoncourse)
+Pyhton se related koi v discussion krne ke lye is link pr jaaye :  [Python_Course](https://cliq.zoho.com/channels/pythoncourse)
