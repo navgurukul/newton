@@ -13,10 +13,10 @@ name: Pending To-Dos (for course creators)
 - **@Naresh** Make a solution video for `task5.md`
 - **@Naresh** Make a solution video for `task6.md`
 - **@Naresh** Make a solution video for `task7.md`
-- **@vishal** Make a solution video for `task8.md`
-- **@vishal** Make a solution video for `task9.md`
+- ~~@vishal** Make a solution video for `task8.md`~~
+- ~~@vishal** Make a solution video for `task9.md`~~
 - **@vishal** Make a solution video for `task10.md`
-- **@vishal** Make a solution video for `task11.md`
+- ~~@vishal** Make a solution video for `task11.md`~~
 - **@Akhil** Make a solution video for `task12.md`
 - **@Akhil** Make a solution video for `task13.md`
 - **@Akhil** Make a solution video for `task14.md`
