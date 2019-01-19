@@ -1,3 +1,7 @@
+```
+ngMeta
+submissionType: url
+```
 
 **What it is!**
 Nouns are names of persons, animals, things and places.
@@ -10,6 +14,10 @@ For Example:
 * Kursi (कुरसी ) -  Chair
 * Delhi (दिल्ली ) - Delhi
 * Bangalore (बंगलौर ) -Bangalore
+
+@[youtube](YqBs1MtNqeE)
+
+@[youtube]()
 
 #### Exercise:
 Identify the nouns in the following sentences and discuss (Neeche diye gae sentences me nouns ko pehchane aur discuss karein):
@@ -67,12 +75,20 @@ Example:
 * Student (singular) – students (plural)
 * Box (singular) – boxes (plural)
 
+@[youtube](IbyOkex9qtA)
+
 To learn more about singular and plural nouns, visit [here](https://www.successcds.net/learn-english/singular-and-plural-nouns-definition-list-examples-exercises.html).
 
 You can also learn via this [youtube video](https://youtu.be/ah-rDTTL_2s).
 
 ##### Exercises:
 Solve the exercises given [here](https://www.myenglishpages.com/site_php_files/grammar-exercise-plural.php)
+
+### Gender
+
+@[youtube](8dZagkF80HI)
+
+@[youtube](ED45vL7KNW0)
 
 
 ### Noun: Count and Non-count
@@ -84,4 +100,6 @@ Example: (Non-count): water, milk, oil, money, work, kindness, etc
 
 ##### Exercise
 Make a list of 10 non-countable nouns and make sentences with them.
+
+
 
