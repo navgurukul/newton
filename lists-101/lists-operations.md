@@ -1,7 +1,3 @@
-```ngMeta
-name: List Operation
-```
-
 # Lists ke saath kya kar sakte hain?
 
 Iss exercise mei hum samjhenge ki LISTS ko kaise use karte hai. Jaisa humne dekha LIST mei kaafi values hoti hai. Toh hume koi tareeka chahiye jisse hum in values ko access kar paye.

@@ -1,3 +1,6 @@
 - introduction.md
 - defining-lists.md
 - defining-lists-2.md
+- lists-iteration.md
+- lists-len-function.md
+- lists-operation.md
