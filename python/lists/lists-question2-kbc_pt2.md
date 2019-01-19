@@ -10,7 +10,7 @@ submissionType: url
 Yeh questions alag alag parts mein divided hai. Saare parts ko ek hi file mein code likh kar submit karna hai.
 
 # Part 1
-`question_list` variable ko use kar ke second question ko use karo.
+`question_list` variable ko use kar ke second question ko use karenge.
 
 *Hint: Yaad karo aapne indexes ke baare mein kya pada tha.*
 
