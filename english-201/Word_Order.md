@@ -1,14 +1,17 @@
+```ngMeta
+submissionType: url
+```
 Word order refers to the way words are arranged in a sentence. The standard word order in English is: 
 
 `Subject + Verb + Object.` 
 
 To determine the proper sequence of words, you need to understand what the subject, verb and object(s) are.
 
-`
+```
 * Subject: typically a noun or pronoun—the person, place or thing
 * Verb: the action or state of being
 * Object: the word or group of words influenced by the verb
-`
+```
 
 The sequence of words is critical when communicating in English because it can impact the meaning of what you’re trying to say. The sentence, “The chicken crossed the road” and “The road crossed the chicken” take on two different meanings because the subject and object are inverted. The same would be true if the verb was used out of order, for example: “Crossed the road the chicken.”
 

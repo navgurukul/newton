@@ -8,7 +8,7 @@ name past perfect tense
 
 @[youtube](9QU5bqql8Kg)
 
-##past perfect tense
+## Past Perfect Tense
 
 you can visit this websites:-
 
@@ -23,13 +23,13 @@ Fill in the correct form of the past perfect as in the examples.
 
 
 
-   After Loren had turned on the alarm, she locked the door. (turn on)
+  After Loren had turned on the alarm, she locked the door. (turn on)
 
-    By the time Simone arrived, the police had already left. (arrive)
+   * By the time Simone arrived, the police had already left. (arrive)
 
-    Had you known about the contract they signed? (know)
+   * Had you known about the contract they signed? (know)
 
-  * After the company _____Joe, he began to work on his first project. (hire)
+   * After the company _____Joe, he began to work on his first project. (hire)
 
    * _you ___ the news before you saw it on TV? (hear)
 
@@ -41,14 +41,14 @@ Fill in the correct form of the past perfect as in the examples.
 
    * Bill __________ for years before he finally _______. (smoke/ quit)
 
-  *  _______ Sara ever _______to London by herself before then? (drive)
+   *  _______ Sara ever _______to London by herself before then? (drive)
 
    * How many fish ______ the boys _____ by the time it started raining? (catch)
 
    * You ________ them to go to the beach, hadn’t you? (forbid)
    * The girls _______ in weeks? That’s why they ______ so much afterwards. (exercise / hurt
 
-    answer:-
+    Answers:-
     
     had hired
     Had/heard

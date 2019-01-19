@@ -2,7 +2,9 @@ Iss project mei hum log `hangman` game develop karenge.
 
 ![hangman](assets/hangman.png)
 
-Game ko samajhne ke liye aap [yaha](https://hangmanwordgame.com) par ja kar iss game ko khel sakte hai. Bahut simple sa game hai
+Game ko samajhne ke liye aap [yaha](https://hangmanwordgame.com) par ja kar iss game ko khel sakte hai. Bahut simple sa game hai. Fir neeche diye hue video ko dekh lo. 
+
+@[youtube](https://www.youtube.com/watch?v=H4c9QEWsLmo)
 
 - Computer ek word sochta hai
 - Jitne uss words mei characters hote hai, utne letters ke jagah computer `_` show karta hai

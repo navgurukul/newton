@@ -11,6 +11,10 @@ Dhyaan rakhna ki humne graphics bhi use kiye the user ki remaining lives dikhane
 - Program ka control flow sahi se samajhna bahut important hai
 - Kyuki yeh sirf user se ek baar poochna hai, toh yeh loop ke bahar hona chahiye
 
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=f-2A-OeYSWA)
+
 ## Possible Solution
 ..................... in the hangman function ............................
 ...

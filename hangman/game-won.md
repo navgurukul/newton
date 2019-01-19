@@ -9,6 +9,10 @@ Aapko `is_word_guessed` function update karna hai, jisse ki aap check kar payein
 ## Hint
 - Yeh karne ke liye aap `get_guessed_word` function use kar sakte hai
 
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=tBLsbWy1oSw)
+
 ## Possible Solution
 ```python
 def is_word_guessed(secret_word, letters_guessed):

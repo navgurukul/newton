@@ -6,11 +6,14 @@ name: Project Introduction
 
 Yahan hun apne project ke baare mein ache se samjhenge ki hum kya bana rahe hain.
 
-@[youtube](https://youtu.be/HSeAiYYXzFc)
+@[youtube](https://www.youtube.com/watch?v=4xcdR0HT_zE)
+
+**Created by Vishal Gaddam (vishal18@navgurukul.org)**
+
 
 Upar waali video mein maine ache se explain kia hai ki hum kya applications bana rahe hain.
 
-Isko aur ache se samajhne ke liye aap [IMDB.com](https://imdb.com) pe jaake ek baar uss website ko ache se dekh sakte hain. IMDB se hum **Top 250 Indian Movies** ki list to scrape karenge. Uske baad hum movies ki details ko analuse karenge. Iss list ko aap [iss link](https://www.imdb.com/india/top-rated-indian-movies?ref_=nv_mv_250_in) pe dekh sakte hain.
+Isko aur ache se samajhne ke liye aap [IMDB.com](https://imdb.com) pe jaake ek baar uss website ko ache se dekh sakte hain. IMDB se hum **Top 250 Indian Movies** ki list to scrape karenge. Uske baad hum movies ki details ko analyse karenge. Iss list ko aap [iss link](https://www.imdb.com/india/top-rated-indian-movies?ref_=nv_mv_250_in) pe dekh sakte hain.
 
 Iss project hum yeh sab tasks karenge:
 

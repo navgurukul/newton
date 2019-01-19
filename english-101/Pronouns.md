@@ -10,9 +10,11 @@ In the first sentence, proper noun 'Rahul' has been repeatedly used, whereas the
 
 (पहले वाक्य मे बार-बार  राहुल उपयोग हो रहा है, दूसरे वाक्य मे राहुल की जगह पर *"वह"* उपयोग हो रहा है। )
 
+@[youtube](L253lfRAGGE)
+
 **Excercise:**
 
-1. Replace the word in bracket with suitable pronouns.
+* Replace the word in bracket with suitable pronouns.
 
 1. (Sonam) is the the new Training and Placement Coordinator.
 2. Khushboo, Pooja and Swati are in the kitchen today. (Khushboo, Pooja and Swati) will make gulab jamun.
@@ -22,9 +24,13 @@ In the first sentence, proper noun 'Rahul' has been repeatedly used, whereas the
 6. I want to discuss about the code with Rahul. Please go and call (Rahul).
 
 
-2. Following is the list of most common pronouns. Find their meaning and make 20 sentences using different pronouns. Write your sentences in the comments.
+* Following is the list of most common pronouns. Find their meaning and make 20 sentences using different pronouns. Write your sentences in the comments.
 
 I, you, he, she, it, we, they, me, him, her, us, them, this, that, these, those, who, whom, which, what,myself,yourself, himself, herself, itself
+
+@[youtube](gI_ygAB10SE)
+
+@[youtube](rcfNpTUIJjA)
 
 
 Practice the following exercises:

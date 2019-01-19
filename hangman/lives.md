@@ -17,6 +17,10 @@ Jab bhi user ka guess theek ho, toh aap uski number of lives ko kam na karein.
     - kaha par check karoge ki yeh variable ab zero ho gaya hai
     - jab yeh zero ho jayega toh aap kya karenge uss condition ko handle karne ke liye
 
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=FPXBIGZGjoQ)
+
 ## Possible Solution
 ```python
 def hangman(secret_word):

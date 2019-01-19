@@ -1,5 +1,6 @@
 ```ngMeta
 name: Counter Examples
+completionMethod: manual
 ```
 
 # Counter Examples
@@ -21,8 +22,7 @@ while i < 931:
     print(z)
   i = i + 1
 ```
-##TODO: Comment the code.
-
+x 
 ## Example 2
 
 1 se 50 ke beech ke saare 5 ke multiples print karo. Lekin aapko % (modulous operator) ka use nahi karna hai. Uske bina karo.

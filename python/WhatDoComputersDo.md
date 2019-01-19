@@ -22,3 +22,6 @@ Computers khud se nahi soch sakte - hume unhe koi bhi kaam perform karane ke liy
 **Kuch Questions jinke baarein mei aapko thoda padhna chahiye**
 - Aapne Computers ke baare mein kya jaana?
 - Internet par computers ke applications search karo. Ye applications kaun sa problem solve kar rahe hain? Socho ki inn computers ko humne kis tarah ke instructions diye honge?
+
+## Link for discussion
+Iss topic se related koi v discussion krne ke lye is link pr jaaye :  [Python_Course](https://cliq.zoho.com/channels/pythoncourse)
