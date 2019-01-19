@@ -84,12 +84,7 @@
 	- loops-code-question13.md
 	- loops-code-question14.md
 - indentation.md
-- lists
-	- lists-intro.md
-	- lists-question2.md
-	- lists-question3.md
-	- lists-question4.md
-	- lists-question1.md
+- lists.md
 - debugging-part2
 	- debugging-intro.md
 	- debugging-question1.md
