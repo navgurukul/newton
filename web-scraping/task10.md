@@ -58,3 +58,9 @@ Kyunki har movies mein director aur languages dono lists hain aur ek string nahi
 ## Hint
 
 1. Nested loops ka use karo :)
+
+## Solution Video :
+
+@[youtube](https://youtu.be/ZX4iav8VKWk)
+
+**Created by** vishal18@navgurukul.org
