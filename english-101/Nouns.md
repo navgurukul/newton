@@ -1,5 +1,4 @@
-```
-ngMeta
+```ngMeta
 submissionType: url
 ```
 
