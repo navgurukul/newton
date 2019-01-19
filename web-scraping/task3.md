@@ -108,6 +108,6 @@ Iss function ki return value aisi dikhegi.
 
 # Solution
 
-@[youtube](video-id-here)
+@[youtube](https://youtu.be/oC0n_oGJnQo)
 
-**TODO: Add the solution video here.**
+**Created by Naresh Kumar Gautam (naresh18@navgurukul.org)**
