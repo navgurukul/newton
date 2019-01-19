@@ -3,4 +3,4 @@
 - defining-lists-2.md
 - lists-iteration.md
 - lists-len-function.md
-- lists-operation.md
+- lists-operations.md
