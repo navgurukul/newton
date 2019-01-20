@@ -24,3 +24,9 @@ Exercise:
 5. MeToo movement is related _______ sexual harrasment.
 6. Many students go ________ higher studies ______ other cities.
 7. Like many youngsters, he is not comfortable _____ English. 
+
+Exercise 2: 
+
+Make sentences using the following prepositions.
+
+on, at, in, before, after, for, since, under, with, behind

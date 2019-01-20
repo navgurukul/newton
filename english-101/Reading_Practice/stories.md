@@ -1,6 +1,11 @@
 ```ngMeta
 name: Stories-Level One
 ```
+
+Solve any 8 reading comprehension stories given below.
+
+(Neeche di gai stories me se kinhi 8 ko solve karein.)
+
 ## LEVEL 1
 * [Whow Gets What](https://drive.google.com/open?id=0B1XBdeTOOHL3eFVxWVYwTXpoRjA)
 * [Wings For people](https://drive.google.com/open?id=0B1XBdeTOOHL3WU5adGM0enJvbTQ)

@@ -7,18 +7,19 @@ In the excerpt above, you might have noticed some words you don’t know. Some w
 
 Look for:
 
-Words that are repeated more than once.
-Unknown words in short sentences.
-Words you’ve seen in other places.
+* Words that are repeated more than once.
+* Unknown words in short sentences.
+* Words you’ve seen in other places.
+  
 Here’s a possible vocabulary list for our sample text:
 
-Instinctive: Something you do or know how to do without needing to learn it.
-Etched: Something that is carved into a surface, or something that is remembered very well.
-Circuitry: A closed route or path that something takes—usually an electric current.
+* Instinctive: Something you do or know how to do without needing to learn it.
+* Etched: Something that is carved into a surface, or something that is remembered very well.
+* Circuitry: A closed route or path that something takes—usually an electric current.
 <br>
 
 
-2. **Don’t define every word.**
+1. **Don’t define every word.**
 As mentioned in tip #1, you don’t need to know every word to understand the text. Stopping to define every word takes time and distracts you from understanding the text.
 
 When you come across a word you don’t know, ask yourself if you can understand the sentence without it.
@@ -30,7 +31,7 @@ In our sample text, the last sentence of the first paragraph says:
 You might not know what the word “craft” means, but you don’t really need to! If you skip over it, you can still understand the sentence: “And the media or other technologies we use in learning and practicing reading.”
 
 3. **Use context clues.**
-The great thing about sentences is that you give new words context. This means the unknown word is surrounded by other words which clarify its meaning. By looking at the words that come before and after an unknown word, you can often figure out the basic meaning.
+The great thing about sentences is that you **give new words context**. This means the **unknown word is surrounded by other words which clarify its meaning**. By looking at the words that come before and after an unknown word, you can often figure out the basic meaning.
 
 For example, the end of the last sentence in the first paragraph talks about the “neural circuits inside our brains.” What are neural circuits? By looking at the rest of the sentence, you can tell that neural circuits are something we have inside our brains.
 
@@ -45,12 +46,13 @@ The first sentence in the second paragraph is quite long:
 
 Try to break it apart and take it one piece at a time. It can be helpful to restate each part in your own words. It might look something like this:
 
-> Experiments demonstrate that — studies show that
-readers of ideograms — people who read characters (which show meaning instead of sounds)
-such as the Chinese — Chinese people are an example of ideogram readers
-develop a mental circuitry for reading — create paths in their brains when you read
-that is very different from the circuitry — which are not like the paths
-found in those of us whose written language employs an alphabet — found in people who use an alphabet
+> * Experiments demonstrate that — studies show that
+>* readers of ideograms — people who read characters (which show meaning instead of sounds)
+>* such as the Chinese — Chinese people are an example of ideogram readers
+>* develop a mental circuitry for reading — create paths in their brains when you read
+>* that is very different from the circuitry — which are not like the paths
+>* found in those of us whose written language employs an alphabet — found in people who use an alphabet
+
 Since you understand the different parts of the sentence, you can put it together in your own words now:
 
 Studies show that people who read characters instead of an alphabet (like Chinese people, for example) have very different brain paths for reading than those of people who do use an alphabet.
