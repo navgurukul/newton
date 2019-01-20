@@ -2,3 +2,5 @@
 - Conjunctions.md
 - Adjectives.md
 - Prepositions.md
+- Word_Order.md
+- Vocabulary.md

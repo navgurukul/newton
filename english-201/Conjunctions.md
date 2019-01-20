@@ -45,6 +45,3 @@ Following are some the of the conjunctions:
 
 Exercise:
 Make two sentences using each of the above conjunctions.
-
-
-
