@@ -1,5 +1,5 @@
 ```ngMeta
-name: Question 1
+name: Palindrome or not?
 submissionType: url
 ```
 
@@ -10,7 +10,15 @@ Code likho jo check kare ki kya list palindrome hai ya nahi. Aur print karo “H
 Abhi ke liye iss list ko use kar ke code likh sakte ho:
 
 ```python
-name=[ ‘n’, ’i’, ‘t’, ‘i’ , ‘n’ ]
+name=[ 'n', 'i', 't', 'i', 'n' ]
 ```
 
 Apni list ko change kar ke alag alag values ke saath test out karo aur fir finally theek code ko upload karo.
+
+Inn values ke liye aap test kar sakte hai
+
+nayan => true
+naina => false
+anamana => true
+ainaania => true
+ainabnia => false

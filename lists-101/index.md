@@ -4,6 +4,10 @@
 - nested-lists.md
 - lists-operations.md
 - lists-iteration.md
+- lists-question1.md
+- lists-question3.md
+- lists-question2.md
+- lists-question4.md
 - lists-len-function.md
 - kbc
   - part-1.md

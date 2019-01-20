@@ -22,8 +22,8 @@ Yaha par 1 ko `INDEX` bolte hai. Kisi item ko access karne ke liye uska INDEX da
 Agar aap dhyaan se dekhenge toh aap samjhenge ki INDEX uss ITEM ki position se 1 kam hota hai, kyunki index ki ginti 0 se shuru hoti hai aur 1 se nahi.
 
 |["annu",  | "shivam",  | "deepa",  | "pooja",   | "rupa"] |
-|------------|:----------:|:---------:|:----------:|----------:|
-| 0          | 	1          | 2         | 3          | 4        |
+|----------|:----------:|:---------:|:----------:|--------:|
+| 0        | 	1       | 2         | 3          | 4       |
 
 ```python
 names_list = ["annu", "shivam", "deepa", "pooja", "rupa"]
@@ -37,7 +37,7 @@ print names_list[5]
 
 Kya last line se error aati hai? Error aayi - 
 
-	list index out of range
+> list index out of range
 
 Iska matlab simple - jo INDEX aapne diya hai woh List ke `indices` (indices - index ka plural hai) ki range se baahar hai
 

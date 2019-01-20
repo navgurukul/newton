@@ -1,6 +1,10 @@
+```ngMeta
+name: Iterating two lists
+```
+
 # How to iterate on two lists together?
 
-Let's say aapke paas do lists jo same lenght ki hai. Aap unn do lists pe ek saath kaise iterate karoge?
+Let's say aapke paas do lists jo same length ki hai. Aap unn do lists pe ek saath kaise iterate karoge?
 
 ```python
 students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']
