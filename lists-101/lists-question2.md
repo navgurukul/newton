@@ -12,9 +12,9 @@ places=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]
 Aapke code ka outut yeh hona chaiye:
 
 ```
-delhi
-gujrat
-rajasthan
-punjab
 kerela
+punjab
+rajasthan
+gujrat
+delhi
 ```

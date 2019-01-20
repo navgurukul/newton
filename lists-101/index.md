@@ -1,0 +1,14 @@
+- introduction.md
+- defining-lists.md
+- defining-lists-2.md
+- nested-lists.md
+- lists-iteration.md
+- lists-len-function.md
+- lists-operations.md
+- kbc
+  - part-1.md
+  - part-2.md
+  - part-3.md
+  - part-4.md
+  - part-5.md
+  - part-6.md
