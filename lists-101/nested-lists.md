@@ -4,24 +4,23 @@ name: Nested Lists
 
 ## LISTS ki LIST
 
+Yeh list dekhein:
+
 ```python
-student1_list = ["rahul", "maths"]
-print type(student1_list)
-student2_list = ["shivam", "science"]
-student3_list = ["kavay", "english"]
+magic_square = [
+    [8, 3, 4],
+    [1, 5, 9],
+    [6, 7, 2]
+]
 
-# student1_list, student2_list, student3_list mei naam and favorite subject hai
-# ab hum ek LIST banayenge jiske ITEMS khud ek LIST hai
+print type(magic_square)
+print type(magic_square[0])
+print type(magic_square[1])
 
-students_list = [student1_list, student2_list, student3_list]
-print type(students_list)
+print sum(magic_square[0])
+print sum(magic_square[1])
+print sum(magic_square[2])
 ```
-
-Yahan humne ek list ke andar ek aur list daal di hai.
-
-Yeh observe karein ki har LIST mei kisi bhi tarah ke ITEMS rakhe ja sakte hai. LIST ek generic structure hai jismei aap jo chahe unko rakh sakte hai. LIST hai ya nahi dekhne ke liye [ ] (square brackets) ko dhundhe.
-
-**Aapne observe kiya hoga, sab ka type 'list' hi hai.**
 
 ## Bonus Content
 If you want to learn lists with a very strong depth, watch this video:
