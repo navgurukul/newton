@@ -26,5 +26,7 @@ Exercise:
 7. Like many youngsters, he is not comfortable _____ English. 
 
 Exercise 2: 
+
 Make sentences using the following prepositions.
+
 on, at, in, before, after, for, since, under, with, behind
