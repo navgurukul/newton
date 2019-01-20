@@ -1,8 +1,9 @@
 ```ngMeta
+name: Aapka Question
 submissionType: url
 ```
 
-**Iss exercise ko karne ke liye aapko apni `KBC Part 1` waali file ki copy bana ke edit karni padegi.**
+## Aapka Question
 
 # Part 1
 Humein unn lists ko use kar kar, yeh information print karni hai:
