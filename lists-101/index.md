@@ -16,6 +16,7 @@
 - questions-2
   - introduction.md
   - report-card.md
+  - report-card-2.md
   - magic-square.md
 - kbc
   - part-1.md
