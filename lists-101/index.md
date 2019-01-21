@@ -14,6 +14,8 @@
   - lists-question4.md
 - lists-len-function.md
 - questions-2
+  - introduction.md
+  - report-card.md
   - magic-square.md
 - kbc
   - part-1.md

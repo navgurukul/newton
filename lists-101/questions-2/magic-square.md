@@ -15,20 +15,22 @@ magic_square = [
     [6, 7, 2]
 ]
 ```
-Rows
+
+```python
+# Rows
 8 + 3 + 4 = 15
 1 + 5 + 9 = 15
 6 + 7 + 2 = 15
 
-Columns
+# Columns
 8 + 1 + 6 = 15
 3 + 5 + 7 = 15
 4 + 9 + 2 = 15
 
-Diagonals
+# Diagonals
 8 + 5 + 2 = 15
 4 + 5 + 6 = 15
-
+```
 
     Iss square ko visualise karne ke liye, isse ek square ki tarah dekhein. Har row mei same number of elements honge. Jitne elements ek row mei hai, utne hi columns iss square mei honge.
 
@@ -40,9 +42,12 @@ magic_square = [
     [6, 4, 2]
 ]
 ```
+
+```python
 Rows
 5 + 3 + 7 = 15
 1 + 8 + 9 = 18
+```
 
 Kyuki second row ka sum 15 nahi hai, isliye yeh magic square nahi hai.
 
@@ -59,6 +64,9 @@ magic_square = [
     [6, 7, 2]
 ]
 ```
+
 Iss `nested list` ke liye aapka kya answer hoga - `True` ya `False`. Aapka answer kya hona chahiye.
 
-**Hint** - Agar di hui `nested list` ek `square` nahi hai, toh aapko pehle hi `False` return karna chahiye.
+**Hint**
+Agar di hui `nested list` ek `square` nahi hai, toh aapko pehle hi `False` return karna chahiye.
+
