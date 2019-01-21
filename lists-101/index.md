@@ -18,6 +18,9 @@
   - report-card-2.md
   - magic-square.md
 - lists-len-function.md
+- questions-n
+  - introduction.md
+  - count-occurences.md
 - kbc
   - part-1.md
   - part-2.md
