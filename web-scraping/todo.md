@@ -10,7 +10,7 @@ name: Pending To-Dos (for course creators)
 - ~~**@Akhil** Make a solution video for `task2.md`~~
 - ~~**@Naresh** Make a solution video for `task3.md`
 - ~~@vishal** Make a solution video for `task4.md`~~
-- ~~**@Naresh** Make a solution video for `task5.md`
+- **@Naresh** Make a solution video for `task5.md`
 - **@Naresh** Make a solution video for `task6.md`
 - **@Naresh** Make a solution video for `task7.md`
 - ~~@vishal** Make a solution video for `task8.md`~~
