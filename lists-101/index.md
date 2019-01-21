@@ -13,6 +13,8 @@
   - lists-question2.md
   - lists-question4.md
 - lists-len-function.md
+- questions-2
+  - magic-square.md
 - kbc
   - part-1.md
   - part-2.md
