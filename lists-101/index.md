@@ -1,7 +1,6 @@
 - introduction.md
 - defining-lists.md
 - defining-lists-2.md
-- nested-lists.md
 - lists-operations.md
 - lists-iteration.md
 - questions
@@ -12,12 +11,13 @@
   - second-max-element.md
   - lists-question2.md
   - lists-question4.md
-- lists-len-function.md
+- nested-lists.md
 - questions-2
   - introduction.md
   - report-card.md
   - report-card-2.md
   - magic-square.md
+- lists-len-function.md
 - kbc
   - part-1.md
   - part-2.md
