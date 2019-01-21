@@ -11,6 +11,7 @@
   - second-max-element.md
   - lists-question2.md
   - lists-question4.md
+  - binary-to-decimal.md
 - nested-lists.md
 - questions-2
   - introduction.md
