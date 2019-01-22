@@ -24,7 +24,7 @@ print sum(magic_square[2])
 
 Yeh image dhyaan se dekhein:
 
-![assets/nested_lists.png](assets/nested_lists.png)
+![nested lists](assets/nested_lists.png)
 
 yeh samajhne ke liye, ki `nested_lists` mei kaise elements ko **access** karte hai.
 
