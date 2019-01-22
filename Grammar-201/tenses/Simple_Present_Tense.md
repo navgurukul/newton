@@ -5,16 +5,11 @@
 ```ngMeta
 name Simple present Tense
 
+ @[youtube](SXJXaHaWS9U)
 
-@[youtube](SXJXaHaWS9U)
+ @[youtube](3fEnNbKD3bY) 
 
-
-
-@[youtube](3fEnNbKD3bY) 
-
-
-
-@[youtube](QUGETmMFuGQ)
+ @[youtube](QUGETmMFuGQ)
 
 
 
