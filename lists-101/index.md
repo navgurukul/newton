@@ -1,10 +1,27 @@
 - introduction.md
 - defining-lists.md
 - defining-lists-2.md
-- nested-lists.md
-- lists-iteration.md
-- lists-len-function.md
 - lists-operations.md
+- lists-iteration.md
+- questions
+  - introduction.md
+  - count-elements.md
+  - lists-question1.md
+  - lists-question3.md
+  - second-max-element.md
+  - lists-question2.md
+  - lists-question4.md
+  - binary-to-decimal.md
+- nested-lists.md
+- questions-2
+  - introduction.md
+  - report-card.md
+  - report-card-2.md
+  - magic-square.md
+- lists-len-function.md
+- questions-n
+  - introduction.md
+  - count-occurences.md
 - kbc
   - part-1.md
   - part-2.md

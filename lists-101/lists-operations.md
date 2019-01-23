@@ -1,54 +1,60 @@
 # Lists ke saath kya kar sakte hain?
 
-Iss exercise mei hum samjhenge ki LISTS ko kaise use karte hai. Jaisa humne dekha LIST mei kaafi values hoti hai. Toh hume koi tareeka chahiye jisse hum in values ko access kar paye.
+Iss exercise mei hum samjhenge ki `LISTS` ko kaise use karte hai. Jaisa humne dekha `LIST` mei kaafi values hoti hai. Toh hume koi tareeka chahiye jisse hum in values ko access kar paye.
 
 ```python
-names_list = ["rahul", "shivam", "kavay", "ashish", "rohit"]
-
+names_list = ["annu", "shivam", "deepa", "pooja", "rupa"]
 print names_list[1]
 ```
 
 `[1]` likhne karne se kya hua? "shivam" print hua? 
 
-Yaha par 1 ko INDEX bolte hai. Kisi item ko access karne ke liye uska INDEX daalte hai. Dekhte hai iss array mei sabka INDEX kya hai.
+Yaha par 1 ko `INDEX` bolte hai. Kisi item ko access karne ke liye uska INDEX daalte hai. Dekhte hai iss list mei sabka INDEX kya hai.
 
-["rahul", "shivam", "kavay", "ashish", "rohit"]
+["annu", "shivam", "deepa", "pooja", "rupa"]
 
-1. `rahul` ka index 0
-2. `shivam` ka index 1
-3. `kavay` ka index 2
-4. `ashish` ka index 3
-5. `rohit` ka index 4
+1. `annu` ka `index` 0
+2. `shivam` ka `index` 1
+3. `deepa` ka `index` 2
+4. `pooja` ka `index` 3
+5. `rupa` ka `index` 4
 
 Agar aap dhyaan se dekhenge toh aap samjhenge ki INDEX uss ITEM ki position se 1 kam hota hai, kyunki index ki ginti 0 se shuru hoti hai aur 1 se nahi.
 
-| ["rahul",  | "shivam",  | "kavay",  | "ashish",  | "rohit"] |
-|------------|------------|-----------|------------|----------|
-| w0          | 1          | 2         | 3          | 4        |
+|["annu",  | "shivam",  | "deepa",  | "pooja",   | "rupa"] |
+|----------|:----------:|:---------:|:----------:|--------:|
+| 0        | 	1       | 2         | 3          | 4       |
 
 ```python
-names_list = ["rahul", "shivam", "kavay", "ashish", "rohit"]
+names_list = ["annu", "shivam", "deepa", "pooja", "rupa"]
 
-print names_list[0] # se "rahul" print hoga
+print names_list[0] # se "annu" print hoga
 
-print names_list[4] # se "rohit" print hoga
+print names_list[4] # se "rupa" print hoga
 
 print names_list[5]
 ```
 
-Kya last line se error aati hai? Error aayi - list index out of range. Iska matlab simple - jo INDEX aapne diya hai woh INDEX ki range se baahar hai
+Kya last line se error aati hai? Error aayi - 
 
-Simple question - maximum INDEX hum kitna daal sakte hai? 
-Answer - INDEX ki length se ek kam. Usse zyada daalne se index out of range error aayegi.
+> list index out of range
 
-Error ke baare mein google kar ke thoda aur samjho.
+Iska matlab simple - jo INDEX aapne diya hai woh List ke `indices` (indices - index ka plural hai) ki range se baahar hai
+
+#### Question
+maximum INDEX hum kitna daal sakte hai? 
+
+#### Answer
+INDEX ki length se ek kam. Usse zyada daalne se `index out of range` error aayegi.
+
+Error ke baare mein google kar ke thoda aur samjho. Yeh error aapka peecha nahi chodegi ;) Behetar hai, abhi thoda samajh jayein!
 
 # Changing List Items
 
-Issi tarah se hum LIST mei ITEMS ko update/change kar sakte hai.
+Issi tarah se hum LIST mei ITEMS ko update/change bhi kar sakte hai.
 
 ```python
-names_list[0]="abhishek"
+names_list[0] = "abhishek"
 print names_list
 ```
 
@@ -72,7 +78,7 @@ Aapko list index out of range error milegi, kyuki 5th index par koi ITEM exist n
 Agar humne apne code mein ek list ki length dekhni hai, toh hum `len` function ka use kar sakte hain.
 
 ```python
-names_list = ["rahul", "shivam", "kavay", "ashish", "rohit"]
+names_list = ["annu", "shivam", "deepa", "pooja", "rupa"]
 print len(names_list)
 ```
 
@@ -104,7 +110,7 @@ Jaise hum list se elements add kar rahe the, waise hi elements remove bhi kar sa
 List se agar aakhiri element hatana ho toh uske liye `pop` function use karte hai.
 
 ```python
-names_list = ["rahul", "shivam", "kavay", "ashish", "rohit", "dhruv", "alok"]
+names_list = ["annu", "shivam", "deepa", "pooja", "rupa", "dhruv", "alok"]
 names_list.pop()
 print "length of the list is ", len(names_list)
 print names_list
@@ -116,6 +122,18 @@ Print karke dekho ki aakhri element hatt gaya hoga. Firse ek aur element remove 
 names_list.pop()
 print "length of the list is ", len(names_list)
 print names_list
+```
+
+Aap `list` par `pop` `function` kisi argument ke saath bhi call kar sakte hai. Yaani aap `pop` mei kuch `index` daal sakte hai, jaisa karne par, uss list se, uss index ka `element` remove ho jayega. 
+
+Example:
+
+```python
+print "length of the list is ", len(names_list), names_list
+names_list.pop(2)
+print "length of the list is ", len(names_list), names_list
+names_list.pop(2)
+print "length of the list is ", len(names_list), names_list
 ```
 
 # Check if Element exists in List
@@ -138,9 +156,9 @@ Kyunki yeh ek boolean value (True/False) return karta hai, hum isko If statement
 
 ```python
 if "shivam" in names_list:
-	print "Shivam ka naam hai"
+	print "Shivam ka naam `names_list` mei hai"
 else:
-	print "Shivam ka naam nahi hai."
+	print "Shivam ka naam `names_list` mei nahi hai."
 ```
 
 *Yaad kariye humne booleans ke baare mein last lessons mein kya pada tha.*
