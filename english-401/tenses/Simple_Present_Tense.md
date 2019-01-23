@@ -1,9 +1,7 @@
 ### Simple Present
 
 				
-
-```ngMeta
-name Simple present Tense
+## Simple present Tense
 
  @[youtube](SXJXaHaWS9U)
 
@@ -20,7 +18,7 @@ Tense ke bare me padhne ke liye sabse phale aapko iss Tutorial ko padhna hoga.
 * [Tutorial](https://www.successcds.net/learn-english/simple-present-tense-definition-rules-examples-exercises.html)
 
 
-All example
+All example:
 
 1) Affirmative: Simple sentences hote hain jaise General actions speech ke liye use hote hain
 
@@ -93,6 +91,7 @@ Do you feel cold?
 
 #### Answers
 (Exercises ko khud solve karne ke baad hi answers dekhein, nahi toh aapki learning nahi hogi.)
+
 1) I eat a mango. 
 
 2) He learns the lesson.
