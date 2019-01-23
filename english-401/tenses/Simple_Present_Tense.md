@@ -1,4 +1,3 @@
-### Simple Present
 
 				
 ## Simple present Tense
