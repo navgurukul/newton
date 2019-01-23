@@ -1,15 +1,12 @@
-```ngMeta
-name: present continuous Tense
 
-
-**First you have to watch this video**
+** First you have to watch this video**
 
 
 @[youtube](1YCLDC_Eqos)
 
 @[youtube](ys_qlQIWvhA)
 
-##present continuous 
+## present continuous 
 
 1.http://www.studyandexam.com/present-continuous-tense.html
 
