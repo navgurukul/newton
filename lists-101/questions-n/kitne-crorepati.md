@@ -8,7 +8,12 @@ Aapko ek aisa program likhna hai jo, bataye, ki uppar wali list mei kitne log:
 
     1 - Crorepati hai
     2 - Lakhpati hai
-    3 - Dilwale (jinke paas paisa naa lakh hai, naa crore :-P)
+    3 - Dilwale
+
+    Jinke paas 1 crore ya usse jyada paisa hai, woh crorepati hai.
+    Jinke paas 1 lakh ya usse kam paise hai, woh lakhpati hai.
+    Baaki sab Dilwale hai.
+
 
 Jaise, uppar wali list ke liye aapka output hoga:
 

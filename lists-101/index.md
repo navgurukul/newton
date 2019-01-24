@@ -23,6 +23,7 @@
   - introduction.md
   - kitne-crorepati.md
   - count-occurences.md
+  - substring-nikalo.md
 - kbc
   - part-1.md
   - part-2.md
