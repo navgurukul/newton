@@ -6,10 +6,11 @@ Example:
 * He will leave **by** tomorrow’s train. (relationship of ‘leave’ [verb] with ‘train’ [noun])
 * We are proud **of** you. (relationship of ‘proud’ [adjective] with ‘you’ [pronoun])
 
+@[youtube](FdBDtbNcd-8)
+
 @[youtube](XYBnvCphgtw)
 
-@[youtube](WfnAK3YxIw4)
-
+@[youtube](R2YrX4-pSR8)
 
 ![Prepositions](assets/prepositions.png)
 
@@ -24,11 +25,7 @@ Exercise:
 4. She wrote five collections ________ poetry.
 5. MeToo movement is related _______ sexual harrasment.
 6. Many students go ________ higher studies ______ other cities.
-7. Like many youngsters, he is not comfortable _____ English.
-
-
-@[youtube](R2YrX4-pSR8)
-
+7. Like many youngsters, he is not comfortable _____ English. 
 
 Exercise 2: 
 
