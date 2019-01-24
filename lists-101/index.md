@@ -18,6 +18,7 @@
   - difference.md
   - report-card.md
   - report-card-2.md
+  - total-sum.md
   - magic-square.md
 - lists-len-function.md
 - questions-n
