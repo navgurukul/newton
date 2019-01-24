@@ -29,3 +29,5 @@
   - part-4.md
   - part-5.md
   - part-6.md
+- advanced-questions
+  - bubble-sort.md

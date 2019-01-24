@@ -1,3 +1,7 @@
+```ngMeta
+submissionType: url
+```
+
 ## Binary to Decimal
 
 Iss program mei humein agar koi number **binary form** mei diya gaya hai, toh hum uski **decimal form** nikalna seekhenge.
