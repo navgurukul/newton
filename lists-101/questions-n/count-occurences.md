@@ -6,6 +6,7 @@ submissionType: url
 
 **Occurences** - occur shabd se bana hai, jiska matlab hota hai, ki kitni baar aata hai.
 
+**Sample List**
 ```python
 char_list = ["a", "n", "t", "a", "a", "t", "n", "n", "a", "x", "u", "g", "a", "x", "a"]
 ```
