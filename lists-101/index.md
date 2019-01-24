@@ -21,6 +21,7 @@
 - lists-len-function.md
 - questions-n
   - introduction.md
+  - kitne-crorepati.md
   - count-occurences.md
 - kbc
   - part-1.md
