@@ -30,4 +30,5 @@
   - part-5.md
   - part-6.md
 - advanced-questions
+  - introduction.md
   - bubble-sort.md
