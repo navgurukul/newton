@@ -11,7 +11,7 @@ submissionType: url
 char_list = ["a", "n", "t", "a", "a", "t", "n", "n", "a", "x", "u", "g", "a", "x", "a"]
 ```
 
-**Output:**
+**Sample List ka Output:**
 ```python
 [["a", 6], ["n", 3], ["t", 2], ["x", 2], ["u", 1], ["g", 1]]
 
