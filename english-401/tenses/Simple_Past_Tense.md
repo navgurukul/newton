@@ -12,47 +12,47 @@ The past simple is usually formed by adding 'd', 'ed', or 'ied' to the base form
 
 Fill in the verbs in parentheses in simple past tense.
 
-1)I ..... swati.(meet)
+1. I ..... swati.(meet)
 
-2)You ...... an apple.(eat)
+2. You ...... an apple.(eat)
 
-3)You ...... food for everybody.(cook)...
+3. You ...... food for everybody.(cook)...
 
-4)It ....... a history.(create)
+4. It ....... a history.(create)
 
-5)we ....... on a tree.(climb)
+5. We ....... on a tree.(climb)
 
-6)They ....... in temple for you.(pray)
+6. They ....... in temple for you.(pray)
 
-7)Boys ....... eveywhere to guide.(preach)
+7. Boys ....... eveywhere to guide.(preach)
 
-8)I .......... him my support.(promise)
+8. I .......... him my support.(promise)
 
-9)The fish ............ out of the water.(jump)
+9. The fish ............ out of the water.(jump)
 
-10)They .......... their friends greeting.(post)
+10. They .......... their friends greeting.(post)
 
-11) You ....... me in the time of need.(help)
+11. You ....... me in the time of need.(help)
 
-12)Boy ........ out.(go)
+12. Boy ........ out.(go)
 
-13)They .........him as a leader.(elect)
+13. They .........him as a leader.(elect)
 
-14)Boys ........... rules and regulation.(violat)
+14. Boys ........... rules and regulation.(violat)
 
-15)She ....... him the monitor.(make)
+15. She ....... him the monitor.(make)
 
-16)I ........ to meet her.(wish)
+16. I ........ to meet her.(wish)
 
-17)she ....... in in her small garden.(work)
+17. she ....... in in her small garden.(work)
 
-18)I ..... yes.(say)
+18. I ..... yes.(say)
 
-19)They .......together.(live)
+19. They .......together.(live)
 
-20)We ....... at Ajunta caves.(reach)
+20. We ....... at Ajunta caves.(reach)
 
-### You chak your answer
+### Answers
 
 1)I .met.... swati.
 

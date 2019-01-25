@@ -1,7 +1,7 @@
 ```ngMeta
-name: Multiple Lists
+name: Advanced Questions
 ```
-# Question Set 2
+# Advanced Questions
 
 Iss section mein kuch questions diye hue hain. Inmein se kuch kuch questions ke saath unki solutions bhi di hui hain. Aap chahe toh aap solutions ko directly dekh sakte hain. Par usse aapka zyada fayda nahi hoga. Better hoga ki pehle aap at least 1 hour khud se aur fir 0.5 hrs apne ek friend ke saath koshish kar ke solution dekho. Aapke concepts ko ache se clear karne ka aur koi better tareeka nhi hai.
 

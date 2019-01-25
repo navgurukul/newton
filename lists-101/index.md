@@ -15,13 +15,18 @@
 - nested-lists.md
 - questions-2
   - introduction.md
+  - difference.md
   - report-card.md
   - report-card-2.md
+  - total-sum.md
   - magic-square.md
 - lists-len-function.md
 - questions-n
   - introduction.md
+  - kitne-crorepati.md
   - count-occurences.md
+  - duplicates.md
+  - substring-nikalo.md
 - kbc
   - part-1.md
   - part-2.md
@@ -29,3 +34,6 @@
   - part-4.md
   - part-5.md
   - part-6.md
+- advanced-questions
+  - introduction.md
+  - bubble-sort.md
