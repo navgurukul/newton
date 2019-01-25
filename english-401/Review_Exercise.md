@@ -27,3 +27,17 @@ For example, for the following prompt "Rishabh/Dharamsala/live",the following qu
 - He/played/kabbadi
 - Rahul/watch/sunset
 - Deepak/cook/lunch
+
+3. Form questions in "Future Tense" using the following prompts.
+
+
+For example, for the following prompt "Rishabh/Dharamsala/live",the following questions can be made in Present Tense.
+- Will Rishabh live in Dharamsala? (Kya Rishabh Dharamsala me rahega?)
+- Will Rishabh be living in Dharamsala? (Kya Rishabh Dharamsala me reh raha hoga?)
+- Will Rishabh have lived in Dharamsala? (Kya Rishabh Dharamsala me chuka hoga?)
+
+Rohit/complete/accounts
+She/play/flute
+You/eat/dinner
+They/tell/story
+Krishna/go/forest
