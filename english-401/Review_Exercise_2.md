@@ -35,8 +35,8 @@ submissionType: url
 >- Rishabh will be living in Dharamsala? (Rishabh Dharamsala me reh raha hoga.)
 >- Rishabh will have lived in Dharamsala. (Rishabh Dharamsala me chuka hoga.)
 
-Rohit/complete/accounts
-She/play/flute
-You/eat/dinner
-They/tell/story
-Krishna/go/forest
+- Rohit/complete/accounts
+- She/play/flute
+- You/eat/dinner
+- They/tell/story
+- Krishna/go/forest
