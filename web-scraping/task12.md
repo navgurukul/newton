@@ -39,3 +39,9 @@ Aapke iss function ko caste ka data iss tareeke se return karna hai:
 Dekho ki kaise `imdb_id` mein uss actor ki ID hai IMDB ke hisaab se. Dekho ki actor ke naam pe ek link hai. Jaise **Rajesh Khanna** ka link hai `https://www.imdb.com/name/nm0004435/?ref_=ttfc_fc_cl_t1` Iss link mein uski ID **`nm0004435`** hai. Wahan se `imdb_id` waali key ki value aa rahi hai. Aapko thodi si string manipulation kar ke woh ID nikaalni padegi.
 
 Aapko yeh bhi ensure karna hai ki yeh function caching ka use kare. Matlab ek baar jab yeh data le aaye toh uski JSON store kar le. Aur fir aage se data IMDB sa na mangwa ke directly aapki JSON mein se nikaal le. Jaise agar aap anand ki caste ki details nikaal rahe ho toh aapki cache waali file ka naam `"tt0066763_cast.json"` hona chaiye. Kyunki Anand ki ID `tt0066763` hai. Yeh ID aapka function cast wale url se nikaal sakta hai. Anand ka caste wala URL yeh hai: https://www.imdb.com/title/tt0066763/fullcredits?ref_=tt_cl_sm#cast
+#Solution Video
+
+@youtube[https://youtu.be/08RigPuAxsA]
+
+**Created by Akhil Rawat(akhil18@navgurukul.org)**
+
