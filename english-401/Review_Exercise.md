@@ -22,3 +22,8 @@ For example, for the following prompt "Rishabh/Dharamsala/live",the following qu
 - Was Rishabh living in Dharamsala? (Kya Rishabh Dharamsala me reh raha tha?)
 - Had Rishabh lived in Dharamsala? (Kya Rishabh Dharamsala me raha tha?)
 
+- They/assignment/complete
+- She/drank/water
+- He/played/kabbadi
+- Rahul/watch/sunset
+- Deepak/cook/lunch
