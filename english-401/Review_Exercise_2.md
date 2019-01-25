@@ -14,6 +14,8 @@ submissionType: url
 - Pooja/football/play
 - He/organise/workshop
 
+---
+
 2. Form sentences in "Past Tense" using the following prompts.
 
 >For example, for the following prompt "Rishabh/Dharamsala/live",the following sentences can be made in Present Tense.
@@ -26,6 +28,8 @@ submissionType: url
 - He/played/kabbadi
 - Rahul/watch/sunset
 - Deepak/cook/lunch
+
+---
 
 3. Form sentences in "Future Tense" using the following prompts.
 
