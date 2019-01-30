@@ -11,7 +11,3 @@ submissionType: url
 6. Hum aisa tab tak karte rahenge jab tak user humara number guess nahi kar leta. Ya uski chances (jo ki 10 hain) khatam nahi ho jaati.
 
 User ko aise hint denge toh user ke liye guess karna asaaan ho jayega.
-
-**Note:- Ab aapko iss game ka flowchart aur code likhna hai. Flowchart banate hue ek baat ka dhyan rakhe ki. Iss game mein user ko 10 chances hi milenge. Matlab ki user 10 se jyada baar number input nahi kar sakt**
-
-*Yaad rakehin dono flowchart aur code submit karna hai.*
