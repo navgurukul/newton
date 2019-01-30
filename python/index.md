@@ -60,13 +60,7 @@
 	- debugging-question5.md
 	- debugging-question6.md
 	- debugging-question7.md
-- loops-flowchart
-	- loops-intro.md
-	- loops-question1.md
-	- loops-question2.md
-	- loops-question3.md
-	- loops-question4.md
-	- loops-question5.md
+- loops-course-link.md
 - loops-with-code
 	- loops-code-intro.md
 	- loops-code-question1.md
