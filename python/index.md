@@ -62,7 +62,6 @@
 	- debugging-question7.md
 - loops-course-link.md
 - loops-with-code
-	- loops-code-question3.md
 	- loops-code-question4.md
 	- loops-code-question5.md
 	- loops-code-question7.md
