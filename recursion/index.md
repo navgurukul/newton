@@ -2,7 +2,7 @@
 - introduction.md
 - patterns
     - simple-series.md
-        -simple-series-solution.md
+    - simple-series-solution.md
     - alternative-series-1.md
     - alternative-series-2.md
 - factorial.md
