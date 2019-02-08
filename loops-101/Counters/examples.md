@@ -69,3 +69,10 @@ while i >= 350:
       print(z)
   i = i - 1
 ```
+###Solution 4 to Example 4
+```python
+a = -1
+while a >= (-10):
+	print -a
+	a = a -1
+````
