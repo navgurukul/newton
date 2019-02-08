@@ -69,10 +69,29 @@ while i >= 350:
       print(z)
   i = i - 1
 ```
-###Solution 4 to Example 4
+## Example 4
+1 se 10 tak number print karne hai .incriment ka use nahi karna hai .
+### Solution 1 to Example 4
 ```python
 a = -1
 while a >= (-10):
 	print -a
 	a = a -1
-````
+```
+
+### Solution 2 to Example 4
+```python
+a = 1 
+while a <= 10:
+	print a
+	a = a-(-1)
+```
+
+### Solution 3 to Example 4
+```python
+a = 1
+while a !=11:
+	print a
+	a-=-1
+```
+
