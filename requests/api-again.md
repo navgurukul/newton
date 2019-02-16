@@ -53,3 +53,15 @@ usko locally save kar lete hai, jisse ki baar baar server ko pareshaan na karne 
 - Ek `ifCache` naam ka variable banao, jiski default value `True` ho. Yaani uss variable ko `True` value se initialise karo.
 - Jab `ifCache` `True' ho toh API call karne ke baad, jaise humne file mei uska output store kar liya tha, waise store kar payein. Iska matlab jab ifCache True hai, tab hum caching kar rahe hai, yaani response ko locally save kar rahe hai, jisse ki server ko baar baar pareshaan na karna padein.
 - Otherwise jab `ifCache` variable `False` ho toh hamesha API calls karo, chahe files exist karti ho ya nahi. Iska matlab humne caching disable yaani False kar di hai.
+
+`ifCache` jaise variables ko kabhi kabhi **`configuration variables`** bhi bolte hai. Inn variables ko hum usually alag files mei, ya file ki beginning mei define karte hai, aur depending on humei code kis condition mei chalana hai, hum inn configuration variables ki value set kar dete hai. Toh jaise - aap code jab debug kar rahe hoge, toh aap
+
+```python
+ifCaching=True
+```
+set kar sakte ho. Aise hi jab aap ka code, kabhi koi live use kar raha hoga, toh aap apne code ko 
+
+```python
+ifCaching=False
+```
+set kar kar chala sakte ho. Isse hamara code hamesha server se response maang kar hi user ko display karega.
