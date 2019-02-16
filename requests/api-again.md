@@ -36,6 +36,7 @@ Isse jab aap baar baar, yeh code run karoge, toh API requests nahi hongi, aur
 aap aasaani se debug kar paoge.
 
 ## Bonus
-Iss cheez ko caching bolte hai. Ek `debug` naam ka variable banao. Jab `debug`
-ho toh hi, uppar wala behavior ho. Otherwise, jab `debug=False` set ho toh
-hamesha API calls karo, chahe files exist karti ho ya nahi.
+- Ek `debug` naam ka variable banao.
+- Jab `debug` `True' ho toh API call karne ke baad, jaise humne file mei uska output store kar liya tha, waise store kar payein.
+- Otherwise jab `debug` `False` ho toh hamesha API calls honi chahiye, chahe files exist karti ho ya nahi.
+- Iss cheez ko `caching` bhi bolte hai. 
