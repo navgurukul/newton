@@ -38,7 +38,15 @@ aap aasaani se debug kar paoge.
 ## Bonus Task
 Ab aapka code file mei aapki ki gayi `request` ka output save karega.
 Isse aap agar har baar apna code execute karoge, toh har baar ek nayi API call nahi 
-hogi. Isse aapko code mei baaki changes karna thoda asaan ho jayega.
+hogi.
+
+Isse maan lo - agar aapka internet nahi bhi chal raha hai, toh stored files se user ko
+output dikhaya jaa sakta hai.
+
+Jaise, agar aap kuch chote-mote changes kar rahe hoge, toh jab aap code doobara doobara
+chala rahe hoge, toh baar baar server par request nahi jayegi, jisse aap ka code quickly aapko
+results de dega, jisse aap ko kuch debug karna asaan ho sakta hai.
+
 Iss concept ko `caching` bolte hai, jab hum hamesha server se response maangne ke jagah
 usko locally save kar lete hai, jisse ki baar baar server ko pareshaan na karne padha.
 
