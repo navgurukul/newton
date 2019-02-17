@@ -35,7 +35,9 @@ Phrases aur words ko jodne ke liye jin words ko use kiya jaata hai unhe conjunct
 Examples:
 for, and, nor, that, which, or, yet, since
 
-Neeche ek video diya gaya hai jisme aapko ye explain kiya gaya hai ki kaise ek sentence ko break karke usko samjha ja sakta hai.
+<!--Neeche ek video diya gaya hai jisme aapko ye explain kiya gaya hai ki kaise ek sentence ko break karke usko samjha ja sakta hai.>
+
+<!-- TODO create video>
 
 
 
