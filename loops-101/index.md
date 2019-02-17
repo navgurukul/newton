@@ -1,6 +1,7 @@
 - introduction.md
 - QuestionSet1
   - introduction.md
+  - question0.md
   - question1.md
   - question2.md
   - question3.md
@@ -11,39 +12,13 @@
 - QuestionSet2
   - introduction.md
   - question1.md
+    - solution1.md
   - question2.md
   - question3.md
   - solution1.md
   - question4.md
   - question5.md
   - question6.md
-  - question7.md [DONE TILL HERE]
+  - question7.md
 - LoopConditions
   - introduction.md
-
-
-
-- SolutionSet1
-  - introduction.md
-  - solution1.md
-  - solution2.md
-  - solution3.md
-- QuestionSet1
-  - introduction.md
-  - question1.md
-  - question2.md
-  - question3.md
-- flags.md
-- SolutionSet2
-  - introduction.md
-  - solution1.md
-  - solution2.md
-  - solution3.m d
-- QuestionSet2
-  - introduction.md
-  - question1.md
-  - question2.md
-  - question3.md
-- BreakStatement
-  - introduction.md
-  - examples.md

@@ -35,7 +35,33 @@ ko read kar le, nahi toh API call kar kar, uss file ko create kar le.
 Isse jab aap baar baar, yeh code run karoge, toh API requests nahi hongi, aur
 aap aasaani se debug kar paoge.
 
-## Bonus
-Iss cheez ko caching bolte hai. Ek `debug` naam ka variable banao. Jab `debug`
-ho toh hi, uppar wala behavior ho. Otherwise, jab `debug=False` set ho toh
-hamesha API calls karo, chahe files exist karti ho ya nahi.
+## Bonus Task
+Ab aapka code file mei aapki ki gayi `request` ka output save karega.
+Isse aap agar har baar apna code execute karoge, toh har baar ek nayi API call nahi 
+hogi.
+
+Isse maan lo - agar aapka internet nahi bhi chal raha hai, toh stored files se user ko
+output dikhaya jaa sakta hai.
+
+Jaise, agar aap kuch chote-mote changes kar rahe hoge, toh jab aap code doobara doobara
+chala rahe hoge, toh baar baar server par request nahi jayegi, jisse aap ka code quickly aapko
+results de dega, jisse aap ko kuch debug karna asaan ho sakta hai.
+
+Iss concept ko `caching` bolte hai, jab hum hamesha server se response maangne ke jagah
+usko locally save kar lete hai, jisse ki baar baar server ko pareshaan na karne padha.
+
+- Ek `ifCache` naam ka variable banao, jiski default value `True` ho. Yaani uss variable ko `True` value se initialise karo.
+- Jab `ifCache` `True' ho toh API call karne ke baad, jaise humne file mei uska output store kar liya tha, waise store kar payein. Iska matlab jab ifCache True hai, tab hum caching kar rahe hai, yaani response ko locally save kar rahe hai, jisse ki server ko baar baar pareshaan na karna padein.
+- Otherwise jab `ifCache` variable `False` ho toh hamesha API calls karo, chahe files exist karti ho ya nahi. Iska matlab humne caching disable yaani False kar di hai.
+
+`ifCache` jaise variables ko kabhi kabhi **`configuration variables`** bhi bolte hai. Inn variables ko hum usually alag files mei, ya file ki beginning mei define karte hai, aur depending on humei code kis condition mei chalana hai, hum inn configuration variables ki value set kar dete hai. Toh jaise - aap code jab debug kar rahe hoge, toh aap
+
+```python
+ifCaching=True
+```
+set kar sakte ho. Aise hi jab aap ka code, kabhi koi live use kar raha hoga, toh aap apne code ko 
+
+```python
+ifCaching=False
+```
+set kar kar chala sakte ho. Isse hamara code hamesha server se response maang kar hi user ko display karega.

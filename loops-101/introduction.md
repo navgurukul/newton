@@ -6,11 +6,55 @@ name: Introduction to Loops
 
 Agar humein koi bhi kaam baar baar karna ho toh computers humein bahot asani se uss kam ko karne mein help karte hain. Jaise agar mujhe apne 100 friends ko ek eMail bhej ke kisi event ke baare mein batana ho toh main ek ek kar ke har kisi ko eMail bhejne mein bore ho jaunga. Yeh karte karte mujhe bahot mushkil bhi hogi. Aur galti karne ka dar bhi hai. Loops ka istemaal karke same type ka kaam hum baar baar karva sakte hain computers se.
 
+```ngMeta
+name: Writing Code for Loops
+```
+
+# Writing code for loops
+
+```python
+counter = 0
+while counter < 5:
+	print "NavGurukul"
+	counter = counter + 1
+```
+
+Iss code mein:
+
+1. `counter` naam ka ek variable define ho raha hai jiski value `0` hai. Flowchart mein bhi same cheez ho rahi hai.
+2. Fir ek `while` loop likha hai jiske aage ek condition hai `counter < 5`. `While` ka matlab ho jab tak (जब तक). Toh ek tareeke se `while` loop python ko bolta hai ki jab tak aage di hui condition `True` hai tab tak loop chalao.
+3. Jaise hi loop khatam hoga toh while ke bahar wala code chalega. Yeh samajhne ke liye neeche diye hua code chalao:
+
+```python
+counter = 0 
+while counter < 5:
+	print "NavGurukul"
+	counter = counter + 1
+print "Yeh sirf ek baar print hoga"
+```
+
+Yeh code chala ke dekhoge toh `"NavGurukul"` 5 baar print hoga aur last waali line sirf ek baar.
+
+# Ek aur example
+
+Maan lo humne code likhna hai jisme humne 1 se 100 tak saare number print karne hai jo 2 se divide hote hain. Toh hum while loops ka use kar ke aise likhenge:
+
+
+```python
+counter = 1
+while counter < 100:
+	if counter % 2 == 0:
+		print counter
+	counter = counter + 1
+```
+
+**Note: Yahan humne counter 1 se isliye shuru kiya hai kyunki humne 1 se 100 tak print karne hai aur na ki 0 se 99 tak.**
+
 Iss video mein hum ache se loops ke baare mein samjhenge aur code likhna seekhenge.
 
-@[youtube](loops-video-id-here)
+<!-- @[youtube](loops-video-id-here) -->
 
-## Structure of the Video
+<!-- ## Structure of the Video -->
 1. Loops help us do the same things again and again. Same work can be done again and again.
 2. Take an example of getting laptops from a car to the house. If there are 50 laptops in the car.
 3. Explain this from the concept of Jab tak. Jab tak (ghar mein laptops 0 nahi ho jaate) {tab tak laptops lao aur gaadi mein rakho.}
@@ -36,6 +80,6 @@ Iss video mein hum ache se loops ke baare mein samjhenge aur code likhna seekhen
 8. In the 20 to 40 example talk about where to add the if statements. Adding the if statement outside and adding the if statement inside. (This also needs to be shown on how writing if statements inside and outside will create a difference.). i+1 and % should be used.
 9. Take the same example to print the even numbers between 20 to 40. But here do i+2 to do it.
 
-Ab humne loops ke videos toh dekh liye. Ab aage kuch problems ki solutions dekhte hain. Uske baad kuch problems ko khud solve karenge.
+<!-- Ab humne loops ke videos toh dekh liye. Ab aage kuch problems ki solutions dekhte hain. Uske baad kuch problems ko khud solve karenge. -->
 
 All the best :)

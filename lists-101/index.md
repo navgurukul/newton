@@ -21,6 +21,11 @@
   - total-sum.md
   - magic-square.md
 - lists-len-function.md
+- kitne-aadmi-the
+  - kitne-aadmi-the.md
+  - aao-jodein.md
+  - average-kitna-hai.md
+  - sab-saath-mei.md
 - questions-n
   - introduction.md
   - kitne-crorepati.md

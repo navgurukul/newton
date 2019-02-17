@@ -1,8 +1,8 @@
 ```ngMeta
-name: Solution 1
+name: Solution
 ```
 
-# Solution 1
+# Solution
 Yeh pattern print karo.
 
 ```

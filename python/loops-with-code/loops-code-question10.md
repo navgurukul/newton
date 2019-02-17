@@ -3,8 +3,7 @@ name: Question 10
 submissionType: url
 ```
 
-Ek flowchart banao jo number ko neeche diye dhang se print kare.
+Iss pattern ko print karne ke liye
+code likho:
 
 **1, -2, 3, -4, 5, -6 ..99, -100**
-
-*Yaad rakehin dono flowchart aur code submit karna hai.*
