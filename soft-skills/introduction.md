@@ -29,4 +29,4 @@ After you’ve gained an awareness of your strengths and weaknesses, create a pl
 
 Finally, although it may seem deceptively simple, don’t underestimate the effect of positivity and optimism. After all, the majority of soft skills are bolstered by confidence and enthusiasm, and undermined by anxiety, insecurity, and negativity. Changing your mindset so you are able to see the positive in situations can have a significant impact on how you interact with others.
 
-![Soft-Skill](assets/soft-skill-1.png)
+![Soft-Skill](softskill1.png)
