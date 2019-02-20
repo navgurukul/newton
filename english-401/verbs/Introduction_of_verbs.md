@@ -1,3 +1,7 @@
+```ngMeta
+submissionType: url
+```
+
 ### Introduction of verbs.
 Defination :- Jisse kisi kam ko karne ya hone ka pata chalta hai use Verb kahte hai.
 
