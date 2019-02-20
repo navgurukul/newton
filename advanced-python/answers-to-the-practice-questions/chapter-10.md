@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-10
-completionMethod: manual
 ```
 # Chapter 10
 assert spam >= 10, 'The spam variable is less than 10.'

@@ -1,6 +1,5 @@
 ```ngMeta
 name: working-with-pdf-and-word-documents
-completionMethod: manual
 ```
 # Working with PDF and word Documents
 PDF and Word documents are binary files, which makes them much more complex than plaintext files. In addition to text, they store lots of font, color, and layout information. If you want your programs to read or write to PDFs or Word documents, you’ll need to do more than simply pass their filenames to open().

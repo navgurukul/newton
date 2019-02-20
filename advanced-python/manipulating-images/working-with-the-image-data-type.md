@@ -1,6 +1,5 @@
 ```ngMeta
 name: working-with-the-image-data-type
-completionMethod: manual
 ```
 # Working with the Image Data Type
 An Image object has several useful attributes that give you basic information about the image file it was loaded from: its width and height, the filename, and the graphics format (such as JPEG, GIF, or PNG).

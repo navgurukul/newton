@@ -1,6 +1,5 @@
 ```ngMeta
 name: API
-completionMethod: manual
 ```
 
 ## WHAT IS API

@@ -1,6 +1,5 @@
 ```ngMeta
 name: workbooks-sheets-cells
-completionMethod: manual
 ```
 # Workbooks, Sheets, Cells
 As a quick review, here’s a rundown of all the functions, methods, and data types involved in reading a cell out of a spreadsheet file:

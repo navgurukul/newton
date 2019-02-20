@@ -1,6 +1,5 @@
 ```ngMeta
 name: Stories-Level Five 
-completionMethod: manual
 ```
 ## LEVEL 5
 * [How the Greeks Lived](https://drive.google.com/open?id=0B24sXOipVHAxcURFYmhmVm5WN0U)

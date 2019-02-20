@@ -1,6 +1,5 @@
 ```ngMeta
 name: Question 11
-completionMethod: peer
 submissionType: url
 ```
 
@@ -16,5 +15,3 @@ Ab hum loops ka use karke ek game banayenge. Iss game ko hum "**guessing game**"
 Agar usne 5 chances mein number guess kar liya toh sahi hai, nahi toh ek message aa jayega ki user ne guess nahi kiya.
 
 **Hint: Python mein ek break statement hoti hai. Iske baare mein Google kar ke padh lo.**
-
-*Yaad rakehin dono flowchart aur code submit karna hai.*

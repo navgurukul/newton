@@ -1,6 +1,5 @@
 ```ngMeta
 name: Ui-Router Continued
-completionMethod: facilitator
 ```
 # Ui-Router Continued
 

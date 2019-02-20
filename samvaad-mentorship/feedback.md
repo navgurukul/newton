@@ -1,6 +1,5 @@
 ```ngMeta
 name: Feedback
-completionMethod: manual
 ```
 
 Feedbacks are collected to ensure smooth functioning of the process as well as ironing out any inefficiencies.

@@ -1,3 +1,7 @@
+```ngMeta
+submissionType:url
+```
+
 # Invalid Inputs
 
 Aapko yeh check karna hai ki user no jo input daala hai, woh valid hai ya nahi. Iske liye aapko yeh dekhna hai ki jo user ne input daala hai,
@@ -24,6 +28,10 @@ Aapko yeh check karna hai ki user no jo input daala hai, woh valid hai ya nahi. 
 - Check karne ke liye aap user ke input ki length check kar sakte hai
 - Agar input valid hai toh sab accha hai
 - Par agar input invalid hai toh aap loop ko wapis se continue karo aur dobara user input lo
+
+## Solution Video
+
+@[youtube](https://www.youtube.com/watch?v=-3aK5qikWBs)
 
 
 ## Solution

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Data Science
-completionMethod: manual
 ```
 
 ###Introduction

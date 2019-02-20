@@ -1,6 +1,5 @@
 ```ngMeta
 name:  connecting-to-an-imap-server
-completionMethod: manual
 ```
 # Connecting to an IMAP Server
 Just like you needed an SMTP object to connect to an SMTP server and send email, you need an IMAPClient object to connect to an IMAP server and receive email. First you’ll need the domain name of your email provider’s IMAP server. This will be different from the SMTP server’s domain name. Table 16-2 lists the IMAP servers for several popular email providers.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: dictionaries-and-structuring-data
-completionMethod: manual
 ```
 # Dictionaries and Structuring Data
 In this chapter, I will cover the dictionary data type, which provides a flexible way to access and organize data. Then, combining dictionaries with your knowledge of lists from the previous chapter, you’ll learn how to create a data structure to model a tic-tac-toe board.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Intro
-completionMethod: manual
 ```
 
 ## Course ke bare me

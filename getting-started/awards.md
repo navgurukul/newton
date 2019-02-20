@@ -1,6 +1,5 @@
 ```ngMeta
 name: Awards
-completionMethod: manual
 ```
 
 ## Awards

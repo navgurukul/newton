@@ -1,6 +1,5 @@
 ```ngMeta
 name: Using Brackets
-completionMethod: manual
 ```
 # Using Brackets
 - **Angular** exercises ke liye hum **BRACKETS** use karenge.

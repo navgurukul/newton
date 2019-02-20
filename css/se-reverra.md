@@ -1,6 +1,5 @@
 ```ngMeta
 name: Se Reverra
-completionMethod: peer
 ```
 
 # Se Reverra

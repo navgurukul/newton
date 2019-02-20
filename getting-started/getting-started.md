@@ -1,6 +1,5 @@
 ```ngMeta
 name: Getting Started
-completionMethod: manual
 ```
 
 NavGurukul mei aapka swagat hai. NavGurukul ek learners ki community hai jo aapko sahajta, samvedansheelta aur shreshthta se purna jeevan jeene ke liye tayyar karta hai. Aap mehnat karke ek achhi job zarur le paenge, aur sath hi jeevan jeene ki kuch important skills bhi aap yahan seekhenge. 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: More about Booleans
-completionMethod: manual
 ```
 
 # Introduction

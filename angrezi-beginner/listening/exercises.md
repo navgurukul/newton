@@ -1,6 +1,5 @@
 ```ngMeta
 name: Listening
-completionMethod: manual
 ```
 
 Learning to listen for specific information is an important skill for the following purposes:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Right to Recall
-completionMethod: manual
 ```
 
 # Right to Recall

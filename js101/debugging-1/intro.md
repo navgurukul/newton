@@ -1,6 +1,5 @@
 ```ngMeta
 name: Galtiyan pakadna aur theek karna
-completionMethod: manual
 ```
 
 - Explain the concept of debugging. How it is important to debug things. How it is one of the most important things a programmer does.

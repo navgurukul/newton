@@ -1,6 +1,5 @@
 ```ngMeta
 name: creating-new-folders-with-os-makedirs()
-completionMethod: manual
 ```
 # Creating New Folders with os.makedirs()
 Your programs can create new folders (directories) with the os.makedirs() function. Enter the following into the interactive shell:

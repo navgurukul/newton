@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variable Naming Rules
-completionMethod: peer
 submissionType: url
 ```
 

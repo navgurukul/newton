@@ -1,6 +1,5 @@
 ```ngMeta
 name: writing-to-files
-completionMethod: manual
 ```
 # Writing to Files
 Python allows you to write content to a file in a way similar to how the print() function “writes” strings to the screen. You can’t write to a file you’ve opened in read mode, though. Instead, you need to open it in “write plaintext” mode or “append plaintext” mode, or write mode and append mode for short.

@@ -1,9 +1,16 @@
+```ngMeta
+submissionType:url
+```
+
 ## Hangman Images
 Aapko images.py se IMAGES import kar kar, woh images print karni hai. Jab bhi user koi galat input deta hai, toh aap corresponding image dikhayenge. 
 
 ## Hint
 Toh agar user ne teesri baar galat answer diya, toh aap teesri wali image dikhayeing, `remaining_lives` ko graphically show karne ke liye.
 
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=T1WK-Rutm-Q)
 
 ## Possible Solution
 ```python

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Arrays
-completionMethod: manual
 ```
 Total arrays mein se aapko 2 questions solve karne hain. Saare "Easy" tag waale.
 

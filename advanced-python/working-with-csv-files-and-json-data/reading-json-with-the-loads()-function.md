@@ -1,6 +1,5 @@
 ```ngMeta
 name: reading-json-with-the-loads()-function
-completionMethod: manual
 ```
 # Reading JSON with the loads() Function
 To translate a string containing JSON data into a Python value, pass it to the json.loads() function. (The name means “load string,” not “loads.”) Enter the following into the interactive shell:

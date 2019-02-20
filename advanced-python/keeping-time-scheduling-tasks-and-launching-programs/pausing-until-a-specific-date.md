@@ -1,6 +1,5 @@
 ```ngMeta
 name: pausing-until-a-specific-date
-completionMethod: manual
 ```
 # Pausing Until a Specific Date
 The time.sleep() method lets you pause a program for a certain number of seconds. By using a while loop, you can pause your programs until a specific date. For example, the following code will continue to loop until Halloween 2016:

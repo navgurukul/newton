@@ -1,6 +1,5 @@
 ```ngMeta
 name: formulas
-completionMethod: manual
 ```
 # Formulas
 Formulas, which begin with an equal sign, can configure cells to contain values calculated from other cells. In this section, you’ll use the openpyxl module to programmatically add formulas to cells, just like any normal value. For example:

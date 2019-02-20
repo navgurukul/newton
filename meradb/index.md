@@ -1,1 +1,12 @@
 - introduction.md
+- pickledb.md
+- loading-and-dumping.md
+- get-and-set.md
+- more-functions.md
+- ram-vs-hard-disk.md
+- auto-dump.md
+- managing-multiple-db.md
+- dmerge.md
+- congrats.md
+- need-for-cache.md
+- using-db-as-cache.md

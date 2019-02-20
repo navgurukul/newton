@@ -1,6 +1,5 @@
 ```ngMeta
 name: Section IV - Elections
-completionMethod: manual
 ```
 
 # Elections

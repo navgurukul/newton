@@ -1,6 +1,5 @@
 ```ngMeta
 name: reading-data-from-reader-objects-in-a-for-loop
-completionMethod: manual
 ```
 # Reading Data from Reader Objects in a for Loop
 For large CSV files, you’ll want to use the Reader object in a for loop. This avoids loading the entire file into memory at once. For example, enter the following into the interactive shell:

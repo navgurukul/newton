@@ -1,6 +1,6 @@
 - WhatDoComputersDo.md
 - WhatIsProgramming.md
-- basic-definition.md
+- basic-definition
 	- definitions-part-1.md
 	- definition-part-2.md
 - how-to-begin.md
@@ -60,21 +60,10 @@
 	- debugging-question5.md
 	- debugging-question6.md
 	- debugging-question7.md
-- loops-flowchart
-	- loops-intro.md
-	- loops-question1.md
-	- loops-question2.md
-	- loops-question3.md
-	- loops-question4.md
-	- loops-question5.md
+- loops-course-link.md
 - loops-with-code
-	- loops-code-intro.md
-	- loops-code-question1.md
-	- loops-code-question2.md
-	- loops-code-question3.md
 	- loops-code-question4.md
 	- loops-code-question5.md
-	- loops-code-question6.md
 	- loops-code-question7.md
 	- loops-code-question8.md
 	- loops-code-question9.md
@@ -84,20 +73,7 @@
 	- loops-code-question13.md
 	- loops-code-question14.md
 - indentation.md
-- lists
-	- lists-intro.md
-	- lists-question1-kbc_pt1.md
-	- lists-question2.md
-	- lists-question3.md
-	- lists-question4.md
-	- lists-operations.md
-	- lists-question2-kbc_pt2.md
-	- lists-iteration.md
-	- lists-question3-kbc_pt3.md
-	- lists-len_func.md
-	- lists-question4-kbc_pt4.md
-	- lists-kbc_final.md
-	- lists-question1.md
+- lists.md
 - debugging-part2
 	- debugging-intro.md
 	- debugging-question1.md

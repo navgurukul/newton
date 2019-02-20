@@ -1,6 +1,5 @@
 ```ngMeta
 name: Ui Router
-completionMethod: automatic
 ```
 # Part I Ui Router
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: connecting-to-an-smtp-server
-completionMethod: manual
 ```
 # Connecting to an SMTP Server
 If you’ve ever set up Thunderbird, Outlook, or another program to connect to your email account, you may be familiar with configuring the SMTP server and port. These settings will be different for each email provider, but a web search for <your provider> smtp settings should turn up the server and port to use.

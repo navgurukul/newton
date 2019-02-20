@@ -1,6 +1,5 @@
 ```ngMeta
 name: Logical Operators - Introduction
-completionMethod: manual
 ```
 
 # What are boolean operators?

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Understanding Linux
-completionMethod: manual
 ```
 
 ## Aap yeh videos dekhein:

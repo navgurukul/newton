@@ -1,6 +1,5 @@
 ```ngMeta
 name: Data Mining
-completionMethod: manual```
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni ha
 

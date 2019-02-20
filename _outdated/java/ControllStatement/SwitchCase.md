@@ -1,6 +1,5 @@
 ```ngMeta
 name: Java Switch
-completionMethod: manual
 ```
 
 <h1>Java Switch Statement</h1>

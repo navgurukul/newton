@@ -1,6 +1,5 @@
 ```ngMeta
 name: using-the-developer-tools-to-find-html-elements
-completionMethod: manual
 ```
 # Using the Developer Tools to Find HTML Elements
 Once your program has downloaded a web page using the requests module, you will have the page’s HTML content as a single string value. Now you need to figure out which part of the HTML corresponds to the information on the web page you’re interested in.

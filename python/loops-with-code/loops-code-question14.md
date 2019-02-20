@@ -1,10 +1,9 @@
 ```ngMeta
 name: Question 14
-completionMethod: peer
 submissionType: url
 ```
 
-Ek flowchart banao jo `fibonacci series` ke pehle 100 number print kare. Fibonacci series aisi hoti hai:
+Ek algorithm banao jo `fibonacci series` ke pehle 100 number print kare. Fibonacci series aisi hoti hai:
 
 **0, 1, 1, 2, 3, 5, 8, 13, 21, 34**
 

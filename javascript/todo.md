@@ -1,6 +1,5 @@
 ```ngMeta
 name: TODO Application
-completionMethod: manual
 ```
 
 '''

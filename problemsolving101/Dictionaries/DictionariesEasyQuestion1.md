@@ -1,6 +1,5 @@
 ```ngMeta
 name: Dictionaries Question 1
-completionMethod: manual
 ```
 
 Total dictionaries mein se aapko 2 questions solve karne hain.

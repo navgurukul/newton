@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variables
-completionMethod: manual
 ```
 
 ## Variables kya hote hain?

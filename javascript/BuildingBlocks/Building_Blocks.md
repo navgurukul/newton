@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variables
-completionMethod: manual
 ```
 
 # Variables
@@ -29,3 +28,5 @@ Variables banane ke kuch niyam hote hain:
 
 **Homework**
 - Navgurukul ke sare students ka age alag alag variables mein store karo aur unka average javascript use karke nikalo.
+
+Iss topic se related koi v discussion krne ke lye is link pr jaaye : [Javascript_Couse](https://cliq.zoho.com/channels/javascriptcourse)

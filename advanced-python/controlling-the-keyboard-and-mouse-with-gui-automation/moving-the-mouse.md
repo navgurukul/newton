@@ -1,6 +1,5 @@
 ```ngMeta
 name: moving-the-mouse
-completionMethod: manual
 ```
 # Moving the Mouse
 Now that you understand screen coordinates, let’s move the mouse. The pyautogui.moveTo() function will instantly move the mouse cursor to a specified position on the screen. Integer values for the x- and y-coordinates make up the function’s first and second arguments, respectively. An optional duration integer or float keyword argument specifies the number of seconds it should take to move the mouse to the destination. If you leave it out, the default is 0 for instantaneous movement. (All of the duration keyword arguments in PyAutoGUI functions are optional.) Enter the following into the interactive shell:

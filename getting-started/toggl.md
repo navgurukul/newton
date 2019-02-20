@@ -1,6 +1,5 @@
 ```ngMeta
 name: Toggl
-completionMethod: manual
 ```
 
 ## Toggl

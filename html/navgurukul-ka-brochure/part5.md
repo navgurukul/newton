@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part Five
-completionMethod: peer
 ```
 
 # Part V - Tables

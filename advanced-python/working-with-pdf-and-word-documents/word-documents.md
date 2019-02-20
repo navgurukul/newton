@@ -1,6 +1,5 @@
 ```ngMeta
 name: word-documents
-completionMethod: manual
 ```
 # Word Documents
 Python can create and modify Word documents, which have the .docx file extension, with the python-docx module. You can install the module by running pip install python-docx. (Appendix A has full details on installing third-party modules.)

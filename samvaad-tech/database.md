@@ -1,6 +1,5 @@
 ```ngMeta
 name: Database
-completionMethod: manual
 ```
 
 Aap yeh videos dekhein:
@@ -28,6 +27,8 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 
 
 Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+ https://searchsqlserver.techtarget.com/definition/database
+ https://www.guru99.com/introduction-to-database-sql.html
 
 @[youtube](d8ByCh-BouQ)
 

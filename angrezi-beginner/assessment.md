@@ -1,6 +1,5 @@
 ```ngMeta
 name: Baseline Assessment
-completionMethod: manual
 ```
 
 Following are the baseline assessments:

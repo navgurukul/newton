@@ -1,6 +1,5 @@
 ```ngMeta
 name: More Exercises
-completionMethod: manual
 ```
 
 Humne abhi tak python ke kaafi saare buniyadi siddhant seekh liye hain. Ab hum agli kuch exercises kar ke inn siddhanton ko aur gehrai mein samjhenge.

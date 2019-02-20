@@ -1,6 +1,5 @@
 ```ngMeta
 name: list-concatenation-and-list-replication
-completionMethod: manual
 ```
 # List Concatenation and List Replication
 The + operator can combine two lists to create a new list value in the same way it combines two strings into a new string value. The * operator can also be used with a list and an integer value to replicate the list. Enter the following into the interactive shell:

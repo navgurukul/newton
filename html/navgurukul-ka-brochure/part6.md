@@ -1,6 +1,5 @@
 ```ngMeta
 name: Place Six
-completionMethod: peer
 ```
 
 ## Part VI - Styling

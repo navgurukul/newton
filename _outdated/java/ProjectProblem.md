@@ -1,6 +1,5 @@
 ```ngMeta
 name: Project Problem
-completionMethod: manual
 ```
 
 Aapne dekha ki Computer ko instruction dene ko hum **Programming** kehte hain.

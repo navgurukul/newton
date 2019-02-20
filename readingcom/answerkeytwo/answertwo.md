@@ -1,6 +1,5 @@
 ```ngMeta
 name: Answer Key-Level Two 
-completionMethod: manual
 ```
 ## LEVEL 2
 * [(20) keeping secrets](https://drive.google.com/open?id=1OKUg1UGOqLJ81flXp37QqyHLjzoFKK0UYG2FR4a6oME)

@@ -1,6 +1,5 @@
 ```ngMeta
 name: making-your-own-character-classes
-completionMethod: manual
 ```
 # Making Your Own Character Classes
 There are times when you want to match a set of characters but the shorthand character classes (\d, \w, \s, and so on) are too broad. You can define your own character class using square brackets. For example, the character class [aeiouAEIOU] will match any vowel, both lowercase and uppercase. Enter the following into the interactive shell:

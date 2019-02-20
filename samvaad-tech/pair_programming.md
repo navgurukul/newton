@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is Pair Programming
-completionMethod: manual
 ```
 
 ## PAIR PROGRAMMING

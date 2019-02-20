@@ -1,6 +1,5 @@
 ```ngMeta
 name: logging-to-a-file
-completionMethod: manual
 ```
 # Logging to a File
 Instead of displaying the log messages to the screen, you can write them to a text file. The logging.basicConfig() function takes a filename keyword argument, like so:

@@ -1,3 +1,6 @@
+```ngMeta
+submissionType:url
+```
 ## Lots of Words
 Abhi sirf teen-chaar words mei se ek word user ko de diya jaata hai. (Check `words.py`)
 Aapko `words.txt` file ko code mei read kar kar, `words.py` file ko modify karna hai. 
@@ -6,6 +9,10 @@ Jisse ki `words.txt` mei se koi random word computer use kare user se guess kara
 ## Hint
 - `words.txt` ko read kar kar, ek `array/list` bana kar `load_words` se return kar sakte ho
 - file padhne ke liye, `readline()` function use kar sakte ho 
+
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=6LiPNTmkNeY)
 
 ## Possible Solution
 ```python

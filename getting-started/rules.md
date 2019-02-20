@@ -1,6 +1,5 @@
 ```ngMeta
 name: Some Important Rules
-completionMethod: manual
 ```
 
 

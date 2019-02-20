@@ -1,6 +1,5 @@
 ```ngMeta
 name: a-short-program-guess-the-number
-completionMethod: manual
 ```
 # A Short Program: Guess the Number
 The toy examples I’ve show you so far are useful for introducing basic concepts, but now let’s see how everything you’ve learned comes together in a more complete program. In this section, I’ll show you a simple “guess the number” game. When you run this program, the output will look something like this:

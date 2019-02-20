@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-mapit.py-with-the-webbrowser-module
-completionMethod: manual
 ```
 # Project: mapit.py with the webbrowser Module
 The webbrowser module’s open() function can launch a new browser to a specified URL. Enter the following into the interactive shell:

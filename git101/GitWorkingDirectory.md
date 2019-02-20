@@ -1,6 +1,5 @@
 ```ngMeta
 name: Git Working Directory
-completionMethod: manual
 ```
 Git humare working directory ke files mein kiye hue changes ko track karta hai. 
 

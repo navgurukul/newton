@@ -1,6 +1,5 @@
 ```ngMeta
 name: Understanding Layouts 2
-completionMethod: manual
 ```
 
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: pretty-printing
-completionMethod: manual
 ```
 # Pretty Printing
 If you import the pprint module into your programs, you’ll have access to the pprint() and pformat() functions that will “pretty print” a dictionary’s values. This is helpful when you want a cleaner display of the items in a dictionary than what print() provides. Modify the previous characterCount.py program and save it as prettyCharacterCount.py.

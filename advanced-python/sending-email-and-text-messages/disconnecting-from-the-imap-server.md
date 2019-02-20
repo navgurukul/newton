@@ -1,6 +1,5 @@
 ```ngMeta
 name: disconnecting-from-the-imap-server
-completionMethod: manual
 ```
 # Disconnecting from the IMAP Server
 When your program has finished retrieving or deleting emails, simply call the IMAPClient’s logout() method to disconnect from the IMAP server.

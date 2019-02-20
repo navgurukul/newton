@@ -1,6 +1,5 @@
 ```ngMeta
 name: Section III - Complaints
-completionMethod: manual
 ```
 
 # Complaints

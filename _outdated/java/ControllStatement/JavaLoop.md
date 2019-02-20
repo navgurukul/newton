@@ -1,6 +1,5 @@
 ```ngMeta
 name: Java for Loops
-completionMethod: manual
 ```
 `
 Ek hi statement ko bar-bar repeat karna 'Looping hota hai'

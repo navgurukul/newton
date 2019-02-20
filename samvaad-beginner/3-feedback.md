@@ -1,6 +1,5 @@
 ```ngMeta
 name: Review & Feedback
-completionMethod: manual
 ```
 
 ## Review and Feedback

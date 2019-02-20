@@ -1,6 +1,5 @@
 ```ngMeta
 name: pressing-and-releasing-the-keyboard
-completionMethod: manual
 ```
 # Pressing and Releasing the Keyboard
 Much like the mouseDown() and mouseUp() functions, pyautogui.keyDown() and pyautogui.keyUp() will send virtual keypresses and releases to the computer. They are passed a keyboard key string (see Table 18-1) for their argument. For convenience, PyAutoGUI provides the pyautogui.press() function, which calls both of these functions to simulate a complete keypress.

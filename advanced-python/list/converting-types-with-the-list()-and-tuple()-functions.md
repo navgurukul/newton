@@ -1,6 +1,5 @@
 ```ngMeta
 name: converting-types-with-the-list()-and-tuple()-functions
-completionMethod: manual
 ```
 # Converting Types with the list() and tuple() Functions
 Just like how str(42) will return '42', the string representation of the integer 42, the functions list() and tuple() will return list and tuple versions of the values passed to them. Enter the following into the interactive shell, and notice that the return value is of a different data type than the value passed:

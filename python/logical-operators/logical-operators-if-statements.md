@@ -1,6 +1,5 @@
 ```ngMeta
 name: Logical Operators in If Statements
-completionMethod: manual
 ```
 
 # Using Logical Operators in If Statements

@@ -1,6 +1,5 @@
 ```ngMeta
 name: more-pattern-matching-with-regular-expressions
-completionMethod: manual
 ```
 # More Pattern Matching with Regular Expressions
 Now that you know the basic steps for creating and finding regular expression objects with Python, you’re ready to try some of their more powerful pattern-matching capabilities.

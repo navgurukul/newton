@@ -1,6 +1,5 @@
 ```ngMeta
 name: Celebrity Interviews
-completionMethod: manual
 ```
 
 ## Celebrity Interviews

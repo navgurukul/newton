@@ -1,6 +1,5 @@
 ```ngMeta
 name: ideas-for-similar-programs_2
-completionMethod: manual
 ```
 # Ideas for Similar Programs
 The benefit of tabbed browsing is that you can easily open links in new tabs to peruse later. A program that automatically opens several links at once can be a nice shortcut to do the following:

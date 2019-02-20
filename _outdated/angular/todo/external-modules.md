@@ -1,6 +1,5 @@
 ```ngMeta
 name: Part III Third Party Modules
-completionMethod: peer
 ```
 # Part III Third Party Modules
 - Facebook, Twitter jaisi websites par agar comment karo ya kuch post karo to time mei likha ata hai "2 hrs ago", "a few seconds ago" etc

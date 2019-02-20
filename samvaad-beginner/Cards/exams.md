@@ -1,6 +1,5 @@
 ```ngMeta
 name: Exams
-completionMethod: Manual
 ```
 
 ## Exams

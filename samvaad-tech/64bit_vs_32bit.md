@@ -1,6 +1,5 @@
 ```ngMeta
 name: 64bit vs 32bit
-completionMethod: manual
 ```
 ## Apko ye videos dekhne Rahe Hai
 
@@ -24,4 +23,8 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 5.Is your system is 64 bit?
 6.64bit jadabetter hai kya 32bit se or kyo?
 7.kya aap change kar sakte ho 32bit se 64bit mai aapka system?
+
+
+(https://www.digitaltrends.com/computing/32-bit-vs-64-bit-operating-systems/)
+(https://www.computerhope.com/issues/ch001498.htm)
 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Ethics of Election
-completionMethod: manual
 ```
 
 ## Ethics of the Election

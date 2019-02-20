@@ -1,6 +1,5 @@
 ```ngMeta
 name: CSS Selectors
-completionMethod: peer
 ```
 
 # CSS Selectors

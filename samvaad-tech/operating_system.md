@@ -1,6 +1,5 @@
 ```ngMeta
 name: Operating Systems
-completionMethod: manual
 ```
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
@@ -31,6 +30,8 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 11. Sochiye pehla windows `OS` kaisa dikhta hoga?
 
 Agar aap ko aur thoda samajhna hai, toh yeh dekhiye
+
+(https://canvas.instructure.com/courses/955530/assignments/3758432)
 
 @[youtube](26QPDBe-NB8)
 

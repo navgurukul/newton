@@ -1,6 +1,5 @@
 ```ngMeta
 name: Baar baar ek hi code kaise run karen?
-completionMethod: manual
 ```
 
 - Introduce the concept of loops.

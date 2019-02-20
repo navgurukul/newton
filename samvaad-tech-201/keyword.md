@@ -1,7 +1,6 @@
 
 ```ngMeta
 name: Keyword
-completionMethod: manual
 ```
 
 
@@ -33,5 +32,4 @@ Jb apka discussion ho jaye toh inn questions kai answer bhi discuss kare:-
 4.Keyword ke benifit kya hai?
 
 5.Python mai kitne keyword hai
-
 

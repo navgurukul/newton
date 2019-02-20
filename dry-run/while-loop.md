@@ -1,6 +1,5 @@
 ```ngMeta
 name: While Loops
-completionMethod: manual
 ```
 
 Aap pehle iss video ko dekhein `while` program ka dry run samajhne ke liye. 
@@ -33,7 +32,7 @@ while c < 5:
     c = c + 1
 else:
     print "Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai"
-```
+```yeh loop hai is mei hum loop kise kam kar raha hai voh hum dry run kar ke dekhna hai
 
 Ab aap yeh questions solve karein.
 ```python

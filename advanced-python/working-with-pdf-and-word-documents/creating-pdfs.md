@@ -1,6 +1,5 @@
 ```ngMeta
 name: creating-pdfs
-completionMethod: manual
 ```
 # Creating PDFs
 PyPDF2’s counterpart to PdfFileReader objects is PdfFileWriter objects, which can create new PDF files. But PyPDF2 cannot write arbitrary text to a PDF like Python can do with plaintext files. Instead, PyPDF2’s PDF-writing capabilities are limited to copying pages from other PDFs, rotating pages, overlaying pages, and encrypting files.

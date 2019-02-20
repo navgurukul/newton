@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introspections
-completionMethod: manual
 ```
 
 ### Introspections

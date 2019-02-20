@@ -1,6 +1,5 @@
 ```ngMeta
 name:  colors-and-rgba-values
-completionMethod: manual
 ```
 # Colors and RGBA Values
 Computer programs often represent a color in an image as an RGBA value. An RGBA value is a group of numbers that specify the amount of red, green, blue, and alpha (or transparency) in a color. Each of these component values is an integer from 0 (none at all) to 255 (the maximum). These RGBA values are assigned to individual pixels; a pixel is the smallest dot of a single color the computer screen can show (as you can imagine, there are millions of pixels on a screen). A pixel’s RGB setting tells it precisely what shade of color it should display. Images also have an alpha value to create RGBA values. If an image is displayed on the screen over a background image or desktop wallpaper, the alpha value determines how much of the background you can “see through” the image’s pixel.

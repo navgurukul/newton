@@ -1,6 +1,5 @@
 ```ngMeta
 name: intranet
-completionMethod: manual
 ```
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
@@ -28,3 +27,5 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 1.Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue.
 
 2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
+
+

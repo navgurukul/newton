@@ -1,6 +1,5 @@
 ```ngMeta
 name: keyword-arguments-and-print()
-completionMethod: manual
 ```
 # Keyword Arguments and print()
 Most arguments are identified by their position in the function call. For example, random.randint(1, 10) is different from random.randint(10, 1). The function call random.randint(1, 10) will return a random integer between 1 and 10, because the first argument is the low end of the range and the second argument is the high end (while random.randint(10, 1) causes an error).

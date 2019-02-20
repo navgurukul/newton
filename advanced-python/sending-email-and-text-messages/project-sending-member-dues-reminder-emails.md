@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-sending-member-dues-reminder-emails
-completionMethod: manual
 ```
 # Project: Sending Member Dues Reminder Emails
 Say you have been “volunteered” to track member dues for the Mandatory Volunteerism Club. This is a truly boring job, involving maintaining a spreadsheet of everyone who has paid each month and emailing reminders to those who haven’t. Instead of going through the spreadsheet yourself and copying and pasting the same email to everyone who is behind on dues, let’s—you guessed it—write a script that does this for you.

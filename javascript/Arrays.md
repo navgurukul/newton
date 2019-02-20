@@ -1,6 +1,5 @@
 ```ngMeta
 name: Arrays
-completionMethod: manual
 ```
 
 # Arrays

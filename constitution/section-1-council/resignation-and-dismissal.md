@@ -1,6 +1,5 @@
 ```ngMeta
 name: Resignation & Dismissal
-completionMethod: manual
 ```
 ## Resignation
 If a Council member wishes to resign from the Council, they have to tender a written resignation to the Governor stating the reason for resignation. They will be relieved from the Council responsilibities two weeks from the day when the Governor acknowledges and accepts their resignation.

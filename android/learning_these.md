@@ -1,6 +1,5 @@
 ```ngMeta
 name: Learning These
-completionMethod: manual
 ```
 
 ## We have to learn these concepts:

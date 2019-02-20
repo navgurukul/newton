@@ -1,6 +1,5 @@
 ```ngMeta
 name: creating-a-beautifulsoup-object-fromhtml
-completionMethod: manual
 ```
 # Creating a BeautifulSoup Object from HTML
 The bs4.BeautifulSoup() function needs to be called with a string containing the HTML it will parse. The bs4.BeautifulSoup() function returns is a BeautifulSoup object. Enter the following into the interactive shell while your computer is connected to the Internet:

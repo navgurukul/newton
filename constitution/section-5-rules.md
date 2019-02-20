@@ -1,6 +1,5 @@
 ```ngMeta
 name: Section V - Rules & Regulations
-completionMethod: manual
 ```
 
 # Section V - Rules & Regulations

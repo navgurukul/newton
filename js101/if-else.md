@@ -1,6 +1,5 @@
 ```ngMeta
 name: Kabhi aise toh kabhi waise? Yaani Kabhi if, Kabhi else
-completionMethod: manual
 ```
 
 - Explain them the concept of if else and multiple if statments

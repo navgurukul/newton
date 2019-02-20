@@ -1,6 +1,5 @@
 ```ngMeta
 name: Mock Interview
-completionMethod: manual
 ```
 
 1. You begin by deciding on a job they would like to apply for. 

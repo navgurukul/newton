@@ -1,6 +1,5 @@
 ```ngMeta
 name: Lessons
-completionMethod: manual
 ```
 
  

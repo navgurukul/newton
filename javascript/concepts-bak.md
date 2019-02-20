@@ -1,6 +1,5 @@
 ```ngMeta
 name: Javascript Concepts
-completionMethod: manual
 ```
 
 # Concepts

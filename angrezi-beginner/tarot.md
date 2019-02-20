@@ -1,6 +1,5 @@
 ```ngMeta
 name: Tarot Reader
-completionMethod: manual
 ```
 
 ## Tarot Reader

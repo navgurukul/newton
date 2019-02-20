@@ -1,6 +1,5 @@
 ```ngMeta
 name: sending-email-and-text-messages
-completionMethod: manual
 ```
 # Sending Email and Text Messages
 Checking and replying to email is a huge time sink. Of course, you can’t just write a program to handle all your email for you, since each message requires its own response. But you can still automate plenty of email-related tasks once you know how to write programs that can send and receive email.

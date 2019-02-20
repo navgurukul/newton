@@ -1,6 +1,5 @@
 ```ngMeta
 name: breakpoints
-completionMethod: manual
 ```
 # Breakpoints
 A breakpoint can be set on a specific line of code and forces the debugger to pause whenever the program execution reaches that line. Open a new file editor window and enter the following program, which simulates flipping a coin 1,000 times. Save it as coinFlip.py.

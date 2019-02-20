@@ -1,6 +1,5 @@
 ```ngMeta
 name: Listening - Exercises
-completionMethod: manual
 ```
 
 Larning to listen for specific information is an important skill for the following purposes:

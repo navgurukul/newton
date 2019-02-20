@@ -1,6 +1,5 @@
 ```ngMeta
 name: flow-control-statements
-completionMethod: manual
 ```
 # Flow Control Statements
 

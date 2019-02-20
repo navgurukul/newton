@@ -1,6 +1,5 @@
 ```ngMeta
 name: working-with-csv-files-and-json data
-completionMethod: manual
 ```
 # Working with CSV Files and JSON Data
 In Chapter 13, you learned how to extract text from PDF and Word documents. These files were in a binary format, which required special Python modules to access their data. CSV and JSON files, on the other hand, are just plaintext files. You can view them in a text editor, such as IDLE’s file editor. But Python also comes with the special csv and json modules, each providing functions to help you work with these file formats.

@@ -1,3 +1,6 @@
+```ngMeta
+submissionType:url
+```
 ## Difficulty Level
 Game shuru karne se pehle aap user se poocho, ki user kitna difficulty level par khelna chahta hai. - Easy, Medium ya Hard.
 Easy, Medium aur Hard levels ke liye user ko 8, 6, 4 chances respectively do. (Yaani Easy ke liye 8, Medium ke liye 6 aur Hard ke liye 4).
@@ -7,6 +10,10 @@ Dhyaan rakhna ki humne graphics bhi use kiye the user ki remaining lives dikhane
 ## Hint
 - Program ka control flow sahi se samajhna bahut important hai
 - Kyuki yeh sirf user se ek baar poochna hai, toh yeh loop ke bahar hona chahiye
+
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=f-2A-OeYSWA)
 
 ## Possible Solution
 ..................... in the hangman function ............................

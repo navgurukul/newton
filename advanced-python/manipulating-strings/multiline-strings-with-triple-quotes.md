@@ -1,6 +1,5 @@
 ```ngMeta
 name: multiline-strings-with-triple-quotes
-completionMethod: manual
 ```
 # Multiline Strings with Triple Quotes
 While you can use the \n escape character to put a newline into a string, it is often easier to use multiline strings. A multiline string in Python begins and ends with either three single quotes or three double quotes. Any quotes, tabs, or newlines in between the “triple quotes” are considered part of the string. Python’s indentation rules for blocks do not apply to lines inside a multiline string.

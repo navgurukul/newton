@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-4
-completionMethod: manual
 ```
 # Chapter 4
 The empty list value, which is a list value that contains no items. This is similar to how '' is the empty string value.

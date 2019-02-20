@@ -1,6 +1,5 @@
 ```ngMeta
 name: Branching
-completionMethod: manual
 ```
 
 # Branching

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Implementation
-completionMethod: manual
 ```
 
 Total **Implementation** mein se aapko 9 questions solve karne hain. 7 easy category ke, aur 2 medium ke.

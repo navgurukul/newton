@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-global-statement
-completionMethod: manual
 ```
 # The global Statement
 If you need to modify a global variable from within a function, use the global statement. If you have a line such as global eggs at the top of a function, it tells Python, “In this function, eggs refers to the global variable, so don’t create a local variable with this name.” For example, type the following code into the file editor and save it as sameName2.py:

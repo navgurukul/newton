@@ -1,6 +1,5 @@
 ```ngMeta
 name: Read the JSON
-completionMethod: peer
 submissionType: url
 ```
 

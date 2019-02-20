@@ -1,6 +1,5 @@
 ```ngMeta
 name: getting-the-full-text-from-a-docx-file
-completionMethod: manual
 ```
 # Getting the Full Text from a .docx File
 If you care only about the text, not the styling information, in the Word document, you can use the getText() function. It accepts a filename of a .docx file and returns a single string value of its text. Open a new file editor window and enter the following code, saving it as readDocx.py:

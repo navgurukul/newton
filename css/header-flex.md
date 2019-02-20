@@ -1,6 +1,5 @@
 ```ngMeta
 name: Header using Flex
-completionMethod: peer
 ```
 
 # Header using Flex

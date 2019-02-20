@@ -1,6 +1,5 @@
 ```ngMeta
 name: imap
-completionMethod: manual
 ```
 # IMAP
 Just as SMTP is the protocol for sending email, the Internet Message Access Protocol (IMAP) specifies how to communicate with an email provider’s server to retrieve emails sent to your email address. Python comes with an imaplib module, but in fact the third-party imapclient module is easier to use. This chapter provides an introduction to using IMAPClient; the full documentation is at <span><a href="http://imapclient.readthedocs.org/.">http://imapclient.readthedocs.org/.</a></span>

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Opening Phrases
-completionMethod: manual
 ```
 
 # Useful Phrases for Opening Emails

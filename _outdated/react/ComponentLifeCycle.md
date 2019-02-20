@@ -1,6 +1,5 @@
 ```ngMeta
 name: Component Life Cycle
-completionMethod: manual
 ```
 
 React mein components suddenly janm nahi lete. Components ka apna ek Life Cycle hota hai - jiske bahut saare stages hote hain.

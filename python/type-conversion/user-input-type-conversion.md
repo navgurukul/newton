@@ -1,6 +1,5 @@
 ```ngMeta
 name: type conversion
-completionMethod: peer
 submissionType: url
 ```
 

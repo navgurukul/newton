@@ -1,6 +1,5 @@
 ```ngMeta
 name: Important Contacts
-completionMethod: Manual
 ```
 
 ## Important Contacts

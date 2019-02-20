@@ -1,6 +1,5 @@
 ```ngMeta
 name: If Else - Dry Run
-completionMethod: manual
 ```
 
 Aap pehle iss video ko dekhein if-else program ka dry run karne ke liye. 

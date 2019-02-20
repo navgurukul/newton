@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-wildcard-character
-completionMethod: manual
 ```
 # The Wildcard Character
 The . (or dot) character in a regular expression is called a wildcard and will match any character except for a newline. For example, enter the following into the interactive shell:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: DOM
-completionMethod: manual
 ```
 
 # DOM

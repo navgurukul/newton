@@ -1,3 +1,6 @@
+```ngMeta
+submissionType: url
+```
 Agar aap game ko chala kar dekhoge, toh game sirf ek baar user se input leta hai. Aapko code loop mei daalna hai jisse ki user multiple baar letter daal daal kar try kar sake.
 
 Aapko bahut jyada dhyaan rakhna hai, ki kaunsi instructions loop mei jayengi, kaunsi nahi? 
@@ -7,7 +10,11 @@ Wohi instructions loop mei jayengi jo aapko lagta hai ki aapko repeat karni hai 
 - user se input aapko har baar lena hai, toh woh loop mei jana chahiye
 - Jab hum print karte hai "welcome to the game", woh sirf ek baar karein toh theek hai, toh isliye woh loop mei nahi hona chahiye
 
-### Possible Solution:
+## Solution Video
+
+@[youtube](https://www.youtube.com/watch?v=SZGo7oa8vsc)
+
+## Possible Solution:
 Your `hangman` function can look like:
 
 ```python

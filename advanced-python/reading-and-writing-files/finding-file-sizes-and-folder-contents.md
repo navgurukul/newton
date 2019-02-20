@@ -1,6 +1,5 @@
 ```ngMeta
 name: finding-file-sizes-and-folder-contents
-completionMethod: manual
 ```
 # Finding File Sizes and Folder Contents
 Once you have ways of handling file paths, you can then start gathering information about specific files and folders. The os.path module provides functions for finding the size of a file in bytes and the files and folders inside a given folder.

@@ -1,6 +1,5 @@
 ```ngMeta
 name: adjusting-rows-and-columns
-completionMethod: manual
 ```
 # Adjusting Rows and Columns
 In Excel, adjusting the sizes of rows and columns is as easy as clicking and dragging the edges of a row or column header. But if you need to set a row or column’s size based on its cells’ contents or if you want to set sizes in a large number of spreadsheet files, it will be much quicker to write a Python program to do it.

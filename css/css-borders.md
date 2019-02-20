@@ -1,6 +1,5 @@
 ```ngMeta
 name: Border in CSS
-completionMethod: peer
 ```
 
 # Border in CSS

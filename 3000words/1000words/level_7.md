@@ -1,6 +1,5 @@
 ```ngMeta
 name: Level Seven
-completionMethod: manual
 ```
 
 # Level Seven

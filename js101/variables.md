@@ -1,6 +1,5 @@
 ```ngMeta
 name: Variables kya hote hain?
-completionMethod: manual
 ```
 
 - Explain the concept of how variable is a store of value. It's like an empty box which can take in any content.

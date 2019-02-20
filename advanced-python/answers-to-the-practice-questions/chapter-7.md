@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-7
-completionMethod: manual
 ```
 # Chapter 7
 The re.compile() function returns Regex objects.

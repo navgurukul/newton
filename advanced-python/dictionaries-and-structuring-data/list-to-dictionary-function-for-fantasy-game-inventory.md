@@ -1,6 +1,5 @@
 ```ngMeta
 name: list-to-dictionary-function-for-fantasy-game-inventory
-completionMethod: manual
 ```
 # List to Dictionary Function for Fantasy Game Inventory
 Imagine that a vanquished dragon’s loot is represented as a list of strings like this:

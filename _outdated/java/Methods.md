@@ -1,6 +1,5 @@
 ```ngMeta
 name: Methods
-completionMethod: manual
 ```
 
 Aapne abhi tak Java mein bahut saare aise instructions use kiye jo dekhne mein bahut simple lagte hain but bahut complex kaam karte hain.

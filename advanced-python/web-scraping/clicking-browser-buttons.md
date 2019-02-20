@@ -1,6 +1,5 @@
 ```ngMeta
 name: clicking-browser-buttons
-completionMethod: manual
 ```
 # Clicking Browser Buttons
 Selenium can simulate clicks on various browser buttons as well through the following methods:

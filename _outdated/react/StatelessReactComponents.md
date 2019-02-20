@@ -1,6 +1,5 @@
 ```ngMeta
 name: Stateless React Components
-completionMethod: manual
 ```
 
 Humne apne application ko fully functional bana diya hai. 

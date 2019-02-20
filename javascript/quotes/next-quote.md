@@ -1,6 +1,5 @@
 ```ngMeta
 name: Quotes-Part IV
-completionMethod: facilitator
 ```
 
 # Part IV

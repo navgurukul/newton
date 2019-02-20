@@ -1,6 +1,5 @@
 ```ngMeta
 name: Jadui Javascript
-completionMethod: auto_file_submission
 ```
 ## JavaScript se kya kar sate hain?
 

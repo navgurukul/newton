@@ -1,6 +1,5 @@
 ```ngMeta
 name: ToDo
-completionMethod: manual
 ```
 
 - login
@@ -18,9 +17,9 @@ completionMethod: manual
 - ~~programming kya hota hai~~
 - router
 - ~~android kya hai~~
-- applications kya hoti hia
+- ~~applications kya hoti hia~~
 - websites kya hoti hai
-- html
+- ~~html~~
 - css
 - flipkart
 - ~~startup~~
@@ -36,17 +35,17 @@ completionMethod: manual
 - apple
 - browser
 - github
-- errors (404 error)
+- ~~errors (404 error)~~
 - memory
 - file transfers in window
 - authenticy of search
 - wifi, network
-- php/python
-- other social media - like meet, skype, twitter
+- ~~php/python~~
+- ~~other social media - like meet, skype, twitter~~
 - data analytics
-- ethernet
+- ~~ethernet~~
 - embedding
-- web traffic
-- seo
+- ~~web traffic~~
+- ~~seo~~
 - kernel
 

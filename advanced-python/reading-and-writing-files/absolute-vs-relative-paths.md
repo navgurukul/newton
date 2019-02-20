@@ -1,6 +1,5 @@
 ```ngMeta
 name: absolute-vs-relative-paths
-completionMethod: manual
 ```
 # Absolute vs. Relative Paths
 There are two ways to specify a file path.

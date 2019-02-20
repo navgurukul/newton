@@ -1,6 +1,5 @@
 ```ngMeta
 name: opening-files-with-default-applications
-completionMethod: manual
 ```
 # Opening Files with Default Applications
 Double-clicking a .txt file on your computer will automatically launch the application associated with the .txt file extension. Your computer will have several of these file extension associations set up already. Python can also open files this way with Popen().

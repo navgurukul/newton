@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-multiple-assignment-trick
-completionMethod: manual
 ```
 # The Multiple Assignment Trick
 The multiple assignment trick is a shortcut that lets you assign multiple variables with the values in a list in one line of code. So instead of doing this:

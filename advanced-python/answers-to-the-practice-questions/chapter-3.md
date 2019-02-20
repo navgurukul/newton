@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-3
-completionMethod: manual
 ```
 # Chapter 3
 Functions reduce the need for duplicate code. This makes programs shorter, easier to read, and easier to update.

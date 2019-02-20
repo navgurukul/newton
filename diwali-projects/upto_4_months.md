@@ -1,6 +1,5 @@
 ```ngMeta
 name: Project for students who joined within last 6 months
-completionMethod: manual
 ```
 
 ### HiPy

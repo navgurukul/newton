@@ -1,6 +1,5 @@
 ```ngMeta
 name: Getting Started
-completionMethod: manual
 ```
 
 Chalo kuch problems se warm up karna shuru karte hain.

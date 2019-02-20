@@ -1,6 +1,5 @@
 ```ngMeta
 name: filling-out-and-submitting-forms
-completionMethod: manual
 ```
 # Filling Out and Submitting Forms
 Sending keystrokes to text fields on a web page is a matter of finding the <input> or <textarea> element for that text field and then calling the send_keys() method. For example, enter the following into the interactive shell:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Appointment of DISCO
-completionMethod: manual
 ```
 
 # Appointment of DISCO

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Musical Instrument
-completionMethod: facilitator
 ```
 
 

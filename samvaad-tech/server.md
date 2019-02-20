@@ -1,12 +1,12 @@
 ```ngMeta
 name:Server
-completionMethod: manual
 ```
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
 
 
-@[youtube](l7kd5ZHXEoI) 
+@[youtube](l7kd5ZHXEoI)
+
 
 
 @[youtube](zN29NHUy7g0)
@@ -34,4 +34,3 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 **Tips**:
 1. Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue
 2. Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein
-

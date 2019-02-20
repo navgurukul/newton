@@ -1,6 +1,5 @@
 ```ngMeta
 name: Breaking the Problem into smaller parts
-completionMethod: manual
 ```
 
 Programming mein ya real life mein hum jab bhi koi problem face karte hain toh hume wo bahut mushkil aur complex lagta hai. Mushkil aur complex problem dekh kar hum ghabra jaate hain aur humare haath pair phool jate hain.

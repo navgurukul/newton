@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-time-sleep()-function
-completionMethod: manual
 ```
 # The time.sleep() Function
 If you need to pause your program for a while, call the time.sleep() function and pass it the number of seconds you want your program to stay paused. Enter the following into the interactive shell:

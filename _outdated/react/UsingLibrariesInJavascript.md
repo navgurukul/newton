@@ -1,6 +1,5 @@
 ```ngMeta
 name: Using Libraries In Javascript
-completionMethod: manual
 ```
 
 Abhi tak aapko jab bhi javascript ki libraries use karni hoti hai, toh aapapne HTML file mein ek script tag add kar dete ho. 

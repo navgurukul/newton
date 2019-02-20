@@ -1,6 +1,5 @@
 ```ngMeta
 name: Information and Technology Coordinator
-completionMethod: manual
 ```
 
 # Information and Technology Coordinator

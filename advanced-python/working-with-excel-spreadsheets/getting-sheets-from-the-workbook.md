@@ -1,6 +1,5 @@
 ```ngMeta
 name: getting-sheets-from-the-workbook
-completionMethod: manual
 ```
 # Getting Sheets from the Workbook
 You can get a list of all the sheet names in the workbook by calling the get_sheet_names() method. Enter the following into the interactive shell:

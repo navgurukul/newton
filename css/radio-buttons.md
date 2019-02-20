@@ -1,6 +1,5 @@
 ```ngMeta
 name: Radio Buttons
-completionMethod: peer
 ```
 
 # Part XV - Radio Buttons

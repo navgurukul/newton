@@ -1,6 +1,5 @@
 ```ngMeta
 name: matching-newlines-with-the-dot-character
-completionMethod: manual
 ```
 # Matching Newlines with the Dot Character
 The dot-star will match everything except a newline. By passing re.DOTALL as the second argument to re.compile(), you can make the dot character match all characters, including the newline character.

@@ -1,6 +1,5 @@
 ```ngMeta
 name:  getting-the-body-from-a-raw-message
-completionMethod: manual
 ```
 # Getting the Body from a Raw Message
 Emails can be sent as plaintext, HTML, or both. Plaintext emails contain only text, while HTML emails can have colors, fonts, images, and other features that make the email message look like a small web page. If an email is only plaintext, its PyzMessage object will have its html_part attributes set to None. Likewise, if an email is only HTML, its PyzMessage object will have its text_part attribute set to None.

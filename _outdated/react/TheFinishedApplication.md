@@ -1,6 +1,5 @@
 ```ngMeta
 name: The Finished Application
-completionMethod: manual
 ```
 
 Aapka Nutrition Wizard Application finished hone ke baad ye functionalities perform karega:

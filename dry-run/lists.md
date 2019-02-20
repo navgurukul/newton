@@ -1,6 +1,5 @@
 03```ngMeta
 name: Lists
-completionMethod: manual
 ```
 
 ```python

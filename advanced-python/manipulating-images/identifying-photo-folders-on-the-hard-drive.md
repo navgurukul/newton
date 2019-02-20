@@ -1,6 +1,5 @@
 ```ngMeta
 name: identifying-photo-folders-on-the-hard-drive
-completionMethod: manual
 ```
 # Identifying Photo Folders on the Hard Drive
 I have a bad habit of transferring files from my digital camera to temporary folders somewhere on the hard drive and then forgetting about these folders. It would be nice to write a program that could scan the entire hard drive and find these leftover “photo folders.”

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Flowchart
-completionMethod: manual
 ```
 
 ## Do log ko mil kar sabse pehle yeh videos dekhni hai
@@ -21,6 +20,8 @@ Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:
 3. flowchart aur algorithm mai kya difference hai?
 4. NavGurukul ka flowchart kya hai?
 
+### For more information click on the link-
+* .[flowchart](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)
 
 **Tips**:
 1 . Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue

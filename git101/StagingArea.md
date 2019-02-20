@@ -1,6 +1,5 @@
 ```ngMeta
 name: Staging Area and difference
-completionMethod: manual
 ```
 
 Apne file ko **git add** karte hi aapki file ki ek copy staging area mein ban jaati hai.

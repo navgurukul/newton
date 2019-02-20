@@ -1,6 +1,5 @@
 ```ngMeta
 name: Json and Xml
-completionMethod: manual
 ```
 
 

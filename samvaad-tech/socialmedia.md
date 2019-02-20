@@ -1,6 +1,5 @@
 ```ngMeta
 name: social media
-completionMethod: manual
 ```
 #social media kya hai
 

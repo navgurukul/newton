@@ -1,6 +1,5 @@
 ```ngMeta
 name: chapter-6
-completionMethod: manual
 ```
 # Chapter 6
 Escape characters represent characters in string values that would otherwise be difficult or impossible to type into code.

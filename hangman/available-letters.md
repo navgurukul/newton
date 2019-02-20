@@ -1,3 +1,8 @@
+```ngMeta
+submissionType:url
+```
+
+
 ## Available Letters
 Ab aapko ek feature implement karna hai, jisse ki user ko hum dikha sake ki kaun kaun se letters abhi tak user ne use nahi kiye hai. Aise letters ko hum `Available Letters` ke naam se refer karenge.
 
@@ -6,6 +11,10 @@ Aap `available_letters` ka use apni tarah se program ko interesting banane mei k
 ## Hint
 - `available_letters` ke liye get_available_letters function use hota hai. Isliye aapko iss function mei changes karne hai
 - `get_available_letters` mei further hints hai, isko karne ke liye
+
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=qks4QueruIM)
 
 ## Possible Solution
 ```python

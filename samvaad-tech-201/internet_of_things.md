@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is IOT 
-completionMethod: manual
 ```
 
 # Aap yeh videos dekhein:

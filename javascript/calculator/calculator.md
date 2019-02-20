@@ -1,7 +1,6 @@
 
 ```ngMeta
 name: Calculator
-completionMethod: manual
 ```
 
 # Calculator

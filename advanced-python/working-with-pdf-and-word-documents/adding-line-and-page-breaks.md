@@ -1,6 +1,5 @@
 ```ngMeta
 name: adding-line-and-page-breaks
-completionMethod: manual
 ```
 # Adding Line and Page Breaks
 To add a line break (rather than starting a whole new paragraph), you can call the add_break() method on the Run object you want to have the break appear after. If you want to add a page break instead, you need to pass the value docx.text.WD_BREAK.PAGE as a lone argument to add_break(), as is done in the middle of the following example:

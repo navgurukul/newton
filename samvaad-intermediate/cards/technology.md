@@ -1,6 +1,5 @@
 ```ngMeta
 name: Technology
-completionMethod: manual
 ```
 
 

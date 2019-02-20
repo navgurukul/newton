@@ -1,6 +1,5 @@
 ```ngMeta
 name: Excercise - Python Questions
-completionMethod: manual
 ```
 
 100+ Python challenging programming exercises

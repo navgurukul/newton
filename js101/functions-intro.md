@@ -1,6 +1,5 @@
 ```ngMeta
 name: Ek baar karo! Anek baar karvao. Functions ka dhamaal
-completionMethod: manual
 ```
 
 - Convert the print list to a function and perform different operations on list and print this list

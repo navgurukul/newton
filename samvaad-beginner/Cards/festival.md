@@ -1,6 +1,5 @@
 ```ngMeta
 name:Festival
-completionMethod: manual
 ```
 
 ### Festival
@@ -11,7 +10,11 @@ completionMethod: manual
 
 (You can talk about multiple festivals too.)
 
+@[youtube](hDPt6koZ9ks)
 
+@[youtube](vv2jgdeRFCE)
+
+@[youtube](ds9DWTBKg0c)
 
 
 

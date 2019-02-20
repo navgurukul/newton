@@ -1,6 +1,5 @@
 ```ngMeta
 name: Eligibility to contest for Council
-completionMethod: manual
 ```
 
 # Eligibility to contest for Council

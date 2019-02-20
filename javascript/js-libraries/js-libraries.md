@@ -1,6 +1,5 @@
 ```ngMeta
 name: Javascript Libraries
-completionMethod: manual
 ```
 
 # Javascript Libraries

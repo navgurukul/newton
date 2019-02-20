@@ -1,6 +1,5 @@
 ```ngMeta
 name: Booleans
-completionMethod: manual
 ```
 
 # Booleans kya hote hain?

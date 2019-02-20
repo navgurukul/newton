@@ -1,6 +1,5 @@
 ```ngMeta
 name: What is Git?
-completionMethod: manual
 ```
 
 Aapne computer applications (jaise android apps, operating systems, games etc.) use karte hue, unke versions ke naam sune honge.

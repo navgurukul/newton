@@ -1,6 +1,5 @@
 ```ngMeta
 name: Politics
-completionMethod: Manual
 ```
 
 ## Politics

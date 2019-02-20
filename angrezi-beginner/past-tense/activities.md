@@ -1,6 +1,5 @@
 ```ngMeta
 name: Activities
-completionMethod: manual
 ```
 >Group Size: 4-6
 Skills: Speaking

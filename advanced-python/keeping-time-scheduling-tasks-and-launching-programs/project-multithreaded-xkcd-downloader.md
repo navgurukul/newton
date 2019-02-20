@@ -1,6 +1,5 @@
 ```ngMeta
 name:  project-multithreaded-xkcd-downloader
-completionMethod: manual
 ```
 # Project: Multithreaded XKCD Downloader
 In Chapter 11, you wrote a program that downloaded all of the XKCD comic strips from the XKCD website. This was a single-threaded program: It downloaded one comic at a time. Much of the program’s running time was spent establishing the network connection to begin the download and writing the downloaded images to the hard drive. If you have a broadband Internet connection, your single-threaded program wasn’t fully utilizing the available bandwidth.

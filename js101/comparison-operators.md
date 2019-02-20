@@ -1,6 +1,5 @@
 ```ngMeta
 name: Aur cheezon ki tulna kaise karein?
-completionMethod: manual
 ```
 
 - Explain them the concept of comparison operators and then ask them to enter two different numbers using prompt. After this it returns maximum of those two numbers //Operators like less than, greater than

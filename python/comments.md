@@ -1,6 +1,5 @@
 ```ngMeta
 name: Comments Likhne Seekhe
-completionMethod: manual
 ```
 
 Kisi bhi program mei hum comments likh sakte hai. Inn comments ko jab hum *program* ko *run* karte hai, tab yeh comments *execute* nahi hote.

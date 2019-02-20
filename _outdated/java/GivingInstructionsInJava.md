@@ -1,6 +1,5 @@
 ```ngMeta
 name: Giving Instructions In Java
-completionMethod: manual
 ```
 
 Iss lesson mein hum Computer ko ek simple instruction denge aur Java language ke through instruction dena seekhenge.

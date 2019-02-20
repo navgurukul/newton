@@ -1,6 +1,5 @@
 ```ngMeta
 name: Section I - Council
-completionMethod: manual
 ```
 
 # Council

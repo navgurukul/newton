@@ -1,6 +1,5 @@
 ```ngMeta
 name: CSS Flexbox
-completionMethod: peer
 ```
 
 # CSS3 Flexbox

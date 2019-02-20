@@ -1,6 +1,5 @@
 ```ngMeta
 name: Using Codepen
-completionMethod: manual
 ```
 
 # CodePen.io kaise Use Karein

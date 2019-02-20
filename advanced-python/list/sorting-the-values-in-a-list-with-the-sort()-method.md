@@ -1,6 +1,5 @@
 ```ngMeta
 name: sorting-the-values-in-a-list-with-the-sort()-method
-completionMethod: manual
 ```
 # Sorting the Values in a List with the sort() Method
 Lists of number values or lists of strings can be sorted with the sort() method. For example, enter the following into the interactive shell:

@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-timedelta-data-type
-completionMethod: manual
 ```
 # The timedelta Data Type
 The datetime module also provides a timedelta data type, which represents a duration of time rather than a moment in time. Enter the following into the interactive shell:

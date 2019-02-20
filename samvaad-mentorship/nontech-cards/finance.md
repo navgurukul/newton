@@ -1,6 +1,5 @@
 ```ngMeta
 name: Basic Finacial Literacy - Three
-completionMethod: manual
 ```
 
 ### Basic Financial Literacy - Three

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Sticky Footer
-completionMethod: peer
 ```
 
 # Part XIV - Sticky Footer

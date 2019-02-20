@@ -1,6 +1,5 @@
 ```ngMeta
 name: project-extending-the-mousenow-program
-completionMethod: manual
 ```
 # Project: Extending the mouseNow Program
 You could extend the mouseNow.py project from earlier in this chapter so that it not only gives the x- and y-coordinates of the mouse cursor’s current position but also gives the RGB color of the pixel under the cursor. Modify the code inside the while loop of mouseNow.py to look like this:

@@ -1,9 +1,16 @@
+```ngMeta
+submissionType:url
+```
 ## Hint
 Aapko ab yeh change karna hai jisse jab bhi user input ke time par - agar `hint` likhein, toh aap usse koi bhi ek letter jo abhi tak user ne guess nahi kiya hai, woh letter guess kar kar, accordingly word display kar de.
 
 ## Hint implement karne ke liye Hint
 - `hint` ko aapko valid input mei daalna hoga
 - Ek aisa function likho jo bacche hue letters (jo abhi tak guess nahi hue hai) unko use kar kar, ek letter select karein aur usse user_input maan kar proceed kar sakte ho
+
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=M24bOAARprA)
 
 ## Possible Solution
 ```python

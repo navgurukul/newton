@@ -1,8 +1,17 @@
+```ngMeta
+submissionType:url
+```
+
+
 ## Game Won?
 Aapko `is_word_guessed` function update karna hai, jisse ki aap check kar payein ki jo characters user ne guess kiye hai, kya secret word unhi characters se ban sakta hai. Agar haa, toh aap `True` return karoge, nahi toh `False` return karoge.
 
 ## Hint
 - Yeh karne ke liye aap `get_guessed_word` function use kar sakte hai
+
+## Solution
+
+@[youtube](https://www.youtube.com/watch?v=tBLsbWy1oSw)
 
 ## Possible Solution
 ```python

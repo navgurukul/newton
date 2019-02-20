@@ -1,6 +1,5 @@
 ```ngMeta
 name: module
-completionMethod: manual
 ```
 # Importing Modules
 

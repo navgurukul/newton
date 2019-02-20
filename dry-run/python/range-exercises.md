@@ -1,6 +1,5 @@
 ```ngMeta
 name: Exercises on Range
-completionMethod: manual
 ```
 
 <!-- fixme: wrong example -->

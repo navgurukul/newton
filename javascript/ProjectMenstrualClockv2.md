@@ -1,6 +1,5 @@
 ```ngMeta
 name: Project Menstrual Clock v2
-completionMethod: manual
 ```
 
 # Project Menstrual Clock v2

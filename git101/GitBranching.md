@@ -1,6 +1,5 @@
 ```ngMeta
 name: Alternate beginnings | Git Branching
-completionMethod: manual
 ```
 
 aapne "git log" use karke apne file ki puri commit history dekhi hogi. Har commit ke saath commit ka ek naam bhi hoga (with strange alphabets and numbers zsgderef8933...)

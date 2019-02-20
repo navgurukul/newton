@@ -1,6 +1,5 @@
 ```ngMeta
 name: the-current-working-directory
-completionMethod: manual
 ```
 # The Current Working Directory
 Every program that runs on your computer has a current working directory, or cwd. Any filenames or paths that do not begin with the root folder are assumed to be under the current working directory. You can get the current working directory as a string value with the os.getcwd() function and change it with os.chdir(). Enter the following into the interactive shell:

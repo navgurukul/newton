@@ -1,6 +1,5 @@
 ```ngMeta
 name: Data Structures In Java
-completionMethod: manual
 ```
 
 Aapne "Storage and Memory" lesson mein dekha ki hum kaise computer ko koi bhi data store karne ko keh sakte hain.

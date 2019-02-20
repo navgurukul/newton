@@ -1,6 +1,5 @@
 ```ngMeta
 name: More Arrays Easy Question 2
-completionMethod: manual
 ```
 
 Total **More Arrays** mein se aapko 7 questions solve karne hain. 5 easy category ke, aur 2 medium ke.

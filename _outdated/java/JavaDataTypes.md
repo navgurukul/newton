@@ -1,6 +1,5 @@
 ```ngMeta
 name: Java Data Types
-completionMethod: manual
 ```
 <h2>What is Data types?</h2>
 Data types ek keywords hai. Variable kay values ko store karne kay liye alag-alag data types banaya jata hai.

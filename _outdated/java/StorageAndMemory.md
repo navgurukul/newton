@@ -1,6 +1,5 @@
 ```ngMeta
 name: Storage and Memory
-completionMethod: manual
 ```
 
 Apne application mein social profile banane ke liye, hume logon ka name, age, profession etc. kahin pe store karna hoga.

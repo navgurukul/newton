@@ -1,6 +1,5 @@
 ```ngMeta
 name: character-classes
-completionMethod: manual
 ```
 # Character Classes
 In the earlier phone number regex example, you learned that \d could stand for any numeric digit. That is, \d is shorthand for the regular expression (0|1|2|3|4|5|6|7|8|9). There are many such shorthand character classes, as shown in Table 7-1.

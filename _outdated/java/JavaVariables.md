@@ -1,6 +1,5 @@
 ```ngMeta
 name: Java Variables
-completionMethod: manual
 ```
 <h2>What is Variables?</h2>
 Variable ek memory location ke name hota hai jisme values; variable ko diya jata hai aur wo uss location par store ho jata hai.

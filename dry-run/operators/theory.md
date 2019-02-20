@@ -1,6 +1,5 @@
 ```ngMeta
 name: Operators Precedence
-completionMethod: manual
 ```
 
 ## Understanding "Precedence" in Operators

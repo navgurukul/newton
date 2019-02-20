@@ -1,6 +1,5 @@
 ```ngMeta
 name: Dream Holiday
-completionMethod: manual
 ```
 
 # Dream Holiday

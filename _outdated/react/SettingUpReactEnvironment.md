@@ -1,6 +1,5 @@
 ```ngMeta
 name: Setting up Environment for React
-completionMethod: manual
 ```
 
 React applications banane se pehle, hume uske liye development environment set karna hoga. 

@@ -1,6 +1,5 @@
 ```ngMeta
 name: Flowcharts kaise banayein?
-completionMethod: manual
 ```
 
 # How to Make Flowcharts?

@@ -1,6 +1,5 @@
 ```ngMeta
 name: finding-elements-on-the-page
-completionMethod: manual
 ```
 # Finding Elements on the Page
 WebDriver objects have quite a few methods for finding elements on a page. They are divided into the find_element_* and find_elements_* methods. The find_element_* methods return a single WebElement object, representing the first element on the page that matches your query. The find_elements_* methods return a list of WebElement_* objects for every matching element on the page.
