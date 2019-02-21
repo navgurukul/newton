@@ -1,5 +1,5 @@
 - Contents.md
-- Comparatives
+- comparatives
   - tutorial.md
 - conditionals
   - exercises.md
