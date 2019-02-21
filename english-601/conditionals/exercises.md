@@ -1,5 +1,5 @@
 ```ngMeta
-name: Condtitionals - Exercises
+name: Conditionals - Exercises
 ```
 
 ### Chain Game
