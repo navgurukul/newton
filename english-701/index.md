@@ -7,6 +7,7 @@
   - job.md
 - jobapplications.md
 - Tech_Samvaad
+  - Tech_Samvaad.md
   - computer_networking.md
   - cookie.md
   - data_mining.md
