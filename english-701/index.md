@@ -21,7 +21,6 @@
   - Frontend.md
   - hacking.md
   - Hosting.md
-  - Ide_editor.md
   - internet_of_things.md
   - intranet.md
   - json_xml.md
