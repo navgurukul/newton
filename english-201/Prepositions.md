@@ -1,3 +1,7 @@
+```ngMeta
+submissionType
+```
+
 Preposition: is a word which joins a noun or pronoun to a sentence or another word to show relationship. (Pre=before; position=place)
 
 Example:
@@ -32,3 +36,23 @@ Exercise 2:
 Make sentences using the following prepositions.
 
 on, at, in, before, after, for, since, under, with, behind
+
+Exercise 3: 
+
+Correct the following:
+
+1. Beside winning independence, the people also got a new identity.
+2. This land is situated among the desert and the grassland.
+3. The treasure was kept into a hiding place.
+4. Arun cut his hand by a knife.
+5. The student did not come to class since many days.
+6. This is a comfortable house to live.
+7. The workers asked a holiday
+8. We pray God everyday.
+9. My house is superior than yours.
+10. This question is different to the earlier one.
+11. You can call him with his first name.
+12. The application should be filled with ink.
+13. The elders need to discuss about the matter.
+14. The guest was given a chair to sit.
+15. We are searching a book in the library.
