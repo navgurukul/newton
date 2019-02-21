@@ -1,5 +1,5 @@
 ```ngMeta
-name: Lessons
+name: Email Writing - Lessons
 ```
 
  

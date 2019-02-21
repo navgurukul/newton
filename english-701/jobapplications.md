@@ -1,5 +1,5 @@
 ```ngMeta
-name: Exercise - Job Applications
+name: Email Writing Exercise - Job Applications
 submissionType: url
 ```
 
