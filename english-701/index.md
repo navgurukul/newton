@@ -1,3 +1,4 @@
+- Contents.md
 - lessons.md
 - phrases
   - phrases.md
