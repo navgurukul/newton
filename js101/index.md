@@ -34,5 +34,4 @@
     - debugging-2/question5.md
     - debugging-2/question6.md
     - debugging-2/question7.md
-    - debugging-2/question8.md
 - whats-next.md
