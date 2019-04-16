@@ -10,11 +10,21 @@ Pichli task mein humne ek function likh liya hai jo humein movie ke URL se uski 
 Basically yeh function woh list parameter ki tara lega jo ki `scrape_top_list` return karta hai. Abhi ke liye aapko iss function ko sirf pehli 10 movies deni hain. Agar aap zyada movies ek baar mein scrape karoge toh IMDB aapko block kar dega. Iske baare mein detail mein hum aage waali kuch tasks mein baat karenge.
 
 `movies_list` parameter waali list ka kuch aisa structure hoga. Yeh woh same list hai jo aapka `scrape_top_list` function return karta hai.
-
+```js
 [
-	{'name': 'Anand', 'year_of_release': 1971, 'position': 1, 'rating': 8.7, "url": "https://www.imdb.com/title/tt0066763/", } , {}, {}, {}, {}
+	{	
+		'name': "Anand", 
+		'year_of_release': 1971, 
+		'position': 1, 
+		'rating': 8.7, 
+		'url': "https://www.imdb.com/title/tt0066763/", 
+	} , 
+	{...}, 
+	{...}, 
+	{...}, 
+	{...}
 ]
-
+```
 
 Movies wali list ko leke tumhara function neeche di hui list return karega.
 
