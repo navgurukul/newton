@@ -11,7 +11,7 @@ Page ka link yeh hai: https://www.imdb.com/india/top-rated-indian-movies/
 
 Humein ek function likhna hai called `scrape_top_list()` jo movies ki list ko return karega. Yeh function movies ki list ko iss format mein return karega.
 
-```json
+```js
 [
   {
     "name": "Anand",
