@@ -23,12 +23,21 @@ Why we use pip install beautifulsoup4?
 - Beautiful Soup is a Python package for parsing HTML and XML documents.
 
 how to install these packages
-```
+For python3
+```sh
    $ sudo apt-get install python3-pip
-   $ pip install requests Or pip --user requests
-   $ pip install beautifulsoup4
+   $ pip3 install requests Or pip3 --user requests
+   $ pip3 install beautifulsoup4
    
 ```
+
+For python2
+```sh
+   $ sudo apt-get install python-pip
+   $ pip install requests Or pip --user requests
+   $ pip install beautifulsoup4 
+```
+
 
 @[youtube](https://youtu.be/9sG87-w7wVQ)
 
