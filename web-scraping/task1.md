@@ -34,7 +34,10 @@ Humein ek function likhna hai called `scrape_top_list()` jo movies ki list ko re
     "rating": 8.6,
     "url": "https://www.imdb.com/title/tt8108198/"
   },
-  {}, {}, {}, {}
+  {...},
+  {...},
+  {...},
+  {...}
 ]
 ```
 
