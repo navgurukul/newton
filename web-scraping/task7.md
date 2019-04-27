@@ -36,7 +36,7 @@ Iss function ka output yeh hoga:
 
 ```python
 {
-"Rishabh Verma": 2,
+"Ankita gole": 2,
 "Hrishikesh Mukherjee": 1,
 "Sanjay Leela Bansali": 2
 }
