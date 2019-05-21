@@ -14,6 +14,7 @@ i = 1
 
 while(i < l):
 	s = s + arr[i]
+	i+=1
 
 print(s)
 ```
