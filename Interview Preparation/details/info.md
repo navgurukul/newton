@@ -1,7 +1,7 @@
 ```ngMeta
-name: Non-Technical Readings - 201
+name: Interview Preparation
 type: html
 daysToComplete: 30
-shortDescription: Iss Course ko aap use kar kar English mei important Concepts padh kar samajh sakte hai
+shortDescription: In this course we will learn advance topics which are required in interviews.
 logo:https://bit.ly/2PzSPkJ
 ```
