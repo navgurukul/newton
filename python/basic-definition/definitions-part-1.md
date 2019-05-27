@@ -27,7 +27,7 @@ A server is a type of computer or device on a network that manages network resou
 ### Front-end
 Front-end web development is the practice of converting data to graphical interface for user to view and interact with data through digital interaction using HTML, CSS, Javascript.
 ### Back-end
-Back end Development refers to the server side of development where you are primarily focused on how the site works. Making updates and changes in addition to monitoring functionality of the site will be you're primary responsibility.
+Back end Development refers to the server side of development where you are primarily focused on how the site works. Making updates and changes in addition to monitoring functionality of the site will be you're primary responsibility.Example of back-end language are Python,Java,Node.js,etc.
 ### Icon
 Icon is a small visual display of an application which can be activated by clicking on it.
 ### Internet
