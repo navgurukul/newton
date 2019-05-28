@@ -1,5 +1,5 @@
 ```ngMeta
-name: Waht is complexity?
+name: What is complexity?
 submissionType: url
 ```
 ## What is complexity?
