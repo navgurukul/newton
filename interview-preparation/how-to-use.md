@@ -1,6 +1,3 @@
-## How to Use
-
-* Some contents and questions and Links will be provided to study. 
-
-### Some important tips to help you learn better:
-- Make Notes
+# Welcome to Interview Preparation.
+I assume you are taking this course after comleting all the Python Courses.
+In this course you will get to know some important topics which are frequently asked in Interviews.
