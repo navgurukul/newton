@@ -73,5 +73,5 @@ Yeh python mein saare operators aur unke kuch examples hain.
 | Multiplication 	| `*`            	| 10 * 3 = 30 <br> 6* 2 = 12               	|
 | Division       	| `/`            	| 10 / 3 = 3 <br> 10 / 3.33333333333333335 	|
 | Addition       	| `+`            	| 3 + 30 = 33 <br> 70 + 20 = 90            	|
-| Subtraction    	| `-`            	| 20 - 2 = 20 <br> 9 - 8 = 1               	|
+| Subtraction    	| `-`            	| 20 - 2 = 18 <br> 9 - 8 = 1               	|
 | Modulus        	| `%`            	| 8 % 3 = 2 <br> 10 % 9 = 1                	|
