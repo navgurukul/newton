@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project for students who joined prior to 6 months
+name: InstaAnalyze
 ```
 
 ### InstaAnalyze

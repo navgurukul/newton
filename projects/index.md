@@ -1,5 +1,5 @@
 - intro.md
-- upto_4_months.md
-- upto_8_months.md
+- better_exceptions.md
+- instaAnalyze.md
 - java.md
 - blog_site.md

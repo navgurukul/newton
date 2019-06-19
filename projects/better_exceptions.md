@@ -1,5 +1,5 @@
 ```ngMeta
-name: Project for students who joined within last 6 months
+name: Better Exceptions
 ```
 
 ### HiPy
