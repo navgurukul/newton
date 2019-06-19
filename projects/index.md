@@ -2,4 +2,5 @@
 - better_exceptions.md
 - instaAnalyze.md
 - java.md
+- tic-tac-toe.md
 - blog_site.md
