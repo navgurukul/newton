@@ -1,8 +1,8 @@
 ```ngMeta
-name: InstaAnalyze
+name: Insta Analyze
 ```
 
-### InstaAnalyze
+### Insta Analyze
 
 Humein ek instagram ke liye `bot` banana hai, jo mere instagram followers ki posts ka sentiment analysis karega.
 
