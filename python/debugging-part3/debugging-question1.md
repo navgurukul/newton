@@ -3,7 +3,7 @@ name: Pass by Reference and Functions
 submissionType: url
 ```
 
-Iss program ko run karo aur dekho ki num_list aur num_list_20 ki value same aa rahi. Iss code ko ais chane karo jisse hume num_list ki intial value bhi mil jaye.
+Iss program ko run karo aur dekho ki num_list aur num_list_20 ki value same aa rahi. Iss code ko aise change karo jisse hume num_list ki intial value bhi mil jaye.
 
 ```python
 def numbers_greater_than_twenty(list):
