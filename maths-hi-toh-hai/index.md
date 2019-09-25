@@ -1,2 +1,1 @@
-- introduction.md
-- why-algebra-is-important.md
+- pattern-questions.md
