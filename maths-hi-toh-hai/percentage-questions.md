@@ -30,7 +30,7 @@
 
 4. [https://youtu.be/zqs9vbCyvbA](https://youtu.be/zqs9vbCyvbA)
 
-# Practice questions
+## Practice questions
 
 ### Ab yeh questions solve kariye:
 
