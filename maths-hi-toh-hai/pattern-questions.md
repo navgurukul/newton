@@ -1,6 +1,6 @@
 # Pattern Questions #
 
-### Iss category of questions ko samajhne ke liye, aap yeh videos dekhein.###
+### Iss category of questions ko samajhne ke liye, aap yeh videos dekhein.
 
 
 
