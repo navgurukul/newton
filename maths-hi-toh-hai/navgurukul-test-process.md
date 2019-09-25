@@ -7,6 +7,8 @@
 
 ### TOPICS TO STUDY FOR NAVGURUKUL TESTS
 Intro - mindset kaisa ho
+STEPS AUR LOGIC PAR FOCUS KARE
+
 
 
 
