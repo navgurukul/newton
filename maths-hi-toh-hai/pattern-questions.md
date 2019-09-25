@@ -24,5 +24,12 @@ Ab yeh questions solve kariye:
           b.  22
           c. 23
           d.  19
+          
+   3. 3, 4, 7, 8, 11, 12, ...
+            a. 7
+            b. 10
+            c. 14
+            d. 15
+
 
 
