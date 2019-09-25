@@ -6,9 +6,9 @@
 2. English Test
 3. Algebra Interview 
 
-## TOPICS TO STUDY FOR NAVGURUKUL TESTS
-    * Intro - mindset kaisa ho.*
-      STEPS AUR LOGIC PAR FOCUS KARE
+### TOPICS TO STUDY FOR NAVGURUKUL TESTS
+    *Intro - mindset kaisa ho*
+     STEPS AUR LOGIC PAR FOCUS KARE
 
 
 
