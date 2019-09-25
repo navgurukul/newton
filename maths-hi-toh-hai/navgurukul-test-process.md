@@ -6,7 +6,7 @@
  3. Algebra Interview 
 
 ### TOPICS TO STUDY FOR NAVGURUKUL TESTS
-Intro - mindset kaisa ho
+Intro - Aapko zyada se zyada logic par focus karna hoga.
 STEPS AUR LOGIC PAR FOCUS KARE
 
 
