@@ -6,7 +6,7 @@
  3. Algebra Interview 
 
 ### TOPICS TO STUDY FOR NAVGURUKUL TESTS
-####Intro - mindset kaisa ho####
+Intro - mindset kaisa ho
 
 
 
