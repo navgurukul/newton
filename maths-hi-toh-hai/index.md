@@ -1,2 +1,2 @@
 - introduction.md
-- why-algebgra-is-important.md
+- why-algebra-is-important.md
