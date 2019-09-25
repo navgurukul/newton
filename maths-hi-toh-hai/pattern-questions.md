@@ -30,6 +30,11 @@ Ab yeh questions solve kariye:
             b. 10
             c. 14
             d. 15
+   4. 201, 202, 204, 207, ...
+            a.  205
+            b.  208
+            c.  210
+            d.  211
 
 
 
