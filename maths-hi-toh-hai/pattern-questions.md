@@ -6,7 +6,18 @@
 
    (ye video dekhe or yeh samjhne ka kosis kare ki number system kya hota h )
    
-
+   Ye kuch question slove kare bhut hi zyada easy hain
+   
+   1. 1,3,5,7,9,11......?? Yaha par ye soche ki question mark ke jagah par kya aayega.
+   
+   ans:
+      1+2 = 3
+      3+2 = 5
+      5+2 = 7
+      7+2 = 9
+      9+2 = 11
+      11+2 = 13. So final ans 13 hoga 
+   
 2. [https://youtu.be/EDyR_TY_OiU](https://youtu.be/EDyR_TY_OiU)
 
 3. [https://youtu.be/IW2XfKCVCSE](https://youtu.be/IW2XfKCVCSE)
