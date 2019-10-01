@@ -3,6 +3,8 @@
 ### Iss category of questions ko samajhne ke liye, aap yeh videos dekhein.
 
 1. [https://youtu.be/gAbYofLr4kc](https://youtu.be/gAbYofLr4kc)
+   (ye video dekhe or yeh samjhne ka kosis kare ki number system kya hota h )
+   
 
 2. [https://youtu.be/EDyR_TY_OiU](https://youtu.be/EDyR_TY_OiU)
 
