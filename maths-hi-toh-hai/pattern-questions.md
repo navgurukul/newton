@@ -20,13 +20,13 @@ Ye kuch question slove kare bhut hi easy hain
    
  2.questions 
  
-  4,7,10,13 ?... ,19.
+  4, 7, 10, 13.....?, 19.
   
   Yaha par question mark pe pass socho kya aayega.
   
  3.questions
 
-  7,16,25,34,43,52.....?
+  7, 16, 25, 34, 43, 52.....?
    
 2. [https://youtu.be/EDyR_TY_OiU](https://youtu.be/EDyR_TY_OiU)
 
