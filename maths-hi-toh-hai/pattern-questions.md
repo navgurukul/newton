@@ -10,19 +10,23 @@ Ye kuch question slove kare bhut hi easy hain
    
 1. 1,3,5,7,9,11......?? Yaha par ye soche ki question mark ke jagah par kya aayega.
    
- ans:
-  1+2 = 3
-  3+2 = 5
-  5+2 = 7
-  7+2 = 9
-  9+2 = 11
-  11+2 = 13. So final ans 13 hoga 
+    ans:
+     1+2 = 3
+     3+2 = 5
+     5+2 = 7
+     7+2 = 9
+     9+2 = 11
+     11+2 = 13. So final ans 13 hoga 
    
  2.questions 
  
   4,7,10,13 ?... ,19.
   
   Yaha par question mark pe pass socho kya aayega.
+  
+ 3.questions
+
+  7,16,25,34,43,52.....?
    
 2. [https://youtu.be/EDyR_TY_OiU](https://youtu.be/EDyR_TY_OiU)
 
