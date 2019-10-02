@@ -35,6 +35,7 @@ Easy Questions:
         = 2400/100
 
         = 24
+Ab yeh questions solve kariye:
 
 2. What is 10 % of 90?
 
@@ -55,5 +56,32 @@ Easy Questions:
         c. 25 %
 
         d. 30 %
+        
+4. What is 50 % of 100?
 
+        a. 30 %
+        
+        b. 35 %
+        
+        c. 20 %
+        
+        d. 50 %
+        
+5. What is 40 % of 50?
+ 
+        a. 50 %
+        
+        b. 20 %
+        
+        c. 33 %
+        
+        d. 40 %
+
+## Practice Questions:
+
+   medium questions :
+
+Ab yeh questions solve kariye:
+
+1. 
 
