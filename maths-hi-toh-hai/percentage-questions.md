@@ -22,7 +22,7 @@
 
 Easy Questions:
 
-1. What is 30 % of 80? Yaha par ye soche ki question mark ke jagah par kya aayega.
+1. What is 30 % of 80?
 
   Solution:
 
@@ -35,6 +35,8 @@ Easy Questions:
   = 2400/100
 
   = 24
+  
+  2. 
 
 
 
