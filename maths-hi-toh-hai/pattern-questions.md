@@ -16,13 +16,13 @@ Easy Questions
 
 1. 1,3,5,7,9,11......?? Yaha par ye soche ki question mark ke jagah par kya aayega.
    
-    ans:
-     1+2 = 3
-     3+2 = 5
-     5+2 = 7
-     7+2 = 9
-     9+2 = 11
-     11+2 = 13. So final ans 13 hoga 
+ans:
+1+2 = 3
+3+2 = 5
+5+2 = 7
+7+2 = 9
+9+2 = 11
+11+2 = 13. So final ans 13 hoga 
    
  2.questions 
  
@@ -36,11 +36,11 @@ Easy Questions
   
 4.questions
    
-   2, 8, 14, 20,.......?
+  2, 8, 14, 20,.......?
    
 5.questions 
    
-   200, 192, 184, 176....?, 168.
+  200, 192, 184, 176....?, 168.
    
  6.questions
    
