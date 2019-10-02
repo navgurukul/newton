@@ -172,6 +172,68 @@ Ab yeh questions solve kariye:
         c. 39 .0 %
         
         d. 0.0023 %
+## Practice Questions:
+
+   Hard questions :
+
+1. Ron scored 344 marks out of 400 marks and his elder brother Ben scored 582 marks out of 600 marks. Who scored percentage is better? 
+        Solution:
+
+        Percentage of marks scored by Ron = (344/400 × 100) %
+
+                                                = (34400/400) %
+
+                                                = (344/4) %
+
+                                                = 86 %
+                                                
+2. In final exam of class IX there are 50 students 10 % students failed. How many students passed to class X?
+        a. 55 %
         
+        b. 45 %
+        
+        c. 50 %
+        
+        d. 40 %
+        
+3. In a class of 50 students, 40 % are girls. Find the number of girls and number of boys in the class?
+        a. 20 %
+        
+        b. 22 %
+        
+        c. 30 %
+        
+        d. 15 %
+        
+4. Victor gets 92 % marks in examinations. If these are 460 marks, find the maximum marks.
+        a. 100 m
+        
+        b. 200 m
+        
+        c. 250 m
+        
+        d. 500 m
+5. In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is  of the number of students of 8 years of age which is 48. What is the total number of students in the school?
+        a. 100 %
+        
+        b. 72 %
+        
+        c. 80 %
+        
+        d. 120 %
+        
+6. Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.
+        a. 4:5
+        
+        b. 2:3
+        
+        c. 3:2
+        
+        d. 4:3
+
+7. 
+8.
+9.
+10.
         
 
