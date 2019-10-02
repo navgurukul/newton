@@ -20,21 +20,21 @@
 
 ## Practice Questions:
 
-### Easy Questions:
+Easy Questions:
 
 1. What is 30 % of 80? Yaha par ye soche ki question mark ke jagah par kya aayega.
 
-Solution:
+  Solution:
 
-30 % of 80
+  30 % of 80
 
-= 30/100 × 80
+  = 30/100 × 80
 
-= (30 × 80)/100
+  = (30 × 80)/100
 
-= 2400/100
+  = 2400/100
 
-= 24
+  = 24
 
 
 
