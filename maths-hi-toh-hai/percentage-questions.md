@@ -83,7 +83,7 @@ Ab yeh questions solve kariye:
 
 Ab yeh questions solve kariye:
 
-1. 6 % 
+1.  6 % 
         a. 0.06 %
         
         b. 1.6 %
@@ -92,7 +92,7 @@ Ab yeh questions solve kariye:
         
         d. 0.04 %
         
-2. 72 %
+2.  72 %
         a. 2.27 %
         
         b. 1.00 %
@@ -101,7 +101,7 @@ Ab yeh questions solve kariye:
         
         d. 0.22 %
 
-3. 125 %
+3.  125 %
         a. 3 %
         
         b. 42 %
@@ -110,7 +110,7 @@ Ab yeh questions solve kariye:
         
         d. 1.25 %
 
-4. 48 %
+4.  48 %
         a. 25/12 %
         
         b. 12/25 %
@@ -119,7 +119,7 @@ Ab yeh questions solve kariye:
         
         d. 25 %
         
-5. 220 %
+5.  220 %
         a. 11/5 %
         
         b. 22/11 %
@@ -128,7 +128,7 @@ Ab yeh questions solve kariye:
         
         d. 4/5 %
         
-6. 2.5 %
+6.  2.5 %
         a. 1/40 %
         
         b. 2/40 %
@@ -137,7 +137,7 @@ Ab yeh questions solve kariye:
         
         d. 4.0 %
         
-7. 9/25 %
+7.  9/25 %
         a. 33 %
         
         b. 40 %
@@ -146,7 +146,7 @@ Ab yeh questions solve kariye:
         
         d. 50 %
         
-8. 3/125 %
+8.  3/125 %
         a. 4.2 %
         
         b. 3.3 %
@@ -155,7 +155,7 @@ Ab yeh questions solve kariye:
         
         d. 2.4 %
         
-9. 3.6 %
+9.  3.6 %
         a. 0.003 %
         
         b. 0.036 %
@@ -164,7 +164,7 @@ Ab yeh questions solve kariye:
         
         d. 44 %
         
-10. 0.23 %
+10.  0.23 %
         a. 2 %
         
         b. 10.0 %
