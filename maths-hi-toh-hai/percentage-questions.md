@@ -85,11 +85,11 @@ Ab yeh questions solve kariye:
 
 1.  6 % 
         a. 0.06 %
-        
+
         b. 1.6 %
-        
+
         c. 1.05 %
-        
+
         d. 0.04 %
         
 2.  72 %
