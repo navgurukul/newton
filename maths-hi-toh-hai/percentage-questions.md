@@ -36,7 +36,7 @@ Easy Questions:
 
   = 24
   
-  2. 
+2. 
 
 
 
