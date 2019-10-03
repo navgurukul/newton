@@ -84,6 +84,7 @@ Ab yeh questions solve kariye:
 Ab yeh questions solve kariye:
 
 1.  6 %
+        
         a. 0.06 %
 
         b. 1.6 %
@@ -93,6 +94,7 @@ Ab yeh questions solve kariye:
         d. 0.04 %
         
 2.  72 %
+        
         a. 2.27 %
         
         b. 1.00 %
@@ -102,6 +104,7 @@ Ab yeh questions solve kariye:
         d. 0.22 %
 
 3.  125 %
+        
         a. 3 %
         
         b. 42 %
