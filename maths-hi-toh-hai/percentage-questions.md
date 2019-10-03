@@ -84,7 +84,7 @@ Ab yeh questions solve kariye:
 Ab yeh questions solve kariye:
 
 1.  6 %
-        
+
         a. 0.06 %
 
         b. 1.6 %
