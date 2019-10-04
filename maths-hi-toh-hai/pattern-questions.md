@@ -175,7 +175,7 @@ Ab yeh questions solve kariye:
    d. BCACB
    e. None of these
    
-8. ABCA _ BCaAAB _ CA _ bbc _ A
+8. ABCA _ BCAAAB _ CA _ BBA _ A
 
      a. ccaa
      b. bbaa
@@ -192,6 +192,7 @@ Ab yeh questions solve kariye:
       E.NONE OF THESE
       
 10. BA _ B _ AAB _ A _ B
+
       a.abaa
       b. abba
       c. baab
@@ -230,10 +231,10 @@ Ab yeh questions solve kariye:
 4) A
 5) C
 6) A
-7) 
-8)
-9)
-10)
+7) B
+8) C
+9) D
+10) B
       
 
 
