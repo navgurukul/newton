@@ -6,85 +6,86 @@
 
 ## UNITARY QUESTIONS:
 
-If 20 articles cost ₹ 90, then the cost of 9 articles is ?
+1. If 20 articles cost ₹ 90, then the cost of 9 articles is ?
 
       a. ₹ 45
       B. ₹ 40.50 
       C. ₹ 4.50 
       D. None of these
 
-   2.      If cost of 24 oranges is ₹ 72, then find out the cost of 120 oranges.
+2. If cost of 24 oranges is ₹ 72, then find out the cost of 120 oranges.
    
-      A . ₹ 180
-      B.	₹ 360
-      C.	₹ 172
-      D.	₹ 500
+      A. ₹ 180
+      B. ₹ 360
+      C. ₹ 172
+      D. ₹ 500
 
-3.      If cost of 12 pens is ₹ 84, then what is the cost of 10 such pens ?
+3. If cost of 12 pens is ₹ 84, then what is the cost of 10 such pens ?
 
-      A.	₹ 90
-      B.	₹ 72
-      C.	₹ 65
-      D.	₹ 70
+      A. ₹ 90
+      B. ₹ 72
+      C. ₹ 65
+      D. ₹ 70
  
-4.    If cost of 15 eggs is ₹ 75, then find out the cost of 4 dozens eggs.
+4. If cost of 15 eggs is ₹ 75, then find out the cost of 4 dozens eggs.
 
       A. ₹ 240
       B. ₹ 300
       C. ₹ 150
       D. ₹ 185
 
-5.     If 16 dozens bananas cost ₹ 360, then how many bananas can be bought in ₹ 60 ?
+5. If 16 dozens bananas cost ₹ 360, then how many bananas can be bought in ₹ 60 ?
 
-      A.	16 bananas
-      B.	48 bananas
-      C.	32 bananas  
-      D.	50 bananas
+      A. 16 bananas
+      B. 48 bananas
+      C. 32 bananas  
+      D. 50 bananas
 
-6.    A worker makes a toy in every 2h. If he works for 80h, then how many toys will he make ?
+6. A worker makes a toy in every 2h. If he works for 80h, then how many toys will he make ?
 
-        A.  40
-        B.	54
-        C.	45
-        D.  39
+      A. 40
+      B. 54
+      C. 45
+      D. 39
 
-7 .     If 45 m of a uniform rod weight 171 kg, then what will be the weight of 12   m of the same rod ?
+7 . If 45 m of a uniform rod weight 171 kg, then what will be the weight of 12   m of the same rod ?
 
-        a. 49 kg
-        b. 42.5 kg
-        c. 55 kg
-        d. 45.6 kg	 
+      a. 49 kg
+      b. 42.5 kg
+      c. 55 kg
+      d. 45.6 kg	 
 
-8.     In a race , Ravi covers 5 km in 20 min. How much distance will he cover in 100 min ?
+8. In a race , Ravi covers 5 km in 20 min. How much distance will he cover in 100 min ?
 
-        A.  40 km
-        B.	35 km
-        C.	26 km
-        D.	25 km
+      A. 40 km
+      B. 35 km
+      C. 26 km
+      D. 25 km
  
 9. A tree is 12 m tall and casts an an 8 m long shadow. At the same time, a flag pole caste a 100 m long shadow. How long is the flag pole ?
 
-        a. 150 m
-        b. 200 m
-        c. 125 m 
-        d. 115 m
+      a. 150 m
+      b. 200 m
+      c. 125 m 
+      d. 115 m
       
-10.   If the cost of x meters of wire is ‘d’ rupees, that find the cost (in Rupees) of ‘y’ meters of wire at the same rate.
-dy/x
-x - d
-Vdx
-y+d
-ANSWER
-B
-B
-D
-A
-C
-A
-D
-D
+10. If the cost of x meters of wire is ‘d’ rupees, that find the cost (in Rupees) of ‘y’ meters of wire at the same rate.
 
-Next questions with solutions
+      a. dy/x
+      b. x - d
+      c. Vdx
+      d. y+d
+//ANSWER
+//B
+//B
+//D
+//A
+//C
+//A
+//D
+//D
+
+## Next questions with solutions
 1. 12 typists working for 4 hours to type a book in 18 days. In how many days 4 typists will work for 8 hours to type same book?
 Solution:
 This is a situation of indirect variation.
