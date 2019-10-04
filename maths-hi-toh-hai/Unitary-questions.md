@@ -75,15 +75,15 @@
       b. x - d
       c. Vdx
       d. y+d
-//ANSWER
-//B
-//B
-//D
-//A
-//C
-//A
-//D
-//D
+/*ANSWER
+B
+B
+D
+A
+C
+A
+D
+D/*
 
 ## Next questions with solutions
 1. 12 typists working for 4 hours to type a book in 18 days. In how many days 4 typists will work for 8 hours to type same book?
