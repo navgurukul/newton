@@ -167,7 +167,7 @@ Ab yeh questions solve kariye:
       d. 240
       e. 245
       
-7. C___BBA___CAB___AC____AB___Ac.
+7. C _ BBA _ CAB _ AC _ AB _ Ac.
    
    a. ABCBC
    b. ACBCB
@@ -175,12 +175,28 @@ Ab yeh questions solve kariye:
    d. BCACB
    e. None of these
    
-8. ABCA___ bcaab — ca — bbc — a
-      ccaa
-      bbaa
-      abac
-      abba
-      None of these
+8. ABCA _ BCaAAB _ CA _ bbc _ A
+
+     a. ccaa
+     b. bbaa
+     c. abac
+     d. abba
+     e. NONE OF THESE
+    
+9. AAB _ CC _ DAA _ BBB _ CCDDD
+
+      a. BDBD
+      b. DDCA
+      C. DBBC
+      D. BDAC
+      E.NONE OF THESE
+      
+10. BA _ B _ AAB _ A _ B
+      a.abaa
+      b. abba
+      c. baab
+      d. babb
+      e. None of these
 
 
 
