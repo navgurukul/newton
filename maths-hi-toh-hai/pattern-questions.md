@@ -105,7 +105,7 @@ Ab yeh questions solve kariye:
       C. 200 
       D. 270
 
-7. 7, 15, 42, 106, ….
+7. 7, 15, 42, 106,.....?
      a.  120
      b.  231
      c.  233
@@ -225,10 +225,10 @@ Ab yeh questions solve kariye:
 4) D
 5) C
 6) B
-7)
-8)
-9)
-10
+7) B
+8) C
+9) A
+10 A
 
 
 # ANS OF Hard Questions
