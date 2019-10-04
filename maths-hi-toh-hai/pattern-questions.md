@@ -74,11 +74,11 @@ Ab yeh questions solve kariye:
     c.  80
     d.  62
           
-2. 44, 41, 38, 35, 32, 29, 26, ...
-    a.  24
-    b.  22
-    c. 23
-    d.  19
+2. 2,2,12,12,30,30,....
+    a.  25.0
+    b.  56.0
+    c. 52.0
+    d.  72.0
           
 3. 3, 4, 7, 8, 11, 12, ...
       a. 7
@@ -98,11 +98,12 @@ Ab yeh questions solve kariye:
        c. 162
        d. 216
              
-6. 8, 12, 20, 36, 68, ….
-   a.   128
-   b.   110
-   c.   132
-   d.   164
+6. 2, 12, 36, 80, 150, ?
+
+      A. 250 
+      B. 252 
+      C. 200 
+      D. 270
 
 7. 7, 15, 42, 106, ….
      a.  120
@@ -199,6 +200,12 @@ Ab yeh questions solve kariye:
       d. babb
       e. None of these
       
+11. (1-1/6) (1-1/7).... (1- (1/ (n+4))) (1-(1/ (n+5))) = ?
+      a. 1/(n+5)
+      b. 3/(n+5)
+      c. 5/(n+5)
+      d. 3/(n+5)
+      
 # ANS OF Easy Questions 
 1) a. 13
 2) 16
@@ -212,12 +219,12 @@ Ab yeh questions solve kariye:
 10) 63
 
 # ANS OF medium Questions 
-1)
-2)
-3)
-4)
-5)
-6)
+1) D
+2) B
+3) D
+4) D
+5) C
+6) B
 7)
 8)
 9)
@@ -235,6 +242,7 @@ Ab yeh questions solve kariye:
 8) C
 9) D
 10) B
+11) C
       
 
 
