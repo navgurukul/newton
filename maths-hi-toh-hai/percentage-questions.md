@@ -182,6 +182,7 @@ Ab yeh questions solve kariye:
         c. 39 .0 %
         
         d. 0.0023 %
+        
 ## Practice Questions:
 
    Hard questions :
