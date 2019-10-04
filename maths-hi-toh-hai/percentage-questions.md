@@ -176,13 +176,13 @@ Ab yeh questions solve kariye:
 10.  0.23 %
 
         a. 2 %
-        
+
         b. 10.0 %
-        
+
         c. 39 .0 %
-        
+
         d. 0.0023 %
-        
+
 ## Practice Questions:
 
    Hard questions :
