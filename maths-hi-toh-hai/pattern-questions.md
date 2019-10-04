@@ -38,9 +38,9 @@ ans:
    
   2, 8, 14, 20,.......?
    
-5.questions 
+5.questions  
    
-  200, 192, 184, 176....?, 168.
+  200, 192, 184, 176....?, 160.
    
 6.questions
    
@@ -56,11 +56,11 @@ ans:
 
 9. questions
 
-  7, 10, 8, 11, 9, 12, .....?
-   
+222, 350, 520,... ?
+
 10. questions
 
-  22, 21, 23, 22, 24, 23, ......?
+1, 3, 7, 15, 31,....?
 
 ## Practice Questions: 
 
@@ -197,6 +197,44 @@ Ab yeh questions solve kariye:
       c. baab
       d. babb
       e. None of these
+      
+# ANS OF Easy Questions 
+1) a. 13
+2) 16
+3) 61
+4) 26
+5) 168
+6) 720
+7) 7
+8) 6
+9) 738
+10) 63
+
+# ANS OF medium Questions 
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10
+
+
+# ANS OF Hard Questions
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+      
 
 
 
