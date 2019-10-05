@@ -248,3 +248,30 @@ Ab yeh questions solve kariye:
         d. 4:3
 
 
+Easy Answer:
+1. Solution
+2. 9 ans
+3. 30 ans
+4. 50 ans
+5. 20 ans
+
+medium Answer:
+1. 0.06 ans
+2. 0.72 ans
+3. 1.25 ans
+4. 12/25 ans
+5. 11/5 ans
+6. 1/40 ans
+7. 36 ans
+8. 2.4 ans
+9. 0.036 ans
+10. 0.0023 ans
+
+
+Hard Answer:
+1. Solution
+2. 45 %
+3. 20 %
+4. 500 m
+5. 100 %
+6. 4:3 
