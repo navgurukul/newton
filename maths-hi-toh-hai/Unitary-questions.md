@@ -1,6 +1,6 @@
 # Unitary method
 
-## The unitary method is a technique for solving a problem by first finding the value of a single unit,and then finding the necessary value by multiplying the single unit value.in essence,this method  is ussed to find the value of a unit from the value of a multiple,and hence the value of a multiple..
+### The unitary method is a technique for solving a problem by first finding the value of a single unit,and then finding the necessary value by multiplying the single unit value.in essence,this method  is ussed to find the value of a unit from the value of a multiple,and hence the value of a multiple..
 
 
 ### Iss category ko samajne ke liye iss video ko dekhe..
@@ -9,7 +9,7 @@
 2. [https://www.youtube.com/watch?v=56Cn9HgeyTM](https://www.youtube.com/watch?v=56Cn9HgeyTM)
 3. [https://www.youtube.com/watch?v=_8MBeTOFtGk](https://www.youtube.com/watch?v=_8MBeTOFtGk)
 
-## QUESTIONS:
+### QUESTIONS:
 
 1. If 20 articles cost ₹ 90, then the cost of 9 articles is ?
 
@@ -119,8 +119,7 @@
 
 
 
-## EASY  QUESTIONS
-
+### EASY  QUESTIONS
 Solve this question
 
 1. In a dairy farm, 40 cows eat 40 bags of husk in 40 days. In how many days one cow will eat one bag of husk?
@@ -145,8 +144,8 @@ Solve this question
 
 
 
-## MEDIUM QUESTIONS
 
+### MEDIUM QUESTIONS
 Solve this questions:
 
 1. A water Tank can be filled in 7 hours by equal sized pumps working together.How much time will 7 pumps take to fill up?
@@ -172,8 +171,8 @@ Solve this questions:
 10. 2 school bags cost $ 276.find the cost of 88 such bags.
 
 
-## DIFFICULT QUESTIONS
 
+### DIFFICULT QUESTIONS
 Solve this Questions:
 
 1. IF 6 note books cost $ 45,then how much 8 note books costs?
@@ -197,6 +196,7 @@ Solve this Questions:
 10. A man spends his three months income in four month time. If his monthly income is Rs. 1,000 then his annual savings is.
 
 
+
 QUESTIONS:
 ANSEWER:
 B
@@ -209,6 +209,7 @@ D
 D
 A
 C
+
 
 EASY  QUESTIONS
 ANSWER:
@@ -224,6 +225,7 @@ ANSWER:
 10. 2875
 
 
+
 MEDIUM QUESTIONS
 ANSWER:
 1. 7 pumps
@@ -236,6 +238,7 @@ ANSWER:
 8. $630
 9. $1555
 10. $12144
+
 
 
 DIFFICULT QUESTIONS
