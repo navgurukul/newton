@@ -13,13 +13,7 @@
 4. [https://www.youtube.com/watch?v=v-H0ARjcKrY](https://www.youtube.com/watch?v=v-H0ARjcKrY)
 
 
-Practice Questions:
-
-Ab yeh questions solve kariye:
-
-Level = easy
-
-Problem 1
+# Level = easy
 Find the solution n to the equation n + 2 = 6
  
 solution:
@@ -29,8 +23,40 @@ solution:
     n=4
 So answer is the value of n is 4.
 
+# Level:Medium
+Solve the equation 8+2(x-4)=16.
+ 
+Solution:
+First, we remove the parentheses and get 8+2x-2⋅4=16, or 8+2x-8=16, which gives us 2x=16. We divide by 2 in order to get x=8.
+ 
+Solve the equation 3(n+15)=30+6n.
+ 
+Solution:
+We first remove the parentheses on the left side and get 3n+3⋅15=30+6n, or 3n+45=30+6n. We substract 3n from both sides and get 45=30+3n. We substract 30 from both sides and get 15=3n. By dividing both sides by 3, we get the final answer n=5. 
+Second solution: we divide both sides by 3, getting n+15=10+2n. Substracting n from both sides, we get 15=10+n. The final answer is reached by substracting 10 from both sides.
 
-Problem 2
+# Level :Difficult
+A number is equal to 7 times itself minus 18. Which is the number?
+Solution:
+The statement is equivalent to the following equation:
+
+    x=7x−18
+    18=7x−x
+    6x=18
+    x=3
+ 
+A number is equal to 4 times this number less 75. What is the number?
+Solution:
+Let us denote the number with n. The problem can be rewritten as n=4n-75. By substracting n from both sides, we get 3n-75=0. Now we divide both sides by 3 to get n-25=0, or n=25.
+
+
+### Practice Questions:
+
+Ab yeh questions solve kariye:
+
+Level = easy
+
+Problem 1
 Solve the equation z - 5 = 6.
 
     a)12
@@ -39,7 +65,7 @@ Solve the equation z - 5 = 6.
     d)14
  
 
-Problem 3
+Problem 2
 Solve the equation 5 - t = 0.
 
     a)5
@@ -48,7 +74,7 @@ Solve the equation 5 - t = 0.
     d)9
  
  
-Problem 4
+Problem 3
 Solve the equation: n + 7=13
 
     a)8
@@ -57,7 +83,7 @@ Solve the equation: n + 7=13
     d)12
  
  
-Problem 5
+Problem 4
 Solve the equation:
 
     x+34=82
@@ -68,7 +94,7 @@ Solve the equation:
  
  
  
-Problem 6
+Problem 5
 Solve the linear equation 3-a=2a.
 
     a)5
@@ -78,7 +104,7 @@ Solve the linear equation 3-a=2a.
  
  
  
-Problem 7
+Problem 6
 Solve the linear equation :
 2x−20=10
 
@@ -88,7 +114,7 @@ Solve the linear equation :
     d)18
  
  
-Problem 8
+Problem 7
 Solve the equation :
 20−2x=18
 
@@ -97,7 +123,7 @@ Solve the equation :
     c)1
     d)7
  
-Problem 9
+Problem 8
 Find c, if 
 5c−2=33.
 
@@ -107,7 +133,7 @@ Find c, if
     d)12
  
  
-Problem 10
+Problem 9
 Solve the equation 
 4x=72
 
@@ -117,33 +143,16 @@ Solve the equation
     d)18
  
 # Level:Medium
+
 Problem 1
-Solve the equation 8+2(x-4)=16.
- 
-Solution:
-First, we remove the parentheses and get 8+2x-2⋅4=16, or 8+2x-8=16, which gives us 2x=16. We divide by 2 in order to get x=8.
- 
- 
-Problem 2
-Solve the equation 3(n+15)=30+6n.
- 
-Solution:
-We first remove the parentheses on the left side and get 3n+3⋅15=30+6n, or 3n+45=30+6n. We substract 3n from both sides and get 45=30+3n. We substract 30 from both sides and get 15=3n. By dividing both sides by 3, we get the final answer n=5. 
-Second solution: we divide both sides by 3, getting n+15=10+2n. Substracting n from both sides, we get 15=10+n. The final answer is reached by substracting 10 from both sides.
- 
- 
- 
- 
-Problem 3
-If 
-x+1+x+2+x+3+x−1+x−2+x−3=24, find x.
+If x+1+x+2+x+3+x−1+x−2+x−3=24, find x.
 
     a)8
     b)6
     c)5
     d)4
 
-Problem 4
+Problem 2
 Find the solution x to the equation
 x+2x+3x+4x=23780
 
@@ -152,7 +161,7 @@ x+2x+3x+4x=23780
     c)2378
     d)5643
  
-Problem 5
+Problem 3
 12 – (4х – 18) = (36 + 4х) + (18 – 6х)
 
     a)-23
@@ -162,7 +171,7 @@ Problem 5
 
  
  
-Problem 6
+Problem 4
 A number equals 5 times itself. What is the number?
 
     a)0
@@ -171,25 +180,9 @@ A number equals 5 times itself. What is the number?
     d)3
  
  
-Level :Difficult
+# Level :Difficult
  
 Problem 1
-A number is equal to 7 times itself minus 18. Which is the number?
-Solution:
-The statement is equivalent to the following equation:
-
-    x=7x−18
-    18=7x−x
-    6x=18
-    x=3
- 
- 
-Problem 2
-A number is equal to 4 times this number less 75. What is the number?
-Solution:
-Let us denote the number with n. The problem can be rewritten as n=4n-75. By substracting n from both sides, we get 3n-75=0. Now we divide both sides by 3 to get n-25=0, or n=25.
- 
-Problem 3
 Two times a number, decreased by 12 equals three times the number, decreased by 15. Which is the number?
 
     a)2
@@ -198,7 +191,7 @@ Two times a number, decreased by 12 equals three times the number, decreased by 
     d)9
  
  
-Problem 4
+Problem 2
 Twice a number equals 5 times the same number plus 18. Which is the number?
 
     a)-3
@@ -206,7 +199,7 @@ Twice a number equals 5 times the same number plus 18. Which is the number?
     c)-9
     d)-6
  
-Problem 5
+Problem 3
 If a + b= 29 , b + c = 45, a + c = 44
 Find a + b + c = ?
 
@@ -217,32 +210,27 @@ Find a + b + c = ?
 
 Answer of easy level: 
 
-    1.solved
-    2.b
-    3.a
-    4.b
-    5.a
+    1.b
+    2.a
+    3.b
+    4.a
+    5.b
     6.b
-    7.b
+    7.c
     8.c
-    9.c
-    10.d
+    9.d
  
 Answer of Medium level:
 
-    1.solved
-    2.solved
-    3.d
-    4.c
-    5.b
-    6.a
+    1.d
+    2.c
+    3.b
+    4.a
 
 
 Answer of Difficult level:
 
-    1.solved
-    2.solved
-    3.b
-    4.d
-    5.c 
+    1.b
+    2.d
+    3.c 
 
