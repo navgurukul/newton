@@ -20,7 +20,7 @@
 
 ## Practice Questions:
 
-Easy Questions:
+### Easy Questions:
 
 1. What is 30 % of 80?
 
@@ -35,9 +35,25 @@ Easy Questions:
         = 2400/100
 
         = 24
-Ab yeh questions solve kariye:
+        
+ ### Hard questions :
 
-2. What is 10 % of 90?
+1. Ron scored 344 marks out of 400 marks and his elder brother Ben scored 582 marks out of 600 marks. Who scored percentage is better? 
+        Solution:
+
+        Percentage of marks scored by Ron = (344/400 × 100) %
+
+                                                = (34400/400) %
+
+                                                = (344/4) %
+
+                                                = 86 %
+                                                
+   
+Ab yeh questions solve kariye:
+### Easy Questions:
+
+1. What is 10 % of 90?
 
         a. 9 %
 
@@ -47,7 +63,7 @@ Ab yeh questions solve kariye:
 
         d. 20 %
 
-3. What is 25 % of 120?
+2. What is 25 % of 120?
 
         a. 24 %
 
@@ -57,7 +73,7 @@ Ab yeh questions solve kariye:
 
         d. 30 %
         
-4. What is 50 % of 100?
+3. What is 50 % of 100?
 
         a. 30 %
         
@@ -67,7 +83,7 @@ Ab yeh questions solve kariye:
         
         d. 50 %
         
-5. What is 40 % of 50?
+4. What is 40 % of 50?
  
         a. 50 %
         
@@ -79,8 +95,7 @@ Ab yeh questions solve kariye:
 
 ## Practice Questions:
 
-   medium questions :
-
+### medium questions :
 Ab yeh questions solve kariye:
 
 1.  6 %
@@ -185,20 +200,9 @@ Ab yeh questions solve kariye:
 
 ## Practice Questions:
 
-   Hard questions :
-
-1. Ron scored 344 marks out of 400 marks and his elder brother Ben scored 582 marks out of 600 marks. Who scored percentage is better? 
-        Solution:
-
-        Percentage of marks scored by Ron = (344/400 × 100) %
-
-                                                = (34400/400) %
-
-                                                = (344/4) %
-
-                                                = 86 %
+### Hard questions :
                                                 
-2. In final exam of class IX there are 50 students 10 % students failed. How many students passed to class X?
+1. In final exam of class IX there are 50 students 10 % students failed. How many students passed to class X?
 
         a. 55 %
         
@@ -208,7 +212,7 @@ Ab yeh questions solve kariye:
         
         d. 40 %
         
-3. In a class of 50 students, 40 % are girls. Find the number of girls and number of boys in the class?
+2. In a class of 50 students, 40 % are girls. Find the number of girls and number of boys in the class?
 
         a. 20 %
         
@@ -218,7 +222,7 @@ Ab yeh questions solve kariye:
         
         d. 15 %
         
-4. Victor gets 92 % marks in examinations. If these are 460 marks, find the maximum marks.
+3. Victor gets 92 % marks in examinations. If these are 460 marks, find the maximum marks.
 
         a. 100 m
         
@@ -227,7 +231,7 @@ Ab yeh questions solve kariye:
         c. 250 m
         
         d. 500 m
-5. In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is  of the number of students of 8 years of age which is 48. What is the total number of students in the school?
+4. In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is  of the number of students of 8 years of age which is 48. What is the total number of students in the school?
 
         a. 100 %
         
@@ -237,7 +241,7 @@ Ab yeh questions solve kariye:
         
         d. 120 %
         
-6. Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.
+5. Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.
 
         a. 4:5
         
@@ -248,14 +252,13 @@ Ab yeh questions solve kariye:
         d. 4:3
 
 
-Easy Answer:
-1. Solution
-2. 9 ans
-3. 30 ans
-4. 50 ans
-5. 20 ans
+### Easy Answer:
+1. 9 ans
+2. 30 ans
+3. 50 ans
+4. 20 ans
 
-medium Answer:
+### medium Answer:
 1. 0.06 ans
 2. 0.72 ans
 3. 1.25 ans
@@ -268,10 +271,9 @@ medium Answer:
 10. 0.0023 ans
 
 
-Hard Answer:
-1. Solution
-2. 45 %
-3. 20 %
-4. 500 m
-5. 100 %
-6. 4:3 
+### Hard Answer:
+1. 45 %
+2. 20 %
+3. 500 m
+4. 100 %
+5. 4:3 
