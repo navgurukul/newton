@@ -1,9 +1,16 @@
-##                             welcome to Navgurukul study guide:
+##                             ***welcome to Navgurukul study guide***
 ### this study guide will help you to prepare for navgurukul written test and logical interview.
 ### yah jo page hain aap log ko navgurukul likhit test or logical interview ke liye hain:
 
 ### Navgurukul Test procers:
 ### Navgurukul Test kee procers:
+
+
+
+
+
+
+
 
 ### How to use this guide:
 ### Is gaid ka upayog kaise karen:
