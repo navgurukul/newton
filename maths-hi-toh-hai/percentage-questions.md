@@ -38,8 +38,8 @@
         
  ### Hard questions :
 
-1. Ron scored 344 marks out of 400 marks and his elder brother Ben scored 582 marks out of 600 marks. Who scored percentage is better? 
-1. ron ne 400 ankon mein se 344 number haasil kie aur unake bade bhaee ben ne 600 ankon mein se 582 number haasil kie. kisane skor kiya behatar?
+1. Ron scored 344 marks out of 400 marks and his elder brother Ben scored 582 marks out of 600 marks. Who percentage is better? 
+1. ron ne 400 ankon mein se 344 number haasil kie aur unake bade bhaee ben ne 600 ankon mein se 582 number haasil kie. kisane  behatar skor kiya?
         Solution:
 
         Percentage of marks scored by Ron = (344/400 × 100) %
