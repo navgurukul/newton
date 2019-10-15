@@ -1,11 +1,11 @@
 #                             ***welcome to Navgurukul study guide***
-### this study guide will help you to prepare for navgurukul written test and logical interview.
-### yah jo page hain aap log ko navgurukul likhit test or logical interview ke liye hain:
+###  This study guide will help you to prepare for navgurukul written test and logical interview.
+### Yah jo page hain aap log ko navgurukul likhit test or logical interview ke liye hain:
 
 ### Here's the blurb for selection process
-### yahaan selection process ke lie upalabdh hai
+### Yahaan selection process ke lie upalabdh hai
 ### Navgurukul selection process includes the following steps:
-### navagurukul selection process mein nimnalikhit selection shaamil hain:
+### Navagurukul selection process mein nimnalikhit selection shaamil hain:
 
 1.	An hour long, written/online entrance test to evaluate your logical ability
    apane Logical ability ka moolyaankan(Evaluation) karane ke lie ek ghante lamba, likhit/onalain pravesh pareeksha
@@ -25,9 +25,9 @@ Upon successful completion of all the above steps, we will inform your on your s
 ### How to use this guide:
 ### Is gaid ka upayog kaise karen:
 
-right side of this page you con see enroll in course below that pattern questions, percentage questions, linear questions, unitary questions, so first click on pattern questions in that some questions are sorted already you can watch videos also to understand in a better way and practise more questions related to it so practise more as like the previous process learn and practise parcentage questions, linear questions, unitary questions to be prepare for the logical interview test.
+Right side of this page you con see enroll in course below that pattern questions, percentage questions, linear questions, unitary questions, so first click on pattern questions in that some questions are sorted already you can watch videos also to understand in a better way and practise more questions related to it so practise more as like the previous process learn and practise parcentage questions, linear questions, unitary questions to be prepare for the logical interview test.
 
-is Page ke right or jo aap dekhate hain, usake neeche naamaankan ko dekhen pattern questions, percentage questions, linear questions, unitary questions, isalie sabase pahale pattern questions par klik karen jisamen kuchh questions pahale se hee kie gae hain, or aap video ko behatar tarike se samajhane ke lie bhee dekh sakate hain aur isase sambandhit adhik question ka abhyaas kar sakate hain taaki pichhale prakriya kee tarah adhik abhyaas karen aur parcentage questions, linear questions, unitary questions seekhen. Logical interview test kee taiyaaree karana.
+Is Page ke right or jo aap dekhate hain, usake neeche naamaankan ko dekhen pattern questions, percentage questions, linear questions, unitary questions, isalie sabase pahale pattern questions par klik karen jisamen kuchh questions pahale se hee kie gae hain, or aap video ko behatar tarike se samajhane ke lie bhee dekh sakate hain aur isase sambandhit adhik question ka abhyaas kar sakate hain taaki pichhale prakriya kee tarah adhik abhyaas karen aur parcentage questions, linear questions, unitary questions seekhen. Logical interview test kee taiyaaree karana.
 
 ### Tests for Navgurukul:
 ### Navgurukul ke li test:
@@ -35,10 +35,10 @@ is Page ke right or jo aap dekhate hain, usake neeche naamaankan ko dekhen patte
 ### Tips: 
 
 1. Don't scare to math.
-   math se daren nahi.
+   Math se daren nahi.
   
 2. Do logical question.
-   logical questions karen.
+   Logical questions karen.
    
-3. just practise these question and you will be ready for interview.
-   bas in question ka abhyaas karen aur aap interview ke lie taiyaar ho jaenge.
+3. Just practise these question and you will be ready for interview.
+   Bas in question ka abhyaas karen aur aap interview ke lie taiyaar ho jaenge.
