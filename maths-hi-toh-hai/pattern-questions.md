@@ -10,7 +10,7 @@
 
 4. [https://youtu.be/SmbOlfmoRIQ](https://youtu.be/SmbOlfmoRIQ)
 
-## Practice Questions: 
+## Practice Question: 
 
 Easy Questions
 
@@ -62,7 +62,7 @@ ans:
 
 1, 3, 7, 15, 31,....?
 
-## Practice Questions: 
+## Practice Question: 
 
    medium questions :
 
@@ -132,7 +132,7 @@ Ab yeh questions solve kariye:
    c. 23.0
    d. 21.0
 
-## Practice Questions: 
+## Practice Question: 
 
    Hard questions:
    
@@ -206,7 +206,7 @@ Ab yeh questions solve kariye:
       c. 5/(n+5)
       d. 3/(n+5)
       
-# ANS OF Easy Questions 
+# ANS OF Easy Question
 1) a. 13
 2) 16
 3) 61
@@ -218,7 +218,7 @@ Ab yeh questions solve kariye:
 9) 738
 10) 63
 
-# ANS OF medium Questions 
+# ANS OF medium Question
 1) D
 2) B
 3) D
@@ -231,7 +231,7 @@ Ab yeh questions solve kariye:
 10 A
 
 
-# ANS OF Hard Questions
+# ANS OF Hard Question
 1) 64
 2) 225
 3) D
