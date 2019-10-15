@@ -23,7 +23,7 @@ Upon successful completion of all the above steps, we will inform your on your s
 
 
 ### How to use this guide:
-### Is gaid ka upayog kaise karen:
+### Is guide ka upayog kaise karen:
 
 Right side of this page you con see enroll in course below that pattern questions, percentage questions, linear questions, unitary questions, so first click on pattern questions in that some questions are sorted already you can watch videos also to understand in a better way and practise more questions related to it so practise more as like the previous process learn and practise parcentage questions, linear questions, unitary questions to be prepare for the logical interview test.
 
