@@ -20,8 +20,6 @@
 
 
 Upon successful completion of all the above steps, we will inform your on your selection, help you discuss with your family members and have you onboarded. And through the entire process, all of us at Navgurukul will support you in all possible ways. So be relaxed, work hard and ask for help whenever you need.
-Sorry about the delay. I'll apologize to you in person
-Also please translate this into hinglish
 
 
 ### How to use this guide:
