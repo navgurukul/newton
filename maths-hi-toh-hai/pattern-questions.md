@@ -24,7 +24,7 @@ ans:
 9+2 = 11
 11+2 = 13. So final ans 13 hoga 
    
- 2.questions 
+ 2.question
  
   4, 7, 10, 13.....?, 19.
   
@@ -64,7 +64,7 @@ ans:
 
 ## Practice Question: 
 
-   medium questions :
+   medium question :
 
 Ab yeh questions solve kariye:
 
@@ -134,7 +134,7 @@ Ab yeh questions solve kariye:
 
 ## Practice Question: 
 
-   Hard questions:
+   Hard question:
    
  1. 1, 4, 9, 16, 25, 36, 49,.....?
  
