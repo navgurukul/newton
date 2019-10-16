@@ -7,16 +7,16 @@
 ### Navgurukul selection process includes the following steps:
 ### Navagurukul selection process mein nimnalikhit selection shaamil hain:
 
-1.	An hour long, written/online entrance test to evaluate your logical ability
-   apane Logical ability ka moolyaankan(Evaluation) karane ke lie ek ghante lamba, likhit/onalain pravesh pareeksha
+1.	An hour long, written/online entrance test to evaluate your logical ability.
+   apane Logical ability ka moolyaankan(Evaluation) karane ke lie ek ghante lamba, likhit/onalain pravesh pareeksha.
 
-2.	A short test in English to understand whether you are comfortable with a basic level of English
-   english mein ek chhota test yah samajhane ke lie ki kya aap english ke Basic Level ke saath sahaj(Spontaneous) hain
+2.	A short test in English to understand whether you are comfortable with a basic level of English.
+   english mein ek chhota test yah samajhane ke lie ki kya aap english ke Basic Level ke saath sahaj(Spontaneous) hain.
 
-3.	An elaborate test on your logical ability in a telephonic interview to understand how prepared you are to start learning software programming
+3.	An elaborate test on your logical ability in a telephonic interview to understand how prepared you are to start learning software        programming.
    
 
-4.	Immediately following your logical interview, a conversation about your personal journey so far and where you wish to go from here, to understand whether Navgurukul community could be relevant and appropriate for you
+4.	Immediately following your logical interview, a conversation about your personal journey so far and where you wish to go from here,       to understand whether Navgurukul community could be relevant and appropriate for you.
 
 
 Upon successful completion of all the above steps, we will inform your on your selection, help you discuss with your family members and have you onboarded. And through the entire process, all of us at Navgurukul will support you in all possible ways. So be relaxed, work hard and ask for help whenever you need.
