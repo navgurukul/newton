@@ -29,39 +29,74 @@ Easy Questions
   4, 7, 10, 13.....?, 19.
   
  question mark ke pass socho kya ans aayega..
- a.
+      a. 14
+      b. 20
+      c. 16
+      d. 30
   
 3.questions
 
   7, 16, 25, 34, 43, 52.....?
+      a. 61
+      b. 12
+      c. 44
+      d. 55
   
 4.questions
    
   2, 8, 14, 20,.......?
+      a. 33
+      b. 26
+      c. 43
+      d. 11
    
 5.questions  
    
-  200, 192, 184, 176....?, 160.
+ 200, 192, 184, 176....?, 160.
+      a. 132
+      b. 123
+      c. 168
+      d. 22
    
 6.questions
    
   6, 12, 36, 144, 144........?
+      a. 720
+      b. 222
+      c. 123
+      d. 155
 
 7.questions (Division series)
 
   4500, 900, 180, 36.....?
+      a. 7
+      b. 12
+      c. 76
+      d. 1
 
 8. questions (Division series)
 
   15120, 2160, 360, 72, 18......?
+      a. 3
+      b. 6
+      c. 2
+      d. 55
 
 9. questions
 
 222, 350, 520,... ?
+      a. 738
+      b. 12
+      c. 988
+      d. 555
 
 10. questions
 
 1, 3, 7, 15, 31,....?
+      a. 63
+      b. 60
+      c. 51
+      d. 97
 
 ## Practice Question: 
 
@@ -70,16 +105,16 @@ Easy Questions
 Ab yeh questions solve kariye:
 
 1. 14, 26, 38, 50, ...
-    a.  60
-    b.  52
-    c.  80
-    d.  62
+      a.  60
+      b.  52
+      c.  80
+      d.  62
           
 2. 2,2,12,12,30,30,....
-    a.  25.0
-    b.  56.0
-    c. 52.0
-    d.  72.0
+      a.  25.0
+      b.  56.0
+      c. 52.0
+      d.  72.0
           
 3. 3, 4, 7, 8, 11, 12, ...
       a. 7
@@ -101,37 +136,37 @@ Ab yeh questions solve kariye:
              
 6. 2, 12, 36, 80, 150, ?
 
-      A. 250 
-      B. 252 
-      C. 200 
-      D. 270
+      a. 250 
+      b. 252 
+      c. 200 
+      d. 270
 
 7. 7, 15, 42, 106,.....?
-     a.  120
-     b.  231
-     c.  233
-     d.  181
+      a.  120
+      b.  231
+      c.  233
+      d.  181
            
 8. 222, 350, 520,...... ?
   
-   a. 728
-   b. 729
-   c. 738
-   d. 741
+      a. 728
+      b. 729
+      c. 738
+      d. 741
          
 9. 1, 3, 7, 15, 31,........ ?
 
-   a. 63
-   b. 64
-   c. 53
-   d. 74
+      a. 63
+      b. 64
+      c. 53
+      d. 74
    
 10.  1, 5, 13, 25,.......... ?
 
-   a. 41.0
-   b. 44.0
-   c. 23.0
-   d. 21.0
+      a. 41.0
+      b. 44.0
+      c. 23.0
+      d. 21.0
 
 ## Practice Question: 
 
@@ -171,11 +206,11 @@ Ab yeh questions solve kariye:
       
 7. C _ BBA _ CAB _ AC _ AB _ Ac.
    
-   a. ABCBC
-   b. ACBCB
-   c. BABCC
-   d. BCACB
-   e. None of these
+     a. ABCBC
+     b. ACBCB
+     c. BABCC
+     d. BCACB
+     e. None of these
    
 8. ABCA _ BCAAAB _ CA _ BBA _ A
 
@@ -189,9 +224,9 @@ Ab yeh questions solve kariye:
 
       a. BDBD
       b. DDCA
-      C. DBBC
-      D. BDAC
-      E.NONE OF THESE
+      c. DBBC
+      d. BDAC
+      e.NONE OF THESE
       
 10. BA _ B _ AAB _ A _ B
 
