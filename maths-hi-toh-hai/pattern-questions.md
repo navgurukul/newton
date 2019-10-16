@@ -73,7 +73,7 @@ Easy Questions
       b. 12
       c. 76
       d. 1
-
+      
 8. questions (Division series)
 
   15120, 2160, 360, 72, 18......?
