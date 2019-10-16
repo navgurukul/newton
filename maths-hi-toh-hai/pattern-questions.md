@@ -16,19 +16,20 @@ Easy Questions
 
 1. 1,3,5,7,9,11......?? Yaha par ye soche ki question mark ke jagah par kya aayega.
    
-ans:
-1+2 = 3
-3+2 = 5
-5+2 = 7
-7+2 = 9
-9+2 = 11
-11+2 = 13. So final ans 13 hoga 
-   
+      ans:
+      1+2 = 3
+      3+2 = 5
+      5+2 = 7
+      7+2 = 9
+      9+2 = 11
+      11+2 = 13. So final ans 13 hoga 
+
  2.question
  
   4, 7, 10, 13.....?, 19.
   
-  Yaha par question mark pe pass socho kya aayega.
+ question mark ke pass socho kya ans aayega..
+ a.
   
 3.questions
 
@@ -207,7 +208,7 @@ Ab yeh questions solve kariye:
       d. 3/(n+5)
       
 # ANS OF Easy Question
-1) a. 13
+1) 13
 2) 16
 3) 61
 4) 26
