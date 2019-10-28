@@ -1,52 +1,32 @@
-#                             ***welcome to Navgurukul study guide***
-###  This study guide will help you to prepare for navgurukul written test and logical interview.
-### Yah jo page hain aap log ko navgurukul likhit test or logical interview ke liye hain:
+#                             ***Study Guide to Prepare for Admission in Navgurukul***
+                              ***नवगुरुकुल में एडमिशन की तैयारी के लिए study guide***
 
-### Here's the blurb for selection process
-### Yahaan selection process ke lie upalabdh hai
-### Navgurukul selection process includes the following steps:
-### Navagurukul selection process mein nimnalikhit selection shaamil hain:
+**Navgurukul Program Introduction** : Navgurukul is a free one year program to learn software engineering, English and leadership skills. It comes with a guaranteed job in reputed companies with starting salaries between Rs.20,000 to Rs.40,000. It is a residential learning program. Girls campus is in Bangalore and Boys campus is in Dharamshala (Himachal Pradesh). 
 
-1.	An hour long, written/online entrance test to evaluate your logical ability.
+(**नवगुरुकुल के प्रोग्राम का परिचय** नवगुरुकुल एक साल का सॉफ्टवेयर इंजीनियरिंग का फ्री प्रोग्राम है| सॉफ्टवेयर इंजीनियरिंग के साथ साथ आप इंग्लिश और पर्सनालिटी डेवलपमेंट भी सीखेंगे|कोर्स ख़तम होने पर आपको अच्छी companies में job भी लगवाई जाएगी जिनमें शुरुवात में income Rs.20,000 to Rs.40,000 तक होगी| यह एक आवासीय कोर्स है जिसमें लड़को का कैंपस धर्मशाला (हिमाचल प्रदेश) में है और लड़कियों का कैंपस बैंगलोर में है|)
 
-      apane Logical ability ka moolyaankan(Evaluation) karane ke lie ek ghante lamba, likhit/onalain pravesh pareeksha.
+**Navgurukul Admissions Process** : Each applicant has to go through three steps during the admission process:
 
-2.	A short test in English to understand whether you are comfortable with a basic level of English.
+1) *Maths written test* - It contains questions on 8th-10th grade maths on four topics: ratios and proportions, unitary method, percentages, and basic algebra. This test is 1.5 hrs long. The students can give the test on their smartphone by calling on 011 4084 6385 and press 2. They will get a link to give the test on text. Or an NGO/School can conduct the test for interested students. 
 
-      english mein ek chhota test yah samajhane ke lie ki kya aap english ke Basic Level ke saath sahaj(Spontaneous) hain.
+2) *Algebra Interview* - If the first step is cleared, a 40-50 mins interview will be taken to test your knowledge about basic algebra (linear equations)
 
-3.	An elaborate test on your logical ability in a telephonic interview to understand how prepared you are to start learning software        programming.
+3) *English and Culture-Fit Interview* - If the second step is also cleared, a 40-50 mins interview will be taken to understand your level of English and whether you will enjoy Navgurukul's community and learning culture. This conversation would be centered around your upbrining, your family background, your beliefs and understanding about social issues etc.
 
-      Software prograaming seekhana shuroo karane ke lie aap kitane taiyaar hain, yah samajhane ke lie ek teleephonik interview mein           aapaki Logical kshamata(ability) par Detailed test.
+(**नवगुरुकुल के admissions की प्रक्रिया**: नवगुरुकुल में admission लेने के लिए निम्नलिखित तीन test और इंटरव्यू होते है:
 
+1. *गणित का लिखित टेस्ट* - इस टेस्ट में 8th-10th क्लास के गणित के सवाल होंगे | इसमें चार मुख्य टॉपिक्स पर क़ुएस्तिओन्स आएंगे : ratios and proportions, unitary method, percentages, and basic अलजेब्रा. यह टेस्ट १.५ घंटे का होगा | इस टेस्ट को देने के लिए अपने स्मार्टफोन से 011 4084 6385 पे कॉल करे और २ दबाये|आपके फ़ोन पे एक लिंक आएगी जिसको उसे करके आप टेस्ट दे सकते है. यदि स्मार्टफोन नहीं है तोह किसी संसथान या स्कूल टेस्ट करवा सकती है |
 
-4.	Immediately following your logical interview, a conversation about your personal journey so far and where you wish to go from here,      to understand whether Navgurukul community could be relevant and appropriate for you.
+2. *अलजेब्रा/बीजगणित इंटरव्यू* - यदि आपका पहला टेस्ट clear हो गया  तोह एक ४०-५० मिनट का इंटरव्यू लिया जायेगा जिसमें आपके basic बीजगणित के सवाल पूछे जायेंगे |
 
-      aapake Logical interview ke turant baad, aapaki Personal yaatra ke baare mein ek baatacheet aur jahaan aap yahaan se jaane kee           ichchha rakhate hain, yah samajhane ke lie ki kya navagurukul samudaay aapake lie praasangik or upayukt ho sakata hai.
- 
+3. *English और कल्चर-फिट इंटरव्यू* - second स्टेप भी clear करने के बाद, एक ४०-५० mins इंटरव्यू होगा जिसमें आपकी इंग्लिश का लेवल समझा जायेगा | इस इंटरव्यू में यह भी डिसकस करेंगे की आप नवगुरुकुल की कम्युनिटी और कल्चर को एन्जॉय कर पाएंगे या नहीं|)
 
-Upon successful completion of all the above steps, we will inform your on your selection, help you discuss with your family members and have you onboarded. And through the entire process, all of us at Navgurukul will support you in all possible ways. So be relaxed, work hard and ask for help whenever you need.
+**How to use this study guide?** 
+ This guide is to help you practice questions for first and second step. Please practice as many questions as possible and use links of youtube lectures for understanding the concepts. Use the different pages listed on the right side of this page to go to different topics. 
 
-uparokt sabhee charanon ke saphal(Successful) samaapan par, ham aapake selection par aapako soochit karenge, aapake parivaar ke sadasyon ke saath charcha karane mein aapakee madad karenge. aur pooree prakriya ke maadhyam se, navagurukul mein ham sabhee aapako har sambhav tareeke se samarthan karenge. isalie tanaavamukt(stress free) rahen, hard mehanat karen aur jab bhee jaroorat ho madad maange.
+**इस गाइड का उपयोग कैसे करे**
+यह गाइड आपको टेस्ट और इंटरव्यू की तैयारी करवाने के लिए बनवायी गयी है | इसमें जो questions और online videos है उनको उसे करके practice करे |right side में दिए गए अलग-अलग topics पे click करे और practice शुरू कर दे |
 
+**Friendly Tip for Giving Test and Interview** - For getting an admission in Navgurukul, you just need to be hardworking and feel excited to learn. Don't be afraid of maths or this whole process. Just practice and keep trying untill you succeed.
 
-### How to use this guide:
-### Is guide ka upayog kaise karen:
-
-Right side of this page you con see enroll in course below that pattern questions, percentage questions, linear questions, unitary questions, so first click on pattern questions in that some questions are sorted already you can watch videos also to understand in a better way and practise more questions related to it so practise more as like the previous process learn and practise parcentage questions, linear questions, unitary questions to be prepare for the logical interview test.
-
-Is Page ke right or jo aap dekhate hain, usake neeche naamaankan ko dekhen pattern questions, percentage questions, linear questions, unitary questions, isalie sabase pahale pattern questions par klik karen jisamen kuchh questions pahale se hee kie gae hain, or aap video ko behatar tarike se samajhane ke lie bhee dekh sakate hain aur isase sambandhit adhik question ka abhyaas kar sakate hain taaki pichhale prakriya kee tarah adhik abhyaas karen aur parcentage questions, linear questions, unitary questions seekhen. Logical interview test kee taiyaaree karana.
-
-### Tests for Navgurukul:
-### Navgurukul ke li test:
-
-### Tips: 
-
-1. Don't scare to math.
-   Math se daren nahi.
-  
-2. Do logical question.
-   Logical questions karen.
-   
-3. Just practise these question and you will be ready for interview.
-   Bas in question ka abhyaas karen aur aap interview ke lie taiyaar ho jaenge.
+नवगुरुकुल में admission के लिए आप गणित या इंटरव्यू से न घबराये | बस मेहनत करे और सिखने का मज़ा ले | तब तक प्रैक्टिस करे जब तक आपका सिलेक्शन हो नहीं जाता 
