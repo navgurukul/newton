@@ -2,8 +2,8 @@
 - pattern-questions.md
 - percentage-questions.md
 - unitary-method
-    - introduction.md
-    - easy.md
-    - medium.md
-    - hard.md
+    - unitary-method.md
+    - easy-questions.md
+    - medium-questions.md
+    - hard-questions.md
 - linearequation_question.md
