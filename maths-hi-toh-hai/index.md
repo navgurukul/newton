@@ -1,5 +1,9 @@
 - Navgurukul-Introduction.md
-- pattern-questions.md
+- pattern-questions
+    - pattern-questions.md
+    - easy-questions.md
+    - medium-questions.md
+    - hard-questions.md
 - percentage-questions.md
 - unitary-method
     - unitary-method.md
