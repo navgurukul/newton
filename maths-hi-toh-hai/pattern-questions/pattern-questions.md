@@ -7,7 +7,13 @@
 3. [https://youtu.be/IW2XfKCVCSE](https://youtu.be/IW2XfKCVCSE)
 4. [https://youtu.be/SmbOlfmoRIQ](https://youtu.be/SmbOlfmoRIQ)
 
-By solving following *questions* try to understand how "questions on patterns" work.     
+**Practice Questions are given on the right side of this page:
+ Easy Level, Medium Level and Hard Questions**
+ 
+**प्रैक्टिस questions इस पेज के राइट साइड में दिए हुए है**
+
+See sample questions and solutions below:
+सैंपल questions और उनके solutions निचे दिए हुए है:
 
 1.Find the next number: 1,3,5,7,9,11,__ 
 
