@@ -17,15 +17,18 @@ Sample questions and solutions:
 
 SOLUTION:
     Try to find what pattern is repeated in making this number series
-    (यह सोचे की क्या पैटर्न दोहराया जा रहा है इस नंबर series में) 
+    यह सोचे की क्या पैटर्न दोहराया जा रहा है इस नंबर series में |
 
       1+2 = 3
       3+2 = 5
       5+2 = 7
       7+2 = 9
       9+2 = 11
-     This means, you need to add 2 to each number to find the next number. So, add 2 to 11 to find your answer.
-     इसका मतलब है की हर नंबर में २ जोड़ा जा रहा है अगला नंबर लेन के लिए | तोह ११ में २ जोड़े और आपका आंसर आ जायेगा   
+     This means, you need to add 2 to each number to find the next number. 
+      So, add 2 to 11 to find your answer.
+
+     इसका मतलब है की हर नंबर में २ जोड़ा जा रहा है अगला नंबर लेन के लिए | 
+     तोह ११ में २ जोड़े और आपका आंसर आ जायेगा |
      
      * Final answer: 11+2 = 13*
 
@@ -33,16 +36,16 @@ SOLUTION:
  
  SOLUTION:
     Try to find what pattern is repeated in making this number series
-    (यह सोचे की क्या पैटर्न दोहराया जा रहा है इस नंबर series में) 
+    यह सोचे की क्या पैटर्न दोहराया जा रहा है इस नंबर series में |
     
            4500/5 = 900 
            900/5 = 180
            180/5 = 36
            36/5 = 7.2
            
-           *Final answer: 7.2*
+         Final answer: 7.2
            
-  3. 1 , ___ 5, ____, 9, 11
+  3. Find the two missing numbers: 1 , ___ 5, ____, 9, 11
   
   SOLUTION:
 
@@ -60,7 +63,7 @@ That is, in both cases the difference between the 1st and 3rd item and the 3rd a
 We can conclude that the missing numbers in the series should have a difference of 2 between the items adjacent to them on either side.
 (इस से हम यह बोल सकते है की जो नंबर्स missing है उनमें अंतर २ होना चाहिए उनके आस पास वाले नंबर से )
 
-*The numbers 3 & 7 complete the series*
+The numbers 3 & 7 complete the series
 
 Easy Questions:
 1. 7, 16, 25, 34, 43, 52, __
