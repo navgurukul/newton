@@ -47,12 +47,23 @@ Try to find what pattern is repeated in making this number series
 
     The only 2 visible adjacent items are 9 & 11.The difference between them is 2. 
 
-    In addition, the difference between 5 and 9 is 4 as well as between 1 and 5. That is, in both cases the difference between the 1st and 3rd item and the 3rd and 5th item is 4.
-
-    We can conclude that the missing numbers in the series should have a difference of 2 between the items adjacent to them on either side. The numbers 3 & 7 complete the series.
-
+    In addition, the difference between 5 and 9 is 4 as well as between 1 and 5. 
     
+    That is, in both cases the difference between the 1st and 3rd item and the 3rd and 5th item is 4.
+
+    We can conclude that the missing numbers in the series should have a difference of 2 
+    between the items adjacent to them on either side. 
+    
+    The numbers 3 & 7 complete the series.
+
     हमें २ नंबर अलग अलग जगह पर पता लगाने है|
-    यहां पर सिर्फ 9 और ११ ही एक के बाद एक दिए हुए है| इन दोनों के बीच का अंतर २ है| साथ ही साथ, 5 और 9 के बीच में अंतर 4 है और 1 और 5 के बीच में भी अंतर 4 है| इसका मतलब इन दोनों cases में पहले और तीसरे position वाले नंबर और तीसरे और पांचवे position वाले नंबर में अंतर ४ है|
+    यहां पर सिर्फ 9 और ११ ही एक के बाद एक दिए हुए है| 
     
-    इस से हम यह बोल सकते है की जो नंबर्स missing है उनमें अंतर २ होना चाहिए उनके आस पास वाले नंबर से| 3 aur 7 series complete karte hai|
+    इन दोनों के बीच का अंतर २ है|
+    साथ ही साथ, 5 और 9 के बीच में अंतर 4 है और 1 और 5 के बीच में भी अंतर 4 है|
+    इसका मतलब इन दोनों cases में पहले और तीसरे position वाले नंबर 
+    और तीसरे और पांचवे position वाले नंबर में अंतर ४ है|
+    
+    इस से हम यह बोल सकते है की जो नंबर्स missing है 
+    उनमें अंतर २ होना चाहिए उनके आस पास वाले नंबर से| 
+    3 aur 7 series complete karte hai|
