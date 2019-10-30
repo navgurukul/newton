@@ -14,4 +14,8 @@
     - easy-questions.md
     - medium-questions.md
     - hard-questions.md
-- linearequation_question.md
+- linear-equations
+    - linear-equations
+    - easy-questions.md
+    - medium-questions.md
+    - hard-questions.md
