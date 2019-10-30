@@ -1,9 +1,9 @@
 #                             ***Study Guide to Prepare for Admission in Navgurukul***
-                              ***नवगुरुकुल में एडमिशन की तैयारी के लिए study guide***
+##                            ***नवगुरुकुल में एडमिशन की तैयारी के लिए study guide***
 
 **Navgurukul Program Introduction** : Navgurukul is a free one year program to learn software engineering, English and leadership skills. It comes with a guaranteed job in reputed companies with starting salaries between Rs.20,000 to Rs.40,000. It is a residential learning program. Girls campus is in Bangalore and Boys campus is in Dharamshala (Himachal Pradesh). 
 
-(**नवगुरुकुल के प्रोग्राम का परिचय** नवगुरुकुल एक साल का सॉफ्टवेयर इंजीनियरिंग का फ्री प्रोग्राम है| सॉफ्टवेयर इंजीनियरिंग के साथ साथ आप इंग्लिश और पर्सनालिटी डेवलपमेंट भी सीखेंगे|कोर्स ख़तम होने पर आपको अच्छी companies में job भी लगवाई जाएगी जिनमें शुरुवात में income Rs.20,000 to Rs.40,000 तक होगी| यह एक आवासीय कोर्स है जिसमें लड़को का कैंपस धर्मशाला (हिमाचल प्रदेश) में है और लड़कियों का कैंपस बैंगलोर में है|)
+(**नवगुरुकुल के प्रोग्राम का परिचय**: नवगुरुकुल एक साल का सॉफ्टवेयर इंजीनियरिंग का फ्री प्रोग्राम है| सॉफ्टवेयर इंजीनियरिंग के साथ साथ आप इंग्लिश और पर्सनालिटी डेवलपमेंट भी सीखेंगे|कोर्स ख़तम होने पर आपको अच्छी companies में job भी लगवाई जाएगी जिनमें शुरुवात में income Rs.20,000 to Rs.40,000 तक होगी| यह एक आवासीय कोर्स है जिसमें लड़को का कैंपस धर्मशाला (हिमाचल प्रदेश) में है और लड़कियों का कैंपस बैंगलोर में है|)
 
 **Navgurukul Admissions Process** : Each applicant has to go through three steps during the admission process:
 
@@ -25,8 +25,8 @@
  This guide is to help you practice questions for first and second step. Please practice as many questions as possible and use links of youtube lectures for understanding the concepts. Use the different pages listed on the right side of this page to go to different topics. 
 
 **इस गाइड का उपयोग कैसे करे**
-यह गाइड आपको टेस्ट और इंटरव्यू की तैयारी करवाने के लिए बनवायी गयी है | इसमें जो questions और online videos है उनको उसे करके practice करे |right side में दिए गए अलग-अलग topics पे click करे और practice शुरू कर दे |
+यह गाइड आपको टेस्ट और इंटरव्यू की तैयारी करवाने के लिए बनवायी गयी है | इसमें जो questions और online videos है उनको उसे करके practice करे | Right side में दिए गए अलग-अलग topics पे click करे और practice शुरू कर दे |
 
 **Friendly Tip for Giving Test and Interview** - For getting an admission in Navgurukul, you just need to be hardworking and feel excited to learn. Don't be afraid of maths or this whole process. Just practice and keep trying untill you succeed.
 
-नवगुरुकुल में admission के लिए आप गणित या इंटरव्यू से न घबराये | बस मेहनत करे और सिखने का मज़ा ले | तब तक प्रैक्टिस करे जब तक आपका सिलेक्शन हो नहीं जाता 
+नवगुरुकुल में admission के लिए आप गणित या इंटरव्यू से न घबराये | बस मेहनत करे और सिखने का मज़ा ले | तब तक प्रैक्टिस करे जब तक आपका सिलेक्शन हो नहीं जाता |
