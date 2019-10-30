@@ -1,5 +1,5 @@
 #                             ***Study Guide to Prepare for Admission in Navgurukul***
-##                            ***नवगुरुकुल में एडमिशन की तैयारी के लिए स्टडी गाइड ***
+##                            ***नवगुरुकुल में एडमिशन की तैयारी के लिए स्टडी गाइड***
 
 **Navgurukul Program Introduction** : Navgurukul is a free one year program to learn software engineering, English and leadership skills. It comes with a guaranteed job in reputed companies with starting salaries between Rs.20,000 to Rs.40,000. It is a residential learning program. Girls campus is in Bangalore and Boys campus is in Dharamshala (Himachal Pradesh). 
 
