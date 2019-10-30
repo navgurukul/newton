@@ -1,46 +1,37 @@
 ## Easy Questions
-1. Solve the equation `z - 5 = 6`.
+1. Solve the equation `z-5=6`.
 
         a) 12
         b) 11
         c) 13
         d) 14
- 
 
-2. Solve the equation `5 - t = 0`.
+2. Solve the equation `5-t=0`.
 
         a) 5
         b) 7
         c) 8
         d) 9
  
- 
-3. Solve the equation: n + 7=13
+3. Solve the equation: `n+7=13`
 
         a) 8
         b) 6
         c) 10
         d) 12
  
- 
-4. Solve the equation:
-
-    x+34=82
+4. Solve the equation: `x+34=82`
         a) 48
         b) 50
         c) 34
         d) 45
  
- 
- 
-5. Solve the linear equation 3-a=2a.
+5. Solve the linear equation `3-a=2a`.
 
         a) 5
         b) 1
         c) 4
         d) 2
- 
- 
  
 6. Solve the linear equation `2x−20=10`
 
