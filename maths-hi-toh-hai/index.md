@@ -4,7 +4,11 @@
     - easy-questions.md
     - medium-questions.md
     - hard-questions.md
-- percentage-questions.md
+- percentage-questions
+    - percentage-questions.md
+    - easy-questions.md
+    - medium-questions.md
+    - hard-questions.md
 - unitary-method
     - unitary-method.md
     - easy-questions.md
