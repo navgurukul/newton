@@ -11,7 +11,7 @@ Aapko ek aisa program likhna hai jo, bataye, ki uppar wali list mei kitne log:
     3 - Dilwale
 
     Jinke paas 1 crore ya usse jyada paisa hai, woh crorepati hai.
-    Jinke paas 1 lakh ya usse kam paise hai, woh lakhpati hai.
+    Jinke paas 1 lakh ya usse jyada paise hai, woh lakhpati hai.
     Baaki sab Dilwale hai.
 
 
