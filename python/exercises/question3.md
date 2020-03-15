@@ -7,7 +7,7 @@ Jaise hum list ki length nikalne ki len ka use karte aa rahe hain, waise hi hum 
 
 ```python
 string_name = "Shakrudin"
-print len(srtring_name)
+print len(string_name)
 ```
 
 Yahan print command 9 print karegi kyunki `"Shakrudin"` mein 9 letters ya charecters hai.
