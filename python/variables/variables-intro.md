@@ -4,7 +4,7 @@ name: Variables
 
 ## Variables kya hote hain?
 
-Jo badal sakta hai usse VARIABLE kehte hai. **VARIABLE** ka aap kuch bhi naam rakh sakte hai, and usmei kuch bhi store kar sakte hai.
+**VARIABLE** ak memory/location hai jisme hamara data store hota hai, Jiski value badal sakta hai use VARIABLE kehte hai. **VARIABLE** ka aap kuch bhi naam rakh sakte hai, and usmei kuch bhi store kar sakte hai.
 
 1. jaise hum `123` ko `variable_x` naam ke VARIABLE mei rakh sakte hai
 2. aise hi hum `9999` ko `a` naam ke VARIABLE mei rakh sakte hai
