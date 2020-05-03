@@ -1,4 +1,3 @@
-- todo.md
 - introduction.md
 - project-intro.md
 - what-is-scraping.md
