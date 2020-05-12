@@ -1,5 +1,5 @@
 ```ngMeta
-name: Hackthon Projects
+name: Hackathon Projects
 type: html
 daysToComplete: 2
 shortDescription: Hackthon ke leye kuch Projects
