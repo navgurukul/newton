@@ -27,7 +27,7 @@ This is the single most important file where you store the list of the contents 
 - exercise-5.md
 ```
 
-These files have to exist in the parent directory. `introduction-to-loops.md` is a folder, and `understanding-whilte-loops.md` etc. are files that are to exist in the directory. 
+These files have to exist in the parent directory. `introduction-to-loops.md` is a folder, and `understanding-while-loops.md` etc. are files that are to exist in the directory. 
 
 The `details` directory has two main files, `info.md` and `details.md`
 
