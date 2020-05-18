@@ -4,7 +4,7 @@ name: Brochure - Introduction
 
 # Part Zero
 
-Iss topic se related koi v discussion krne ke lye is link pr jaaye : [HTML_Course](https://cliq.zoho.com/channels/htmlcsscourse)
+Iss topic se related koi v discussion krne ke lye is link pr jaaye.
 
 Ek **“index.html”** file banayein jismein yeh code likhe.
 
