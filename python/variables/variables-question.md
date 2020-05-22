@@ -20,8 +20,3 @@ submissionType: url
 2. variable_nav ko dobara koi bhi FLOAT value dekar set kar de
 3. variable_nav aur gurukul value ko ab print karein
 
-## Question Part 3
-
-1. variable aur constants mei kya pharak hota hai, yeh kisi se discuss kar kar ensure karein aap ko yeh acche se samajh hai.
-
-Iss question ke saare parts ka code ek hi python file mein likh ke upload kariye.

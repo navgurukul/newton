@@ -38,45 +38,6 @@ Hum python mein ek `type` se dusre `data type` mein apne data ko convert kar sak
 5. String se Integer
 
 
-# Variable ya Constants ka type Samajhna 
-
-Variable ka type samajhne ke liye hum `type` naam ka ek function use karenge. Functions ke baarei mei detials aage aayengi. Abhi ke liye bas code dekh ke isko use karna seekh le jiye.
-
-```python
-var_a = 23
-print type(var_a) # yeh integer print karega 
-```
-
-Python mein hum ek integer ko string mein convert kar sakte hain. Jaise:
-
-```python
-var_b = str(23)
-print type(var_b) # yeh str print karega. str ka matlab string hota hai.
-```
-
-Sochiye agar hum do `INTEGERs` ko add karenge toh hume kya output milega. and phir yeh print karke dekhiye
-```python
-print var_a + var_a
-```
-
-Ab sochiye agar hum do `STRINGs` ko add karenge toh hume kya output milega. and phir yeh print karke dekhiye
-```python
-print var_b + var_b
-```
-
-Isi tarah iss code ko dhyaan se chala ke samjhein. 
-
-```python
-var_a = 2.1
-var_b = str(var_a)
-print type(var_a)
-print type(var_b)
-print var_a + var_a
-print var_b + var_b
-```
-
-Iss exaxmple se aapne kya samjha? Python mein har data type ka alag use hota hai. Alag type ke variables ke saath same kaam karke bhi alag result aayega.
-
 # String se Integer & String se Float
 Ab hum dekhte hai ki INTEGER mei conversion kaise karenge. `12` ko python INTEGER mei type cast karkar 12 store kar leta hai
 
