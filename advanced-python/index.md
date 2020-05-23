@@ -90,7 +90,7 @@
 	- pressing-and-releasing-the-keyboard.md
 	- project-automatic-form-filler.md
 	- project-extending-the-mousenow-program.md
-	- project-“where-is-the-mouse-right-now?”.md
+	- project-where-is-the-mouse-right-now.md
 	- review-of-the-pyautogui-functions.md
 	- scrolling-the-mouse.md
 	- working-with-the-screen.md
