@@ -17,13 +17,13 @@ $ python
 
 ```python
 
-print "Yeh python mein print hoga"
-print "Yeh ek aur line print hoyegi"
-print 2 + 5
+print("Yeh python mein print hoga")
+print("Yeh ek aur line print hoyegi")
+print(2 + 5)
 i = 0
-print i
+print(i)
 while i < 100:
-    print "Main baar baar print hounga :)"
+    print("Main baar baar print hounga :)")
 
 ```
 Ab upar diye gaye code ko select karke Ctrl + C jishe yeh code copy hojyega aur phir app ishe Terminal pe jake Ctrl + Shift + V dabake paste karsakte hai.
