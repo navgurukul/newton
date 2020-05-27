@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 1
-submissionType: url 
+submission_type: url 
 ```
 
 Ek list mein appke paas `marks` hain. Inn marks ka sum kar ke total marks nikalne ka code likha hua hai, lekin yeh code chalta nahi hai. Sahi kar ke submit karo.

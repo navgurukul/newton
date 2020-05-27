@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 9
-submissionType: url
+submission_type: url
 ```
 
 Socho aap ek planet par ho jahan yeh rules hain

@@ -1,6 +1,6 @@
 ```ngMeta
 name: type conversion
-submissionType: url
+submission_type: url
 ```
 
 # Introduction

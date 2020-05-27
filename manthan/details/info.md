@@ -1,7 +1,7 @@
 ```ngMeta
 name: Manthan
 type: html
-daysToComplete: 30
-shortDescription: Manthan Opportunities and Experiences
+days_to_complete: 30
+short_description: Manthan Opportunities and Experiences
 logo: https://bit.ly/2OPsppK
 ```

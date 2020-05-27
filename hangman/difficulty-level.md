@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType:url
+submission_type:url
 ```
 ## Difficulty Level
 Game shuru karne se pehle aap user se poocho, ki user kitna difficulty level par khelna chahta hai. - Easy, Medium ya Hard.

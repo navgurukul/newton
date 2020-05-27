@@ -1,6 +1,6 @@
 ```ngMeta
 name: Files in Python
-submissionType: url
+submission_type: url
 ```
 
 # How to Work with Files?

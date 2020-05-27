@@ -1,6 +1,6 @@
 ```ngMeta
 name: If-else
 type: html
-daysToComplete: 10
-shortDescription: Iss topic mai hum If-else ke bare mai janege
+days_to_complete: 10
+short_description: Iss topic mai hum If-else ke bare mai janege
 ```

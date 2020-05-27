@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 1
-submissionType: url
+submission_type: url
 ```
 
 Ek `number` naam ke variable mein ek variable input lo aur usko integer mein type cast kar lo.

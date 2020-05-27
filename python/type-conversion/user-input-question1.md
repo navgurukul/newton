@@ -1,6 +1,6 @@
 ```ngMeta
 name: raw_input Question 1
-submissionType: url
+submission_type: url
 ```
 **Aapne iska code ek python file (`.py` extension ke saath) save kar ke submit karna.**
 

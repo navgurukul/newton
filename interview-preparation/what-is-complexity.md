@@ -1,6 +1,6 @@
 ```ngMeta
 name: What is complexity?
-submissionType: url
+submission_type: url
 ```
 ## What is complexity?
 The complexity of an algorithm is a function f (n) which measures the time and space used by an algorithm in terms of input size n.

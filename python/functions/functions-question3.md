@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 3
-submissionType: url
+submission_type: url
 ```
 
 Yeh question 2 parts mein hai. Dono parts ka code same file mein likh ke submit karein.

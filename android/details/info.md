@@ -1,7 +1,7 @@
 ```ngMeta
 name: Android - Learn Android
 type: html
-daysToComplete: 30
-shortDescription: Chalo bhai, Android seekhte hai!
+days_to_complete: 30
+short_description: Chalo bhai, Android seekhte hai!
 logo: https://bit.ly/2Bez35n
 ```

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Conditionals, Loop and Variable Naming
-submissionType: url
+submission_type: url
 ```
 
 Yeh rock paper scissors game ka program hai. Iss game ko aap computer ke against kheloge. Iss game ke 3 rules hai

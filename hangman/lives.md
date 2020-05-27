@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType:url
+submission_type:url
 ```
 
 Ab aapko ek feature implement karna hai, jisse ki user ke paas limited chances ho.

@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType: url
+submission_type: url
 ```
 ## Using Grammar to create Nested Lists
 

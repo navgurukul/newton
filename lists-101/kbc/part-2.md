@@ -1,6 +1,6 @@
 ```ngMeta
 name: Aapka Question
-submissionType: url
+submission_type: url
 ```
 
 ## Aapka Question

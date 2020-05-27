@@ -1,6 +1,6 @@
 ```ngMeta
 name: If Statement Question 1
-submissionType: url
+submission_type: url
 ```
 
 **Agle kuch questions mein aapne neeche diye gaye flowchart ko question ke hisaab se complete karna hai. Flowcharts ke colors pe dhyaan dene ki zaroorat nahi hai.**

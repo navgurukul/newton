@@ -1,6 +1,6 @@
 ```ngMeta
 name: Read the JSON
-submissionType: url
+submission_type: url
 ```
 
 Iss program ko attempt karne ke liye pehle ek `users.json` naam ki file mein neeche diye hue text ko save karein.

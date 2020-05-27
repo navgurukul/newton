@@ -1,7 +1,7 @@
 ```ngMeta
 name: Samvaad - Learning through dialogue!
 type: html
-daysToComplete: 30
-shortDescription: Learn English with one-on-one dialogues and reflecting on various important topics
+days_to_complete: 30
+short_description: Learn English with one-on-one dialogues and reflecting on various important topics
 logo: https://bit.ly/2PzSPkJ
 ```

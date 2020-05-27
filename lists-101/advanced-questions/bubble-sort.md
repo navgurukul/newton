@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType: url
+submission_type: url
 ```
 
 **Sorting** bahut hi important process hai jo aap ko programming mei baar baar encounter hoga. Sorting (Sort is the **root word**) ka matlab hai - kisi order mei arrange karna - jaise height se, weight se, marks se, naam se etc. 

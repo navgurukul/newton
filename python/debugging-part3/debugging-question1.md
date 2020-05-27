@@ -1,6 +1,6 @@
 ```ngMeta
 name: Pass by Reference and Functions
-submissionType: url
+submission_type: url
 ```
 
 Iss program ko run karo aur dekho ki num_list aur num_list_sub_20 ki value same aa rahi. Iss code ko ais chane karo jisse hume num_list ki intial value bhi mil jaye.

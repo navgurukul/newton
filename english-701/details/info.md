@@ -1,7 +1,7 @@
 ```ngMeta
 name: English 701
 type: html
-daysToComplete: 30
-shortDescription: English learning
+days_to_complete: 30
+short_description: English learning
 logo: https://bit.ly/2zp7YLR
 ```

@@ -1,7 +1,7 @@
 ```ngMeta
 name: Soch Rahe Hain
 type: html
-daysToComplete: 7
-shortDescription: Important habits and tools
+days_to_complete: 7
+short_description: Important habits and tools
 logo:https://bit.ly/2PzSPkJ
 ```

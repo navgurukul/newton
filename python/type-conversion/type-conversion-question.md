@@ -1,6 +1,6 @@
 ```ngMeta
 name: Type Conversion Question 1
-submissionType: url
+submission_type: url
 ```
 
 ### Yeh exercise hai

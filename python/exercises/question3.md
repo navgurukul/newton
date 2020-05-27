@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 3
-submissionType: url
+submission_type: url
 ```
 
 Jaise hum list ki length nikalne ki len ka use karte aa rahe hain, waise hi hum strings ki length nikalne ke liye len ka use kar sakte hain.

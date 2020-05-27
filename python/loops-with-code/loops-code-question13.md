@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 13
-submissionType: url
+submission_type: url
 ```
 
 Ek algorithm banao jo user se `2 number input` lega. Aur fir unn number ko multiply karke print kare. Jaise, agar input hai `5 aur 4` tab `20` print hona chahiye. 
