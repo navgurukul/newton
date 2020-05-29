@@ -11,9 +11,8 @@ This is the single most important file where you store the list of the contents 
 ### Course Structure
 ```bash
 - index.md
-- details
-	- info.md
-	- details.md
+- info.md
+	
 ```
 
 ### index.md
@@ -29,7 +28,7 @@ This is the single most important file where you store the list of the contents 
 
 These files have to exist in the parent directory. `introduction-to-loops.md` is a folder, and `understanding-whilte-loops.md` etc. are files that are to exist in the directory. 
 
-The `details` directory has two main files, `info.md` and `details.md`
+The `Every course` directory has one main files which name is, `info.md`
 
 ### info.md
 
@@ -47,8 +46,6 @@ logo: http://google.com/logo.png
 
 All the meta information about a course needs to be nested within a `ngMeta` tag in the markdown file.
 
-### details.md
-Leave this empty for now.
 
 ## Order of Exercises
 The files can be named anything we want as curriculum developers. The order of files (the order in screenshot) is decided by the order written in `index.md` file.
