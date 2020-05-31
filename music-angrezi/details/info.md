@@ -1,7 +1,7 @@
 ```ngMeta
 name: Music Angrezi - MS101
 type: html
-daysToComplete: 45
-shortDescription: Learn English with some nice music :-)
+days_to_complete: 45
+short_description: Learn English with some nice music :-)
 logo: https://goo.gl/ctGhRD
 ```

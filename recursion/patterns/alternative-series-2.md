@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType: url
+submission_type: url
 ```
 ## Pattern
 10, 11, 110, 111, 1110, 1111, 11110, 11111, 111110, 111111 ...

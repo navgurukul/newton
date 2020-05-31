@@ -1,6 +1,6 @@
 ```ngMeta
 name: Task 11
-submissionType:url
+submission_type:url
 ```
 
 # Task 11

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 6
-submissionType: url
+submission_type: url
 ```
 
 Neeche diye gaye kaam ke liye ek flowchart banao, aur fir uska code likho.

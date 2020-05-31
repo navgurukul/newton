@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 9
-submissionType: url
+submission_type: url
 ```
 
 Harshad numbers aise number hote hain jo apni digits ke sum se dhang se divide hote hain. Dhang se divide hone ka matlab ki remainder 0 aata hai. Jaise 42 ek Harshad number hai kyunki 4 + 2 = 6 aur 42 ko 6 se vidie kar ke remainder aata hai

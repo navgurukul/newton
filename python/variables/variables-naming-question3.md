@@ -1,6 +1,6 @@
 ```ngMeta
 name: Variable Naming Exercise 3
-submissionType: url
+submission_type: url
 ```
 
 ## Question

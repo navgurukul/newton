@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType: url
+submission_type: url
 ```
 Word order refers to the way words are arranged in a sentence. The standard word order in English is: 
 

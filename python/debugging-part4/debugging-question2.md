@@ -1,6 +1,6 @@
 ```ngMeta
 name: Bagels
-submissionType: url
+submission_type: url
 ```
 
 In this exercise, you’ll learn a few new methods and functions that come with Python. You’ll also learn about augmented assignment operators and string interpolation. These things don’t let you do anything you couldn't do before, but they are nice shortcuts to make coding easier.

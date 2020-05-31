@@ -1,7 +1,7 @@
 ```ngMeta
 name: Learning Java
 type: html
-daysToComplete: 20
-shortDescription: Java seekhne ke liye course
+days_to_complete: 20
+short_description: Java seekhne ke liye course
 logo: https://google.com
 ```

@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType: url
+submission_type: url
 ```
 
 Conjunctions are connectors. They join words of the same category, phrases, clauses or

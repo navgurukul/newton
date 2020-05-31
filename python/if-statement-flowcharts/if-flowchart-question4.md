@@ -1,6 +1,6 @@
 ```ngMeta
 name: Kaise shuru karein?
-submissionType: url
+submission_type: url
 ```
 
 **Abhi tak aapne kuch bane hue flowcharts mein `fill in the blanks` kiya hai. Ab agle kuch questions mein aapko pura flowchart khud banana hoga. Iss flowchart ko bana ke, flowchart waali file ko submit karo.**

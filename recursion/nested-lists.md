@@ -1,5 +1,5 @@
 ```ngMeta
-submissionType: url
+submission_type: url
 ```
 ## Nested Lists
 Aise sochiye ki aapke paas ek list hai, jismei numbers bhi ho sakte hai, aur lists bhi, aur jo lists uss list mei hai, uske andar bhi numbers ya list ho sakte hai, aur aapko nahi pata ki kab list hai kab numbers, aur kitne levels deep tak aisa hai.

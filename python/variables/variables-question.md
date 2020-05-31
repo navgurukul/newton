@@ -1,6 +1,6 @@
 ```ngMeta
 name: Variables Exercise 1
-submissionType: url
+submission_type: url
 ```
 
 *Har question ka javab aap ek file upload kar ke kar sakte hain.*

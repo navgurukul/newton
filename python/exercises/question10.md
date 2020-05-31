@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 10
-submissionType: url
+submission_type: url
 ```
 
 Python mein hum ek loop ke andar loop bhi chala sakte hain Sochiye humare paas ek list hai jisme aur list hain jinme integers hain. Kuch aise:

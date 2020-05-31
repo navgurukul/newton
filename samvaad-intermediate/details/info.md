@@ -1,7 +1,7 @@
 ```ngMeta
 name: Samvaad - Intermediate
 type: html
-daysToComplete: 30
-shortDescription: English Conversation Cards
+days_to_complete: 30
+short_description: English Conversation Cards
 logo: https://bit.ly/2PzSPkJ
 ```

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 11
-submissionType: url
+submission_type: url
 ```
 
 Google jaise bade search engine ek web page pe saare text ko samajhte hain. Fir aap kuch bhi search karo, toh google sahi webpages dikha deta hai. Inn sab kaam ke liye google ko ek page se saare words nikalne padte hain. Hume pehle ek poore paragraph mein se words nikalne hain. Iske liye pehle strings mein se hume words nikalne padenge. Socho aapke paas ek string hai.

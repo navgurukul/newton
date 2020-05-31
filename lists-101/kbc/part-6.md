@@ -1,6 +1,6 @@
 ```ngMeta
 name: 50 50 Lifeline
-submissionType: url
+submission_type: url
 ```
 
 ## 50 50 Lifeline

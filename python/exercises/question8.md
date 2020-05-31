@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 8
-submissionType: url
+submission_type: url
 ```
 
 Socho aapke paas do lists hain. Ab aapko nayi list banani hai jisme dono lists ke elements hone chaiye. Lekin yeh dhyan mein rakhna hai ki dono lists ke saare elements sirf ek-ek baar hi hone chaiye. Agar humare paas yeh do lists hain:
