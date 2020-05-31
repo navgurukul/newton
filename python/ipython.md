@@ -78,18 +78,18 @@ Iss section mein kuch code samples diye hue hain. iPython se comfortable hone ke
 ### Example 1
 
 ```python
-print "Yeh python print kar degi"
-print "Cool Stuff "*10
+print ("Yeh python print kar degi")
+print ("Cool Stuff "*10)
 ```
 
 ### Example 2
 
 ```python
-time = raw_input("Is it morning or evening? (morning/evening) ")
+time = input("Is it morning or evening? (morning/evening) ")
 if time == "morning":
-    print "Let's go for a run!"
+    print ("Let's go for a run!")
 elif time == "evening":
-    print "Let's go out for a coffee."
+    print ("Let's go out for a coffee.")
 else:
-    print "Mujhe samajh nahi aaya aapne kya input daala."
+    print ("Mujhe samajh nahi aaya aapne kya input daala.")
 ```

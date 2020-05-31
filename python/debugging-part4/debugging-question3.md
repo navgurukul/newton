@@ -49,11 +49,11 @@ users = data['users']
 
 for user in data:
   counter = 0
-  print "users full name is " + user['firstName'] + ' ' + user['lastName']
+  print ("users full name is " + user['firstName'] + ' ' + user['lastName'])
   while counter < len(user['details']):
-    print "users mobile number is " + user['details'][counter]['mobileNo']
-    print "users age  is " + user['details'][counter]['age']
-    print "users city is " + user['details'][counter]['city']
+    print ("users mobile number is " + user['details'][counter]['mobileNo'])
+    print ("users age  is " + user['details'][counter]['age'])
+    print ("users city is " + user['details'][counter]['city'])
 ```
 
 `users.json` file mein users ka data padha hai. Yeh program `users.json` file ko read kar kar usmein se users ka data print karega. Iss file ko debug kar kar run karo.

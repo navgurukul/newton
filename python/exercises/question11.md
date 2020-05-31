@@ -23,7 +23,7 @@ Hint: Python mein strings bhi list ki tarah hote hain. Jaise:
 words = "navgurukul is great"
 counter = 0
 while counter < len(words)
-    print words[counter]
+    print (words[counter])
 ````
 
 Iss loop mein har iteration mein i ki value ek ek character se update hogi. Ek baar iss code ko python visualizer mein run kar ke dhang se samajh lo.

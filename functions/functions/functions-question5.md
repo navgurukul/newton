@@ -30,7 +30,7 @@ Function likhne ke baad, yeh kaam karne ke liye function call karo aur variable 
 
 ## Part 2
 
-Ab `raw_input` ka use kar ke user se 2 numbers input lo.
+Ab `input` ka use kar ke user se 2 numbers input lo.
 
 **Note: Yeh karne ke liye koi function banane ki zaroorat nahi hai.**
 

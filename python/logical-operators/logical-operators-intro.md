@@ -22,9 +22,9 @@ Jab hum addition subtraction karte hain toh `+`,`-` ko operators kehte hain. Ais
 Yeh kuch examples hain.
 
 ```python
-print True and True
-print True or False
-print not True
+print (True and True)
+print (True or False)
+print (not True)
 ```
 
 Dhyaan se iska output dekho aur fir samajhne ki koshish karo ki yeh operators kya karte hain. Neeche humne aur depth mein inki explaination di hui hai.

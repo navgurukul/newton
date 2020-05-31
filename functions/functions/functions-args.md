@@ -8,7 +8,7 @@ Abhi tak humne jo bhi functions code kare hain, unme kuch bahot simple print sta
 
 ```python
 numbers_list = [1, 2, 3, 4, 5, 6, 7, 10, -2]
-print max(numbers_list)
+print (max(numbers_list))
 ```
 
 Yahan humne `max` function ko `numbers_list` di aur usne usme se sabse badi value hume de di. Aise hi len function bhi ek list leke hume list mein items ki ginti deta hai.
@@ -17,8 +17,8 @@ Neeche diye gaye code ko chala ke dekho aur ek baar socho ki kya ho raha hai.
 
 ```python
 def say_hello(name):
-    print "Hello ", name
-    print "Aap kaise ho?"
+    print ("Hello ", name)
+    print ("Aap kaise ho?")
 say_hello("Aatif")
 ```
 
@@ -39,8 +39,8 @@ Abhi tak humne ek function argument ke saath hi code likha hai. Ab hum thode aur
 
 ```python
 def add_numbers(number1, number2):
-    print "Main do numbers ko add karunga."
-    print number1 + number2
+    print ("Main do numbers ko add karunga.")
+    print (number1 + number2)
 add_numbers(120, 50)
 num_x = 134
 num_y = 22
@@ -59,14 +59,14 @@ Aur ache se samajhne ke liye ek aur example dekhte hain.
 ```
 def say_hello_language(name, language):
     if language == "hindi":
-        print "Namaste ", name
-        print "Aap kaise ho?"
+        print ("Namaste ", name)
+        print ("Aap kaise ho?")
     elif language == "punjabi":
-        print "Sat sri akaal ", name
-        print "Tuhada ki haal hai?"
+        print ("Sat sri akaal ", name)
+        print ("Tuhada ki haal hai?")
     else:
-        print "Hello ", name
-        print "How are you?"
+        print ("Hello ", name)
+        print ("How are you?")
 say_hello_language("Rishabh", "punjabi")
 say_hello_language("Armaan", "english")
 say_hello_language("Abhishek", "french")
@@ -92,10 +92,10 @@ Chalane se pehle isko padh ke output ko sochne ki koshish karo. Fir chala ke dek
 
 ```python
 def say_hello_people(name_x, name_y, name_z, name_a):
-    print "Namaste ", name_x # hindi mein
-    print "Alah hafiz ", name_y # urdu mein
-    print "Bonjour ", name_z # french mein
-    print "Hello ", name_a # english mein
+    print ("Namaste ", name_x) # hindi mein
+    print ("Alah hafiz ", name_y) # urdu mein
+    print ("Bonjour ", name_z) # french mein
+    print ("Hello ", name_a) # english mein
 say_hello_people("Imitiyaz", "Rishabh", "Rahul", "Vidya")
 say_hello_people("Steve", "Saswata", "Shakrundin", "Rajeev")
 ```

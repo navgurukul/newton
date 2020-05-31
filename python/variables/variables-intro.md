@@ -19,7 +19,7 @@ a=9999
 `variable_x` and `a` print karke dekhte hai ki kya hota hai
 
 ```python
-print variable_x, a
+print (variable_x, a)
 ```
 
 `variable_x` ko hum dobara ek value de sakte hai, isse `variable_x` update ho jayega. Jaise neeche humne variable_x ko ab 9.9 value de di hai.
@@ -31,7 +31,7 @@ variable_x=9.9
 Ab print karke dekhiye variable_x ki kya value hai
 
 ```python
-print variable_x
+print (variable_x)
 ```
 
 Aapko yaad hoga ki `9.9` float hai. Iska matlab hum ek variable alag alag tarah ki values de sakte hai. `a` ki value change nahi hui hai, kyuki humne usko update nahi kiya hai. Aise hi hum `a` ko ab update kar dete hai, and ek naya variable banate hai `b`
@@ -44,5 +44,5 @@ b='navgurukul'
 Abb inko aise print karke output dekho.
 
 ```python
-print variable_x, a, b
+print (variable_x, a, b)
 ```

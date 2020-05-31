@@ -27,7 +27,7 @@ def getSecretNum(numDigits):
   secretNum = ''
   for i in range(numDigits):
     secretNum += (numbers[i])
-  print secretNum
+  print (secretNum)
 
 def getClues(guess, secretNum):
 # Returns a string with the pico, fermi, None clues to the user.
@@ -54,7 +54,7 @@ def isOnlyDigits(num):
 
 def playAgain():
 # This function returns True if the player wants to play again, otherwise it returns False.
-  play = raw_input("Do you want to play again? Yes or No?") 
+  play = input("Do you want to play again? Yes or No?") 
   return play.lower.startswith('y')
 
 NUMDIGITS = 3
@@ -74,7 +74,7 @@ while True:
   while numGuesses <= MAXGUESS:
     while len(guess) != NUMDIGITS or not isOnlyDigits(guess):
       print 'Guess' + (numGuesses)
-      guess = raw_input("Guess Again")
+      guess = input("Guess Again")
 
     clue = getClues(guess, secretNum)
     print(clue)
@@ -82,7 +82,7 @@ while True:
     if guess == secretNum:
       break
     if numGuesses < MAXGUESS:
-      print 'You ran out of guesses. The answer was ' + secretNum
+      print ('You ran out of guesses. The answer was ' + secretNum)
   if not playAgain:
     break
     

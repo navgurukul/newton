@@ -7,11 +7,11 @@ Yeh question different parts mein divided hai. Saare code ko ek hi python file m
 
 # Part 1
 
-`var_a` mei `raw_input` ka use karke ek number input lijiye aur usko `INTEGER` mein convert karna na bhulein.
+`var_a` mei `input` ka use karke ek number input lijiye aur usko `INTEGER` mein convert karna na bhulein.
 
 
 # Part 2
-`var_b` mei `raw_input` ka use karke ek number input lijiye aur usko `INTEGER` mein convert karna na bhulein.
+`var_b` mei `input` ka use karke ek number input lijiye aur usko `INTEGER` mein convert karna na bhulein.
 
 
 # Part 3

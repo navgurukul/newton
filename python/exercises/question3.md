@@ -7,14 +7,14 @@ Jaise hum list ki length nikalne ki len ka use karte aa rahe hain, waise hi hum 
 
 ```python
 string_name = "Shakrudin"
-print len(string_name)
+print (len(string_name))
 ```
 
 Yahan print command 9 print karegi kyunki `"Shakrudin"` mein 9 letters ya charecters hai.
 
 ```python
 string_name = "Rishabh Verma"
-print len(string_name)
+print (len(string_name))
 ```
 
 Yahan 13 print hoga kyunki "Rishabh" ke 7 letter aur "Verma" ke 5 letter ki ilava beech ka space bhi ek character hai.
@@ -24,16 +24,16 @@ Aur jaise hum `in` ka use kar ke yeh dekh sakte hain ki koi item list mein hai y
 ```python
 string_name = "navgurukul"
 if "n" in string_name:
-    print "n hai"
+    print ("n hai")
 else:
-    print "n nahi hai"
+    print ("n nahi hai")
 ```
 
 Wahan hum yeh dekh rahe hain ki `string_name` variable mein `n` hai ya nahi. Basically `in` ka use kar ke hume ek boolean milta hai.
 
 ```python
-print "n" in string_name:
-print type("n" in string_name)
+print ("n" in string_name:)
+print (type("n" in string_name))
 ```
 
 Yahan pehli command True print karegi. Kyunki True or False boolean hote hain, hum inko if statement mein use kar sakte hain. agar hum iska data type dekhenge toh woh bhi "bool" dikhayega Aapko agli kuch exercises mein iski zaroorat padegi ;-)

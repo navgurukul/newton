@@ -45,9 +45,9 @@ Yeh saare comparison operators kuch sawal puchte hain. Jaise
 number1 = 45
 number2 = 56
 if number2 > number1:
-	print "Bada hai number2"
+	print ("Bada hai number2")
 else:
-	print "Number 2 bada nahi hai"
+	print ("Number 2 bada nahi hai")
 ```
 
 Yahan `>` ek saval puch raha hai. Woh saval hai **Kya number2 number1 se bada hai?** Dhyan se dekho iss saval ke sirf do javab ho sakte hain:
@@ -61,9 +61,9 @@ Yeh code chala ke dekho.
 
 ```python
 if True:
-	print "Only I will run"
+	print ("Only I will run")
 else:
-	print "I will never run"
+	print ("I will never run")
 ```
 
 Yahan dekho ki humesha `Only I will run` waali line print hoyegi, kyunki humne direct if ke aage True laga diya hai. If ko humesha True milega aur woh hi chalega.

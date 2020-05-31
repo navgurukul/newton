@@ -33,7 +33,7 @@ Ab yeh code likh kar python file chalao:
 ```python
 my_file = open("people1.txt")
 file_data = my_file.read()
-print file_data
+print (file_data)
 my_file.close()
 ```
 
@@ -80,12 +80,12 @@ Python mein iss code ko chala ke dekho. Iske baad hum isko dhang se samjhenge.
 
 
 ```python
-print "AbhishekRanveer"
-print "---------------------------------"
-print "Abhishek\nRanveer"
-print "---------------------------------"
-print "Abhishek\n\nRanveer"
-print "---------------------------------"
+print ("AbhishekRanveer")
+print ("---------------------------------")
+print ("Abhishek\nRanveer")
+print ("---------------------------------")
+print ("Abhishek\n\nRanveer")
+print ("---------------------------------")
 ```
 
 Yahan beech ki "-----" lines humne aise hi padhne mein aasani ke liye print kari hain.

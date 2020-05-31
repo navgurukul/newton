@@ -37,63 +37,62 @@ Yeh ek pura code hai joh 4-5 alag kaam kar raha hai ishe thorke kese samjhe sakt
 
 Yeh phela line ishe terminal pe chalaye kuch dikh raha hoga apko Terminal pe.
 ```python
-print "Yeh python mein print hoga"
+print ("Yeh python mein print hoga")
 ```
 
 Yeh dusra code ko Terminal pe chalaye aur dekhe kya dikh raha ha apko?
 ```python
-print "Yeh ek aur line print hoyegi"
+print ("Yeh ek aur line print hoyegi")
 ```
 
 Ab yeh line alag se chalao app Terminal pe aur dekho kya ho raha hai?
 ```python
-print 2 + 5
+print (2 + 5)
 ```
 
 Ab yeh ek saat copy paste karo Terminal pe aur kya ho raha hai?
 ```python
-print "Yeh python mein print hoga"
-print "Yeh ek aur line print hoyegi"
-print 2 + 5
+print ("Yeh python mein print hoga")
+print ("Yeh ek aur line print hoyegi")
+print (2 + 5)
 ```
 
 Ish line me kya ho raha ha yeh apko aage samjh ayega lekin ishe chala ke thoda sa app khud bi samjhne ki kosish kare ishe.
 ```python
 i = 0
-print i
+print (i)
 ```
 
 Ishe copy paste kare Terminal pe aur ishe rokhne ke liye keyboard me Ctrl + C saat me dabaye Terminal pe.
 ```python
 i = 0
 while i < 100:
-    print "Main baar baar print hounga :)"
+    print ("Main baar baar print hounga :)")
 ```
 
 Aur ab yeh chalaiye aur kya apko upar aur niche wale ke bich me kuch antar ka pata lagye?
 ```python
 i = 0
 while i < 100:
-    print "Main baar baar print hounga :)"
+    print ("Main baar baar print hounga :)")
     i = i+1
 ```
 
 
 Ab ishe ekata chalaye aur ishe rokhne ke liye app kya karenge?
 ```python
-print "Yeh python mein print hoga"
-print "Yeh ek aur line print hoyegi"
-print 2 + 5
+print ("Yeh python mein print hoga")
+print ("Yeh ek aur line print hoyegi")
+print (2 + 5)
 i = 0
-print i
+print (i)
 while i < 100:
-    print "Main baar baar print hounga :)"
+    print ("Main baar baar print hounga :)")
 ```
 Ab yeh sochiye upar wale code ko chalte rehne se rokhne ke liye app kya karenge?
 
 Iss tareeke se pure course mein code likha hoga. Iss code ko aapko chalake dekhna padega. Isko chalane ke liye aapko Terminal naam ka application
 apne laptop pe kholna padega. Usko khol ke usme yeh type kar ke python chalani padega.
-
 
 
 ## Bahot Important Rules

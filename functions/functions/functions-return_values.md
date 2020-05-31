@@ -28,15 +28,15 @@ def add_numbers(number_x, number_y):
     return number_sum
 
 sum1 = add_numbers(20, 40)
-print sum1
+print (sum1)
 sum2 = add_numbers(560, 23)
 a = 1234
 b = 12
 sum3 = add_numbers(a, b)
-print sum2
-print sum3
+print (sum2)
+print (sum3)
 number_a = add_numbers(20, 40) / add_numbers(5, 1)
-print number_a
+print (number_a)
 ```
 
 * Yahan humne function ussi tareeke se define kara hai jaise hum abhi tak functions ko define karte aaye hain. Lekin sirf function mein last line aap kuch naya dekhoge.
@@ -51,15 +51,15 @@ Hum same function ko return value ke bina likhte hain.
 ```python
 def add_numbers_print(number_x, number_y):
     number_sum = number_x + number_y
-    print number_sum
+    print (number_sum)
 sum4 = add_numbers_print(4, 5)
-print sum4
-print type(sum4)
+print (sum4)
+print (type(sum4))
 ```
 
 Humne yahan same upar wale function ka code likha hai, lekin return statement ka use nahi kiya. Iss vajah se hume yeh function kuch return nahi karega Kyunki yeh function kuch return nahi karta hai, hum apne numbers ke sum ko dusre variable mein nahi daal sakte jaise humne pichle example mein kiya tha.
 
-Yahan agar aap `sum4` ki value dekhoge toh woh `None` dikhayega. `None` ka matlab hota hai kuch nahi. Basically jo numbers value nahi return karte woh "kuch nahi" return karte hain `None` python mein ek alag tareeke ki type hai integer, float etc. ki tarah. `print type(sum4)` waali line mein dekhoge ki woh sum4 ki type ko NoneType dikhayega. Iska matlab hota hai ki isme kuch nahi hai.
+Yahan agar aap `sum4` ki value dekhoge toh woh `None` dikhayega. `None` ka matlab hota hai kuch nahi. Basically jo numbers value nahi return karte woh "kuch nahi" return karte hain `None` python mein ek alag tareeke ki type hai integer, float etc. ki tarah. `print (type(sum4))` waali line mein dekhoge ki woh sum4 ki type ko NoneType dikhayega. Iska matlab hota hai ki isme kuch nahi hai.
 
 
 Ek baar yeh neeche wale code ko padho aur socho ki kya hoga,. Ab usko chalao aur dekho ki aapne sahi socha tha
@@ -81,10 +81,10 @@ Iss example ko chalane se pehle, iska code padh ke socho ki yeh function kya ret
 ```python
 def add_numbers_more(number_x, number_y):
     number_sum = number_x + number_y
-    print "Hello from NavGurukul ;)"
+    print ("Hello from NavGurukul ;)")
     return number_sum
     number_sum = number_x + number_x
-    print "Kya main yahan tak pahunchunga?"
+    print ("Kya main yahan tak pahunchunga?")
     return number_sum
 
 sum6 = add_numbers_more(100, 20)
@@ -105,14 +105,14 @@ def menu(day):
     else:
         return "Chole Bhature"
 
-    print "Kya main print ho payungi? :-("
+    print ("Kya main print ho payungi? :-(")
 
 mon_menu = menu("monday")
-print mon_menu
+print (mon_menu)
 tues_menu = menu("tuesday")
-print tues_menu
+print (tues_menu)
 fri_menu = menu("friday")
-print fri_menu
+print (fri_menu)
 ```
 
 Humara `menu` function `day` argument ke hisaab se uss din ki menu ki item ki value return kar deta hai
@@ -132,9 +132,9 @@ def menu(day):
         food = "Mutton Chaap"
     else:
         food = "Chole Bhature"
-    print "Kya main print ho payungi? :-("
+    print ("Kya main print ho payungi? :-(")
     return food
-    print "Lekin main toh pakka nahi print hounga :'("
+    print ("Lekin main toh pakka nahi print hounga :'(")
 ```
 
 Yahan humne if-elif-else mein directly return statement ka use nahi kiya. Humne ek `food` naam ke variable mein woh value store karva li jo humne return karvani thi. Ab Jab if-elif-else chal jata hai, toh humara program uske neeche wali print statement pe pahunchta hai. Kyunki python ko abhi tak koi return statement nahi mili hai, woh print command chalata hai. Print karne ke baad woh return statement se *food* variable ki value return kar deta hai Lekin jo akhri wali print statement hai woh nahi print hoyegi. Kyunki uss print statement se pehle return statement chal jati hai aur uski vajah se python needche walai print statement tak pahunchti hi nahi hai

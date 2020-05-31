@@ -5,7 +5,7 @@ submissionType: url
 
 Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge
 
-`raw_input` ka use kar ke do values ka input lo:
+`input` ka use kar ke do values ka input lo:
 
 * Number of students
 * Ek student ka kharcha

@@ -9,9 +9,9 @@ Neeche diye gaye code ko dekhiye. Ek baar code ko run kare bina sochiye ki iss c
 ```python
 a = 10
 if a * 2 == 20:
-print "a variable ko 2 se multiply kar ke 20 aata hai"
+print ("a variable ko 2 se multiply kar ke 20 aata hai")
 else:
-print "Nah! a variable ko 2 se multiply kar ke 20 nahi aata."
+print ("Nah! a variable ko 2 se multiply kar ke 20 nahi aata.")
 ```
 
 Aapne kya answer socha? Ab ek baar ekdum aise hi copy paste kar yeh code ek file mein save kar ke run kariye. Aap yeh notice karenge ki yeh code koi output nahi print karta, lekin error de deta hai. Iss error ko samajhne ke liye hume python ke nazariye se sochna padega. Iss program ko python kuch aise chalayegi:
@@ -25,9 +25,9 @@ Iss program ko sahi se aise likhenge:
 ```python
 a = 10
 if a * 2 == 20:
-    print "a variable ko 2 se multiply kar ke 20 aata hai"
+    print ("a variable ko 2 se multiply kar ke 20 aata hai")
 else:
-    print "Nah! a variable ko 2 se multiply kar ke 20 nahi aata."
+    print ("Nah! a variable ko 2 se multiply kar ke 20 nahi aata.")
 ```
 
 Jab python iss sahi program ko run karegi toh uska dimaag kuch aise chalega.
@@ -41,7 +41,7 @@ Iss spacing ko python mein indentation kehte hain. Aur jab bhi indentation relat
 
 ```python
   File "<ipython-input-5-9eaf99c4383b>", line 3
-    print "a variable ko 2 se multiply kar ke 20 aata hai"
+    print ("a variable ko 2 se multiply kar ke 20 aata hai")
         ^
 IndentationError: expected an indented block
 ```
@@ -54,9 +54,9 @@ Hum ek aur example lete hain isko aur ache se samajhne ke liye. Pehle neeche wal
 ```python
 counter = 1
 while counter < 10:
-	print "The counter is" + str(counter)
+	print ("The counter is" + str(counter))
 	counter = counter + 1
-	print '--------'
+	print ('--------')
 ```	
 
 Iss program mein neeche waali 3 lines (‘print "The counter is" + str(counter)’, ‘counter = counter + 1’, ‘print "--------"’) ko indent nahi karoge toh python ko samajh nahi aayegi ki while loop ke baad mujhe kya chalana hai. Wahan woh confuse ho jayegi aur error de degi. Isiliye python mein code ko indent karna bahot important hai. Aap agar sochenge toh realize karenge ki iss program mein code kuch hisson mein bata hua hai:
@@ -71,9 +71,9 @@ Isko samajhne ke liye ek baar ek nayi file neeche diye gaye code ko save kariye 
 ```python
 counter = 1
 while counter < 10:
-	print "The counter is" + str(counter)
+	print ("The counter is" + str(counter))
 	counter = counter + 1
-print '--------'
+print ('--------')
 ```
 
 **Note: Waise toh aap jab code likh rahe hain toh aapke editor ko khud hi indent kar dena chaiye, agar woh nahi karta hai toh aap abhi ke liye Tab key ka use karke indent kar sakte hain.**
@@ -88,15 +88,15 @@ Ek indented code block ke andar dusra indented code block bhi ho sakta hai. Jais
 counter = 1
 while counter < 10:
 	if counter % 2 == 0:
-		print "Counter even number hai."
-	print "The counter is" + str(counter)
+		print ("Counter even number hai.")
+	print ("The counter is" + str(counter))
 	counter = counter + 1
-print '--------'
+print ('--------')
 ```
 
 Yahan yeh dekhiye ki iss code mein indented code blocks ke 2 level exist karte hain.
 
 1. Pehle level ke neeche ‘if counter % 2 == 0’ hai.
-2. Uske neeche waale level pe `print "Counter even number hai."` hai.
+2. Uske neeche waale level pe `print ("Counter even number hai.")` hai.
 
-Yahan python if aur else sirf tab chalati hai jab while loop chal raha hai kyunki woh loop ke neeche hai. `print "Counter even number hai."` sirf tab chalta hai jab loop chal raha hai aur loop ke andar `counter` ki value mein even number hai.
+Yahan python if aur else sirf tab chalati hai jab while loop chal raha hai kyunki woh loop ke neeche hai. `print ("Counter even number hai.")` sirf tab chalta hai jab loop chal raha hai aur loop ke andar `counter` ki value mein even number hai.

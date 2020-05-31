@@ -7,13 +7,13 @@ Kisi bhi program mei hum comments likh sakte hai. Inn comments ko jab hum *progr
 Comments apni understanding ke liye, ya phir jo bhi log uss code par hamare saath kaam kar rahe ho, ya hamare baad kaam karein, etc. unki understanding ke liye bahut important hote hai.
 
 ```python
-print "Yeh print hoyega."
-print "Yeh line bhi print hoyegi"
+print ("Yeh print hoyega.")
+print ("Yeh line bhi print hoyegi")
 # Yeh comment hai.
 # Yeh aap apni aasani ke liye likh sakte ho.
 # Jo bhi line "#" (hash) se shuru hoti hai, woh comment kehlati hai.
 # Aisi line hum programmers apni asani ke liye likhte hain. Computer inko ignore kar deta hai.
-print "Computer upar diye gaye comments ko nahi padega, lekin iss line ko print karega."
+print ("Computer upar diye gaye comments ko nahi padega, lekin iss line ko print karega.")
 ```
 
 ### Aapka program kya karta hai, yeh comments mei likhna ek technical language mei bahut important hai.

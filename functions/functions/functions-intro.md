@@ -7,16 +7,16 @@ name: Functions
 Aise hi python mein hum functions ka use kar ke hum ek baar kuch code likh ke usko bahot baar use kar sakte hain. Isse humara kaam bahot aasan ho jata hai.
 
 ```python
-print “NavGurukul”
+print (“NavGurukul”)
 
 def say_hello():
-    print “Hello!”
-    print “Aap kaise ho?”
+    print (“Hello!”)
+    print (“Aap kaise ho?”)
 
 say_hello()
-print “Python is awesome”
+print (“Python is awesome”)
 say_hello()
-print “Hello…”
+print (“Hello…”)
 say_hello()
 ```
 
@@ -42,7 +42,7 @@ Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam ka
 
 ```python
 names_list = [“Fiza”, “Shivam”, “Imtiyaz”, “Deepanshu”, “Rahman”]
-print len(names_list)
+print (len(names_list))
 ```
 
 Yahan `len(names_list)` ka use kar ke humne jana ki list mein kitne item hai. Ab hum apne code mein `len` ka use kar kisi bhi list ke items ki ginti kar sakte hain. Yahan `len` ek function hai. Functions ke bina humein list ki items ki ginti nikalne ke liye baar baar code likhna padega. Isko behtar samajhne hum aage wale examples mein iska code khud likhenge.
@@ -51,12 +51,12 @@ Hum ek function likhenge. Iss code ko pehle chala ke dekho, aur fir neeche padiy
 
 ```python
 def definition_say_hello():
-    print "NavGurukul"
-    print "NavGurukul mei humein apni learning ki responsibility leni padti hai."
+    print ("NavGurukul")
+    print ("NavGurukul mei humein apni learning ki responsibility leni padti hai.")
 
 definition_say_hello()
 
-print "NavGurukul mei hum sab logo ko ek tarah se treat karte hai."
+print ("NavGurukul mei hum sab logo ko ek tarah se treat karte hai.")
 
 definition_say_hello()
 ```
@@ -77,11 +77,11 @@ Ek aur example FUNCTIONS samajhne ke liye. Iss code ko padh ke output socho. Cha
 
 ```python
 def function_say_bye():
-    print "Aapko mil ke maza aaya. "
-    print "Bye bye"
+    print ("Aapko mil ke maza aaya. ")
+    print ("Bye bye")
 function_say_bye()
 function_say_bye()
-print "Python ka istamaal bahot jagah hota hai."
+print ("Python ka istamaal bahot jagah hota hai.")
 function_say_bye()
 function_say_bye()
 ```
@@ -89,7 +89,7 @@ function_say_bye()
 1. Hum python mein `def` keyword ka use kar ke function banate hain. `def` ke baad function ka naam, `function_say_bye` likha hain. Naam ke baad hum do bracket `(` `)` lagate hain.
 2. Bracket ke baad ek colon, `:` lagate hain. Python semicolon se samajh jaati hai ki function ka code shuru ho raha hai.
 3. Dekhiye ki sara function ka code indent (space) deke likha hua hai. Isse python ko samajh aata hai ki yeh function ke andar ka code hai.
-4. `print "Bye bye"` ke baad code space diye bina likha hua hai. Isse python ko samajh aati hai ki function ka code kahatam ho gaya hai
+4. `print ("Bye bye")` ke baad code space diye bina likha hua hai. Isse python ko samajh aati hai ki function ka code kahatam ho gaya hai
 5. functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.
 
 # FUNCTION CALLS ko samajhna
@@ -98,8 +98,8 @@ Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya n
 
 ```python
 def definition_hello_again():
-    print "Firse Hello :)"
-    print "Aap kaise ho?"
+    print ("Firse Hello :)")
+    print ("Aap kaise ho?")
 ```
 
 Ab apne code mein yeh line add karein aur dekhein ki koi output aati hai.

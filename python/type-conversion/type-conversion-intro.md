@@ -44,18 +44,18 @@ Ab hum dekhte hai ki INTEGER mei conversion kaise karenge. `12` ko python INTEGE
 ```python
 var_a = '12'
 var_b = int(var_a)
-print type(var_a)
-print type(var_b)
-print var_a + var_a
-print var_b + var_b
+print (type(var_a))
+print (type(var_b))
+print (var_a + var_a)
+print (var_b + var_b)
 ```
 
 `12houses` se INTEGER kaise nikalna hai, python nahi samajh pata
 ```python
 var_a = '12houses'
 var_b = int(var_a)
-print type(var_a)
-print type(var_b)
+print (type(var_a))
+print (type(var_b))
 ```
 
 Python `STRING` se `INTEGER` karne ki koshish karta hai, but agar thoda sa bhi confuse hota hai toh **error throw** karta hai. Jaise python 12.2, ya 12houses ko integer mei nahi kar sakta par 12 ko kar sakta hai
@@ -64,8 +64,8 @@ Python `STRING` se `INTEGER` karne ki koshish karta hai, but agar thoda sa bhi c
 ```python
 var_a = '12.2'
 var_b = int(var_a)
-print type(var_a)
-print type(var_b)
+print (type(var_a))
+print (type(var_b))
 ```
 
 # Float se Integer & Float se String
@@ -75,9 +75,9 @@ Kisi bhi `float` se python integer mei convert leta hai, uska dashamlav yaani de
 ```python
 var_a = 12.2
 var_b = int(var_a)
-print type(var_a)
-print type(var_b)
-print var_b
+print (type(var_a))
+print (type(var_b))
+print (var_b)
 ```
 
 Ab hum `FLOATS` mei type cast karna seekhenge. Yeh `INTEGER` mei type cast karne jaise hi hota hai. Khud hi dekhiye.
@@ -85,18 +85,18 @@ Ab hum `FLOATS` mei type cast karna seekhenge. Yeh `INTEGER` mei type cast karne
 ```python
 var_a = '12'
 var_b = float(var_a)
-print type(var_a)
-print type(var_b)
-print var_a + var_a
-print var_b + var_b
+print (type(var_a))
+print (type(var_b))
+print (var_a + var_a)
+print (var_b + var_b)
 ```
 
 ```python
 
 var_a = '12.2'
 var_b = float(var_a)
-print type(var_a)
-print type(var_b)
+print (type(var_a))
+print (type(var_b))
 ```
 
 `12houses` se FLOAT kaise nikalna hai, python nahi samajh pata
@@ -104,8 +104,8 @@ print type(var_b)
 ```python
 var_a = '12houses'
 var_b = float(var_a)
-print type(var_a)
-print type(var_b)
+print (type(var_a))
+print (type(var_b))
 ```
 
 # Integer se Float & Integer se String
@@ -115,9 +115,9 @@ Python bas dashamlav yani decimal point jod deta hai jab hum `INTEGER` ko `FLOAT
 ```python
 var_a = 12
 var_b = float(var_a)
-print type(var_a)
-print type(var_b)
-print var_b
+print (type(var_a))
+print (type(var_b))
+print (var_b)
 ```
 
 Yahan dhyaan se dekho ki python last mein `.0` add kar deta hai. Python mein ek float `12.2` ko `INTEGER` mein convert kar ke dekho. Samjho ki kya ho raha hai.

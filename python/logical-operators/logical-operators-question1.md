@@ -10,9 +10,9 @@ Neeche diye gaye programs ka output bina chalaye guess karne ki koshish karo. Ag
 
 ```python
 if (4 >= 4) and (6 == 5):
-	print "Yes"
+	print ("Yes")
 else:
-	print "No"
+	print ("No")
 ```
 
 ## Question 2
@@ -25,9 +25,9 @@ else:
 
 ```python
 if (6 == 5) and (4 >= 4):
-	print "Yes"
+	print ("Yes")
 else:
-	print "No"
+	print "No")
 ```
 
 ## Question 4
@@ -37,25 +37,25 @@ x = 4
 y = 5
 z = 10
 
-print (x + y) / (z * 1)
+print ((x + y) / (z * 1))
 
 if (x > z) or (y > x):
-	print "Yes"
+	print ("Yes")
 else:
-	print "No"
+	print ("No")
 	
 if not (x == z):
-	print "Wow"
+	print ("Wow")
 else:
-	print "No wow!!"
+	print ("No wow!!")
 
 
 if (x < y) and (x > y):
-	print "Yes 123"
+	print ("Yes 123")
 else:
-	print "No 456"
+	print 9"No 456)"
 
-print (z / y) * x
+print ((z / y) * x)
 ```
 
 ## Question 5
@@ -70,14 +70,14 @@ print pehlaBool and doosraBool
 print pehlaBool or doosraBool
 
 if not pehlaBool:
-	print "yeh kya hua?"
+	print ("yeh kya hua?")
 else:
-	print "pata nahi kya hua??"
+	print ("pata nahi kya hua??")
 
 print not doosraBool
 
 if (pehlaBool and doosraBool):
-	print "Yes"
+	print ("Yes")
 
 print (pehlaBool or doosraBool)
 
