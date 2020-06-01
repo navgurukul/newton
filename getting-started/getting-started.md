@@ -23,12 +23,6 @@ NavGurukul ke campus ko manage karne ki zimmedari aapke jaise hi kuch students l
 ## Self and Peer led Learning
 NavGurukul mein aap kafi saare skills seekhnege lekin yahan koi teachers nahin hai. Aapki learning ki sabse zyada responsibility aapki khud hai. Aap internet par available kafi saare resources, NavGurukul dwara banaye gaye curriculum aur ek dusre ki help lekar seekhenge. Sath hi apko kuch mentors assign kiye jaenge jo aapki help karenge ye samajhne mein ki aapko kya padhna hai aur kahan se padhna hai. Aap kitna jaldi ya kitna dheere seekhte hain, ye aapki mehnat ke upar depend karta hain.
 
-## Cliq
-NavGurukul mein aapas me communication ke liye hum 'Cliq' app use karte hain. Aap apne facilitator ke saath milkar apni Cliq ID banaen aur relevant channels mein add ho jaen. Aapki padhai aur daily tasks se related kafi jaankari apko cliq par milti rahegi. Saath hi aapko NavGurukul ke kisi bhi student, team members ya volunteers ke sath connect karne ke liye bhi aap Cliq use karenge.
-Aap is link par Cliq access kar sakte ho: <https://www.zoho.com/cliq/>
-
-
-
 ## Dhyaan Rakhein!
 
 - Koshish karke English mei jitna bol sako, utna English mei bolo.

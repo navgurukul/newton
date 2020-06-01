@@ -31,6 +31,4 @@ amar 1/18
 Yaani
 `{username} {number_of_positive_posts}/{number_of_total_posts}`
 
-Kuch bhi clarifications ke liye, aap cliq par #diwaliProjects channel par pooch sakte hai. Par aapko aapke code ki har ek line clear honi chahiye, ki aapne kyu kya kiya hai. Uss ke basis par hi aapka interview hoga.
-
 Good luck and happy coding.
