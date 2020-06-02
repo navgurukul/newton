@@ -1,1 +1,0 @@
-Iss framework se aap samajh paayenge ki NavGurukul ki soch kya hai, aur woh soch aap se kitni milti hai. Saath mei aap samajh paayenge ki learning ke liye kya kya karna jaroori hota hai, jisse aap behtar tareeke se seekh sakte hai.

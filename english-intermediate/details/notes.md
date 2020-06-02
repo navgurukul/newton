@@ -1,1 +1,0 @@
-This course contains activities and grammar lessons to learn English.
