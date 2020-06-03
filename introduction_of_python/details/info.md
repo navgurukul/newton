@@ -1,5 +1,5 @@
 ```ngMeta
-name: Introduction Of Python
+name: Introduction To Python
 type: html
 days_to_complete: 10
 short_description: Iss topic mai hum python ka Introduction ke bare mai janege

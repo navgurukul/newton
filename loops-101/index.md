@@ -22,3 +22,18 @@
   - question7.md
 - LoopConditions
   - introduction.md
+- QuestionSet3
+	- loops-code-question1.md
+	- loops-code-question2.md
+	- loops-code-question3.md
+	- loops-code-question4.md
+	- loops-code-question5.md
+	- loops-code-question6.md
+	- loops-code-question7.md
+	- loops-code-question8.md
+	- loops-code-question9.md
+	- loops-code-question10.md
+- debugging-part2
+	- debugging-intro.md
+	- debugging-question1.md
+	- debugging-question2.md
