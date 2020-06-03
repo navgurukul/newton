@@ -25,5 +25,3 @@ Yeh bahut simple sa database hai, jo python mei hi likha hua hai. Iska source co
 
 ## TinyDB
 Yeh database bhi python mei likha hua hai. Iska source code [yaha](https://github.com/msiemens/tinydb) par available hai. Iss course ke next part mei hum, yeh wala database implement karenge.
-
-Iss topic se related koi v discussion krne ke lye is link pr jaaye : [Database_course](https://cliq.zoho.com/channels/pythonrequestdatabase)
