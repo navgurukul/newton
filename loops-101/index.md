@@ -12,7 +12,7 @@
 - QuestionSet2
   - introduction.md
   - question1.md
-    - solution1.md
+  - solution1.md
   - question2.md
   - question3.md
   - solution1.md
