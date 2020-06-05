@@ -1,7 +1,4 @@
-- strategies.md
 - 2-howtouse.md
-- levelone
-	- stories.md
 - leveltwo
 	- stories.md
 - levelthree

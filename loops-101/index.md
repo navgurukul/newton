@@ -15,7 +15,6 @@
   - solution1.md
   - question2.md
   - question3.md
-  - solution1.md
   - question4.md
   - question5.md
   - question6.md
@@ -23,7 +22,7 @@
 - LoopConditions
   - introduction.md
 - QuestionSet3
-	- loops-code-question1.md
+  - loops-code-question1.md
 	- loops-code-question2.md
 	- loops-code-question3.md
 	- loops-code-question4.md

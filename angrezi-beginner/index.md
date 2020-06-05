@@ -1,6 +1,5 @@
 - gettingstarted.md
 - assessment.md
-- introduction.md
 - identify-personality.md
 - simplepresent
   - videos.md

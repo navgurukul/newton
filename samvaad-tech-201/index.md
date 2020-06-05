@@ -10,7 +10,6 @@
 - bot_file.md
 - server.md
 - search_engine.md
-- Backend.md
 - Frontend.md
 - domain.md
 - github.md
@@ -31,6 +30,5 @@
 - antivirus.md
 - google.md
 - tcs.md
-- 404_error_found.md
 - todo.md
 
