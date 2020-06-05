@@ -1,5 +1,5 @@
--introductionToPython.md
--ifElse.md
+- introductionToPython.md
+- ifElse.md
 - loops-course-link.md
 - lists.md
 - functions

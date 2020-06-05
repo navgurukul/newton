@@ -1,19 +1,15 @@
-- if-statement-flowcharts
-	- if-statement-intro.md
-	- how-to-make-flowchart.md
-	- if-flowchart-question1.md
-	- if-flowchart-question2.md
-	- if-flowchart-question3.md
-	- if-flowchart-question4.md
-	- if-flowchart-question5.md
-- if-statement-with-code
-	- if-statement-code-intro.md
-	- if-code-question1.md
-	- if-code-question2.md
-	- if-code-question3.md
-	- if-code-question4.md
-	- if-code-question5.md
-	- if-code-question6.md
-	- if-code-question7.md
-	- if-code-question8.md
-	- if-code-question9.md
+- variables	
+	- variables-intro.md	
+	- variables-question.md	
+	- variables-naming-rules.md	
+	- variables-naming-conventions.md	
+	- variables-naming-question1.md	
+	- variables-naming-question2.md	
+	- variables-naming-question3.md	
+	- variables-naming-question4.md	
+- type-conversion	
+	- type-conversion-intro.md	
+	- type-conversion-question.md	
+	- user-input-type-conversion.md	
+	- user-input-question1.md	
+	- user-input-question2.md
