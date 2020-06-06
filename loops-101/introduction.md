@@ -6,9 +6,6 @@ name: Introduction to Loops
 
 Agar humein koi bhi kaam baar baar karna ho toh computers humein bahot asani se uss kam ko karne mein help karte hain. Jaise agar mujhe apne 100 friends ko ek eMail bhej ke kisi event ke baare mein batana ho toh main ek ek kar ke har kisi ko eMail bhejne mein bore ho jaungi. Yeh karte karte mujhe bahot mushkil bhi hogi. Aur galti karne ka dar bhi hai. Loops ka istemaal karke same type ka kaam hum baar baar karva sakte hain computers se.
 
-```ngMeta
-name: Writing Code for Loops
-```
 
 # Writing code for loops
 
@@ -81,5 +78,3 @@ Iss video mein hum ache se loops ke baare mein samjhenge aur code likhna seekhen
 9. Take the same example to print the even numbers between 20 to 40. But here do i+2 to do it.
 
 <!-- Ab humne loops ke videos toh dekh liye. Ab aage kuch problems ki solutions dekhte hain. Uske baad kuch problems ko khud solve karenge. -->
-
-All the best :)
