@@ -53,7 +53,9 @@ Iss video mein hum ache se loops ke baare mein samjhenge aur code likhna seekhen
 
 <!-- ## Structure of the Video -->
 1. Loops help us do the same things again and again. Same work can be done again and again.
+
 2. Take an example of getting laptops from a car to the house. If there are 50 laptops in the car.
+
 3. Explain this from the concept of Jab tak. Jab tak (ghar mein laptops 0 nahi ho jaate) {tab tak laptops lao aur gaadi mein rakho.}
       - Kaam baar baar karna hai.
       - But kitni baar karna hai? Woh jab tak se decide hota hai.
@@ -76,5 +78,3 @@ Iss video mein hum ache se loops ke baare mein samjhenge aur code likhna seekhen
 7. Take another example on how printing the even numbers from 20 to 40.
 8. In the 20 to 40 example talk about where to add the if statements. Adding the if statement outside and adding the if statement inside. (This also needs to be shown on how writing if statements inside and outside will create a difference.). i+1 and % should be used.
 9. Take the same example to print the even numbers between 20 to 40. But here do i+2 to do it.
-
-<!-- Ab humne loops ke videos toh dekh liye. Ab aage kuch problems ki solutions dekhte hain. Uske baad kuch problems ko khud solve karenge. -->
