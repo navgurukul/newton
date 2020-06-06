@@ -1,6 +1,5 @@
 ```ngMeta
 name: Counter Examples
-completion_method: manual
 ```
 
 # Counter Examples
