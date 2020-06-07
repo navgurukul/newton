@@ -1,6 +1,5 @@
 ```ngMeta
 name: Introduction to Loops
-completion_method: manual
 ```
 
 # Understanding Loop Conditions
