@@ -1,6 +1,6 @@
 ```ngMeta
 name: Functions
 type: html
-daysToComplete: 10
+days_to_complete: 10
 shortDescription: Iss topic mai hum functions ke bare mai janege
 ```
