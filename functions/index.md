@@ -1,9 +1,8 @@
-- functions
-	- functions-intro.md
-	- functions-question1.md
-	- functions-args.md
-	- functions-question2.md
-	- functions-question3.md
-	- functions-question4.md
-	- functions-return_values.md
-	- functions-question5.md
+- functions-intro.md
+- functions-question1.md
+- functions-args.md
+- functions-question2.md
+- functions-question3.md
+- functions-question4.md
+- functions-return_values.md
+- functions-question5.md
