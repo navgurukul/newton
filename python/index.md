@@ -2,42 +2,7 @@
 - ifElse.md
 - loops-course-link.md
 - lists.md
-- functions
-	- functions-intro.md
-	- functions-question1.md
-	- functions-args.md
-	- functions-question2.md
-	- functions-question3.md
-	- functions-question4.md
-	- functions-return_values.md
-	- functions-question5.md
-- exercises
-	- intro.md
-	- question1.md
-	- question2.md
-	- question3.md
-	- question4.md
-	- question5.md
-	- question6.md
-	- question7.md
-	- question8.md
-	- question9.md
-	- question10.md
-	- question11.md
-- debugging-part3
-	- debugging-intro.md
-	- debugging-question1.md
-	- debugging-question2.md
-	- debugging-question3.md
-	- debugging-question4.md
-- files
-	- files-intro.md
-	- files-question1.md
-	- files-question2.md
-	- files-question3.md
-	- files-question4.md
-- debugging-part4
-	- debugging-intro.md
-	- debugging-question1.md
-	- debugging-question2.md
-	- debugging-question3.md
+- functions.md
+- moreExercise.md
+- files.md
+

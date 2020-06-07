@@ -42,3 +42,7 @@
 - advanced-questions
   - introduction.md
   - bubble-sort.md
+- debugging-part2
+	- debugging-intro.md
+	- debugging-question1.md
+	- debugging-question2.md

@@ -32,7 +32,4 @@
 	- loops-code-question8.md
 	- loops-code-question9.md
 	- loops-code-question10.md
-- debugging-part2
-	- debugging-intro.md
-	- debugging-question1.md
-	- debugging-question2.md
+

@@ -1,5 +1,5 @@
 ```ngMeta
-name: Debugging Part 3
+name: Debugging Part 2
 ```
 
 # Debugging
