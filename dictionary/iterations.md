@@ -1,5 +1,5 @@
 ```ngMeta
-name:  Iteration :-
+name:  Iteration
 submission_type: url
 ```
 
