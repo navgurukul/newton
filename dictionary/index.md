@@ -1,1 +1,24 @@
 - intro_dictionary.md
+- add_element_to_dictionary.md
+- update_element_dictionary.md
+- remove_element_dictionary.md
+- access_element_dictionary.md
+- iteration.md
+- Questions
+    -intro.md
+    -question1.md
+    -question2.md
+    -question3.md
+    -question4.md
+    -question5.md
+    -question6.md
+    -question7.md
+    -question8.md
+    -question9.md
+    -question10.md
+    -question11.md
+    -question12.md
+    -question13.md
+    -question14.md
+    -question15.md
+    

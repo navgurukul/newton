@@ -22,6 +22,7 @@
 - LoopConditions
   - introduction.md
 - QuestionSet3
+  - intro.md
   - loops-code-question1.md
   - loops-code-question2.md
   - loops-code-question3.md
