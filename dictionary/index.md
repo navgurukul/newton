@@ -1,8 +1,8 @@
 - intro_dictionary.md
+- access_element_dictionary.md
 - add_element_to_dictionary.md
 - update_element_dictionary.md
 - remove_element_dictionary.md
-- access_element_dictionary.md
 - iterations.md
 - Questions
     - intro.md

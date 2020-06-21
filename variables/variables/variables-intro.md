@@ -46,3 +46,71 @@ Abb inko aise print karke output dekho.
 ```python
 print (variable_x, a, b)
 ```
+
+### Dry Run 
+
+Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
+
+Variables ka dry run samajhne ke liye aap iss video ko dekhein aur samjhe.
+@[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
+
+
+```python
+a = 3
+b = 4
+c = a * b
+a = b * c
+b = a + c
+c = a + b + c
+```
+
+```python
+a = 1
+b = 2
+b = a
+```
+
+```python
+a = 7
+b = 8 * 4
+b = a
+```
+
+```python
+a = 1
+b = 2
+c = b
+b = a 
+a = c
+```
+
+```python
+a = 1
+b = a*2
+c = b*2
+a = c*2
+```
+
+```python
+ a = 100
+ a = a + 50
+ a = a / 3
+ a = a * 2
+```
+
+```python
+ a = 10
+ b = 10
+ c = a * b
+ a = c - b
+ b = c + a
+ c = a * c
+```
+
+Iska solution verify ya samajhne k liye aap yeh videos dekh sakte ho.
+
+@[youtube](https://www.youtube.com/watch?v=fny5w_YKSc8)
+
+@[youtube](https://www.youtube.com/watch?v=RsmMloOHrRQ)
+
+@[youtube](https://www.youtube.com/watch?v=pyFetzD0b38)

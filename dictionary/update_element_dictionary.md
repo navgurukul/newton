@@ -15,7 +15,7 @@ person[3] = 'male'
 print(person)
  ```
 *Output:-*
-` {'1': 'Abhi', 2: 17,3:'male'}`
+` {'1': 'Abhi', '2': 17,'3':'male'}`
 
 **Example 2-**
 

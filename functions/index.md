@@ -6,3 +6,15 @@
 - functions-question4.md
 - functions-return_values.md
 - functions-question5.md
+- innerFunction.md
+- Questions
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+    - question5.md
+    - question6.md
+    - question7.md
+    - question8.md
+
