@@ -3,13 +3,20 @@ name:  Question 5
 submission_type: url
 ```
 
-Ek program likhiye jo ki dictionaries ki values ka sum print kare.
+Do lists lekar ek dictionary banaiye jisme  pehli list ke elements keys ho aur dusri list ke elements unn keys ki values ho.
+
 **Example :-**
+
+
+`Input :-`
 ```python
-my_dict = {
-    'data1':100,
-    'data2':-54,
-    'data3':247
-    }    
+
+list1=[“one”,”two”,”three”,”four”,”five”]
+
+list2=[1,2,3,4,5,] 
  ```
-`Expected Result:-293`
+
+`Output :- `
+``` 
+{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}
+ ```

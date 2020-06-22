@@ -3,15 +3,19 @@ name:  Question 2
 submission_type: url
 ```
 
-Ek program likhiye jisse ki niche di hui dictionaries ek hi dictionary me aa jaaye jaise ki niche Expected result me diya gaya hain.
+Ek program likhiye jisse ki agar di hui key pehle se dictionary me exist karti ho toh  “exists “ print kare aur agar nahi karti ho toh “not exists” print kare.
 
-**Example:-** 
 
-```python
-dic1={1:10, 2:20}
-dic2={3:30, 4:40}
-dic3={5:50,6:60}
+
+***Example :-***
+
+```
+dict={“name”:”Raju”, “marks”:56}
  ```
-*Expected Result :*
 
-`{1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}`
+```
+if input is “name” then output will be “exist”
+
+If input is “class” then output will be “not exists”.
+ ```
+
