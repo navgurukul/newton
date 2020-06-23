@@ -5,16 +5,19 @@ submission_type: url
 
 Q.9 Apki pass ek shopping name ki ek dictionary hai
 
+
 ```
 {
     "shopping_list":
-        { "chaco":"15",
+        { 
+            "chaco":"15",
             "Biscuits":"50",
             "Diary_milk":"30",
             "ice_cream":"20",
         } 
 }
  ```
+
 
 Apki dictionary ka use kar ke ek json file create karna hai.
 Aur apko kuch task perform karne hai jaise ki 
@@ -34,8 +37,9 @@ Aur apko kuch task perform karne hai jaise ki
   
 `Output:-`
 
-```
- show shopping_list:- 
+
+``` 
+show shopping_list:- 
 
 {
     "shopping_list":{ 
@@ -44,7 +48,6 @@ Aur apko kuch task perform karne hai jaise ki
         "Diary_milk":"30",
         "ice_cream":"20",
          } 
-} 
-
-
+}
  ```
+ 
