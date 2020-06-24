@@ -109,3 +109,6 @@ print(Dic)
 
 `{1: 'NAVGURUKUL', 2: 'IN', 3: {'A': 'WELCOME', 'B': 'To', 'C': 'DHARAMSALA'}}`
 
+@[youtube](https://www.youtube.com/watch?v=daefaLgNkw0)
+
+@[youtube](https://www.youtube.com/watch?v=0g1ogNP5doA)
