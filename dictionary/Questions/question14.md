@@ -1,19 +1,25 @@
 ```ngMeta
-name:  Question 14
+name:  Question 15
 submission_type: url
 ```
-Ek code likhiye jo dictionary ki 3 highest value print karaye. 
 
-**Example :-**
-```python
-my_dict = {
-    'a':50, 
-    'b':58,
-    'c': 56,
-    'd':40,
-    'e':100, 
-    'f': 20
-    }
+Ek program likho jo ki dictionaries ki values ko sort(ascending or descending) kar de.
+
+
+`Input :- `
+
+```
+{'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}
  ```
 
-` expect result:-['e','b','c']`
+```
+Expected result in Ascending Order:
+
+{'param':20,'anjili':30,'bijender':45,'roshini':50,'deepak':60}
+ ```
+```
+Expected result in Descending Order:
+
+{'deepak':60,'roshini':50,'bijender':45,'anjili':30,'param':20}
+ ```
+

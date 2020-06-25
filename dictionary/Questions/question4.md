@@ -14,14 +14,12 @@ Ek program likhiye jo ki nested dictionary me se first key or value ko remove ka
    	Dic= {
         1: 'NAVGURUKUL',
         2: 'IN',  
-  	   {3:
-            {
+  	    3:{    
              'A' : 'WELCOME',
              'B' : 'To',
              'C' : 'DHARAMSALA'
             }
         }
-       }
  ```
  
 `Output :- `
@@ -29,12 +27,11 @@ Ek program likhiye jo ki nested dictionary me se first key or value ko remove ka
 Dic= {
     1: 'NAVGURUKUL',
     2: 'IN',  
-  	{3:
+  	3:
       { 'B' : 'To',
         'C' : 'DHARAMSALA'
        }
     }
-}
  ```
 
 
