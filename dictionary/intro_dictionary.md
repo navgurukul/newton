@@ -36,15 +36,15 @@ print(type city_population)
 8550405
 
 {
-    'Toronto': 2731571, 
-    'Houston': 2296224, 
-    'Vancouver': 631486, 
-    'Los Angeles': 3971883, 
-    'Chicago': 2720546, 
-    'Calgary': 1239220, 
-    'New York City': 8550405, 
-    'Boston': 667137, 
-    'Montreal': 1704694
+   "NewYorkCity":8550405,
+    "LosAngeles":3971883, 
+    "Toronto":2731571, 
+    "Chicago":2720546, 
+    "Houston":2296224, 
+    "Montreal":1704694, 
+    "Calgary":1239220, 
+    "Vancouver":631486, 
+    "Boston":667137
 }
 
 <type 'dict'>
