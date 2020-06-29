@@ -3,7 +3,7 @@
 The complete structure of a course is explained here. This will help you create a new course in this repo :) You can also browse through other courses (every directory is a course) to understand more about the structure. 
 
 # Structure of a course on SARAL
-Every course has a seperate directory within this repo. Like the Python course has a `python` directory, html course has a `html` directory and so on.
+Every course has a seperate directory within this repo. Like the Python Course has a `python` directory, HTML Course has a `html` directory and so on.
 
 ## index.md?
 This is the single most important file where you store the list of the contents in the course. Looking at following for an example:
@@ -66,7 +66,7 @@ exercise-3/exercise-3.md
 Notice how `exercise-3` directory has three files inside while the tree structure in the screenshot only has 2 children under it. This is because here in `index.md` the file `exercise-3.md` is marked as a parent exercise while the other two are marked as child. Notice how they are intended in the above snippet. When the learner/student clicks on `Exercise 3` on SARAL the contents of `exercise-3.md` will be shown.
 
 
-## Images in the course
+## Images in the Course
 
 The images related to a course should exist within directory of the particular course. In case there are a lot of images it can also make sense to have exercise specific directories for images to make organising this easy.
 
