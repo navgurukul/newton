@@ -3,7 +3,7 @@
 The complete structure of a course is explained here. This will help you create a new course in this repo :) You can also browse through other courses (every directory is a course) to understand more about the structure. 
 
 # Structure of a course on SARAL
-Every course has a seperate directory within this repo. Like the Python course has a `python` directory, `html` has a `html` directory and so on.
+Every course has a seperate directory within this repo. Like the Python course has a `python` directory, html course has a `html` directory and so on.
 
 ## index.md?
 This is the single most important file where you store the list of the contents in the course. Looking at following for an example:
@@ -27,7 +27,7 @@ This is the single most important file where you store the list of the contents 
 - exercise-5.md
 ```
 
-These files have to exist in the parent directory. `introduction-to-loops.md` is a folder, and `understanding-while-loops.md` etc. are files that are to exist in the directory. 
+These files have to exist in the parent directory. `introduction-to-loops` is a folder, and `understanding-while-loops.md` etc. are files that are to exist in the directory. 
 
 The `details` directory has two main files, `info.md` and `details.md`
 
@@ -36,13 +36,13 @@ The `details` directory has two main files, `info.md` and `details.md`
 This has some meta information of the course which is used when putting the course in the database. Here is a sample file
 
 ````markdown
-```ngMeta
+ngMeta
 name: Basics of Programming using Python
 type: python
 daysToComplete: 45
 shortDescription: We will learn the basics of programming using this course.
 logo: http://google.com/logo.png
-```
+
 ````
 
 All the meta information about a course needs to be nested within a `ngMeta` tag in the markdown file.
