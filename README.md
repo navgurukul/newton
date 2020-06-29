@@ -36,13 +36,13 @@ The `details` directory has two main files, `info.md` and `details.md`
 This has some meta information of the course which is used when putting the course in the database. Here is a sample file
 
 ````markdown
-ngMeta
+```ngMeta
 name: Basics of Programming using Python
 type: python
 daysToComplete: 45
 shortDescription: We will learn the basics of programming using this course.
 logo: http://google.com/logo.png
-
+```
 ````
 
 All the meta information about a course needs to be nested within a `ngMeta` tag in the markdown file.
