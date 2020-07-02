@@ -2,7 +2,7 @@
 Loops karne ke liye aap yeh course complete karein - [http://saral.navgurukul.org/course?id=83](http://saral.navgurukul.org/course?id=83).
 
 ```
-while (course_is_clear=true):
+while (!course_is_clear):
  do_the_course()
 
 next_course()
