@@ -6,5 +6,3 @@ name: If Statement
 
 If aapko yeh course samajh aa jaye, toh aage badh jayein.
 Else course ko dobara dhyaan se padhein.
-
-Uss course ko kar kar aap yaha se hi continue karo.
