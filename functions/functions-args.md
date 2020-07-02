@@ -2,7 +2,7 @@
 name: Function Arguments
 ```
 
-# What are function arguments?
+## What are function arguments?
 
 Abhi tak humne jo bhi functions code kare hain, unme kuch bahot simple print statements hain. Hum aise functions bhi likh sakte hain jo kuch data leke uss data ke saath kuch karte hain. Iss code ko chala ke dekho.
 
@@ -11,7 +11,24 @@ numbers_list = [1, 2, 3, 4, 5, 6, 7, 10, -2]
 print (max(numbers_list))
 ```
 
-Yahan humne `max` function ko `numbers_list` di aur usne usme se sabse badi value hume de di. Aise hi len function bhi ek list leke hume list mein items ki ginti deta hai.
+Yahan humne `max` function ko `numbers_list` di aur usne usme se sabse badi value hume de di. 
+
+**max** function, python ka ek pre-defined function hai jise hum use kar sakte hai aur iske liye hume def max( ) likh kar usme code likhne ki koi jarurat nahi hai kyuki python banane wale ne humare liye ye kaam pehle hi kar diya hai.
+
+Aise hi len function bhi ek list leke hume list mein items ki ginti deta hai.
+
+len( ) function ka use hum kisi array ya sequence ki length find karne ke liye karte hai.Yeh  bhi python mai pre-define function hai.
+
+`Example :-`
+
+```python
+
+a=[1,2,3,4,5,6]
+print(len(a))
+ ```
+
+`Output :-`
+6
 
 Neeche diye gaye code ko chala ke dekho aur ek baar socho ki kya ho raha hai.
 
@@ -22,7 +39,7 @@ def say_hello(name):
 say_hello("Aatif")
 ```
 
-Yahan humne function ko ussi tareeke se define kiya hai jaise pichle examples mein kiya tha. Lekin dhyan se dekho toh `def say_hello` ke baad brackets mein humne `name` likha hai aur, aur neeche ek `name` variable ko print command ke saath use kar rahe hain. Yahan name ko parameter kehte hain jiski value hum function call karne ke time de sakte hain. Aakhri line mein function call karte vakt humne brackets ke andar `"Aatif"` likha hai. Function call karte vakt hum jo parameters ko value dete hain, unko arguments kehte hain.
+Yahan humne function ko ussi tareeke se define kiya hai jaise pichle examples mein kiya tha. Lekin dhyan se dekho toh `def say_hello` ke baad brackets mein humne `name` likha hai aur, aur neeche ek `name` variable ko print command ke saath use kar rahe hain. Yahan name ko *parameter* kehte hain jiski value hum function call karne ke time de sakte hain. Aakhri line mein function call karte vakt humne brackets ke andar `"Aatif"` likha hai. Function call karte vakt hum jo parameters ko value dete hain, unko arguments kehte hain.
 
 Toh basically humne iss example mein yeh kiya aur seekha:
 
@@ -51,7 +68,7 @@ Yahan humne ek `add_numbers` naam ka function define kara hai. Lekin dekho ki br
 
 * `120` ki value *pehle parameter* `number1` mein jaati hai jo ki function ke andar same naam ke variable number1 mein hai
 * `50` ki value *dusre parameter* `number2` mein jaati hai jo ki function ke andar same naam ke variable number2 mein hai
-* Baad mein humne do variable define kare hain, `num_x` and `num_y` aur fir add_numbers ko num1 aur num2 arguments deke call kiya hai. Yahan bhi:
+* Baad mein humne do variable define kare hain, `num_x` and `num_y` aur fir add_numbers ko num_x aur num_y arguments deke call kiya hai. Yahan bhi:
 * `num_x` ki value `134` pehle parameter `number1` mein jaati hai aur `num_y` ki value `22` dusre parameter `number2` mein jaati hai.
 
 Aur ache se samajhne ke liye ek aur example dekhte hain.

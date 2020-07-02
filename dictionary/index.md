@@ -20,4 +20,23 @@
     - question12.md
     - question13.md
     - question14.md
+- OutputOfCode
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+    - question5.md
+    - question6.md
+    - question7.md
+- DebugCode
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+- BonusTask
+    - intro.md
+ 
+
         

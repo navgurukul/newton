@@ -27,7 +27,7 @@ city_population = {
 
 print(city_population["NewYorkCity"])
 print(city_population)
-print(type city_population)
+print(type(city_population))
  ```
 
 `Output`
@@ -72,6 +72,7 @@ green
 red
 KeyError: bat
 
+// KeyError tab aati hai jab key dictionay mai nahi hoti hai.
  ```
 *Dict* me *“ball”* ek key hai aur *“green”* uski value hai. Isi tarah *“Ball”* dusri key hai aur *“red”* uski value hain.
 

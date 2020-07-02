@@ -18,7 +18,7 @@ Aap kaise ho?
 None
 ```
 
-Yahan dekho `len` ne jo value vapas di woh `x` mein chali gayi. Yahan `x` ki value 5 hai. Lekin humare `say_hello` function ne sirf kuch print kiya lekin vapas nahiz diya kyunki result variable ki value `None` hai. None ka matlab hota hai `kuch nahi`.
+Yahan dekho `len` ne jo value vapas di woh `x` mein chali gayi. Yahan `x` ki value 5 hai. Lekin humare `say_hello` function ne sirf kuch print kiya lekin vapas nahi diya kyunki result variable ki value `None` hai. None ka matlab hota hai `kuch nahi`.
 
 Ek simple addition ka function likhte hain jo data vapas deta hai.
 

@@ -13,6 +13,7 @@ Ek function likhiye jo ki ek limit naam ka parameter lega aur 0 se limit tak ke 
 ```
 10
  ```
+3 aur 5 ke multiples => 3, 5, 6, 9, 10
 
 `Output :-`
 

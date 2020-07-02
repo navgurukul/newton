@@ -4,7 +4,8 @@ name: Functions
 
 # Basics of Functions
 
-Aise hi python mein hum functions ka use kar ke hum ek baar kuch code likh ke usko bahot baar use kar sakte hain. Isse humara kaam bahot aasan ho jata hai.
+Function ek block of code hota hai jo ki run hota hai jab hum use call karte hai. Function mei hum data pass kar sekhte hai jise hum parameter kahete hai. Function data return karta hai. Functions ka use kar ke hum ek baar kuch code likh kar usko bahot baar use kar sakte hai. Isse humara kaam bahot aasan ho jata hai.
+
 
 ```python
 print (“NavGurukul”)
@@ -36,7 +37,7 @@ Aap Kaise ho?
 
 Dhayn se dekho ki code mein jahan bhi `say_hello()` likha hai, wahan `Hello!` aur `Aap kaise ho?` waali lines print ho gayi hain. Yeh isliye hua hai kyunki humne ek baar doosri line mein `def say_hello()` ka use kar ke ek function likh diya. Ab jab bhi yeh function call hoga toh iske andar waala code chal jayega. Iss tareeke se hum baar baar ek code ko user kar sakte hain.
 
-# Introduction to Functions
+## Introduction to Functions
 
 Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain. Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
 
@@ -73,7 +74,7 @@ Ek aur example FUNCTIONS samajhne ke liye. Iss code ko padh ke output socho. Cha
 ![](assets/function_defn_inst_4.png)
 5. Aakhir mein humne firse `definition_say_hello()` likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - *2 print* command chal jati hai.
 ![](assets/function_defn_inst_5.png)
-6. Yahan yeh dekho ki kaise `NavGurukul delhi mein hai` ke upar aur neeche `definition_say_hello()` ke andar wali print command ki values print hue hain.
+
 
 ```python
 def function_say_bye():
@@ -92,7 +93,7 @@ function_say_bye()
 4. `print ("Bye bye")` ke baad code space diye bina likha hua hai. Isse python ko samajh aati hai ki function ka code kahatam ho gaya hai
 5. functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.
 
-# FUNCTION CALLS ko samajhna
+## Function Call ko samajhna
 
 Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya nahi. Nahi aa raha toh kyun nahi aa rahi?
 
@@ -113,3 +114,5 @@ Python mein sirf function likh dene se function ka code chalta nahi hai. Yahan p
 Fir humne baad mein `definition_hello_again()` likh ke function ko bulaya aur usme likha hua code chalwaya. Isko **"FUNCTION CALL"** karna kehte hain. **"FUNCTION CALL"** mein hum function ke naam ke baad 2 bracket `(` `)` lagate hain. Isse python ko pata chalta hai ki function ke andar ka code chalana hai.
 
 @[youtube](https://www.youtube.com/watch?v=WkC7ktXM_8k)
+
+@[youtube](https://youtu.be/AJJpGImQWLc)

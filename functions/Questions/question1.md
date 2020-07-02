@@ -3,7 +3,7 @@ name:  Question 1
 submission_type: url
 ```
 
-Ek function likho jo ki user ko bataye ki vo (he/she) vote de sakta hai ya nahi.
+eligible_for_vote name ka function likho jo ki user ko bataye ki vo (he/she) vote de sakta hai ya nahi.
 ( Consider minimum age of voting to be 18. )
 
 
