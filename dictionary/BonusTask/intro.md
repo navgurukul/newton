@@ -14,4 +14,3 @@ Iss Task mai apko dictionary ke bare mai three new concepts padne hai.
 App ek google doc par apni understand likh kar apne mentor se share karenge aur concepts se related kuch questions bhi karenge.
 
 App ek class lenge jisme apne jo new concepts sikhe hai woh explain karenge.
- :-)
