@@ -5,12 +5,12 @@ name: Lessons
  
 #### Basic Feature of Email
 
-@[youtube](ZHgyNZ0pGPc)
+@[youtube](https://www.youtube.com/watch?v=ZHgyNZ0pGPc)
 
 
 #### How to Reply to an Email
 
-@[youtube](uJKy4Jp-84w)
+@[youtube](https://www.youtube.com/watch?v=uJKy4Jp-84w)
 
 
 
