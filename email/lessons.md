@@ -3,7 +3,7 @@ name: Lessons
 ```
 
  
-#### Basic Feature of Email
+#### Basic Features of Email
 
 @[youtube](https://www.youtube.com/watch?v=ZHgyNZ0pGPc)
 
