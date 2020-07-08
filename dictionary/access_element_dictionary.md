@@ -19,13 +19,17 @@ person={
     4:'organisation'}
 
 result = person['age'] 
+x = person.get("gender")
 print(person[4])
+print(x)
 print(result)
  ```
     
 *Output:-*
 
-`organisation 20 ` 
+`organisation male 20 ` 
+
+**get** function bhi dictionary ki value access karne mai help karta hai. 
 
 **Example 2:-**
 ```python

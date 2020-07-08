@@ -77,6 +77,23 @@ KeyError: bat
 *Dict* me *“ball”* ek key hai aur *“green”* uski value hai. Isi tarah *“Ball”* dusri key hai aur *“red”* uski value hain.
 
 
+
+### dict() function
+
+Aap dict() ka use kar ke dictionary bana sakte hai
+
+`Example:-`
+
+```python
+student=dict(name= "Ravina",age= 20)
+print(student)
+ ```
+
+`Output:- `
+
+`{'age': 20, 'name': 'Ravina'}`
+
+
 ### DataType of Keys and Values
 
 Ek *dictionary* me values kisi bhi datatype ke ho sakte hain aur ye same bhi ho sakti hai lekin keys humesha unique hoti hai.

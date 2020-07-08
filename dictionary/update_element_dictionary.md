@@ -40,3 +40,26 @@ print(details);
 
 
 
+**Copy of Dictionary**
+
+
+Hum dictionary ko 2 tarike se copy kar sakte hai,phela method *copy()* and second method by using built-in function dict().
+
+
+`Example 1 :-`
+
+```python
+classes ={
+	"room1":  "6th",
+	"room2":  "7th",
+	"room3":  "8th"
+		}
+mydict=classes.copy()
+print(mydict)
+ ```
+
+`Ouput:-`
+
+`{'room2': '7th', 'room3': '8th', 'room1': '6th'`
+
+
