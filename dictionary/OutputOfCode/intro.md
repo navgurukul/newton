@@ -1,6 +1,8 @@
 ```ngMeta
-name:  Output Of Code
+name:  Code Output  
 submission_type: url
 ```
 
-Ab hum dictionary se related kuch questions karege. Jo hume dictionary ki better understand mai help karega.
+## Code Output 
+
+Ab hum function se related kuch questions karege. Jo hume dictionary ki better understand mai help karega.

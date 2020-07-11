@@ -17,4 +17,22 @@
     - question6.md
     - question7.md
     - question8.md
+- OutputOfCode
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+    - question5.md
+- DebugCode
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+    - question5.md
+- BonusTask
+    - intro.md
+- InterviewQuestions
+    - intro.md
 

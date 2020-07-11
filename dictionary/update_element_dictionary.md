@@ -3,7 +3,7 @@ name:   Update Dictionary
 submission_type: url
 ```
 
-### Updating Dictionary :-
+## Updating Dictionary :-
 
 Hum dictionary ko update karne ke liye usme ek entry kar sakte hai ya fir key-value pair add kar sakte hai aur jo key pehle se present hai uski value change kar sakte hai. Jaisa ki niche example me dikhaya gaya hain.
 
@@ -40,7 +40,7 @@ print(details);
 
 
 
-**Copy of Dictionary**
+## Copy of Dictionary :- 
 
 
 Hum dictionary ko 2 tarike se copy kar sakte hai,phela method *copy()* and second method by using built-in function dict().

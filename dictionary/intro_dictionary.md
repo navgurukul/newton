@@ -6,7 +6,7 @@ submission_type: url
 # DICTIONARY  
 
 
-### DEFINITION :-
+## DEFINITION :-
 
 Hum dictionary banane ke liye key aur value ke pairs ko curly braces “{ }” me likhte hai aur har pair ko hum separate karne ke liye comma “,” ka use karte hai aur key ko uske nirdharit value ke saath likhne ke liye colon “:” ka use karte hain :
 
@@ -50,7 +50,7 @@ print(type(city_population))
 <type 'dict'>
  ```
 
-### Keys Case Sensitive :-
+## Keys Case Sensitive :-
 
 Dictionary ki keys case sensitive hoti hain , matlab hum same name ki keys ko alag alag case me likh sakte hai aur python usko alag alag keys ki tarah treat karega.
 
@@ -78,7 +78,7 @@ KeyError: bat
 
 
 
-### dict() function
+## dict() function
 
 Aap dict() ka use kar ke dictionary bana sakte hai
 
@@ -94,7 +94,7 @@ print(student)
 `{'age': 20, 'name': 'Ravina'}`
 
 
-### DataType of Keys and Values
+## DataType of Keys and Values
 
 Ek *dictionary* me values kisi bhi datatype ke ho sakte hain aur ye same bhi ho sakti hai lekin keys humesha unique hoti hai.
 
@@ -124,7 +124,7 @@ my_dict = {
 
 
 
-### Nested Dictionary:-
+## Nested Dictionary:-
 
 
 

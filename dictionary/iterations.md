@@ -3,7 +3,7 @@ name:  Iteration
 submission_type: url
 ```
 
-**Iterate through all keys:-**
+## Iterate through all keys:-
  
   ```python
 states_capitals = {
@@ -20,7 +20,7 @@ for state in states_capitals:
 `Gujarat Maharashtra Rajasthan Bihar`
 
 
-**Iterate through all values:-**
+## Iterate through all values:-
 
 `Example :-`
 
@@ -88,9 +88,9 @@ for x,y in movie.items():
 `
    
 
-**Dictionary length**
+## Dictionary length
 
-**Dictionary** length hum dictionary mai kitne items hai yai count karne ke liye karte hai.
+**Dictionary length** hum dictionary mai kitne items hai yai count karne ke liye karte hai.
 
 `Example:- `
 

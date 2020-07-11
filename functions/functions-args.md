@@ -50,7 +50,7 @@ Toh basically humne iss example mein yeh kiya aur seekha:
 
 **Note: Yeh thoda sa mushkil concept, agar bahot ache se samajh nahi aaya, toh ek aur baar padh ke aur dusre examples dekh ke zaroor samajh aa jayega ;-)**
 
-# Multiple Function Arguments
+## Multiple Function Arguments
 
 Abhi tak humne ek function argument ke saath hi code likha hai. Ab hum thode aur function arguments ke saath code likhte hain.
 
@@ -103,7 +103,7 @@ Yeh karne ke liye humne ek function define kiya jo do arguments leta hai, `name`
 * Isi tareeke se upar likhi hui saari function calls mein yeh hi hota hai
 
 
-# Ek aur example
+## Ek aur example
 
 Chalane se pehle isko padh ke output ko sochne ki koshish karo. Fir chala ke dekho ki aapne sahi output sochi thi ya nahi.
 
@@ -126,3 +126,49 @@ Iss function mein dekho ki yeh 4 argument leta hai, `name_x`, `name_y`, `name_z`
 * `"Rahul"` ki value teesre parameter `name_z` mein jaati hai
 * `"Vidya"` ki value teesre parameter `name_a` mein jaati hai
 
+## Python Arbitrary Arguments 
+
+Arbitrary arguments hum tab use karte hai jab hume pata nahi hota hai ki hume kitne no. of arguments function mai dene hai. Hum arbitrary arguments ke sath function of define karne ke liye parameter se pehle ( * ) ka use karte hai jai ki neeche dikhaya gaya hai.
+
+`Example:-`
+
+```python
+def icecream(*flavours):
+    for flavour in flavours:
+		print(“i love”+flavour)
+
+icecream("chocolate", "butterscotch","vanilla","strawberry")
+ ```
+
+`Output :- ` 
+
+```
+i love chocolate
+i love butterscotch
+i love vanilla
+i love strawberry 
+```
+
+## Default parameter value  
+
+Default parameter value se yaha humara ye matlab hai ki hum function ko define karte time kisi parameter ko value assign kar dete hai taaki hum function ko bina kisi argument ke call kare to vo default value ko le le.
+
+`Example :-`
+
+```python
+def attendance(name,status="absent"):
+	print(name,"is",status," today")
+
+attendance("kartik","present")
+attendance("sonu")
+attendance("vishal","present")
+attendance("umesh")
+ ```
+
+`Output :-`
+```
+kartik is present today
+sonu is absent today
+vishal is present today
+Umesh is absent today
+ ```
