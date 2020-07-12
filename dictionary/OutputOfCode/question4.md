@@ -7,17 +7,15 @@ Niche diye gye code snippet ki output kya hoga?
 
 
 ```python
-arr = {}
-arr[1] = 1
-arr['1'] = 2
-arr[1] += 1
-arr[1.0] = 4
+Student = {}
+Age = {}
+Details = {}
+Student['name'] = "bikki"
+Age['student_age'] = 14
+Details['Student'] = Student
+Details['Age'] = Age
 
-sum = 0
-for k in arr:
-    sum += arr[k]
-
-print (sum)
+print (len(Details["Student"])) 
 
  ```
 
