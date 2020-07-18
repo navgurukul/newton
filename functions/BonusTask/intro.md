@@ -3,7 +3,7 @@ name:  Becoming  A Programmer
 submission_type: url
 ```
 ## Becoming A Programmer
-Iss Task mai apko dictionary ke bare mai six new concepts padne hai.
+Iss Task mai apko function ke bare mai six new concepts padne hai.
 
 Phele apko function ke three new concepts python ki website se padna hai.
 
