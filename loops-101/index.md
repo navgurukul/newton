@@ -42,8 +42,6 @@
     - question3.md
     - question4.md
     - question5.md
-    - question6.md
-    - question7.md
 - DebugCode
     - intro.md
     - question1.md
