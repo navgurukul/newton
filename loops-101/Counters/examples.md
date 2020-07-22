@@ -21,7 +21,7 @@ while i < 931:
     print(z)
   i = i + 1
 ```
-x 
+
 ## Example 2
 
 1 se 50 ke beech ke saare 5 ke multiples print karo. Lekin aapko % (modulous operator) ka use nahi karna hai. Uske bina karo.
@@ -35,7 +35,6 @@ while i <= 50:
   i = i + 5
 ```
 
-##TODO: Comment the code.
 
 ## Example 3
 
@@ -74,7 +73,7 @@ while i >= 350:
 ```python
 a = -1
 while a >= (-10):
-	print -a
+	print (-a)
 	a = a -1
 ```
 
@@ -82,7 +81,7 @@ while a >= (-10):
 ```python
 a = 1 
 while a <= 10:
-	print a
+	print (a)
 	a = a-(-1)
 ```
 
@@ -90,7 +89,9 @@ while a <= 10:
 ```python
 a = 1
 while a !=11:
-	print a
+	print (a)
 	a-=-1
 ```
+
+
 

@@ -1,3 +1,8 @@
+```ngMeta
+name: Loop
+submission_type: url
+```
+
 # What are loops?
 
 Agar humein koi bhi kaam baar baar karna ho toh computers humein bahot asani se uss kam ko karne mein help karte hain.
@@ -25,8 +30,9 @@ counter = 0
 while counter < 5:
 	print "NavGurukul"
 	counter = counter + 1
-print "Yeh sirf ek baar print hoga"
+print "one time print"
 ```
+![Mobile Video Recorder](assets/example1.jpeg)
 
 Yeh code chala ke dekhoge toh `"NavGurukul"` 5 baar print hoga aur last waali line sirf ek baar.
 

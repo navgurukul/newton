@@ -32,7 +32,8 @@ while c < 5:
     c = c + 1
 else:
     print "Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai"
-```yeh loop hai is mei hum loop kise kam kar raha hai voh hum dry run kar ke dekhna hai
+```
+yeh loop hai is mei hum loop kise kam kar raha hai voh hum dry run kar ke dekhna hai
 
 Ab aap yeh questions solve karein.
 ```python
@@ -57,6 +58,7 @@ while (i<num):
     if (num%i == 0):
         print num, 'is not a prime number'
         break
-    else:
-        print num, 'is a prime number'
+    i = i + 1
+else:
+    print num, 'is a prime number'
 ```

@@ -21,6 +21,8 @@
   - question7.md
 - LoopConditions
   - introduction.md
+- break.md
+- continue.md
 - QuestionSet3
   - intro.md
   - loops-code-question1.md
@@ -33,4 +35,22 @@
   - loops-code-question8.md
   - loops-code-question9.md
   - loops-code-question10.md
-
+- OutputOfCode
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+    - question5.md
+    - question6.md
+    - question7.md
+- DebugCode
+    - intro.md
+    - question1.md
+    - question2.md
+    - question3.md
+    - question4.md
+- BonusTask
+    - intro.md
+- InterviewQuestions
+    - intro.md

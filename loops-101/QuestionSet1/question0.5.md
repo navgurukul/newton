@@ -1,8 +1,8 @@
 ```ngMeta
-name: Question 0.5
+name: Question 1
 ```
 
-# Question 0.5
+# Question 1
 
 Ek program banao jo 10 se 80 tak ke saare numbers print karta hai.
 
@@ -24,4 +24,3 @@ Aapki output mein yeh aana chaiye.
 80
 ```
 
-#TODO: Create a video for this question.

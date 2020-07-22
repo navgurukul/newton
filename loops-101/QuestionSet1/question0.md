@@ -24,4 +24,3 @@ Aapki output mein yeh aana chaiye.
 100
 ```
 
-#TODO: Create a video for this question.
