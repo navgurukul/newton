@@ -15,9 +15,10 @@ Jaise agar mujhe apne 100 friends ko ek eMail bhej ke kisi event ke baare mein b
 ```python
 counter = 0
 while counter < 5:
-	print "NavGurukul"
+	print "navgurukul"
 	counter = counter + 1
 ```
+![Mobile Video Recorder](assets/example2.jpeg)
 
 Iss code mein:
 
@@ -48,6 +49,7 @@ while counter < 100:
 		print counter
 	counter = counter + 1
 ```
+![Mobile Video Recorder](assets/example3.jpeg)
 
 **Note: Yahan humne counter 1 se isliye shuru kiya hai kyunki humne 1 se 100 tak print karne hai aur na ki 0 se 99 tak.**
 

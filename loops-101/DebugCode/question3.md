@@ -9,10 +9,13 @@ Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve 
 
 ```python
 
-Def Avg(number1,number2,number3):
-	avg=number1+number2+number3/3
-	print(sum)
-Avg(1,3,2)
+i=0
+while(i<10):
+j = 0
+    while(j<=5):
+        print(j)
+    j = j + 1
+    i = i + 1
 
  ```
 

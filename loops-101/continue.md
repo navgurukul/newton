@@ -5,10 +5,31 @@ submission_type: url
 
 # continue
 
-continue ek python mai ek *keyword* hai..
-
+continue python ka ek keyword hai.continue statement se loop mein iterate ho rahe kuchh statement ko skip karake agale statement ko execute karata hai.
 
 ![Mobile Video Recorder](assets/how-continue-statement-works.jpg)
+
+```python
+i = 1
+while(i <= 10):
+    if(i == 5):
+         print("Skipped Element :", i)
+      continue
+    print(i)
+```
+`Output`
+1
+2
+3
+4
+Skipped Element: 5
+6
+7
+8
+9
+10
+
+
 
 ```python
 counter = 0

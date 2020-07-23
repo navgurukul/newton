@@ -9,10 +9,9 @@ Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve 
 
 
 ```python
-def calculate_sum(a,b):
-    sum = a+b
-    print(sum)
-sum(4,5)
-
+index = 1
+While(Index < 10):
+    Print(index)
+    index = index + 1
  ```
 
