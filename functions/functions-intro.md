@@ -8,16 +8,16 @@ Function ek block of code hota hai jo ki run hota hai jab hum use call karte hai
 
 
 ```python
-print (“NavGurukul”)
+print ("NavGurukul")
 
 def say_hello():
-    print (“Hello!”)
-    print (“Aap kaise ho?”)
+    print ("Hello!")
+    print ("Aap kaise ho?")
 
 say_hello()
-print (“Python is awesome”)
+print ("Python is awesome")
 say_hello()
-print (“Hello…”)
+print ("Hello…")
 say_hello()
 ```
 
@@ -25,14 +25,14 @@ Isko chala ke dekho. Iski output kuch aisi aayegi:
 
 ```
 NavGurukul
-Hello
+Hello!
 Aap kaise ho?
 Python is awesome
-Hello
+Hello!
 Aap kaise ho?
-Hello...
-Hello
-Aap Kaise ho?
+Hello…
+Hello!
+Aap kaise ho?
 ```
 
 Dhayn se dekho ki code mein jahan bhi `say_hello()` likha hai, wahan `Hello!` aur `Aap kaise ho?` waali lines print ho gayi hain. Yeh isliye hua hai kyunki humne ek baar doosri line mein `def say_hello()` ka use kar ke ek function likh diya. Ab jab bhi yeh function call hoga toh iske andar waala code chal jayega. Iss tareeke se hum baar baar ek code ko user kar sakte hain.
@@ -42,9 +42,13 @@ Dhayn se dekho ki code mein jahan bhi `say_hello()` likha hai, wahan `Hello!` au
 Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain. Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
 
 ```python
-names_list = [“Fiza”, “Shivam”, “Imtiyaz”, “Deepanshu”, “Rahman”]
+names_list = ["Fiza", "Shivam", "Imtiyaz", "Deepanshu", "Rahman"]
 print (len(names_list))
 ```
+
+`Ouput:-`
+
+`5`
 
 Yahan `len(names_list)` ka use kar ke humne jana ki list mein kitne item hai. Ab hum apne code mein `len` ka use kar kisi bhi list ke items ki ginti kar sakte hain. Yahan `len` ek function hai. Functions ke bina humein list ki items ki ginti nikalne ke liye baar baar code likhna padega. Isko behtar samajhne hum aage wale examples mein iska code khud likhenge.
 
@@ -61,6 +65,19 @@ print ("NavGurukul mei hum sab logo ko ek tarah se treat karte hai.")
 
 definition_say_hello()
 ```
+`Output:- `
+
+```
+NavGurukul
+
+NavGurukul mei humein apni learning ki responsibility leni padti hai.
+
+NavGurukul mei hum sab logo ko ek tarah se treat karte hai.
+
+NavGurukul
+
+NavGurukul mei humein apni learning ki responsibility leni padti hai.
+ ```
 
 Ek aur example FUNCTIONS samajhne ke liye. Iss code ko padh ke output socho. Chala ke dekhne ke baad dhyan se padho.
 
