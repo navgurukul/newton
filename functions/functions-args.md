@@ -11,6 +11,9 @@ numbers_list = [1, 2, 3, 4, 5, 6, 7, 10, -2]
 print (max(numbers_list))
 ```
 
+`Output :-`
+`10`
+
 Yahan humne `max` function ko `numbers_list` di aur usne usme se sabse badi value hume de di. 
 
 **max** function, python ka ek pre-defined function hai jise hum use kar sakte hai aur iske liye hume def max( ) likh kar usme code likhne ki koi jarurat nahi hai kyuki python banane wale ne humare liye ye kaam pehle hi kar diya hai.
@@ -37,8 +40,13 @@ def say_hello(name):
     print ("Hello ", name)
     print ("Aap kaise ho?")
 say_hello("Aatif")
-```
+ ```
+`Output :-`
 
+```
+Hello , Aatif
+Aap kaise ho?
+ ```
 Yahan humne function ko ussi tareeke se define kiya hai jaise pichle examples mein kiya tha. Lekin dhyan se dekho toh `def say_hello` ke baad brackets mein humne `name` likha hai aur, aur neeche ek `name` variable ko print command ke saath use kar rahe hain. Yahan name ko *parameter* kehte hain jiski value hum function call karne ke time de sakte hain. Aakhri line mein function call karte vakt humne brackets ke andar `"Aatif"` likha hai. Function call karte vakt hum jo parameters ko value dete hain, unko arguments kehte hain.
 
 Toh basically humne iss example mein yeh kiya aur seekha:
@@ -60,18 +68,32 @@ def add_numbers(number1, number2):
     print (number1 + number2)
 add_numbers(120, 50)
 num_x = 134
-num_y = 22
-add_numbers(num_x, num_y)
+name = "Rinki"
+add_numbers(num_x, name)
+ ```
+`Output`
+
 ```
+Main do numbers ko add karunga.
+170
+Main do numbers ko add karunga.
+
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+ ```
+
 
 Yahan humne ek `add_numbers` naam ka function define kara hai. Lekin dekho ki bracket mein humne 2 parameter likhe hain. Ek sa jyada argument lene ke liye arguments ke baad comma laga dete hain Humne add_numbers(120, 50) likh ke function call karte samay do integer parameter diye hai. Yahan parameters ka kram / order important hai. Iss function call mein yeh hota 
 
 * `120` ki value *pehle parameter* `number1` mein jaati hai jo ki function ke andar same naam ke variable number1 mein hai
 * `50` ki value *dusre parameter* `number2` mein jaati hai jo ki function ke andar same naam ke variable number2 mein hai
 * Baad mein humne do variable define kare hain, `num_x` and `num_y` aur fir add_numbers ko num_x aur num_y arguments deke call kiya hai. Yahan bhi:
-* `num_x` ki value `134` pehle parameter `number1` mein jaati hai aur `num_y` ki value `22` dusre parameter `number2` mein jaati hai.
+* `num_x` ki value `134` pehle parameter `number1` mein jaati hai aur `num_y` ki value `Rinki` dusre parameter `number2` mein jaati hai.
 
 Aur ache se samajhne ke liye ek aur example dekhte hain.
+
+
+Jese ki apne dekha ki **output** mai **TypeError** aa rahi kuki hum kabhi bhi string aur integer concate nahi kar sakte hai.Humne num_1 mai **integer** store kiya aur name mai **string** store kiya hai.
+
 
 ```
 def say_hello_language(name, language):
@@ -88,8 +110,19 @@ say_hello_language("Rishabh", "punjabi")
 say_hello_language("Armaan", "english")
 say_hello_language("Abhishek", "french")
 say_hello_language("Kavay", "hindi")
-```
+ ```
+`Output :-`
 
+```
+Sat sri akaal  Rishabh
+Tuhada ki haal hai?
+Hello  Armaan
+How are you?
+Hello  Abhishek
+How are you?
+Namaste  Kavay
+Aap kaise ho?
+ ```
 Yeh function do parameter leta hai, `name` aur `language` aur aise kaam karta hai:
 
 * Agar `language` `"hindi"` di hai, toh hindi mein kuch print karega
@@ -115,7 +148,19 @@ def say_hello_people(name_x, name_y, name_z, name_a):
     print ("Hello ", name_a) # english mein
 say_hello_people("Imitiyaz", "Rishabh", "Rahul", "Vidya")
 say_hello_people("Steve", "Saswata", "Shakrundin", "Rajeev")
+ ```
+`Output :-`
+
 ```
+Namaste  Imitiyaz
+Alah hafiz  Rishabh
+Bonjour  Rahul
+Hello  Vidya
+Namaste  Steve
+Alah hafiz  Saswata
+Bonjour  Shakrundin
+Hello  Rajeev
+ ```
 
 Iss function mein dekho ki yeh 4 argument leta hai, `name_x`, `name_y`, `name_z`, `name_a`. `def` waali pehli line mein humne 4 parameter ka naam comma (`,`) laga laga ke likhe hain. Function call karte samay jis kram / order mein humne parameters likhe hain def waali line mein, wahi kram / order mein arguments ki value parameters mein jaati hai.
 
@@ -134,8 +179,8 @@ Arbitrary arguments hum tab use karte hai jab hume pata nahi hota hai ki hume ki
 
 ```python
 def icecream(*flavours):
-    for flavour in flavours:
-		print(“i love”+flavour)
+ for flavour in flavours:
+  print("i love"+flavour)
 
 icecream("chocolate", "butterscotch","vanilla","strawberry")
  ```

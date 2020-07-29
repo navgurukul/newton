@@ -1,11 +1,11 @@
 ```ngMeta
-name: Question 5
+name: Question 6
 submission_type: url
 ```
-
+## Question 6
 Yeh question 3 parts mein. Teenon parts ka code likh ke ek hi file mein submit karo.
 
-## Part 1
+### Question (Part 1)
 `calculator` naam ka ek function banao jo teen argument leta ho - `number_x`, `number_y`, `operation`. `number_x` aur `number_y` mein hum humesha do integers denge aur operation mein kaunsa operation karna hai woh denge. Jaise:
 
 * Agar operation mein "add" diya toh number_x aur number_y ko add kar ke returna karega.
@@ -28,7 +28,7 @@ Function likhne ke baad, yeh kaam karne ke liye function call karo aur variable 
 * 90 aur 23 ko subtract karo aur number_4 variable mein value daalo
 
 
-## Part 2
+### Question (Part 2)
 
 Ab `input` ka use kar ke user se 2 numbers input lo.
 
@@ -46,7 +46,7 @@ Fir upar wale chaaron variables ko print karo.
 
 Final code ko submit karo :)
 
-## Part 3
+### Question (Part 2)
 
 `list_change` naam ka ek function ka code likho jo 2 lists jisme integers arguments ki tarah le aur fir unn lists ki woh items jo same index number (kram) pe hain unko multiply kar ke ek nayi list return karvaye.
 

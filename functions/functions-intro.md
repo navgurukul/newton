@@ -102,7 +102,20 @@ function_say_bye()
 print ("Python ka istamaal bahot jagah hota hai.")
 function_say_bye()
 function_say_bye()
-```
+ ```
+`Output :- `
+
+```python
+Aapko mil ke maza aaya. 
+Bye bye
+Aapko mil ke maza aaya. 
+Bye bye
+Python ka istamaal bahot jagah hota hai.
+Aapko mil ke maza aaya. 
+Bye bye
+Aapko mil ke maza aaya. 
+Bye bye
+ ```
 
 1. Hum python mein `def` keyword ka use kar ke function banate hain. `def` ke baad function ka naam, `function_say_bye` likha hain. Naam ke baad hum do bracket `(` `)` lagate hain.
 2. Bracket ke baad ek colon, `:` lagate hain. Python semicolon se samajh jaati hai ki function ka code shuru ho raha hai.
@@ -118,13 +131,19 @@ Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya n
 def definition_hello_again():
     print ("Firse Hello :)")
     print ("Aap kaise ho?")
-```
+ ```
 
 Ab apne code mein yeh line add karein aur dekhein ki koi output aati hai.
 
 ```python
 definition_hello_again()
-```
+ ```
+
+`Output:-`
+```python
+Firse Hello :)
+Aap kaise ho?
+ ```
 
 Python mein sirf function likh dene se function ka code chalta nahi hai. Yahan pehle humne def keyword ka use karke python ko function ka code bataya. Isko **"FUNCTION DEFINITION"** kehte hain.
 

@@ -3,7 +3,7 @@ name: Question 1
 submission_type: url
 ```
 
-## Part 1
+## Question (Part 1)
 
 `ask_question` naam ka Ek function likhiye jo yeh text ko "ek baar" print kare.
 
@@ -18,7 +18,7 @@ Who is the founder of Facebook?
 
 Fir iss function ko 5 baar call kar ke yeh text 5 baar print karvao.
 
-## Part 2
+## Question (Part 2)
 
 Fir while loop ka use kar ke iss function ko 100 baar call karne ka code likho.
 

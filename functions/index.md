@@ -1,7 +1,11 @@
 - functions-intro.md
 - functions-question1.md
-- functions-args.md
 - functions-question2.md
+- Questions.md
+- DebugCode.md
+- functions-args.md
+- CodeDebug.md
+- Question2.md
 - functions-question3.md
 - functions-question4.md
 - functions-return_values.md
