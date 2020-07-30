@@ -1,8 +1,8 @@
 ```ngMeta
-name: Question 3
+name: Question 2
 submission_type: url
 ```
-## Question 3
+## Question 2
 
 `function_print_lines` naam ka ek function likho jo 2 strings leta ho, aur unko neeche diye hue dhang se print karta ho.
 
