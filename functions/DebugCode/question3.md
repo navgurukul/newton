@@ -3,6 +3,8 @@ name:  Question 3
 submission_type: url
 ```
 
+## Question 3
+
 Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs)
 
 

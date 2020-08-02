@@ -19,8 +19,7 @@ def f1():
 
 f1()
  ```
-`Output:- `
-
+**Output :-**
 
 ```
 I Love Navgurukul

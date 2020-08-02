@@ -38,6 +38,13 @@ print (sum3)
 number_a = add_numbers(20, 40) / add_numbers(5, 1)
 print (number_a)
 ```
+**Output**
+```python
+60
+583
+1246
+10.0
+ ```
 
 * Yahan humne function ussi tareeke se define kara hai jaise hum abhi tak functions ko define karte aaye hain. Lekin sirf function mein last line aap kuch naya dekhoge.
 * Last line mein humne `return` statement ka use kar ke function ko yeh bataya hai ki voh `number_sum` ki value ko vapas karega
@@ -56,7 +63,12 @@ sum4 = add_numbers_print(4, 5)
 print (sum4)
 print (type(sum4))
 ```
-
+**Output :-**
+```python
+9
+None
+<class 'NoneType'>
+ ```
 Humne yahan same upar wale function ka code likha hai, lekin return statement ka use nahi kiya. Iss vajah se hume yeh function kuch return nahi karega Kyunki yeh function kuch return nahi karta hai, hum apne numbers ke sum ko dusre variable mein nahi daal sakte jaise humne pichle example mein kiya tha.
 
 Yahan agar aap `sum4` ki value dekhoge toh woh `None` dikhayega. `None` ka matlab hota hai kuch nahi. Basically jo numbers value nahi return karte woh "kuch nahi" return karte hain `None` python mein ek alag tareeke ki type hai integer, float etc. ki tarah. `print (type(sum4))` waali line mein dekhoge ki woh sum4 ki type ko NoneType dikhayega. Iska matlab hota hai ki isme kuch nahi hai.
@@ -67,6 +79,11 @@ Ek baar yeh neeche wale code ko padho aur socho ki kya hoga,. Ab usko chalao aur
 ```python
 number_b = add_numbers_print(5, 4) / add_numbers_print(2, 1)
 ```
+**Output :-** 
+
+```python
+TypeError: unsupported operand type(s) for /: 'NoneType' and 'NoneType'
+ ```
 
 Yahan humne basically aise function ki values ko divide karne ki koshish kari hai jo koi value return nahi karta. Humne abhi padha tha ki jo function return nahi karte , woh None (matlab kuch nahi) return karte hain. Jab hum yahan None ko None se divide karte hain toh python baukhla jata hai aur samajh nahi pata ki kya karna hai. Iss vajah se error return kar deta hai. Python hume error mein bhi yahi bolta hai:
 
@@ -74,7 +91,7 @@ Yahan humne basically aise function ki values ko divide karne ki koshish kari ha
 
 Iska matlab yeh hai ki Python NoneType ki value ko NoneType ki value se hi divide nahi kar  aur iss chakar mein error aa gayi hai.
 
-# Understandng function execution with a return statement
+## Understandng function execution with a return statement
 
 Iss example ko chalane se pehle, iska code padh ke socho ki yeh function kya return karega aur kya print karega jab hum isko 2 integer argument denge.
 
@@ -89,7 +106,10 @@ def add_numbers_more(number_x, number_y):
 
 sum6 = add_numbers_more(100, 20)
 ```
-
+**Output :-**
+```python
+Hello from NavGurukul ;)
+ ```
 * Yahan yeh function "Hello from NavGurukul ;)" print karega aur 120 ki value return karega. Yeh 120 ki value "return number_sum" waali line ka use kar ke return karega.
 * `sum6` ki value 120 ho jayegi
 * Pehli `return number_sum` waali line se neeche aapne jo bhi code likha hai uss code mein se kuch bhi nahi chalega. Yeh isliye nahi chalega kyunki function chalate hue jab python ko ek return statement milti hai, toh python uss return statement ka use kar ke value return kar deta hai aur fir uske neeche wala koi bhi code nahi chalata hai.
@@ -114,6 +134,13 @@ print (tues_menu)
 fri_menu = menu("friday")
 print (fri_menu)
 ```
+**Output :-**
+
+```python
+Butter Chicken
+Mutton Chaap
+Chole Bhature
+ ```
 
 Humara `menu` function `day` argument ke hisaab se uss din ki menu ki item ki value return kar deta hai
 
@@ -135,6 +162,11 @@ def menu(day):
     print ("Kya main print ho payungi? :-(")
     return food
     print ("Lekin main toh pakka nahi print hounga :'(")
+print(menu("monday"))
 ```
-
+**Output :-**
+```python
+Kya main print ho payungi? :-(
+Butter Chicken
+ ```
 Yahan humne if-elif-else mein directly return statement ka use nahi kiya. Humne ek `food` naam ke variable mein woh value store karva li jo humne return karvani thi. Ab Jab if-elif-else chal jata hai, toh humara program uske neeche wali print statement pe pahunchta hai. Kyunki python ko abhi tak koi return statement nahi mili hai, woh print command chalata hai. Print karne ke baad woh return statement se *food* variable ki value return kar deta hai Lekin jo akhri wali print statement hai woh nahi print hoyegi. Kyunki uss print statement se pehle return statement chal jati hai aur uski vajah se python needche walai print statement tak pahunchti hi nahi hai

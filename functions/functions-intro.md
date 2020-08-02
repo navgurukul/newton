@@ -65,7 +65,7 @@ print ("NavGurukul mei hum sab logo ko ek tarah se treat karte hai.")
 
 definition_say_hello()
 ```
-`Output:- `
+**Output :-**
 
 ```
 NavGurukul
@@ -103,7 +103,7 @@ print ("Python ka istamaal bahot jagah hota hai.")
 function_say_bye()
 function_say_bye()
  ```
-`Output :- `
+**Output :-**
 
 ```python
 Aapko mil ke maza aaya. 
@@ -139,7 +139,7 @@ Ab apne code mein yeh line add karein aur dekhein ki koi output aati hai.
 definition_hello_again()
  ```
 
-`Output:-`
+**Output :-**
 ```python
 Firse Hello :)
 Aap kaise ho?

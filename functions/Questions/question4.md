@@ -2,7 +2,7 @@
 name:  Question 4
 submission_type: url
 ```
-
+## Question 4
 
 Ek showNumbers() naam ka function define kijiye jo ki ek limit naam ka parameter lega aur 0 se limit tak ke beech ke sabhi even aur odd numbers ko label ke saath print karega jaisa ki niche dikhaya gaya hai.
 
@@ -16,7 +16,7 @@ Ek showNumbers() naam ka function define kijiye jo ki ek limit naam ka parameter
 3
  ```
 
-`Output :-`
+**Output :-**
 
 ````
 0 EVEN

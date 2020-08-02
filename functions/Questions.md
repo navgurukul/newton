@@ -16,7 +16,7 @@ Ab aapko kuchh questions solve krna hai pre-define function ka use kr ke.
 numbers = [3, 5, 7, 34, 2, 89, 2, 5]
  ```
 
-`Output`
+**Output :-**
 89
 
 
@@ -26,7 +26,7 @@ numbers = [3, 5, 7, 34, 2, 89, 2, 5]
 
 numbers = [1, 2, 3, 4, 5]
 
-`Output`
+**Output :-**
 15
 
 
@@ -38,7 +38,7 @@ numbers = [1, 2, 3, 4, 5]
 unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]
  ```
 
-`Output:-`
+**Output :-**
 
 `unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]`
 
@@ -51,7 +51,7 @@ unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]
 reverse_list = ["Z", "A", "A", "B", "E", "M", "A", "R", "D"]
  ```
 
-`Output:-`
+**Output :-**
 
 `reverse_list = ["D", "R", "A", "M", "E", "B", "A", "A", "Z"]`
 
@@ -65,6 +65,6 @@ reverse_list = ["Z", "A", "A", "B", "E", "M", "A", "R", "D"]
 list = [8, 6, 4, 8, 4, 50, 2, 7]
  ```
 
-`Output:-` 
+**Output :-**
 
 2

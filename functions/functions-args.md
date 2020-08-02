@@ -11,7 +11,7 @@ numbers_list = [1, 2, 3, 4, 5, 6, 7, 10, -2]
 print (max(numbers_list))
 ```
 
-`Output :-`
+**Output :-**
 `10`
 
 Yahan humne `max` function ko `numbers_list` di aur usne usme se sabse badi value hume de di. 
@@ -30,7 +30,7 @@ a=[1,2,3,4,5,6]
 print(len(a))
  ```
 
-`Output :-`
+**Output :-**
 6
 
 Neeche diye gaye code ko chala ke dekho aur ek baar socho ki kya ho raha hai.
@@ -41,7 +41,7 @@ def say_hello(name):
     print ("Aap kaise ho?")
 say_hello("Aatif")
  ```
-`Output :-`
+**Output :-**
 
 ```
 Hello , Aatif
@@ -71,7 +71,7 @@ num_x = 134
 name = "Rinki"
 add_numbers(num_x, name)
  ```
-`Output`
+**Output :-**
 
 ```
 Main do numbers ko add karunga.
@@ -111,7 +111,7 @@ say_hello_language("Armaan", "english")
 say_hello_language("Abhishek", "french")
 say_hello_language("Kavay", "hindi")
  ```
-`Output :-`
+**Output :-**
 
 ```
 Sat sri akaal  Rishabh
@@ -149,7 +149,7 @@ def say_hello_people(name_x, name_y, name_z, name_a):
 say_hello_people("Imitiyaz", "Rishabh", "Rahul", "Vidya")
 say_hello_people("Steve", "Saswata", "Shakrundin", "Rajeev")
  ```
-`Output :-`
+**Output :-**
 
 ```
 Namaste  Imitiyaz
@@ -185,7 +185,7 @@ def icecream(*flavours):
 icecream("chocolate", "butterscotch","vanilla","strawberry")
  ```
 
-`Output :- ` 
+**Output :-**
 
 ```
 i love chocolate
@@ -210,7 +210,7 @@ attendance("vishal","present")
 attendance("umesh")
  ```
 
-`Output :-`
+**Output :-**
 ```
 kartik is present today
 sonu is absent today

@@ -2,6 +2,7 @@
 name:  Question 2 
 submission_type: url
 ```
+## Question 2
 
 Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs)
 

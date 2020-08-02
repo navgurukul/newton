@@ -2,6 +2,9 @@
 name:  Question 5
 submission_type: url
 ```
+
+## Question 5
+
 Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs)
 
 ```python

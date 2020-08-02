@@ -2,6 +2,7 @@
 name:  Question 1
 submission_type: url
 ```
+## Question 1
 
 eligible_for_vote name ka function likho jo ki user ko bataye ki vo (he/she) vote de sakta hai ya nahi.
 ( Consider minimum age of voting to be 18. )
@@ -23,7 +24,7 @@ print kare.
 16
  ```
 
-`Output:- `
+**Output :-**
 
 ```
 “you are eligible”

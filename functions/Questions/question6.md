@@ -2,7 +2,7 @@
 name:  Question 6
 submission_type: url
 ```
-
+## Question 6
 
 Ek function define kijiye jo ki drivers ki speed check karega. Aur ye function speed naam ka ek parameter lega.
 
@@ -22,7 +22,7 @@ Ek function define kijiye jo ki drivers ki speed check karega. Aur ye function s
 135
  ```
 
-`Output :-`
+**Output :-**
 
 ````
 3

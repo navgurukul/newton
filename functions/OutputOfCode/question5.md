@@ -3,7 +3,9 @@ name:  Question 5
 submission_type: url
 ```
 
-Q-6. Niche diye gye code snippet ki output kya hogi?
+## Question 5
+
+Niche diye gye code snippet ki output kya hogi?
 
 ```python
 def  meal(day,time):

@@ -2,6 +2,7 @@
 name:  Question 2 
 submission_type: url
 ```
+## Question 2
 
 Niche diye gye code snippet ki output kya hogi?
 
