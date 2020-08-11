@@ -2,7 +2,7 @@
 name: Question 2
 submission_type: url
 ```
-Q.2 Python object ko json data  main convert karne ka program likho?
+Q.2 Python object ko json data  main convert karne ka program likho??
 
 ***Example:***
 
