@@ -1,0 +1,48 @@
+- introduction.md
+- defining-lists.md
+- defining-lists-2.md
+- lists-operations.md
+- lists-iteration.md
+- questions
+  - introduction.md
+  - count-elements.md
+  - lists-question1.md
+  - lists-question3.md
+  - second-max-element.md
+  - lists-question2.md
+  - lists-question4.md
+  - binary-to-decimal.md
+- nested-lists.md
+- questions-2
+  - introduction.md
+  - difference.md
+  - report-card.md
+  - report-card-2.md
+  - total-sum.md
+  - magic-square.md
+- lists-len-function.md
+- kitne-aadmi-the
+  - kitne-aadmi-the.md
+  - aao-jodein.md
+  - average-kitna-hai.md
+  - sab-saath-mei.md
+- questions-n
+  - introduction.md
+  - kitne-crorepati.md
+  - count-occurences.md
+  - duplicates.md
+  - substring-nikalo.md
+- kbc
+  - part-1.md
+  - part-2.md
+  - part-3.md
+  - part-4.md
+  - part-5.md
+  - part-6.md
+- advanced-questions
+  - introduction.md
+  - bubble-sort.md
+- debugging-part2
+	- debugging-intro.md
+	- debugging-question1.md
+	- debugging-question2.md
