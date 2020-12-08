@@ -1,5 +1,0 @@
-- operators.md		
-- logical-operators	
-	- logical-operators-intro.md	
-	- logical-operators-question1.md
-	- logical-operators-if-statements

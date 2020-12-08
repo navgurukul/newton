@@ -13,8 +13,8 @@ submission_type: url
 
 4. Logical Operators
 
-5. Identity Operators
+5. Identity Operators(will learn later)
 
-6. Membership Operators
+6. Membership Operators(will learn later)
 
-7. Bitwise Operators
+7. Bitwise Operators(will learn later)

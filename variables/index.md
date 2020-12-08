@@ -7,9 +7,3 @@
 	- variables-naming-question2.md	
 	- variables-naming-question3.md	
 	- variables-naming-question4.md	
-- type-conversion	
-	- type-conversion-intro.md	
-	- type-conversion-question.md	
-	- user-input-type-conversion.md	
-	- user-input-question1.md	
-	- user-input-question2.md

@@ -1,14 +1,9 @@
-- DataTypes
+- Operators
   - intro.md
-  - numeric.md
-  - numbericQ.md
-  - String.md
-  - StringQ.md
-  - Boolean.md
-  - table.md
-- Debug
+- Types
   - intro.md
-- Output
-  - intro.md
-  - Question1.md
-  - Question2.md
+  - Arithmetic.md
+  - Assignment.md
+  - Comparison.md
+  - Logical.md
+ 

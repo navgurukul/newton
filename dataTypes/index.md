@@ -1,0 +1,20 @@
+- DataTypes
+  - intro.md
+  - numeric.md
+  - numbericQ.md
+  - String.md
+  - StringQ.md
+  - Boolean.md
+  - table.md
+- type-conversion	
+	- type-conversion-intro.md	
+	- type-conversion-question.md	
+	- user-input-type-conversion.md	
+	- user-input-question1.md	
+	- user-input-question2.md
+- Debug
+  - intro.md
+- Output
+  - intro.md
+  - Question1.md
+  - Question2.md

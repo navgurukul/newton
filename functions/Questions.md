@@ -24,7 +24,9 @@ numbers = [3, 5, 7, 34, 2, 89, 2, 5]
 
 `Input`
 
+```python
 numbers = [1, 2, 3, 4, 5]
+ ```
 
 **Output :-**
 15

@@ -12,7 +12,7 @@ Ko access kar sakta hai lekin unn variables ko change nahi kar sakta hai.
 
 ```python
 def f1():
-   s = ‘I Love Navgurukul’
+   s = "I Love Navgurukul"
    def f2():
        print(s)
    f2()
@@ -54,7 +54,7 @@ I love India
 def first_function():
     s = 'I love India'
     def second_function():
-		s=’ MY NAME IS JACK’
+		s = "MY NAME IS JACK"
    	 	print(s)	 
     second_function()
     print(s)	
