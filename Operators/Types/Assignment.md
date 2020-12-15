@@ -1,5 +1,5 @@
 ```ngMeta
-name: Assignment Operates
+name: Assignment Operators
 submission_type: url
 ```
 
@@ -37,6 +37,6 @@ Its divides the value of left hand operand with the right hand one and the remin
 
 It gives us the exponential value of the left hand operand when raised two the power of the value found in the right hand side.(yeh hume left haath ke operand ki power value deta hai jab right hand ki taraf mein paye jane wali value ki power tak multiply kiya jata hai)
 
-8.**Floor Division(//=):-**
+8. **Floor Division(//=):-**
 
 Floor division divides the value found in the left hand side with the value of right hand operands. The integer value becomes the left hand operand value.(floor division left hand me milne wali value ko right hand ki value se divide karta hai or decimal ko hata kar us se pehle wali value print karta hai.)

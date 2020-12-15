@@ -1,5 +1,5 @@
 ```ngMeta
-name: Arithmetic  Operator 
+name: Arithmetic  Operators
 submission_type: url
 ```
 
