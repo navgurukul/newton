@@ -1,5 +1,5 @@
 ## Loops Course
-Loops karne ke liye aap yeh course complete karein - [http://saral.navgurukul.org/course?id=83](http://saral.navgurukul.org/course?id=83).
+Loops karne ke liye aap yeh course complete karein - [http://saral.navgurukul.org/course/83](http://saral.navgurukul.org/course/83).
 
 ```
 while (!course_is_clear):
