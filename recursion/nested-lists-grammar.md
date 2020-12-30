@@ -1,6 +1,3 @@
-```ngMeta
-submission_type: url
-```
 ## Using Grammar to create Nested Lists
 
 **Yeh thoda advanced concept hai. Iss par aap 4-5 ghante lagane ke baad bhi nahi samajh paa rahe, toh aap isse skip kar kar aage badh sakte hai**
