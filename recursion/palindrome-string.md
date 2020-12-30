@@ -1,6 +1,3 @@
-```ngMeta
-submission_type: url
-```
 ## Palindrome
 Palindrome woh string ya number hota hai, jo left se right aur right se left same hota hai. Jaise `nayan` string. Aap isse left se dekhoge toh bhi `nayan` hai, aur right se dekhoge toh bhi `nayan` hai.
 
