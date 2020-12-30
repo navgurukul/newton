@@ -1,6 +1,3 @@
-```ngMeta
-submission_type: url
-```
 ## Binary Search
 
 Humei ek list mei koi element search karna hai. Ek example lete hai.
