@@ -3,7 +3,6 @@
 - patterns
     - simple-series.md
     - alternative-series-1.md
-        - alternative-series-1-solution.md
     - alternative-series-2.md
 - factorial.md
 - sum-of-a-list.md

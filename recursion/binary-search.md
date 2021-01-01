@@ -1,4 +1,5 @@
 ```ngMeta
+name: Binary Search
 submission_type: url
 ```
 ## Binary Search

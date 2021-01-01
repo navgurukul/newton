@@ -1,4 +1,5 @@
 ```ngMeta
+name: Calculate
 submission_type: url
 ```
 

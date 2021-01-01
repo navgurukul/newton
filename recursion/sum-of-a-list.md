@@ -1,4 +1,5 @@
 ```ngMeta
+name: Sum Of A List
 submission_type: url
 ```
 ## Sum of a List

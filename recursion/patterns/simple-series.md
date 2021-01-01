@@ -1,4 +1,5 @@
 ```ngMeta
+name: Simple Series
 submission_type: url
 ```
 

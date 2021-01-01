@@ -1,4 +1,5 @@
 ```ngMeta
+name: Palindrome String
 submission_type: url
 ```
 ## Palindrome

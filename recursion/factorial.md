@@ -1,4 +1,5 @@
 ```ngMeta
+name: Factorial
 submission_type: url
 ```
 ## Factorial

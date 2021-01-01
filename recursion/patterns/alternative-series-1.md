@@ -1,4 +1,5 @@
 ```ngMeta
+name: Alternativ Series-1
 submission_type: url
 ```
 ## Pattern
