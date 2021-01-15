@@ -1,6 +1,3 @@
-```ngMeta
-submission_type: url
-```
 ## Factorial
 Factorial ek maths ka function hota hai, jiska kaafi jagah use hota hai, specially probability yaani chance calculate karne ke liye.
 
