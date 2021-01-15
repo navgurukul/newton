@@ -1,80 +1,127 @@
 # Definitions
 
-### Assignment (assign)
-The act of putting any value to a variable using the equal sign (=) called an assignment.
-Example: my_num = 10, my_name = "Isha"
+### Binary Numbers
 
-### Brackets
-Some characters often used to surround text called brackets. The different types of brackets are:
-*Parenthesis/parens/round brackets: ( )
-*Curly brackets/braces: { }
-*Angle brackets: < >
-*Square brackets: [ ]
-The bracket at the beginning is called the “opening” or the “left” bracket.
-The bracket at the end is called the “closing” or “right” bracket.
-Example: print (my_name)
+Binary numbers ko hum machine language or low level  language ke nam bhi jante hai binary number 0 or 1 se bna hota  hai. jo ki human nhi samjh pta computer easly samjh jata hai.
 
-### Comment
-The arbitrary text written around code, but which is never run, and is generally ignored by the computer 
-called comments. It is used to leave notes and documentation for people who read the code later.
 
-### Comment Out
-It means to turn code into a comment so that it does not get run.
+
+### Interpreter 
+
+Code ko line by line check karta hai aur jis line par
+Error hota hai interpreter us code ko wahi rok deta hai aur error ka nam show karta hai .
+Interpreter high level language ko low level language mai convert karta hai jis ki madad se computer humare likhe hue code ko run kar pata hai.
+
+**Interpreter Ruby and python jesi programming language ke liye use kiya jata hai.**
+
+**Example :-**
+
+```python
+a = "megha"
+Print (a)
+ ```
+`Output `
+`file "<string>",line 1, in <module>`
+
+Is example me apne dekha ki meine a naam ke variable me ek string value li thi par " " (quote) nahi lagaye jis wajha se python identify nahi kar paya ki meine kya value di thi. Isi liye interpreter ne code ko usi waqt rok diya or jis line me  error hai wo show kr diya
+
+
 
 ### Compiler
-A program that converts code into an executable, and checks that the syntax is correct. 
-Sometimes compilers convert code into other code.
-Example: The compiler is giving me an error, so I must have incorrect syntax somewhere.
 
-### Loop
-A piece of code that runs itself repeatedly. Commonly used to run a piece code for every value in an array.
-Also known as “iteration”. Example: The code loops until the user types in “quit” or until condition becomes false.
+Compiler ek software hota hai jo pure code ko ek bar me scan karta hai or agar code me koi bhi error hota hai to wo program ke at the end me dikhata hai
+Jabki interpreter, jha bhi glti hoti hai us waqt age badne se rok deta hai.
 
-### Run / Execute
-It means to perform the instructions written in code or an executable. 
-Code is a set of instructions, and “running” code is when the computer actually performs those instructions.
-To “run” a function means to call that function.
-
-### Bugs and Debugs
-The mistakes or error in code called bugs and to investigate and fix bugs called debuging.
-
-### Arguments / Parameters
- A value that is passed into a function when it is called.
- Arguments are said to be “passed” into a function, and functions are said to “take” arguments.
+**Compiler C and C++ jesi programming language ke liye use kiya jata hai.**
  
- ### Call
- Call means to run the code in a function. Also referred to as “running,” “executing,” or “invoking” a function. 
+Note- Compiler and Interpreter ko detail se padhne ke liye is link par click kare.  [Compiler and Interpreter](https://www.youtube.com/watch?v=e4ax90XmUBc&t=156s) 
 
-### Declaration 
-Code that declares that something exists – usually a variable, function or a class.
-E.g. a constant may be declared to exist, without actually defining what it’s value is. 
 
-### Float
-A type of value that represents numbers with fractional parts. In short “floating-point number”.
-Example: The value 3.14 is a float.
+### Case Sensitive 
 
-### Function / Procedure
-A piece of code that is not run until it is called. Functions take zero or more arguments. 
-When a function finishes running, it returns a return value back to the code that called it.
+Case senstive ka matlab hota hai ki jo hum text type krte hai wo bilkul waisa hi likha hona chahiye jaisa ki hme type kiya hai.
 
-### Value
- A piece of data that can be contained inside a variable.
- Every value has a type. Values represent information, in a way that code can work upon.
- 
- ### Strings
- A sequence of characters in single or double quotes are called strings. Ex. "Abc", "29", "$", etc.
- 
- ### Concatenation
-Adding two or more strings together called concatenation. Ex. "Bill" + "Gates. Output will be "BillGates".
+**Example :-**
 
-### Conditions / Conditional Statement / Conditional expression
-A condition must evaluate to either true or false.
-Usually we use the greater then or less then or equal-equals == (equality test) to generate our boolean values.
+```python
+var = 5
+print(Var)
+ ```
+`Output`
 
-### Boolean 
- The Boolean data type is a data type that has one of two possible values (usually denoted true and false),
- intended to represent the two truth values of logic.Their are only two possible boolean values: true and false . 
- The default value for boolean is true.
- 
- 
+`Var is not defined`
 
+Jaise ki hmne is example me  ek variable assign kiya var nam ka or print karwate waqt Var print kiya to ye error show hua kyunki python me var or Var dono different hai .python me small letters or capital letter ko alag mana gya hai. 
+
+
+
+Note- Is link par click kar ke app case sensitive ko or detail se padh sakte hai. [Case Sensitive](https://youtu.be/mNxDbLBBzno) 
+
+
+### Error /  Bugs
+
+Jab hum koi code likhte waqt code mai koi galti krte hai usei ko hum error khte hai.
+
+**Examples :-**
+
+```python
+num=5
+print(num
+ ```
+`Output`
+
+`SyntaxError: unexpected EOF while parsing`
+
+```python
+num=5
+Print "a"
+ ```
+`Output`
+
+`SyntaxError: invalid syntax`
+
+
+Is example me apne dekha ki meine print karte waqt  parentheses nahi lagaya jiski wajha se  hume syntax error show kar diya yani humre code me koi glti hai ya error hai.
+
+
+
+### Debugs
+
+Debug ka matlab hai code me aye hue bug ko solve karna yani error ko remove karke sahi code likhna jo sytax ke according thik ho.
+
+**Examples**
+
+```python
+num=5
+print(num)
+ ```
+`Output`
+
+`5`
+
+```python
+num=2
+Print (num)
+ ```
+`Output`
+
+`2`
+
+Apne bug ke example me dekha hoga ki waha jo 2 code the unme bug tha or unhi code ko debug kar diya
+
+### Source code
+
+Source code wo code hota hai jo human bhi easily samajh sakta hai.
+**Example** 
+```python
+name="python"
+print(name)
+ ```
+`Output`
+
+`python`
+
+Is example me apne dekha ki humne name nam ka ek variable liya hai jisme python store kiya hai ap is code ko easily padh sakte hai ki humne is code me kya kiya hai.Ise hi source code kehte hai /main code.
+
+
+![Types of brackets](https://www.grammar-monster.com/glossary/pics/types_of_brackets.png)

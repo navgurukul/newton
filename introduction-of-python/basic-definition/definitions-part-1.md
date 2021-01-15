@@ -1,63 +1,133 @@
 # Basic Definitions
 
-### Data 
-Computer stores and process numbers, letters words and symbols are ofted called data. In a simple terms raw fact and figurs are called data.
 
 ### Program
-The task of processing of data is accomplished by executing a sequence of precise instructions called program.
-Or simply you can say set of instructions that perform specific task is called program.
 
-### Syntax
-The instructionsare formed using certain symbols and words according to some rigid rules known as syntax.
-Every programming language have slighly different syntax.
-### Algorithms
-An algorithms is a complete, detailed and precise step-by-step method of solving a problem. It instruct the computer what specific steps it needs to perform to carry out particular task to solve a problem.
+Adesho (instruction) ke samuh  ko program kehte hai. 
 
-### Flowchart
-To visualize the working of an algorithms, one needs to take the help of flow chart, which is pictorial representation of algorithms depicting the flow of various steps.
+**A set of instructions is called a program.**
 
-### Flow of control / Control Flow
-It is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. 
+`Example :- `
 
-### Binary Number
-It is a language made up of combinations of 0s and 1s. Each character on you're keyboard has a unique binary representation that distinguishes the character from the rest.Binary (“machine language”) is referred to as a “low-level language.” It’s considered to be “low-level” because it is a language that machines understand.
+```python
+a=5
+b=9
+print(a+b)
+ ```
+`Output`
 
-### High-Level-Language 
-Programmers type there programs in a programming language.
-A programming language is referred to as a “high-level language” since it is a language that humans can read and understand.
+14  
+
+`Real Life Example :-`
+
+jaise hume chai bnani hai uske liye jo bhi jroorat ka saman hai collect kr lenge jaise surge,tea leaves,milk ye humare instructions hai ki chai bnane ke liye in chijo ka need hai. 
+
+Ek or example jaise ki hme market jana hai ye ek program or kis way se jayenge wo programming.
+
+Note- Program ko detail se janne ke liye is link par visit kar sakte hai.
+
+[Program](https://youtu.be/SDxPjsRksw0)
+
+
+
+
 
 ### Programming
-It is the process of designing and building an executable computer program for accomplishing a specific computing task. Programming involves tasks such as analysis, generating algorithms, writing code, debuging and implementing it.
 
+Kisi kam ko karne ke process ko programming kehte hai.
 
-### Icon
-Icon is a small visual display of an application which can be activated by clicking on it.
+`Example :-`
 
-### Internet
-Internet is a network that accommodates several computers to facilitate exchange and transfer of data.
+chai banane mai jo bhi process krte hai
 
-### Memory
-Memory is the internal storage location where data and information is stored on a computer.
+Jaise ki ek bowl liya or bowl me hmne water,suger,tea leaves and milk add kiya or tea ready kiya usi tarah se computer me programming krne ke liye kuchh rules hai jinhe hum age pdenge.
+```python
+a=5
+b=7
+print(a+b)
+ ```
+`Output`
 
-### Network
-A Network is a group of computers connected to each other in order to send and receive data.
+12
 
-### Operating System
-An Operating System provides the software platform required for various applications to run on. It's responsibility is to manage memory storage and security of Data.
+Is example mein humne a or b ko add kar rahe hai yaha add karna ek process hai isi process ko programming kahte hai.( Hum jo bhi kam karte hai uske process ko programming kehte hai)
 
-
-### Protocol
-Protocol refers to a set of rules that are followed by two devices while interacting with each other.
-
-### URL
-URL stands for Universal Resource Locator. It’s a way of accessing the Internet. URL is the address of a resource on the Internet. A URL indicates the location of a resource as well as the protocol used to access it. 
-
-### Statement
-A command line that ends with a semicolon.
-
-### Source Code
-Source code is the set of instructions and statements written by a programmer using a computer programming language. This code is later translated into machine language by a compiler. The translated code is referred to as object code.
-
-### Directory
-The files and folders on Linux system are arranged in what way is called a hierarchical directory structure. This means that they are organie in an areas on a hard disk in which files can be stored and organized.
+ Note- Programming ke bare me details se janne ke liye ap is link par jaa sakte hai.
+[Programming](https://youtu.be/ZMMVf4Qv)
  
+
+
+### High Level Language
+
+High level language wo language hai  jo human being easily samjh sakte hai pr  computer use samjh nahi sakte.
+
+`Example`
+
+ Jese English hum easily samjh sakte hai.Par computer english ko nahi samjta hai.Computer 0 or 1 ko samjta hai.
+
+
+### Lower Level Language
+
+Low  level language ko hum machine language bhi kehte hai jo 1 or 0 se bna hai ,human low level langauge ko samjh nahi sakte, or computer easily samjh sakta hai.
+
+
+Note- High level or low level language ke bare me details se padhne. [High or low level language](https://youtu.be/bqyVOEgDSj8) 
+
+
+
+### Syntax 
+
+Syntax  python grammar ki tarha hota hai yeh ek  set of rule hai ki python me code kis tarha likhen or run kare.
+
+`Example`
+
+ man lo apne english me (Python awesome) likha hai , kya apko grammarly ye sahi lg raha hai , ya isme kuch missing lag raha hai?
+Haan apne sahi socha ye sentence grammarly galat hai (python is awesome ) ye sahi sentence hai , jis tarha english ,me grammar ke kuch rule hai usi tarha python me code likhne ke liye syntax ke kuch rule hai agr hum code likhte waqt koi symbol ,colon(:) ya parenthese()  etc. use karna bhul jayenge to wo syntax error  ka message show karega .
+
+`Example :` 
+
+```python
+num=5
+print(num
+ ```
+`Output`
+
+SyntaxError: unexpected EOF while parsing
+
+```python
+num=5
+Print "a"
+ ```
+`Output`
+
+SyntaxError: invalid syntax
+
+Is example me apne dekha ki meine print karte waqt  ek parentheses nahi lagaya jiski wajha se  hume syntax error show kar diya.
+
+
+### Algorithm
+
+Algorithm kisi bhi samasya ko step by step solve karne ka tarika hai .iske jariye hum problem ko pehle chote chhote hisso me baat kar solve karte hai.Ise problem ke solution ka ya kisi kam ko karne ka Procedure ya formula bhi kaha ja sakta hai.
+
+
+`Example :`
+
+jese hume cookies banani hai to uske liye sabse pehle hume sare ingredient collect kane hoge  fr step by step use bnana hoga agar hum koi bhi step miss kar denge to humari cookies achi or tasty nahi banegi .
+
+Tea banane ke liye sabse pehle ek
+
+bowl lenge
+Fr pani 
+Sugar and tea leaf
+milk
+
+Apne upar dekha hoga ki meine chai bnane ke liye jo saman chaihiye uski list bna li yani mujhe chai bnane ke liye jin jin chizo ki jarurat hai wo mene collect kar liye , Ise hi hum algorithm  kehte hai yaha humne step by step chize li hai..
+
+
+
+
+
+
+Note- Algorithm ko detail se padhne ke liye is link par click kare.  [Algorithm](https://youtu.be/MvayENwOCNM) 
+
+
