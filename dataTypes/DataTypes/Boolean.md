@@ -9,6 +9,8 @@ Boolean sbhi programming language ka ek common data type hai.boolean do value ko
 
 *True*
 
+
+
 *False*
 
 **Example :-**
