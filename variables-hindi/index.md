@@ -1,9 +1,0 @@
-- variables
-	- variables-intro.md	
-	- variables-question.md	
-	- variables-naming-rules.md	
-	- variables-naming-conventions.md	
-	- variables-naming-question1.md	
-	- variables-naming-question2.md	
-	- variables-naming-question3.md	
-	- variables-naming-question4.md	
