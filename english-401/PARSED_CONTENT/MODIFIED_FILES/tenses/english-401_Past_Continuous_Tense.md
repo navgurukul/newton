@@ -1,0 +1,69 @@
+Past_Continuous_Tense_key1
+
+Past_Continuous_Tense_key2[Past_Continuous_Tense_key3](KzFLIDqTfjM&feature)
+
+
+
+Past_Continuous_Tense_key4[Past_Continuous_Tense_key5](kf6MYOozFAQ)
+
+
+Past_Continuous_Tense_key6
+ 
+Past_Continuous_Tense_key7
+ 
+Past_Continuous_Tense_key8
+ 
+Past_Continuous_Tense_key91. Past_Continuous_Tense_key10
+2. Past_Continuous_Tense_key11
+3. Past_Continuous_Tense_key12
+4. Past_Continuous_Tense_key13
+5. Past_Continuous_Tense_key14
+1. Past_Continuous_Tense_key15
+2. Past_Continuous_Tense_key16
+3. Past_Continuous_Tense_key17
+4. Past_Continuous_Tense_key18
+5. Past_Continuous_Tense_key19
+1.Were Past_Continuous_Tense_key20
+2. Past_Continuous_Tense_key21
+3. Past_Continuous_Tense_key22
+4. Past_Continuous_Tense_key23
+5. Past_Continuous_Tense_key24
+1.am Past_Continuous_Tense_key25
+2.was Past_Continuous_Tense_key26
+3.watched
+B. Past_Continuous_Tense_key27
+1.painted Past_Continuous_Tense_key28
+2.was Past_Continuous_Tense_key29
+3.have Past_Continuous_Tense_key30
+1.quarreled Past_Continuous_Tense_key31
+2.are Past_Continuous_Tense_key32
+3.were Past_Continuous_Tense_key33
+1.am Past_Continuous_Tense_key34
+2.walked Past_Continuous_Tense_key35
+3.was Past_Continuous_Tense_key36
+1.am Past_Continuous_Tense_key37
+2.had Past_Continuous_Tense_key38
+3.was Past_Continuous_Tense_key39
+1.lived Past_Continuous_Tense_key40
+2.was Past_Continuous_Tense_key41
+3.am Past_Continuous_Tense_key42
+1.played Past_Continuous_Tense_key43
+2.playing Past_Continuous_Tense_key44
+3.was Past_Continuous_Tense_key45
+1.shining Past_Continuous_Tense_key46
+2.was Past_Continuous_Tense_key47
+3.is Past_Continuous_Tense_key48
+1.went Past_Continuous_Tense_key49
+2.was Past_Continuous_Tense_key50
+3.am Past_Continuous_Tense_key51
+Past_Continuous_Tense_key52
+
+Past_Continuous_Tense_key53
+
+Past_Continuous_Tense_key54
+
+Past_Continuous_Tense_key551. Past_Continuous_Tense_key56
+2. Past_Continuous_Tense_key57
+3. Past_Continuous_Tense_key58
+4. Past_Continuous_Tense_key59
+5. Past_Continuous_Tense_key60
