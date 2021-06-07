@@ -1,1 +1,1 @@
-['Boolean', 'Operator', 'Variable', 'True', 'False']
+'Boolean,Operator,Variable,True,False'
