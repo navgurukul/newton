@@ -2,7 +2,7 @@
 
 **Example:**
 
-```js
+```javascript
 var a = 25;         // positive integer
 var b = 80.5;       // floating-point number
 var c = -2;         // negative number
@@ -15,7 +15,7 @@ The Number data type also includes some special values which are: Infinity, -Inf
 
 **Example:**
 
-```js
+```javascript
 console.log(16 / 0);  // Output: Infinity
 console.log(-16 / 0); // Output: -Infinity
 console.log(16 / -0); // Output: -Infinity
@@ -23,7 +23,7 @@ console.log(16 / -0); // Output: -Infinity
 
 While NaN represents a special Not-a-Number value. It is a result of an invalid or an undefined mathematical operation, like taking the square root of -1 or dividing 0 by 0, etc.
 
-```js
+```javascript
 console.log("Nav Gurukul" / 2);       // Output: NaN
 console.log("Dharamshala" / 2 + 10);  // Output: NaN
 console.log(Math.sqrt(-1));         // Output: NaN

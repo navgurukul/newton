@@ -7,7 +7,7 @@ submission_type: url
 
 For example, when we write the following line in JS,
 
-```js
+```javascript
 var my_name = 'Shweta';
 ```
 

@@ -6,7 +6,7 @@ A variable can be explicitly emptied of its current contents by assigning it the
 
 **Example:**
 
-```js
+```javascript
 var a = null;
 console.log(a); // Output: null
 var b = "Hello World!"
@@ -19,13 +19,13 @@ console.log(b) // Output: null
 
 1. Write a program to print null when I console a variable name is y?
 
-```js
+```javascript
 var y= null;
 console.log(y);
 ```
 2. What is the output of the following code?
 
-```js
+```javascript
 var val = null;
 console.log(val);
 

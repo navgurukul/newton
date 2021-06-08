@@ -19,7 +19,7 @@ Arithmetic operators are used to perform arithmetic (Mathematical) operations on
 
 ## Exercises:
 
-```js
+```javascript
 var x = 10, y = 20;
  
 console.log(x + y);

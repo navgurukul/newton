@@ -14,7 +14,7 @@ JavaScript includes assignment operators to assign values to variables.
 
 ## Exercises:
 
-```js
+```javascript
 var x = 5, y = 10, z = 15;
 
 console.log(x = y);
