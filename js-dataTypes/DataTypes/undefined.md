@@ -2,7 +2,7 @@
 
 
 **Example:**
-```js
+```javascript
 var a;
 var b = "Hello World!"
 console.log(a) // Output: undefined
@@ -17,20 +17,20 @@ The **undefined** data type can only have one value-the special value undefined.
 **Exercises:**
 
 1. Write a program that prints undefined when I print with its variable name?
-```js
+```javascript
 var z;
 console.log(z);
 ```
 2. What is the output of the following code?
 
-```js
+```javascript
 var n;
 console.log(n);
 ```
 output:undefined
 
 3. What is the error in the following code?
-```js
+```javascript
 var x=3;
 console.log(X);
 ```

@@ -21,13 +21,13 @@ An array is a type of object used for storing multiple values in a single variab
 
 The simplest way to create an array is by specifying the array elements as a comma-separated list enclosed by square brackets, as shown in the example below:
 
-```js
+```javascript
 var myFavouriteThings = ["Ramani", "Black",1, "jan 2 1996"];
 ```
 
 Same like myFavouriteFriends
 
-```js
+```javascript
 var myFavouriteFriends = ["shweta", "rani", "nayak", "kajal"]
 
 ```

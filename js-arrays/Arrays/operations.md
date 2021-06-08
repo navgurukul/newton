@@ -4,7 +4,7 @@
 - **Create an array**
 
     **Example :**
-    ```js
+    ```javascript
         var fruits = ['Apple', 'Banana'];
         console.log(fruits.length); // output 2
     ```
@@ -17,7 +17,7 @@
 - **Access an Array item using the index position**
 
     **Example :**
-    ```js
+    ```javascript
     var fruits = ['Apple', 'Banana', ‘Orange’]
     
     console.log(fruits[1]); // output ‘Banana’
@@ -30,7 +30,7 @@
 	
     **Example :**
 
-    ```js
+    ```javascript
     var array = [ 1, 2, 3, 4, 5, 6 ];
     for (var index = 0; index < array.length; index++) {
     console.log(array[index]);
@@ -75,7 +75,7 @@
 	
     **Example :**
 
-    ```js
+    ```javascript
     var fruits = ['Apple', 'Banana']
     
     fruits.push('Orange')
@@ -87,7 +87,7 @@
     
     **Example :**
 
-    ```js
+    ```javascript
     var fruits = ['Apple', 'Banana', ‘Orange’]
     
     fruits.pop()
@@ -99,7 +99,7 @@
 
     **Example :**
 
-    ```js
+    ```javascript
     var fruits = ['Apple', 'Banana', ’orange’]
     
     fruits.shift()
@@ -112,7 +112,7 @@
 
 
     **Example :**
-    ```js
+    ```javascript
     var fruits = ['Apple', 'Banana']
     
     fruits.unshift(‘Grapes’)
@@ -128,7 +128,7 @@
 	
 	**Example :**
 
-    ```js
+    ```javascript
     let fruits = ['Apple', 'Banana', ‘Orange’]
     
     let position = fruits.indexOf('Banana')
@@ -139,7 +139,7 @@
 - **Remove an item by its index position**
 	
 	**Example :**
-    ```js
+    ```javascript
     var fruits = ['Apple', 'Banana', ‘Orange’]
     
     let removedItem = fruits.splice(1,1)
@@ -155,7 +155,7 @@
     JavaScript arrays are zero-indexed. The first element of an array is at index 0. 
 
     **Example :**
-    ```js
+    ```javascript
     var arr = ['shweta', 'nayak', 'komal', 'zeba']
     console.log(arr[0])              // output 'shweta' the first element
     console.log(arr[1])              // logs 'nayak' the second element

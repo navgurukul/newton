@@ -11,7 +11,7 @@ Logical operators are used to combine two or more conditions.
 
 ## Exercises:
  
-```js
+```javascript
 var a = 5, b = 10;
 console.log((a != b) && (a < b));
 console.log((a > b) || (a == b));

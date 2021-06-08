@@ -1,5 +1,5 @@
 ```ngMeta
 name: JS Arrays
-type: html
+type: js
 short_description: Iss topic mai hum JavaScript ke Arrays ke bare mai janege
 ```

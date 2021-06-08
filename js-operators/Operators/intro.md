@@ -4,7 +4,7 @@
 
 Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them
 
-```js
+```javascript
 console.log(1+2); // output: 3
  ```
 An operator performs some operation on operands (data value on which operation is being performed) and produces a result. For example 1 + 2, where + sign is an operator and 1 is left operand and 2 is right operand. + operator adds two numeric values and produces a result which is 3 in this case.

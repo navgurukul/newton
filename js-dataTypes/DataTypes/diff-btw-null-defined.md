@@ -3,7 +3,7 @@
 
 **Example:**
 
-```js
+```javascript
 var empty = null;
 console.log(empty); // Output: null
 console.log(typeof(empty)); // Output: object
@@ -18,7 +18,7 @@ Where as,
 
 **Example:**
 
-```js
+```javascript
 var notDefined;
 console.log(notDefined); // Output: undefined
 console.log(typeof(notDefined)); // Output: undefined

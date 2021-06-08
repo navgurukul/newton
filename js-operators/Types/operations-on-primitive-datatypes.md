@@ -10,7 +10,7 @@ To find the length of a string you just need  a simple property called length
 
 **Example:**
 
-```js
+```javascript
 let browserType = 'mozi lla';
 console.log(browserType.length); // output 8
 ```
@@ -26,7 +26,7 @@ But in the list the elements are separated by commas.
 - **Retrieving a specific string character**
 
 **Example:**
-```js
+```javascript
 let browserType = 'mozilla';
 browserType[0]; // output ‘m’
  ```
@@ -36,7 +36,7 @@ browserType[0]; // output ‘m’
 If we want a particular alphabet of a string so we can access it too by using square brackets same as arrays. Just specify the variable name and the position(Index) of the particular alphabet in [ ] (square brackets). Indexing starts from the same number 0.
  
 **Example:**
-```js
+```javascript
 let browserType = 'mozilla';
 browserType[browserType.length-1]; // output ‘a’
  ```
@@ -47,7 +47,7 @@ In the case of accessing the last element first like python, negative indexing i
 - **Finding a substring inside a string and extracting it**
 	
 **Example:**
-```js
+```javascript
 let browserType = 'mozilla is a company';
 browserType.indexOf(‘company’); // output 13
 ```
@@ -57,7 +57,7 @@ browserType.indexOf(‘company’); // output 13
 This gives us a result of 13, because the substring "company" starts at position 13 (0, 1, 2  — so 13 characters in) inside "mozilla is a company". Such code could be used to filter strings.
 
 **Example:**
-```js
+```javascript
 let browserType = 'mozilla is a company';
 browserType.indexOf(‘are’); // output -1
 ```
@@ -68,7 +68,7 @@ This should give you a result of -1 — this is returned when the substring, in 
 - **Changing case**
 	
 **Example:**
-```js	
+```javascript	
 let radData = 'My NaMe Is MuD';
 radData.toLowerCase();  // output ‘my name is mud’
 radData.toUpperCase();  // output ‘MY NAME IS MUD’
@@ -79,7 +79,7 @@ The string methods toLowerCase() and toUpperCase() take a string and convert all
  
 - **Updating parts of a string**
 
-```js
+```javascript
 let browserType = 'mozilla';
 browserType.replace(‘moz’, ’van’); // output ‘vanilla’
 ```

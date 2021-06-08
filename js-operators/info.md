@@ -1,5 +1,5 @@
 ```ngMeta
 name: JS Operators
-type: html
+type: js
 short_description: Iss topic mai hum JavaScript ke Operators ke bare mai janege
 ```
