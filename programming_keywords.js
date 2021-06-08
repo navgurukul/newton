@@ -1,1 +1,1 @@
-"Boolean,Operator,Variable,True,False,Python,Indentation"
+"Boolean,Operator,Variable,True,False,Python"
