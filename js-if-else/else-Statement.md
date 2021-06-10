@@ -1,7 +1,7 @@
 > If any “ if ”  condition is false then an “else” statement comes into the picture.
 
 **Example**:
-```js
+```javascript
 var a = 10;
 var b = 12;
 if(a > b){
@@ -21,7 +21,7 @@ Output :- 12 is greater than 10
 
 
 **Example**:
-```js
+```javascript
 
 var num1= 10;
 var num2 = 20;

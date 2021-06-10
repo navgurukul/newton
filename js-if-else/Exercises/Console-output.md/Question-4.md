@@ -1,6 +1,6 @@
 Please tell output on different value of time variable :-
 
-```js
+```javascript
 time= 5
 time=8
 time=10

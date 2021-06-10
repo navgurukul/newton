@@ -1,4 +1,4 @@
-```js
+```javascript
 if (condition is true) {
   statement is executed
 }
@@ -13,7 +13,7 @@ if (condition is true) {
 > Let us see some more examples.
 
 **Example** :-
-```js
+```javascript
 var a = 10;
 var b = 12;
 if(b > a){

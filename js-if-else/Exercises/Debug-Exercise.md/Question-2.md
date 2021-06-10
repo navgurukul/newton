@@ -1,4 +1,4 @@
-```js
+```javascript
 var number = 12;
  
 if(Number%3 === 0){

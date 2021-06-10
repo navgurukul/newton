@@ -1,5 +1,5 @@
 **Example:**
-```
+```javascript
 var myName;
 
 ```
@@ -13,7 +13,7 @@ var myName;
 
 
 **Some more Examples:**
-```
+```javascript
 var ourCampusName;
 
 var myVillage; 

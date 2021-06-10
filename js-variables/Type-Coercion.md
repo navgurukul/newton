@@ -1,5 +1,5 @@
 **Example:**
-```
+```javascript
 var name = "navgurukul";
 var num = 29;
 var result = name + num;
@@ -17,7 +17,7 @@ Output :-  navgurukul29
 
 
 **Example:**
-```
+```javascript
 var measure = "height";
 var val = 16.5;
 var result = measure + val;
@@ -34,7 +34,7 @@ Output :- height16.5
 > This auto converting of a value from one type to another — such as float to string — in JS is called Type Coercion.
 
 **Example:**
-```
+```javascript
 console.log(true + false)
 
 Output :- 1
@@ -46,7 +46,7 @@ Output :- 1
 
 
 **Example:**
-```
+```javascript
 var num=24
 var a="kumar"
 console.log(24/"kumar")

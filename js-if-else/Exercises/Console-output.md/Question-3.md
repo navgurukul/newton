@@ -1,4 +1,4 @@
-```js
+```javascript
 var choice ="overcast";
 if (choice === 'sunny') {
    message = 'It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.'

@@ -1,4 +1,4 @@
-```js
+```javascript
 let isTrue = "True";
 if(isTrue){
   console.log("Output should show")

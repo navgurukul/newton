@@ -1,6 +1,6 @@
 
 **Example**:
-```js
+```javascript
     var course = "Hindi";
     if (course == "English"){
         console.log("Tutorial is for English")}

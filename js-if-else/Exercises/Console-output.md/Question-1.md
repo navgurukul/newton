@@ -1,5 +1,5 @@
 Print  the students' names according to day?
-```js
+```javascript
 var day = "TUeSday".toLowerCase();
 if (day == "monday") {
   console.log("Dhanwantari\nSiddhi\Kritika\Salon\nMayuri\Gauri");

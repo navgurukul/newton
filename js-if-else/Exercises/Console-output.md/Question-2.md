@@ -1,4 +1,4 @@
-```js
+```javascript
 var x = 10;
 var y = 12
 var z = 90

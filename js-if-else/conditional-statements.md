@@ -1,5 +1,5 @@
 > Consider the following:
-```js
+```javascript
   let condition = 'Raining';
  
     if(condition == 'Raining'){

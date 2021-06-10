@@ -1,5 +1,5 @@
 **Example:**
-```
+```javascript
 var myLuckyNumber= 3;
  
 Here, we stored 3 as a value and it is stored in a variable named myLuckynumber.
@@ -16,7 +16,7 @@ output: 5
     A variable is simply the name of a storage location and will work as a container to hold value. = (equal to ) is used to assign a value to a variable, if you do any operation such as addition, multiplication and it will compute first and assign it to the variable.
 
 **Example:**
-```
+```javascript
 var isHealthy = true;
 
 ```
@@ -25,7 +25,7 @@ var isHealthy = true;
     In the above question we stored true a boolean value in a variable named as isHealthy, by this you can get to know we can store any data type as a value to a variable.
 
 **Example:**
-```
+```javascript
 var multiplyTwoNumbers =3*3;
 console.log(multiplyTwoNumbers);
 
@@ -38,7 +38,7 @@ output: 9
 
 
 **Example:**
-```
+```javascript
 var myName;
 myName = "kumar";
 var myFullName;
@@ -56,7 +56,7 @@ output: kumar
 **You can assign a variable to another variable.**
 
 **Example:**
-```
+```javascript
 var myName;
 myName = "kumar";
 var myFullName;
