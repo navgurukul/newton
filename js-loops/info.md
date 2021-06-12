@@ -1,5 +1,5 @@
 ```ngMeta
 name: Loops
-type: javascript
+type: js
 short_description: We will discuss about different types of loops in javascript.
 ```

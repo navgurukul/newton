@@ -1,5 +1,5 @@
 ```ngMeta
 name: Variables
-type: javascript
+type: js
 short_description: We will discuss about javascript variables.
 ```
