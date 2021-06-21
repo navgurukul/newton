@@ -1,6 +1,6 @@
 Iss project mei hum log `hangman` game develop karenge. 
 
-![hangman](assets/hangman.png)
+![hangman](images/hangman.png)
 
 Game ko samajhne ke liye aap [yaha](https://hangmanwordgame.com) par ja kar iss game ko khel sakte hai. Bahut simple sa game hai. Fir neeche diye hue video ko dekh lo. 
 
