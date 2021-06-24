@@ -1,5 +1,5 @@
 ```ngMeta
 name: Conditional Statements 
-type: Js
+type: js
 short_description: We will discuss about Conditional Statements.
 ```
