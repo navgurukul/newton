@@ -5,7 +5,6 @@
 - Understanding-the-Variable-Scope-in-functions.md
 - Different-types-to-write-a-function.md
 - Functions-Can-Be-Used-as-Values.md
-
 - Exercises
     - Question-1.md
     - Question-2.md
