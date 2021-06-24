@@ -6,3 +6,7 @@
     - Check-property-is-there-or-not.md
     - Loop-over-an-object.md
 
+- Exercises
+    - Question-1.md
+    - Question-2.md
+    - Question-3.md

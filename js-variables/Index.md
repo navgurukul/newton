@@ -1,5 +1,0 @@
-- Variables.md
-- Storing-a-value-into-variable.md
-- Case-sensitive.md
-- Escape-Sequences-in-strings.md
-- Type-Coercion.md
