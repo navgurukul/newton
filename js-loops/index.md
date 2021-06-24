@@ -7,14 +7,13 @@
 - for-in-loop.md
 - for-of-loop.md
 - difference-between-for(in)-and-for(of).md
-- exercises
-    - code-output.md
-        - Question1.md
-        - Question2.md
-        - Question3.md
-        - Question4.md
-        - Question5.md
-    - debug-part.md
-        - Question1.md
-        - Question2.md
-        - Question3.md
+- Exercises-code_output
+    - Question1.md
+    - Question2.md
+    - Question3.md
+    - Question4.md
+    - Question5.md
+- Exercises-Debug
+    - Question1.md
+    - Question2.md
+    - Question3.md
