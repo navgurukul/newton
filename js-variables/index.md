@@ -3,7 +3,6 @@
 - Case-sensitive.md
 - Escape-Sequences-in-strings.md
 - Type-Coercion.md
-
 - variables-exercises
     - Question1.md
     - Question2.md
