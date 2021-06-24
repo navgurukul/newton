@@ -1,9 +1,6 @@
 - Operators
-
     - intro.md
-
 - Types
-
     - arithmetic.md
     - comparison.md
     - assignment.md

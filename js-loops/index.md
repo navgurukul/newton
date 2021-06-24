@@ -1,5 +1,5 @@
 - loops.md
-- types-of-loops.md
+- types-of-loops
 - increment-a-number.md
 - decrement-a-number.md
 - while-loop.md
