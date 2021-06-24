@@ -8,8 +8,6 @@ Email compose karte waqt neeche di gai cheezon ka dhyan rakhein:
 1. Sabse pehle job ki requirements aur description ko achhi tarah se padhein aur samjhein. 
 2. Company ke baare mein jo details di gai hain, unko achhi tarah se samjhein.
 3. Email me subject line, greeting, introduction, closing, etc. saare parts ko achhe se likhein.
-<br>
-<br>
 
 Job One
 <br>

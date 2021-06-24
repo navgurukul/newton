@@ -1,0 +1,17 @@
+- DataTypes
+  - intro.md
+  - string.md
+  - stringQ.md
+  - number.md
+  - numberQ.md
+  - boolean.md
+  - booleanQ.md
+  - undefined.md
+  - null.md
+  - diff-btw-null-defined.md
+  - object.md
+  - objectQ.md
+  - array.md
+  - arrayQ.md
+  - typeOf.md
+  - typeOfQ.md

@@ -1,3 +1,3 @@
-- what-is-Javascript?.md
+- what-is-javascript?.md
 - history-of-JS.md
 - how-can-we-run-JS-on-our-laptop?.md
