@@ -1,19 +1,23 @@
 - loops.md
-- types-of-loops
 - increment-a-number.md
 - decrement-a-number.md
-- while-loop.md
-- for-loop.md
-- for-in-loop.md
-- for-of-loop.md
-- difference-between-for(in)-and-for(of).md
+- types-of-loops
+    - while-loop.md
+    - for-loop.md
+    - do-while-loop.md
+    - diff-between-while-loop-and-do-while-loop.md
+    - for-in-loop.md
+    - for-of-loop.md
+    - difference-between-for(in)-and-for(of).md
+    - some-more.md
 - Exercises-code_output
     - Question1.md
     - Question2.md
     - Question3.md
     - Question4.md
-    - Question5.md
 - Exercises-Debug
     - Question1.md
     - Question2.md
     - Question3.md
+- Project2
+    project.md

@@ -1,3 +1,5 @@
+# Accessing Object Properties
+
 In two ways we can access properties i.e., dot notation (.) and bracket notation ([ ]), similar to an array. 
 
 
@@ -21,9 +23,9 @@ console.log(vegetable2);
 console.log(vegetable3);
  
 //output:
-potato
-brinjal
-bottle gourd
+// potato
+// brinjal
+// bottle gourd
 
 ```
 
@@ -52,9 +54,9 @@ console.log(myDetails["last name"])
 console.log(myDetails["middle name"])
  
 // output
-kumar
-vadthya
-nayak
+// kumar
+// vadthya
+// nayak
 
 ```
 

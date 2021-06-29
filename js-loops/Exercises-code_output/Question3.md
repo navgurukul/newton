@@ -1,24 +1,13 @@
-Program to check whether the given number is a prime or not?
+
 ```javascript
-var n=require("readline-sync");
-const num=n.question("enter number: ");
-let i=2
-var count=0;
-while (i<num) {
-       if (num%i===0) {
-       count=count+1
-       }
-       i++;
-}
-if (count===0) {
-       console.log("prime number")
-}
-else {
-   console.log("not prime number")
+for (var i=0;i<10;) {
+   console.log(i)
 }
 
-Output:
-enter number: 3
-prime number
+// Output:
+
+// It will run indefinitely because we didn't given increment to it.
 
 ```
+
+

@@ -3,8 +3,7 @@
 var Name = "komal";
 var name = "swati";
 console.log(Name+name)
-
-output: komalswati
+// output: komalswati
 
 ```
 **Explanation:**
@@ -17,7 +16,7 @@ output: komalswati
 var num_12 = 24;
 console.log(12num)
 
-Output :- SyntaxError: Invalid or unexpected token
+// Output : SyntaxError: Invalid or unexpected token
 
 ```
 **Explanation:**

@@ -21,6 +21,6 @@ else if ( time > 8.30 && time < 12){
  console.log("Study");
 }
  
-output: Study
+// output: Study
 
 ```

@@ -1,3 +1,5 @@
+# Updating a property
+
 For example, let's look at myHome:
 
 ```javascript
@@ -17,13 +19,13 @@ console.log(myHome);
  
 //  output
 
-{
-   name: ‘my Villa’,
-   location:"Mumbai",
-   Colour:"black",
-   Owner:”sharukh khan”,
-   neighbours: ["everything!"]
-}
+// {
+//    name: ‘my Villa’,
+//    location:"Mumbai",
+//    Colour:"black",
+//    Owner:”sharukh khan”,
+//    neighbours: ["everything!"]
+// }
 
 ```
 

@@ -13,7 +13,7 @@ if (choice === 'sunny') {
 }
 console.log(message)
 
-output:
-"It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case."
+// output:
+// "It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case."
 
 ```

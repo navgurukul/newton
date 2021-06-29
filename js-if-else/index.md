@@ -10,3 +10,7 @@
 - Exercises-Debug
     - Question-1.md
     - Question-2.md
+- Project1
+    - how-to-take-input.md
+    - how-to-generate-random-numbers.md
+    - Project.md

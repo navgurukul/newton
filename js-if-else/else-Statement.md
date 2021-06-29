@@ -11,16 +11,16 @@ else {
 console.log(b," is greater than " ,a);
 }
 
-Output :- 12 is greater than 10
+// Output :- 12 is greater than 10
 
 ```
 
 **Explanation**: 
 
-    In this example if a condition is false. So, else statement will execute
+   In this example if a condition is false. So, else statement will execute
 
 
-**Example**:
+**Example**: Write a program to find the maximum between two numbers.
 ```javascript
 
 var num1= 10;
@@ -33,7 +33,7 @@ else{
    console.log("num2 is greater than num1");;
 }
 
-output: "num2 is greater than num1"
+// output: "num2 is greater than num1"
 
 ```
 

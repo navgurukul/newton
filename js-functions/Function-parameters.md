@@ -48,3 +48,69 @@ showFullname("Shwetha"); // 0utputs: Shwetha undefined
 
 ```
 
+
+**Exercises:**
+
+1. Write a function displayMultiply() and pass 3 parameters and in runtime take the arguments with the names num1, num2, num3 and multiply them and return the result?
+
+Feedback after submit
+```javascript
+function displayMultiply(num1, num2, num3) {
+   return num1*num2*num3
+  }
+  
+console.log(displayMultiply(2, 3, 4));
+```
+
+2. What is the output of the following code?
+
+```javascript
+function getResult(num1,num2,num3,num4){
+ console.log(num1-num2+num3-num4)
+}
+ 
+getResult(2,3,4,5);
+// Feedback after submit: -2
+```
+
+3. What is the error in this code?
+```javascript
+function getResult(num1,num2,num3){
+ console.log(num1-num2+num3)
+}
+ 
+getResult(2,3,4,5);
+```
+ 
+Feedback after submit
+No error. Even though an extra parameter (5) is passed, the function getResult simply does not use it.	
+
+4. Write a program that will take two parameters and print its sum?
+
+Feedback after submit
+```javascript
+function SumOfNumbers(num1,num2){
+   return num1+num2;
+}
+SumOfNumbers(1,2);
+ ```
+5. What is the output of the following code?
+```javascript
+function displayMultiply(a,b){
+   console.log(a*b);
+}
+displayMultiply(2,3);
+// Feedback after submit
+// 6
+```
+6. What is the error in the following code?
+```javascript
+	function displaySubtraction(a,b){
+   console.log(ab);
+}
+displySubraction(2,3);
+// Feedback after submit: ReferenceError: display Subtraction is not defined
+```
+The function name is not matched with the calling name so it is given Reference Error.
+
+
