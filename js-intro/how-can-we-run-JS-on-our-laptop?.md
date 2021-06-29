@@ -10,11 +10,11 @@ Please follow this link.[Vscode](https://linuxize.com/post/how-to-install-visual
 console.log() we will use for printing output in the terminal like we use print in python.
 Steps to write in code in vs code :-
 
-    1. Open vs code editor.
-    2. Make hello.js file.
-    3. paste the below code in hello.js
-            console.log("Hello JS")
-    4. Press “control” and “tilt”(~) on your keyboard.It will show the terminal in vs code.
-    5. Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** 
-    on the screen.
+1. Open vs code editor.
+2. Make hello.js file.
+3. paste the below code in hello.js
+        console.log("Hello JS")
+4. Press “control” and “tilt”(~) on your keyboard.It will show the terminal in vs code.
+5. Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** 
+on the screen.
 
