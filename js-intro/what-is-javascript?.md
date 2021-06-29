@@ -1,12 +1,12 @@
-> Before we give you a formal definition of JavaScript, let us show you where JavaScript is used. Chances are, you have already used JavaScript before.
-> Every time you Play audio and video on youtube, you are likely using JavaScript
-> Every time you zoom in and zoom out on an image, you are likely using JavaScript
-> Every time you click a button on a browser, chances are there that you are using javascript
+Before we give you a formal definition of JavaScript, let us show you where JavaScript is used. Chances are, you have already used JavaScript before.
+Every time you Play audio and video on youtube, you are likely using JavaScript
+Every time you zoom in and zoom out on an image, you are likely using JavaScript
+Every time you click a button on a browser, chances are there that you are using javascript
 
-> You can go through this video first to understand the features of Javascript.
+You can go through this video first to understand the features of Javascript.
     [Features of Javascript](https://www.youtube.com/watch?v=DONMpU7Xc8w)
 
-> Javascript is a high-level scripting and interpreted programming language. Now, there are three important phrases to understand here. High level, Scripting, and Interpreted.
+Javascript is a high-level scripting and interpreted programming language. Now, there are three important phrases to understand here. High level, Scripting, and Interpreted.
 
     - High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.
 
