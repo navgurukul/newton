@@ -2,7 +2,7 @@
 - increment-a-number.md
 - decrement-a-number.md
 - types-of-loops
-    - while-loop.md
+    - While-loop.md
     - for-loop.md
     - do-while-loop.md
     - diff-between-while-loop-and-do-while-loop.md
