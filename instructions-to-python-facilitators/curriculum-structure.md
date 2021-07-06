@@ -1,3 +1,7 @@
+```ngMeta
+name:  Curriculum Structure
+```
+
 # Curriculum Structure
 
 The **_8 courses in Python_** are divided into **_22 Workshop Classes_**. We expect you to follow this Class division, to ensure that the sequence of learning is maintained, and a child has an opportunity to come back and attend only those specific classes she had doubts in, or had missed it for whatever reasons. 
