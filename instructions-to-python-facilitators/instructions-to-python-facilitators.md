@@ -1,9 +1,6 @@
 ```ngMeta
-name:  Instructions to python facilitators
+name:  Instructions to Python Facilitators
 ```
-
-# Instructions to Python Facilitators
-
 #### Hello Change-Makers, 
 
 We welcome you aboard to teach **Basics of Python Programming** to over **100k young women** between the age group of 15-25, from various parts of the country. Your contribution is highly valuable in creating a drastic impact in the learning journey of these young women and enabling them to get an **aspirational job**, have **a voice**, and be equipped to **bring at least 10 families out of poverty** in a financially sustainable model.
