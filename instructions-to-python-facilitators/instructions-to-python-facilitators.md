@@ -30,7 +30,7 @@ Browse through the Curriculum to teach **Basics of Python Programming**
 * [Lists](https://www.merakilearn.org/course/80/exercise/1961, "Lists")
 * [Dictionary](https://www.merakilearn.org/course/104/exercise/2344, "Dictionary")
 
-The **_8 courses in Python_** are divided into **_22 Workshop Classes_**. We expect you to follow this Class division, to ensure that the sequence of learning is maintained, and a child has an opportunity to come back and attend only those specific classes she had doubts in, or had missed it for whatever reasons.
+The **_8 courses in Python_** are divided into [**_23 Workshop Classes_**](https://www.merakilearn.org/course/145/exercise/3523). We expect you to follow this Class division, to ensure that the sequence of learning is maintained, and a child has an opportunity to come back and attend only those specific classes she had doubts in, or had missed it for whatever reasons.
 
 #### Step 3 - Creating a Class
 The next step is clearly to [Create a Class](https://www.merakilearn.org/class, "Create a Class")! On this page, you'll find all the other classes created by other facilitators. You can recheck the date and time before creating your class, to ensure it doesn't clash with someone else's, and that your Classes are varied. Eg: Facilitator A creates Class 1 - Introduction to Python on Thursday, at 4pm. Then you can create your Class 1 - Introduction to Python on Saturday or Sunday, to space out similar sessions. 
