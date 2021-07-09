@@ -35,22 +35,15 @@ below accordingly. Also at any point if the child doesn’t understand the meani
 
 
 ### Short Story -
-This story is about a Critically endangered parrot called kākāpō - also the
-word’s fattest parrot !
-Who doesn't love a cute fat parrot ?
-The kākāpō is a flightless species of parrot native to New Zealand. Though it once
-was one of New Zealand's most abundant animals, heavy hunting reduced it
-numbers to just 147 living adults today.
-The nocturnal, flightless parrot is one of New Zealanders' favourite birds, and is known for its charismatic nature and owl-like face.
-This year, however, the kākāpō had a record breaking breeding season with 60
-more chicks expected to make it to adulthood, nearly double the previous record! 
-The chicks will be raised in predator-free sanctuaries to give them the best chance
-of survival.
-Species like these make protecting our forests so rewarding. Healthier habitats
-means more chubby parrots!
-3) At the end of every session let’s teach them one word and their homework would
-be to try to use the word in a sentence when they talk to their friends/teachers in the
-school and make a note of how many times did they use it.
+
+This story is about a Critically endangered parrot called kākāpō - also the word’s fattest parrot !
+Who doesn't love a cute fat parrot ? The kākāpō is a flightless species of parrot native to New Zealand. Though it once was one of New Zealand's most abundant animals, heavy hunting reduced it numbers to just 147 living adults today. The nocturnal, flightless parrot is one of New Zealanders' favourite birds, and is known for its charismatic nature and owl-like face.
+
+This year, however, the kākāpō had a record breaking breeding season with 60 more chicks expected to make it to adulthood, nearly double the previous record!  The chicks will be raised in predator-free sanctuaries to give them the best chance of survival. Species like these make protecting our forests so rewarding. Healthier habitats means more chubby parrots!
+
+
+3) At the end of every session let’s teach them one word and their homework would be to try to use the word in a sentence when they talk to their friends/teachers in the school and make a note of how many times did they use it.
+
 **Word of this week -**
 abandon - noun
 Meaning - complete lack of inhibition or restraint.
