@@ -1,63 +1,74 @@
 ```ngMeta
-name: Instruction to Volunteer
+name: Instruction to spoken English Facilitators
 ```
 
 Holaaaa :) Welcome welcome :) 
 
-## Description for volunteer coordinator:
+### Hello Change-Makers,
+We welcome you aboard to teach Basics of Spoken English to over 100k young women between the age group of 15-25, from various parts of the country. Your contribution is highly valuable in creating a drastic impact in the learning journey of these young women and enabling them to get an aspirational job, have a voice, and be equipped to bring at least 10 families out of poverty in a financially sustainable model.
 
-The volunteer coordinator helps with the coordinations between the volunteers and the organization. Each coordinator will have an organization allocated . All the information about the volunteers and the students that the volunteers will be helping will be shared with the coordinator. The coordinator is the first point of contact when any volunteer has any questions or concerns about the program.
+We're glad you have decided to teach Spoken English to young children.
 
-Thanks a lot for showing interest in this opportunity. Jotting down the steps and tasks for his/her role.
+To ensure you have a smooth onboarding and enable you to self start this process, sharing a few simple steps you can follow.
 
-## Step 1 - GET THE INFORMATION FROM LTE Spoc
-LTE Spoc shares a spreadsheet with the contact information of the volunteers along with student information allocated to each volunteer and an organization coordinator contact.
+### Step 1 - Signing into Meraki
+We have a student facing Android Application and a website that caters to volunteers, partners, clients, etc. Please download the application and sign in. Spend some time and explore the [application](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US,).
 
-## Step 2 - CREATE WHATSAPP GROUP
-You will create a whatsapp group with all the volunteers + LTE SPOC + Organization coordinator. The organization coordinator will be helping with the coordinations from the organization side. Example scenario - Incase if a student is not answering a call for more than 2 days then the organization coordinator will take care of the communications
+You can use the following links for further assistance
 
-## Step 3 - WARM WELCOME AND INTRODUCTIONS
-After creating the whats app group with the above, you will introduce yourself and welcome the volunteers. Make sure the org coordinator
-shares about the organization and background about the students in the group so that the volunteers feel connected and are empathetic.
+.. [Signing into Meraki and Home Screen](https://www.youtube.com/watch?v=Lha-WlS2Hkg&feature=youtu.be)
 
-## Template to send the group for the welcome message 
-Hello I am _NAME_ I am from the spoken english volunteering that you all had signed up for. Very excited to have you onboarded. You all will be helping students from the organization _( share the name )_   . We also have the student coordinator _name of student coordinator_  who will share more details about the organization with you all. Please do introduce yourself dear volunteers. Would love to know you all more.
+.. [Course, Mentor, Playground](https://www.youtube.com/watch?v=UN3us4vDHhc)
 
-## Step 4 - SHARE THE CURRICULUM
-Once the volunteers have introduced themselves share the curriculum in the group
+For the next steps, Sign into www.Merakilearn.org using your Web Browser. (Prefer Google Chrome)
 
-*Template to send the group for curriculum message* 
-Hello this is the link with all the weekly curriculum [Lets teach English](https://www.letsteachenglish.org/curriculum). The curriculum is just a guideline doc and it's nothing strict to follow. Please improvise based on the skill level of the student. The document is to only give you all ideas of what you can talk for an hour with the student. We have been improving this process every week and so week 1 is relatively harder and going forward from week 3 onwards we have two levels in the document - easy level and intermediate level and you will be able to pick and choose. Let me know if you have any questions..
+### Step 2 - Curriculum
+Browse through the Curriculum to teach Basics of Spoken English
 
-## Step 5 - CONFIRM THE PARTICIPATION FROM THE VOLUNTEERS WHO DID NOT RESPOND IN THE GROUP
-Once the introductions and curriculum sharing is completed, please one on one message the volunteers who did not reply back in the group.
+|Class Name| Number of Classes| Week| Duration of Class|
+|------|------|-----|-------|
+| [Introduction](https://www.merakilearn.org/course/125/exercise/3246) | 1 |1 |1.5 hours|
+| [Food](https://www.merakilearn.org/course/125/exercise/3247) |1 |2 |1.5 hours |
+| [Family](https://www.merakilearn.org/course/125/exercise/3249) |1 |3 |1.5 hours|
+| [Other Activities](https://www.merakilearn.org/course/125/exercise/3250)| 1 |4 |1.5 hours|
+| [Area](https://www.merakilearn.org/course/125/exercise/3248) |1| 5| 1.5 hours|
+| [Travel/Transport](https://www.merakilearn.org/course/125/exercise/3268) |1| 6 |1.5 hours|
+| [Movies](https://www.merakilearn.org/course/125/exercise/3270) | 1| 7 |1.5 hours|
+| [Other Parts of India](https://www.merakilearn.org/course/125/exercise/3269) | 1| 8 |1.5 hours|
+| [Festivals you celebrate](https://www.merakilearn.org/course/125/exercise/3271)| 1 |9| 1.5 hours|
+| [Seasons/Subject Predicates](https://www.merakilearn.org/course/125/exercise/3272) | 1| 10| 1.5 hours|
+| [Tenses](https://www.merakilearn.org/course/125/exercise/3273)| 1| 11| 1.5 hours|
+| [Hobbies/ Similies-Metaphors](https://www.merakilearn.org/course/125/exercise/3274) |1 |12| 1.5 hours |
+| [Concept of Giving](https://www.merakilearn.org/course/125/exercise/3275) |1| 13 |1.5 hours|
+| [Teachers/ Story Comprehension](https://www.merakilearn.org/course/125/exercise/3276) |1| 14 |1.5 hours|
+| [Goals/ Reflections](https://www.merakilearn.org/course/125/exercise/3277)| 1| 15| 1.5 hours|
 
-*Template to send to the volunteer* - Hello just wanted to follow up with you if you can confirm your participation in the volunteering program after which I will share the student information.
+It is divided into 15 Workshop Classes. We expect you to follow this Class division, to ensure that the sequence of learning is maintained, and a child has an opportunity to come back and attend only those specific classes she had doubts in, or had missed it for whatever reasons.
 
-## Step 6 - SHARE STUDENT INFORMATION WITH THE VOLUNTEERS
-After step 5 do share the student numbers with the volunteers in a private one on one conversation. Make sure to send the number to only those volunteers who either replied back on the group or to your private message confirming their participation.
+### Step 3 - Creating a Class
+The next step is clearly to [Create a Class](https://www.merakilearn.org/class)! On this page, you'll find all the other classes created by other facilitators. You can recheck the date and time before creating your class, to ensure it doesn't clash with someone else's, and that your Classes are varied. Eg: Facilitator A creates *Class 1 - Introduction* on *Thursday, at 4pm*. Then you can create your Class 1 - Introduction on Saturday or Sunday, to space out similar sessions.
 
-*Template to send the group for student information message* - I will be sharing the student information with each volunteer in a one on one conversation to keep the information private.
+You can click on the Create a Class button on the left hand side corner, to create your class. (Please use the nomenclature mentioned in the above table)
 
-## Step 7 - Share the student information with the volunteers in a one on one conversation on WhatsApp. VERY IMPORTANT TO SEND THESE NUMBERS PERSONALLY AND NOT IN THE GROUP TO AVOID ANY ISSUES.
+Once you have completed creating a class. You shall get an email and/or a calendar invite. You may use that to join the Google Meet you've created for your class. You can use this [Extension](https://chrome.google.com/webstore/detail/auto-admit-for-google-mee/epemkdedgaoeeobdjmkmhhhbjemckmgb/related?hl=en,) to Auto Admit students to the Meet you've scheduled.
 
-## STEP 8 - SHARE THE PROCESS AND NEXT STEPS
-Share the following message in the whats app group with all the volunteers for next steps :)
+**NOTE** : This will be a recusrive Session, meaning 1 volunteer will be teaching 5 students, and same students will be taught for the rest of the weeks as well to bring a cohort culture. Currently the slots available are *Weekdays/Weekends 7-9pm*.
 
-*Template for “next step for volunteers” message* - So now that you all have the contact number and curriculum, the next steps for you all is to call up the student and decide on a particular time and day of the week that's convenient for you both to have the session.**This is a strictly audio call with no video**. You will be calling on the regular phone as the students are coming from a challenging background so having the internet and smartphone is not a norm for them. Usually the first time you call up to set up the time, there is a possibility that the student will not pick up as they share the phone with the family. So please be patient. Try for a minimum of 3 days to call them up and if not let the group know and the organization coordinator can help with the communication :) You all are ready to get this party started.
 
-After every session with the student, please fill up this brief call report
-form - [REPORT FORM](https://forms.gle/noNkfRDRNXmjSPMS9)
+The class conduct has to be done in following manner : 
 
-## STEP 9 - WEEKLY TRACKING and VOLUNTEER REPLACEMENT
+1. Create first class over Meraki. Limit student entry to 5-7 only. Gather student email-ids, send them calendar invites for the second class. *Do not create second class over Meraki*
+2. Repeat the calendar invite for the following classes.
+3. This is a temporary solution till the *"Recursive Class"* - feature gets updated on Meraki.
 
-To help keep track of calls, please encourage the volunteers to share their experience after the call every week in the group. Sharing in the group encourages other volunteers as well. It helps forms a community :) If any volunteer hasn’t shared at the end of the week please do reach out to them one on one to find our about the call status. **AS A VOLUNTEER COORDINATOR PLEASE UPDATE THE WEEKLY CALL STATUS FOR EACH VOLUNTEER IN YOUR RESPECTIVE SPREADSHEET AS WELL SO WE CAN TRACK. MAKE SURE THE VOLUNTEERS FILLS UP THE FEEDBACK FORM** : [feedback form](https://forms.gle/noNkfRDRNXmjSPMS9)
 
-Occasionally, a volunteer will need to drop out or will not be reachable. Please request for replacement volunteers by filling up this [form](https://forms.gle/bnvosZ2bHcinqcYG9).
+### Step 4 - Classes with Students
 
-## STEP 10 - End-of-program SURVEY
-Once a volunteer completes all the 15 calls, please ask them to fill out the End-of-Prorgram survey which can be found [here](https://forms.gle/YGU4sZvMuqRdjKGZ9)
-
+1. Use the first five minutes to understand their learning journey on Meraki, and encourage them to self learn using Live Classes only as an extra help.
+2. Use the next ten minutes to recapitulate and revise previous topics, and solve their previous queries.
+3. You can use the second half of the class to share problems for the students to solve. It could be in the form of MCQs, True or False, Sentence Formation, or even Questions.
+4. You can assign some homework or prework a student must do before the next class, such as the next topic they can read/ study and come for in the next class.
+5. Keep checking in with the students if they've understood or no in between to ensure its a dialogue and not a monologue. You can try to make it as innovative and interactive as you wish to!
 
 ## Content Guidelines
 For every question you ask the kid please make sure you share the answer about
