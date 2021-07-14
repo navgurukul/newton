@@ -1,23 +1,21 @@
-```ngMeta
+﻿```ngMeta
 name: Data Types 
 submission_type: url
 ```
-**Jisse** ki hum  english ki book padte hai toh usme har word english mai hota means **information is in english**. Book  mai se jo bhi knowledge hum le rahe hai woh data or kis language mai le rahe hai woh type hai.
+As **we read** the English book, every word in it is English means the **information is in English**. Whatever knowledge we are taking from Book is data and the language is it's type.
 
 
-`Data type` ka matlab hai koi bhi information kis type mai hai.
+`Data type` indicates the type of information.
 
 
-`Data type` ek prakar ki value ko represent krta hai jo yeh determine(nirdharit) karta hai ki us data per konse operation kiye ja sakte hain. Jaise numeric, non numeric or boolean (True/ False) data sabse jyada use kiye jane wale data type hai.
+The `Data type` represents a type of value that determines which operation can be performed per data. For example, numeric, non-numeric or Boolean (true/false) data is the most commonly used data type.
 
 
+Data Type is a very important concept in Programming.
 
-Programming me data type bahut important concept hai.
+  We can store different type of data type in the variable. Like Numeric, Characters. Every programming language has data types.
 
-Variable me hum different type ke data type ko store kar sakte hai.
-Jaise ki numeric,character etc.har programming language ,mein data type hote hai.
-
-**Is tarha python mein kuch data type hai jo ki is prakar hai  :-**
+**Below are some data types in Python**
 
 
 

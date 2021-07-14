@@ -1,34 +1,30 @@
-```ngMeta
+﻿```ngMeta
 name: Questions 
 submission_type: url
 ```
 
 ## Question 1
 
-1. Ek number naam ka variable banaye aur usse koi bhi INTEGER value assign kar de.
+1. Create a variable with name **number** and assign any INTEGER value to it.
    
-2. Fir number ko print karein.
+2. Print the number.
    
-3. number naam ke variable mai FLOAT value 
+3. Assign a FLOAT value to the number variable. 
    
-4. Fir number ko print karein.
+4. Print the number
    
-5.  number naam ke variable mai Complex value 
+5.  Assign a Complex value to the number variable. 
    
-6.  Fir number ko print karein.
+6.  Print the number
    
-
 
 ## Question 2
 
-1. Apko user se two userInput lena
-   hai jo.Jiska data type INTEGER.
-   
+1. Take 2 inputs from the user with data type INTEGER.   
  
-2. Fir sum naam ke variable mai 
-    dono userInputs ko sum krna hai.
+2. Store the sum of the 2 user inputs in a variable with name SUM.
    
-3. Fir sum ko print karein.
+3. Print SUM
    
 
    

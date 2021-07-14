@@ -1,31 +1,25 @@
-```ngMeta
+﻿```ngMeta
 name: Questions 
 submission_type: url
 ```
 
-### Note Please read about String Concatenation.
+### Note: Please read about String Concatenation.
 
-# Question 2
+# Question 1
 
-1. Apko user se two userInput lena
-   hai jo.Jiska data type STRING.
+1. You have to take two inputs from the user whose data type is string.
    
- 
-2. Fir add naam ke variable mai 
-    dono userInputs ko sum krna hai.
-   
-3. Fir add ko print karein.
-   
+2. Then in variable by name add, store the sum of both the user inputs.
 
+3. Print the variable add.
+   
 # Question 2
 
 
 
-1. Apko user se ek integer type ka aur ek string type ke inputs lene hai.
+1. Take one integer type input and one string type input from the user.
    
- 
-2. Fir add naam ke variable mai 
-    dono userInputs ko sum krna hai.
+2. Then in variable by name add, store the sum of both the user inputs.
    
-3. Fir add ko print karein.
+3. Print the variable add.
    

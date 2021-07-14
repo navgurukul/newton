@@ -1,15 +1,15 @@
-```ngMeta
+﻿```ngMeta
 name: Numeric Type
 submission_type: url
 ```
 
 ## Numeric Type :-
 
-numeric me hum number value store karte hai,jaise ki-(int ,float,complex)
+We store numbers in the numeric type. Like - int ,float, complex 
 
 ### Integer Data Type(int data type):-
 
-Int data type me simple numeric value hoti hai jo ki positive or negative hoti hai jiski length unlimited hoti hai.
+Integer data type has a simple numeric value which is either positive or negative whose length is unlimited.
 
 **Example :-**
 
@@ -21,12 +21,11 @@ print(a)
 
 `14582`
 
-`Is example me humne variable(a) me integer number(14582) store kiya hai`
+`In this example we have stored integer number(14582) in variable(a)`
 
 **Example**
 
 ```python
-
 b = -14326
 print(b)
  ```
@@ -34,11 +33,12 @@ print(b)
 
 `-14326`
 
-`Is example me apne dekha ki kis tarha humne ek b nam ke variable me negative value li hai, jo ki integer data type hai.`
+`In this example, we have seen how we have taken a negative value in a variable named b, which is an integer data type.`
 
 ### Float Data Type
 
-`Float data type` me decimal value hoti hai, ye bhi negative or positive dono hoti hai.
+  
+The 'float data type' has a decimal value, either negative or positive.
 
 **Example**
 
@@ -59,12 +59,12 @@ print(b)
 **Output :-**
 `-34.25`
 
-In dono example me humne positive or negative dono value di hai lekin decimal value me.
+In these examples we have given both positive and negative values ​​but in decimal.
 
 
 ### Complex Data type
 
-Complex data types me do part hote hai first real part and second imaginary part hota hai.
+Complex data types have two parts, the real part and the imaginary part.
 
 **Example**
 

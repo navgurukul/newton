@@ -1,11 +1,11 @@
-```ngMeta
+﻿```ngMeta
 name: Boolean Data Type
 submission_type: url
 ```
 
 ### Boolean data type
 
-Boolean sbhi programming language ka ek common data type hai.boolean do value ko return krta hai.
+Boolean is a common data type of all programming languages. Boolean returns two values.
 
 *True*
 

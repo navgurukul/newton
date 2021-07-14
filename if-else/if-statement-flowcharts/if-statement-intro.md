@@ -4,50 +4,50 @@ name: If Statements
 
 # Programming & If Statements
 
-Programming seekh ke hum computers ko kuch bhi karva sakte hain jo hum chaye. Jaise agar aap ek program bana rahe ho jo ki jo har din ka menu dikhata hai, usmein aap aisi condition laga sakte hain jo din ke hisaab se menu dikhana.
+By learning programming, we can make the computer do anything that we want. For example, we can write a program that shows the food menu for each day. We can use conditions to display the food item depending on what day it is.
 
-Jaise:
+Example:
 
-1. Monday hai toh "Rajma Chawal" banenge.
-2. Tuesday hai toh "Mutton Kosha" banega.
-3. Wednesday hai toh "Pizza" banega
-4. Thursday hai toh "Dal - Roti" banegi
+1. On Monday, "Rajma Chawal" will be made.
+2. On Tuesday, "Mutton Kosha" will be made.
+3. On Wednesday, "Pizza" will be made.
+4. On Thursday, "Dal - Roti" will be made.
 
-Programming mein yeh karne ke liye hum if statements ka use karte hain. Aap apne aas paas aisi bahot saari if statements ka use dekhte hoge. Jaise, `WhatsApp` message padh lene par `Blue Tick` dikhata hai aur nahi pade jane par `Grey Tick` dikhata hai.
+To do this in programming, we use if statements. You can observe the applications of if statements in your daily life around you. For example, *Whatsapp* shows two gray ticks when the message is not yet read by the receiver and shows blue ticks when the message is read.
 
 ![whatsapp-ticks](assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg)
 
 
 # Flowcharts
 
-Hum apne programs ka code likhne se pehle, flowchart banate hai. Aise isliye karte hai taaki hum yeh samajh paaye ki program her step per kaise chalega.
+Before writing the code, we make flowchart. This is done so that we understand how the program will work at each step.
 
-Jaise, agar aapko yeh check karna hai ki kya 4 5 se bada hai? Agar bada hai to print karo **"bada hai"**. Aur agar nahi hai to print karo **"chota hai"**. Iska hum aise flowchart bana sakte hai:
+Let's take an example that we want to check whether 4 is greater than 5. If yes, then we print **"bada hai"**. Else, we print **"chota hai"**. For this example, we can create the flowchart shown below:
 
 ![intro-png](assets/theory_images/if-statement-intro_flowchart1.png)
 
-Flowcharts ko padhne ke liye upar se neeche arrow ki direction mein aage badna hota hai. Jab bhi ek if statement aati hai, toh If ke andar ka javab agar sahi hai (matlab `True`) toh `True` waali line ki disha mein bado, nahi toh `False` ki.
+To read a flowchart, move from the top to the bottom in the direction of the arrows. Whenever an if statement occurs, check what the output of the condition will be. If it will be `True`, then move to the path indiciated by the arrow labelled "True", else follow the other path labelled "False".
 
-Flowchart word do words se bana hai:
+Flowchart is made up from two words
 
-1. Flow (बहना)
-2. Chart (चित्र)
+1. Flow
+2. Chart
 
-FlowChart basically humein ek program ka kis direction mein chalega woh batata hai. Hum agle kuch sections mein flowcharts banane seekhenge. Ek baar flowcharts banane aa gaye, uske baad code likhna bahot aasan ho jayega.
+Flowchart simply indicates the direction in which the program will run. In the next few sections, we will learn how to create flowcharts. Once we are able to create the flowcharts, writing code will become much easier.
 
-# Flowcharts ke components
+# Components of Flowchart
 
-Aap aage jo bhi flowcharts dekhoge woh inn components se bana hoga:
+All the flowcharts are made up of these components:
 
 | **Name**        	| **Image**                                                                	| **What is it?**                                                                                                                                               	|
 |-----------------	|--------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Process / Input 	| ![Process Box](assets/theory_images/if-statement-intro_flowchart-process.png)       	| Koi bhi print statement, user input ya kuch bhi aur iss box se dikhaya jata hai.                                                                              	|
-| Start           	| ![Flowchart Start Box](assets/theory_images/if-statement-intro_flowchart-start.png) 	| Apne flowchart ki starting dikhane ke liye iska use kiya jata hai.                                                                                            	|
-| Condition       	| ![Condition Box](assets/theory_images/if-statement-intro_flowchart-if-box.png)      	| Koi bhi condition ko iss box se dikhaya jata hai. Kisi bhi if statement ke do javab (`True` ya `False`) ho sakte hain isliye iss box se 2 arrow nikalte hain. 	|
-| Arrow           	| ![Condition Box](assets/theory_images/if-statement-intro_flowchart-arrow.png)       	| Aapka program kis tareeke se chalehga har ek step pe, woh dikhane ke liye arrow ka use kiya jata hai.                                                         	|
+| Process / Input 	| ![Process Box](assets/theory_images/if-statement-intro_flowchart-process.png)       	| Any output (print statement), user input or process in the program can be represented using this box.                                                                              	|
+| Start           	| ![Flowchart Start Box](assets/theory_images/if-statement-intro_flowchart-start.png) 	| This component indicates the start of the flowchart.	|
+| Condition       	| ![Condition Box](assets/theory_images/if-statement-intro_flowchart-if-box.png)      	| Any condition can be represented using this shape. Since an if statement can have only two outputs (`True` or `False`), two arrows go out from this shape. 	|
+| Arrow           	| ![Condition Box](assets/theory_images/if-statement-intro_flowchart-arrow.png)       	| Arrows are used to indicate the flow of the program at every step.|
 
-# Flowchart ka Ek Aur Example
+# Another example of a Flowchart
 
-Yahan humne ek aur flowchart banaya hai jo ki Facebook mein login karne ke process ko flowchart ke roop mein batata hai. Isko dhang se padho. Isse aapko clear ho jayega ki flowchart kaise kaam karte hain.
+The flowchart below shows the process of Facebook login. Follow the flowchart carefully, this example will clarify how flowchart works. 
 
 ![Facebook Login Flowchart](assets/theory_images/if-statement-intro_fb-login-flowchart.png)

@@ -1,0 +1,14 @@
+{
+	"numbericQ_key1": "name: Questions \nsubmission_type: url\n",
+	"numbericQ_key2": "## Question 1\n\n\n",
+	"numbericQ_key3": "Create a `variable` with name **number** and assign any `INTEGER` value to it.\n\n",
+	"numbericQ_key4": "Print the number.\n\n",
+	"numbericQ_key5": "Assign a `FLOAT` value to the number `variable`. \n\n",
+	"numbericQ_key6": "Print the number\n\n",
+	"numbericQ_key7": "Assign a Complex value to the number `variable`. \n\n",
+	"numbericQ_key8": "Print the number\n\n\n\n",
+	"numbericQ_key9": "## Question 2\n\n\n",
+	"numbericQ_key10": "Take 2 `inputs` from the user with data type `INTEGER`.   \n\n",
+	"numbericQ_key11": "Store the sum of the 2 user `inputs` in a `variable` with name SUM.\n\n",
+	"numbericQ_key12": "Print SUM\n"
+}

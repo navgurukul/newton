@@ -1,22 +1,22 @@
-```ngMeta
+﻿```ngMeta
 name: Variables Exercise 1
 submission_type: url
 ```
 
-*Har question ka javab aap ek file upload kar ke kar sakte hain.*
+*To answer any question you can upload the file.*
 
-*Yaad karein python ki files ki extenion `.py` hoti hai.*
+*Remember python file extension is `.py`.*
 
-**Aapki asani ke liye humne iss question ko multiple parts mein break kara hua hai. Lekin aapne ek hi file mein submission karni hai.**
+**Just for your ease we have broken up this question into multiple parts. But you have to do the submission in single file only.**
 
 ## Question Part 1
 
-1. Ek `variable_nav` naam ka variable banaye aur usse koi bhi INTEGER value assign kar de.
-2. Fir `variable_nav` ko print karein
+1. Assign an INTEGER value to a variable named as `variable_nav`.
+2. Then print the`variable_nav`.
 
 ## Question Part 2
 
-1. Ek naya variable `gurukul` banaye aur usse koi bhi STRING value assign kar de
-2. variable_nav ko dobara koi bhi FLOAT value dekar set kar de
-3. variable_nav aur gurukul value ko ab print karein
+1. Take a new  variable named as`gurukul` and assign any STRING value to it.
+2. Assign a FLOAT value to `variable_nav` and set it.
+3. Now print the value of `variable_nav` and `gurukul` .
 

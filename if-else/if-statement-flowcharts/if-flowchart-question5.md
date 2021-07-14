@@ -1,6 +1,6 @@
 ```ngMeta
-name: Kaise shuru karein?
+name: If Statement Question 5
 submission_type: url
 ```
 
-Ek flowchart banao jo check kare ki kya `44 + 200` `123` ke barabar hai ya nahi?
+Create a flowchart that checks whether the sum of 44 and 200 is equal to 123.

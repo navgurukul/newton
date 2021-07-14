@@ -1,4 +1,4 @@
-```ngMeta
+﻿```ngMeta
 name: Table of Data Types
 submission_type: url
 ```

@@ -3,28 +3,28 @@ name: Question 9
 submission_type: url
 ```
 
-Socho aap ek planet par ho jahan yeh rules hain
+Consider the following rules:
 
-1. **5 saal** ki umar ke baad school ja sakte ho. 
-2. **18 saal** ki umar ke baad vote de sakte ho. 
-3. **21 saal** ki umar ke baad car drive kar sakte ho.
-4. **24 saal** ki umar ke baad shaadi kar sakte ho.
-5. **25 saal** ke baad legally drink kar sakte ho.
+1. People **5 years and above** in age can go to school.
+2. People **18 years and above** in age can vote in elections.
+3. People **21 years and above** in age can drive a car.
+4. People **24 years and above** in age can marry.
+5. People **25 years and above** in age can legally drink.
 
-Ab ek flowchart banao jo user se uski "**age**" input le. Aur **print** kare ki wo inme se kya kya cheezein kar sakta hai. Jaise agar usne age `20 daali` toh woh print karega
-
-```
-Aap school ja sakte ho
-Aap vote daal sakte ho
-```
-
-Agar usne age `24` daali toh print karega:
+Create a flowchart that takes the **age** of the user as input. Print what all activities the user can do from the list above. For example, if user enters age as `20`, the code should print:
 
 ```
-Aap school ja sakte ho
-Aap vote daal sakte ho
-Aap car drive kar sakte ho
-Aap shaadi kar sakte ho
+You can go to school
+You can vote in elections
 ```
 
-Iska flowchart banaor aur fir code likho. Fir dono submit karo.
+If user enters age as `24`, the code will print:
+
+```
+You can go to school
+You can vote in elections
+You can drive a car
+You can marry
+```
+
+Submit the flowchart as well as the code.

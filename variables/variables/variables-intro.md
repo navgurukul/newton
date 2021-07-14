@@ -1,47 +1,47 @@
-```ngMeta
+﻿```ngMeta
 name: Variables
 ```
 
-## Variables kya hote hain?
+## What are Variables ?
 
-**VARIABLE** ak memory/location hai jisme hamara data store hota hai, Jiski value badal sakta hai use VARIABLE kehte hai. **VARIABLE** ka aap kuch bhi naam rakh sakte hai, and usmei kuch bhi store kar sakte hai.
+**VARIABLE** is a memory/location in which the data is stored.Whose value we can change that is called a VARIABLE. You can give any name to the **VARIABLE** and you can store anything in the variable.
 
-1. jaise hum `123` ko `variable_x` naam ke VARIABLE mei rakh sakte hai
-2. aise hi hum `9999` ko `a` naam ke VARIABLE mei rakh sakte hai
+1. Just as we can store `123` in a VARIABLE named as`variable_x`.
+2. Similarly we can put `9999`in a VARIABLE named as`a`.
 
-Aapko shayad yaad hoga 123 aur 9999 INTEGERS hai
+As you remember that 123 and 9999 are INTEGERS.
 
 ```python
 variable_x=123
 a=9999
 ```
 
-`variable_x` and `a` print karke dekhte hai ki kya hota hai
+Let's see what happens when we print`variable_x` and `a`.
 
 ```python
 print (variable_x, a)
 ```
 
-`variable_x` ko hum dobara ek value de sakte hai, isse `variable_x` update ho jayega. Jaise neeche humne variable_x ko ab 9.9 value de di hai.
+We can give another value to `variable_x`,by this  `variable_x`will be updated. As you can see below that we have given a value 9.9 to the variable_x now.
 
 ```python
 variable_x=9.9
 ```
 
-Ab print karke dekhiye variable_x ki kya value hai
+Now print variable_x to see its value.
 
 ```python
 print (variable_x)
 ```
 
-Aapko yaad hoga ki `9.9` float hai. Iska matlab hum ek variable alag alag tarah ki values de sakte hai. `a` ki value change nahi hui hai, kyuki humne usko update nahi kiya hai. Aise hi hum `a` ko ab update kar dete hai, and ek naya variable banate hai `b`
+As you remember that `9.9` is float. That means we can give different values to a variable.Value of  `a`is not changed because we have not updated it. Now we can update `a` and make a new variable `b`.
 
 ```python
 a='hello world'
 b='navgurukul'
 ```
 
-Abb inko aise print karke output dekho.
+Now print them to see the output.
 
 ```python
 print (variable_x, a, b)
@@ -49,9 +49,9 @@ print (variable_x, a, b)
 
 ### Dry Run 
 
-Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.
+You all have to do these questions using pen and paper. Solve all the exercises in your notebooks and ask other people around you to check the solution.
 
-Variables ka dry run samajhne ke liye aap iss video ko dekhein aur samjhe.
+To understand about the dry run of variables,please see this video.
 @[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
 
 
@@ -107,7 +107,7 @@ a = c*2
  c = a * c
 ```
 
-Iska solution verify ya samajhne k liye aap yeh videos dekh sakte ho.
+To understand and verify this solution you can watch these videos.
 
 @[youtube](https://www.youtube.com/watch?v=fny5w_YKSc8)
 

@@ -3,10 +3,10 @@ name: Question 1
 submission_type: url
 ```
 
-Aage ke kuch debugging ke questions mein aapko likha hua code milega. Uss code ko sahi kar ke ek file mein save kar ke aapko submit karna hai.
+In the further questions, you will see pre-written code. You have to debug the incorrect code and submit the correct code.
 
 ```python
 print ("We will learn debugging by removing all the errors from this python file.")
 ```
 
-Ek file mein sahi code save kar ke submit karo.
+Save the correct code in a new file and submit it.

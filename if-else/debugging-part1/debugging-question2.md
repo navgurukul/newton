@@ -9,4 +9,4 @@ name = "NavGurukul"
 print (name + ', ' +   + "mein start hua tha!")
 ```
 
-Ek file mein sahi code save kar ke submit karo.
+Save the correct code in a new file and submit it.

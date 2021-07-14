@@ -1,11 +1,11 @@
-```ngMeta
+﻿```ngMeta
 name: String Data Type
 submission_type: url
 ```
 
 ### String data type
-
-Python string characters ya text ka sequence hota hai.ye textual data ko handle krta hai.hum quotes(single ya double quote) me jo bhi likhte hai wo string khelata hai.
+ 
+A Python string is a sequence of characters or text. It handles text data. Whatever we write inside of single or double quotes is a string in python.
 
 **Example :-**
 
@@ -21,8 +21,7 @@ print(b)
 
 `Hello world`
 
-
-Is ex. me hmne do alag variable liye hai jisme value double(“ “)quotes ya single(‘ ‘) quotes ke andr likhi hai.
+In this example, we have taken two different variables in which the value is written inside double (" ") quotes or single (' ') quotes.
 
 **Example :-**
 ```python

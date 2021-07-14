@@ -1,33 +1,32 @@
-```ngMeta
+﻿```ngMeta
 name: Type Conversion Question 1
 submission_type: url
 ```
+### This is an exercise
+*You can answer each question by uploading a file.*
 
-### Yeh exercise hai
-*Har question ka javab aap ek file upload kar ke kar sakte hain.*
+*Remember python files have .py extension.*
 
-*Yaad karein python ki files ki extenion .py hoti hai.*
-
-**Aapki asani ke liye humne iss question ko multiple parts mein break kara hua hai. Lekin aapne ek hi file mein submission karni hai.**
+**For your sake, we have broken this question into several parts. But you have to submit in a single file.**
 
 ## Part 1
-1. `var12` mei ek STRING value daalni hai
-2. Fir `var13` mein uss STRING value ko FLOAT mei typecast karo
+1. Store a STRING value in`var12`
+2. Then typecast the STRING value to FLOAT and store in  `var13`
 
 ## Part 2
-1. `var23` mei ek FLOAT value daalni hai
-2. Fir `var24` mein uss FLOAT value ko INTEGER mei type cast karo
+1. Store a FLOAT value in`var23` 
+2. Then typecast the FLOAT value to INTEGER and store in  `var24`
 
 ## Part 3
-1. `var34` mei ek INTEGER value daalni
-2. Fir `var35` me uss INTEGER value ko STRING mei type cast karo
+1. Store a INTEGER value in`var34`
+2. Then typecast the INTEGER value to STRING and store in  `var35`
 
 ## Part 4
-1. `var45` mei ek FLOAT value daalni hai
-2. Fir `var46` mei uss FLOAT value ko STRING mei type cast karo
+1. Store a FLOAT value in`var45` 
+2. Then typecast the FLOAT value to STRING and store in  `var46`
 
 ## Part 5
-1. `var56` me ek STRING value daalni hai
-2. Fir `var 57` mei uss STRING value ko INTEGER mein type cast kare
+1. Store a STRING value in`var56`
+2. Then typecast the STRING value to INTEGER and store in  `var57`
 
-Iss question ke saare parts ka code ek hi python file mein likh ke upload kariye.
+Upload the code of all the parts of this question by writing it in a single python file.

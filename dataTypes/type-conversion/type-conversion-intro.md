@@ -1,18 +1,19 @@
-```ngMeta
+﻿```ngMeta
 name: Conversion
 ```
 
-**Note: Yaad se saare code examples ko chala ke dekhna. Chala ke aur samajh ke hi aap seekh paoge.**
+  
+**Note: Remember to run all the code examples and see them. Only by trying them will you be able to learn.**
 
-# Type Conversion kya hota hai?
+# What is Type Conversion?
 
-Pichle sections mein humne yeh samjha ki python mein alag alag type ka data hota hai. Kuch types jinke baare mein humne pada hai woh hain:
+In the previous sections, we understood that there are different types of data types in Python. Some of the types we have read about are:
 
 1. Integer
 2. Float
 3. String
 
-Neeche kuch examples diye hue hain. Inko dhyan se padhein.
+Some examples are given below. Read them carefully.
 
 ```python
 # integer
@@ -28,18 +29,19 @@ day = "Wednesday"
 name = "Mahatma Gandhi"
 a = "Y"
 ```
-Hum python mein ek `type` se dusre `data type` mein apne data ko convert kar sakte hain. Aage chal ke yeh bahot kaam aayega kyunki humare paas bahot baar data ek type mein hoga aur hume kisi aur type mein convert karna padega. Python mein hum yeh `type conversion` kar sakte hain -
+  
+We can convert our data from one `type` to another `data type`  in python. This will come in very handy in the future because we will often have data in one type and we will have to convert to another type. In Python we can do these `type conversions`  -
 
-1. Float se String
-6. Float se Integer
-2. Integer se String
-3. Integer se Float
-4. String se Float
-5. String se Integer
+1. Float to String
+6. Float to Integer
+2. Integer to String
+3. Integer to Float
+4. String to Float
+5. String to Integer
 
 
-# String se Integer & String se Float
-Ab hum dekhte hai ki INTEGER mei conversion kaise karenge. `12` ko python INTEGER mei type cast karkar 12 store kar leta hai
+# String to Integer & String to Float
+Now let us see how to convert to Integer. Type cast `12` to Python Integer and store 12
 
 ```python
 var_a = '12'
@@ -50,7 +52,7 @@ print (var_a + var_a)
 print (var_b + var_b)
 ```
 
-`12houses` se INTEGER kaise nikalna hai, python nahi samajh pata
+Python does not know how to extract integers from `12houses`
 ```python
 var_a = '12houses'
 var_b = int(var_a)
@@ -58,9 +60,9 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-Python `STRING` se `INTEGER` karne ki koshish karta hai, but agar thoda sa bhi confuse hota hai toh **error throw** karta hai. Jaise python 12.2, ya 12houses ko integer mei nahi kar sakta par 12 ko kar sakta hai
+Python tries to convert `String` to `Integer` but throws an error if it is even a bit confusing. e.g. Python cannot convert 12.2, and 12houses to integer but can do the same for 12.
 
-`12.2` se INTEGER kaise nikalna hai, python nahi samajh pata
+Python does not know how to extract integers from `12`
 ```python
 var_a = '12.2'
 var_b = int(var_a)
@@ -68,9 +70,9 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-# Float se Integer & Float se String
+# Float to Integer & Float to String
 
-Kisi bhi `float` se python integer mei convert leta hai, uska dashamlav yaani decimal part hata kar
+Converts any 'float' to Python integer by removing its decimal part.
 
 ```python
 var_a = 12.2
@@ -80,7 +82,7 @@ print (type(var_b))
 print (var_b)
 ```
 
-Ab hum `FLOATS` mei type cast karna seekhenge. Yeh `INTEGER` mei type cast karne jaise hi hota hai. Khud hi dekhiye.
+Now we will learn to cast type in `FLOAT`. This is similar to type casting to 'Integer'. See it yourself.
 
 ```python
 var_a = '12'
@@ -92,14 +94,13 @@ print (var_b + var_b)
 ```
 
 ```python
-
 var_a = '12.2'
 var_b = float(var_a)
 print (type(var_a))
 print (type(var_b))
 ```
 
-`12houses` se FLOAT kaise nikalna hai, python nahi samajh pata
+Python does not know how to extract float from `12houses`
 
 ```python
 var_a = '12houses'
@@ -108,10 +109,10 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-# Integer se Float & Integer se String
+# Integer to Float & Integer to String
 
-Python bas dashamlav yani decimal point jod deta hai jab hum `INTEGER` ko `FLOAT` mein convert karte hain. 
-
+  
+Python simply adds the decimal point when we convert `INTEGER` to `FLOAT`
 ```python
 var_a = 12
 var_b = float(var_a)
@@ -120,4 +121,4 @@ print (type(var_b))
 print (var_b)
 ```
 
-Yahan dhyaan se dekho ki python last mein `.0` add kar deta hai. Python mein ek float `12.2` ko `INTEGER` mein convert kar ke dekho. Samjho ki kya ho raha hai.
+Look carefully here that Python adds `.0` to the last. Try converting a float `12.2` to `Integer` in Python. Try and Understand what is happening.

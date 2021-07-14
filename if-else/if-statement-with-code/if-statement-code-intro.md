@@ -4,7 +4,7 @@ name: Writing Code for If Statements
 
 # Introduction
 
-Abhi tak humne if conditions ke flowcharts banana seekh liya hai. Lekin hum iska istamaal tab tak nahi kar sakte, jab tak hum code likhe ke apni baat computer ko batana na seekhein. Python mein code likh ke hum computer ko computer ki bhasha mein hi samjhana padega. Isiliye hum python mein code likh ke, Python ko dhang se code likhna sikhayenge.
+We have learned how to create flowcharts for if conditions. But we cannot use these flowcharts unless we learn how to write a code by looking at a flowchart.
 
 ```python
 day = raw_input("Din enter karo\n")
@@ -24,24 +24,23 @@ else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesd
 	print "Poha"
 ```
 
-Iss example mein humne pehle user se aaj ke din ki input li, aur fir uske hisaab se menu print kara hai. Comments ko dhyaan se padh ke samjho ki har line pe kya ho raha hai.
+In the above example, we take the day as input from the user. According to the day enetered, we print the food item for that particular day. Read the comments carefully to understand how the code is executed at every step.
 
-*Note: Jab program aapse input mangeka, toh aapko day ki value ko ekdum exact vaisa hi daalna padega jaise if condition ki statements mein dala hua hai. Isliye computer ke liye `Monday` aur `monday` mein bhi farak hai, kyunki `monday` mein `m` chota hai, aur `Monday` mein `M` bada hai.*
+*Note: While entering the input for the day, you'll have to enter it exactly as it is used in the if conditions. Since Python is case-sensitive, it will treat `Monday` and `monday` differently.*
 
-# Kuch aur examples
+# More examples
 
-Abhi tak humne sirf `==` comparsion operator ka use karke if statements likhi hain. Humne Booleans waali exercise mein aur comparison operators ke baare mein padha tha. Jaise:
+We have only used `==` comparison operator in the if statements. In the booleans exercise, we had seen other comparison operators as well. For example: 
+1. `>`: Greater than
+2. `<`: Less than 
+3. `>=`: Greater than equal to 
+4. `<=`: Less than equal to 
+5. `!=`: Not equal to 
 
-1. `>`: Greater than (Kya yeh bada hai?)
-2. `<`: Less than (Kya yeh chota hai)
-3. `>=`: Greater than equal to (Kya yeh bada ya barabar hai?)
-4. `<=`: Less than equal to (Kya yeh chota ya barabar hai?)
-5. `!=`: Not equal to (Kya yeh equal nahi hai?)
-
-Aage ke kuch examples mein, inn operators ka use kar ke, kuch aur examples diye hue hain:
+The following examples use these above mentioned comparison operators.
 
 ## Example 1
-Aapne apne program mein, ek variable mein string daal diya hai. Ab user se woh string guess karvana hai. Iska code aise likhenge:
+In this program, you have set the value of the variable. The user will have to guess the string.
 
 ```python
 value = "delhi"
@@ -52,8 +51,9 @@ else:
 	print "Aapka guess sahi hai"
 ```
 
+
 ## Example 2
-Maan lo ek aisa rule hai, ki agar humari gaadi ki speed 60 ya 60 se kam hogi toh overspeeding nahi maani jayegi, nahi toh overspeeding maani jayegi. Iska code kuch aise likhenge:
+Let's assume a rule that if the speed of our vehicle is less than or equal to 60, it will not be considered as overspeeding. Otherwise, it will be considered as overspeeding. We can write the program for it as shown below:
 
 ```python
 speed = raw_input("Gaadi ki kya speed thi?")
@@ -64,12 +64,12 @@ else:
 	print "Gaadi speed limit ke bahar thi."
 ```
 
-*Note: Yahan dekho ki kaise humne pehle `speed` variable ki value ko `string` mein convert kiya hai. Yeh isliye kiya hai kyunki `raw_input` a use kar ke pehle hume value string mein mili lekin hum ek string pe `<=` nahi laga sakte.*
+*Note: Notice we have converted the value in the `speed` variable to an `int` before using in if condition. This is because the output of the `input` function is always a `string` and we cannot compare a string with a number correctly using `<=` operator.*
 
 # Nested If Condition
-Hum ek if condition ke andar doosri if condition bhi aaram se laga sakte hain.
+We can easily use an if statement inside another if statement.
 
-Maan lo humne din ke time ke hisaab se menu dikhana hai. Jaise Monday ko breakfast mein poha, lunch mein rajma chawal aur  dinner mein roti sabzi banegi, lekin tuesday ko breakfast mein poori sabzi, lunch mein thukpa aur dinner mein chicken chawal banenge. Yeh karne ke liye hum kuch aisa code likhenge.
+Consider the example where we want to display the food menu based on the day and time. For example on monday, "Poha" in breakfast, "Rajma Chawal" for lunch and "Roti Sabzi" for dinner. Similary on tuesday, "Poori Sabzi" for breakfast, "Thukpa" for lunch and "Chicken Chawal" for dinner. We can write a program for this question as shown below:
 
 `TODO: We need to add a flowchart here somehow. #studentsShouldIgnore`
 
@@ -95,4 +95,4 @@ else:
 	print "Aur kisi bhi din hum daal roti sabzi khaynege."
 ```
 
-Yahan dekho ki kaise humne ek if statement ke andar ek aur if statement lagayi hai. Iska use kar ke andar waali if statement mein code tab hi jayega jab upar waali if statement true hogi.
+Observe how we have used if statement inside another if statement. The if statement inside will only be checked if the outer if condition is True.
