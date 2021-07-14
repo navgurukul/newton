@@ -1,4 +1,6 @@
-- Name Function
+# Different types to write a function
+
+- **Name Function**
 
 Earlier in this tutorial, you learned that functions are declared with the following syntax:
 
@@ -15,7 +17,7 @@ functionName(argument1 , argument2);
 We can call a function with a name, like addNumbers above, any time we need it by referencing its name and passing some arguments to it. This function has a name. Named functions are useful if we need to call a function many times to pass different values to it or run it several times.
 
 
-- Function Expressions ( Anonymous function )
+- **Function Expressions ( Anonymous function )**
 
 ```javascript
 
@@ -65,8 +67,19 @@ console.log(sum); // 0utputs: 32
 
 The function above is actually an anonymous function (a function without a name).
 
+**Exercises:**
 
-- Self-Invoking Functions ( Immediately invoked function expression)
+Define an Anonymous function and call it by taking two arguments to whether they are       equal or not?
+
+Feedback after Submit
+```javascript
+var isEqual = function(str1,str2){
+   console.log(str1===str2)
+}
+isEqual("kumar","nayak");
+
+```
+- **Self-Invoking Functions ( Immediately invoked function expression)**
 
 You have to add parentheses around the function to indicate that it is a function expression:
 
@@ -90,3 +103,13 @@ A self-invoking expression is invoked (started) automatically, without being cal
 Function expressions will execute automatically if the expression is followed by ().
 You cannot self-invoke a function declaration.
 
+**Exercises:**
+
+1.Define an Self invoking function and call it by taking two arguments to whether they are  equal or not?
+
+Feedback after submit
+```javascript
+(function(str1,str2){
+   console.log(str1===str2)
+})("kumar","kumar");
+```

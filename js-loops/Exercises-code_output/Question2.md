@@ -1,26 +1,25 @@
-Second :
-
-Program to check whether a given string is a palindrome or not?
+Program to check whether the given number is a prime or not?
 
 ```javascript
-const n=require("readline-sync");
-var name=n.question("enter name: ")
-const store=name;
-var string=""
-for (let i=name.length-1;i>=0;i--) {
-   string=string+name[i]
+var n=require("readline-sync");
+const num=n.question("enter number: ");
+let i=2
+var count=0;
+while (i<num) {
+       if (num%i===0) {
+       count=count+1
+       }
+       i++;
 }
-if (store===string) {
-   console.log("its palindrome string")
+if (count===0) {
+       console.log("prime number")
 }
 else {
-   console.log("it's not a palindrome string")
+   console.log("not prime number")
 }
 
-Output:
-
-enter name: kumar
-// output : it's not a palindrome string
+// Output:
+// enter number: 3
+// prime number
 
 ```
-

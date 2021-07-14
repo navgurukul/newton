@@ -1,3 +1,4 @@
+# Deleting properties from an object
 
 ```javascript
 
@@ -15,13 +16,13 @@ var myHome = {
 
 
 //output
-{
-  name: 'Mannat',
-  location: 'Mumbai',
-  Colour: 'black',
-  owner: 'sharukh khan',
-  neighbours: [ 'everything!' ]
-}
+// {
+//   name: 'Mannat',
+//   location: 'Mumbai',
+//   Colour: 'black',
+//   owner: 'sharukh khan',
+//   neighbours: [ 'everything!' ]
+// }
 
 ```
 

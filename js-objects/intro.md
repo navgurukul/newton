@@ -1,3 +1,5 @@
+# Objects
+
 Think of a dictionary. It has people’s names and their phone numbers. If we have to store this type of data, i.e. people’s names and phone numbers, then we will use something called the Object data type.
 
 
@@ -17,15 +19,16 @@ var campusCityState = {
 ```
 
 ```javascript
-
 var myDetails={"name":"kumar","surname":"nayak","age":24}
+```
  
 An object contains properties, defined as a key-value pair. In the example above, name, surname and age are keys, and Nayak, Kumar and 24 and their corresponding values.
 
 The object is a complex data type that allows you to store collections of data.
+
 You can omit the quotes around key names like shown in the example below.
 
-```
+
 
 ```javascript
 

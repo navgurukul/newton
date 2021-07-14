@@ -2,8 +2,7 @@
 ```javascript
 var string1= "I am staying in the \"Sarjapur Campus\""
 console.log(string1)
-
-output: I am staying in the "Sarjapur Campus"
+// output: I am staying in the "Sarjapur Campus"
 
 ```
 **Explanation:**
@@ -18,7 +17,7 @@ output: I am staying in the "Sarjapur Campus"
 var string1= "I am staying in the 'Sarjapur Campus' "
 console.log(string1)
 
-output: I am staying in the 'Sarjapur Campus'
+// output: I am staying in the 'Sarjapur Campus'
 
 ```
 **Explanation:**
@@ -28,12 +27,17 @@ output: I am staying in the 'Sarjapur Campus'
 
 
 **Example:**
-```
+```javascript
 var myFavPlace= 'My favourite place is "Paris"';
 console.log(myFavPlace);
 
-output: My favourite place is 'Paris'
+// output: My favourite place is 'Paris'
 
 ```
+
+**Explanation:**
+
+    If you like paris more and you want to put in single quotes, you put everything in double quotes and Paris in single quotes.
+
 
 

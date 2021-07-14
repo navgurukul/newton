@@ -1,3 +1,5 @@
+# Understanding the Variable Scope in functions
+
 variables declared within a function have local scope that means they cannot be viewed or used from outside of that function, as shown in the example below:
 
 ```javascript

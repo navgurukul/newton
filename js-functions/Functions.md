@@ -1,3 +1,5 @@
+# Functions
+
 You probably already know what a function is. Here is what a function looks like in JS.
 
 ```javascript

@@ -1,3 +1,5 @@
+# Loop over an object
+
 for in loop is a special type of loop that iterates over the object or an array of elements.
  
 
@@ -10,10 +12,10 @@ for (car in cars){
 console.log(cars[car]),
 }
 
-Output:
-Maruti
-Mercedes
-BMW
+// Output:
+// Maruti
+// Mercedes
+// BMW
 
 ```
 
@@ -37,11 +39,11 @@ for(let campus in campus_list){
    console.log(campus)
 }
 
-Output: 
-0
-1
-2
-3
+// Output: 
+// 0
+// 1
+// 2
+// 3
 
 ```
 
@@ -61,10 +63,10 @@ for (person_details in person){
 console.log(person_details+ "= "+person[person_details]);
 }
 
-Output: 
-name= gouri
-surname= maity
-age= 37
+// Output: 
+// name= gouri
+// surname= maity
+// age= 37
 
 ```
 
