@@ -1,7 +1,7 @@
-- conditional-statements.md
-- if-Statement.md
-- else-Statement.md
-- else-if-Statement.md
+- Introduction.md
+- If-Statement.md
+- Else-Statement.md
+- Else-if-Statement.md
 - Exercises-Console_Output
     - Question-1.md
     - Question-2.md
@@ -11,6 +11,6 @@
     - Question-1.md
     - Question-2.md
 - Project1
-    - how-to-take-input.md
-    - how-to-generate-random-numbers.md
+    - How-to-take-input.md
+    - How-to-generate-random-numbers.md
     - Project.md

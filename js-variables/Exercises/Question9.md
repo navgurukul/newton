@@ -9,4 +9,4 @@ var myStr ='I am a \'single quoted\' string inside \'single quotes\'.'
 
 ```
 
-For the next course [clickHere](https://www.merakilearn.org/course/124/exercise/3225)
+**For the next course [clickHere](https://www.merakilearn.org/course/124/exercise/3225)**

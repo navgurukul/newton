@@ -1,9 +1,4 @@
-```ngMeta
-name: JS Strings 
-submission_type: url
-```
-
-## Strings
+# Strings
 
 **Example:**
 

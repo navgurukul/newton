@@ -1,8 +1,8 @@
 - Operators
-    - intro.md
-- Types
-    - arithmetic.md
-    - comparison.md
-    - assignment.md
-    - logical.md
-    - operations-on-primitive-datatypes.md
+    - What is an Operator?.md
+- Types-Of-Operators
+    - Arithmetic-operators.md
+    - Comparison-operators.md
+    - Assignment-operators.md
+    - Logical-operators.md
+    - Operations-on-primitive-datatypes.md

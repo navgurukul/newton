@@ -34,3 +34,5 @@
 5. Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** on the screen.
 
 > Successfully you created a file and ran it, happy coding. …….
+
+**For the next course [Click here](https://www.merakilearn.org/course/136/exercise/3524)**
