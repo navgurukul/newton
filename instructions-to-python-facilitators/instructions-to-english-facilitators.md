@@ -64,11 +64,11 @@ The class conduct has to be done in following manner :
 
 ### Step 4 - Classes with Students
 
-1. Use the first five minutes to understand their learning journey on Meraki, and encourage them to self learn using Live Classes only as an extra help.
-2. Use the next ten minutes to recapitulate and revise previous topics, and solve their previous queries.
-3. You can use the second half of the class to share problems for the students to solve. It could be in the form of MCQs, True or False, Sentence Formation, or even Questions.
-4. You can assign some homework or prework a student must do before the next class, such as the next topic they can read/ study and come for in the next class.
-5. Keep checking in with the students if they've understood or no in between to ensure its a dialogue and not a monologue. You can try to make it as innovative and interactive as you wish to!
+.. Use the first five minutes to understand their learning journey on Meraki, and encourage them to self learn using Live Classes only as an extra help.
+.. Use the next ten minutes to recapitulate and revise previous topics, and solve their previous queries.
+.. You can use the second half of the class to share problems for the students to solve. It could be in the form of MCQs, True or False, Sentence Formation, or even Questions.
+.. You can assign some homework or prework a student must do before the next class, such as the next topic they can read/ study and come for in the next class.
+.. Keep checking in with the students if they've understood or no in between to ensure its a dialogue and not a monologue. You can try to make it as innovative and interactive as you wish to!
 
 ## Content Guidelines
 For every question you ask the kid please make sure you share the answer about
