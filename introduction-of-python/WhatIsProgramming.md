@@ -1,27 +1,26 @@
-```ngMeta
+﻿```ngMeta
 name: What is Programming?
 ```
 
-Aapne dekha ki hum computers ko **instructions** de kar, unke through complex problems solve kar sakte hain.
+By giving** instructions** to the computer,we can make the computers solve complex problems.
 
-Computers ko diye gaye __instructions__ ko hum **program** kehte hain.
-Computers ko instructions dene ke process ko hum **programming** kehte hain.
+A set of **instructions** given to the computer is called a **program** .
+The Process of giving instructions to the computer is called **programming**.
 
-Sunne mein kitna simple lagta hai. Hum computers ko instructions(program) dete hain - aur computer instructions(program) ko follow karke complex problems ko solve karta hai.
-Instructions dene ko hi programming kehte hain :)
+Doesn't it sound simple that we give instructions(program) to the computer and the computer follows these instructions to solve a complex problem.Giving instructions to the computer is called programming. :)
 
-Bas ek choti si complexity hai. 
+But there is a small problem.
 
-Computers humari tarah aam language (English, Hindi, Tamil etc.) nahi samajhte. Computers bas machine language samajhte hain (jo 0 aur 1 se bana hota hai). Humare liye computer ke saath iss language mein baat karna bahut mushkil hai.
+Computers cannot understand our language like (Hindi , Tamil ,  Kannada) .Computers can only understand the machine language which is made of 0 and 1.So ,it becomes difficult for us to communicate with computer in machine language.
 
-Fir hum computers ko instructions kaise de??
+Then how can we give instructions to the computer ?
 
-Iss problem ko solve karne ke liye humne kuch naye languages banaye(Java, Python, Javascript etc.) jisse hum thore aaram se computers ko instructions de sakte hain. Computers bhi inn languages ko machine language mein aaram se convert kar sakte hain (ek doosra program "compiler" use karke).
+Therefore , to solve this problem we made some languages like(Java, Python, JavaScript) so that we can easily give instructions to the computer. Computers can easily convert these languages into machine language with the help of “another program called compiler.”
 
-Toh hume computers ko instructions dene ke liye, in naye languages mein se koi ek language seekhna hoga. Iss course mein hum apne aap ko Python seekhayenge.
+To give instructions to the computer we need to learn any of these given languages. In this course, we are going to learn python language.
 
-Hum Python language use karke computer ko instructions denge.
+We will use python language to give instructions to the computer.
 
 **Assignment**
-- Kya aap kabhi doosre ko ya doosre se instructions lete hain? Kya hum usey __program__ keh sakte hain?
-- "Python" language aur uske applications ke baare mein search kijiye? Duniya mein Kitne log Java language use karte hain?
+- Have you ever given instructions to anybody or taken instructions from anybody. Can we call that a **program**?
+-   Search for Python language and its applications ?How many people in the world use Java?

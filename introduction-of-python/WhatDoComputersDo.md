@@ -1,24 +1,24 @@
-```ngMeta
+﻿```ngMeta
 name: What Do Computers Do?
 ```
 
-Human History mein kuch innovations ne Human progress ki direction aur speed hamesha ke liye change kar diya. Jaise - **WHEEL**
+In our human history, there have been some great inventions which have brought progress in the lives of humans and have also provided direction to it.Ex:**WHEEL**
 
-Insaan bhari cheezon ko lambe distance tak carry nahi kar sakta tha. Ye uski physical limitation thi.
-WHEEL invent hone se insaan bhari se bhari cheezon ko lambe distance tak carry karne lag gaye.
-Wheel invent hone se humari bahut kam door tak hi pahunch paane ki physical limitation door ho gayi - isse humari bahut saari problems solve ho gayi. Puri duniya humare pahunchh mein aa gayi. Ab Hum logon se dur dur ja kar mil sakte hain, ek jagah pe produce kiya hua saaman doosri jagah bech sakte hain etc.
+Humans were not able to lift or carry heavy loads to longer distances. This was due to human’s physical limitation.
+By the invention of WHEEL, humans were able to carry very heavy loads as well as to travel to longer distances also.
+The world became smaller to us.Hence,the invention of WHEEL solved lots of problems. Now, we can even meet our relatives staying far off and transportation of goods also became easier.
 
-Ek doosra invention jisne human history mein bahut bada role play kiya, wo hai - **COMPUTER**
+Another great invention that brought a drastic change in human history-**COMPUTER**.
 
-Jis tarah se Wheels ne humari physical limitations ko mitaya - usi tarah computers ne hamari mental limitations ko expand kiya.
+Just as WHEELS removed our physical limitations, similarly COMPUTERS helped in expanding our brain capacity or mental limitations.
 
-Insaan ka dimaag bahut complex mental tasks/problems solve kar sakta hai. Lekin agar ye mental tasks humein baar baar repeat karna pade, toh humara dimaag thak jaata hai ya bore ho jaata hai. Isse humara dimaag galtiyan karta hai aur problem solving difficult ho jaati hai.
+Human brain can solve many complex tasks/problems. But if our brain continuously solves these complex problems ,our brain will start getting tired or bored. Our brain will start making mistakes and it becomes difficult for us to solve the problem.
 
-Jis tarah WHEEL ke invention se humari bahut saari physical limitation dur ho gayi, usi tarah computers ke invention se humare dimaag ki mental limitations bhi dur ho gayi. Computers humare instruction dene par complex mental tasks, repeatedly bina thake aur bina koi galti kiye perform kar sakta hai.
+Just as wheels removed our physical limitation, invention of computers, helped in removing our mental limitations. By giving instructions to the Computer, we can make them perform complex tasks, continuously without making any mistakes and without getting tired.
 
-Computers khud se nahi soch sakte - hume unhe koi bhi kaam perform karane ke liye instructions dene hote hai. Instructions de kar hum computers se bahut complex tasks bhi solve karwa sakte hain.
+Computers don’t have their own brain so they can’t think, we have to give instructions to them to make them solve any complex problem.
 
 
-**Kuch Questions jinke baarein mei aapko thoda padhna chahiye**
-- Aapne Computers ke baare mein kya jaana?
-- Internet par computers ke applications search karo. Ye applications kaun sa problem solve kar rahe hain? Socho ki inn computers ko humne kis tarah ke instructions diye honge?
+**Read and search the following questions.**
+--   What did you learn about computers?
+--   What are the applications of computers ?What kinds of problems do these applications solve? Think about what kind of instructions were given to computers for these applications?

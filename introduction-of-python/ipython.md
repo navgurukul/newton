@@ -1,27 +1,25 @@
-# Ab hum iPython ke bare me sikhenge
+﻿# Now we will learn about iPython 
 
-<!-- Yahan ipython kya ha aur kyu ushe ishtamal karte hai -->
-
-
-Jab app Terminal me `python` likhte ho toh apke liye Terminal pe *python shell* khul jaata hai, *python shell* pe app apne python ke code likhte ho usse chalane ke liye.
-
-iPython ka bi kaam yehi hota hai lekin ussme kuch extra feature hume milte hai jin mein se hum kuch feature ke bare meh niche janege.
-
-## python aur iPython me antar
-
-### Phele iPython ke sath
-App Terminal pe phele ```ipython``` likhe aur *Enter* dabaye.
-Ab app ushme ```cd Downloads``` likhe aur *Enter* dabaye.
-Ab app ushme ```ls``` likhe aur *Enter* dabaye.
-Apko woh sare *folder aur file* dikh rahe honge joh apne Downloads wale folder me rakhe hai.
-Ab iPython ke shell se bahar ane ke liye ```quit``` likhe shell ke andar aur *Enter* dabaye.
+Here we will learn about, what is ipython  and why do we use it?
 
 
-### Ab yehi hum python ke sath karne ki kosish karenge
+When you write   `python` on the Terminal , then   *python shell* opens on the Terminal. You write your python code  on the *python shell* to run it.
+iPython also does the same work but it provides some extra features.Some of those features we will study below:
 
-App Terminal pe phele ```ipython``` likhe aur *Enter* dabaye.
+## Difference between python and iPython
+### First with iPython 
+First on the Terminal write `ipython` and press *Enter* .
+Now ,write  `cd Downloads` in it and press*Enter*.
+Then write `ls` and press *Enter* .
+You will be able to see all the **folder and files** that you kept under Downloads folder .
+Now to come outside the iPython shell write `quit` linside the shell and press **Enter** .
 
-Ab app usme ```cd Downloads``` likhe aur *Enter* dabaye.
+
+### Now we will do the same thing with python 
+
+Write  `ipython` on the Terminal and press  **Enter**
+
+Now write `cd Downloads` and press  **Enter**.
 
 ```python
 >>> cd Downloads
@@ -32,53 +30,48 @@ SyntaxError: invalid syntax
 >>> 
 ```
 
-Kuch aisa ahh raha hoga apke Terminal pe?
-Jiska matlab app *Downloads* folder me *python shell* ke madad se ni jah sakte
+You will be able to see something like this on the Terminal?
+Which means you cannot go to the **Downloads** folder  with the help of  **python shell**.
 
-iske liye apko bahar ana hoga *python shell* se aur uske liye apko ```quit``` type karna hoga *python shell* me.
+For this you need to come out of the **python shell** and for that you need to type `quit` on the  **python shell**.
 
-Ab bahar ane ke baad app type kare ```cd Downloads``` aur phir type kare ```ls``` apko Downloads me joh kuch bi tha woh dikh jayega.
+Now after coming outside type `cd Downloads` and then type  `ls` you will be able to see whatever is present in  Downloads .
 
-Ap normal *python shell* se apna **folder** change nhi karsakte uske liye apko *python shell* se bahar ana hoga lekin python shell ke andar app aram se **folder** change karsakte ho jise apko *iPython shell* se bahar ane ki koi jarurat nhi hogi.
+You cannot change your **folder** by using normal **python shell** .For that you need to come out of the  **python shell**.But you can easily change the **folder** inside these python shell so that you don't need to come out of the **iPython shell** .
 
-
-Aur jab app *python shell* me jake type karoge
+And when you will type in **python shell**.
 ```python
 >>> if True:
 ... 
 ```
-Toh dhyan dena apka cursor(**|**) ```...``` ke baad bina kisi space ke ahta hai.
-Lekin jab app yeh *iPython shell* meh karoge toh woh kuch ish tara ka hoga.
+Then note that the cursor (**|**) comes without any space after this `...` .
+But if you will type it in **iPython shell** then it will show like this.
 
 ```python
 In [1]: if True:
    ...:     |
 ```
-Toh app dekoge apka joh cursor(**|**) hai woh kuch spaces baad aata hai.
-Ishe **Indentation** kehte hai. Jab aap phele baar code likh rahe hoge apke **50% error** hogi
-woh **Indentation** ko leke hogi.
+Then you will see that the cursor(**|**) comes after some spaces.
+We call this as **Indentation** . When you will write the code for the first time **50% error** will be there because of lack of **Indentation** .
+Hence ,iPython makes the life of an engineer very easy by providing extra features.
+
+When iPython opens you can write  code in it.If you are copy pasting the code from somewhere then press `Ctrl + C` to copy paste and open iPython and type `%paste` for pasting the code.
 
 
-Aise hi iPython me bohut sare feature hote hai joh ek engineer ki life thodi asan bana deti hai.
+## Very Important Rules
+- Run each and every example on iPython shell.If you don't do this you will make a fool of yourself.
+- To copy-paste and run the code will not help you in understanding the code.You have to run each and every code by yourself.
+- Words written in UPPER CASE or **bold letters** are very important . Learn them ,you will come across them many times. 
+- During the course You need to answer some questions at times. To answer those questions you can always upload a file.
 
-Jab iPython khul jaye toh aap usme code likh sakte ho. Agar aap kahin se code copy paste kar rahe ho toh `Ctrl + C` se copy paste kar ke
-aapko iPython khol ke usme `%paste` type kar ke paste karna padega.
+## Some Code Samples
 
-
-## Bahot Important Rules
-- Har ek example ko iPython shell mei execute kar kar dekhe. Agar aap yeh nahi kar rahe, toh apne aap ko bevkoof bana rahe ho.
-- Code ko copy-paste karke chalane se aap seekh nahi payenge dhang se. Aapko har code ko apne haath se chala ke dekhna chaiye.
-- UPPER CASE ya **bold letters** mei likhe hue shabed kaafi important hai. Unhe yaad kar lo, woh aapko baar baar milenge.
-- Course mein bahot jagah aapko kuch questions ka javab dena hoga. Javab dene ke liye aap humesha file upload kar sakte hain.
-
-## Kuch Code Samples
-
-Iss section mein kuch code samples diye hue hain. iPython se comfortable hone ke liye aap inko iPython mein chala ke dekh sakte ho.
+In this section some code samples are given. To get comfortable with iPython ,you can run them on ipython.
 
 ### Example 1
 
 ```python
-print ("Yeh python print kar degi")
+print ("It will print this.")
 print ("Cool Stuff "*10)
 ```
 
@@ -91,5 +84,5 @@ if time == "morning":
 elif time == "evening":
     print ("Let's go out for a coffee.")
 else:
-    print ("Mujhe samajh nahi aaya aapne kya input daala.")
+    print ("I did not understand what input you put?")
 ```

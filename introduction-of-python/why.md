@@ -1,5 +1,5 @@
-```ngMeta
-name: Python kyu sikhna hai mujhe ??
+﻿```ngMeta
+name: Why do I need to learn Python  ??
 ```
 
 
@@ -16,32 +16,37 @@ name: Python kyu sikhna hai mujhe ??
 
 **Python2**
 
-1. Yeh python ka purana version hai.
-2. Python2 me print ek statement hai
-3. Python2 me hum print karte waqt kuch is tarah likhte hai,
 ```python
 Print "Hello World"
- ```
-4. Python2 me hum raw_input ka use karte hai user input ke liye.
+```
+
+1. This is old version of python .
+2. Python2 has one print statement.
+3. In Python2 while printing we write like this ,
+
+
+4. In Python2 we use raw_input ka use for user input.
+
 ```python 
 age= int(raw_input("enter your age"))
- ```
-5. Python2 me 31 keywords hai.
+```
+
+5. Python2 has 31 keywords .
 
 
 
 **Python3**
 
 
-1. Yeh python ka new version hai.
-2. Python3 me print() ek function hai.
-3. Python3 me print karte waqt parentheses ()  ka istemal karte hai,
+1. This is the new version of python .
+2. Python3 has one print() .
+3. In Python3 me while  printing  we use parentheses () .
 ```python
 print("Hello World")
  ```
-4. Python3 me hum input ka use karte hai user's input lene ke liye.
+4. In Python3 we use input for user's input .
 ```python
  age=int(input("please enter your age"))
   ```
-5. Python3 me 35 keywords hai.
+5. Python3 has 35 keywords .
 
