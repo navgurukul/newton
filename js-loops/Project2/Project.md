@@ -31,3 +31,5 @@ for (let i = chances; i > 0; i--) {
    }
 }
 ```
+
+**For the next course [clickHere](https://www.merakilearn.org/course/126/exercise/3256)**

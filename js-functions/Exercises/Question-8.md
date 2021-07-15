@@ -10,4 +10,4 @@ output:
 
 ```
 
-For the next course [clickHere](https://www.merakilearn.org/course/138/exercise/3529)
+**For the next course [clickHere]()**

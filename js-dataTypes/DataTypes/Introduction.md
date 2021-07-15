@@ -1,7 +1,4 @@
-```ngMeta
-name: JS Data Types 
-submission_type: url
-```
+# Data types
 
 **Data types** consist of two different words, **Data** and **Type**. Let’s understand this one by one. Data means information and type means what kind of information. Data types basically specify what kind of data can be stored and manipulated within a program.
 

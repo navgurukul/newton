@@ -1,12 +1,12 @@
 - Arrays
-    - intro.md
-    - operations.md
+    - Introduction.md
+    - Operations-On-Arrays.md
 - Exercises
-    - question1.md
-    - question2.md
-    - question3.md
-    - question4.md
-    - question5.md
-    - question6.md
+    - Question1.md
+    - Question2.md
+    - Question3.md
+    - Question4.md
+    - Question5.md
+    - Question6.md
     
     

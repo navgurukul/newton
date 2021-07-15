@@ -46,3 +46,6 @@ else if(playerMove=="paper" && randomMoveOfComputer == "scissors"){
    console.log("computer won the match");
 }
 ```
+
+
+**For the next course [clickHere](https://www.merakilearn.org/course/137/exercise/3536)**

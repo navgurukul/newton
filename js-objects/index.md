@@ -1,4 +1,4 @@
-- intro.md
+- Introduction.md
 - Accessing-Object-Properties.md
 - Updating-a-property.md
 - Add-new-properties-to-an-object.md

@@ -9,3 +9,6 @@ let myFavouriteGames = ["chess", "Ludo", "Badminton", "Basketball", "Carom", "Cr
 let removedItems = myFavouriteGames.splice(3,1)
 console.log(myFavouriteGames)
 ```
+
+
+**For the next course [clickHere](https://www.merakilearn.org/course/129/exercise/3299)**
