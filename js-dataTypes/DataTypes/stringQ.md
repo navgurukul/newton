@@ -16,6 +16,7 @@ console.log(b);
 ```
 
 *Solution*
+
 Hello this is my ‘Dell Laptop’;
  
 3. What is the error in this code?
