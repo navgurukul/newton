@@ -3,6 +3,7 @@
 1. Write a program that contains a variable name as firstName and assign the value of your first name?
 
 *Solution*
+
 ```javascript
 var firsName="Nayak";
 ```
@@ -15,7 +16,7 @@ console.log(b);
 ```
 
 *Solution*
-output: Hello this is my ‘Dell Laptop’;
+Hello this is my ‘Dell Laptop’;
  
 3. What is the error in this code?
 
@@ -25,6 +26,7 @@ console.log(b);
 ```
 
 *Solution*
+
 Here you will get 
 SyntaxError: Unexpected identifier
 
