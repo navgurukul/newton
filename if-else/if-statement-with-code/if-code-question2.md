@@ -3,14 +3,14 @@ name: Question 2
 submission_type: url
 ```
 
-Aapke paas ek variable hai, jisme yeh value hai:
+You have a variable called `varx` with the value as shown:
 
 ```python
 varx = 300 - 123
 ```
 
-Ek flowchart banao jo user se ek number input le. Fir uss number ko integer mein convert kar ke check kare ki woh number `varx` ke barabar hai ya nahi.
+Create a flowchart to take a number as input from the user. Convert this input to integer. Check if it is equal to `varx`. 
 
-Agar barabar hai toh print karo `barabar hai` nahi toh print karo `barabar nahi hai`.
+If the number is equal to varx, print **"Equal"** else print **"Not equal"**.
 
-Flowchart aur python ka code dono upload karo.w
+Upload the flowchart as well as python file.

@@ -1,8 +1,8 @@
 ```ngMeta
-name: Kaise shuru karein?
+name: If Statement Question 3
 submission_type: url
 ```
 
-Check karo ki kya 1000 1000 ke barabar hai? Agar hai to print karo "barabar hai", aur nahi to print karo "barabar nahi hai". Isme aapko print aur if dono likhne hai.
+Check whether 1000 is equal to 1000. If yes, print **"barabar hai"**, else print **"barabar nahi hai"**. Complete the if statement as well as the print statements in this question.
 
 ![flowchart image](assets/question_images/question3-image1.png)

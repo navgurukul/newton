@@ -3,10 +3,10 @@ name: Question 4
 submission_type: url
 ```
 
-Agar water filter mein paani 1L se kam hai to aur paani bharna hai. Agar paani 1L se 10L ke beech mein hai to aur nahi bharna. Aur agar 10L se jyada hai to paani overflow kar jata hai. Neeche diye flowchart ko iss information ka use karke complete karo.
+If water in the filter is less than 1L then more water needs to be filled. If the water quantity is between 1L and 10L then there is no need to fill water. If water is more than 10L then the water will overflow. Based on these conditions, complete the flowchart given below.
 
-Paani ke level ke liye aap user se ek water naam ke variable mein input lo, aur fir usko integer mein convert kar lo.
+For water level, take user input in a variable named `water` and convert it to an integer.
 
 ![question 6 png](assets/question4-image1.png)
 
-Complete flowchart aur python code, dono ko submit karo.
+Complete and submit both the flowchart and the code.

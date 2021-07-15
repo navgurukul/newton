@@ -1,10 +1,10 @@
-```ngMeta
-name: Variable ke names kaise rakhne chahiye
+﻿```ngMeta
+name: How to name Variables? 
 ```
 
-Code mei `Variable` ke sahi se `name` dena bahut important hai.
+It is very important to give correct `name`to a `Variable`.
 
-Agar aap names properly nahi denge, toh aapka code koi aur theek se nahi padh payega, kyuki usko padhte hi yeh samajh nahi aayega ki variable ka kya kaam hai.
+If you don't give names properly,then nobody will be able to read your Code, as they won't be able to understand that for what purpose the variable is used?
 
 camelCase
 PascalCase
@@ -13,17 +13,17 @@ UPPER_CASE
 kebab-case
 are five most popular cases for naming.
 
-You can read details about [cases](https://www.chaseadams.io/most-common-programming-case-types/) here.
+You can read in detail about the [cases](https://www.chaseadams.io/most-common-programming-case-types/) here.
 
 In Python, we usually use:
 
-| Kiska Naam?    | Kaisa Case?  |
+| What Name?    | Which Case?  |
 |----------------|--------------|
 | variableNames  | camelCase    |
 | CONSTANT_NAMES | UPPER_CASE   |
 | function_names | snake_case   |
 
-Also, variable ke names dena bhi apne aap mei ek skill hai. Yeh [article](https://hackernoon.com/the-art-of-naming-variables-52f44de00aad) padho naming conventions samajhne ke liye.
+Also, to give names to a variable is a skill in itself. Read this [article](https://hackernoon.com/the-art-of-naming-variables-52f44de00aad) to understand about naming conventions.
 
 | category         | suggested_rule            | examples                                                               |
 |------------------|---------------------------|------------------------------------------------------------------------|
@@ -33,4 +33,4 @@ Also, variable ke names dena bhi apne aap mei ek skill hai. Yeh [article](https:
 
 
 
-### P.S: Kaafi saare candidates isliye reject ho jaate hai unke interviews mei, kyuki unke variables ke naam sahi se nahi hote, aur yeh baat company ko acchi nahi lagti.
+### P.S: Many candidates get rejected in their interviews, because they don't name the variables properly, and the company does not like this.

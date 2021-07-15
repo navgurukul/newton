@@ -1,0 +1,12 @@
+{
+	"if-code-question9_key1": "name: Question 9\nsubmission_type: url\n",
+	"if-code-question9_key2": "Consider the following rules:\n",
+	"if-code-question9_key3": "People **5 years and above** in age can go to school.\n",
+	"if-code-question9_key4": "People **18 years and above** in age can vote in elections.\n",
+	"if-code-question9_key5": "People **21 years and above** in age can drive a car.\n",
+	"if-code-question9_key6": "People **24 years and above** in age can marry.\n",
+	"if-code-question9_key7": "People **25 years and above** in age can legally drink.\n\n\n",
+	"if-code-question9_key8": "Create a flowchart that takes the **age** of the user as `input`. Print what all activities the user can do from the list above. For example, if user enters age as `20`, the `code` should print:\n",
+	"if-code-question9_key9": "If user enters age as `24`, the `code` will print:\n",
+	"if-code-question9_key10": "Submit the flowchart as well as the `code`.\n"
+}

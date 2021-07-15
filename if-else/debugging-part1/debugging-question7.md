@@ -18,4 +18,4 @@ elif day == "tuesday" and time == "dinner":
     print ("Pav-Bhaji banegi aaj toh :)")
 ```
 
-Ek file mein sahi code save kar ke submit karo.
+Save the correct code in a new file and submit it.

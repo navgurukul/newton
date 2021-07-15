@@ -3,9 +3,9 @@ name: Question 6
 submission_type: url
 ```
 
-Neeche diye gaye kaam ke liye ek flowchart banao, aur fir uska code likho.
+Draw a flowchart for this question and write the program.
 
-1. Use se do numbers `varx` aur `vary` naam ke variables mein input lo.
-2. Fir yeh check karo ki kya `varx` `vary` se divisble hai ya nahi.
+1. Take two numbers as input from the user in variables `varx` and `vary`.
+2. Check whether `varx` is divisible by `vary`.
 
-Agar divisble hai toh print karo `Divisble Hai` nahi toh print karo `Divisble nahi hai`
+If yes, print `Divisible` else print `Not Divisible`.

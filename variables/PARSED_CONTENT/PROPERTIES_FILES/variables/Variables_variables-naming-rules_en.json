@@ -1,0 +1,11 @@
+{
+	"variables-naming-rules_key1": "name: Variable Naming Rules\nsubmission_type: url\n",
+	"variables-naming-rules_key2": "# Rules for naming a `VARIABLE` \n\n\n",
+	"variables-naming-rules_key3": "In `Python` for naming `variables` ,some rules are followed. If we do not follow  these rules then the *program* is not going to be correct.\n",
+	"variables-naming-rules_key4": "Keep these 3 rules always in your mind:\n",
+	"variables-naming-rules_key5": "Name starts with either a - Letter or  an _ (underscore).\n",
+	"variables-naming-rules_key6": "Only letters, underscore or numbers can be present in the Name( no special characters).\n",
+	"variables-naming-rules_key7": "It is Case Sensitive (means varx, varX, Varx are different `variables`).\n\n\n",
+	"variables-naming-rules_key8": "**Correct Names** - `variable`,  `var123`,  `var_12`,  `_var`,  `_12`  \n**Incorrect Names** - `var@iable`, `123var`, `var.123`  \n**Different Names** - `varX`, `varx`, `Varx`, `VarX`\n",
+	"variables-naming-rules_key9": "**Activity: In `Python` `shell`,try to put values  in the Incorrect `variable` names. See how `python` gives `errors`.**\n"
+}

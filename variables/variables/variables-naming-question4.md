@@ -1,10 +1,10 @@
-```ngMeta
+﻿```ngMeta
 name: Variable Naming Exercise 4
 submission_type: url
 ```
 
 ## Question
 
-1. `Varx` naam ke variable ko STRING assign karo
-2. `vaRx` naam ke variable ko koi FLOAT assign karo
-3. Print kar ke dekho, ki kya `Varx` aur `vaRx` same hai ya nahi. Agar nahi hain toh apni file mein ek comment mein iska reason likho.
+1. Assign a STRING value to a variable named as `Varx`.
+2. Assign a FLOATvalue to a variable named as`vaRx`.
+3. Try to print it, to see if `Varx` and `vaRx` are same or not.If not,then write your reason in the comment in your file.

@@ -3,12 +3,12 @@ name: If Statement Question 1
 submission_type: url
 ```
 
-**Agle kuch questions mein aapne neeche diye gaye flowchart ko question ke hisaab se complete karna hai. Flowcharts ke colors pe dhyaan dene ki zaroorat nahi hai.**
+**In the next few questions, complete the flowchart based on the instructions given. Do not focus on the colors of the flowchart.**
 
-Check karo ki kya 100 99 se bada hai? Agar hai to print karo **"bada hai"**, aur nahi to print karo **"Chota hai"**. Aapko isme if statement complete karni hai.
+Check whether 100 is greater than 99? If yes, print **"Bada hai"**, else print **"Chota hai"**. Complete the if statement in this question.
 
 ![flowchart image](assets/question_images/question1-image1.png)
 
-Aapko iss pure flowchart ko draw.io mein bana ke fir final file ko yahan upload karna padega.
+You will need to create this entire flowchart in draw.io and upload the final file here.
 
 

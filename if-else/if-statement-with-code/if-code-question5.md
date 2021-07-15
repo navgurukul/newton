@@ -3,21 +3,19 @@ name: Question 5
 submission_type: url
 ```	
 
+1. Take user input in a variable named `varx`.
+2. Convert it to an integer.
+3. Check if this number is divisible by 2.
 
-1. User se ek `varx` naam ka variable input lo.
-2. Usko integer mein convert karo.
-3. Check karo ki yeh number 2 se divisible hai ya nahi.
+You can achieve this by using the `modulus operator`. Remember, modulus operator returns the remainder of the division of first operand by the second operand. Example:
 
-Yeh check karne ke liye aapko `modulus operator` ka use karna padega. Yaad karo ki modulus operator do numbers ki division ke baad unka remainder output deta hai. Jaise:
+1. `6 % 2` returns 0 as the output because 2 completely divides 6 and the remainder is 0.
+2. But `9 % 2` returns 1 as the output since 2 does not completely divide 9. The remainder is 1.
 
-1. 6 % 2 ka output 0 hoga kyunki 6 poore tareeke se 2 se divide ho jata hai.
-2. Lekin 9 % 2 ka output 1 hoga kyunki 9 ko jab 2 se divide karte hain, toh 1 remainder mein bach jata hai.
+To conclude, `6` is divisible by `2` but `9` is not divisible by `2`.
 
-Yahan kahenge ki `6` `2` se divisible hai lekin `9` `2` se divisble nahi hai.
-
-Agar divisible hai toh print karo `Divisble hai` nahi toh print karo `Divisble nahi hai`
+If the number is divisible by 2, print `Divisible` else print `Not Divisible`
 
 ![question 9 png](assets/question5-image1.png)
 
-
-Iss program ka flowchart aur code, dono likh ke submit karo.
+Create the flowchart and code and submit both of them.

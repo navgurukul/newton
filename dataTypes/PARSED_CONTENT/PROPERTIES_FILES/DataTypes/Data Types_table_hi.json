@@ -1,0 +1,21 @@
+{
+    "table_key1": "नाम: डेटा प्रकार की तालिका\nसबमिशन_टाइप: यूआरएल\n",
+    "table_key2": "उदाहरण",
+    "table_key3": "डाटा प्रकार",
+    "table_key4": "`Output`",
+    "table_key5": "एक्स = \"हैलो वर्ल्ड\"",
+    "table_key6": "`String`",
+    "table_key7": "`Hello world` (<वर्ग ‘str’>)",
+    "table_key8": "एक्स = 20",
+    "table_key9": "`Integer`",
+    "table_key10": "20 (<वर्ग 'int'>)",
+    "table_key11": "एक्स = 20.5",
+    "table_key12": "`Float`",
+    "table_key13": "20.5(<वर्ग '`float`'>)",
+    "table_key14": "एक्स = 1 जे",
+    "table_key15": "जटिल",
+    "table_key16": "1j (<वर्ग 'कॉम्प्लेक्स'>)",
+    "table_key17": "एक्स = `True`",
+    "table_key18": "बूलियन(`True` या `False`)",
+    "table_key19": "`True` (<वर्ग `bool`>)"
+}

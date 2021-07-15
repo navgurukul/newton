@@ -1,6 +1,6 @@
-```ngMeta
+﻿```ngMeta
 name: Introduction To Python
 type: html
-short_description: Iss topic mai hum python ka Introduction ke bare mai janege
+short_description: In this topic we will study about the Introduction of Python.
 logo: https://bit.ly/1h4FwSY
 ```

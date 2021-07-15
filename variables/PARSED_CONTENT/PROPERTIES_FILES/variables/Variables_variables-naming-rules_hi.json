@@ -1,0 +1,11 @@
+{
+    "variables-naming-rules_key1": "नाम: चर नामकरण नियम\nसबमिशन_टाइप: यूआरएल\n",
+    "variables-naming-rules_key2": "# एक `VARIABLE` . नामकरण के नियम\n\n\n",
+    "variables-naming-rules_key3": "`Python` में `variables` नामकरण के लिए कुछ नियमों का पालन किया जाता है। यदि हम इन नियमों का पालन नहीं करेंगे तो *कार्यक्रम* सही नहीं होगा।\n",
+    "variables-naming-rules_key4": "इन 3 नियमों को हमेशा अपने दिमाग में रखें:\n",
+    "variables-naming-rules_key5": "नाम या तो a - अक्षर या _ (अंडरस्कोर) से शुरू होता है।\n",
+    "variables-naming-rules_key6": "नाम में केवल अक्षर, अंडरस्कोर या नंबर मौजूद हो सकते हैं (कोई विशेष वर्ण नहीं)।\n",
+    "variables-naming-rules_key7": "यह केस सेंसिटिव है (मतलब varx, varX, Varx अलग हैं `variables`)।\n\n\n",
+    "variables-naming-rules_key8": "**सही नाम** - `variable`, `var123`, `var_12`, `_var`, `_12`\n**गलत नाम** - `var@iable`, `123var`, `var.123`\n**विभिन्न नाम** - `varX`, `varx`, `Varx`, `VarX`\n",
+    "variables-naming-rules_key9": "**गतिविधि: `Python` `shell` में, गलत `variable` नामों में मान डालने का प्रयास करें। देखें कि कैसे `python` `errors` देता है।**\n"
+}

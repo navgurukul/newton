@@ -1,0 +1,12 @@
+{
+    "user-input-question1_key1": "नाम: कच्चा_इनपुट प्रश्न १\nसबमिशन_टाइप: यूआरएल\n",
+    "user-input-question1_key2": "**`Save` आपका `code` एक `python` `file` (`.py` एक्सटेंशन के साथ) के रूप में और इसे सबमिट करें।**\n",
+    "user-input-question1_key3": "यह प्रश्न विभिन्न भागों में विभाजित है। सभी `code` लिखा जाना है और `uploade`d एक ही `python` `file` में।\n",
+    "user-input-question1_key4": "# भाग ---- पहला\n\n\n",
+    "user-input-question1_key5": "`var1` में `raw_input` का उपयोग करके उपयोगकर्ता से `string` `input` लें।",
+    "user-input-question1_key6": "# भाग 2\n\n",
+    "user-input-question1_key7": "`var2` में `raw_input` का उपयोग करने वाले उपयोगकर्ता से एक और `string` `input` लें।",
+    "user-input-question1_key8": "# भाग 3\n\n",
+    "user-input-question1_key9": "`var1` और `var2` से जुड़ें, फिर परिणाम प्रिंट करें।\n",
+    "user-input-question1_key10": "*जैसे अगर `var1` में `string` `\"nav\"` और `var_2` में `gurukul` है, तो `navgurukul` प्रिंट किया जाना चाहिए।\n"
+}

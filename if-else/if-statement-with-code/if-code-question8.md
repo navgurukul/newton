@@ -3,10 +3,10 @@ name: Question 8
 submission_type: url
 ```
 
-Ek flowchart banao jo user se **ek number input** le aur yeh check kare ki kya number **5 aur 15** dono se **divisible** hai?
+Create a flowchart that takes a `number` as user input. Check if this number is divisible by **5 and 15 both**.
 
 ![question 13 png](assets/question8-image1.png)
 
-*Hint: Iske liye aapko nested if conditions ka use karna padega.*
+*Hint: You will need to use nested if-else for this question.*
 
-Dono flowchart aur code ko submit karo.
+Submit flowchart as well as code.

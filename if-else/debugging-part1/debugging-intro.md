@@ -7,14 +7,14 @@ name: Debugging
 ![debugging-intro](assets/debugging-intro.jpg)
 
 
-Abhi tak humne sirf code likhna seekha hai. Bahot baar jab hum codelikh rahe honge toh humari galti ki vajah se humara code chalega nahi. Ya hume dusron ke likhe hue code ke saath bhi kaam karna padega. Inn cases mein hume code ke andar ki galtiyon ko sahi karna hota hai. Iss process ko debugging kehte hain. Neeche diye gaye coe ko chalao:
+We have learned how to write a code. When we write a code, many times the code does not run because of our mistakes. Sometimes we need to work with code written by someone else. In such cases, we might need to correct the mistakes within the code. This process is called debugging. Try to run the code given below:
 
 ```python
 	number1 = 234
 	print (numer1)
 ```
 
-Jab hum iPython shell mein code chalayenge toh python kuch aisa print karega.
+When we try to run the code, we see some error message as below:
 
 ```python
 <ipython-input-1-2a33fa4e8a92> in <module>()
@@ -24,15 +24,15 @@ Jab hum iPython shell mein code chalayenge toh python kuch aisa print karega.
 NameError: name 'numer1' is not defined
 ```
 
-Yeh ek error hai jo bata rahi hai ki 2 number line pe (2 ke saamne ek arrow dekhiye) kuch error hai. Iske end mein error ka naam aur description bhi likhi hui hai. Yahan dekho ki python bol raha hai ki error ka naam `NameError` hai aur error ki description mein `name 'numer1' is not defined`. 
+This is an error message indicating that there is some error on line 2 (pointed by arrow). In the end, we can see the name and description of the error. In the above example, we see the name of the error as `NameError` with the description that `name 'numer1' is not defined`. 
 
-Iss error ko padh ke hume samajh aa raha hai ki `numer1` defined nahi hai. Matlab humne `numer1` naam ka variable nahi banaya. Dhyaan se dekho, humne ek spelling mistake kar di hai. Hum `m` lagana bhul gaye aur humne `numer1` likh diya `number1` ki jagah.
+By looking at this error message, we can conclude that `numer1` variable is not defined. That means we haven't created a variable named `numer1`. If you observe carefully, there is a spelling mistake in the program. We have missed the letter `b` in the variable name `number1` and have written `numer1` by mistake.
 
-Isko sahi kar ke chaloge toh chal jayega.
+Once this is corrected, the program will run.
 
-# Kuch aur problems
+# More problems
 
-Yeh code dekho aur error samjho.
+Try to find out the error from the below program.
 
 ```python
 number1 = 234
@@ -40,7 +40,7 @@ number2 = "1"
 print (number1 + number2)
 ```
 
-Yahan python yeh error print kar dega.
+Python will show the following error:
 
 ```python
 <ipython-input-2-56b79ffda8bc> in <module>()
@@ -51,6 +51,6 @@ Yahan python yeh error print kar dega.
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 ```
 
-Yeh bata raha hai ki Line number `3` par error hai. Error ko samajhne ke liye error ko google karo. `TypeError: unsupported operand type(s) for +: 'int' and 'str'` ko google karo. Normally aapko google ke pehle ya doosre results mein hi error ko sahi karne ka tareeka mil jayega.
+This indicates that there is an error on line number 3. You can search the error message on Google to find solutions for fixing the error. If you type `TypeError: unsupported operand type(s) for +: 'int' and 'str'` in Google Search, you'll be able to find the solution from the first few links.
 
-Ab agli kuch assignments mein aapko kuch pehle se likha hua code milega. Aapko uss code mein galti sahi kar ke final sahi file upload kar ke submit karna hai.
+In the next few questions, you'll get a pre-written code. You have to debug the incorrect program and submit the correct file.

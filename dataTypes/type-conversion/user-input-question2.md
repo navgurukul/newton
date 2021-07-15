@@ -1,18 +1,18 @@
-```ngMeta
+﻿```ngMeta
 name: raw_input Question 2
 ```
-*Aapne iska code ek python file (`.py` extension ke saath) save kar ke submit karna 
+*Save your code as a python file (with `.py` extension) and submit
 
-Yeh question different parts mein divided hai. Saare code ko ek hi python file mein likh ke upload karna hai.
+This question is divided into different parts. All the code has to be written and uploaded in a single python file.
 
 # Part 1
 
-`var_a` mei `input` ka use karke ek number input lijiye aur usko `INTEGER` mein convert karna na bhulein.
+Take a number input using `input` in `var_a`  and don't forget to convert it to `INTEGER`.
 
 
 # Part 2
-`var_b` mei `input` ka use karke ek number input lijiye aur usko `INTEGER` mein convert karna na bhulein.
+Take a number input using `input` in `var_b`  and don't forget to convert it to `INTEGER`.
 
 
 # Part 3
-`var_a` aur `var_b` ka sum print kijiye
+Print the sum of `var_a` and `var_b` 

@@ -8,4 +8,4 @@ number = input("please enter a decimal number")
 print ("your number divided by 2 is equal to = " + number/2)
 ```
 
-Ek file mein sahi code save kar ke submit karo.
+Save the correct code in a new file and submit it.

@@ -1,104 +1,101 @@
-```ngMeta
-name: Kaise shuru karein?
+﻿```ngMeta
+name: How to begin?
 ```
 
-# Iss course ko kaise use karein?
+# How to begin this course?
 
-Python kaise use karte hai, iss video ko dekh kar samjhe
-
+How to use Python ? Please see this video to understand.
 @[youtube](ccPrUbz1oto) 
 
-Aage chal ke saare course mein har jagah alag alag tareeke se python ke code ke examples diye gaye hain. Inn examples ko aapko *python shell* mei chala kar dekhna padega. 
+When you will move forward in this course ,you will find examples of python code in different ways. You have to run these examples  on **python shell**.
 
-Ab app apne laptop pe *python shell* khol le.
+Open **python shell** in your  laptop.
 ```sh
 $ python
 ```
 
 ```python
 
-print("Yeh python mein print hoga")
-print("Yeh ek aur line print hoyegi")
+print("This line will be printed in python.")
+print("This,another line will also be printed in python")
 print(2 + 5)
 i = 0
 print(i)
 while i < 100:
-    print("Main baar baar print hounga :)")
+    print("I will be printed again and again.:)")
 
 ```
-Ab upar diye gaye code ko select karke Ctrl + C jishe yeh code copy hojyega aur phir app ishe Terminal pe jake Ctrl + Shift + V dabake paste karsakte hai.
+Select the code given above ,press Ctrl + C together so that the code will be copied and then you can go to the terminal and paste this code by pressing Ctrl + Shift + V on the terminal.
 
-App agar ish tarike se thod thod kar chalao toh apko madad milegi ek ek line ko sahi 
-tarike se samjhne meh.
+If you will run this code line by line ,you will be able to understand the code line by line.
 
-Yeh ek pura code hai joh 4-5 alag kaam kar raha hai ishe thorke kese samjhe sakte ho uska tarike joh aage apko bohut kaam ayega niche diya gaya hai.
-
+This complete code is doing 4-5 different tasks ,how can we can break this code in parts  and understand ,this method is given below and it is going to help you in future.
 
 
-Yeh phela line ishe terminal pe chalaye kuch dikh raha hoga apko Terminal pe.
+
+This is the first line ,run this line on the terminal ,you  will be able to see something on the terminal.
 ```python
-print ("Yeh python mein print hoga")
+print ("This line will be printed in python.")
 ```
 
-Yeh dusra code ko Terminal pe chalaye aur dekhe kya dikh raha ha apko?
+Please run this second code on the Terminal and see what happens there?
 ```python
-print ("Yeh ek aur line print hoyegi")
+print ("This,another line will also be printed in python")
 ```
 
-Ab yeh line alag se chalao app Terminal pe aur dekho kya ho raha hai?
+Now run this  line separately on the  Terminal  and see what happens there?
 ```python
 print (2 + 5)
 ```
 
-Ab yeh ek saat copy paste karo Terminal pe aur kya ho raha hai?
+Now copy paste this code together on the  Terminal  and see what happens there?
 ```python
-print ("Yeh python mein print hoga")
-print ("Yeh ek aur line print hoyegi")
+print ("This line will be printed in python.")
+print ("This,another line will also be printed in python")
 print (2 + 5)
 ```
 
-Ish line me kya ho raha ha yeh apko aage samjh ayega lekin ishe chala ke thoda sa app khud bi samjhne ki kosish kare ishe.
+What is happening in this line ,you will be able to understand later ?But run this code and try to understand .
 ```python
 i = 0
 print (i)
 ```
 
-Ishe copy paste kare Terminal pe aur ishe rokhne ke liye keyboard me Ctrl + C saat me dabaye Terminal pe.
+Copy paste this on Terminal and to stop this press  Ctrl + C  together on the Terminal.
 ```python
 i = 0
 while i < 100:
-    print ("Main baar baar print hounga :)")
+    print ("I will be printed again and again.:)"
 ```
 
-Aur ab yeh chalaiye aur kya apko upar aur niche wale ke bich me kuch antar ka pata lagye?
+Now run this code  and try to identify the difference between the code given above and below.
 ```python
 i = 0
 while i < 100:
-    print ("Main baar baar print hounga :)")
+    print ("I will be printed again and again:)")
     i = i+1
 ```
 
 
-Ab ishe ekata chalaye aur ishe rokhne ke liye app kya karenge?
+Now run this code together and to stop this code what will you do?
 ```python
-print ("Yeh python mein print hoga")
-print ("Yeh ek aur line print hoyegi")
+print ("This line will be printed in python.")
+print ("This,another line will also be printed in python")
 print (2 + 5)
 i = 0
 print (i)
 while i < 100:
-    print ("Main baar baar print hounga :)")
+    print ("I will be printed again and again.:)")
 ```
-Ab yeh sochiye upar wale code ko chalte rehne se rokhne ke liye app kya karenge?
+Now think that what will you do to stop the code given above?
 
-Iss tareeke se pure course mein code likha hoga. Iss code ko aapko chalake dekhna padega. Isko chalane ke liye aapko Terminal naam ka application
-apne laptop pe kholna padega. Usko khol ke usme yeh type kar ke python chalani padega.
+Similarly ,in this way only codes will be written  in the whole course. You will be required to run the code this way only. To run this code you need to open an application named as Terminal on your laptop. After opening it ,you need to type the python code and then run it.
 
 
-## Bahot Important Rules
-- Har ek example ko *python shell* mei execute kar kar dekhe. Agar aap yeh nahi kar rahe, toh apne aap ko bevkoof bana rahe ho.
-- Code ko copy-paste karke chalane se aap seekh nahi payenge dhang se. Aapko har code ko apne haath se chala ke dehna chaiye.
-- UPPER CASE ya **bold letters** mei likhe hue shabd kaafi important hai. Unhe yaad kar lo, woh aapko baar baar milenge.
-- Course mein bahot jagah aapko kuch questions ka javab dena hoga. Javab dene ke liye aap humesha file upload kar sakte hain.
+## Very Important Rules
+- Execute each example on **python shell**. If you are not doing this you are making a fool of yourself.
+- By copy-pasting the code, you will not be able to understand properly. You should write each code by yourself and then run it.
+- Words written in UPPER CASE  or  **bold letters** are very important . Learn them ,you will come across them many times.
+-During the Course  you need to answer some questions at many places. To give answers you can upload file.
 
 

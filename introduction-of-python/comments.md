@@ -1,21 +1,20 @@
-```ngMeta
-name: Comments Likhne Seekhe
+﻿```ngMeta
+name: Learn to write Comments
 ```
 
-Kisi bhi program mei hum comments likh sakte hai. Inn comments ko jab hum *program* ko *run* karte hai, tab yeh comments *execute* nahi hote.
+We can write comments in any program . When we *run* the *program* these comments do not get *executed*.
 
-Comments apni understanding ke liye, ya phir jo bhi log uss code par hamare saath kaam kar rahe ho, ya hamare baad kaam karein, etc. unki understanding ke liye bahut important hote hai.
-
+Comments are written for our understanding ,and for the people who are working on that code with us or people with whom we will work later etc. For the understanding of all these people ,comments are used.
 ```python
-print ("Yeh print hoyega.")
-print ("Yeh line bhi print hoyegi")
-# Yeh comment hai.
-# Yeh aap apni aasani ke liye likh sakte ho.
-# Jo bhi line "#" (hash) se shuru hoti hai, woh comment kehlati hai.
-# Aisi line hum programmers apni asani ke liye likhte hain. Computer inko ignore kar deta hai.
-print ("Computer upar diye gaye comments ko nahi padega, lekin iss line ko print karega.")
+print ("This will be printed.")
+print ("This line will also be printed")
+# This is a comment.
+# You can write it for your ease.
+# Any line that starts with "#" (hash) is called a  comment.
+# We write these lines as programmers, for our own ease. Computer ignores them.
+print ("Computer will not be able to read above comments,but will print this line.")
 ```
 
-### Aapka program kya karta hai, yeh comments mei likhna ek technical language mei bahut important hai.
-*Aksar humne dekha hai ki jo bacche interviews ke time par acche se comments nahi likhte, unn ko kaafi negative feedback milta hai interviews mei.*
-__Yeh aadat aap abhi daal lenge toh isse aapki understanding bhi badhegi, aur aage bhi problem nahi aayegi.__
+### What does your  program do, is very important to write in comments in a given technical language.
+*Many times we have seen that the students who don't write comments properly during  interviews, they get a very negative feedback in interviews.*
+**If you make this as a habit then your own  understanding will improve and in future you will not face any problem.**

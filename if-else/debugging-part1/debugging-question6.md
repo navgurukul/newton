@@ -23,4 +23,4 @@ elif speed > 100:
 # ki kya problemn hai.
 ```
 
-Ek file mein sahi code save kar ke submit karo.
+Save the correct code in a new file and submit it.

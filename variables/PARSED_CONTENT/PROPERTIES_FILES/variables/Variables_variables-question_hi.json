@@ -1,0 +1,13 @@
+{
+    "variables-question_key1": "नाम: चर व्यायाम 1\nसबमिशन_टाइप: यूआरएल\n",
+    "variables-question_key2": "*किसी भी प्रश्न का उत्तर देने के लिए आप `upload` और `file` कर सकते हैं।*\n",
+    "variables-question_key3": "*याद रखें `python` `file` एक्सटेंशन `.py` है।*\n",
+    "variables-question_key4": "**बस आपकी सुविधा के लिए हमने इस प्रश्न को कई भागों में विभाजित किया है। लेकिन आपको सबमिशन सिंगल `file` में ही करना होगा।**\n",
+    "variables-question_key5": "## प्रश्न भाग 1\n\n\n",
+    "variables-question_key6": "`variable` को `variable_nav` नाम से एक INTEGER मान असाइन करें।\n",
+    "variables-question_key7": "फिर `variable_nav` प्रिंट करें।\n\n\n",
+    "variables-question_key8": "## प्रश्न भाग 2\n\n\n",
+    "variables-question_key9": "एक नया `variable` लें जिसका नाम `gurukul` है और इसे कोई भी STRING मान निर्दिष्ट करें।\n",
+    "variables-question_key10": "`variable_nav` को एक FLOAT मान असाइन करें और इसे सेट करें।\n",
+    "variables-question_key11": "अब `variable_nav` और `gurukul` का मान प्रिंट करें।\n"
+}

@@ -1,5 +1,5 @@
 ```ngMeta
 name: If-else
 type: html
-short_description: Iss topic mai hum If-else ke bare mai janege
+short_description: In this topic, we will learn about if-else.
 ```

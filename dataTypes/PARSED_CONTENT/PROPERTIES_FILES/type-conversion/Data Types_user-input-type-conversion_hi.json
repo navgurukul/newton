@@ -1,0 +1,19 @@
+{
+    "user-input-type-conversion_key1": "नाम: प्रकार रूपांतरण\nसबमिशन_टाइप: यूआरएल\n",
+    "user-input-type-conversion_key2": "# परिचय\n\n\n",
+    "user-input-type-conversion_key3": "इस खंड में हम `python` का उपयोग करने वाले उपयोगकर्ता से `input` लेना चाहते हैं। फिर हम उस `input` के साथ टाइप कन्वर्ज़न करने का भी पता लगाएंगे।\n",
+    "user-input-type-conversion_key4": "भविष्य में, अक्सर हमें अपने उपयोगकर्ताओं से कुछ `input` लेने पड़ेंगे। `Python` में `input` लेने के लिए हम `input` का उपयोग करते हैं। उदाहरण:\n",
+    "user-input-type-conversion_key5": "जब यह चलता है, `python` रुक जाएगा और एक कर्सर दिखाई देगा। यहां आपको कुछ `input` डालने हैं। अपना `input` बना लेने के बाद `Enter` दबाएं। अब जब आप `print` `user_input` करते हैं, तो आपने जो भी मूल्य दर्ज किया था वह `user_input` `variable` में `string` के रूप में होगा।",
+    "user-input-type-conversion_key6": "#एक और उदाहरण\n\n\n",
+    "user-input-type-conversion_key7": "आइए एक और `input` का उदाहरण लेकर इसे और अधिक विस्तार से समझते हैं।\n",
+    "user-input-type-conversion_key8": "यहां देखें कि हमने raw_`input` के कोष्ठक के अंदर एक `string` रखा है। इस `string` का मान \"एक नंबर दर्ज करें\" है। जो भी `string` हम आंतरिक कोष्ठक के अंदर डालते हैं, वह `string` `input` मांगने से पहले `Python` द्वारा मुद्रित होता है। यह उपयोगकर्ता को कुछ संकेत देता है कि `input` क्या करना है। ऊपर दिए गए उदाहरण की तरह, `input` मांगने से पहले `python` `\"Put a number\"` प्रिंट करेगा। और जब उपयोगकर्ता एक संख्या (`input`) टाइप करने के बाद `enter` दबाता है, तो `variable` `number 1` मान का वह मान होगा।\n",
+    "user-input-type-conversion_key9": "अगर हम `print number1` को `python` `shell` में करते हैं, तो हमने जो भी मान डाला है, वह प्रिंट हो जाएगा।\n",
+    "user-input-type-conversion_key10": "# उपयोगकर्ता का प्रकार रूपांतरण `inputs`\n\n",
+    "user-input-type-conversion_key11": "जब भी हम उपयोगकर्ता `input` को `input` से `variable` में लेते हैं तो यह `string` प्रकार में होता है। मतलब, उपयोगकर्ता जो कुछ भी डालता है, उसे raw_`input` उसे `string` बना देता है।\n",
+    "user-input-type-conversion_key12": "यहां `number 2` का डेटा प्रकार `string` होगा। जब भी हम `variable` का मान `input` के रूप में `input` से लेते हैं, तो वह मान `string` के रूप में होता है। यदि उपयोगकर्ता के पास भी `input` एक संख्या है, तो यह `string` के रूप में होगी।\n",
+    "user-input-type-conversion_key13": "जैसे अगर यहाँ हमने 25 दर्ज किया है तो `number 2` में \"25\" होगा। कोई भी मान जिसके सामने 'उद्धरण' होता है, वह एक `string` होता है। इसे `integer` में बदलने के लिए हमें `int()` का उपयोग करना होगा।\n",
+    "user-input-type-conversion_key14": "## एक और प्रकार का रूपांतरण और `raw_`input`` उदाहरण।\n\n\n",
+    "user-input-type-conversion_key15": "इन सभी बातों को बेहतर ढंग से समझने के लिए नीचे एक अंतिम उदाहरण दिया गया है। यह उदाहरण `input` लेकर और उन्हें गुणा करके दो संख्याओं को प्रिंट करता है।\n",
+    "user-input-type-conversion_key16": "यहां यह समझना महत्वपूर्ण है कि हम गुणा करने से पहले `number_x` और `number_y` को `integer` में बदल देते हैं क्योंकि `input` से हमें `input` हमेशा `string` के रूप में मिलता है।\n",
+    "user-input-type-conversion_key17": "**मजेदार गतिविधि:** `number_x` और `number_y` को `int` में बदले बिना इस उदाहरण को चलाएं और देखें कि `error` क्या होता है। Google यह `error` और इसे हल करने का प्रयास करें। अपने आसपास के दोस्तों से भी बात करें। इसके लिए आपको `number_x = int(number_x)` और `number_y = int(number_y)` वाली लाइनों को हटाना होगा।\n"
+}

@@ -13,4 +13,4 @@ print (mangoes / 5)
 # Par isse toh 1 mango hi mila. Par milne 2 chahiye the. Code ko sahi karo jisse ki sabko sahi mangoes mile.
 ```
 
-Ek file mein sahi code save kar ke submit karo.
+Save the correct code in a new file and submit it.

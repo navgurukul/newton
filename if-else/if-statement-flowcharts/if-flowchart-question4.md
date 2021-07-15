@@ -1,10 +1,10 @@
 ```ngMeta
-name: Kaise shuru karein?
+name: name: If Statement Question 4
 submission_type: url
 ```
 
-**Abhi tak aapne kuch bane hue flowcharts mein `fill in the blanks` kiya hai. Ab agle kuch questions mein aapko pura flowchart khud banana hoga. Iss flowchart ko bana ke, flowchart waali file ko submit karo.**
+**In the previous questions till now, you have only filled in the blanks in the flowcharts. Moving forward, draw the entire flowchart yourself and submit the flowchart file.**
 
-Ek flowchart banao jo check kare ki kya `100 ghata 33` `55` ke barabar hai ya nahi?
+Create a flowchart that checks whether the result of subtracting 33 from 100 is equal to 55. 
 
-`Draw.io` se flowchart waali file ko download kar ke yahan submit karo.
+Download the flowchart file from draw.io and submit here.

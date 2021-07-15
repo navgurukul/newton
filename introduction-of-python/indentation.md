@@ -1,43 +1,42 @@
-```ngMeta
+﻿```ngMeta
 name: Indentation
 ```
 
-# Indentation kya hoti hai?
+# What is Indentation ?
 
-Neeche diye gaye code ko dekhiye. Ek baar code ko run kare bina sochiye ki iss code ka output kya hoga. 
+Please have a look at the code given below. Now think about the output of this code without running.
+```python
+a = 10
+if a * 2 == 20:
+print ("Variable a when multiplied by 2 gives 20.")
+else:
+print ("Variable a when mutiplied by 2 does not give 20.")
+```
+
+What answer did you thought ? Please copy paste this code , save this in a file and run this code .You will notice that  this code will not print any output ,but gives error .To  understand about this error we need  to think from the point of view of python . Python will run this program as follows:-
+
+1. In the first line it will put the value 10 in "a" .
+2. In the second line python will check that whether multiplying **a** by 2 gives  result equal to 20 or not.
+3. Till the third line  python will be able to know that on multiplying **a** 2 by we will definitely get 20.But python gets confused at this place ,it does not understands that whether it should only print  "Variable a when multiplied by 2 gives 20." or it needs to run the code given below also or not . Humans can easily understand this , but the computer gets mad and gives error.
+
+We will write this program correctly as follows,
 
 ```python
 a = 10
 if a * 2 == 20:
-print ("a variable ko 2 se multiply kar ke 20 aata hai")
+    print ( )
 else:
-print ("Nah! a variable ko 2 se multiply kar ke 20 nahi aata.")
+    print ("Variable a when mutiplied by 2 does not give 20.")
 ```
 
-Aapne kya answer socha? Ab ek baar ekdum aise hi copy paste kar yeh code ek file mein save kar ke run kariye. Aap yeh notice karenge ki yeh code koi output nahi print karta, lekin error de deta hai. Iss error ko samajhne ke liye hume python ke nazariye se sochna padega. Iss program ko python kuch aise chalayegi:
+When  python will run this correct code , then its brain will work like this. 
 
-1. Pehli line mein "a" mein 10 ki value daal dega
-2. Dusri line mein python yeh check karegi ki a ko 2 se multiply kar ke kya remainder 0 aayega ya nahi.
-3. Teesri line pe aate aate python ko pata chalta hai ki a ko 2 se divide karne se remainder 0 aayega. Lekin yahan tak python confuse ho jati hai. Usko samajh nahi aata ki mujhe sirf "The number is divisible by 2" print karna hai ya uske neeche waala code bhi run karna hai. Aapko yeh insaanon ke nazariye se bahot simple problem lag rahi hogi, lekin computer baukhla sa jata aur error de deta hai.
+1. In the first line it will put the value 10 in "a" .
+2. In the second line python will check that whether multiplying **a** by 2 gives  result equal to 20 or not.
+3. In the third line ,python will print "Variable a when multiplied by 2 gives 20."Now you will think that  python prints this line in this code then why it did not print in the  previous example .But , see a little carefully that the third line has started after some space. These spaces are called indent in python.Now ,python  understands that  on multiplying  **a** by  2  we get 20 ,if this condition is true , then we will run the lines which are indented below **if**.
+4. In the 4th line  python finds else but it does not run else part because if part already ran. So, how to use if statement , try to  learn about this.
 
-Iss program ko sahi se aise likhenge:
-
-```python
-a = 10
-if a * 2 == 20:
-    print ("a variable ko 2 se multiply kar ke 20 aata hai")
-else:
-    print ("Nah! a variable ko 2 se multiply kar ke 20 nahi aata.")
-```
-
-Jab python iss sahi program ko run karegi toh uska dimaag kuch aise chalega.
-
-1. Pehli line mein "a" mein 10 ki value daal degi.
-2. Dusri line mein python yeh check karegi ki a ko 2 se divide kar ke kya remainder 0 aayega ya nahi.
-3. Teesri line mein python "The number is divisible by 2" print karegi. Ab aap sochenge ki agar isme python print karegi toh fir usko pichle wale example mein bhi print karni chaiye thi. Lekin yahan dhyaan se dekho teesri print waali line kuch space ke baad shuru ho rahi hai. Inn spaces ko python mein indent kehte hain. Isse python ko samajh aati hai agar "a" 2 se divisible hai toh if ke neeche jin lines (iss example mein ek hi line hai) ko indent kara hua hai sirf woh chalani hai.
-4. 4th line pe python ko else milta hai, lekin woh else run karta hi nahi hai kyunki if already chal chuka hai. Iske liye if statement kaise use karte hain woh yaad karne ki koshi kariye.
-
-Iss spacing ko python mein indentation kehte hain. Aur jab bhi indentation related koi bhi problem aati hai toh python IndentationError naam ki error dikhayega. Yeh error kuch aisi dikhti hai:
+This  spacing in python is called indentation. Whenever there is a problem related to indentation , Python call it as an  Indentation Error This error looks like this:
 
 ```python
   File "<ipython-input-5-9eaf99c4383b>", line 3
@@ -47,10 +46,9 @@ IndentationError: expected an indented block
 ```
 
 
-# Ek aur example
+# One more example
 
-Hum ek aur example lete hain isko aur ache se samajhne ke liye. Pehle neeche wale program ko ek baar run kariye. Usko baad neeche diye gaye text ko padiye.
-
+We will take more example and to understand it clearly. First run the code given below. After that read the text given below.
 ```python
 counter = 1
 while counter < 10:
@@ -59,15 +57,12 @@ while counter < 10:
 	print ('--------')
 ```	
 
-Iss program mein neeche waali 3 lines (‘print "The counter is" + str(counter)’, ‘counter = counter + 1’, ‘print "--------"’) ko indent nahi karoge toh python ko samajh nahi aayegi ki while loop ke baad mujhe kya chalana hai. Wahan woh confuse ho jayegi aur error de degi. Isiliye python mein code ko indent karna bahot important hai. Aap agar sochenge toh realize karenge ki iss program mein code kuch hisson mein bata hua hai:
+In this program, in the last  3 lines ` (‘print "The counter is" + str(counter)’, ‘counter = counter + 1’, ‘print "--------"’) ` if there is no indentation then python will not be able to understand that after while loop what it has to run?Python will get confused and will give an error. To indent a python  code is very important.If you see the program,you will realize that the code is divided into different parts:
 
-1. Pehle hisse mein hum `counter` variable define karte hain aur `while counter < 10` waali line likhte hain.
-2. Dusre hisse mein humne Humne woh code likha jo for loop run hone ka baad baar baar run hoga jab tak for loop run hota hai.
-
-In code ke hisson ko hum blocks kehte hain aur python mein blocks ko indent karne ke liye tab ka use hota hai.
-
-Isko samajhne ke liye ek baar ek nayi file neeche diye gaye code ko save kariye aur fir dekho ki iska output upar wale code se kaise different hai. Iske baad apne ke saath discuss karo ki yeh kya hua.
-
+1. In the first part, `counter` variable is defined and we write the line `while counter < 10` .
+2. In the second part ,we have written that code which will run after for loop again and again till the for loop is running. 
+The different parts of code are called code blocks and  in python to indent these blocks we use tab. 
+To understand this , save the given code in a new file and see what output comes and how that output is different from the output of the code given above .After this discuss about what happened?
 ```python
 counter = 1
 while counter < 10:
@@ -76,27 +71,27 @@ while counter < 10:
 print ('--------')
 ```
 
-**Note: Waise toh aap jab code likh rahe hain toh aapke editor ko khud hi indent kar dena chaiye, agar woh nahi karta hai toh aap abhi ke liye Tab key ka use karke indent kar sakte hain.**
+**Note: Whenever you write the code, then your editor should indent the code ,but if it does not do that ,then you can use the Tab key for indenting.**
 
-**Note: Waise aap Space key ka istamal karke bhi indentation de sakte hai lekin Space key ko istamal karna thoda muskhil hojata hai jiske karan bahut sare error ajate hai ishi wajah se jyadatar Developers(Software Engineer) Tab key ka istamal karte hai taki error kaam se kaam aaie.**
+**Note: You can also use  Space key for indentation. Space key  is difficult to use, as many error occur due to its use ,just because of this many error occur ,that is why many   Developers(Software Engineer) use Tab so that minor errors do not occur.**
 
 # Multiple Levels of Indentation
 
-Ek indented code block ke andar dusra indented code block bhi ho sakta hai. Jaise iss code ko padho aur samjho ki iska kya output aayega. Fir is code ko chala ke dekho aur dekho ki aapne sahi socha tha ya nahi. Agar nahi toh fir aur dimaag laga ke sochne ki koshish karo.
+In a given indented code block there can be  another indented code block. Study this code and understand and tell how the output come?Try to run this code and see if you thought correctly about the output or not.If not then use your brain to think about it more.
 
 ```python
 counter = 1
 while counter < 10:
 	if counter % 2 == 0:
-		print ("Counter even number hai.")
+		print ("Counter is an even number.")
 	print ("The counter is" + str(counter))
 	counter = counter + 1
 print ('--------')
 ```
 
-Yahan yeh dekhiye ki iss code mein indented code blocks ke 2 level exist karte hain.
+Please see here that in this code , 2 levels of indented code blocks exist.  
 
-1. Pehle level ke neeche ‘if counter % 2 == 0’ hai.
-2. Uske neeche waale level pe `print ("Counter even number hai.")` hai.
+1. After the first level `if counter % 2 == 0’ is present.`
+2. In the second level `print ("Counter is an even number.")` is present.
 
-Yahan python if aur else sirf tab chalati hai jab while loop chal raha hai kyunki woh loop ke neeche hai. `print ("Counter even number hai.")` sirf tab chalta hai jab loop chal raha hai aur loop ke andar `counter` ki value mein even number hai.
+Here, python will run if under while loop  and`print ("Counter is an even number.")`only when inside the loop `counter`value  is an even number.

@@ -1,5 +1,5 @@
-```ngMeta
-name: Variable ke names kaise rakhne chahiye
+﻿```ngMeta
+name: How to name variables?
 ```
 
-Variables ka naam kaafi descriptive hona chahiye, jisse ki jo code padh raha (ya aap padh rahe hai) - 
+Variables names should be very descriptive so that whosoever is reading the codey should be able to understand. the code -
