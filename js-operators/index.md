@@ -1,5 +1,5 @@
 - Operators
-    - What is an Operator?.md
+    - What-is-an-Operator?.md
 - Types-Of-Operators
     - Arithmetic-operators.md
     - Comparison-operators.md
