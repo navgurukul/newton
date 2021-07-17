@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: String Data Type
 submission_type: url
 ```
