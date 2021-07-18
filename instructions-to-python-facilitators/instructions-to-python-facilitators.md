@@ -1,7 +1,7 @@
 ```ngMeta
 name:  Instructions to Python Facilitators
 ```
-#### Hello Change-Makers, 
+### Hello Change-Makers, 
 
 We welcome you aboard to teach **Basics of Python Programming** to over **100k young women** between the age group of 15-25, from various parts of the country. Your contribution is highly valuable in creating a drastic impact in the learning journey of these young women and enabling them to get an **aspirational job**, have **a voice**, and be equipped to **bring at least 10 families out of poverty** in a financially sustainable model.
 
@@ -9,7 +9,7 @@ We're glad you have decided to teach Python Programming to young children.
 
 To ensure you have a smooth onboarding and enable you to self start this process, sharing a few simple steps you can follow.
 
-#### Step 1 - Signing into Meraki
+### Step 1 - Signing into Meraki
 We have a student facing Android Application and a website that caters to volunteers, partners, clients, etc. Please download the [application](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US, "Meraki Android Application") and sign in. Spend some time and explore the application. 
 
 You can use the following links for further assistance
@@ -18,7 +18,7 @@ You can use the following links for further assistance
 
 For the next steps, Sign into [Merakilearn.org](https://www.merakilearn.org, "Meraki") using your Web Browser. *(Prefer Google Chrome)*
 
-#### Step 2 - Curriculum
+### Step 2 - Curriculum
 Browse through the Curriculum to teach **Basics of Python Programming** 
 
 * [Introduction to Python](https://www.merakilearn.org/course/101/exercise/3161, "Introduction to Python")
@@ -32,7 +32,7 @@ Browse through the Curriculum to teach **Basics of Python Programming**
 
 The **_8 courses in Python_** are divided into [**_23 Workshop Classes_**](https://www.merakilearn.org/course/145/exercise/3523). We expect you to follow this Class division, to ensure that the sequence of learning is maintained, and a child has an opportunity to come back and attend only those specific classes she had doubts in, or had missed it for whatever reasons.
 
-#### Step 3 - Creating a Class
+### Step 3 - Creating a Class
 The next step is clearly to [Create a Class](https://www.merakilearn.org/class, "Create a Class")! On this page, you'll find all the other classes created by other facilitators. You can recheck the date and time before creating your class, to ensure it doesn't clash with someone else's, and that your Classes are varied. Eg: Facilitator A creates Class 1 - Introduction to Python on Thursday, at 4pm. Then you can create your Class 1 - Introduction to Python on Saturday or Sunday, to space out similar sessions. 
 
 You can click on the *Create a Class* button on the left hand side corner, to create your class. *(Please use the nomenclature mentioned in the above table)*
@@ -41,7 +41,7 @@ Once you have completed creating a class. You shall get an email and/or a calend
 
 > It would be ideal for you to conduct a minimum of 2 classes per week, and schedule your sessions for atleast 3 weeks from the first class. This helps the student know when to expect your classes. You can always go back and edit the class, if you have to change the time or date of the class. 
 
-#### Step 4 - Classes with Students
+### Step 4 - Classes with Students
 * Use the first five minutes to understand their learning journey on Meraki, and encourage them to self learn using Live Classes only as an extra help.
 * Use the next ten minutes to recapitulate and revise previous topics, and solve their previous queries.
 * You can use the second half of the class to share problems for the students to solve. It could be in the form of MCQs, True or False, Dry Run, or even Questions.
