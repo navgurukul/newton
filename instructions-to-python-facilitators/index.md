@@ -1,2 +1,5 @@
+- background.md
+- about-meraki.md
+- getting-started.md
 - instructions-to-python-facilitators.md
 - python-curriculum-structure.md
