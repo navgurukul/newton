@@ -1,3 +1,7 @@
+```ngMeta
+name:  Background
+```
+
 > It is good to see you here. The very fact that you have reached here signals that there are many steps that you have already taken to support the cause of taking technical education for the girls from the rural area. 
 >
 > Perhaps, the next few steps are going to be the hardest ones. They would need us to proactively find our place in the middle of the unstructured structure that is there right now. But I promise, once you have settled in, it would be so much easier.
