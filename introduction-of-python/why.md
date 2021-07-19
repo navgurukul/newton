@@ -1,14 +1,11 @@
-﻿```ngMeta
-name: Why do I need to learn Python  ??
+```ngMeta
+name: Why should you learn Python?
 ```
 
 
-[Introduction of Python in English
-](https://www.youtube.com/watch?v=UlpurGz1-TU&t=9s)
+[Introduction of Python in English](https://www.youtube.com/watch?v=UlpurGz1-TU&t=9s)
 
-
-[Introduction of Python in Hindi
-](https://www.youtube.com/watch?v=iWNpVTYSt74)
+[Introduction of Python in Hindi](https://www.youtube.com/watch?v=iWNpVTYSt74)
 
 
 
@@ -17,8 +14,8 @@ name: Why do I need to learn Python  ??
 **Python2**
 
 1. This is old version of python.
-2. `Python2 `has one print statement.
-3. In `Python2 `while printing we write like this,
+2. `Python2` has one print statement.
+3. In `Python2` while printing we write like this,
 ```python
 Print "Hello World"
  ```
