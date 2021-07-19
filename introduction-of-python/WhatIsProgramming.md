@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: What is Programming?
 ```
 
@@ -8,15 +8,15 @@ By giving **`instructions`** to the computer, we can make the computers solve co
 A set of **instructions** given to the computer is called a **`program`**.  
 The Process of giving instructions to the computer is called **`programming`**.  
   
-Doesn't it sound simple that we give instructions('program') to the computer and the computer follows these instructions to solve a complex problem. Giving instructions to the computer is called `programming`. :)  
+Doesn't it sound simple that we give instructions (`program`) to the computer and the computer follows these instructions to solve a complex problem. Giving instructions to the computer is called `programming`. :)  
   
 But there is a small problem.  
   
-Computers cannot understand our language like (Hindi, Tamil, Kannada). Computers can only understand the machine language, which is made of 0 and 1. Hence, it becomes difficult for us to communicate with computer in machine language.  
+Computers cannot understand our language like (Hindi, Tamil, Kannada). Computers can only understand machine language, which is made of 0 and 1. Hence, it becomes difficult for us to communicate with computer in machine language.  
   
-Then how can we give instructions to the computer ?  
+Then how can we give instructions to the computer?  
   
-Therefore, to solve this problem we made some languages like(**`Java`,  `Python`, `JavaScript`**) so that we can easily give instructions to the computer. Computers can easily convert these languages into machine language with the help of another `program` called `compiler`. 
+Therefore, to solve this problem we've made some languages like (**`Java`,  `Python`, `JavaScript`**) so that we can easily give instructions to the computer. Computers can easily convert these languages into machine language with the help of another `program` called `compiler`. 
   
 To give instructions to the computer, we need to learn any of these given languages. In this course, we are going to learn python language.  
   
