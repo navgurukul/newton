@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: What Do Computers Do?
 ```
 
@@ -20,5 +20,5 @@ Computers don’t have their own brain so they can’t think, we have to give in
 
 
 **Read and search the following questions.**
---   What did you learn about computers?
---   What are the applications of computers? What kinds of problems do these applications solve? Think about what kind of instructions were given to computers for these applications?
+*   What did you learn about computers?
+*   What are the applications of computers? What kinds of problems do these applications solve? Think about what kind of instructions were given to computers for these applications?
