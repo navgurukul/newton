@@ -4,3 +4,4 @@
 - create-class.md
 - python-class-structure.md
 - python-curriculum-structure.md
+- spoken-english-curriculum-structure.md
