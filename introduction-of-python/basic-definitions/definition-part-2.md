@@ -1,14 +1,17 @@
-﻿# Definitions
+```ngMeta
+name: Basic Definitions - 2
+```
+
+# Basic Definitions - 2
 
 ### Binary Numbers
 
 Binary numbers are known as machine language or `low level language`, binary numbers are made of 0 and 1 which humans cannot understand but computers can.
 
-
 ### `Interpreter`
 
-It checks the code`line by line`and the line at which error is present,` interpreter`stops the code at that line and shows the name of the error.
-Interpreter  `converts high level language to low level language` with the help of which the computer is able to run the code.
+It checks the code `line by line` and the line at which error is present, `interpreter` stops the code at that line and shows the name of the error.
+Interpreter `converts high level language to low level language` with the help of which the computer is able to run the code.
 
 **Interpreter is used for `Python and Ruby` programming languages.**
 
@@ -51,9 +54,9 @@ For example, as you can see in the above example, we have assigned a variable na
 **`Note`** - You can click this link to study case sensitive in detail . [`Case Sensitive`](https://youtu.be/mNxDbLBBzno) 
 
 
-### `Error /  Bugs`
+### `Error/ Bugs`
 
-When we make any mistake while writing the code, that mistake is called`error/bug`.
+When we make any mistake while writing the code, that mistake is called `error/bug`.
 **Examples :-**
 
 ```python
@@ -97,7 +100,7 @@ Print (num)
 
 `2`
 
-As you saw in the`bug` example there was a bug present in the second code so we `debugged` that code.
+As you saw in the `bug` example there was a bug present in the second code so we `debugged` that code.
 
 ### Source code
 
