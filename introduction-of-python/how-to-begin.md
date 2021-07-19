@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: How to begin?
 ```
 
@@ -7,9 +7,9 @@ name: How to begin?
 How to use Python? Please see this video to understand.
 @[youtube](ccPrUbz1oto) 
 
-When you will move forward in this course, you will find examples of python code in different ways. You have to run these examples  on **python shell**.
+When you will move forward in this course, you will find examples of python code in different ways. You have to run these examples on **`python shell`**.
 
-Open **`python shell`** in your  laptop.
+Open **`python shell`** in your laptop.
 ```sh
 $ python
 ```
@@ -85,13 +85,13 @@ while i < 100:
 ```
 Now think that, what will you do to stop the code given above?
 
-Similarly, in this way only codes will be written in the whole course. You will be required to run the code in this way only. To run this code, you need to open an application named as Terminal on your laptop. After opening it, you need to type the python code and then run it.
+Similarly, in this way only codes will be written in the whole course. You will be required to run the code in this way only. To run this code, you need to open an application named as Terminal on your laptop or open **Playground** on Meraki application. After opening it, you need to type the python code and then run it.
 
 
 ## Very Important Rules
 - Execute each example on **python shell**. If you are not doing this, you are making a fool of yourself.  
 - By copy-pasting the code, you will not be able to understand properly. You should write each code by yourself and then run it.  
 - Words written in `UPPER CASE` or **bold letters** are very important. Learn them, you will come across them many times.  
--During the Course, you need to answer some questions at many places. To give answers, you can upload a file.
+- During the Course, you need to answer some questions at many places. To give answers, you can upload a file.
 
 
