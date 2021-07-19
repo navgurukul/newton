@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: Indentation
 ```
 
@@ -71,13 +71,13 @@ while counter < 10:
 print ('--------')
 ```
 
-**`Note:`** Whenever you write the code, then your editor should`indent` the code, but if it does not do that, then you can use the `Tab key `for `indenting.`
+**`Note:`** Whenever you write the code, then your editor should `indent` the code, but if it does not do that, then you can use the `Tab key` for `indenting.`
 
-**`Note:`** You can also use  Space key for `indentation`. Space key  is difficult to use, as many error occur due to its use, that is why many   Developers(Software Engineer) use`Tab Key` so that minor errors do not occur.
+**`Note:`** You can also use  Space key for `indentation`. Space key is difficult to use, as many error occur due to its use, that is why many   Developers(Software Engineer) use `Tab Key` so that minor errors do not occur.
 
 ## Multiple Levels of `Indentation`
 
-In a given`indented code block` there can be  another`indented code block`. Study this code and understand and tell how the output comes? Try to run this code and see if you thought correctly or not. If not then use your brain to think about it more.
+In a given `indented code block` there can be  another `indented code block`. Study this code and understand and tell how the output comes? Try to run this code and see if you thought correctly or not. If not then use your brain to think about it more.
 
 ```python
 counter = 1
@@ -89,9 +89,9 @@ while counter < 10:
 print ('--------')
 ```
 
-Please see here that in this code, 2 levels of`indented code blocks`exist.  
+Please see here that in this code, 2 levels of `indented code blocks` exist.  
 
 1. After the first level `if counter % 2 == 0’ is present.`
 2. In the second level `print ("Counter is an even number.")`is present.
 
-Here, python will run if under while loop  and `print ("Counter is an even number.")`only when inside the loop `counter` value is an even number.
+Here, python will run if under while loop  and `print ("Counter is an even number.")` only when inside the loop `counter` value is an even number.
