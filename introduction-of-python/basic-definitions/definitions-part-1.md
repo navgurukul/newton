@@ -1,8 +1,9 @@
-﻿# Basic Definitions
-
+```ngMeta
+name: Basic Definitions - 1
+```
+# Basic Definitions
 
 ### Program
-
 
 **A set of instructions is called a program.**
 
@@ -72,7 +73,7 @@ Syntax is just like python grammar. It is a set of rules that tells how to write
 `Example`
 
  Suppose you have written (Python awesome) in English, do you think that it is grammatically correct or is there anything missing?  
-Yes, you are correct, this sentence is grammatically wrong (python is awesome) this sentence is correct, just as in English, there are certain rules of grammar similarly to write some python code some syntax rule are there, like while writing code if we forget to put any symbol, `Colón (:)` or` parenthesis ()`etc. Then it will display a message of `syntax error`.
+Yes, you are correct, this sentence is grammatically wrong (python is awesome) this sentence is correct, just as in English, there are certain rules of grammar similarly to write some python code some syntax rule are there, like while writing code if we forget to put any symbol, `Colón (:)` or `parenthesis ()`etc. Then it will display a message of `syntax error`.
 
 `Example :` 
 
