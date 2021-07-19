@@ -57,55 +57,32 @@ definitions-part-1_key18
 definitions-part-1_key19
 
 
-[definitions-part-1_key20](https://youtu.be/ZMMVf4Qv)
+definitions-part-1_key20definitions-part-1_key21[definitions-part-1_key22](https://youtu.be/ZMMVf4Qv)
 
  
-definitions-part-1_key21
-definitions-part-1_key22
-
-
 definitions-part-1_key23
-
-
 definitions-part-1_key24
 
 
-
 definitions-part-1_key25
+
+
 definitions-part-1_key26
 
 
 
-[definitions-part-1_key27](https://youtu.be/bqyVOEgDSj8)
-
-
+definitions-part-1_key27
 definitions-part-1_key28
-definitions-part-1_key29
 
 
-definitions-part-1_key30
 
-
-definitions-part-1_key31
-
-
+definitions-part-1_key29definitions-part-1_key30[definitions-part-1_key31](https://youtu.be/bqyVOEgDSj8)
 definitions-part-1_key32
 
-
-```python
-num=5
-print(num
-```
 definitions-part-1_key33
-
-
 definitions-part-1_key34
 
 
-```python
-num=5
-print "a"
-```
 definitions-part-1_key35
 
 
@@ -115,26 +92,49 @@ definitions-part-1_key36
 definitions-part-1_key37
 
 
-
+```python
+num=5
+print(num
+```
 definitions-part-1_key38
+
+
 definitions-part-1_key39
 
 
-
+```python
+num=5
+print "a"
+```
 definitions-part-1_key40
 
 
 definitions-part-1_key41
 
 
-
 definitions-part-1_key42
 
 
+
 definitions-part-1_key43
-
-
 definitions-part-1_key44
 
 
-[definitions-part-1_key45](https://youtu.be/MvayENwOCNM)
+
+definitions-part-1_key45
+
+
+definitions-part-1_key46
+
+
+
+definitions-part-1_key47
+
+
+definitions-part-1_key48
+
+
+definitions-part-1_key49
+
+
+definitions-part-1_key50definitions-part-1_key51[definitions-part-1_key52](https://youtu.be/MvayENwOCNM)
