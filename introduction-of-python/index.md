@@ -1,14 +1,10 @@
-- how-to-begin.md
-- why.md
-- indentation.md
-- basics-booleans.md
-- comments.md
 - WhatDoComputersDo.md
 - WhatIsProgramming.md
+- how-to-begin.md
+- why.md
 - basic-definitions
 	- Introduction.md	
 	- definitions-part-1.md
 	- definition-part-2.md
-- ipython.md
 - comments.md
-
+- indentation.md
