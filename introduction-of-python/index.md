@@ -3,7 +3,6 @@
 - how-to-begin.md
 - why.md	
 - basic-definitions
- 	- Introduction.md	
  	- definitions-part-1.md
  	- definition-part-2.md
 - comments.md
