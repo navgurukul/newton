@@ -1,4 +1,6 @@
-# Different types to write a function
+```ngMeta
+name: Different types to write a function
+```
 
 - **Name Function**
 

@@ -1,3 +1,7 @@
+```ngMeta
+name: Escape Sequences in strings
+```
+
 **Example:**
 ```javascript
 var string1= "I am staying in the \"Sarjapur Campus\""

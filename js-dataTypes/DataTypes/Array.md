@@ -1,3 +1,7 @@
+```ngMeta
+name: Array
+```
+
 ## The Array Data Type
 
 Think about a list of your favourite things. For example, 

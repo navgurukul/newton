@@ -1,3 +1,7 @@
+```ngMeta
+name: Get HTML elements
+```
+
 Understand about prompt below :
 
 You already know about readline-sync that is useful for taking an input, but in browsers we have one default function named prompt which will give an popup whenever it is called to take input.

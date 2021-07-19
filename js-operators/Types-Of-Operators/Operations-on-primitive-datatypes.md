@@ -1,3 +1,8 @@
+```ngMeta
+name: Operations on primitive data types
+```
+
+
 ### Operations can be done on  some primitive data types 
 
 As you previously read about different data types in javascript. There are some primitive data types on which some operations can be performed which we are going to know about it now :
@@ -87,5 +92,5 @@ browserType.replace(‘moz’, ’van’); // output ‘vanilla’
 
 This returns "vanilla" in the console. But if you check the value of browserType, it is still "mozilla". To actually update the value of the browserType variable in a real program, you'd have to set the variable value to be the result of the operation; it doesn't just update the substring value automatically. So you'd have to actually write this: browserType = browserType.replace('moz','van');
 
-**For the next course [clickHere](https://www.merakilearn.org/course/134/exercise/3292)**
+**For the next course [clickHere](https://www.merakilearn.org/course/151/exercise/3673)**
  

@@ -1,4 +1,6 @@
-JavaScript functions can be used as values:
+```ngMeta
+name: Functions can be used as values
+```
 
 ```javascript
 

@@ -1,3 +1,7 @@
+```ngMeta
+name: Type Coercion
+```
+
 **Example:**
 ```javascript
 var name = "navgurukul";

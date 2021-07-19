@@ -1,3 +1,6 @@
+```ngMeta
+name: Todo Application
+```
 
 **Local Storage**
 

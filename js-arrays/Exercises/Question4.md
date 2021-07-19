@@ -3,8 +3,8 @@
 ```javascript
 var myFavouriteGames = ["Chess", "Ludo", "Badminton"]
 ```
-**Solution:**
-```javascript
+
+```solution
 let myFavouriteGames = ["Chess", "Ludo", "Badminton"]
 myFavouriteGames.unshift("Basketball")
 console.log(myFavouriteGames)

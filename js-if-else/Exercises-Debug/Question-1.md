@@ -1,4 +1,5 @@
-Output that we want is Both are same. Debug the question as per output.
+Output Should be "Both are same". Debug the question as per output.
+
 ```javascript
 let isTrue = "True";
 if(isTrue){
@@ -10,5 +11,5 @@ if(isTrue === "False"){
 else {
   console.log("Please run it. if all conditions false")
 }
-
 ```
+

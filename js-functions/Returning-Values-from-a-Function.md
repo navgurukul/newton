@@ -1,6 +1,6 @@
-# Returning Values from a Function
-
-
+```ngMeta
+name: Returning values from a function
+```
 
 ```javascript
 // Defining function

@@ -1,3 +1,7 @@
+```ngMeta
+name: Boolean
+```
+
 ## Boolean
 
 The Boolean data type can hold only two values: true or false. It is typically used to store values like yes (true) or no (false), on (true) or off (false), etc. as demonstrated below:

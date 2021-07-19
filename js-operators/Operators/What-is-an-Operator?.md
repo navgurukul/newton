@@ -1,3 +1,7 @@
+```ngMeta
+name: What is an Operator?
+```
+
 # Operators
 
 ## What is an Operator?

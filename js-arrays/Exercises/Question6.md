@@ -3,12 +3,11 @@
 ```javascript
 let myFavouriteGames = ["chess", "Ludo", "Badminton", "Basketball", "Carom", "Cricket"]
 ```
-**Solution**
-```javascript
+```solution
 let myFavouriteGames = ["chess", "Ludo", "Badminton", "Basketball", "Carom", "Cricket"]
 let removedItems = myFavouriteGames.splice(3,1)
 console.log(myFavouriteGames)
 ```
 
 
-**For the next course [clickHere](https://www.merakilearn.org/course/129/exercise/3299)**
+**For the next course [clickHere](https://www.merakilearn.org/course/150/exercise/3635)**

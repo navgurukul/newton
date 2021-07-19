@@ -2,7 +2,7 @@
 
 Print the maximum number in between the numbers given by user?
 
-if loop_time input is given 3, 3 times input need to give for making a list with 3 elements and need to find max from the list
+if loop_time input is given 3, 3 times input need to give for making a list with 3 elements and need to find max from the list.
 
 ```javascript
 let c=require("readline-sync");
@@ -25,9 +25,7 @@ console.log(maxi)
 
 ```
 
-**Feedback after debugging**
-
-```javascript
+```solution
 let c=require("readline-sync");
 let loop_time=c.question("enter loop time: ");
 var maxi=0;

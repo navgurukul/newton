@@ -1,3 +1,7 @@
+```ngMeta
+name: For loop
+```
+
 **Example** :-
 ```javascript
 for(var i = 0; i < 3; i++){

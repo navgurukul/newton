@@ -3,6 +3,7 @@
 Program to check whether a given string is a palindrome or not?
 
 ```javascript
+// enter name: kumar and tell us the what is the output will come
 const n=require("readline-sync");
 var name=n.question("enter name: ")
 const store=name;
@@ -16,11 +17,9 @@ if (store===string) {
 else {
    console.log("it's not a palindrome string")
 }
+```
 
-
-
-// enter name: kumar
-// output : it's not a palindrome string
-
+```solution
+it's not a palindrome string
 ```
 

@@ -1,5 +1,6 @@
-# Deleting properties from an object
-
+```ngMeta
+name: Deleting properties
+```
 ```javascript
 
 var myHome = {

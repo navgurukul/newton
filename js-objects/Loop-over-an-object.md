@@ -1,4 +1,6 @@
-# Loop over an object
+```ngMeta
+name: Loop over an object
+```
 
 for in loop is a special type of loop that iterates over the object or an array of elements.
  

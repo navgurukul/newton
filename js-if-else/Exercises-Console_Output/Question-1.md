@@ -1,6 +1,8 @@
-Print  the students' names according to the day?
+Print  the student's names according to the day?
+
 ```javascript
 var day = "TUeSday".toLowerCase();
+
 if (day == "monday") {
   console.log("Dhanwantari\nSiddhi\Kritika\Salon\nMayuri\Gauri");
 }
@@ -26,15 +28,17 @@ else {
   console.log("Please enter valid week day")
 }
 
-// Output:
-// keemaya
-// roshni
-// pooja
-// priyanka
-// nalini
-// Manisha
-
 ```
+
+```solution
+
+Output:
+keemaya
+roshni 
+pooja
+priyanka
+nalini
+Manisha
 
 **Explanation:**
 
@@ -43,3 +47,4 @@ toLowercase() function is used to convert any letters into small lowercase.
 The day is tuesday and at first it will check for if condition when it fails, so it will check for another else if condition when it is true it will go to the body of that particular else if and if it fails it will go to check one more conditional expression.
 
 Because first else if correct and it enters into the body of else if and it console the given text to it.
+```

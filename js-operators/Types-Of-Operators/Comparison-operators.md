@@ -1,3 +1,7 @@
+```ngMeta
+name: Comparison Operators
+```
+
 ## Comparison Operators
 
 JavaScript language includes operators that compare two operands and return Boolean value (true or false).
@@ -20,10 +24,7 @@ Assume variable A holds 10 and variable B holds 20, then −
 
 ```javascript
 var a = 5, b = 10, c = "5";
- 
 var x = a;
-
- 
 console.log(a === c);
 console.log(a == c);
 console.log(a == x);
@@ -36,25 +37,16 @@ console.log(a >= c);
 console.log(a <= c);
 ```
 
-Output:
 
+```solution
 false
-
-
 true
-
 true
-
 true
-
 false
-
 true
-
 false
-
 true
-
 true
-
 true
+```

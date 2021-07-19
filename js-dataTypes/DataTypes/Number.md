@@ -1,3 +1,7 @@
+```ngMeta
+name: Number
+```
+
 ## Number
 
 **Example:**

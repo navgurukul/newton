@@ -6,6 +6,8 @@ for 15 answer choco
 for 14 answer late
 for 13 answer Not divisible by 3 , 7
 
+Debug the code and try to get exact solutions with different inputs
+
 
 ```javascript
 var number = 12;

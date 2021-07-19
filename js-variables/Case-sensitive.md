@@ -1,3 +1,7 @@
+```ngMeta
+name: Case sensitive
+```
+
 **Example:**
 ```javascript
 var Name = "komal";
