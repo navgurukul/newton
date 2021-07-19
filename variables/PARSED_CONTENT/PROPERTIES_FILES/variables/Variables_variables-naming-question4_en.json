@@ -1,7 +1,7 @@
 {
 	"variables-naming-question4_key1": "name: Variable Naming Exercise 4\nsubmission_type: url\n",
 	"variables-naming-question4_key2": "## Question\n\n\n",
-	"variables-naming-question4_key3": "Assign a STRING value to a `variable` named as `Varx`.\n",
-	"variables-naming-question4_key4": "Assign a FLOATvalue to a `variable` named as`vaRx`.\n",
+	"variables-naming-question4_key3": "Assign a `STRING` value to a `variable` named as `Varx`.\n",
+	"variables-naming-question4_key4": "Assign a `FLOAT`value to a `variable` named as`vaRx`.\n",
 	"variables-naming-question4_key5": "Try to print it, to see if `Varx` and `vaRx` are same or not.If not,then write your reason in the comment in your `file`.\n"
 }

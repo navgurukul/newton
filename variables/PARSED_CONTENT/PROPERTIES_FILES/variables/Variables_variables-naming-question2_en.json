@@ -1,6 +1,6 @@
 {
 	"variables-naming-question2_key1": "name: Variable Naming Exercise 2\nsubmission_type: url\n",
 	"variables-naming-question2_key2": "## Question\n\n",
-	"variables-naming-question2_key3": "Assign INTEGER value to a `VARIABLE` named as`123var`.\n",
-	"variables-naming-question2_key4": "If your `code` runs easily then `upload` it.If it does not runs then put the reason in the comment and `upload` the `code`.\n"
+	"variables-naming-question2_key3": "Assign `INTEGER` value to a `VARIABLE` named as`123var`.  \n",
+	"variables-naming-question2_key4": "If your `code` runs easily, then `upload` it. If it does not run then put the reason in the comment and `upload` the `code`.\n"
 }

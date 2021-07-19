@@ -15,8 +15,7 @@ submission_type: url
 2. Then print the`variable_nav`.
 
 ## Question Part 2
-
-1. Take a new  variable named as`gurukul` and assign any STRING value to it.
-2. Assign a FLOAT value to `variable_nav` and set it.
-3. Now print the value of `variable_nav` and `gurukul` .
-
+  
+1. Take a new variable named as `gurukul` and assign any STRING value to it.  
+2. Assign a FLOAT value to `variable_nav` and set it.  
+3. Now print the value of `variable_nav`vand `gurukul`.
