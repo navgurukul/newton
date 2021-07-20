@@ -1,1 +1,11 @@
+- introduction.md
+- setting-up.md
+- looping.md
 - lives.md
+- hangman-images.md
+- available-letters.md
+- invalid-input.md
+- game-won.md
+- hint.md
+- difficulty-level.md
+- lots-of-words.md
