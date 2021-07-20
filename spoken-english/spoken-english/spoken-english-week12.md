@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-12
+name: Spoken English: Class-12
 ```
 
 Hello!! 
-This is your Week 12 for Spoken English course module.
+This is your Class 12 for Spoken English course module.
 
 # Level 1
 Pair and Share:
