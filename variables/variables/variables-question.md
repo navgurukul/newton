@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: Variables Exercise 1
 submission_type: url
 ```
@@ -12,10 +12,10 @@ submission_type: url
 ## Question Part 1
 
 1. Assign an INTEGER value to a variable named as `variable_nav`.
-2. Then print the`variable_nav`.
+2. Then print the `variable_nav`.
 
 ## Question Part 2
   
 1. Take a new variable named as `gurukul` and assign any STRING value to it.  
 2. Assign a FLOAT value to `variable_nav` and set it.  
-3. Now print the value of `variable_nav`vand `gurukul`.
+3. Now print the value of `variable_nav` and `gurukul`.
