@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: Variable Naming Rules
 submission_type: url
 ```
