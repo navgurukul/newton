@@ -23,7 +23,7 @@ indentation_key8
 ```python
 a = 10
 if a * 2 == 20:
-    print ("Variable a when multiplied by 2 gives 20." )
+    print ( )
 else:
     print ("Variable a when mutiplied by 2 does not give 20.")
 ```
@@ -32,16 +32,19 @@ indentation_key9
 
 1. indentation_key10
 2. indentation_key11
-3.In indentation_key12
+3. indentation_key12
 4. indentation_key13
+indentation_key14
+
+
 ```python
   File "<ipython-input-5-9eaf99c4383b>", line 3
     print ("a variable ko 2 se multiply kar ke 20 aata hai")
         ^
 IndentationError: expected an indented block
 ```
-indentation_key14
 indentation_key15
+indentation_key16
 ```python
 counter = 1
 while counter < 10:
@@ -49,11 +52,11 @@ while counter < 10:
     counter = counter + 1
     print ('--------')
 ```
-indentation_key16
+indentation_key17
 
 
-1. indentation_key17
-2. indentation_key18
+1. indentation_key18
+2. indentation_key19
 ```python
 counter = 1
 while counter < 10:
@@ -61,14 +64,14 @@ while counter < 10:
  counter = counter + 1
 print ('--------')
 ```
-indentation_key19
-
-
 indentation_key20
 
 
 indentation_key21
+
+
 indentation_key22
+indentation_key23
 
 
 ```python
@@ -80,9 +83,9 @@ while counter < 10:
     counter = counter + 1
 print ('--------')
 ```
-indentation_key23
+indentation_key24
 
 
-1. indentation_key24
-2. indentation_key25
-indentation_key26
+1. indentation_key25
+2. indentation_key26
+indentation_key27
