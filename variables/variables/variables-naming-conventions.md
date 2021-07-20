@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: How to name Variables? 
 ```
 
@@ -19,7 +19,7 @@ You can read in detail about the [`cases`](https://www.chaseadams.io/most-common
 In Python, we usually use:
 
 | What Name?       | Which Case?  |
-|---------------  -|--------------|
+|----------------|--------------|
 | `variableNames`  | `camelCase`  |
 | `CONSTANT_NAMES` |` UPPER_CASE` |
 | `function_names` | `snake_case` |
