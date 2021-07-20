@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-6
+name: Spoken English: Class-6
 ```
 
 Hello!! 
-This is your Week 6 for Spoken English course module.
+This is your Class 6 for Spoken English course module.
 
 # Level 1 - Easy level
 Pair and Share: (For each question - first volunteer
@@ -79,25 +79,23 @@ students to prepositions):
 school (from, to)
 
 ### Story Time: 
-Common prepositions to use and prompt student to use: Of, At, On,
-In, To, About, From, Over, Above, Under, Below, Without, With, Up,
-Down, Right, Left, Behind, In front of, Between
-For example: Volunteer can start with “Once upon a time, there was a
-jungle full of tigers. (The student could make a second sentence with
-any preposition, or with the words upon or of)
+Common prepositions to use and prompt student to use: Of, At, On, In, To, About, From, Over, Above, Under, Below, Without, With, Up,
+Down, Right, Left, Behind, In front of, Between 
+
+For example: Volunteer can start with “Once upon a time, there was a jungle full of tigers. (The student could make a second sentence with any preposition, or with the words upon or of)
 
 ### Word of the Week
+
 Satisfy : Verb
-Meaning: meet the expectations, needs, or desires of
-(someone).
+
+Meaning: meet the expectations, needs, or desires of (someone).
 Sentence usage: I want to satisfy my curiosity.
+
+
 Satisfied: Adjective
+
 Meaning: contented; pleased
-Sentence usage: The customers were satisfied with the
-food. (Point out how the preposition with is used with the
-adjective ‘satisfied’ in this sentence.)
+Sentence usage: The customers were satisfied with thefood. (Point out how the preposition with is used with the adjective ‘satisfied’ in this sentence.)
 
 ### Homework:
-Make an attempt to use prepositions when talking to
-teachers/friends/others this week and make a note of the
-prepositions and how many times you used it.  
+Make an attempt to use prepositions when talking to teachers/friends/others this week and make a note of the prepositions and how many times you used it.  

@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-1
+name: Spoken English: Class-1
 ```
 
 Hello!! 
-This is your Week 1 for Spoken English course module.
+This is your Class 1 for Spoken English course module.
 
 # TOPIC : INTRODUCTION
  

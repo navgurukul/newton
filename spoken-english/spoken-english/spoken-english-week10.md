@@ -1,29 +1,30 @@
 ```ngMeta
-name: Spoken English: Week-10
+name: Spoken English: Class-10
 ```
 
 Hello!! 
-This is your Week 10 for Spoken English course module.
+This is your Class 10 for Spoken English course module.
 
 # Level 1
 Pair and Share:
---What are the different seasons in a year?
---Which season is your favorite season? Why?
---What do you typically do during this season?
---Which is your least favorite season? Why?
+
+1.What are the different seasons in a year?
+
+2.Which season is your favorite season? Why?
+
+3.What do you typically do during this season?
+
+4.Which is your least favorite season? Why?
 
 ### Game time
-*Subject - Predicate*: All sentences are about something or someone.
-The something or someone that the sentence is about is called the
-*subject* of the sentence.The *predicate* contains information about
-the someone or something that is the subject.
+*Subject - Predicate*: All sentences are about something or someone. The something or someone that the sentence is about is called the *subject* of the sentence.The *predicate* contains information about the someone or something that is the subject.
 
 Example (The subject is in bold and rest is predicate)
-..*John* often comes late to class.
-..Sitting in a tree at the bottom of the garden was *a huge black
-bird with long blue tail feathers.*
-..*Pongal* was served for breakfast.
-..*The kind woman* offered food to the beggar
+
+1. **John** often comes late to class.
+2. Sitting in a tree at the bottom of the garden was **a huge black bird with long blue tail feathers.**
+3. **Pongal** was served for breakfast.
+4. **The kind woman** offered food to the beggar
 
 Identify the subject and predicate in the below sentences :
 1. The monkey was sitting on the branch.
@@ -39,11 +40,10 @@ Identify the subject and predicate in the below sentences :
 
 ### Creative Sentence Building :
 Let the students choose three numbers from 1 to 6 in an order .
-Match the numbers to the words and instruct students to make a proper structure of sentence with the words they chose. The student
-can make up crazy sentences as long as they are structured and grammatically right. You can do this multiple times depending on the student's interest and time.
+Match the numbers to the words and instruct students to make a proper structure of sentence with the words they chose. The student can make up crazy sentences as long as they are structured and grammatically right. You can do this multiple times depending on the student's interest and time.
 
-Example : the student chooses 4,5,1. The words would be Dog,
-Drive, School.
+Example : the student chooses 4,5,1. The words would be Dog, Drive, School.
+
 The Dog drove himself to school
 I saw a Dog while I was driving to School
 
@@ -65,24 +65,25 @@ Usage: I am grateful for your help
 
 # Level 2
 Pair and Share: 
+
 • What are the different seasons in a year?
+
 • Which season is your favorite season? Why?
+
 • What do you typically do during this season?
+
 • Which is your least favorite season? Why?
-• Describe today’s weather and compare it with a day from your
-favorite season? 
+
+• Describe today’s weather and compare it with a day from your favorite season? 
 
 
 ### Game time
 Subject - Predicate: All sentences are about something or someone.
-The something or someone that the sentence is about is called the
-subject of the sentence.The predicate contains information about
-the someone or something that is the subject.
+The something or someone that the sentence is about is called the subject of the sentence.The predicate contains information about the someone or something that is the subject.
 
 Example (The subject is in bold and rest is predicate)
-..*John* often comes late to class.
-..Sitting in a tree at the bottom of the garden was *a huge black
-bird with long blue tail feathers.*
+1. **John** often comes late to class
+2. Sitting in a tree at the bottom of the garden was **a huge black bird with long blue tail feathers.**
 
 
 Identify the subject and predicate in the below sentences :
@@ -101,13 +102,11 @@ many hours.
 
 ### Creative Sentence Building :
 Let the students choose three numbers from 1 to 6 in an order .
-Match the numbers to the words and instruct students to make a
-proper structure of sentence with the words they chose. The student
-can make up crazy sentences as long as they are structured and
-grammatically right. You can do this multiple times depending on the
+Match the numbers to the words and instruct students to make a proper structure of sentence with the words they chose. The student
+can make up crazy sentences as long as they are structured and grammatically right. You can do this multiple times depending on the
 student's interest and time.
-Example : The student chooses 4,5,6. The words would be Dog,
-Like, Castle.
+
+Example : The student chooses 4,5,6. The words would be Dog, Like, Castle.
 The Dog like to sleep in the castle
 I saw a Dog on the Castle and I think he likes to fly
 
@@ -121,9 +120,15 @@ I saw a Dog on the Castle and I think he likes to fly
 |Teacher|Walk|Castle|
 
 ### Word of the Week
-1. Marvel (verb) 
+1. *Marvel* (verb) 
+
 Meaning: be filled with wonder or astonishment; to be amazed
+
 Usage: She marveled at the beautiful painting.
-2. Marvel (noun)
+
+
+2. *Marvel* (noun)
+
 Meaning: a wonderful or astonishing person or thing; amazing thing
+
 Usage: This building is an architectural marvel. 

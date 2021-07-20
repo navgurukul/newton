@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-2
+name: Spoken English: Class-2
 ```
 
 Hello!! 
-This is your Week 2 for Spoken English course module.
+This is your Class 2 for Spoken English course module.
 
 # TOPIC : FOOD
  
@@ -20,11 +20,11 @@ you describe it? (Tip - use your senses - touch, taste, smell, sight, sound - to
 
 ### Game Time:
 Name 3 [category] you like and talk about them a little
-..Categories may include vegetables, fruits, animals, emotions/feelings, colors,
+1. Categories may include vegetables, fruits, animals, emotions/feelings, colors,
 sports/games, places to visit, weekend activities, school subjects, careers/jobs,
 etc.
-..Inform students that it is okay if they don’t know the word in english, and help them translate/pronounce as needed. (
-..This game will help students increase their vocabulary with regards to aspects of their personal identity - so that English feels less foreign and more connected to them.
+2. Inform students that it is okay if they don’t know the word in english, and help them translate/pronounce as needed. (
+3. This game will help students increase their vocabulary with regards to aspects of their personal identity - so that English feels less foreign and more connected to them.
 
 ### Word of the Week:
 Persistence

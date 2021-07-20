@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-15
+name: Spoken English: Class-15
 ```
 
 Hello!! 
-This is your Week 15 for Spoken English course module.
+This is your Class 15 for Spoken English course module.
 
 # Level 1
 Pair and Share: 
@@ -29,7 +29,7 @@ partner’s life?
 8. What is something you are grateful for in this process? 
 
 ### Word of the Week
-*Hurdle*
+**Hurdle**
 (noun) a barrier;problem; obstacle
 The weather will be the biggest hurdle to complete the task.
 The horse dived at the hurdle and won the race
@@ -59,10 +59,10 @@ partner’s life?
 16. What is something you are grateful for in this process?
 
 
-Procrastinate:
+**Procrastinate:**
 (verb)
 to be slow or late about doing something that should be done; to delay doing something until a later time because you do not want to do it, because you are lazy, etc.
 
-sExample:
+Example:
 He procrastinated and missed the submission deadline.
 He told her to stop procrastinating and get to work.

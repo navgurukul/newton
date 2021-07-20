@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-9
+name: Spoken English: Class-9
 ```
 
 Hello!! 
-This is your Week 9 for Spoken English course module.
+This is your Class 9 for Spoken English course module.
 
 # Level 1
 Pair and Share: 
@@ -16,32 +16,20 @@ help the environment?
 environment?
 
 ### Game time
-*Homonyms* - Volunteer can explain to the student that homonyms
-are words that look or sound the same, but have different meanings.
-We are going to focus on words that sound the same! Volunteer can
-say the word to the student, and student can respond with whatever
-meanings or sentence examples they can think of. Volunteer can
-provide hints such as spelling of the words, or by using the word in a
-sentence to help with context. 
+*Homonyms* - Volunteer can explain to the student that homonyms are words that look or sound the same, but have different meanings.
+We are going to focus on words that sound the same! Volunteer can say the word to the student, and student can respond with whatever
+meanings or sentence examples they can think of. Volunteer can provide hints such as spelling of the words, or by using the word in a sentence to help with context. 
 
-1. Break (eg: to break a plate) - Brake (eg: I had to brake to avoid
-hitting the car)
+1. Break (eg: to break a plate) - Brake (eg: I had to brake to avoid hitting the car)
 2. Here (eg: I am here) - Hear (eg: I can’t hear you)
 3. Be (eg: Be quiet) - Bee (eg: There is a bee in the classroom)
-4. Been (eg: I have never been to the beach) - Bean (eg: I like to
-eat beans)
-5. Bored (eg: I get bored during rainy days) - Board (eg: The
-teacher wrote on the board)
-6. Blue (eg: My favorite color is blue) - Blew (eg: The wind blew
-away my papers)
-7. Meet (eg: The beach is a good place to meet) - Meat (eg: I don’t
-eat meat)
-8. Plain (eg: The pattern on this dress is plain) - Plane (eg: I saw a
-plane in the sky)
-9. Weak (eg: The foundation of this house is weak) - Week (eg:
-The first day of the week is Sunday)
-10. Not (eg: I do not know how to swim) - Knot (eg: I know how to
-tie a knot)
+4. Been (eg: I have never been to the beach) - Bean (eg: I like to eat beans)
+5. Bored (eg: I get bored during rainy days) - Board (eg: The teacher wrote on the board)
+6. Blue (eg: My favorite color is blue) - Blew (eg: The wind blew away my papers)
+7. Meet (eg: The beach is a good place to meet) - Meat (eg: I don’t eat meat)
+8. Plain (eg: The pattern on this dress is plain) - Plane (eg: I saw a plane in the sky)
+9. Weak (eg: The foundation of this house is weak) - Week (eg:The first day of the week is Sunday)
+10. Not (eg: I do not know how to swim) - Knot (eg: I know how to tie a knot)
 
 ### Word of the Week
 Optimistic
@@ -82,12 +70,12 @@ context.
 
 
 ### Word of the Week
-Sincere (adjective)
-Meaning: (1) free from pretense or deceit; proceeding from genuine
-feelings.
-Usage: The student showed sincere interest in the spoken english
-program
-Sincerity ( noun )
-Meaning : the quality of being free from pretense, deceit, or
-hypocrisy.
+**Sincere** (adjective)
+Meaning: (1) free from pretense or deceit; proceeding from genuine feelings.
+
+Usage: The student showed sincere interest in the spoken english program
+
+**Sincerity** ( noun )
+Meaning : the quality of being free from pretense, deceit, or hypocrisy.
+
 Usage: Her sincerity in studying helped her succeed in life

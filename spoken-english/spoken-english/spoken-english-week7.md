@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-7
+name: Spoken English: Class-7
 ```
 
 Hello!! 
-This is your Week 7 for Spoken English course module.
+This is your Class 7 for Spoken English course module.
 
 # Level 1 - Easy level
 Pair and Share: 
@@ -19,10 +19,8 @@ Volunteers may explain to students that pronouns are substitutes for nouns.Let's
 |Used as Subject|Used as an Object|Example|
 |:------------------:|:----------------:|-------------------------|
 | I             | Me              |*I* wanted an apple.Mom, can you please give *me* an apple|
-| You             | You              |If you have any questions, you can
-ask either Divya or me|
-|He             | Him              |He played with his toys in the
-playground|
+| You             | You              |If you have any questions, you canask either Divya or me|
+|He             | Him              |He played with his toys in the playground|
 |She             | Her              |She bent down to tie her shoe lace|
 |It             | It              |It is my favorite book.Divya wants to borrow it|
 |We             | Us              |We were delighted when the teacher called and told us that tomorrow is a Holiday|
@@ -45,43 +43,44 @@ to the game)
 5. David and John can’t sing as well as _____ (us).
 
 ### Word of the Week
-Flexible (adjective)
+**Flexible** (adjective)
 Meaning: (1) capable of bending easily without breaking
+
 Usage: Giraffes have very flexible necks.
-(2 - When referring to a person) ready and able to change so as to
-adapt to different circumstances.
+
+(2- When referring to a person) ready and able to change so as to adapt to different circumstances.
+
 Usage: (of a person) Tara’s schedule was flexible
 
 
 # Level 2 - Intermediate level
-Pair and Share:
-Topic: My Friend
-Who is one of your friends?
-What does he/she look like?
-How and when did you meet?
-What do you do together with your friend?
-Level 2: Why is a friend important in life? 
+
+Pair and Share: **Topic: My Friend**
+
+1. Who is one of your friends?
+2. What does he/she look like?
+3. How and when did you meet?
+4. What do you do together with your friend?
+
+
+### Level 2: Why is a friend important in life? 
 
 ### Game time
-Pronouns are substitutes for
-nouns . Let's concentrate today on Personal and Reflexive Pronouns.
+Pronouns are substitutes for nouns . Let's concentrate today on Personal and Reflexive Pronouns.
 Personal pronouns are used as an object or a subject. Below is a list of pronouns that will be used in the game and examples to help the student understand how to use it.
 
 |Used as Subject|Used as an Object|Example|
 |:------------------:|:----------------:|-------------------------|
 | I             | Me              |*I* wanted an apple.Mom, can you please give *me* an apple|
-| You             | You              |If you have any questions, you can
-ask either Divya or me|
-|He             | Him              |He played with his toys in the
-playground|
+| You             | You              |If you have any questions, you can ask either Divya or me|
+|He             | Him              |He played with his toys in the playground|
 |She             | Her              |She bent down to tie her shoe lace|
 |It             | It              |It is my favorite book.Divya wants to borrow it|
 |We             | Us              |We were delighted when the teacher called and told us that tomorrow is a Holiday|
 |They             | Them              |Both of them were surprised to see their dad at home when they returned|
 
-Reflexive pronouns are used to specify that the subject is doing
-something by or to itself. Instead of acting upon another object, the
-subject is acting upon itself, either literally or figuratively.
+Reflexive pronouns are used to specify that the subject is doing something by or to itself. Instead of acting upon another object, the subject is acting upon itself, either literally or figuratively.
+
 Example:
 1. I taught myself to play the guitar.
 2. You know yourself better than anyone else.

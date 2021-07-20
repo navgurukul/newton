@@ -2,5 +2,7 @@
 - about-meraki.md
 - getting-started.md
 - create-class.md
-- instructions-to-python-facilitators.md
+- python-class-structure.md
 - python-curriculum-structure.md
+- how-to-take-a-class.md
+- spoken-english-curriculum-structure.md
