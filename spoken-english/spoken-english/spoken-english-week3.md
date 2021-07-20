@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-3
+name: Spoken English: Class-3
 ```
 
 Hello!! 
-This is your Week 3 for Spoken English course module.
+This is your Class 3 for Spoken English course module.
 
 # Level 1
 
