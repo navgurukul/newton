@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: Variable Naming Exercise 4
 submission_type: url
 ```
