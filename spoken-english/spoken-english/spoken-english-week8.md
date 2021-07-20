@@ -1,9 +1,9 @@
 ```ngMeta
-name: Spoken English: Week-8
+name: Spoken English: Class-8
 ```
 
 Hello!! 
-This is your Week 8 for Spoken English course module.
+This is your Class 8 for Spoken English course module.
 
 # Level 1
 ### Pair and Share:
@@ -97,10 +97,10 @@ Project)
 
 ### Word of the Week
 *Regulate*(verb)
-Meaning: (1) to control something, especially by making it work in a
-particular way
-Usage: The switch is used to regulate the speed at which the
-machine operates.
+
+Meaning: (1) to control something, especially by making it work in a particular way
+Usage: The switch is used to regulate the speed at which the machine operates.
+
 Meaning:(2) to control an activity or process by rules or a system
 Usage:Their parents regulate how much TV the children can watch.
 
