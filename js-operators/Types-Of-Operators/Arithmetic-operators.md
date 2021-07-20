@@ -1,3 +1,7 @@
+```ngMeta
+name: Arithmetic Operators
+```
+
 ## Arithmetic Operators
 
 Arithmetic operators are used to perform arithmetic (Mathematical) operations on the operands. The following operators are known as JavaScript arithmetic operators.
@@ -30,19 +34,13 @@ console.log(x % 2);
 console.log(x++);
 ```
 
-Output:
-
+```solution
 30
-
 10
-
 200
-
 2
-
 0
-
 10
-
+```
 
 

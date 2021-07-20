@@ -1,55 +1,58 @@
+```ngMeta
+name: Storing a value into variable
+```
+
 **Example:**
 ```javascript
-var myLuckyNumber= 3;
- 
- ```
+var myLuckyNumber= 3; 
+```
 Here, we stored 3 as a value and it is stored in a variable named myLuckynumber.
- 
+
 ```javascript
 var myResult= 2+3;
 console.log(myResult);
 // output: 5
 ```
 
-
 **Explanation:**
 
 A variable is simply the name of a storage location and will work as a container to hold value. = (equal to ) is used to assign a value to a variable, if you do any operation such as addition, multiplication and it will compute first and assign it to the variable.
 
 
+**Examples:** 
 
-**Example:** 1. Assign a boolean to a variable isHealthy?
-```javascript
+1. Assign a boolean to a variable isHealthy?
+
+```solution
 var isHealthy = true;
 
-```
 **Explanation:**
 
 In the above question we stored true a boolean value in a variable named as isHealthy, by this you can get to know we can store any data type as a value to a variable.
+```
 
-**Example:**
+
 2. Multiply two numbers and store it in variable multiplyTwoNumbers?
-```javascript
+
+```solution
 var multiplyTwoNumbers =3*3;
 console.log(multiplyTwoNumbers);
 // output: 9
 
-```
 **Explanation:**
 
 9 is the output because first it will compute 3*3 and assign it to a variable named multiplyTwoNumbers and print 9.
-
+```
 
 **Example:**
+
 ```javascript
 var myName;
 myName = "kumar";
 var myFullName;
 myFullName = myName;
 console.log(myFullName);
-
 // output: kumar
-
 ```
 **Explanation:**
 
@@ -66,9 +69,7 @@ var myFullName;
 myFullName="nayak Vadthya";
 var FullName = myName+" "+myFullName;
 console.log(FullName);
-
-output: kumar nayak Vadthya
-
+// output: kumar nayak Vadthya
 ```
 **Explanation:**
 

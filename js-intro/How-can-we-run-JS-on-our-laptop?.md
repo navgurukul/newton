@@ -1,3 +1,7 @@
+```ngMeta
+name: How can we run JS on our laptop?
+```
+
 > You will need to install Node to run JS on your laptop. Without Node we can not run our js code on our laptop. 
 > Node js is an environment to run javascript code outside a web browser. Like in our laptops.
 > Here are instruction on how to install Node in Windows. 

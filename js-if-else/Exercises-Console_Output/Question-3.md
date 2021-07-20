@@ -1,3 +1,5 @@
+What is the output of the following code?
+
 ```javascript
 var choice ="overcast";
 if (choice === 'sunny') {
@@ -13,7 +15,10 @@ if (choice === 'sunny') {
 }
 console.log(message)
 
-// output:
-// "It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case."
+
+```
+
+```solution
+It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.
 
 ```

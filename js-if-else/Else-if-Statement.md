@@ -1,3 +1,6 @@
+```ngMeta
+name: Else if statement
+```
 
 **Example**:
 ```javascript
@@ -16,7 +19,7 @@
 
 **Explanation**:
 
-    if the course is equal to English, output “Tutorial is for English”.else if the course is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above condition is true, then output “Tutorial is forJavascript”
+if the course is equal to English, output “Tutorial is for English”.else if the course is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above condition is true, then output “Tutorial is forJavascript”
 
 
 > else If condition specifies a new condition if the first condition will be  false then it checks other conditions. When we have many conditions and we want a condition to be true then we use an else-if statement.

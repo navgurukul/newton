@@ -1,4 +1,6 @@
-# Accessing Object Properties
+```ngMeta
+name: Accessing Object Properties
+```
 
 In two ways we can access properties i.e., dot notation (.) and bracket notation ([ ]), similar to an array. 
 

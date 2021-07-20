@@ -1,3 +1,5 @@
+What is the output of the following code?
+
 ```javascript
 var x = 10;
 var y = 12
@@ -22,6 +24,8 @@ else {
 }
 console.log(m)
  
-output: 10
+```
 
+```solution
+10
 ```

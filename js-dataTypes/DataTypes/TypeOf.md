@@ -1,3 +1,7 @@
+```ngMeta
+name: TypeOf
+```
+
 ## The typeof function
 
 ```javascript

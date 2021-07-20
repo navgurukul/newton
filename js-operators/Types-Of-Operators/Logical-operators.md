@@ -1,3 +1,7 @@
+```ngMeta
+name: Logical Operators
+```
+
 ## Logical Operators
 
 Logical operators are used to combine two or more conditions.
@@ -20,14 +24,10 @@ console.log(!(a < b));
 console.log(!(a > b));
 ```
  
-Output:
-
+```solution
 true
-
 false
-
 true
-
 false
-
 true
+```

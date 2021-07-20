@@ -1,3 +1,7 @@
+```ngMeta
+name: Project prereuisite
+```
+
 # Taking Input
 
 In the world everyone has emotions and everyone will interact with each other. So in javascript also if we want to interact we can use different methods. One of them is readline-sync. 

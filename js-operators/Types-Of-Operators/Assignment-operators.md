@@ -1,3 +1,7 @@
+```ngMeta
+name: Assignment Operators
+```
+
 ## Assignment Operators
 
 JavaScript includes assignment operators to assign values to variables.
@@ -25,18 +29,12 @@ console.log(x /= 5);
 console.log(x %= 2);
  ```
 
-Output:
-
+```solution
 10
-
 11
-
 10
-
 50
-
 10
-
 0
-
+```
 

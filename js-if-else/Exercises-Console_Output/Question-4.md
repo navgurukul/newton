@@ -1,12 +1,8 @@
-Please tell output on different value of time variable :-
+Please tell output on different value of time variable :
 
 ```javascript
-time= 5
-time=8
-time=10
 
 
- 
 var time = 9;
 if (time >= 5 && time <= 6) {
  console.log("sleep well");
@@ -21,6 +17,12 @@ else if ( time > 8.30 && time < 12){
  console.log("Study");
 }
  
-// output: Study
+// Try for these time values and understand yourself what is the output will come
+// time= 5
+// time=8
+// time=10
+```
 
+```solution
+Study
 ```

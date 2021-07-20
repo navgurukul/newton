@@ -1,3 +1,7 @@
+```ngMeta
+name: Do While loop
+```
+
 **Example:**
 
 ```javascript
@@ -63,6 +67,7 @@ while(n<=4)
 ```
 
 **Explanation:-** 
+
 m = 5, n = 1, m*n = 5, n++ is 2, 2<=10, so loop will execute another time.
 
 n=2, 2<=4 true, m=5, m*n(5*2) is 10, so 10 is printed and n incremented to 3 
@@ -100,6 +105,7 @@ while(i<=10)
 // 55
 ```
 **Explanation:-** 
+
 In this code i is initial variable it starts from 0 and it will run till 10 
 
 sum is another variable for storing the value of  (sum+i) this operation. every time sum value will change because sum value is inside the loop and variable nature is that it updates the value.when condition will be false then it will give us the last update value.
@@ -138,6 +144,7 @@ v++
 // loop will run to infinity
 ```
 **Explanation:-**
+
 In the first iteration, v is 0, v gets printed, 0<= 3, so loop runs again.
 
 In the second iteration, v is 0, v gets printed, 0<= 3, so loop runs again.

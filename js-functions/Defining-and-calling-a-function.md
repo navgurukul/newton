@@ -1,4 +1,6 @@
-# Defining and calling a function
+```ngMeta
+name: Defining and calling a function
+```
 
 The declaration of a function starts with the function keyword, followed by the name of the function you want to create, followed by parentheses i.e. (). Function naming can follow all rules as variables.
 

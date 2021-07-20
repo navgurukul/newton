@@ -9,3 +9,8 @@ function getFullName(firstName,lastName){
 GetFullName("kumar","nayak");
 
 ```
+
+```solution
+GetFullName is not defined,
+it will give error because the function we defined is different that what we called
+```

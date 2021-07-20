@@ -1,3 +1,7 @@
+```ngMeta
+name: Function parameters
+```
+
 Parameters will work as variables in a function which will store arguments as values. 
 
 Parameters are set on the first line of the function inside the set of parentheses, like this:

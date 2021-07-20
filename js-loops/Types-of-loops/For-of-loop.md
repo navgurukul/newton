@@ -1,3 +1,7 @@
+```ngMeta
+name: For of loop
+```
+
 # for of Loop
 
 Loops over iterable objects such as array .

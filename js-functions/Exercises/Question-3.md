@@ -8,9 +8,8 @@ What is the output of the following code?
 }
  
 getFullName("kumar","nayak");
- 
-Output:
+```
 
+```solution
 kumar nayak
-
 ```

@@ -1,3 +1,7 @@
+```ngMeta
+name: Change the Background color
+```
+
 See this video to get to know about [Color flipper](https://drive.google.com/file/d/1Pew8tgx-u7r5CqQo4WE81wZSZyMxsCcB/view?usp=sharing)
 
 Before going to start understanding this [link](https://www.w3schools.com/code/tryit.asp?filename=GRQZT8140PE2) first. How we changed the document's body background color to Red.

@@ -1,3 +1,7 @@
+```ngMeta
+name: String
+```
+
 # Strings
 
 **Example:**

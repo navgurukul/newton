@@ -1,3 +1,7 @@
+```ngMeta
+name: Calculator
+```
+
 See this [video](https://drive.google.com/file/d/1c4_-nPv7amB3cgLUSk-Y6ooH9U2RFJnU/view?usp=sharing) to get to know about calculator.
 
 We are going to do a calculator which we can use on the web.

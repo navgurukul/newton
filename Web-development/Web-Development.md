@@ -1,11 +1,18 @@
-Watch this [video](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=1
-) to understand how to use what we need to install. 
+```ngMeta
+name: Web Development
+```
+
+Watch this video to understand how to use what we need to install.
+
+@[youtube](https://www.youtube.com/watch?v=cvvwkgp4HBg&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=1)
 
 For running the javascript we don’t need the npm also, it will run on your web browser,
 
 Open your browser and click ctrl+shift+i or else right click on the page and select inspect and you will get a pop up on the left side. There you can see the console, there we will get the space to write the script of JS.
 
-[Video of Dom structure](https://www.youtube.com/watch?v=_GxpmQ54aqg)
+Get knowledge of DOM structure.
+
+@[youtube](https://www.youtube.com/watch?v=_GxpmQ54aqg)
 
 ![console](https://lh3.googleusercontent.com/UnTHT3ZkCXHNF4wf6eVdNYBObIUgIW0NztPs97kfJGyDZVzLAYZfrjHVjRrnh5RVLRof_us68RMlA77nZCG7txy-N4d9TMI2Bqb5YluA)
 

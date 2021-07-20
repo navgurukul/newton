@@ -1,3 +1,7 @@
+```ngMeta
+name: Null
+```
+
 ## Null
 
 This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string ("") or 0, it is simply nothing.
@@ -19,7 +23,7 @@ console.log(b) // Output: null
 
 1. Write a program to print null when I console a variable name is y?
 
-```javascript
+```solution
 var y= null;
 console.log(y);
 ```
@@ -28,6 +32,8 @@ console.log(y);
 ```javascript
 var val = null;
 console.log(val);
+```
 
-Output: Null
+```solution
+Null
 ```

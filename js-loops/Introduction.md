@@ -1,3 +1,7 @@
+```ngMeta
+name: Loops
+```
+
 ## Example:
 
 ```javascript
@@ -88,7 +92,9 @@ while(a <= 100){
 // 100
 ```
 
-**Explanation :-**  This code will print 1 to 100 without using console.log 100 times.This is because of the loop. Loop helps us to work on the sequence of the tasks.
+**Explanation :-**  
+
+This code will print 1 to 100 without using console.log 100 times.This is because of the loop. Loop helps us to work on the sequence of the tasks.
 
 We defined,  a =1, it will check for a while condition a<=100 (1<=100) that is true, so it will go to run the inside block of code  and console the 1 first time, and increment a to 2.
 

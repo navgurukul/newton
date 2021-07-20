@@ -1,3 +1,7 @@
+```ngMeta
+name: Guessing game
+```
+
 ## Project2
 
 **Guessing game**

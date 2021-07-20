@@ -3,3 +3,9 @@
 - Project4.md
 - Project5.md
 - Project6.md
+- Project7.md
+- Project8.md
+- Project9.md
+- Project10.md
+- Project11.md
+- More-Projects.md

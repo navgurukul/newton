@@ -6,5 +6,8 @@ var myFavouriteFruits = ["Mango", "Orange", "Banana"]
 
 console.log(myFavouriteFruits.pop())
 
-// ouput [“Mango”, “orange”]
+```
+
+```solution
+Banana
 ```

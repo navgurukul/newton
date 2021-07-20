@@ -1,3 +1,7 @@
+```ngMeta
+name: While loop
+```
+
 **Example** :-
 
 ```javascript

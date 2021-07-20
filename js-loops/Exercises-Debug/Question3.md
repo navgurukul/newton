@@ -17,11 +17,10 @@ const store=success,length
 for(const value in success){
   console.log(store[value])
 }
-
 ```
-**Feedback after debugginng**
 
-```javascript
+
+```solution
 const result = {
    success: ["max-length", "no-amd" ,"prefer-arrow-functions"],
    failure: ["no-var", "var-on-top", "linebreak"],

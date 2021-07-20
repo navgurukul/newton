@@ -1,4 +1,6 @@
-# Updating a property
+```ngMeta
+name: Updating a property
+```
 
 For example, let's look at myHome:
 

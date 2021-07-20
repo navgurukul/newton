@@ -1,3 +1,7 @@
+```ngMeta
+name: Rock Paper Scissors
+```
+
 # Project1
 
 Have you ever played a game called Rock Paper Scissors? We are going to create that game now.

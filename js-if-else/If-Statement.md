@@ -1,3 +1,7 @@
+```ngMeta
+name: If statement
+```
+
 ```javascript
 if (condition is true) {
   statement is executed
@@ -12,17 +16,17 @@ if (condition is true) {
 
 > Let us see some more examples.
 
-**Example** :-
+**Example** :
+
 ```javascript
 var a = 10;
 var b = 12;
 if(b > a){
   console.log( b," is greater than  ", a  );
 }
-
 // Output :- 12, is greater than, 10
 ```
 
 **Explanation**: 
 
-    Here 12 is greater than 10. So, the console will show us the output as 12.
+Here 12 is greater than 10. So, the console will show us the output as 12.

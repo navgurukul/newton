@@ -1,4 +1,6 @@
-# Add new properties to an object
+```ngMeta
+name: Adding new property
+```
 
 Here's how we would add a isGood property to myHome:
 

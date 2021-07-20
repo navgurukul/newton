@@ -1,3 +1,7 @@
+```ngMeta
+name: Decrement a number
+```
+
 You can easily decrement or add one to a variable with the -- operator.
 
 ```javascript

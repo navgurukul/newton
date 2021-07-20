@@ -1,3 +1,7 @@
+```ngMeta
+name: Arrays
+```
+
 ## Arrays
 
 Think about a list of your favourite things. For example, 
