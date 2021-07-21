@@ -21,7 +21,7 @@ Meaning: present or ready for immediate use
 Usage: The tutor is made available to the student once a
 week.
 
-###Homework:
+### Homework:
 Use the word of the week when talking to teachers/friends/
 others this week and make a note of how many times you
 used it.  
