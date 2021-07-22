@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 1
-submission_type: url
+
 ```
 Q.1 Json data ko python object main convert karne ka program likho?.
 

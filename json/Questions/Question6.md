@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 6
-submission_type: url
+
 ```
 
 Q6.Python object key unique key value ko access karne ka program likho?

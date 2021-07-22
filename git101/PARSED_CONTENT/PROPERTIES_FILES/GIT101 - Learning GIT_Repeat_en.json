@@ -1,0 +1,8 @@
+{
+	"Repeat_key1": "name: Git Repeat\n",
+	"Repeat_key2": "Apne abhi tak ye commands seekhe hain:\n",
+	"Repeat_key3": "git init\ngit status\ngit add\n(git remove)\ngit diff\ngit commit\n",
+	"Repeat_key4": "Apne `files` mein changes karke aap wapas se inn commands ko use karke apne `files` ke *naye version* ko apne git repository mein daal sakte hain.\n",
+	"Repeat_key5": "**Assignment**\n",
+	"Repeat_key6": "Apne `files` mein changes karke, wapas se upar diye hue commands ka use karte hue - apne `file` ke naye version ko git repository mein `save` karo.\n"
+}

@@ -1,0 +1,6 @@
+{
+	"arithmetic-intro_key1": "name: Arithmetic Operations! Yaani maths.\n",
+	"arithmetic-intro_key2": "Explain them how to do addition/subtraction/multiplication or power of two numbers.\n\n",
+	"arithmetic-intro_key3": "Also tell them about division by zero `error`\n\n\n",
+	"arithmetic-intro_key4": "//`Variables`\nvar a = 3;\nvar b = 4;\nconsole.log(a + b)\n"
+}

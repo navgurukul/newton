@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Becoming  A Programmer
-submission_type: url
+
 ```
 ## Becoming A Programmer
 Iss Task mai apko function ke bare mai six new concepts padne hai.

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Introduction to Dictionary
-submission_type: url
+
 ```
 
 # DICTIONARY  

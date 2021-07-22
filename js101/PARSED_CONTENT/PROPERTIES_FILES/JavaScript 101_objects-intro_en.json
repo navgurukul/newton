@@ -1,0 +1,6 @@
+{
+	"objects-intro_key1": "name: Objects ke baare mein seekhte hain\n",
+	"objects-intro_key2": "introducing `key`, value concept and how to define an object and access its properties\n\n\n",
+	"objects-intro_key3": "//Concept of objects\nvar task = {\n        'id' : 1,\n        'task': 'Complete the JS course',\n        'status': 'Pending'\n}\nconsole.log(task)\nconsole.log(task['id'])\n",
+	"objects-intro_key4": "//Create a list of objects\ntaskList = [{\n                'id' : 1,\n                'task': 'Complete the JS course',\n                'status': 'Pending'\n        },\n        {\n                'id' : 2,\n                'task': 'Complete the CSS course',\n                'status': 'Pending'\n        },\n        {\n                'id' : 3,\n                'task': 'Cook the food',\n                'status': 'Complete'\n        }]\nvar listLength = taskList.length;\nvar index = 0;\nwhile(index < listLength)\n        console.log(taskList[i]);\n        index = index + 1;\n}\n"
+}

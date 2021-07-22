@@ -1,0 +1,22 @@
+{
+	"examples_key1": "name: Counter Examples\n",
+	"examples_key2": "# Counter Examples\n\n\n",
+	"examples_key3": "Iss section mein kuch kuch examples die hue hain. Inn examples ko aapko ache se samajhna chaiye yeh figure out karne ke liye ki yeh kaise kaam karte hain. Aapko har example ka dry run karke dekhna chaiye ki dry run kaise ho raha hai.\n",
+	"examples_key4": "Saath saath comments mein aap kuch aur examples bhi likh sakte hain jisse aapke concepts aur aapke peers ke concepts better clear ho sakte hain.\n",
+	"examples_key5": "## Example 1\n\n\n",
+	"examples_key6": "1 se 40 ke beech ke saare 3 ke multiples print karne hain. `Code` likhte waqt yeh dhyan rakhein ki aapka counter 891 se shuru hona chaiye.\n",
+	"examples_key7": "### Solution to Example 1\n\n",
+	"examples_key8": "## Example 2\n\n\n",
+	"examples_key9": "1 se 50 ke beech ke saare 5 ke multiples print karo. Lekin aapko % (modulous `operator`) ka use nahi karna hai. Uske bina karo.\n",
+	"examples_key10": "### Solution to Example 2\n\n",
+	"examples_key11": "## Example 3\n\n\n",
+	"examples_key12": "50 se 100 ke beech ke saare odd numbers ka sum print karo.\n",
+	"examples_key13": "### Solution 1 to Example 3\n\n\n",
+	"examples_key14": "### Solution 2 to Example 3\n\n",
+	"examples_key15": "### Solution 3 to Example 3\n\n",
+	"examples_key16": "## Example 4\n\n",
+	"examples_key17": "1 se 10 tak number print karne hai .incriment ka use nahi karna hai .\n",
+	"examples_key18": "### Solution 1 to Example 4\n\n",
+	"examples_key19": "### Solution 2 to Example 4\n\n",
+	"examples_key20": "### Solution 3 to Example 4\n\n"
+}

@@ -1,0 +1,11 @@
+{
+	"Task-2_key1": "name: Day-2-Task-2\n",
+	"Task-2_key2": "### Reading Material\n\n",
+	"Task-2_key3": "**Concatination**\n2 `string` ko plus karne ko Concatination bolte hai\n",
+	"Task-2_key4": "### Question\n\n",
+	"Task-2_key5": "Apko ek `string` di jayegi jiske akhir me agar `'ing'` hogi toh ushe aage apko `'ly'` add karni hai aur agar `'ing'` nhi hai toh `'ing'` add karna hai.\nLekin agar uske akhir meh `'ly'` hai toh ushme app kuch bi add ni karoge\n",
+	"Task-2_key6": "### Test\n\n",
+	"Task-2_key7": "#### Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n\n\n",
+	"Task-2_key8": "### Hint\n\n",
+	"Task-2_key9": "No Hints\n"
+}

@@ -1,0 +1,9 @@
+{
+	"debugging-question3_key1": "name: Read the JSON\nsubmission_type: url\n",
+	"debugging-question3_key2": "Iss program ko attempt karne ke liye pehle ek `users.json` naam ki `file` mein neeche diye hue text ko `save` karein.\n",
+	"debugging-question3_key3": "Uske baad aapne jiss directory mein `users.json` `save` kiya hai, usse directory mein yeh `python` ka `code` `save` kariye ek dusri `file` mein.\n",
+	"debugging-question3_key4": "`users.json` `file` mein users ka data padha hai. Yeh program `users.json` `file` ko read kar kar usmein se users ka data print karega. Iss `file` ko debug kar kar run karo.\n",
+	"debugging-question3_key5": "Topics covered:\n",
+	"debugging-question3_key6": "`Key` `error`\n",
+	"debugging-question3_key7": "`loop` iterates over the wrong list.\n"
+}

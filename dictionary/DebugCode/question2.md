@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 2 
-submission_type: url
+
 ```
 
  aapko ek dictionary di gai hai jisme aapko sare key ka sum karna hai.

@@ -1,0 +1,10 @@
+{
+	"lots-of-words_key1": "submission_type:url\n",
+	"lots-of-words_key2": "## Lots of Words\n\n",
+	"lots-of-words_key3": "Abhi sirf teen-chaar words mei se ek word user ko de diya jaata hai. (Check `words.py`)\nAapko `words.txt` `file` ko `code` mei read kar kar, `words.py` `file` ko modify karna hai. \nJisse ki `words.txt` mei se koi random word computer use kare user se guess karane ke liye.\n",
+	"lots-of-words_key4": "## Hint\n\n",
+	"lots-of-words_key5": "`words.txt` ko read kar kar, ek `array/list` bana kar `load_words` se return kar sakte ho\n",
+	"lots-of-words_key6": "`file` padhne ke liye, `readline()` function use kar sakte ho \n\n\n",
+	"lots-of-words_key7": "## Solution\n\n\n",
+	"lots-of-words_key8": "## Possible Solution\n\n"
+}

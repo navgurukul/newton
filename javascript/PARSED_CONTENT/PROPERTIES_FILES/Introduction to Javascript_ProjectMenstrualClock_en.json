@@ -1,0 +1,21 @@
+{
+	"ProjectMenstrualClock_key1": "name: Project Menstrual Clock\n",
+	"ProjectMenstrualClock_key2": "Watch the short film here:\n",
+	"ProjectMenstrualClock_key3": "You can learn more about periods\n",
+	"ProjectMenstrualClock_key4": "here\n",
+	"ProjectMenstrualClock_key5": "and\n",
+	"ProjectMenstrualClock_key6": "here\n",
+	"ProjectMenstrualClock_key7": "# Project Menstrual Clock v 1\n\n\n",
+	"ProjectMenstrualClock_key8": "iss](https://`code`pen.io/josephshambrook/full/xmtco) tarah ke placeholder \n",
+	"ProjectMenstrualClock_key9": "Date](https://www.w3schools.com/js/js_da\n",
+	"ProjectMenstrualClock_key10": "Usi tarah javascript mein ek function likhe jo hour, minute and seconds ko Date Object se extract kare. Hour, minute and second hands ki position change karein to reflect the current time. Aapko hour, minute and second ko degrees mein convert karna padega. Aapko fir \"transform\" style property change karke hands ko sahi position karna padega.\n\n",
+	"ProjectMenstrualClock_key11": "Aapko clock ko regularly update karne honga - har ek second pe. Upar ke function ko har second update karne ke liye setInterval() function ka use kijiye. Aap css ke \"transition\" property use karke clock hands ko smoothly move kar sakte hain.\n\n",
+	"ProjectMenstrualClock_key12": "localStorage](https://www.w3schools.com/html/html5_webstorage.asp).\n\n\n",
+	"ProjectMenstrualClock_key13": "Isi tarah apna period cycle bhi store karein. Aapka period cycle 28-35 days ke beech mein vary kar sakta hai.\n",
+	"ProjectMenstrualClock_key14": "Javascript mein Current date se period date ka difference check kijiye. Agar yeh difference hai, aur maan lo 28 days ki period cycle hai, toh yeh nikaliye ki kitne din bachche hai next period mei. Clearly, yeh din 28 se kam honge. Sochiye iske liye aap ko kaunsa function use karna hoga.\n\n\n",
+	"ProjectMenstrualClock_key15": "Agar result 0 ya uske aas paas hai, iska matlab period ki date aa gayi hai.\n",
+	"ProjectMenstrualClock_key16": "Period date ke approach hone pe aap kisi tarah ka indicator de sakte hain - jaise change in background ya snowfall ya aur kuch. Aap khud sochiye ki aapko apne liye kis tarah ka indicator chahiye. Apne project mein us indicator ko add kijiye.\n\n",
+	"ProjectMenstrualClock_key17": "Apne project mein aur kisi tarah ke changes karna chahenge jisse aapka Menstrual clock aur behter ho. Iske baare mein sochiye aur extra features ki list banaiye. \nIske liye aap\n\n",
+	"ProjectMenstrualClock_key18": "Periods ke baarein mei aur research kar kar samajh sakte hai ki kaise features useful ho sakte hai\n",
+	"ProjectMenstrualClock_key19": "this](http://www.periodgame.com/#intro) period game that aims to educate people about periods. Can you think of a similar game in javascript?\n"
+}

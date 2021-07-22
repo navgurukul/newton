@@ -1,0 +1,22 @@
+{
+	"theory_key1": "name: Operators Precedence\n",
+	"theory_key2": "## Understanding \"Precedence\" in `Operators`\n\n\n",
+	"theory_key3": "Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.\n",
+	"theory_key4": "Aap ko es picture se yhe concept aur acha se samaz aa jaye ga.\n",
+	"theory_key5": "\"PRECEDENCE\" ka matlab hota hai - importance. Ki kaun sa **`Operator`** kitna important hai. Jaise School mei humne BODMAS padha hoga. BODMAS padh kar humne seekha tha ki kaise ek **`expression/`statement``** mei agar *multiple `operators`* ho toh, kaunsa `operator` choose karte hai.\n",
+	"theory_key6": "Aise hi Programming languages mei apne rule hote hai. Alag alag programming languages mei alag alag rules bhi ho sakte hai. Pehle - Hum `Python` ke liye yeh rules dekhte aur samajhte hai.\n",
+	"theory_key7": "Iss exercise ko dry run karne ke liye, aapko `operators` ka order samajhna hoga. Jab bahut saare `operators` hote hai toh yeh order hota hai `python` mei importance ka.\n",
+	"theory_key8": "Brackets `(), [], {}`\n- () - () round brackets mei jo likha hota hai woh sabse pehle `execute` hota hai. Yeh **functions** aur **expressions** mei use hote hai, jo aage describe kiye jayenge.\n- [] - Yeh **List** mei use karenge (aage explain kiya jayega)\n- {} - Yeh **Dictionaries** mei use karenge (aage explain kiya jayega)\n\n",
+	"theory_key9": "Exponentiation - ** - jaise 2\\*\\*3 = 8 ya 3\\*\\*2 = 9\n Yaani `exponentiation` neeche diye gaye sab `operators` se jyada important hai. Computer pehle isko `execute` karega, neeche wale `operators` ko `execute` karne se pehle.\n\n",
+	"theory_key10": "`*, /, %`\n Multiplication, Division or Remainder `operator` teeno ka same weight hai. Yaani jab computer teeno ko same importance deta hai. Jaise \n left se right mei jaate hue, in teeno mei se pehle koi bhi `operator` dikhega, computer ussi `operator` ko use karega.\n \n Jab ki, agar yeh `operator` neeche diye hue `operators` ke baad bhi aayega, toh bhi inko jyada weight/preference/maanyta milegi, jiske vajah se pehle yeh `operators` `execute`, and phir neeche wale.\n\n",
+	"theory_key11": "`+, -`\n Addition, Subtraction - inn dono ka same weight hai\n\n",
+	"theory_key12": "`in, not in, is, is not, <, <=, >, >=, <>, !=, ==`\n - `<, <=, >, >=, <>, !=, ==` : comparison `operators`\n - `in`, `not in` : yeh `operator` yeh check karne ke liye kaam aate hai ki koi element list mei hai ya nahi. jaise 3 in [1,2,3] dekhta hai, ki `3 element`, `[1,2,3]` list mei hai ya nahi\n\n",
+	"theory_key13": "not\n\n",
+	"theory_key14": "and\n\n",
+	"theory_key15": "or\n\n\n",
+	"theory_key16": "Yeh `operators` hum aage aur details mei samjhenge. Tension mat lena. Dheere dheere aap inke saath kaafi aaram feel karne lagenge.\n",
+	"theory_key17": "**Yeh Dhyaan Rakhein ki jo `operators` same line mei hai, unka same weight hia. Jab hum left se right mei jayenge, toh same weight se yeh evaluate hoga. Eg.**\n",
+	"theory_key18": "15 / 3 * 4 = 12 (Pehle 15 ko 3 se divide karenge, phir jo answer hai **5**, usko 4 se multiply karenge.)\n",
+	"theory_key19": "9 * 2 / 4 = 4 (Pehle 9 ko 2 se divide karenge, phir jo answer hai **18**, usko 4 se divide karenge - aur jo quotient aayega woh `output` hoga.)\n\n\n",
+	"theory_key20": "*Yeh Understanding ke saath ab hum kuch questions ka dry karenge. Aur apna answer laptop par `code` chala kar verify karein.*\n"
+}

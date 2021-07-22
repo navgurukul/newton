@@ -1,6 +1,6 @@
 ```ngMeta
 name: Assignment Operators
-submission_type: url
+
 ```
 
 

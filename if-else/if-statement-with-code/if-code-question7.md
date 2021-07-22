@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 7
-submission_type: url
+
 ```
 
 Create a flowchart to take two numbers as input from the user. Print the number which is greater.

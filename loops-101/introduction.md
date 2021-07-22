@@ -1,6 +1,6 @@
 ```ngMeta
 name: Loop
-submission_type: url
+
 ```
 
 # What are loops?

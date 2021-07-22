@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type: url
+
 ```
 
 Code likho jo iss list mein se `second maximum element` (doosra sabse bada element) dhund kar kar print kare.

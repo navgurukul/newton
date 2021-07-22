@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 7
-submission_type: url
+
 ```
 
 Q7.Text file data ko json file data mai convert karo,jaise ki neeche diya hai?

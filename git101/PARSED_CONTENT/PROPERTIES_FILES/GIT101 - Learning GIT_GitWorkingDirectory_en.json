@@ -1,0 +1,16 @@
+{
+	"GitWorkingDirectory_key1": "name: Git Working Directory\n",
+	"GitWorkingDirectory_key2": "Git humare working directory ke `files` mein kiye hue changes ko track karta hai. \n",
+	"GitWorkingDirectory_key3": "Lekin...\n",
+	"GitWorkingDirectory_key4": "abhi git koi bhi `files` track nahi kar raha hai. Hume git ko batana hoga ki usey kaun si `files` track karni hai.\n",
+	"GitWorkingDirectory_key5": "`Terminal` khol kar apne **stories** directory mein navigate kijiye\n",
+	"GitWorkingDirectory_key6": "**ls** command use karke aap apne directory ke saare `files` ko dekh sakte hain.\nIss directory mein \"git status\" command run kijiye.\n",
+	"GitWorkingDirectory_key7": "\"git status\" command use karke aap apne directory ke saare *tracked* aur *untracked `files`* ko dekh sakte hain.\n",
+	"GitWorkingDirectory_key8": "Directory ke kisi bhi `file` ko track karne ke liye\n",
+	"GitWorkingDirectory_key9": " ka use kar sakte hain.\n",
+	"GitWorkingDirectory_key10": "\"git add \\*\" directory ke saare `files` ko track kar sakte hain.\n",
+	"GitWorkingDirectory_key11": "**Assignment**\n",
+	"GitWorkingDirectory_key12": "Apne Story ki `file` ko \"git add\" use karke git ke through track hone dijiye.\n",
+	"GitWorkingDirectory_key13": "\"git add\" ka documentation padhiye aur uska use samajhiye\nhttps://git-scm.com/docs/git-add\n\n",
+	"GitWorkingDirectory_key14": "documentation](https://git-scm.com/doc) khol kar pata lagane ki koiis kijiye.\n"
+}

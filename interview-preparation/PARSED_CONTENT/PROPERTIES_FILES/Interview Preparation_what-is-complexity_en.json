@@ -1,0 +1,6 @@
+{
+	"what-is-complexity_key1": "name: What is complexity?\nsubmission_type: url\n",
+	"what-is-complexity_key2": "## What is complexity?\n\n",
+	"what-is-complexity_key3": "The complexity of an algorithm is a function f (n) which measures the time and space used by an algorithm in terms of `input` size n.\nThere are 2 types of complexities **Time Complexity** and **Space Complexity.**\n",
+	"what-is-complexity_key4": "Link to study more : https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/\n"
+}

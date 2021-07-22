@@ -1,0 +1,5 @@
+{
+	"Question-3_key1": "Write a program to print count a sub`string` in a Main `string`.\n",
+	"Question-3_key2": "main`String`=”My name is kumar, and my friend’s name is Dhamu”\nsub`String`=”is”\n",
+	"Question-3_key3": "`Output`:\nThe sub`string` is there 2 times in main `string`.\n"
+}

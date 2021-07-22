@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 11
-submission_type: url
+
 ```
 
 Ek code likhiye jo dictionary ki 3 highest value print karaye. 

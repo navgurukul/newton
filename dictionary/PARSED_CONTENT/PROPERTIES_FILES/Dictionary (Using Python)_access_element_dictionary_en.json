@@ -1,0 +1,11 @@
+{
+	"access_element_dictionary_key1": "name:  Accessing Elements from a Dictionary\nsubmission_type: url\n",
+	"access_element_dictionary_key2": "## Accessing Elements from a Dictionary:-\n\n\n\n",
+	"access_element_dictionary_key3": "Hum square brackets ka use karke dictionary ke values ko access kar sakte hain. Jaisa ki niche dikhaya gaya hai.\n",
+	"access_element_dictionary_key4": "**Example 1:-**\n",
+	"access_element_dictionary_key5": "*`Output`:-*\n",
+	"access_element_dictionary_key6": "`organisation male 20 ` \n",
+	"access_element_dictionary_key7": "**get()** function bhi dictionary ki value access karne mai help karta hai. \n",
+	"access_element_dictionary_key8": "**Example 2:-**\n",
+	"access_element_dictionary_key9": "*`Output`:-*\n`  male {'organisation': 'navgurukul', 'place': 'dharamsala'}\n dharamsala\n`\n"
+}

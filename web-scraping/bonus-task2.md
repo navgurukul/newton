@@ -1,6 +1,6 @@
 ```ngMeta
 name: Bonus Task 2
-submission_type:url
+
 ```
 
 # Bonus Task 2

@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type: url
+
 ```
 
 ## Binary to Decimal

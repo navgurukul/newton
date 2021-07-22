@@ -1,0 +1,19 @@
+{
+	"introduction_key1": "name: Introduction to Lists\n",
+	"introduction_key2": "# Lists kya hota hai?\n\n\n",
+	"introduction_key3": "Aapne `string`, `integer`, `float` aur `booleans` data types ke baarein mei padha hoga. Yeh `primitive data types` kehlaye jaate hai. `Primitive` ka yaha matlab hai `simple` data types, jinka use kar kar hum aur `complex` data types bana sakte hai.\n",
+	"introduction_key4": "`List` aisa hi ek `complex` data type hai.\n",
+	"introduction_key5": "## Exercise\n\n",
+	"introduction_key6": "Aap Zindagi mei 10 kya cheezein karna chahte ho, uski list banao.\n",
+	"introduction_key7": "Ab iss ko ek `python` mei `variables` mei store karne ki koshish karo\n\n\n",
+	"introduction_key8": "Aise aap ko bahut baari, `information` ek `list`  ki form mei milegi. Jaise \n",
+	"introduction_key9": "Groceries ki list jo aapko khareedni hai\n",
+	"introduction_key10": "Courses ki list jo aapko NavGurukul mei karne\n",
+	"introduction_key11": "Questions ki list jo aapko kisi course mei karne hai\n",
+	"introduction_key12": "Kuch acchi habits ki list jo aap ko acche se program karne mei help kar sakti\n",
+	"introduction_key13": "Kuch companies ki list jaha aap job karna chahte hai\n",
+	"introduction_key14": "Aapke campus mei students ki list\n",
+	"introduction_key15": "Council members ki list\n\n\n",
+	"introduction_key16": "etc.\n",
+	"introduction_key17": "Hum aage dekhenge ki `lists` kitna useful `data type` ya `data structure` hai.\n"
+}

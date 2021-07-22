@@ -1,0 +1,7 @@
+{
+	"scope-intro_key1": "name: Mera code kahan raj karta hai aur kahan nahi?\n",
+	"scope-intro_key2": "Defining `variables` inside/outside functions. How does it change?\n\n\n",
+	"scope-intro_key3": "var taskListGlobal = ['Teach students', 'Cook Food', 'Study', 'Give interview'];\n",
+	"scope-intro_key4": "function printList() {\n        var taskListLocal = ['Drink milk', 'Drink water'];\n        //taskListGlobal accessible\n        for (var i = 0 ; i < taskListGlobal.length; i++) {\n                console.log(taskListGlobal[i]);\n        }        \n}\nprintList()\n",
+	"scope-intro_key5": "//taskListLocal not accessible \n//This will throw `error`: Uncaught Reference`Error`: taskListLocal is not defined\nfor (var i = 0 ; i < taskListLocal.length; i++) {\n        console.log(taskListLocal[i]);\n}\n"
+}

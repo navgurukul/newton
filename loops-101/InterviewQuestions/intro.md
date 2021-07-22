@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Interview Questions
-submission_type: url
+
 ```
 
 ## Interview Questions

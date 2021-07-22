@@ -1,0 +1,22 @@
+{
+	"setting-the-font-style-of-cells_key1": "name: setting-the-font-style-of-cells\n",
+	"setting-the-font-style-of-cells_key2": "# Setting the Font Style of Cells\n\n",
+	"setting-the-font-style-of-cells_key3": "Styling certain cells, rows, or columns can help you emphasize important areas in your spreadsheet. In the produce spreadsheet, for example, your program could apply bold text to the potato, garlic, and parsnip rows. Or perhaps you want to italicize every row with a cost per pound greater than $5. Styling parts of a large spreadsheet by hand would be tedious, but your programs can do it instantly.\n",
+	"setting-the-font-style-of-cells_key4": "To customize font styles in cells, important, import the Font() function from the openpyxl.styles module.\n",
+	"setting-the-font-style-of-cells_key5": "from openpyxl.styles import Font\nThis allows you to type Font() instead of openpyxl.styles.Font(). (See Importing Modules to review this style of import `statement`.)\n",
+	"setting-the-font-style-of-cells_key6": "Here’s an example that creates a new workbook and sets cell A1 to have a 24-point, italicized font. Enter the following into the interactive `shell`:\n",
+	"setting-the-font-style-of-cells_key7": "A cell’s style can be set by assigning the Font object to the style attribute.\n",
+	"setting-the-font-style-of-cells_key8": "In this example, Font(size=24, italic=`True`) returns a Font object, which is stored in italic24Font ❶. The `key`word arguments to Font(), size and italic, configure the Font object. And when fontObj is assigned to the cell’s font attribute ❷, all that font styling information gets applied to cell A1.\n",
+	"setting-the-font-style-of-cells_key9": "# Font Objects\n\n",
+	"setting-the-font-style-of-cells_key10": "To set font style attributes, you pass `key`word arguments to Font(). `Tab`le 12-2 shows the possible `key`word arguments for the Font() function.\n",
+	"setting-the-font-style-of-cells_key11": "`Tab`le 12-2. `Key`word Arguments for Font style Attributes\n",
+	"setting-the-font-style-of-cells_key12": "`Key`word argument                 Data type                        Description\n",
+	"setting-the-font-style-of-cells_key13": "name                             `String`                   The font name, such as 'Calibri' or 'Times New Roman'\n",
+	"setting-the-font-style-of-cells_key14": "size                             `Integer`                  The point size\n",
+	"setting-the-font-style-of-cells_key15": "bold                             Boolean                  `True`, for bold font\n",
+	"setting-the-font-style-of-cells_key16": "italic                           Boolean                  `True`, for italic font\n",
+	"setting-the-font-style-of-cells_key17": "You can call Font() to create a Font object and store that Font object in a `variable`. You then pass that to Style(), store the resulting Style object in a `variable`, and assign that `variable` to a Cell object’s style attribute. For example, this `code` creates various font styles:\n",
+	"setting-the-font-style-of-cells_key18": "Here, we store a Font object in fontObj1 and then set the A1 Cell object’s font attribute to fontObj1. We repeat the process with another Font object to set the style of a second cell. After you run this `code`, the styles of the A1 and B3 cells in the spreadsheet will be set to custom font styles, as shown in Figure 12-4.\n",
+	"setting-the-font-style-of-cells_key19": " -->\nFigure 12-4. A spreadsheet with custom font styles\n",
+	"setting-the-font-style-of-cells_key20": "For cell A1, we set the font name to 'Times New Roman' and set bold to `true`, so our text appears in bold Times New Roman. We didn’t specify a size, so the openpyxl default, 11, is used. In cell B3, our text is italic, with a size of 24; we didn’t specify a font name, so the openpyxl default, Calibri, is used.\n"
+}

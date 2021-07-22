@@ -1,0 +1,11 @@
+{
+	"StagingArea_key1": "name: Staging Area and difference\n",
+	"StagingArea_key2": "Apne `file` ko **git add** karte hi aapki `file` ki ek copy staging area mein ban jaati hai.\n",
+	"StagingArea_key3": "Aap abhi bhi Working directory mein apne `file` mein changes kar sakte hain. Apne txt `file` jisme aapne story ki beginning likhi hai -usme kuch edits kijye - maybe characters ke naam change kijiye.\n",
+	"StagingArea_key4": "`Terminal` mein apne directory mein navigate karke:\n",
+	"StagingArea_key5": "ye command run kijiye.\n",
+	"StagingArea_key6": "`Output` mein aap apne naye `file` aur purane `file` mein difference yani kya kya changes hue hai wo dekh payenge.\n",
+	"StagingArea_key7": "**Assignment**\n",
+	"StagingArea_key8": "Git ke documentation mein **git diff** ke baare mein padhiye.\n\n",
+	"StagingArea_key9": "Usi directory mein koi doosra `file` create kijiye. \nFir usey staging area mein add kijiye. \ngit command se apne directory ke *tracked* aur *untracked* `files` ka status dekhiye. \nIss `file` mein kuch changes kar ke **git diff** command run kijiye.\nWapas se git status run karke `output` dekhiye.\nApne working directory ke edited `file` ko wapas se Staging area mein add kijiye. \"git diff\" command run karke wapas se staging area aur working directory ke `files` ke beech ka difference dekhiye. Ideally abhi koi difference nahi hona chahiye.\n"
+}

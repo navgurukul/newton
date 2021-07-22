@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Iteration
-submission_type: url
+
 ```
 
 ## Iterate through all keys:-

@@ -1,0 +1,21 @@
+{
+	"connecting-to-an-imap-server_key1": "name:  connecting-to-an-imap-server\n",
+	"connecting-to-an-imap-server_key2": "# Connecting to an IMAP Server\n\n",
+	"connecting-to-an-imap-server_key3": "Just like you needed an SMTP object to connect to an SMTP server and send email, you need an IMAPClient object to connect to an IMAP server and receive email. First you’ll need the domain name of your email provider’s IMAP server. This will be different from the SMTP server’s domain name. `Tab`le 16-2 lists the IMAP servers for several popular email providers.\n",
+	"connecting-to-an-imap-server_key4": "`Tab`le 16-2. Email Providers and Their IMAP Servers\n",
+	"connecting-to-an-imap-server_key5": "Provider                                 IMAP server domain name\n",
+	"connecting-to-an-imap-server_key6": "Gmail                                     imap.gmail.com\n",
+	"connecting-to-an-imap-server_key7": "Outlook.com/Hotmail.com                 imap-mail.outlook.com\n",
+	"connecting-to-an-imap-server_key8": "Yahoo Mail                                 imap.mail.yahoo.com\n",
+	"connecting-to-an-imap-server_key9": "AT&T                                     imap.mail.att.net\n",
+	"connecting-to-an-imap-server_key10": "Comcast                                    imap.comcast.net\n",
+	"connecting-to-an-imap-server_key11": "Verizon                                    incoming.verizon.net\n",
+	"connecting-to-an-imap-server_key12": "Once you have the domain name of the IMAP server, call the imapclient.IMAPClient() function to create an IMAPClient object. Most email providers require SSL encryption, so pass the ssl=`True` `key`word argument. Enter the following into the interactive `shell` (using your provider’s domain name):\n",
+	"connecting-to-an-imap-server_key13": "In all of the interactive `shell` examples in the following sections, the imapObj `variable` will contain an IMAPClient object returned from the imapclient.IMAPClient() function. In this context, a client is the object that connects to the server.\n",
+	"connecting-to-an-imap-server_key14": "# Logging in to the IMAP Server\n\n",
+	"connecting-to-an-imap-server_key15": "Once you have an IMAPClient object, call its login() method, passing in the username (this is usually your email address) and password as `strings`.\n",
+	"connecting-to-an-imap-server_key16": "'<span><a href=\"my_email_address@gmail.com\">my_email_address@gmail.com</a></span> Jane Doe authenticated (Success)'\n",
+	"connecting-to-an-imap-server_key17": "## Warning\n\n",
+	"connecting-to-an-imap-server_key18": "Remember, never write a password directly into your `code`! Instead, design your program to accept the password returned from `input`().\n",
+	"connecting-to-an-imap-server_key19": "If the IMAP server rejects this username/password combination, `Python` will raise an imaplib.`error` exception. For Gmail accounts, you may need to use an `application`-specific password; for more details, see Gmail’s `Application`-Specific Passwords.\n"
+}

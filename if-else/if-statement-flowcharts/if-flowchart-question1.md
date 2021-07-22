@@ -1,6 +1,6 @@
 ```ngMeta
 name: If Statement Question 1
-submission_type: url
+
 ```
 
 **In the next few questions, complete the flowchart based on the instructions given. Do not focus on the colors of the flowchart.**

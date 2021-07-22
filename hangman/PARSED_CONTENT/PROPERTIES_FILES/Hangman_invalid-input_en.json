@@ -1,0 +1,16 @@
+{
+	"invalid-input_key1": "submission_type:url\n",
+	"invalid-input_key2": "# Invalid `Inputs`\n\n\n",
+	"invalid-input_key3": "Aapko yeh check karna hai ki user no jo `input` daala hai, woh valid hai ya nahi. Iske liye aapko yeh dekhna hai ki jo user ne `input` daala hai,\n",
+	"invalid-input_key4": "usmei agar ek se jyada `letters` hai toh, woh `input` invalid hai\n",
+	"invalid-input_key5": "undefined\n",
+	"invalid-input_key6": "## Hint\n\n",
+	"invalid-input_key7": "Aapko user se `input` receive karne ke baad check karna hai ki `input` valid hai ya nahi\n",
+	"invalid-input_key8": "Check karne ke liye aap user ke `input` ki length check kar sakte hai\n",
+	"invalid-input_key9": "Agar `input` valid hai toh sab accha hai\n",
+	"invalid-input_key10": "Par agar `input` invalid hai toh aap `loop` ko wapis se continue karo aur dobara user `input` lo\n\n\n",
+	"invalid-input_key11": "## Solution Video\n\n\n",
+	"invalid-input_key12": "## Solution\n\n\n",
+	"invalid-input_key13": "..................... in the hangman function ............................\n...\n...\n...\n",
+	"invalid-input_key14": "...\n...\n...\n"
+}

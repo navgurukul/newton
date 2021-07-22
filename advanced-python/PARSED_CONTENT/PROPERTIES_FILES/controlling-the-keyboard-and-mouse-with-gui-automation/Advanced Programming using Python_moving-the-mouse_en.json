@@ -1,0 +1,13 @@
+{
+	"moving-the-mouse_key1": "name: moving-the-mouse\n",
+	"moving-the-mouse_key2": "# Moving the Mouse\n\n",
+	"moving-the-mouse_key3": "Now that you understand screen coordinates, let’s move the mouse. The pyautogui.moveTo() function will instantly move the mouse cursor to a specified position on the screen. `Integer` values for the x- and y-coordinates make up the function’s first and second arguments, respectively. An optional duration `integer` or `float` `key`word argument specifies the number of seconds it should take to move the mouse to the destination. If you leave it out, the default is 0 for instantaneous movement. (All of the duration `key`word arguments in PyAutoGUI functions are optional.) Enter the following into the interactive `shell`:\n",
+	"moving-the-mouse_key4": "This example moves the mouse cursor clockwise in a square pattern among the four coordinates provided a total of ten times. Each movement takes a quarter of a second, as specified by the duration=0.25 `key`word argument. If you hadn’t passed a third argument to any of the pyautogui.moveTo() calls, the mouse cursor would have instantly teleported from point to point.\n",
+	"moving-the-mouse_key5": "The pyautogui.moveRel() function moves the mouse cursor relative to its current position. The following example moves the mouse in the same square pattern, except it begins the square from wherever the mouse happens to be on the screen when the `code` starts running:\n",
+	"moving-the-mouse_key6": "pyautogui.moveRel() also takes three arguments: how many pixels to move horizontally to the right, how many pixels to move vertically downward, and (optionally) how long it should take to complete the movement. A negative `integer` for the first or second argument will cause the mouse to move left or upward, respectively.\n",
+	"moving-the-mouse_key7": "# Getting the Mouse Position\n\n",
+	"moving-the-mouse_key8": "You can determine the mouse’s current position by calling the pyautogui.position() function, which will return a tuple of the mouse cursor’s x and y positions at the time of the function call. Enter the following into the interactive `shell`, moving the mouse around after each call:\n",
+	"moving-the-mouse_key9": "(311, 622)\n",
+	"moving-the-mouse_key10": "(377, 481)\n",
+	"moving-the-mouse_key11": "(1536, 637)\nOf course, your return values will vary depending on where your mouse cursor is.\n"
+}

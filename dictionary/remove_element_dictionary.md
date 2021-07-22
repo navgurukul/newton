@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Removing Elements from a Dictionary
-submission_type: url
+
 ```
    	 
 ## Removing Elements from a Dictionary:-

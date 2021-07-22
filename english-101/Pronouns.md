@@ -1,6 +1,6 @@
 
 ```ngMeta
-submission_type: url
+
 ```
 The word that is used in place of nouns is called Pronoun. ( Noun के बदले आए हुए शब्द को pronoun कहते है। )
 

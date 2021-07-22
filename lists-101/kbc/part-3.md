@@ -1,6 +1,6 @@
 ```ngMeta
 name: Loop the List
-submission_type: url
+
 ```
 
 ## Loop the List

@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type:url
+
 ```
 ## Lots of Words
 Abhi sirf teen-chaar words mei se ek word user ko de diya jaata hai. (Check `words.py`)

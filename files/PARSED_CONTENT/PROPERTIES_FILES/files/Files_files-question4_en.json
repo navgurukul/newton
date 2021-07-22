@@ -1,0 +1,9 @@
+{
+	"files-question4_key1": "name: Question 4\nsubmission_type: url\n",
+	"files-question4_key2": "Iss text ko `question3.txt` ke naam ki `file` mein `save` karo.\n",
+	"files-question4_key3": "Iss `file` mein dhyaan se dekhoge toh ek insaan ka naam aur ek sheher ka naam milegaYeh sheher woh sheher hai jisme woh insaaan rehta hai. Ab aapne ek aisa `code` likhna hai jo:\n",
+	"files-question4_key4": "Delhi mein rehne waale logon ko ek alag `file` mein daale. Delhi waali `file` ka naam \"delhi.txt\" hona chaiye.\n",
+	"files-question4_key5": "Shimla mein rehne waale logon ko ek alag `file` mein daale. Shimla waali `file` na naam \"shimla.txt\" hona chaiye\n",
+	"files-question4_key6": "Aur saare log jo delhi aur shimla mein nahi rehte, unko ek alag `file` mein daale. Iss `file` ka naam \"others.txt\" hona chaiye\n\n\n",
+	"files-question4_key7": "**Aapko aisa `code` likhna hai, jo aisi `file` mein kitni bhi lines pe chal paye.**\n"
+}

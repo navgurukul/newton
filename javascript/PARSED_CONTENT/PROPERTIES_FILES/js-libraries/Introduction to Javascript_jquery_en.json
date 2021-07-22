@@ -1,0 +1,22 @@
+{
+	"jquery_key1": "name: Jquery\n",
+	"jquery_key2": "# Part I  fun with jquery\n\n\n",
+	"jquery_key3": "Jquery ek javascript ki library hai, jiss ki help se hum javascript ka `code` easily aur kam lines mein likh sakte hai.\n\n",
+	"jquery_key4": "Jquery ko apne page mein use karne ke liye page ke head tag mein ye likhe:\n\n",
+	"jquery_key5": "https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js\n",
+	"jquery_key6": "Hum jquery ka `code` likhne ke liye \"$\" symbol ka use karte hai. Generally, `code` aise likha jata hai,\n   _$(\"css_selector\").property_ka_naam(uske_`inputs`);_\n\n",
+	"jquery_key7": "Jaise:\n\n",
+	"jquery_key8": "JavaScript mein,\n\n\n",
+	"jquery_key9": "_var body=document.getElementById(\"#page\");_\n",
+	"jquery_key10": "_body.style.backgroundColor=\"blue\";_\n",
+	"jquery_key11": "Magar Jquery mein,\n\n\n",
+	"jquery_key12": "_$(‘#page’).css({ \"backgroundColor\":\"blue\" });_\n",
+	"jquery_key13": "# Bloody Nasreen with Jquery\n\n\n",
+	"jquery_key14": "Ab hum bloody nasreen ke project ki  \"**teen**\" assignments ko jQuery se karenge.\n\n",
+	"jquery_key15": "link](http://www.jquery-tutorial.net/introduction/the-ready-event/)\n",
+	"jquery_key16": "link](http://www.jquery-tutorial.net/introduction/the-ready-event/) use kare.\n\n",
+	"jquery_key17": "link](http://www.jquery-tutorial.net/events/introduction/) use kare.\n",
+	"jquery_key18": "**$(\"#page\").attr(\"src\",\"xyz.png\");**     _// aise hum ek attribute ki value change karte hai._\n\n",
+	"jquery_key19": "**$(\"#page\").css(\"property_ka_naam\")**    _// aise humein ek property ki value milti hai._\n",
+	"jquery_key20": "Link1](http://`code`pen.io/navgurukul/full/ggG\n"
+}

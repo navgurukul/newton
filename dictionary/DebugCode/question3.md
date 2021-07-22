@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 3
-submission_type: url
+
 ```
 
 Niche ek program hai jisme keys 1 se lekar 15 ke beech main hai aur values keys ka square hai jaise ki.

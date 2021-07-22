@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Debug the Code
-submission_type: url
+
 ```
 ## Debug Code
 

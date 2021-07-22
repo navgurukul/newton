@@ -1,0 +1,11 @@
+{
+	"Task-2-2_key1": "name: Day-1-Task-2-2\n",
+	"Task-2-2_key2": "### Reading Material\n\n",
+	"Task-2-2_key3": "Joh number 2 se **divisible** hote hai woh *even number* kehlate hai.\n",
+	"Task-2-2_key4": "### Question\n\n",
+	"Task-2-2_key5": "Apko ish task meh koi bi ek number diya jayega uske piche ke 3 **even** number nikalo.\nJab yeh nikal jaye toh uske aage ke 3 **odd** number nikalo.\n",
+	"Task-2-2_key6": "### Test\n\n",
+	"Task-2-2_key7": "#### Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n\n\n\n",
+	"Task-2-2_key8": "### Hint  \n\n",
+	"Task-2-2_key9": "Apko ishme 2 while `loop` lagenge.\n"
+}

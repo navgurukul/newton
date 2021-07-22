@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 3
-submission_type: url
+
 ```
 
 You have a variable called `number` with the value as shown:

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 4
-submission_type: url
+
 ```
 
 Q4.Python dictionary(sort by key) object ko json data ::mai convert karne ka program likho?

@@ -13,7 +13,7 @@
 	"ipython_key12": "Now after coming outside type `cd Downloads` and then type  `ls` you will be able to see whatever is present in  Downloads .\n",
 	"ipython_key13": "You cannot change your **folder** by using normal **`python` `shell`** .For that you need to come out of the  **`python` `shell`**.But you can easily change the **folder** inside these `python` `shell` so that you don't need to come out of the **`iPython` `shell`** .\n",
 	"ipython_key14": "And when you will type in **`python` `shell`**.\n",
-	"ipython_key15": "Then note that the cursor (**|**) comes without any space after this '...' .\nBut if you will type it in **`iPython` `shell`** then it will show like this.\n",
+	"ipython_key15": "Then note that the cursor (**|**) comes without any space after this `...` .\nBut if you will type it in **`iPython` `shell`** then it will show like this.\n",
 	"ipython_key16": "Then you will see that the cursor(**|**) comes after some spaces.\nWe call this as **`Indentation`** . When you will write the `code` for the first time **50% `error`** will be there because of lack of **`Indentation`** .\nHence ,`iPython` makes the life of an engineer very easy by providing extra features.\n",
 	"ipython_key17": "When `iPython` opens you can write  `code` in it.If you are copy pasting the `code` from somewhere then press `Ctrl + C` to copy paste and open `iPython` and type `%paste` for pasting the `code`.\n",
 	"ipython_key18": "## Very Important Rules\n\n",

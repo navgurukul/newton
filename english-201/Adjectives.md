@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type: url
+
 ```
 
 An adjective is a word that describes, identifies, modifies, or quantifies something (a noun or a

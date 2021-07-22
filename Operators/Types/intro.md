@@ -1,6 +1,6 @@
 ```ngMeta
 name: Types 
-submission_type: url
+
 ```
 
 ### TYPE OF OPERATORS

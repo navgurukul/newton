@@ -1,0 +1,16 @@
+{
+	"Task-1_key1": "name: Day-2-Task-1\n",
+	"Task-1_key2": "### Reading Material\n\n\n",
+	"Task-1_key3": "#### Indexing\n\n",
+	"Task-1_key4": "Ek *List or Array* har ek value ki ek position hoti jiske through hume pata chalta ha ki konsi value konse position meh hai ish position of **index** kehte hai.\n`a = [1,2,3,1,4,5]` yeh *List* hai jahan ab hum agar likhe `a[1]` toh yeh `2` dega.\n",
+	"Task-1_key5": "Ek *List* ki indexing `0` se start hoti hai aur ushme jitne **elements** hote ushe `1` kaam tak chalti hai.\n",
+	"Task-1_key6": "**Indexing** *`String`* meh bi hoti hai.\n`a = 'something'` jahan agar app `a[1]` toh yeh apko `o` dega.\n",
+	"Task-1_key7": "#### `String` Concatination\n\n\n",
+	"Task-1_key8": "2 `String` ko johrne ko **`String` Concatination** kehte hai.\n",
+	"Task-1_key9": "### Question\n\n",
+	"Task-1_key10": "Apko ek *`string`* di jayegi jahan apko *`string`* ke phele 2 aur akhir ke 2 **letters** *print* karwana hai lekin agar woh *`string`* meh 2 se kaam **letters** hai toh kuch bi nhi *print* hoga.\n",
+	"Task-1_key11": "### Test\n\n",
+	"Task-1_key12": "#### Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n\n\n\n",
+	"Task-1_key13": "### Hint\n\n",
+	"Task-1_key14": "No Hints\n"
+}

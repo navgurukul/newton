@@ -1,0 +1,12 @@
+{
+	"Undefined_key1": "name: Undefined\n",
+	"Undefined_key2": "## Undefined\n\n\n\n",
+	"Undefined_key3": "**Example:**\n",
+	"Undefined_key4": "`variable` a is just declared and not assigned any value in it, whenever you will try to print before assigning a vlaue you will get undefined.\n",
+	"Undefined_key5": "`variable` b is declared and assigned a value i.e., Hello World!\n",
+	"Undefined_key6": "The **undefined** data type can only have one value-the special value undefined. If a `variable` has been declared, but has not been assigned a value, has the value undefined.\n",
+	"Undefined_key7": "**Exercises:**\n",
+	"Undefined_key8": "Write a program that prints undefined when I print with its `variable` name?\n\n\n",
+	"Undefined_key9": "What is the `output` of the following `code`?\n\n\n",
+	"Undefined_key10": "What is the `error` in the following `code`?\n"
+}

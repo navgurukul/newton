@@ -1,6 +1,6 @@
 ```ngMeta
 name: Methods
-submission_type: url
+
 ```
 
 

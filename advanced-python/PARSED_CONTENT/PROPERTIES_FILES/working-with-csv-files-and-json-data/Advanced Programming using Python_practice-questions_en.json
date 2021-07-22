@@ -1,0 +1,18 @@
+{
+	"practice-questions_key1": "name: practice-questions\n",
+	"practice-questions_key2": "# Practice Questions\n\n\n",
+	"practice-questions_key3": "Q:\n",
+	"practice-questions_key4": "What are some features Excel spreadsheets have that CSV spreadsheets don’t?\n\n\n",
+	"practice-questions_key5": "Q:\n",
+	"practice-questions_key6": "What do you pass to csv.reader() and csv.writer() to create Reader and Writer objects?\n\n\n",
+	"practice-questions_key7": "Q:\n",
+	"practice-questions_key8": "What modes do `File` objects for reader and Writer objects need to be opened in?\n\n\n",
+	"practice-questions_key9": "Q:\n",
+	"practice-questions_key10": "What method takes a list argument and writes it to a CSV `file`?\n\n\n",
+	"practice-questions_key11": "Q:\n",
+	"practice-questions_key12": "What do the delimiter and lineterminator `key`word arguments do?\n\n\n",
+	"practice-questions_key13": "Q:\n",
+	"practice-questions_key14": "What function takes a `string` of JSON data and returns a `Python` data structure?\n\n\n",
+	"practice-questions_key15": "Q:\n",
+	"practice-questions_key16": "What function takes a `Python` data structure and returns a `string` of JSON data?\n"
+}

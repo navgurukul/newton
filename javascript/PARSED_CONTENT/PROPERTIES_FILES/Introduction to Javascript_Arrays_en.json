@@ -1,0 +1,23 @@
+{
+	"Arrays_key1": "name: Arrays\n",
+	"Arrays_key2": "# Arrays\n\n\n",
+	"Arrays_key3": "Humne javascript mein `variable` ka use dekha. `Variable` ko ek naam dekar hum usme koi value store kar sakte hain.\n",
+	"Arrays_key4": "Agar javascript ko use karke aapko ek grocery list banani hai, toh humara approach kuch aisa ho sakta hai:\n",
+	"Arrays_key5": "Aapko realize hoga ki ye bahut tiring hain. Hume iske liye bahut saare `variables` chahiye. Har naye item ke liye hume ek naya `variable` add karna padega.\n",
+	"Arrays_key6": "Javascript mein aise lists banane ka ek aasan tareeka hai. Ise hum **Arrays** kehte hain.\n",
+	"Arrays_key7": "Arrays ko use karke aap bus ek `variable` declare karte hain aur uske andar sare items ki list dal sakte hain.\n",
+	"Arrays_key8": "Iss ek groceryList `variable` mein bahut saare values ki list stored hai. Agar hume pehle item ko access karna hai toh woh hum groceryList ke aage uska number(index) laga ke karte hai:\n",
+	"Arrays_key9": "*Hint*: Javascript mein counting hamesha 0 se shuru hoti hai. Toh pehla item 0 pe hai, doosra item 1 pe, teesra item 2 pe and so on.\n",
+	"Arrays_key10": "Iss `code` ka `output` kya hona chahiye?\n",
+	"Arrays_key11": "Javascript mein Arrays ke paas kuch pre-defined methods hote hain, jinka use aap kar sakte ho.\nJaise agar aapko apne groceryList mein koi naya item add karna hai toh .push() method ka use kar sakte hain.\n",
+	"Arrays_key12": "Isse aapke groceryList mein \"Biscuits\" item add ho jayega. Console par array ko print karke dekhiye ki array kahan add hua.\n",
+	"Arrays_key13": "Aise hi, last item ko hatane ke liye\n",
+	"Arrays_key14": "Isse aaple list ka last item hat jayega.\n",
+	"Arrays_key15": "Array ke pre-defined methods ke baare mein aur janne ke liye aap\n",
+	"Arrays_key16": "yahan\n",
+	"Arrays_key17": "se padh sakte hain.\nArrays ke pre-defined methods .foreach() and .map() ko specially dhyan se padhiye aur practice kijiye.\n",
+	"Arrays_key18": "**Homework:**\n",
+	"Arrays_key19": "Ek chota sa To-do `application` banaiye jisme aap user se action item mang kar usey apne `application` mein display kar rahe hain.\n",
+	"Arrays_key20": "User chahe toh apne action item ko check kar sakta hai ya delete bhi kar sakta hai.\n",
+	"Arrays_key21": "Iss `application` ko banane ke liye aapko forms, arrays aur functions ke concepts use karne par sakte hain.\n"
+}

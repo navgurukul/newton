@@ -1,0 +1,14 @@
+{
+	"writer-objects_key1": "name: writer-objects\n",
+	"writer-objects_key2": "# Writer Objects\n\n",
+	"writer-objects_key3": "A Writer object lets you write data to a CSV `file`. To create a Writer object, you use the csv.writer() function. Enter the following into the interactive `shell`:\n",
+	"writer-objects_key4": "   21\n",
+	"writer-objects_key5": "   32\n",
+	"writer-objects_key6": "   16\n",
+	"writer-objects_key7": "First, call open() and pass it 'w' to open a `file` in write mode ❶. This will create the object you can then pass to csv.writer() ❷ to create a Writer object.\n",
+	"writer-objects_key8": "On Windows, you’ll also need to pass a blank `string` for the open() function’s newline `key`word argument. For technical reasons beyond the scope of this book, if you forget to set the newline argument, the rows in `output`.csv will be double-spaced, as shown in Figure 14-1.\n",
+	"writer-objects_key9": " -->\nFigure 14-1. If you forget the newline='' `key`word argument in open(), the CSV `file` will be double-spaced.\n",
+	"writer-objects_key10": "The writerow() method for Writer objects takes a list argument. Each value in the list is placed in its own cell in the `output` CSV `file`. The return value of writerow() is the number of characters written to the `file` for that row (including newline characters).\n",
+	"writer-objects_key11": "This `code` produces an `output`.csv `file` that looks like this:\n",
+	"writer-objects_key12": "spam,eggs,bacon,ham\n\"Hello, world!\",eggs,bacon,ham\n1,2,3.141592,4\nNotice how the Writer object automatically escapes the comma in the value 'Hello, world!' with double quotes in the CSV `file`. The csv module `saves` you from having to handle these special cases yourself.\n"
+}

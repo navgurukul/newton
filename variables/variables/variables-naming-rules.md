@@ -1,6 +1,6 @@
 ```ngMeta
 name: Variable Naming Rules
-submission_type: url
+
 ```
 
 # Rules for naming a VARIABLE 

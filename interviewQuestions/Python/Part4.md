@@ -1,6 +1,6 @@
 ```ngMeta
 name: Functions questions
-submission_type: url
+
 ```
 
 1. Why do we write functions?

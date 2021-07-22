@@ -1,0 +1,19 @@
+{
+	"AssignmentOperators_key1": "name: Assignment Operators\n",
+	"AssignmentOperators_key2": "# Assignment `Operators`\n\n\n",
+	"AssignmentOperators_key3": "*\"=\"* sign ke use se hum right side wale value ko left side wale `variable` mein assign kar sakte hain.\n",
+	"AssignmentOperators_key4": "*\"+=\"* bhi ek assignment `operator` hai.\n",
+	"AssignmentOperators_key5": "aur\n",
+	"AssignmentOperators_key6": "ye dono `code` ek hi kaam karte hain.\n",
+	"AssignmentOperators_key7": "Javascript mein ye assignment ye assignment `operators` hote hain:\n",
+	"AssignmentOperators_key8": "=\n",
+	"AssignmentOperators_key9": "+=\n",
+	"AssignmentOperators_key10": "-=\n",
+	"AssignmentOperators_key11": "*=\n",
+	"AssignmentOperators_key12": "/=\n\n\n",
+	"AssignmentOperators_key13": "Inke bare mein aap\n",
+	"AssignmentOperators_key14": "yahan\n",
+	"AssignmentOperators_key15": "se aur padh sakte hain.\n",
+	"AssignmentOperators_key16": "**Homework**\n",
+	"AssignmentOperators_key17": "Javascript mein diye hue assignment `operators` ke saath console pe experiment karo\n"
+}

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Operators 
-submission_type: url
+
 ```
 
 Operators ka use hum value or variable ke beech operation perform karwane ke liye karte hai.

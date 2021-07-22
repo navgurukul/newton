@@ -1,0 +1,11 @@
+{
+	"Question9_key1": "name: Question 9\nsubmission_type: url\n",
+	"Question9_key2": "Q.9 Apki pass ek shopping name ki ek dictionary hai\n",
+	"Question9_key3": "Apki dictionary ka use kar ke ek json `file` create karna hai.\nAur apko kuch task perform karne hai jaise ki \n",
+	"Question9_key4": "main dekhna chahta hu shopping list ko json `file` dekhna.\n\n",
+	"Question9_key5": "phir main user se poochu ga ki kon sa item khareedna chahte ho.\n",
+	"Question9_key6": "uske baad user name dega phir user se `input` poochege jaise ki tum kitne item chahte ho.\n\n",
+	"Question9_key7": "phir aapka wo number of items json `file` se remove karna hai.\n\n",
+	"Question9_key8": "Agar tumhe shopping items add karna hai to tumko json `file` main insert karna hoga.\n\n\n\n\n\n",
+	"Question9_key9": "`Output:-`\n"
+}

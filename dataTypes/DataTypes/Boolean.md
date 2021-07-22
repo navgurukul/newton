@@ -1,6 +1,6 @@
 ﻿```ngMeta
 name: Boolean Data Type
-submission_type: url
+
 ```
 
 ### Boolean data type

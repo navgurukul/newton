@@ -1,0 +1,19 @@
+{
+	"connecting-to-an-smtp-server_key1": "name: connecting-to-an-smtp-server\n",
+	"connecting-to-an-smtp-server_key2": "# Connecting to an SMTP Server\n\n",
+	"connecting-to-an-smtp-server_key3": "If you’ve ever set up Thunderbird, Outlook, or another program to connect to your email account, you may be familiar with configuring the SMTP server and port. These settings will be different for each email provider, but a web search for <your provider> smtp settings should turn up the server and port to use.\n",
+	"connecting-to-an-smtp-server_key4": "The domain name for the SMTP server will usually be the name of your email provider’s domain name, with smtp. in front of it. For example, Gmail’s SMTP server is at smtp.gmail.com. `Tab`le 16-1 lists some common email providers and their SMTP servers. (The port is an `integer` value and will almost always be 587, which is used by the command encryption standard, TLS.)\n",
+	"connecting-to-an-smtp-server_key5": "`Tab`le 16-1. Email Providers and Their SMTP Servers\n",
+	"connecting-to-an-smtp-server_key6": "Provider                             SMTP server domain name\n",
+	"connecting-to-an-smtp-server_key7": "Gmail                                 smtp.gmail.com\n",
+	"connecting-to-an-smtp-server_key8": "Outlook.com/Hotmail.com             smtp-mail.outlook.com\n",
+	"connecting-to-an-smtp-server_key9": "Yahoo Mail                             smtp.mail.yahoo.com\n",
+	"connecting-to-an-smtp-server_key10": "AT&T                                 smpt.mail.att.net (port 465)\n",
+	"connecting-to-an-smtp-server_key11": "Comcast                             smtp.comcast.net\n",
+	"connecting-to-an-smtp-server_key12": "Verizon                                smtp.verizon.net (port 465)\n",
+	"connecting-to-an-smtp-server_key13": "Once you have the domain name and port information for your email provider, create an SMTP object by calling smptlib.SMTP(), passing the domain name as a `string` argument, and passing the port as an `integer` argument. The SMTP object represents a connection to an SMTP mail server and has methods for sending emails. For example, the following call creates an SMTP object for connecting to Gmail:\n",
+	"connecting-to-an-smtp-server_key14": "<class 'smtplib.SMTP'>\nEntering type(smtpObj) shows you that there’s an SMTP object stored in smtpObj. You’ll need this SMTP object in order to call the methods that log you in and send emails. If the smptlib.SMTP() call is not successful, your SMTP server might not support TLS on port 587. In this case, you will need to create an SMTP object using smtplib.SMTP_SSL() and port 465 instead.\n",
+	"connecting-to-an-smtp-server_key15": "# Note\n\n",
+	"connecting-to-an-smtp-server_key16": "If you are not connected to the Internet, `Python` will raise a socket.gai`error`: [Errno 11004] getaddrinfo failed or similar exception.\n",
+	"connecting-to-an-smtp-server_key17": "For your programs, the differences between TLS and SSL aren’t important. You only need to know which encryption standard your SMTP server uses so you know how to connect to it. In all of the interactive `shell` examples that follow, the smtpObj `variable` will contain an SMTP object returned by the smtplib.SMTP() or smtplib.SMTP_SSL() function.\n"
+}

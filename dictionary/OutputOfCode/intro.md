@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Code Output  
-submission_type: url
+
 ```
 
 ## Code Output 

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Data Structure questions
-submission_type: url
+
 ```
 
 

@@ -1,0 +1,11 @@
+{
+	"Task-4_key1": "name: Day-1-Task-4\n",
+	"Task-4_key2": "### Reading Material\n\n",
+	"Task-4_key3": "**Perfect Number** woh hota hai jiske sare factors ka agar sum kare toh wapas wahi number milta hai.\nJese 28 ek **Perfect Number** hai kyunki 28 ke factors hai.\n`1 2 4 7 14` jiska sum kare toh wapas 28 ajata hai.\n",
+	"Task-4_key4": "### Question\n\n",
+	"Task-4_key5": "Apko ish sawal me ek program likhna hai jishme ek value di jayegi manlo `1000` toh apko jitne bi number **Perfect Number** hai `0` se `1000` ke bich me ushe *print* karna ha.\n",
+	"Task-4_key6": "### Test\n\n",
+	"Task-4_key7": "#### Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n\n\n",
+	"Task-4_key8": "### Hint\n\n",
+	"Task-4_key9": "No Hints\n"
+}

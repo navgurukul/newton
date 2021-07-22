@@ -1,0 +1,18 @@
+{
+	"Type-Coercion_key1": "name: Type Coercion\n",
+	"Type-Coercion_key2": "**Example:**\n",
+	"Type-Coercion_key3": "**Explanation:**\n",
+	"Type-Coercion_key4": "> If you look at the `variable` result, you may think that this `variable` is trying to add a `string` (navgurukul) to a number (29). But that is not the case, because you cannot add a `string` to a number. JS in such circumstances, will convert the number 29 into the `string` “29” and will join (or concatenate) the two `strings`.\n\n",
+	"Type-Coercion_key5": "> Thus the `output` of result will be **navgurukul29**\n\n",
+	"Type-Coercion_key6": "> This auto converting of a value from one type to another — such as number to `string` — in JS is called Type Coercion.\n\n",
+	"Type-Coercion_key7": "**Example:**\n",
+	"Type-Coercion_key8": "**Explanation:**\n",
+	"Type-Coercion_key9": "> If you look at the `variable` result, you may think that this `variable` is trying to add a `string` (height) to a `float` (16.5). But that is not the case, because you cannot add a `string` to a number. JS in such circumstances, will convert the `float` 16.5 into the `string` “16.5” and will join (or concatenate) the two `strings`.\n\n",
+	"Type-Coercion_key10": "> Thus the `output` of result will be **height16.5**\n\n",
+	"Type-Coercion_key11": "> This auto converting of a value from one type to another — such as `float` to `string` — in JS is called Type Coercion.\n\n",
+	"Type-Coercion_key12": "**Example:** 1. What is the `output` of the following `code`?\n",
+	"Type-Coercion_key13": "**Explanation:**\n",
+	"Type-Coercion_key14": "**Example:** 2. What is the `error` in this program?\n",
+	"Type-Coercion_key15": "**Explanation:**\n",
+	"Type-Coercion_key16": "> There is no `error` in this following `code`. But it will return a\nNaN, when a number is divided by non `integer` so it is not able to solve the problem.\n"
+}

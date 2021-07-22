@@ -1,0 +1,15 @@
+{
+	"update_element_dictionary_key1": "name:   Update Dictionary\nsubmission_type: url\n",
+	"update_element_dictionary_key2": "## Updating Dictionary :-\n\n\n",
+	"update_element_dictionary_key3": "Hum dictionary ko update karne ke liye usme ek entry kar sakte hai ya fir `key`-value pair add kar sakte hai aur jo `key` pehle se present hai uski value change kar sakte hai. Jaisa ki niche example me dikhaya gaya hain.\n",
+	"update_element_dictionary_key4": "**Example 1:-**\n",
+	"update_element_dictionary_key5": "*`Output`:-*\n` {'1': 'RAM', '2': 17,'3':'male'}`\n",
+	"update_element_dictionary_key6": "**Example 2-**\n",
+	"update_element_dictionary_key7": "*`Output`:-*\n",
+	"update_element_dictionary_key8": "`{'Name': 'RAM', 'Age': 17, 'student': {'id': 35, 'place': 'dharamsala'}}`\n",
+	"update_element_dictionary_key9": "## Copy of Dictionary :- \n\n\n\n",
+	"update_element_dictionary_key10": "Hum dictionary ko 2 tarike se copy kar sakte hai,phela method *copy()* and second method by using built-in function dict().\n",
+	"update_element_dictionary_key11": "`Example 1 :-`\n",
+	"update_element_dictionary_key12": "`Ouput:-`\n",
+	"update_element_dictionary_key13": "`{'room2': '7th', 'room3': '8th', 'room1': '6th'`\n"
+}

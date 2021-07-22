@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 2
-submission_type: url
+
 ```
 
 You have a variable called `varx` with the value as shown:

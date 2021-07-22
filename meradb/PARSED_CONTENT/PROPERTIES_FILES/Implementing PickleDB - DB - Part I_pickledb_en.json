@@ -1,0 +1,15 @@
+{
+	"pickledb_key1": "## Pickle DB\n\n\n",
+	"pickledb_key2": "Iss exercise mei humei ek bahut sa simple sa da`tab`ase banana hai.\n",
+	"pickledb_key3": "Yeh\n",
+	"pickledb_key4": "padhein\n",
+	"pickledb_key5": ". Aise da\n",
+	"pickledb_key6": "ases ko\n",
+	"pickledb_key7": "-value store ya\n",
+	"pickledb_key8": "-value da\n",
+	"pickledb_key9": "ase bolte hai. Kyuki - yeh da\n",
+	"pickledb_key10": "ase aapko kisi bhi\n",
+	"pickledb_key11": "ke liye uske corresponding values return karte hai.\n",
+	"pickledb_key12": "Uss link par aapne yeh `code` padha hoga. Humein - sabse pehle yeh chaar commands implement karni hai - `load`, `set`, `get` and `dump`. Sabse pehle aap -\n",
+	"pickledb_key13": "`pickledb` khel kar, usmei kuch values insert karo, kuch values read karo, da`tab`ase dump kar kar `file` ke content dekho, etc. Aap ne kya kya commands try ki, neeche comment box mei likhiye.\n"
+}

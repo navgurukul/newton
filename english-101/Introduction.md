@@ -1,6 +1,6 @@
 ```ngMeta
 name: Introduction of Self
-submission_type: url
+
 ```
 
 ## Introduction of Self

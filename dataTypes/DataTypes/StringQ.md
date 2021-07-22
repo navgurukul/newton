@@ -1,6 +1,6 @@
 ```ngMeta
 name: Questions 
-submission_type: url
+
 ```
 
 ### Note: Please read about String Concatenation.

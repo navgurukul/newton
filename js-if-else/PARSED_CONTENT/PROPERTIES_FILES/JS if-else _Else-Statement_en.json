@@ -1,0 +1,10 @@
+{
+	"Else-Statement_key1": "name: Else statement\n",
+	"Else-Statement_key2": "> If any “ if ”  condition is `false` then an “else” `statement` comes into the picture.\n\n",
+	"Else-Statement_key3": "**Example**:\n",
+	"Else-Statement_key4": "**Explanation**: \n",
+	"Else-Statement_key5": "In this example if a condition is `false`. So, else `statement` will `execute`\n",
+	"Else-Statement_key6": "**Example**: Write a program to find the maximum between two numbers.\n",
+	"Else-Statement_key7": "**Explanation**:\n",
+	"Else-Statement_key8": "The condition that we given num1> num2  is `false` because num1 (10) is not greater than num2(20), So, if condition is `false` it will go to else condition and print the\nnum2 is greater than num1.\n"
+}

@@ -1,0 +1,15 @@
+{
+	"Booleans_key1": "name: Booleans\n",
+	"Booleans_key2": "# Booleans\n\n\n",
+	"Booleans_key3": "Aapne abhi tak 2 tarah ke data type padhe jo javascript mein use hote hain.\n",
+	"Booleans_key4": "*Numbers* aur *`Strings`*\n",
+	"Booleans_key5": "Aapne inko `variables` mein store karna bhi seekha.\n",
+	"Booleans_key6": "yahan par *myName* ne ek number aur *myAge* ne ek `string` data-type hold kiya hua hai.\n",
+	"Booleans_key7": "Javascript mein ek aur tarah ka data-type hota hai. jise hum *boolean* kehte hain. *boolean* data-type mein bas 2 hi values aa sakti hain : *`true`* ya *`false`*\n",
+	"Booleans_key8": "example:\n",
+	"Booleans_key9": "yahan pe *amIOld* aur *amIFat* `variables` ne boolean values *`true`* and *`false`* hold kar rakha hai.\n",
+	"Booleans_key10": "**Note**: Jo `variable` mein koi value assigned nahi hota hai, use Javascript *undefined* data-type de deti hai.\n",
+	"Booleans_key11": "**Homework**\n",
+	"Booleans_key12": "yahan](https://www.w3schools.com/js/js_datatypes.asp) par padho\n",
+	"Booleans_key13": "Boolean methods jo aapne pehle padha tha, use boolean objects par console mein try kar ke dekhe\n"
+}

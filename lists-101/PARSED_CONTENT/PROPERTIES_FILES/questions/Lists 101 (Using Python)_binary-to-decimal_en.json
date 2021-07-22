@@ -1,0 +1,12 @@
+{
+	"binary-to-decimal_key1": "submission_type: url\n",
+	"binary-to-decimal_key2": "## Binary to Decimal\n\n\n",
+	"binary-to-decimal_key3": "Iss program mei humein agar koi number **binary form** mei diya gaya hai, toh hum uski **decimal form** nikalna seekhenge.\n",
+	"binary-to-decimal_key4": "Jaise yeh diagram dekho.\n",
+	"binary-to-decimal_key5": "Iss number ko decimal form mei karne ke liye, hum\n",
+	"binary-to-decimal_key6": "Aise karne se uppar wali list ka answer **155** aayega.\n",
+	"binary-to-decimal_key7": "## Edge Case\n\n",
+	"binary-to-decimal_key8": "Aapka program iss case mei kya `output` deta hai? Aapke program agar **robust** hoga, toh bolega invalid `output`, nahi toh `error` throw karega.\n",
+	"binary-to-decimal_key9": "Aapka program iss case mei kya `output` deta hai?\nAapke program agar **robust** hoga\n",
+	"binary-to-decimal_key10": "Par **robust** nahi hoga, toh `error` throw karega.\n"
+}

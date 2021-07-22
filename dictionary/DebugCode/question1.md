@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 1 
-submission_type: url
+
 ```
 
  aapko ek dictionary di gai hai jisme aapko kuch key ki value print karani hai.

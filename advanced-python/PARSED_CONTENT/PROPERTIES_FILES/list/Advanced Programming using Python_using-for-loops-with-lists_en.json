@@ -1,0 +1,11 @@
+{
+	"using-for-loops-with-lists_key1": "name: using-for-loops-with-lists\n",
+	"using-for-loops-with-lists_key2": "# Using for `Loops` with Lists\n\n",
+	"using-for-loops-with-lists_key3": "In Chapter 2, you learned about using for `loops` to `execute` a block of `code` a certain number of times. Technically, a for `loop` repeats the `code` block once for each value in a list or list-like value. For example, if you ran this `code`:\n",
+	"using-for-loops-with-lists_key4": "the `output` of this program would be as follows:\n",
+	"using-for-loops-with-lists_key5": "0\n1\n2\n3\nThis is because the return value from range(4) is a list-like value that `Python` considers similar to [0, 1, 2, 3]. The following program has the same `output` as the previous one:\n",
+	"using-for-loops-with-lists_key6": "# Note\n\n",
+	"using-for-loops-with-lists_key7": "In this book, I use the term list-like to refer to data types that are technically named sequences. You don’t need to know the technical definitions of this term, though.\n",
+	"using-for-loops-with-lists_key8": "A common `Python` technique is to use range(len(someList)) with a for `loop` to iterate over the indexes of a list. For example, enter the following into the interactive `shell`:\n",
+	"using-for-loops-with-lists_key9": "Using range(len(supplies)) in the previously shown for `loop` is handy because the `code` in the `loop` can access the index (as the `variable` i) and the value at that index (as supplies[i]). Best of all, range(len(supplies)) will iterate through all the indexes of supplies, no matter how many items it contains.\n"
+}

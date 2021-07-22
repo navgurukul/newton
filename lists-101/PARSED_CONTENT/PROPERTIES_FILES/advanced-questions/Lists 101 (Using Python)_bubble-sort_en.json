@@ -1,0 +1,20 @@
+{
+	"bubble-sort_key1": "submission_type: url\n",
+	"bubble-sort_key2": "**Sorting** bahut hi important process hai jo aap ko programming mei baar baar encounter hoga. Sorting (Sort is the **root word**) ka matlab hai - kisi order mei arrange karna - jaise height se, weight se, marks se, naam se etc. \n",
+	"bubble-sort_key3": "Jaise:\n",
+	"bubble-sort_key4": "Kam marks se jyada marks (**Ascending Sort**)\n",
+	"bubble-sort_key5": "Alphabetically naam sort karna (**Chronological Ascending Sort**)\n",
+	"bubble-sort_key6": "Kam height se jyada height (**Ascending Sort**)\n",
+	"bubble-sort_key7": "Jyada weight se kam weight (**Descending Sort**)\n\n\n",
+	"bubble-sort_key8": "Bubble sort ek sort karne ka tareeka hai, jo kuch numbers ko leta hai, aur unko **ascending** ya **descending** order mei sort kar deta hai.\n",
+	"bubble-sort_key9": "### Understanding Bubble Sort\n\n\n",
+	"bubble-sort_key10": "Iss diagram ko dekhiye. Aap bubble sort ke baarein mei\n",
+	"bubble-sort_key11": "yahan\n",
+	"bubble-sort_key12": "se bhi padh sakte ho.\n",
+	"bubble-sort_key13": "1st and 2nd element ko compare karo\n- Agar bada wala element baad mei hai, toh kuch mat karo\n- Agar bada wala element pehle hai, toh swap kar do\n (**swap** matlab - **interchange** - yaani pehle element ko doosre se, aur doosre ko pehle se replace kar do)\n",
+	"bubble-sort_key14": "Aise hi ab 2nd aur 3rd elements ko compare and swap karo\n",
+	"bubble-sort_key15": "Aise hi karte chalo, isse. \n- Sabse bada wala element ek **iteration** ke baad sabse right mei pahuch jayega\n",
+	"bubble-sort_key16": "Yeh iterations jitne numbers hai, utni baar karo - isse array sort ho jayega\n\n\n",
+	"bubble-sort_key17": "Pehle aap yeh apni **notebook aur pen** use kar kar karo, isse aapki understanding improve hogi.\n",
+	"bubble-sort_key18": "Phir yeh **algorithm** aap `code` kar kar implement karo. Yeh ek mushkil question hai, agar ismei aap ko 4-5 ghante bhi lagte hai toh bhi theek hai.\n"
+}

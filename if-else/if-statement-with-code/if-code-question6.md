@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 6
-submission_type: url
+
 ```
 
 Draw a flowchart for this question and write the program.

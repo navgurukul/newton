@@ -1,0 +1,14 @@
+{
+	"Task-5_key1": "name: Day-2-Task-5\n",
+	"Task-5_key2": "### Reading Material\n\n",
+	"Task-5_key3": "None\n",
+	"Task-5_key4": "### Question\n\n",
+	"Task-5_key5": "Apko ek value di jayegi jese **10** toh apko **1-10** ke bich meh jitne bi number hai unke square ka sum nikalna hai aur uske baad **1-10** ke bich jitne number hai uske sum karke joh value aye uska square nikalna hai aur\ndusri value meh se pheli value gatani hai.\n",
+	"Task-5_key6": "`1<sup>2</sup>+2<sup>2</sup>+3<sup>2</sup>+4<sup>2</sup>+.....+10<sup>2</sup> = 385`\n",
+	"Task-5_key7": "`(1+2+3+4+...+10)<sup>2</sup> = 3025`\n",
+	"Task-5_key8": "`3025 - 385 = 2640`\n",
+	"Task-5_key9": "### Test\n\n",
+	"Task-5_key10": "#### Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n\n\n",
+	"Task-5_key11": "### Hint\n\n",
+	"Task-5_key12": "No Hints\n"
+}

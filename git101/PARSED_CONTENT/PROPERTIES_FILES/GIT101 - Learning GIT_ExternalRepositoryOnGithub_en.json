@@ -1,0 +1,10 @@
+{
+	"ExternalRepositoryOnGithub_key1": "name: Repository On GitHub\n",
+	"ExternalRepositoryOnGithub_key2": "Aapne abhi tak apne project repository ko apne system mein hi rakha hai.\nIss project repository ko ab app GitHub (ek cloud) pe daal sakte hain taaki aapke peers bhi aapka project dekh sake.\n",
+	"ExternalRepositoryOnGithub_key3": "Iske liye pehle aapko GitHub pe ek empty project repository banani hogi aur usme apne existing project ko **push** karna hoga.\n",
+	"ExternalRepositoryOnGithub_key4": "Detail mein aisa kaise karte hain, ye janne ke liye\n",
+	"ExternalRepositoryOnGithub_key5": "iss\n",
+	"ExternalRepositoryOnGithub_key6": "ke instructions ko follow karein.\n",
+	"ExternalRepositoryOnGithub_key7": "**Assignment**\n",
+	"ExternalRepositoryOnGithub_key8": "Upar diye hue instructions ko follow karte hue apne `code` ko GitHub ke repository pe push karein\n"
+}

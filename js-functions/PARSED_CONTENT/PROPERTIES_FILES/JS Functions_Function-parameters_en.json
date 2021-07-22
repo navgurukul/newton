@@ -1,0 +1,18 @@
+{
+	"Function-parameters_key1": "name: Function parameters\n",
+	"Function-parameters_key2": "Parameters will work as `variables` in a function which will store arguments as values. \n",
+	"Function-parameters_key3": "Parameters are set on the first line of the function inside the set of parentheses, like this:\n",
+	"Function-parameters_key4": "functionName(argument1, argument2, argument3);\n",
+	"Function-parameters_key5": "You can specify parameters when you define your function to accept `input` values when your `code` is running. The parameters work like placeholder `variables` within a function; they're replaced at run time by the values (known as argument) provided to the function at the time of function calling. See  in the above example we are given 3 arguments when we are calling the function and accessing by the parameters like parameter1, parameter2, parameter3.\n",
+	"Function-parameters_key6": "**Example:**\n",
+	"Function-parameters_key7": "You can declare as many parameters as you want. However for each parameter you write, a corresponding argument needs to be passed to the function when it is called, if not passed its value becomes undefined. Let's consider the following example:\n",
+	"Function-parameters_key8": "**Exercises:**\n",
+	"Function-parameters_key9": "Write a function displayMultiply() and pass 3 parameters and in runtime take the arguments with the names num1, num2, num3 and multiply them and return the result?\n\n\n",
+	"Function-parameters_key10": "Feedback after submit\n",
+	"Function-parameters_key11": "What is the `output` of the following `code`?\n\n\n",
+	"Function-parameters_key12": "Feedback after submit\nNo `error`. Even though an extra parameter (5) is passed, the function getResult simply does not use it.    \n",
+	"Function-parameters_key13": "Write a program that will take two parameters and print its sum?\n\n\n",
+	"Function-parameters_key14": "Feedback after submit\n",
+	"Function-parameters_key15": "What is the `output` of the following `code`?\n",
+	"Function-parameters_key16": "The function name is not matched with the calling name so it is given Reference `Error`.\n"
+}

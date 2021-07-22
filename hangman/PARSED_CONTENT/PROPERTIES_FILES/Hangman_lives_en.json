@@ -1,5 +1,5 @@
 {
-	"lives_key1": "submission_type:url\n",
+	"lives_key1": "\n",
 	"lives_key2": "Ab aapko ek feature implement karna hai, jisse ki user ke paas limited chances ho.\nMaan lete hai ki user ke paas sirf 8 chances hai - aur aapko apne `loop` ko aise modify karna hai ki user ke paas 8 chances ho.\n",
 	"lives_key3": "Inn 8 chances ke baad, user ka game over ho jaye.\nAur jab bhi user ka koi bhi galat guess ho toh - aap uska ek chance kam kar de.\nJab bhi user ka guess theek ho, toh aap uski number of lives ko kam na karein.\n",
 	"lives_key4": "## Hint\n\n",

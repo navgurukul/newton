@@ -1,0 +1,8 @@
+{
+	"practice-project_key1": "name: practice-project\n",
+	"practice-project_key2": "# Practice Project\n\n",
+	"practice-project_key3": "For practice, write a program that does the following.\n",
+	"practice-project_key4": "# Debugging Coin Toss\n\n",
+	"practice-project_key5": "The following program is meant to be a simple coin toss guessing game. The player gets two guesses (it’s an easy game). However, the program has several bugs in it. Run through the program a few times to find the bugs that keep the program from working correctly.\n",
+	"practice-project_key6": "import random\nguess = ''\nwhile guess not in ('heads', 'tails'):\n    print('Guess the coin toss! Enter heads or tails:')\n    guess = `input`()\ntoss = random.randint(0, 1) # 0 is tails, 1 is heads\nif toss == guess:\n    print('You got it!')\nelse:\n    print('Nope! Guess again!')\n    guesss = `input`()\n    if toss == guess:\n       print('You got it!')\n    else:\n        print('Nope. You are really bad at this game.')\n"
+}

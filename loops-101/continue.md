@@ -1,6 +1,6 @@
 ```ngMeta
 name: continue
-submission_type: url
+
 ```
 
 # continue

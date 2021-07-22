@@ -1,0 +1,10 @@
+{
+	"loops-continue_key1": "name: Using Continue\n",
+	"loops-continue_key2": "Aap pehle iss video ko dekhein `continue` command ka `loop` mei kaam samajhne ke liye. Iss understanding ko use kar kar, humein aage likhe hue `code` ka dry run karna hai.\n",
+	"loops-continue_key3": "Agar aap yeh diagram dekhoge toh aap samjhoge, ki `continue` command se hum `loop` mei\n",
+	"loops-continue_key4": "jo bhi `continue` ke baad `code` hai uss `loop` mei, woh `execute` nahi hota\n",
+	"loops-continue_key5": "`loop` ki starting mei `control flow` pahuch jaata hai\n\n\n",
+	"loops-continue_key6": "Ab iss idea ko use karte hue in example `codes` ka `dry run` karein.\n",
+	"loops-continue_key7": "__Ek baar dhyaan se dekhein ki break aur continue mei kya difference hai__\n",
+	"loops-continue_key8": "Iss program ko `execute` karo. Iss program ko bina `continue` `statement` ke dobara likho.\n"
+}

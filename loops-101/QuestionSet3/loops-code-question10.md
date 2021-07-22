@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 10
-submission_type: url
+
 ```
 
 Ek algorithm banao jo `fibonacci series` ke pehle 100 number print kare. Fibonacci series aisi hoti hai:

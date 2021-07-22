@@ -1,0 +1,10 @@
+{
+	"prime_key1": "## Edge cases in Prime no\n\n\n\n",
+	"prime_key2": "### Calculate first 5 prime no's\n\n\n",
+	"prime_key3": "Hume is program mai pehle 5 prime no print karne hai\n",
+	"prime_key4": "ye program infinite `loop` mai chala jaat hai\n",
+	"prime_key5": "### Task \n\n\n",
+	"prime_key6": "Is program ko aap sahi se padhiye or laptop pe chala ke dekhiye\nab aap is program mai aisi kaunsi jagah change karenge, jisse ye program sahi `output` dene lage\nagar aapko nahi nahi samajh aa raha ho to aap dry run kijeye and fir aapna answer compare kijeye\n",
+	"prime_key7": "### Solution\n\n\n",
+	"prime_key8": "Is program mai humne `isPrime` jo `variable` hai uske ek set na karke baar baar set kar rahe hai, pehle `loop` ke ander\nisse ye program infinite `loop` mai na jake, `isPrime` ki value ko reset kar raha hai\n"
+}

@@ -1,0 +1,13 @@
+{
+	"part-6_key1": "name: 50 50 Lifeline\nsubmission_type: url\n",
+	"part-6_key2": "## 50 50 Lifeline\n\n",
+	"part-6_key3": "Ab aapko 50 50 lifeline implement karni hai, user answer karte time, answer mei 1,2,3 ya 4 ke alaway ab 5050 bhi daal sakta hai. Agar user 5050 daalega, toh aapko user ko \n",
+	"part-6_key4": "sirf uss question ke liye\n",
+	"part-6_key5": "dobara se do options dikhane hai\n",
+	"part-6_key6": "dobara se user `input` lena hai\n",
+	"part-6_key7": "aur phir jaisa aap pehle kar rahe the, wohi `code` chalna chahiye, yaani\n- sahi answer to - batayie - right answer hai\n- galat answer to - tell user - wrong answer hai\n\n\n",
+	"part-6_key8": "### Dhyaan Rakhein\n\n",
+	"part-6_key9": "Jo do options aap denge - unemi se ek answer theek hi hona chahiye\n\n\n",
+	"part-6_key10": "### Bonus Task\n\n",
+	"part-6_key11": "Apne `code` ko aise likhiye, ki user sirf ek baar `5050 lifeline` use kar sakta hai. User agar doosri baar try karta hai, toh usse boliye, ki aap already lifeline use kar chuke hai.\n"
+}

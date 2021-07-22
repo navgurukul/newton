@@ -1,6 +1,6 @@
 ```ngMeta
 name: TedX Talks
-submission_type: url
+
 ```
 
 ### TedX Talks

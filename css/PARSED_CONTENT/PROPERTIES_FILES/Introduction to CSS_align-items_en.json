@@ -1,0 +1,8 @@
+{
+	"align-items_key1": "name: align-items : Container Property\n",
+	"align-items_key2": "# align-items: Container Property\n\n",
+	"align-items_key3": "## flex-start | flex-end | center | baseline | stretch\n\n\n",
+	"align-items_key4": "Iss property se hum yeh set karte hai ki flex-items container ke andar kaise height lengi.\n\n",
+	"align-items_key5": "By default iski value **stretch** hoti hai yaani ki flex-items container mein **jitne height** unhe chahiye utni height leni ki koshish karte hai.\n\n",
+	"align-items_key6": "example](ht\n"
+}

@@ -1,0 +1,10 @@
+{
+	"Null_key1": "name: Null\n",
+	"Null_key2": "## Null\n\n\n",
+	"Null_key3": "This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty `string` (\"\") or 0, it is simply nothing.\n",
+	"Null_key4": "A `variable` can be explicitly emptied of its current contents by assigning it the null value.\n",
+	"Null_key5": "**Example:**\n",
+	"Null_key6": "**Exercises:**\n",
+	"Null_key7": "Write a program to print null when I console a `variable` name is y?\n\n\n",
+	"Null_key8": "What is the `output` of the following `code`?\n\n\n"
+}

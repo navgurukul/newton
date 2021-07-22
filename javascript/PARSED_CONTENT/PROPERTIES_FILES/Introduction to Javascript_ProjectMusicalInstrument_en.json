@@ -1,0 +1,16 @@
+{
+	"ProjectMusicalInstrument_key1": "name: Musical Instrument\n",
+	"ProjectMusicalInstrument_key2": "Iss project mein aap ek musical instrument banayenge jo alag-alag &quot;\n",
+	"ProjectMusicalInstrument_key3": "press&quot; se alag alag note bajaye. Aapka instrument &quot;Sa&quot; &quot;Re&quot; &quot;Ga&quot; &quot;Ma&quot; &quot;Pa&quot; &quot;Dha&quot; &quot;Ni&quot; &quot;Sa&quot; - ye notes baja sakte hain ya\n",
+	"ProjectMusicalInstrument_key4": "iski\n",
+	"ProjectMusicalInstrument_key5": "tarah alag alag drum sounds.\n",
+	"ProjectMusicalInstrument_key6": "Google pe apne instruments ke liye sound effects dhoondiye. ye \"saregama\" ke notes ho sakte hain ya koi bhi alag alag sound effects.\n",
+	"ProjectMusicalInstrument_key7": "Apne `application` ka frontend design kijiye. Ye aapka musical instrument hai - isey apna design aur personal look dijiye. Ideally aapke musical instrument mein kuch buttons hone chahiye. <audio> tags use karke har button ka audio source define kijiye.\n",
+	"ProjectMusicalInstrument_key8": "Apne javascript `code` mein, \"`key`press\" event ko capture kijiye.\n",
+	"ProjectMusicalInstrument_key9": "yahan](https://developer.mozilla.org/en-US/docs/Web/Events/`key`press) se padh sakte hain.\n",
+	"ProjectMusicalInstrument_key10": "`Key`press event ka \"`key`\" property mein humare `key`press event ki value store hoti hai. Aap swtich cases use karke, kaun sa `key`press hua hai, use identify kar sakte hain aur uske corresponding audio play kar sakte hain.\n",
+	"ProjectMusicalInstrument_key11": "Har `key`press ke saath, agar aap chahe, to apne page ki koi CSS property bhi change kar sakte hain - jaise apne buttons ko bada karna ya usme koi background add karna etc.... Isse aapka page `key`press se responsive lagega.\n\n\n\n",
+	"ProjectMusicalInstrument_key12": "**Homework**\n",
+	"ProjectMusicalInstrument_key13": "Aapke musical instrument mein kya khasiyat hai?\n",
+	"ProjectMusicalInstrument_key14": "Aapke musical instrument mein kya kamiyan hain? Inn kamiyon ko aap kin programming concepts ko use karke dur kar sakte hain?\n"
+}
