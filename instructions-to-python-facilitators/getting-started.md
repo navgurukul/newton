@@ -26,4 +26,4 @@ For the next steps, Sign into [Merakilearn.org](https://www.merakilearn.org, "Me
 * If you want to teach Python to students, then check [**this**](https://www.merakilearn.org/course/152/exercise/3718) out.
 * If you want to teach Spoken English to students, then check [**this**](https://www.merakilearn.org/course/152/exercise/3720) out.
 
-> *You may follow the respective links and fret not if you get stuck! You can write to us at volunteer@navgurukul.org in case of queries. We are here to help!*
+> You may follow the respective links and fret not if you get stuck! You can write to us at volunteer@navgurukul.org in case of queries. We are here to help!

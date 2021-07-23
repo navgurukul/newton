@@ -1,7 +1,0 @@
-{
-	"if-code-question6_key1": "name: Question 6\nsubmission_type: url\n",
-	"if-code-question6_key2": "Draw a flowchart for this question and write the program.\n",
-	"if-code-question6_key3": "Take two numbers as `input` from the user in `variables` `varx` and `vary`.\n",
-	"if-code-question6_key4": "Check whether `varx` is divisible by `vary`.\n\n\n",
-	"if-code-question6_key5": "If yes, print `Divisible` else print `Not Divisible`.\n"
-}
