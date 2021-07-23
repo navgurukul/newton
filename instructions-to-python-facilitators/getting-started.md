@@ -10,7 +10,7 @@ We're glad you have decided to teach young children remotely and contribute in b
 To ensure you have a smooth onboarding and enable you to self start this process, sharing a few simple steps you can follow.
 
 ### Step 1 - Signing into Meraki
-We have a student facing Android Application and a website that caters to volunteers, partners, clients, etc. Please download the [application](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US, "Meraki Android Application") and sign in. Spend some time and explore the application. 
+We have a student facing Android Application and a website that caters to volunteers, partners, clients, etc. Please download the [application](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US) and sign in. Spend some time and explore the application. 
 
 *(Our students use an android phone to access Meraki, hence we request you to go over the application and understand the user interface. This can help you connect with students and solve their questions easily.)*
 
