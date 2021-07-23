@@ -1,0 +1,8 @@
+{
+	"reading-json-with-the-loads()-function_key1": "name: reading-json-with-the-loads()-function\n",
+	"reading-json-with-the-loads()-function_key2": "# Reading JSON with the loads() Function\n\n",
+	"reading-json-with-the-loads()-function_key3": "To translate a `string` containing JSON data into a `Python` value, pass it to the json.loads() function. (The name means “load `string`,” not “loads.”) Enter the following into the interactive `shell`:\n",
+	"reading-json-with-the-loads()-function_key4": "{'isCat': `True`, 'miceCaught': 0, 'name': 'Zophie', 'felineIQ': None}\nAfter you import the json module, you can call loads() and pass it a `string` of JSON data. Note that JSON `strings` always use double quotes. It will return that data as a `Python` dictionary. `Python` dictionaries are not ordered, so the `key`-value pairs may appear in a different order when you print jsonDataAs`Python`Value.\n",
+	"reading-json-with-the-loads()-function_key5": "Writing JSON with the dumps() Function\nThe json.dumps() function (which means “dump `string`,” not “dumps”) will translate a `Python` value into a `string` of JSON-formatted data. Enter the following into the interactive `shell`:\n",
+	"reading-json-with-the-loads()-function_key6": "The value can only be one of the following basic `Python` data types: dictionary, list, `integer`, `float`, `string`, Boolean, or None.\n"
+}

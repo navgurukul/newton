@@ -1,6 +1,6 @@
 ```ngMeta
 name: Max Element
-submission_type: url
+
 ```
 
 Code likho jo iss list mein se maximum dhund kar ke print kare.

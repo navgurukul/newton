@@ -1,0 +1,23 @@
+{
+	"Breaking_Sentences_key1": "name: Breaking Down Sentences into Phrases\n",
+	"Breaking_Sentences_key2": "## Breaking Down Sentences into Phrases\n\n\n",
+	"Breaking_Sentences_key3": "Kai mushkil sentences ko samajhne ke liye hum unhe chhote parts me divide karke samajh sakte hain. \n",
+	"Breaking_Sentences_key4": "Ek senctences ko phrases me divide kar sakte hain. Un phrases ka matlab samajahkar aur phir phrases ko jodkar pure sentence ka matlab samajh sakte hain.\n",
+	"Breaking_Sentences_key5": "Phrase : a small group of words standing together as a conceptual unit, typically forming a component of a clause\n",
+	"Breaking_Sentences_key6": "Examples:\n",
+	"Breaking_Sentences_key7": "With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.\n\n\n",
+	"Breaking_Sentences_key8": "The phrases in this sentence are:\n",
+	"Breaking_Sentences_key9": "With a given integral number n\n",
+	"Breaking_Sentences_key10": "write a program\n",
+	"Breaking_Sentences_key11": "generate a dictionary\n",
+	"Breaking_Sentences_key12": "that contains (i, i*i)\n",
+	"Breaking_Sentences_key13": "is an integral number 1 and n\n",
+	"Breaking_Sentences_key14": "then the program should print the dictionary\n\n",
+	"Breaking_Sentences_key15": "We use set container to remove duplicated data automatically and then use sorted() to sort the data.\n\n\n",
+	"Breaking_Sentences_key16": "The phrases in this sentence are:\n",
+	"Breaking_Sentences_key17": "We use set container to\n",
+	"Breaking_Sentences_key18": "remove duplicated data automatically\n",
+	"Breaking_Sentences_key19": "then use sorted() to sort the data\n\n\n",
+	"Breaking_Sentences_key20": "Phrases aur words ko jodne ke liye jin words ko use kiya jaata hai unhe conjunctions kaha jaata hai.\n",
+	"Breaking_Sentences_key21": "Examples:\nfor, and, nor, that, which, or, yet, since\n"
+}

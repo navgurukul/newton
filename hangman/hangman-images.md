@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type:url
+
 ```
 
 ## Hangman Images

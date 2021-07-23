@@ -9,7 +9,7 @@
 	"basics-booleans_key8": "If any  `variable` is `True` then we tell the computer to do something and if it is `False` then we tell the computer to do something else.\n",
 	"basics-booleans_key9": "As of know this much understanding is enough but we will study it in depth further :)\n",
 	"basics-booleans_key10": "# `Operators` that give Boolean answers.\n\n\n",
-	"basics-booleans_key11": "Whenever we ask any question to computer then we use some special type of `operators` to ask these questions. These `operators` always give answers in Boolean form i.e. either ' `True` or `False` '.All the `operators` are listed in the `tab`le given below.\n",
+	"basics-booleans_key11": "Whenever we ask any question to computer then we use some special type of `operators` to ask these questions. These `operators` always give answers in Boolean form i.e. either '`True` or `False` '.All the `operators` are listed in the `tab`le given below.\n",
 	"basics-booleans_key12": "**`Operator`**",
 	"basics-booleans_key13": "**Meaning**",
 	"basics-booleans_key14": "**Example**",

@@ -1,0 +1,17 @@
+{
+	"instaAnalyze_key1": "name: Insta Analyze\n",
+	"instaAnalyze_key2": "### Insta Analyze\n\n\n",
+	"instaAnalyze_key3": "Humein ek instagram ke liye `bot` banana hai, jo mere instagram followers ki posts ka sentiment analysis karega.\n",
+	"instaAnalyze_key4": "Iske liye aapko:\n",
+	"instaAnalyze_key5": "Instagram se data scrap karne ke liye aapko\n",
+	"instaAnalyze_key6": "InstaPy\n",
+	"instaAnalyze_key7": "library use karni hai.\nSentiment analysis ke liye aapko -\n",
+	"instaAnalyze_key8": "NLTK\n",
+	"instaAnalyze_key9": "library use karni hai.\n",
+	"instaAnalyze_key10": "### Process\n\n",
+	"instaAnalyze_key11": "Aapko apne saare instagram followers ki saari descriptions download kar kar {username}.txt naame ki `files` mei dump karna hai. Har ek new line mei ek nayi post ka content store hoga.\n\nToh agar aapke 10 followers hai, toh 10 `files` hongi, jismei unki har ek instagram post ke liye ek nayi line hogi.\nJaisa agar mai aapko follow karta hu, toh abhishekgupta921.txt mei meri saari instagram posts ek ek line mei hogi.\n\n",
+	"instaAnalyze_key12": "iss](https://www.kaggle.com/c/si650winter11) data par kaam karta hai. Dhyaan rakhein, ki simply Naive Bayes Classifier use karna, iss\n",
+	"instaAnalyze_key13": "Ab iss `code` ko aise modify karo ki aap ka analyzer jo kaggle se jo data hai, uss par train ho, par instagram posts ko analyse karein. Iske baad aap aisa kuch print karoge:\n\n\n",
+	"instaAnalyze_key14": "Yaani\n`{username} {number_of_positive_posts}/{number_of_total_posts}`\n",
+	"instaAnalyze_key15": "Good luck and happy coding.\n"
+}

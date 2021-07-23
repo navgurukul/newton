@@ -20,6 +20,6 @@
 	"if-statement-code-intro_key19": "# Nested If Condition\n\n",
 	"if-statement-code-intro_key20": "We can easily use an if `statement` inside another if `statement`.\n",
 	"if-statement-code-intro_key21": "Consider the example where we want to display the food menu based on the day and time. For example on monday, \"Poha\" in breakfast, \"Rajma Chawal\" for lunch and \"Roti Sabzi\" for dinner. Similary on tuesday, \"Poori Sabzi\" for breakfast, \"Thukpa\" for lunch and \"Chicken Chawal\" for dinner. We can write a program for this question as shown below:\n",
-	"if-statement-code-intro_key22": "`TODO:` We need to add a flowchart here somehow. #studentsShouldIgnore\n",
+	"if-statement-code-intro_key22": "`TODO: We need to add a flowchart here somehow. #studentsShouldIgnore`\n",
 	"if-statement-code-intro_key23": "Observe how we have used if `statement` inside another if `statement`. The if `statement` inside will only be checked if the outer if condition is `True`.\n"
 }

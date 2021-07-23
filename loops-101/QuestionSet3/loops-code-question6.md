@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 6
-submission_type: url
+
 ```
 
 Iss pattern ko print karne ke liye

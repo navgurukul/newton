@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type: url
+
 ```
 1. Form sentences in "Present Tense" using the following prompts.
 

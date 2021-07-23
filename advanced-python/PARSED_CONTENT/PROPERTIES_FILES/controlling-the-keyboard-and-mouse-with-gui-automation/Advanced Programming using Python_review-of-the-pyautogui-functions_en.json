@@ -1,0 +1,23 @@
+{
+	"review-of-the-pyautogui-functions_key1": "name: review-of-the-pyautogui-functions\n",
+	"review-of-the-pyautogui-functions_key2": "# Review of the PyAutoGUI Functions\n\n",
+	"review-of-the-pyautogui-functions_key3": "Since this chapter covered many different functions, here is a quick summary reference:\n",
+	"review-of-the-pyautogui-functions_key4": "moveTo(x, y). Moves the mouse cursor to the given x and y coordinates.\n",
+	"review-of-the-pyautogui-functions_key5": "moveRel(xOffset, yOffset). Moves the mouse cursor relative to its current position.\n",
+	"review-of-the-pyautogui-functions_key6": "dragTo(x, y). Moves the mouse cursor while the left button is held down.\n",
+	"review-of-the-pyautogui-functions_key7": "dragRel(xOffset, yOffset). Moves the mouse cursor relative to its current position while the left button is held down.\n",
+	"review-of-the-pyautogui-functions_key8": "click(x, y, button). Simulates a click (left button by default).\n",
+	"review-of-the-pyautogui-functions_key9": "rightClick(). Simulates a right-button click.\n",
+	"review-of-the-pyautogui-functions_key10": "middleClick(). Simulates a middle-button click.\n",
+	"review-of-the-pyautogui-functions_key11": "doubleClick(). Simulates a double left-button click.\n",
+	"review-of-the-pyautogui-functions_key12": "mouseDown(x, y, button). Simulates pressing down the given button at the position x, y.\n",
+	"review-of-the-pyautogui-functions_key13": "mouseUp(x, y, button). Simulates releasing the given button at the position x, y.\n",
+	"review-of-the-pyautogui-functions_key14": "scroll(units). Simulates the scroll wheel. A positive argument scrolls up; a negative argument scrolls down.\n",
+	"review-of-the-pyautogui-functions_key15": "typewrite(message). Types the characters in the given message `string`.\n",
+	"review-of-the-pyautogui-functions_key16": "typewrite([`key`1, `key`2, `key`3]). Types the given `key`board `key` `strings`.\n",
+	"review-of-the-pyautogui-functions_key17": "press(`key`). Presses the given `key`board `key` `string`.\n",
+	"review-of-the-pyautogui-functions_key18": "`key`Down(`key`). Simulates pressing down the given `key`board `key`.\n",
+	"review-of-the-pyautogui-functions_key19": "`key`Up(`key`). Simulates releasing the given `key`board `key`.\n",
+	"review-of-the-pyautogui-functions_key20": "hot`key`([`key`1, `key`2, `key`3]). Simulates pressing the given `key`board `key` `strings` down in order and then releasing them in reverse order.\n",
+	"review-of-the-pyautogui-functions_key21": "screenshot(). Returns a screenshot as an Image object. (See Chapter 17 for information on Image objects.)\n"
+}

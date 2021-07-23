@@ -1,0 +1,17 @@
+{
+	"JavascriptObjects_key1": "name: Javascript Objects\n",
+	"JavascriptObjects_key2": "Humne bahut pehle dekha tha ki Javascript ek Object-Oriented language hai. Abhi tak humne jo `Integers`, `Strings`, Arrays etc. javascript mein use kiya hai wo sab object hain.\n",
+	"JavascriptObjects_key3": "*fruits* array ke paas kuch information hai - jaise \"length\"\naur *fruits* object kuch functions perform kar sakte hain jaise naye elements ko \"push\" karna.\n",
+	"JavascriptObjects_key4": "*fruits* array ek Object hai.\n",
+	"JavascriptObjects_key5": "Array object ke baare mein aur janne ke liye\n",
+	"JavascriptObjects_key6": "yahan\n",
+	"JavascriptObjects_key7": "padhe\n",
+	"JavascriptObjects_key8": "Humne dekha tha ki har object ke paas kuch information hota hai aur har object kuch kar (function) sakta hai. Javascript programming language ka ye design real life ko reflect karne ke liye kiya gaya hai. Real life mein bhi objects kuch aise hi hote hain.\n",
+	"JavascriptObjects_key9": "Jaise Pen\n",
+	"JavascriptObjects_key10": "Pen ke paas kuch information hai - uska **color**, uska **shape** etc.\n",
+	"JavascriptObjects_key11": "Pen kuch functions perform kar sakta hai jaise - **write** karna, **scratch** karna\n",
+	"JavascriptObjects_key12": "Javascript mein kuch objects pre-defined hai jaise Arrays, `Strings`, etc.\n",
+	"JavascriptObjects_key13": "Hum Javascript mein naye objects ko define bhi kar sakte hain. Ise hum agle exercise mein dekhenge.\n",
+	"JavascriptObjects_key14": "**Extra-Reading and practice**\n",
+	"JavascriptObjects_key15": "Aapne Javascript mein **Date** use kiya hai. **Date** bhi javascript ka ek pre-defined object hai. **Date** object ka documentation dhoondiye aur Date ki pre-defined properties aur functions ko use karne ki kosish kijiye.\n"
+}

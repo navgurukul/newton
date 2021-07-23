@@ -1,0 +1,10 @@
+{
+	"functions-question1_key1": "name: Question 1\nsubmission_type: url\n",
+	"functions-question1_key2": "## Question 1\n\n\n",
+	"functions-question1_key3": "### Question 1 (Part 1)\n\n\n",
+	"functions-question1_key4": "`ask_question` naam ka Ek function likhiye jo yeh text ko \"ek baar\" print kare.\n",
+	"functions-question1_key5": "Fir iss function ko 5 baar call kar ke yeh text 5 baar print karvao.\n",
+	"functions-question1_key6": "### Question 1 (Part 2)\n\n\n",
+	"functions-question1_key7": "Fir while `loop` ka use kar ke iss function ko 100 baar call karne ka `code` likho.\n",
+	"functions-question1_key8": "Dono parts ka `code` ek hi `file` mein likh ke `upload` karo!\n"
+}

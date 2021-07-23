@@ -1,6 +1,6 @@
 ```ngMeta
 name: Pre-defined Functions Questions
-submission_type: url
+
 ```
 ## Pre-defined Functions Questions
 

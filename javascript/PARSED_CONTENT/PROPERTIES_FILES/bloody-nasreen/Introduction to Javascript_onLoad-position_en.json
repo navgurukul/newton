@@ -1,0 +1,20 @@
+{
+	"onLoad-position_key1": "name: Bloody Nasreen-Part I\n",
+	"onLoad-position_key2": "# Part I\n\n\n",
+	"onLoad-position_key3": "link\n",
+	"onLoad-position_key4": "link](http://navgurukul.org/bloodynasreen/front.png) \n",
+	"onLoad-position_key5": "link](http://navgurukul.org/bloo\n",
+	"onLoad-position_key6": "Aapko body ki **background image** kaise lagate hain wo yaad hoga. Agar nhi yaad to w3schools par search kare.\n\n",
+	"onLoad-position_key7": "link](http://navgurukul.org/bloodynasreen/front.png)\"  set kar de.\n\n  - Page ko reload kare aur dekhe. Bloody nas\n",
+	"onLoad-position_key8": "# Position  continued\n\n\n",
+	"onLoad-position_key9": "Position property chaar values le sakti hai : **static**, **relative**, **absolute** aur **fixed**.\n\n",
+	"onLoad-position_key10": "By default yaani ki pehle se har element ki position **static** hoti hai.\n\n  - Position static hone ka matlab yeh hai ki elements jasie normally page par load hote hai wasie honge.\n\n",
+	"onLoad-position_key11": "Position **relative** set karne se hum element ke **top**, **left**, **right** aur **bottom** attribute set kar sakte hai.\n\n  - Inn attributes ki value change kar kar hum apne element ko unki normal position se move kar sakte hai.\n\n  - Position relative karne se aap **z-index** property ki value bhi set kar sakte hai. Z-index ke bare mein aur jaanne ke liye google ka use kare.\n\n",
+	"onLoad-position_key12": "Position **absolute** set karne par aapka element apni normal position par load nhi hota. Aur uski position hum **top**, **left**,  **bottom** aur **right** se set kar sakte hai\n\n",
+	"onLoad-position_key13": "Position **fixed** ke bare mein aapne sticky headers mein padha hoga.\n\n\n",
+	"onLoad-position_key14": "# OnLoad\n\n\n",
+	"onLoad-position_key15": "Ab hum **onLoad**event par bloody nasreen ko upar di gayi chaar properties ka use \nkarke hilayenge.\n\n  - Aap dekhenge ki bloody nasreen aapne jo position set kari thi uss par phonch gayi.\n\n  - Aur jahan wo shuruwat mein thi waha ab nhi hai. Socho aisa kyun ho raha hai ? \n\n  - Aur apne instructor ko slack par bataye.\n\n",
+	"onLoad-position_key16": "Kabhi kabhar slow internet connection ke kaaran aapke page ki javascript, html se \npehle load ho jata hai.\n\n",
+	"onLoad-position_key17": "Aisa hone par javascript ke functions Html ke elements ko use nahi kar paate.\n\n",
+	"onLoad-position_key18": "Isliye hum javascript events ko html load hone ke baad call karte hai.\n"
+}

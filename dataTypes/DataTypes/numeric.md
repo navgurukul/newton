@@ -1,6 +1,6 @@
 ﻿```ngMeta
 name: Numeric Type
-submission_type: url
+
 ```
 
 ## Numeric Type :-

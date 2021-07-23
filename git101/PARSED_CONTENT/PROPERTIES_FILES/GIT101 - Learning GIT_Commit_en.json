@@ -1,0 +1,7 @@
+{
+	"Commit_key1": "name: Committing to a Repository\n",
+	"Commit_key2": "Aapne working directory mein `files` ko edit karke apni story ki beginning likh li hai.\nApne apne `files` ko staging area mein place kar diya hai. \nAb ye `file` aap apne peers ke saath share karne ke liye taiyyar hain. Isey hum ab apne hi system repository mein dalenge. Iske liye hum ye command use karte hain:\n",
+	"Commit_key3": "\"git commit\" se aapke staging area ke saare `files` repository space mein chale jayenge.\n",
+	"Commit_key4": "**Assignment**\n",
+	"Commit_key5": "**git commit** ka use kab, kahan aur kaise hota hai - git ka documentation padh kar samajhiye\ngit ka documentation kholne ke liye aap \"man git\" apne `terminal` pe run kar sakte hain.\n"
+}

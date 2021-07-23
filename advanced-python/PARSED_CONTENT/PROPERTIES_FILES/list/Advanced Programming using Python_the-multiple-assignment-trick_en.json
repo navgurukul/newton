@@ -1,0 +1,8 @@
+{
+	"the-multiple-assignment-trick_key1": "name: the-multiple-assignment-trick\n",
+	"the-multiple-assignment-trick_key2": "# The Multiple Assignment Trick\n\n",
+	"the-multiple-assignment-trick_key3": "The multiple assignment trick is a shortcut that lets you assign multiple `variables` with the values in a list in one line of `code`. So instead of doing this:\n",
+	"the-multiple-assignment-trick_key4": "you could type this line of `code`:\n",
+	"the-multiple-assignment-trick_key5": "The number of `variables` and the length of the list must be exactly equal, or `Python` will give you a Value`Error`:\n",
+	"the-multiple-assignment-trick_key6": "The multiple assignment trick can also be used to swap the values in two `variables`:\n"
+}

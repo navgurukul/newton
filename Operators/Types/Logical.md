@@ -1,6 +1,6 @@
 ```ngMeta
 name: Logical Operator 
-submission_type: url
+
 ```
 ### Logical Operator(and ,or ,not ) :- 
 

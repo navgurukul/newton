@@ -1,0 +1,89 @@
+```ngMeta
+spoken-english-instructionToVolunteer_key1
+```
+
+spoken-english-instructionToVolunteer_key2
+
+
+spoken-english-instructionToVolunteer_key3
+spoken-english-instructionToVolunteer_key4
+
+
+spoken-english-instructionToVolunteer_key5
+
+
+spoken-english-instructionToVolunteer_key6
+
+
+spoken-english-instructionToVolunteer_key7
+spoken-english-instructionToVolunteer_key8spoken-english-instructionToVolunteer_key9spoken-english-instructionToVolunteer_key10[spoken-english-instructionToVolunteer_key11](https://play.google.com/store/apps/details?id=org.merakilearn&hl=en_IN&gl=US,)
+spoken-english-instructionToVolunteer_key12
+
+spoken-english-instructionToVolunteer_key13
+
+
+spoken-english-instructionToVolunteer_key14[spoken-english-instructionToVolunteer_key15](https://www.`youtube`.com/watch?v=Lha-WlS2Hkg&feature=youtu.be)
+
+
+spoken-english-instructionToVolunteer_key16[spoken-english-instructionToVolunteer_key17](https://www.`youtube`.com/watch?v=UN3us4vDHhc)
+
+
+spoken-english-instructionToVolunteer_key18
+
+
+spoken-english-instructionToVolunteer_key19
+spoken-english-instructionToVolunteer_key20
+
+
+|spoken-english-instructionToVolunteer_key21|spoken-english-instructionToVolunteer_key22|spoken-english-instructionToVolunteer_key23|spoken-english-instructionToVolunteer_key24|
+|-----------|-----------|-----------|-----------|
+|spoken-english-instructionToVolunteer_key25|spoken-english-instructionToVolunteer_key26|spoken-english-instructionToVolunteer_key27|spoken-english-instructionToVolunteer_key28|
+|spoken-english-instructionToVolunteer_key29|spoken-english-instructionToVolunteer_key30|spoken-english-instructionToVolunteer_key31|spoken-english-instructionToVolunteer_key32|
+|spoken-english-instructionToVolunteer_key33|spoken-english-instructionToVolunteer_key34|spoken-english-instructionToVolunteer_key35|spoken-english-instructionToVolunteer_key36|
+|spoken-english-instructionToVolunteer_key37|spoken-english-instructionToVolunteer_key38|spoken-english-instructionToVolunteer_key39|spoken-english-instructionToVolunteer_key40|
+|spoken-english-instructionToVolunteer_key41|spoken-english-instructionToVolunteer_key42|spoken-english-instructionToVolunteer_key43|spoken-english-instructionToVolunteer_key44|
+|spoken-english-instructionToVolunteer_key45|spoken-english-instructionToVolunteer_key46|spoken-english-instructionToVolunteer_key47|spoken-english-instructionToVolunteer_key48|
+|spoken-english-instructionToVolunteer_key49|spoken-english-instructionToVolunteer_key50|spoken-english-instructionToVolunteer_key51|spoken-english-instructionToVolunteer_key52|
+|spoken-english-instructionToVolunteer_key53|spoken-english-instructionToVolunteer_key54|spoken-english-instructionToVolunteer_key55|spoken-english-instructionToVolunteer_key56|
+|spoken-english-instructionToVolunteer_key57|spoken-english-instructionToVolunteer_key58|spoken-english-instructionToVolunteer_key59|spoken-english-instructionToVolunteer_key60|
+|spoken-english-instructionToVolunteer_key61|spoken-english-instructionToVolunteer_key62|spoken-english-instructionToVolunteer_key63|spoken-english-instructionToVolunteer_key64|
+|spoken-english-instructionToVolunteer_key65|spoken-english-instructionToVolunteer_key66|spoken-english-instructionToVolunteer_key67|spoken-english-instructionToVolunteer_key68|
+|spoken-english-instructionToVolunteer_key69|spoken-english-instructionToVolunteer_key70|spoken-english-instructionToVolunteer_key71|spoken-english-instructionToVolunteer_key72|
+|spoken-english-instructionToVolunteer_key73|spoken-english-instructionToVolunteer_key74|spoken-english-instructionToVolunteer_key75|spoken-english-instructionToVolunteer_key76|
+|spoken-english-instructionToVolunteer_key77|spoken-english-instructionToVolunteer_key78|spoken-english-instructionToVolunteer_key79|spoken-english-instructionToVolunteer_key80|
+|spoken-english-instructionToVolunteer_key81|spoken-english-instructionToVolunteer_key82|spoken-english-instructionToVolunteer_key83|spoken-english-instructionToVolunteer_key84|
+
+spoken-english-instructionToVolunteer_key85
+
+
+spoken-english-instructionToVolunteer_key86
+spoken-english-instructionToVolunteer_key87[spoken-english-instructionToVolunteer_key88](https://www.merakilearn.org/class)
+spoken-english-instructionToVolunteer_key89spoken-english-instructionToVolunteer_key90spoken-english-instructionToVolunteer_key91
+
+spoken-english-instructionToVolunteer_key92
+
+
+spoken-english-instructionToVolunteer_key93[spoken-english-instructionToVolunteer_key94](https://chrome.google.com/webstore/detail/auto-admit-for-google-mee/epemkdedgaoeeobdjmkmhhhbjemckmgb/related?hl=en,)
+spoken-english-instructionToVolunteer_key95
+
+spoken-english-instructionToVolunteer_key96
+
+
+
+spoken-english-instructionToVolunteer_key97
+
+
+1. spoken-english-instructionToVolunteer_key98
+2. spoken-english-instructionToVolunteer_key99
+3. spoken-english-instructionToVolunteer_key100
+spoken-english-instructionToVolunteer_key101
+1. spoken-english-instructionToVolunteer_key102
+2. spoken-english-instructionToVolunteer_key103
+3. spoken-english-instructionToVolunteer_key104
+4. spoken-english-instructionToVolunteer_key105
+5. spoken-english-instructionToVolunteer_key106
+spoken-english-instructionToVolunteer_key107
+spoken-english-instructionToVolunteer_key108
+
+
+spoken-english-instructionToVolunteer_key109

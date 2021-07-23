@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 9
-submission_type: url
+
 ```
 
 Q.9 Apki pass ek shopping name ki ek dictionary hai

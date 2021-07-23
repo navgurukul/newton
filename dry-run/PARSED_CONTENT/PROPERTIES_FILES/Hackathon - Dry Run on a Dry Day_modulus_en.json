@@ -1,0 +1,9 @@
+{
+	"modulus_key1": "name: Modulus\n",
+	"modulus_key2": "Modulus/Remainder yani ki % and divide /, computers mai aise kaam karte hai,\n`x = 3`, agar x ko 2 se divide karenge to kya answer aayega?\n",
+	"modulus_key3": "Modulus kya hota hai, yeh samajhne ke liye yeh yeh video dekho. \n",
+	"modulus_key4": "yaad rakhiyega ki interger nos ke liye, hamesha `integer` hi answer aata hai, mtlb usme `float` nahi aata\nso jab 3 ko 2 se divide karenge to answer 1 aayega and Remainder bhi 1 hi aayega\n",
+	"modulus_key5": "Yeh video bhi dekho.\n",
+	"modulus_key6": "ye program mai kuch galti hai isko aap ko sahi karna hai\nYe program ye batata hai ki **x** 3 ka multiple hai ya nahi, is program ko dry run kare or fir sahi bhi kare\n**x** ki diff values ke liye `code` likhe jaise 3, 10, 25, 6\n",
+	"modulus_key7": "Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.\n"
+}

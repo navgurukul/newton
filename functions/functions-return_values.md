@@ -1,6 +1,6 @@
 ```ngMeta
 name: Return Values
-submission_type: url
+
 ```
 
 # How to return a value from a function?

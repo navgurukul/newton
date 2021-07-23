@@ -1,0 +1,18 @@
+{
+	"Scope_key1": "name: Scope\n",
+	"Scope_key2": "# Scope\n\n\n",
+	"Scope_key3": "`Variables` ko logon ki tarah imagine kijiye - log jinke dimaag me kuch memory hai - aur wo iss memory mein kuch values store karte hain.\nEk program ko ek country ki tarah imagine kijiye jahan ye `variables` rehte hain.\n",
+	"Scope_key4": "Iss program ki duniya mein `variables` bahut strangely behave karte hain. Kuch `variables` (global `variables`) ki memory program ke har hisse mein kaam karti hai aur usme stored values ko hum kahin bhi access kar sakte hain. Leki kuch `variables` (local `variables`) program ke ek hisse se bahar nikalte hi apni yaddast (memory) kho dete hain aur usme stored values ko hum use nahi kar sakte.\n",
+	"Scope_key5": "Example: \n",
+	"Scope_key6": "*iAmGlobal* ek Global `Variable` hai aur use kahin bhi use kar sakte hain.\n*iAmLocal* ko aap bas function() ke andar hi use kar sakte hai. Uske bahar wo undefined hai.\n",
+	"Scope_key7": "Global aur local\n",
+	"Scope_key8": "ke baare mein aur janne ke liye aap\n",
+	"Scope_key9": "yahan\n",
+	"Scope_key10": "padh sakte hain.\n",
+	"Scope_key11": "**Homework**\n",
+	"Scope_key12": "Apne pichle programs mein jo aapne `variables` use kiye hain, unki scope identify kijiye.\n\n",
+	"Scope_key13": "Niche diye hue program ko run kijiye aur usme `error` identify kijiye\n",
+	"Scope_key14": "function f2(){\n  return a;\n}\n",
+	"Scope_key15": "```\n",
+	"Scope_key16": "Upar likhe hue program ka correct form kya hoga?\n"
+}

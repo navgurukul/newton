@@ -1,0 +1,20 @@
+{
+	"Task-5_key1": "name: Day-3-Task-5\n",
+	"Task-5_key2": "### Reading Material\n\n",
+	"Task-5_key3": "**Power kese nikalte hai**\nKisi bi number **x** a power nikalne k liye apko ush **number** ko ushi number se **power-1** times multiple karna hoga.\n",
+	"Task-5_key4": "#### Jese:\n\n",
+	"Task-5_key5": "Number = 2\nPower = 5\ntoh hum 2<sup>5</sup> ko **2 * 2 * 2 * 2 * 2** likh sakte hai.\n",
+	"Task-5_key6": "### Question\n\n",
+	"Task-5_key7": "**Power Digit Sum.**\nApko 2 value di jayengi **number** aur **power** toh apko ush *number ka power* karne ke baad uski value nikal ke apko uske digit ka sum nikalna hai.\n",
+	"Task-5_key8": "Jese manle:\n",
+	"Task-5_key9": "##### `Input`:\n\n",
+	"Task-5_key10": "`number=2`\n`power=15`\n",
+	"Task-5_key11": "##### Calculation:\n\n",
+	"Task-5_key12": "2<sup>15</sup> kare toh `output` ayega **32768**\nab apko **32768** ke sare digit ko plus karna hai.\n**3 + 2 + 7 + 6 + 8** jiska out ayega niche.\n",
+	"Task-5_key13": "##### `Output`:\n\n",
+	"Task-5_key14": "**26**\n",
+	"Task-5_key15": "### Test\n\n",
+	"Task-5_key16": "#### Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n\n\n\n",
+	"Task-5_key17": "### Hint\n\n",
+	"Task-5_key18": "No Hints\n"
+}

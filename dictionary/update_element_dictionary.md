@@ -1,6 +1,6 @@
 ```ngMeta
 name:   Update Dictionary
-submission_type: url
+
 ```
 
 ## Updating Dictionary :-

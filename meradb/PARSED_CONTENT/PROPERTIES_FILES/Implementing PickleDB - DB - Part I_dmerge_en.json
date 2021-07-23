@@ -1,0 +1,8 @@
+{
+	"dmerge_key1": "## DMerge -> dmerge('some_other.db')\n\n\n",
+	"dmerge_key2": "Iss function ko banane ke liye\n",
+	"dmerge_key3": "aap current da`tab`ase mei, `dmerge` naam ka function define karoge\n",
+	"dmerge_key4": "`dmerge` ek doosre da`tab`ase ka naam doge\n",
+	"dmerge_key5": "Current da`tab`ase mei aapko, naya wala da`tab`ase jo argument diya hai, woh load karna hai\n- Iske liye Aap existing class ke andar khud ka ek naya object bana sakte ho\n",
+	"dmerge_key6": "Phir uss da`tab`ase ki saari `keys` aur unki corresponding `values` apne existing `da`tab`ase` mei add karo\n"
+}

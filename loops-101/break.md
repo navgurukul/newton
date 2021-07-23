@@ -1,6 +1,6 @@
 ```ngMeta
 name: Break Statement
-submission_type: url
+
 ```
 
 # break

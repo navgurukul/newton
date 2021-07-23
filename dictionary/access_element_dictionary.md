@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Accessing Elements from a Dictionary
-submission_type: url
+
 ```
 
 

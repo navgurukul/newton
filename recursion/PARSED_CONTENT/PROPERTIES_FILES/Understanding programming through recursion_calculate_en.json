@@ -1,0 +1,16 @@
+{
+	"calculate_key1": "## Calculate\n\n\n",
+	"calculate_key2": "Yeh ek simple sa function hai, jo do numbers leta hai, `operator` leta hai, aur unn numbers par woh operation kar kar return kar deta hai.\n",
+	"calculate_key3": "Maan lo user aap ko yeh `input` deta hai:\n",
+	"calculate_key4": "'3 + 5 - 2 * 4 / 2 + 8 - 10 * 9 / 3'\n",
+	"calculate_key5": "Aap ko ek function banana hai jo iss `string` ko evaluate karega, left se right ke order mei. Yaani agar sabhi `operators` ki same precedence (yaani importance) hoti, toh hum left se right chalte aur ek ek kar kar result calculate kar lete.\n",
+	"calculate_key6": "Jaise:\n'3 + 5 - 2 * 4 / 2 + 8 - 10 * 9 / 3'\n'8 - 2 * 4 / 2 + 8 - 10 * 9 / 3'\n'6 * 4 / 2 + 8 - 10 * 9 / 3'\n'24 / 2 + 8 - 10 * 9 / 3'\n'12 + 8 - 10 * 9 / 3'\n'20 - 10 * 9 / 3'\n'10 * 9 / 3'\n'90 / 3'\n'30'\n30 is the answer.\nAgar aap dhyaan se sochenge toh yeh bhi ek recursion hai.\n",
+	"calculate_key7": "## Hint\n\n",
+	"calculate_key8": "Kya yaha par aap `split` function use kar sakte hai?\n\n",
+	"calculate_key9": "Base case kya hoga?\n\n",
+	"calculate_key10": "What's the problem? Kya aap uss problem ko choti problem mei break kar sakte ho?\nYaani aap ke paas agar ek badi `string` hai, toh kis chotti `string` ka agar aapke paas answer hota toh, aapki problem bahut easily solve ho jaati.\n\n## Solution\n'3 + 5 - 2 * 4 / 2 + 8 - 10 * 9 / 3'\nko pehle split karein:\n['3', '+', '5', '-', '2', '*', '4', '/', '2', '+', '8', '-', '10', '*', '9', '/', '3']\n\n\n",
+	"calculate_key11": "Ab yeh dekhein:\n[num1]\n[num1, `operator`, num2]\n`base cases` hai. Kyuki agar in dono mei se koi bhi `input` hoga, toh aapko answer bahut easily find kar sakte hai, `operate` function use kar kar.\n",
+	"calculate_key12": "`['3', '+', '5', '-', '2', '*', '4', '/', '2', '+', '8', '-', '10', '*', '9']` - Agar aapke paas iska answer hai toh, maan lo, woh answer value hai. Toh aapke question ka answer\n`[value, '/', '3']` hai. Yaani list ke last ke do elements skip kar kar, jo remaining hui list hai uska answer ka use kar kar, aap apne question ko solve kar sakte ho.\n",
+	"calculate_key13": "## Aage\n\n",
+	"calculate_key14": "Yeh function aap bina recursion ke bhi likh sakte hai. Kya aap bina recursion ke bhi likh kar implemment kar sakte hai?\n"
+}

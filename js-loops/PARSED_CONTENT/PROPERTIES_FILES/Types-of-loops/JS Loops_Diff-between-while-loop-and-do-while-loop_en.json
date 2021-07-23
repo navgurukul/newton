@@ -1,0 +1,8 @@
+{
+	"Diff-between-while-loop-and-do-while-loop_key1": "name: Do While vs While\n",
+	"Diff-between-while-loop-and-do-while-loop_key2": "## Difference between while and do while `loops`\n\n\n",
+	"Diff-between-while-loop-and-do-while-loop_key3": "From do while : 2\nFrom while : nothing will print\n",
+	"Diff-between-while-loop-and-do-while-loop_key4": "**Explanation:** \n",
+	"Diff-between-while-loop-and-do-while-loop_key5": "In the above example, if you see from do while 2 is printed because in do while first it won’t check `loop` condition and it will run 1 time because of do and after checking the `loop` condition it will never run.\n",
+	"Diff-between-while-loop-and-do-while-loop_key6": "In the while `loop` it will check the `loop` condition first. It is `false` so it won’t `execute` a block of `code` written inside that, so that’s why it won’t print anything.\n"
+}

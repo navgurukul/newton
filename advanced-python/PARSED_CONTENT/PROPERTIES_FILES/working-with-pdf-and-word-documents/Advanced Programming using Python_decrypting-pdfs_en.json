@@ -1,0 +1,10 @@
+{
+	"decrypting-pdfs_key1": "name: decrypting-pdfs\n",
+	"decrypting-pdfs_key2": "# Decrypting PDFs\n\n",
+	"decrypting-pdfs_key3": "Some PDF documents have an encryption feature that will keep them from being read until whoever is opening the document provides a password. Enter the following into the interactive `shell` with the PDF you downloaded, which has been encrypted with the password rosebud:\n",
+	"decrypting-pdfs_key4": "   `True`\n",
+	"decrypting-pdfs_key5": "❷ Traceback (most recent call last):\n     `File` \"<py`shell`#173>\", line 1, in <module>\n       pdfReader.getPage()\n     --snip--\n     `File` \"C:\\`Python3`4\\lib\\site-packages\\PyPDF2\\pdf.py\", line 1173, in getObject\n       raise utils.PdfRead`Error`(\"`file` has not been decrypted\")\n   PyPDF2.utils.PdfRead`Error`: `file` has not been decrypted\n",
+	"decrypting-pdfs_key6": "   1\n",
+	"decrypting-pdfs_key7": "All Pdf`File`Reader objects have an isEncrypted attribute that is `True` if the PDF is encrypted and `False` if it isn’t ❶. Any attempt to call a function that reads the `file` before it has been decrypted with the correct password will result in an `error` ❷.\n",
+	"decrypting-pdfs_key8": "To read an encrypted PDF, call the decrypt() function and pass the password as a `string` ❸. After you call decrypt() with the correct password, you’ll see that calling getPage() no longer causes an `error`. If given the wrong password, the decrypt() function will return 0 and getPage() will continue to fail. Note that the decrypt() method decrypts only the Pdf`File`Reader object, not the actual PDF `file`. After your program terminates, the `file` on your hard drive remains encrypted. Your program will have to call decrypt() again the next time it is run.\n"
+}

@@ -1,0 +1,17 @@
+{
+	"question10_key1": "name: Question 10\nsubmission_type: url\n",
+	"question10_key2": "`Python` mein hum ek `loop` ke andar `loop` bhi chala sakte hain Sochiye humare paas ek list hai jisme aur list hain jinme `integers` hain. Kuch aise:\n",
+	"question10_key3": "Iss list se agar humne saare numbers ko ek ek kar ke print karna hai toh hum kuch aisa `code` likh sakte hain:\n",
+	"question10_key4": "Iski `output` kuch aisi aayegi:\n",
+	"question10_key5": "Yahan pehle woh `for small_list in big_list` wala `loop` chala ke uski pehli iteration mein pahunchta hai.\n",
+	"question10_key6": "Fir jab small_list ki value mein pehli list, [1,2,3] aati hai uspe pura dusra `loop` chalta hai\n",
+	"question10_key7": "Dusra `loop` poora chalne ke baad print `-----` line chalti hai aur fir yeh `code` pehle `loop` mein jaata hai\n",
+	"question10_key8": "Fir `small_list` ki value mein `[5,8,9]` jaata hai aur fir pura andar waala `loop` chalta hai.\n\n\n",
+	"question10_key9": "Iss `code` ko `python` visualizer (www.`python`tutor.com) mein chala ke ache se samjho\n",
+	"question10_key10": "## Question\n\n\n",
+	"question10_key11": "Socho aapke paas ek school ki class mein har student ke har subject ke marks hain. Jaise\n",
+	"question10_key12": "Yeh ek list mein andar aur lists hain. Andar waali list mein har bache ke saare subjects mein marks hain. Ek `max_marks` naam ka function banao jo ki ek aisi list le aur har students ke maximum marks print kare.\n",
+	"question10_key13": "Jaise agar main aapke `max_marks` function ko upar waali list ke saath call karunga ,\n",
+	"question10_key14": "Toh uski `output` yeh honi chaiye:\n",
+	"question10_key15": "Dekhiye ki har line har student ke maximum marks print hue hain.\n"
+}

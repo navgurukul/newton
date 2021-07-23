@@ -1,0 +1,9 @@
+{
+	"flex-wrap_key1": "name: flex-wrap : Container Property\n",
+	"flex-wrap_key2": "# flex-wrap: Container Property\n\n",
+	"flex-wrap_key3": "## nowrap | wrap | wrap-reverse\n\n\n",
+	"flex-wrap_key4": "By default yaani pehle se flex items ek hi row mein fit honi ki koshish karti hai. Chahe ek row mein fit honi ki jagah na ho.\n\n",
+	"flex-wrap_key5": "Aisa isliye hota hai kyunki by defautl **flex-wrap nowrap** hota hai. Nowrap yaani ki **\"ghoom kar agli line mein mat aao\".**\n\n",
+	"flex-wrap_key6": "example](http:\n",
+	"flex-wrap_key7": "assignment.](http://`code`pen.io/navgurukul/full/ggJ\n"
+}

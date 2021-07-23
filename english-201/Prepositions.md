@@ -1,5 +1,5 @@
 ```ngMeta
-submission_type
+
 ```
 
 Preposition: is a word which joins a noun or pronoun to a sentence or another word to show relationship. (Pre=before; position=place)

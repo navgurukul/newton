@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 12
-submission_type: url
+
 ```
 
 Ek program likhiye jo:-

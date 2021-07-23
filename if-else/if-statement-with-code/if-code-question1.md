@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 1
-submission_type: url
+
 ```
 
 In a variable named `number`, take the input from the user and convert it to `int`.

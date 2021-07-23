@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Becoming  A Programmer
-submission_type: url
+
 ```
 ## Becoming A Programmer
 

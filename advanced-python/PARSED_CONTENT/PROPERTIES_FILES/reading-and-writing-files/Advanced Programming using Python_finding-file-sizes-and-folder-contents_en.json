@@ -1,0 +1,19 @@
+{
+	"finding-file-sizes-and-folder-contents_key1": "name: finding-file-sizes-and-folder-contents\n",
+	"finding-file-sizes-and-folder-contents_key2": "# Finding `File` Sizes and Folder Contents\n\n",
+	"finding-file-sizes-and-folder-contents_key3": "Once you have ways of handling `file` paths, you can then start gathering information about specific `files` and folders. The os.path module provides functions for finding the size of a `file` in bytes and the `files` and folders inside a given folder.\n",
+	"finding-file-sizes-and-folder-contents_key4": "Calling os.path.getsize(path) will return the size in bytes of the `file` in the path argument.\n",
+	"finding-file-sizes-and-folder-contents_key5": "Calling os.listdir(path) will return a list of `file`name `strings` for each `file` in the path argument. (Note that this function is in the os module, not os.path.)\n",
+	"finding-file-sizes-and-folder-contents_key6": "Here’s what I get when I try these functions in the interactive `shell`:\n",
+	"finding-file-sizes-and-folder-contents_key7": "776192\n",
+	"finding-file-sizes-and-folder-contents_key8": "['0409', '12520437.cpx', '12520850.cpx', '5U877.ax', 'aaclient.dll',\n--snip--\n'xwtpdui.dll', 'xwtpw32.dll', 'zh-CN', 'zh-HK', 'zh-TW', 'zipfldr.dll']\nAs you can see, the calc.exe program on my computer is 776,192 bytes in size, and I have a lot of `files` in C:\\Windows\\system32. If I want to find the total size of all the `files` in this directory, I can use os.path.getsize() and os.listdir() together.\n",
+	"finding-file-sizes-and-folder-contents_key9": "1117846456\nAs I `loop` over each `file`name in the C:\\Windows\\System32 folder, the totalSize `variable` is incremented by the size of each `file`. Notice how when I call os.path.getsize(), I use os.path.join() to join the folder name with the current `file`name. The `integer` that os.path.getsize() returns is added to the value of totalSize. After `loop`ing through all the `files`, I print totalSize to see the total size of the C:\\Windows\\System32 folder.\n",
+	"finding-file-sizes-and-folder-contents_key10": "# Checking Path Validity\n\n",
+	"finding-file-sizes-and-folder-contents_key11": "Many `Python` functions will crash with an `error` if you supply them with a path that does not exist. The os.path module provides functions to check whether a given path exists and whether it is a `file` or folder.\n",
+	"finding-file-sizes-and-folder-contents_key12": "Calling os.path.exists(path) will return `True` if the `file` or folder referred to in the argument exists and will return `False` if it does not exist.\n",
+	"finding-file-sizes-and-folder-contents_key13": "Calling os.path.is`file`(path) will return `True` if the path argument exists and is a `file` and will return `False` otherwise.\n",
+	"finding-file-sizes-and-folder-contents_key14": "Calling os.path.isdir(path) will return `True` if the path argument exists and is a folder and will return `False` otherwise.\n",
+	"finding-file-sizes-and-folder-contents_key15": "Here’s what I get when I try these functions in the interactive `shell`:\n",
+	"finding-file-sizes-and-folder-contents_key16": "You can determine whether there is a DVD or flash drive currently attached to the computer by checking for it with the os.path.exists() function. For instance, if I wanted to check for a flash drive with the volume named D:\\ on my Windows computer, I could do that with the following:\n",
+	"finding-file-sizes-and-folder-contents_key17": "`False`\nOops! It looks like I forgot to plug in my flash drive.\n"
+}

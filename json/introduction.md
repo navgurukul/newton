@@ -1,6 +1,6 @@
 ```ngMeta
 name: Json
-submission_type: url
+
 ```
 
 ## JSON

@@ -1,0 +1,11 @@
+{
+	"part2_key1": "name: Calculator-Part II\n",
+	"part2_key2": "# Part II\n\n\n",
+	"part2_key3": "Link\n",
+	"part2_key4": "par **onNumClick** function bana sakte ho aur usme number ko\n",
+	"part2_key5": "**argument** ki tarah paas kar sakte ho.  Functions ke liye yeh naam use karo:\n",
+	"part2_key6": "AC par **onACClick** - click karne se display par 0 aana chahiye\n\n\n",
+	"part2_key7": "CE par **onCEClick** - click karne se display par 0 aana chahiye\n",
+	"part2_key8": "Kisi bhi number par **onNumClick**(number). Ek hi function mei sab number handle karne hai. Iske liye\n**onNumClick ek** number naam ki value ko **parameter** accept karega.\nAise hi kisi bhi `operator` par apply`Operator`(`operator`) function. \n`Operator` ki value x, +, -, /, = ho sakti hai. `Operator` ki value jaha par calculator mei **x** likha hai, waha par hogi.\n",
+	"part2_key9": ". par **onDecimalAdded** function call karna hai\n"
+}

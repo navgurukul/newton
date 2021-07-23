@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 4
-submission_type: url
+
 ```
 
 Niche diye gye code snippet ki output kya hoga?

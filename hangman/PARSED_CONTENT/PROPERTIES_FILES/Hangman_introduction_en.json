@@ -1,0 +1,16 @@
+{
+	"introduction_key1": "Iss project mei hum log `hangman` game develop karenge. \n",
+	"introduction_key2": "Game ko samajhne ke liye aap\n",
+	"introduction_key3": "yaha\n",
+	"introduction_key4": "par ja kar iss game ko khel sakte hai. Bahut simple sa game hai. Fir neeche diye hue video ko dekh lo.\n",
+	"introduction_key5": "Computer ek word sochta hai\n",
+	"introduction_key6": "Jitne uss words mei characters hote hai, utne letters ke jagah computer `_` show karta hai\n",
+	"introduction_key7": "User koi letter guess karta hai\n",
+	"introduction_key8": "Agar woh letter uss word mei hota hai, toh computer aapko woh word mei uss jagah `_` replace kar kar, woh letters show karta hai\n",
+	"introduction_key9": "Aisa chalta rehta hai, jab tak aap word ko sahi se guess nahi kar paatein\n\n\n",
+	"introduction_key10": "Game mei aur bhi bahut saari cheezein ki jaa sakti hai\n",
+	"introduction_key11": "**Hint**\nUser ek baar hint maang sakta hai, aur computer user ko ek letter reveal kar sakta hai\n\n",
+	"introduction_key12": "**Limited Lives**\nUser ko kuch hi lives do, agar woh lives khatam ho jaye, toh \"Game Over\" dikhao\n\n",
+	"introduction_key13": "**Animation ya Design**\nAap game ko improve karne ke liye animations ya design add kar sakte hai\n\n\n\n",
+	"introduction_key14": "Aap apne bhi ideas soch kar implement kar sakte hai.\nChalo baatein bahut hui, ab `code` karna shuru karte hai :-)\n"
+}

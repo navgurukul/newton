@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 4
-submission_type: url
+
 ```
 
 aapko two dictionary di gai hai  unhen aapko concatenate karna hai

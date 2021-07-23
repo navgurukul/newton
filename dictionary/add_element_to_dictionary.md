@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Adding Elements to a  Dictionary
-submission_type: url
+
 ```
 
 ## Adding Elements to a  Dictionary:-

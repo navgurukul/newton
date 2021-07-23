@@ -1,6 +1,6 @@
 ```ngMeta
 name: Loop questions
-submission_type: url
+
 ```
 
 

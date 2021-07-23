@@ -1,0 +1,10 @@
+{
+	"web-scraping_key1": "name: web-scraping\n",
+	"web-scraping_key2": "# Web Scraping\n\n",
+	"web-scraping_key3": "In those rare, terrifying moments when I’m without Wi-Fi, I realize just how much of what I do on the computer is really what I do on the Internet. Out of sheer habit I’ll find myself trying to check email, read friends’ Twitter feeds, or answer the question, “Did Kurtwood Smith have any major roles before he was in the original 1987 Robocop?”[2]\n",
+	"web-scraping_key4": "Since so much work on a computer involves going on the Internet, it’d be great if your programs could get online. Web scraping is the term for using a program to download and process content from the Web. For example, Google runs many web scraping programs to index web pages for its search engine. In this chapter, you will learn about several modules that make it easy to scrape web pages in `Python`.\n",
+	"web-scraping_key5": "webbrowser. Comes with `Python` and opens a browser to a specific page.\n",
+	"web-scraping_key6": "Requests. Downloads `files` and web pages from the Internet.\n",
+	"web-scraping_key7": "Beautiful Soup. Parses HTML, the format that web pages are written in.\n",
+	"web-scraping_key8": "Selenium. Launches and controls a web browser. Selenium is able to fill in forms and simulate mouse clicks in this browser.\n"
+}

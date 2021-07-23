@@ -1,0 +1,13 @@
+{
+	"controlling-the-keyboard_key1": "name:  controlling-the-keyboard\n",
+	"controlling-the-keyboard_key2": "# Controlling the `Key`board\n\n",
+	"controlling-the-keyboard_key3": "PyAutoGUI also has functions for sending virtual `key`presses to your computer, which enables you to fill out forms or enter text into `applications`.\n",
+	"controlling-the-keyboard_key4": "# Sending a `String` from the `Key`board\n\n",
+	"controlling-the-keyboard_key5": "The pyautogui.typewrite() function sends virtual `key`presses to the computer. What these `key`presses do depends on what window and text field have focus. You may want to first send a mouse click to the text field you want in order to ensure that it has focus.\n",
+	"controlling-the-keyboard_key6": "As a simple example, let’s use `Python` to automatically type the words Hello world! into a `file` `editor` window. First, open a new `file` `editor` window and position it in the upper-left corner of your screen so that PyAutoGUI will click in the right place to bring it into focus. Next, enter the following into the interactive `shell`:\n",
+	"controlling-the-keyboard_key7": "Notice how placing two commands on the same line, separated by a semicolon, keeps the interactive `shell` from prompting you for `input` between running the two instructions. This prevents you from accidentally bringing a new window into focus between the click() and typewrite() calls, which would mess up the example.\n",
+	"controlling-the-keyboard_key8": "`Python` will first send a virtual mouse click to the coordinates (100, 100), which should click the `file` `editor` window and put it in focus. The typewrite() call will send the text Hello world! to the window, making it look like Figure 18-3. You now have `code` that can type for you!\n",
+	"controlling-the-keyboard_key9": " -->\nFigure 18-3. Using PyAutogGUI to click the `file` `editor` window and type Hello world! into it\n",
+	"controlling-the-keyboard_key10": "By default, the typewrite() function will type the full `string` instantly. However, you can pass an optional second argument to add a short pause between each character. This second argument is an `integer` or `float` value of the number of seconds to pause. For example, pyautogui.typewrite('Hello world!', 0.25) will wait a quarter-second after typing H, another quarter-second after e, and so on. This gradual typewriter effect may be useful for slower `applications` that can’t process `keys`trokes fast enough to keep up with PyAutoGUI.\n",
+	"controlling-the-keyboard_key11": "For characters such as A or !, PyAutoGUI will automatically simulate holding down the SHIFT `key` as well.\n"
+}

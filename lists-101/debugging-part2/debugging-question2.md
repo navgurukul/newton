@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 2
-submission_type: url
+
 ```
 
 Iss code mein user ka naam print hona chaiye lekin woh sahi se print nahi ho raha.

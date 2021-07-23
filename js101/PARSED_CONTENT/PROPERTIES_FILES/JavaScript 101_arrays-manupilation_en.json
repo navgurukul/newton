@@ -1,0 +1,6 @@
+{
+	"arrays-manupilation_key1": "name: Arrays mein cheezon ko daalte aur nikalte kaise hain?\n",
+	"arrays-manupilation_key2": "Explain arrays operation such as push, pop, splice\nvar taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];\n//push\ntaskList.push('Be honest');\nvar listLength = taskList.length;\nvar index = 0;\nwhile(index < listLength)\n      console.log(taskList[i]);\n      index = index + 1;\n}\n\n\n\n",
+	"arrays-manupilation_key3": "//pop\nvar task = taskList.pop();\nconsole.log(task);\n",
+	"arrays-manupilation_key4": "//delete say 3rd element\ntaskList.splice(0, 1)\nlistLength = taskList.length;\nindex = 0;\nwhile(index < listLength)\n        console.log(taskList[i]);\n        index = index + 1;\n}\n"
+}

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Part 1
-submission_type: url
+
 ```
 
 

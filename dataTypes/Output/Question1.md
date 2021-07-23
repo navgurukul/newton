@@ -1,6 +1,6 @@
 ﻿```ngMeta
 name:  Question 1 
-submission_type: url
+
 ```
 
 Check the type of the data :-

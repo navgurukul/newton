@@ -1,6 +1,6 @@
 ```ngMeta
 name: Galat Jawaab
-submission_type: url
+
 ```
 
 ## Galat Jawaab

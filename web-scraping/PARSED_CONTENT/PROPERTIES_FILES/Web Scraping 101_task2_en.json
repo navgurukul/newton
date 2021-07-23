@@ -1,0 +1,13 @@
+{
+	"task2_key1": "name: Task 2\nsubmission_type:url\n",
+	"task2_key2": "# Task 2\n\n\n",
+	"task2_key3": "Humne **Task 1** mein `scrape_top_list()` function likh ke saari movies ki list nikaal li hai. Iss task mein humein `group_by_year` naam ka ek naya function likhna hai jo ki movies ko by year group karega. Yeh function ek `movies` naam ka `variable` parameter ki tarah lega.\n",
+	"task2_key4": "Yeh movies parameter basically `scrape_top_list` ki return value ki tarah hoga. Jo aapka `scrape_top_list` function return karega woh hi aap iss naye `group_by_year` function mein paas karoge.\n",
+	"task2_key5": "`movies` wala parameter aisa dikhega:\n",
+	"task2_key6": "Group by year method saari same saal wali movies ko ek saath group karega. Aapke iss function ko ek aisa data structure return karna hai.\n",
+	"task2_key7": "Notice karo ki kaise iss data structure mein ek dictonary hai aur years uss dictionary ki `keys` hain. Har `key` mein ek list hai jismein firse movies ki individual dictionaries hain. Har movie ki dictionary ka structure waisa hi jaise `scrape_top_list` function mein ek movie ki dictionary ka structure tha.\n",
+	"task2_key8": "# Hint\n\n\n",
+	"task2_key9": "`movies` wale parameter pe ek nested `loop` chala ke aap yeh question solve kar sakte ho.\n\n\n",
+	"task2_key10": "# Solution\n\n\n",
+	"task2_key11": "**Created by Akhil Rawat (akhil18@navgurukul.org)**\n"
+}

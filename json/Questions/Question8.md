@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 8
-submission_type: url
+
 ```
 
 Q8.Tumhare pass four employes ki details hai list mai:-

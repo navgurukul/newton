@@ -1,6 +1,6 @@
 ```ngMeta
 name: Palindrome or not?
-submission_type: url
+
 ```
 
 Palindrome wo strings ya numbers hote hai jo ulta seedhe same hote hai. Jaise, NITIN. Nitin ko aap left se padho ya right se, nitin hi hai. Aise hi MOM bhi ek palindrome hai.

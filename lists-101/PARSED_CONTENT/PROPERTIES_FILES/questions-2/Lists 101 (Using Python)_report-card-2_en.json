@@ -1,0 +1,11 @@
+{
+	"report-card-2_key1": "submission_type: url\n",
+	"report-card-2_key2": "## Report Card - Part II\n\n\n",
+	"report-card-2_key3": "Iss list ko dekhein:\n",
+	"report-card-2_key4": "Yeh kisi student ke peechle teen saal ke marks hai. Aap ko jitne bhi saal hai, har saal ke average marks print karne hai. Jaise, uppar wali list ka `output` yeh hona chahiye:\n",
+	"report-card-2_key5": "## Edge Cases:\n\n",
+	"report-card-2_key6": "Check your program for following nested lists as well (bina `code` change kiye chalna chahiye, nahi toh aapne sahi se `code` nahi likha):\n",
+	"report-card-2_key7": "Aapke `code` se uppar wali nested list ka solution yeh aana chahiye:\n",
+	"report-card-2_key8": "Yeh list bhi bina `error` ke chalni chahiye, agar aapka program **robust** hai toh:\n",
+	"report-card-2_key9": "Aapke `code` se uppar wali nested list ka solution yeh aana chahiye:\n"
+}

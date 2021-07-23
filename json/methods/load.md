@@ -1,6 +1,6 @@
 ```ngMeta
 name: Load and Loads
-submission_type: url
+
 ```
 
 ## Load  and Loads

@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 3
-submission_type: url
+
 ```
 
 Ek program likhiye jo ki dictionaries ki values ka sum print kare.

@@ -1,6 +1,6 @@
 ```ngMeta
 name: User se Input
-submission_type: url
+
 ```
 
 ## User se Input

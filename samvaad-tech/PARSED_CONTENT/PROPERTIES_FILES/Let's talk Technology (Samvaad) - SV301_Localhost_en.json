@@ -1,0 +1,22 @@
+{
+	"Localhost_key1": "name: Localhost\n",
+	"Localhost_key2": "###Introduction\n",
+	"Localhost_key3": "Localhost ko jaanne se pehle hum hostname ke baare me jaanenge ki aakhir hostname kya hota hai ?\n",
+	"Localhost_key4": "##Hostname\n",
+	"Localhost_key5": "Computer networking me, hostname ek aisa naam ya label hota hai jise ek computer ya device ko diya jaata hai jo kisi computer network se connect hota hai.\nIse alag alag type ki electronic communication ki madad se pehchana ja sakta hai jaise ki World Wide Web.\n",
+	"Localhost_key6": "##Localhost kya hota hai ?\n",
+	"Localhost_key7": "<span><img src=\"https://kinsta.com/wp-content/`uploads`/2017/11/what-is-localhost.png\"></span>\n",
+	"Localhost_key8": "Localhost ek hostname hota hai jiska matlab hai aapka computer ya aapka device, jis par aap kaam kar rahe hain.\nIse network services ko access karne ke liye use kiya jaata hai jo ek host par `LOOP` Network Interface ke dwaara chalta hai.\nAap `Loop` Network Interface ke baare me aage padhenge.\nDusri bhaasha me hum ye keh sakte hain ki Localhost aapka local server hota hai jo aapki `file` http (hyper-text-transfer-protocol) ya anya protocols par show karta hai.\nFor example, maan lijiye ki aap apne computer pe ek web browser chala rahe hain, to aapka computer ek “localhost” ka kaam kar raha hai.\nLocal machine ko hi localhost kaha jaata hai jiska IP address 127.0.0.1 hota hai.\nYeh IP address kafi important hai, isko jyada samajhne or iske setup ke liye iss video ko dekhein.\n",
+	"Localhost_key9": "##`Loop`back Network Interface kya hota hai ?\n",
+	"Localhost_key10": "Ye ek aisa virtual network interface hota hai jiski help se aapka computer ya aapka device khud se communicate karta hai.\nIse `loop`back process isliye kaha jaata hai kyoki hum jo bhi command ise dete hain wo ise run karke waapas local machine pe bhejta hai.\n",
+	"Localhost_key11": "<span><img src=\"https://i.stack.imgur.com/TLEFV.png\"></span>\n",
+	"Localhost_key12": "Iska adhiktar use diagnostics ya troubleshooting purpose ke liye kiya jaata hai, iske saath hi iska use computer ko local machine ke server se connect krna hota hai.\n",
+	"Localhost_key13": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\nBaat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\n",
+	"Localhost_key14": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein\n",
+	"Localhost_key15": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\n",
+	"Localhost_key16": "Hosting kya hoti hai?\n",
+	"Localhost_key17": "DNS kya hota hai?\n\n\n\n",
+	"Localhost_key18": "**Tips**:\n",
+	"Localhost_key19": "Aap subtitles/captions on kar sakte hai, `YouTube` Video dekhte hue\n",
+	"Localhost_key20": "Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\n"
+}

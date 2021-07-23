@@ -1,6 +1,6 @@
 ﻿```ngMeta
 name: Data Types 
-submission_type: url
+
 ```
 As **we read** the English book, every word in it is English means the **information is in English**. Whatever knowledge we are taking from Book is data and the language is it's type.
 

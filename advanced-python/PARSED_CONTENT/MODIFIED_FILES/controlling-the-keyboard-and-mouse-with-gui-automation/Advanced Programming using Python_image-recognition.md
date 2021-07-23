@@ -1,0 +1,45 @@
+```ngMeta
+image-recognition_key1
+```
+
+image-recognition_key2
+image-recognition_key3
+
+
+image-recognition_key4
+
+
+```python
+>>> import pyautogui
+>>> pyautogui.locateOnScreen('submit.png')
+```
+image-recognition_key5
+
+
+image-recognition_key6
+
+
+image-recognition_key7
+
+
+```python
+>>> list(pyautogui.locateAllOnScreen('submit.png'))
+```
+image-recognition_key8
+
+
+image-recognition_key9
+
+
+```python
+>>> pyautogui.locateOnScreen('submit.png')
+```
+image-recognition_key10
+```python
+>>> pyautogui.center((643, 745, 70, 29))
+```
+image-recognition_key11
+```python
+>>> pyautogui.click((678, 759))
+```
+image-recognition_key12

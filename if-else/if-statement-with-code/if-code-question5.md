@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 5
-submission_type: url
+
 ```	
 
 1. Take user input in a variable named `varx`.

@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 5
-submission_type: url
+
 ```
 
 Do lists lekar ek dictionary banaiye jisme  pehli list ke elements keys ho aur dusri list ke elements unn keys ki values ho.

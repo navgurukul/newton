@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 4
-submission_type: url
+
 ```
 
 Ek program likhiye jo ki nested dictionary me se first key or value ko remove kare.

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Dump and Dumps
-submission_type: url
+
 ```
 
 ## Dump and Dumps

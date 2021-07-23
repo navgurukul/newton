@@ -1,0 +1,9 @@
+{
+	"substituting-strings-with-the-sub()-method_key1": "name: substituting-strings-with-the-sub()-method\n",
+	"substituting-strings-with-the-sub()-method_key2": "# Substituting `Strings` with the sub() Method\n\n",
+	"substituting-strings-with-the-sub()-method_key3": "Regular expressions can not only find text patterns but can also substitute new text in place of those patterns. The sub() method for Regex objects is passed two arguments. The first argument is a `string` to replace any matches. The second is the `string` for the regular expression. The sub() method returns a `string` with the substitutions applied.\n",
+	"substituting-strings-with-the-sub()-method_key4": "For example, enter the following into the interactive `shell`:\n",
+	"substituting-strings-with-the-sub()-method_key5": "Sometimes you may need to use the matched text itself as part of the substitution. In the first argument to sub(), you can type \\1, \\2, \\3, and so on, to mean “Enter the text of group 1, 2, 3, and so on, in the substitution.”\n",
+	"substituting-strings-with-the-sub()-method_key6": "For example, say you want to censor the names of the secret agents by showing just the first letters of their names. To do this, you could use the regex Agent (\\w)\\w* and pass r'\\1****' as the first argument to sub(). The \\1 in that `string` will be replaced by whatever text was matched by group 1—that is, the (\\w) group of the regular expression.\n",
+	"substituting-strings-with-the-sub()-method_key7": "A**** told C**** that E**** knew B**** was a double agent.'\n"
+}

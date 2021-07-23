@@ -1,0 +1,13 @@
+{
+	"task6_key1": "name: Task 6\nsubmission_type:url\n",
+	"task6_key2": "# Task 6\n\n\n",
+	"task6_key3": "Aapko `get_movie_details` function ne movies ki saari details ek list mein lake de di. Abhi ke liye hum pehli 10 movies ki baat kar rahe hain. Toh ab hum pehli 10 movies ki list pe kuch analysis run karenge. Iss analysis se hum data ke baare mein kuch cheezein jaanenge.\n",
+	"task6_key4": "Pehli cheez mujhe yeh dekhni hai hai ki har langauge ki kitni movies hain. Jaise kitni movies Hindi ki hain top 250 mein aur kitni movie Malyalam ki hain etc. Kyunki langauge mein multiple langauge di hui hain, isliye agar ek movie mein English aur Hindi di hui hain, toh uss movie ki ginti dono languages mein hogi. Poori task padh ke aapko yeh dhang se samajh aa jayegi.\n",
+	"task6_key5": "Ek `analyse_movies_language` naam ka function likho jo ek `movies_list` naam ki list ko parameter leta hai. Yeh movies naam ki list kuch aisi dikhegi:\n",
+	"task6_key6": "`movies_list` basically `get_movie_list_details` wale function ki return value hai. Aapne  `analyse_movies_language` function ko `get_movie_list_details` return value `movies_list` parameter mein deni hain.\n",
+	"task6_key7": "Iss function ko ek dictionary return karni hai jiska structure aisa hona chaiye.\n",
+	"task6_key8": "**Note: Agar ek movie mein English aur Malayalam dono dia hai, toh uski ginti dono heads mein hogi.**\n",
+	"task6_key9": "Scraping mein ek aur important cheez hoti hai verify karna ki humara `code` sahi `output` de raha hai. Yeh yaad rakhne ki zaroorat hai ki HTML ka `code` kabhi bhi scrapers ke liye nahi likha but browsers ke samajhne ke liye likha hota hai. Isliye kabhi kabhi shayad humara `code` sahi na chale. Yeh karne ke liye aapko thoda data manually vefiy karne ki zaroorat hoti hai. Yeh karne ke liye aap pehli 10 movies ke URLs manually visit karke apne scraper ki `output` ko verify kar sakte ho. Agar sahi chal raha hai, toh hum shayad apna `code` safely saari 250 ki list pe chala sakte hain.\n",
+	"task6_key10": "## Hint\n\n\n",
+	"task6_key11": "Aapka `code` kuch aisa lagega:\n"
+}

@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 1
-submission_type: url
+
 ```
 
 1 se 1000 tak saare numbers print karne ka loop likho. Lekin 

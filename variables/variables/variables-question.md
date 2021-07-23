@@ -1,6 +1,6 @@
 ```ngMeta
 name: Variables Exercise 1
-submission_type: url
+
 ```
 
 *To answer any question you can upload the file.*

@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 4
-submission_type: url
+
 ```
 ## Question 4
 

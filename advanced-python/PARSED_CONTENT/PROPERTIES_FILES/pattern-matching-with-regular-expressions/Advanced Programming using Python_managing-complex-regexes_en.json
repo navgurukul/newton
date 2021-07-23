@@ -1,0 +1,9 @@
+{
+	"managing-complex-regexes_key1": "name: managing-complex-regexes\n",
+	"managing-complex-regexes_key2": "# Managing Complex Regexes\n\n",
+	"managing-complex-regexes_key3": "Regular expressions are fine if the text pattern you need to match is simple. But matching complicated text patterns might require long, convoluted regular expressions. You can mitigate this by telling the re.compile() function to ignore whitespace and comments inside the regular expression `string`. This “verbose mode” can be enabled by passing the `variable` re.VERBOSE as the second argument to re.compile().\n",
+	"managing-complex-regexes_key4": "Now instead of a hard-to-read regular expression like this:\n",
+	"managing-complex-regexes_key5": "phoneRegex = re.compile(r'((\\d{3}|\\(\\d{3}\\))?(\\s|-|\\.)?\\d{3}(\\s|-|\\.)\\d{4}\n(\\s*(ext|x|ext.)\\s*\\d{2,5})?)')\nyou can spread the regular expression over multiple lines with comments like this:\n",
+	"managing-complex-regexes_key6": "phoneRegex = re.compile(r'''(\n    (\\d{3}|\\(\\d{3}\\))?            # area `code`\n    (\\s|-|\\.)?                    # separator\n    \\d{3}                         # first 3 digits\n    (\\s|-|\\.)                     # separator\n    \\d{4}                         # last 4 digits\n    (\\s*(ext|x|ext.)\\s*\\d{2,5})?  # extension\n    )''', re.VERBOSE)\nNote how the previous example uses the triple-quote `syntax` (''') to create a multiline `string` so that you can spread the regular expression definition over many lines, making it much more legible.\n",
+	"managing-complex-regexes_key7": "The comment rules inside the regular expression `string` are the same as regular `Python` `code`: The # symbol and everything after it to the end of the line are ignored. Also, the extra spaces inside the multiline `string` for the regular expression are not considered part of the text pattern to be matched. This lets you organize the regular expression so it’s easier to read.\n"
+}

@@ -1,6 +1,6 @@
 ```ngMeta
 name:  Question 10
-submission_type: url
+
 ```
 
 Ek dictionary ki value ke sabhi items ko count kijiye jo ki ek list me hai.

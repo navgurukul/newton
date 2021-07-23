@@ -1,6 +1,6 @@
 ```ngMeta
 name: Comparison Operators
-submission_type: url
+
 ```
 ### Comparison operators:- 
 

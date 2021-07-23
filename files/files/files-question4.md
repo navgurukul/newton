@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 4
-submission_type: url 
+ 
 ```
 
 Iss text ko `question3.txt` ke naam ki file mein save karo.

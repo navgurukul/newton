@@ -1,0 +1,23 @@
+{
+	"introduction_key1": "# Recursions\n\n\n",
+	"introduction_key2": "## Prerequitisites\n\n\n",
+	"introduction_key3": "Iss course ko karne ke liye aapke paas inn concepts ki solid understanding honi chahiye:\n",
+	"introduction_key4": "1 - Functions\n2 - `Loops`, If-Else Conditions, `Operators`, Booleans, etc.\n",
+	"introduction_key5": "Yeh image dekho\n",
+	"introduction_key6": "Iss image mei triangle ke andar triangle ke andar triangle hai... Yeh ek tarah se triangles ki `recursion` hai. Saral shabdo mei agar aap kisi cheez ko, ussi hi cheez ke terms mei express kar sakte hai toh usse recursion kehte hai. Jaise ki yeh numbers dekho :\n",
+	"introduction_key7": "1, 2, 4, 8, 16, 32, 64, 128, 256\n",
+	"introduction_key8": "Ab yeh `code` dekho\n",
+	"introduction_key9": "Iss `code` mei `twopowers` function mei `twopowers` function ko hi call kar rahe hai. Ek tarah se yeh function apni value nikalne ke liye, khud ko hi call kar raha hai. \n",
+	"introduction_key10": "Kyuki function khud ko hi baar baar call kar raha hai, kabhi toh function ko value return karni hogi. Isliye hum `base case` add karte hai. Jaise humne iss program mei likha ki agar `number` ki value `1` hai toh, `1` return kar do.\n",
+	"introduction_key11": "Toh ab program mei jab hum `twopowers(5)` call karte hai, toh woh `2 * twopowers(4)` return kar deta hai.\nPar iss expression ko calculate karne ke liye `twopowers(4)` ki value chahiye, isliye woh uss value ka wait karta hai.\n",
+	"introduction_key12": "Toh ab program mei jab hum `twopowers(4)` call karte hai, toh woh `2 * twopowers(3)` return kar deta hai.\nPar iss expression ko calculate karne ke liye `twopowers(3)` ki value chahiye, isliye woh uss value ka wait karta hai.\n",
+	"introduction_key13": "Toh ab program mei jab hum `twopowers(3)` call karte hai, toh woh `2 * twopowers(2)` return kar deta hai.\nPar iss expression ko calculate karne ke liye `twopowers(2)` ki value chahiye, isliye woh uss value ka wait karta hai.\n",
+	"introduction_key14": "Toh ab program mei jab hum `twopowers(2)` call karte hai, toh woh `2 * twopowers(1)` return kar deta hai.\nPar iss expression ko calculate karne ke liye `twopowers(1)` ki value chahiye, isliye woh uss value ka wait karta hai.\n",
+	"introduction_key15": "Toh ab program mei jab hum `twopowers(1)` call karte hai, toh woh `1` return kar deta hai. **BASE CASE CONDITION**\n",
+	"introduction_key16": "Ab kyuki `twopowers(1)` ki value pata hai. Toh `2 * twopowers(1)` ki value calculate ho kar 2 * 1 = `2` pata chal jaati hai. Yeh `twopowers(2)` ki value hai.\n",
+	"introduction_key17": "Ab kyuki `twopowers(2)` ki value pata hai. Toh `2 * twopowers(2)` ki value calculate ho kar 2 * 2 = `4` pata chal jaati hai. Yeh `twopowers(3)` ki value hai.\n",
+	"introduction_key18": "Ab kyuki `twopowers(3)` ki value pata hai. Toh `2 * twopowers(2)` ki value calculate ho kar 2 * 4 = `8` pata chal jaati hai. Yeh `twopowers(4)` ki value hai.\n",
+	"introduction_key19": "Ab kyuki `twopowers(4)` ki value pata hai. Toh `2 * twopowers(3)` ki value calculate ho kar 2 * 8 = `16` pata chal jaati hai. Yeh `twopowers(5)` ki value hai.\n",
+	"introduction_key20": "Isliye `twopowers(5)` ka answer 16 hai.\n",
+	"introduction_key21": "Kya aap isi tarah sochte hue, agli exercise mei diye hue kuch patterns ka solution likh sakte hai?\n"
+}

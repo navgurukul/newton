@@ -1,0 +1,9 @@
+{
+	"Number_key1": "name: Number\n",
+	"Number_key2": "## Number\n\n\n",
+	"Number_key3": "**Example:**\n",
+	"Number_key4": "Here in the above we stored a positive number i.e., 25 in a `variable` named a. \nThe number data type is used to represent positive or negative numbers with or without decimal place.\n",
+	"Number_key5": "The Number data type also includes some special values which are: Infinity, -Infinity and NaN. Infinity represents the mathematical Infinity ∞, which is greater than any number. Infinity is the result of dividing a nonzero number by 0, as demonstrated below:\n",
+	"Number_key6": "**Example:**\n",
+	"Number_key7": "While NaN represents a special Not-a-Number value. It is a result of an invalid or an undefined mathematical operation, like taking the square root of -1 or dividing 0 by 0, etc.\n"
+}

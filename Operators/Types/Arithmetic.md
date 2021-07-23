@@ -1,6 +1,6 @@
 ```ngMeta
 name: Arithmetic  Operators
-submission_type: url
+
 ```
 
 

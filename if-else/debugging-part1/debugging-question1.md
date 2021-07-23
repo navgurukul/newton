@@ -1,6 +1,6 @@
 ```ngMeta
 name: Question 1
-submission_type: url
+
 ```
 
 In the further questions, you will see pre-written code. You have to debug the incorrect code and submit the correct code.
