@@ -26,7 +26,7 @@ In Python, we usually use:
 
 Also, to give names to a variable is a skill in itself. Read this [article](https://hackernoon.com/the-art-of-naming-variables-52f44de00aad) to understand about naming conventions.
 
-| category           | suggested_rule            | examples                                                               |
+| Category           | Suggested_Rule            | Examples                                                               |
 |--------------------|---------------------------|------------------------------------------------------------------------|
 | `arrayVariables`   | usePlurals                | fruits, vegetables, etc.<br>fruits = ["apple", "banana", "guavas"]     |
 | `booleanVariables` |`start with is, can or has`| isOpen = True<br>canWrite = False<br>hasFruit = True                   |
