@@ -1,11 +1,10 @@
-```ngMeta
+﻿```ngMeta
 name:   Update Dictionary
 submission_type: url
 ```
 
 ## Updating Dictionary :-
-
-Hum dictionary ko update karne ke liye usme ek entry kar sakte hai ya fir key-value pair add kar sakte hai aur jo key pehle se present hai uski value change kar sakte hai. Jaisa ki niche example me dikhaya gaya hain.
+To update dictionary ,we can make an entry in it or we can add a key-value pair or we can change the value of an existing key.As given in the example explained below:-
 
 **Example 1:-**
 
@@ -43,7 +42,7 @@ print(details);
 ## Copy of Dictionary :- 
 
 
-Hum dictionary ko 2 tarike se copy kar sakte hai,phela method *copy()* and second method by using built-in function dict().
+We can copy a dictionary in two ways,first method is using `copy()` and second method by using built-in function `dict()`.
 
 
 `Example 1 :-`
@@ -58,8 +57,21 @@ mydict=classes.copy()
 print(mydict)
  ```
 
-`Ouput:-`
+*Output:-*
 
-`{'room2': '7th', 'room3': '8th', 'room1': '6th'`
+`{'room2': '7th', 'room3': '8th', 'room1': '6th}'`
 
+If we write, mydict=dict(classes) in example 1,it will also give the same result as you can see below.
 
+ ```python
+classes ={
+	"room1":  "6th",
+	"room2":  "7th",
+	"room3":  "8th"
+		}
+mydict=dict(classes)
+print(mydict)
+ ```
+*Output:-*
+
+`{'room2': '7th', 'room3': '8th', 'room1': '6th}'`

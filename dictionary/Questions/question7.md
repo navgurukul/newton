@@ -1,10 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 7
 submission_type: url
 ```
 
-
-Ek list lijiye aur uske andar dictionaries me keys and values likhiye jaisa ki niche dikhaya gaya hai (Sample Data) aur uske baad saare unique values ko ek list me print karaye.
+Take a list having dictionary elements as shown below (Sample Data) and then store all the unique values into a list and print.
 
 **Example :-**
 

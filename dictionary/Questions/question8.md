@@ -1,10 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 8
 submission_type: url
 ```
 
-
-User se 10 students ke naam aur marks lekar unhe ek dictionary me store karaye.
+Take input of name and marks of 10 students and store to a dictionary.
 
 
 `Output :- `

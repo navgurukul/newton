@@ -1,10 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 10
 submission_type: url
 ```
 
-Ek dictionary ki value ke sabhi items ko count kijiye jo ki ek list me hai.
-
+Count the total number of items from the values of the dictionary which are in the form of a list.
 
 `Input :-`
 ```

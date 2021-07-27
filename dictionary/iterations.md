@@ -67,7 +67,7 @@ Bijender
 
 `Example  :-`
 
-dictionary se *keys* and *values* *ek sath* kaise print karte hai.
+How to print *keys* and *values* together from a dictionary?
 
 
 ```python
@@ -90,7 +90,7 @@ for x,y in movie.items():
 
 ## Dictionary length
 
-**Dictionary length** hum dictionary mai kitne items hai yai count karne ke liye karte hai.
+We use **Dictionary length** to find the number of items/key value pairs in a dictionary.
 
 `Example:- `
 

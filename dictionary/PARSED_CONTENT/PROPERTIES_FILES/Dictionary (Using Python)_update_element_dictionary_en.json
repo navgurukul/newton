@@ -1,0 +1,18 @@
+{
+	"update_element_dictionary_key1": "name:   Update Dictionary\nsubmission_type: url\n",
+	"update_element_dictionary_key2": "## Updating Dictionary :-\n\n",
+	"update_element_dictionary_key3": "To update dictionary ,we can make an entry in it or we can add a `key`-value pair or we can change the value of an existing `key`.As given in the example explained below:-\n",
+	"update_element_dictionary_key4": "**Example 1:-**\n",
+	"update_element_dictionary_key5": "*`Output`:-*\n` {'1': 'RAM', '2': 17,'3':'male'}`\n",
+	"update_element_dictionary_key6": "**Example 2-**\n",
+	"update_element_dictionary_key7": "*`Output`:-*\n",
+	"update_element_dictionary_key8": "`{'Name': 'RAM', 'Age': 17, 'student': {'id': 35, 'place': 'dharamsala'}}`\n",
+	"update_element_dictionary_key9": "## Copy of Dictionary :- \n\n\n\n",
+	"update_element_dictionary_key10": "We can copy a dictionary in two ways,first method is using `copy()` and second method by using built-in function `dict()`.\n",
+	"update_element_dictionary_key11": "`Example 1 :-`\n",
+	"update_element_dictionary_key12": "*`Output`:-*\n",
+	"update_element_dictionary_key13": "`{'room2': '7th', 'room3': '8th', 'room1': '6th}'`\n",
+	"update_element_dictionary_key14": "If we write, mydict=dict(classes) in example 1,it will also give the same result as you can see below.\n",
+	"update_element_dictionary_key15": "*`Output`:-*\n",
+	"update_element_dictionary_key16": "`{'room2': '7th', 'room3': '8th', 'room1': '6th}'`\n"
+}

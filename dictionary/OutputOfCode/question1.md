@@ -1,10 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 1 
 submission_type: url
 ```
 
-Niche diye gye code snippet ki output kya hogi?
-
+What would be the output of the below code snippet ?
 
 ```python
 a = {(1,2):1,(2,3):2}

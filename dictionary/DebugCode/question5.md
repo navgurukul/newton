@@ -1,14 +1,13 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 5
 submission_type: url
-```
+``` 
 
+In this code you have to sum the values ​​of key with name a, key b and key c.
 
-aapko iss code mai  a name ki key hai uski values ka sum karna hai , b name ki key ka sum karna hai aur c name ki key ka sum karna hai. 
+Its output should be like this:-  
 
-Iska output aisa hona chahiye :-   
-
-{'a': 400, 'b': 400, 'c': 700, 'd': 450}.`
+`{'a': 400, 'b': 400, 'c': 700, 'd': 450}.`
 
 
 
@@ -25,4 +24,3 @@ for j in b:
 		c[j]+=b[j]
 print(c)
  ```
-

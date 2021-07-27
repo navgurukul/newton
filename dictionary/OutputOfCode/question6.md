@@ -1,9 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 6
 submission_type: url
 ```
 
-Q-7. Niche diye gye code snippet ki output kya hoga?
+What would be the output of the below code snippet ?
 
 ```python
 box = {}

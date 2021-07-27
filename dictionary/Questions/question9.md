@@ -1,9 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 9
 submission_type: url
 ```
 
-"MISSISSIPPI" iss word me har letter ki occurrency count karke ek dictionary me store karaye. Jisme letter dictionary ki keys aur occurrency Uss  dictionary ki values hongi.
+Store the unique letters and their frequency of the letters from the  word "MISSISSIPPI" to a dictionary, were the letters are the keys and their frequencies are the values.
 
 
 **Example:-**

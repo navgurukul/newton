@@ -1,10 +1,10 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 7
 submission_type: url
 ```
 
 
-Niche diye gye code snippet ki output kya hogi?
+What would be the output of the below code snippet ?
 
 ```python
 rec = {

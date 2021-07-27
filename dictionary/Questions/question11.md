@@ -1,9 +1,9 @@
-```ngMeta
+﻿```ngMeta
 name:  Question 11
 submission_type: url
 ```
 
-Ek code likhiye jo dictionary ki 3 highest value print karaye. 
+Write a program to print the top 3 highest values of a given dictionary.
 
 
 `Input :-`

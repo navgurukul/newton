@@ -7,8 +7,7 @@ submission_type: url
 
 
 ## DEFINITION :-
-
-Hum dictionary banane ke liye key aur value ke pairs ko curly braces “{ }” me likhte hai aur har pair ko hum separate karne ke liye comma “,” ka use karte hai aur key ko uske nirdharit value ke saath likhne ke liye colon “:” ka use karte hain :
+To create a dictionary we put in the key value pairs in a comma separated form inside curly brackets "{ } and use the colon ":" to assign values to keys.
 
 **Example:-**
 
@@ -52,7 +51,7 @@ print(type(city_population))
 
 ## Keys Case Sensitive :-
 
-Dictionary ki keys case sensitive hoti hain , matlab hum same name ki keys ko alag alag case me likh sakte hai aur python usko alag alag keys ki tarah treat karega.
+Keys in a dictionary are case sensitive meaning that keys with same name but different cases will be treated as unique keys by python.
 
 **Example:-** 
 
@@ -72,15 +71,15 @@ green
 red
 KeyError: bat
 
-// KeyError tab aati hai jab key dictionay mai nahi hoti hai.
+// KeyError occurs when a key is not present in a dictionary.
  ```
-*Dict* me *“ball”* ek key hai aur *“green”* uski value hai. Isi tarah *“Ball”* dusri key hai aur *“red”* uski value hain.
-
+ 
+ In the dictionary *dict* *"ball"* is a key which has value *"green"*, similarly *"Ball"* is another key which has value *"red"*
 
 
 ## dict() function
 
-Aap dict() ka use kar ke dictionary bana sakte hai
+You can create a dictionary using the dict() function.
 
 `Example:-`
 
@@ -96,7 +95,7 @@ print(student)
 
 ## DataType of Keys and Values
 
-Ek *dictionary* me values kisi bhi datatype ke ho sakte hain aur ye same bhi ho sakti hai lekin keys humesha unique hoti hai.
+A *"dictionary"*  can have values of any data type and can also be same, but keys are alway to be unique.
 
 **Example:-** 
 
