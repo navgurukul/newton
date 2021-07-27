@@ -2,24 +2,26 @@
 name: Logical Operator 
 submission_type: url
 ```
-### Logical Operator(and ,or ,not ) :- 
+### Logical Operator(and, or, not) :- 
 
-Logical operators are used to combine conditional statements.
-Logical operators are used in any programming language to make decision based on multiple conditions.in python ,we used logical operators to determine whether a condition is True or False by taking operand values as base.let's consider different logical operators that are used in python programming.
+`Logical operators` are used to combine conditional statements.
+Logical operators are used in any programming language to make decision based on multiple conditions in python, we used logical operators to determine whether a condition is True or False by taking operand values as base. Let's consider different logical operators that are used in python programming.
 
-(logical operators ka use sabhi programmo me kayi condition me decision lene ke liye use kiya jata hai python me hum decision lene ke liye logical operator ka use karte hai ki kya humare operand me lagayi gayi condition True hai ya Fasle hai.)
+(Logical operators help us to take decisions and make sure the required conditions are met to proceed.)
 
 
-`and :-`  and operator ka istemal hum tab karte hai jab dono condition ko check krwani ho agar dono condition true hogi to output true ayega agr dono me se koi ek bhi condition galat hui to false aayega . kyunki and me dono condition true hone par hi output True aata hai.
+`and :-` This operator is used to check that both the conditions it operates on must be true. If both the conditions are true, ***`and`*** will return true, otherwise (even if 1 condition is false or both conditions are false), the output will be false. Example : I want apples and oranges to make a fruit salad. Here, only one of them will not complete my salad, I want both.
+
+
 
 
 **Example :-**
 
 ```python
 a = True 
-b=False 
+b = False 
 print(a and b and a)
- ```
+```
 
 `Output :-`
 
@@ -30,14 +32,14 @@ print(a and b and a)
 ```python
 number = int(input("enter the number"))
 print(number and 1)
- ```
-`Iss example mai input mai 1 deti hu toh output 1 hoga kuki dono values True hoga`
+```
+Here, the number and 1 are both true so the answer is 1.
 
-`Iss example mai input mai 0 deti hu toh output 0 hoga kuki ek  value False hoga`
+If the input is 0 then the output will be 0 because one condition is false.
 
 
 
-`or :-`  or operator me koi bhi ek condition true hoti hai to output true milta hai isme jaruri nahi hai ki dono conditon sahi ho, isme agar dono condition false ho tabhi output False aati hai.
+`or :-` This operator is used to check that one of the conditions it operates on must be true. If both the conditions are false, ***`or`*** will return false, otherwise (if 1 condition is false or both conditions are true), the output will be true. Example: I want apples or oranges to make a fruit salad. Here, only one of them will be enough to complete my salad.
 
 **Example :-**
 
@@ -45,7 +47,7 @@ print(number and 1)
 a = 4 > 5
 a = 899 < 887
 print(a or a or 7 < 8) 
- ``` 
+``` 
 `Output :-`
 
 `True`
@@ -54,16 +56,22 @@ print(a or a or 7 < 8)
 ```python
 x = "apple"
 y = "mango"
-print(x or y )
- ```
+print(x or y)
+```
 
 `Output :-`
 
 `apple`
 
 
-`not :-` not operator ka jab use karte hai tb wo condition ke opposite output dega ,agar condition true hogi to output false ayega or agr false hogi to output true deta hai.
+**The `and` and `or` operators will give an output of the value at the moment their answer is determined. For Example,
+`1 and 2` gives the output as 2 because when checking if both conditions are correct, the output or answer of `and` can be determined when it has checked the second condition.
+Similarly, for `0 and 2` the output is 0 as at the time of checking the first condition, the answer of the `and` operator is determined to be false since the first condition is false.**
 
+**For `or`, similar to `and`,  `1 or 2` will produce an output of 1 as even if the first condition is true, the output to the `or` is determined there. `0 or ""` will give `(empty String)` as the output is not 0 because the output is determined at the second condition**.
+
+
+`not :-` The ***`not`*** operator is used to get the opposite of the condition. So it gives the opposite output of whatever is the output of the condition. 
 
 
 **Example :-**
@@ -72,14 +80,15 @@ print(x or y )
 a = 19
 b = 34
 c = 56
-print(not c>b)
+print(not c > b)
  ```
 
 
 `Output :-`
 
 `False`
-
+c is actually greater than b so the condition c > b is true but adding `not` in front of it gives the opposite output, that is, false.
+ 
 **Example :-**
 
 ```python
@@ -88,7 +97,7 @@ print(not var1)
 a =True
 b= False
 print( a and b or a or not b)
- ```
+```
 
 
 `Output :-`

@@ -4,20 +4,20 @@ submission_type: url
 ```
 ### Comparison operators:- 
 
-Comparison operators ka use hum do values me tulna krne ke liye use krte hai.
+We use `comparison operators` to compare 2 values. Their answer or result is always of the boolean data type.
 
 
 | OPERATORS |           NAME            |  EXAMPLE |
 | :-------- | :-----------------------: | -------: |
-| ==        |           Equal           | 10 == 10 |
-| !=        |         Not Equal         | 10 != 13 |
-| >         |       Greater than        |    2 < 5 |
-| <         |         Less than         |    2 < 5 |
-| >=        | Greater than or  equal to |   2 <= 5 |
-| <=        |   Less than or equal to   |   2 <= 5 |
+| `==`        |           Equal           | `10 == 10` |
+| `!=`        |         Not Equal         | `10 != 13` |
+| `>`         |       Greater than        |    `2 < 5` |
+| `<`         |         Less than         |    `2 < 5` |
+| `>=`        | Greater than or  equal to |   `2 <= 5` |
+| `<=`        |   Less than or equal to   |   `2 <= 5` |
 
 
-**Equal(==):-** Agar hume do values check krna hota hai ki woh equal tab hum `==` operator ka use krte hai.
+1.**Equal(==):-** To check whether 2 values are equal, the `==` operator is used. (Since we know `=` is used for assignment so for equality it is `==`)
 
 `Example-1 :-`
 
@@ -25,58 +25,57 @@ Comparison operators ka use hum do values me tulna krne ke liye use krte hai.
 a=5
 b=5
 print(a==b)
- ```
+```
 
 `Output :-`
 
-`true `
+`true`
 
 
-`Example2 :-`
+`Example 2 :-`
 
 ```python
 a=6
 b=9
 print(a==b)
- ```
+```
 
 
 `Output`
 
 `false`
 
-**Not Equal (!=) :-** Jab hume do values ko check karna hai ki woh ek dusre ke equal nahi hai toh hum `Not Equal`operator ka use krt hai.
+2.**Not Equal (!=) :-** The `!=` operator is used to check if 2 values are unequal or not equal .
 
 
-`Example1 :-`
+`Example 1 :-`
 
 ```python
 x=10
 y=13
 print(x!=y)
- ```
+```
 `Output :-`
 
 `true`
 
-Means ki  x(10) me jo value hai wo y(13) ke barabar nahi hai.isliye jo output hoga wo true print hoga.
+This means that x=10 and y=13 are not equal.
 
 
-`Example2 :-`
+`Example 2 :-`
 
 ```python
 a=32
 b=32
 print(a!=b)
- ```
+```
 `Output :-`
 
 `false`
 
-Is question me dono value brabar hai lekin humne print me condition di hai ki values brabar nahi hai isliye condition wrong hai to output false hoga kyunki reality me 32 and 32 they both are equal.
+In the above example, both the values are equal, meaning the answer to the question "Are the 2 values unequal?" is false.
 
-
-**Greater than (>) :-** Agar hamari left value, right value se badi hogi to condition true hogi otherwise false hogi.
+3.**Greater than (>) :-** It is the same as in mathematics, it checks whether the value on the left is greater than the value on the right. If yes then the output is true otherwise it is false.
 
 
 `Example1 :-`
@@ -91,7 +90,7 @@ print(a>b)
 
 `true`
 
-Means ki jo a(6) value hai wo b(4) se badi hai to output true hoga.
+This means a=6 is greater than b=4 and so the output is seen to be true.
 
 `Example2 :-`
 
@@ -105,10 +104,10 @@ print(x>y)
 
 `false`
 
-Is example me hum x ki value ko bada keh rhe hai y ki value se jo wrong hai isliye output false hai.
+In this example we are saying that the value of x is greater than y, which is wrong hence the output is false.
 
 
-**Less than (<):-** Matlab ki left value small hoga right value se to condition true ho jayegi to true hoga.otherwise false hoga.
+4.**Less than (<):-** It is the same as in mathematics, it checks whether the value on the left is less than the value on the right. If yes then the output is true otherwise it is false.
 
 `Example 1:-`
 
@@ -120,10 +119,10 @@ print(x<y)
 `Output :-`
 
 `true`
-Is example me x me jo value hai wo y se chota hai to condition true ho rhi hai isliye output true hoga.
+In this example, x is smaller than y so the output is true.
 
 
-`Example2 :-`
+`Example 2 :-`
 
 ```python
 a=13
@@ -134,10 +133,10 @@ print(a<b)
 
 `false`
 
-Is example me a ki value b ki value se bdi hai,value ke according condition wrong hai isliye output false hoga.
+In this example, a is greater than b so the output is false.
 
 
-**Greater than or  equal to (>=) :-** Means ki jo left value hai wo right value se bada hai ya barabar hai to condition true hoga.
+5.**Greater than or  equal to (>=) :-**  It is the same as in mathematics, it checks whether the value on the left is greater than or equal to the value on the right. If yes then the output is true otherwise it is false.
 
 `Example 1:-`
 
@@ -150,9 +149,9 @@ print(a>=b)
 
 `true`
 
-Is example me a value, b ki value se badi hai isliye output true hoga.
+Here, a is greater than b so the output is true.
 
-`Example2 :-`
+`Example 2 :-`
 
 ```python
 a=12
@@ -163,11 +162,11 @@ print(a>=b)
 
 false
 
-Is question me a value, b ki value se choti hai but condition hai ki a bda hai ya brabar hai b se,yha condition wrong hai isliye ouptut false hoga.
+Here since a is not greater than b and a is also not equal to b, the output is false.
 
-**Less than or equal to (<=) :-**
+6.**Less than or equal to (<=) :-**
 
-Is operator ka use hum tb krte hai jb left value right value se chhota hoga ya barabar hoga.
+It is the same as in mathematics, it checks whether the value on the left is lesser than or equal to the value on the right. If yes then the output is true otherwise it is false.
 
 `Example 1:-`
 
@@ -180,9 +179,9 @@ print(x<=y)
 
 `true`
 
-Yha x(6) ki value y(9) ki value se small hai isliye condition true hai or output true hoga.
+In the example above, x=6 is smaller than y=9 and thus, the output is true.
 
-`Example2 :-`
+`Example 2 :-`
 
 ```python
 x=8
@@ -193,4 +192,4 @@ print(x<=y)
 
 `false`
 
-Yha x ki value badi hai but yha condition wrong hai isliye output false hai.
+Here, x is neither less than y, nor equal to y, hence the output is false.

@@ -5,38 +5,125 @@ submission_type: url
 
 
 ### ASSIGNMENT OPERATORS
+`Assignment operators` are user to assign values to variables.
+They ultimately give the value on the right of the operator to the variable on the left.
 
-Assignment operators ko hum variable mai value ko assign krne ke liye use karte hai.
 
+**Assignment Operator(=) :-**
 
-1. **Assignment operator(=):-**
+This operator assigns values to the left hand operand from the right side operand. (This operator gives the value of the operand on the right to the operand on the left).
+(Operands are values that any operator works/operates on).
 
-This operator assigns values to the left hand operand from the right side operand.(yeh operator right side operend se left side ke operand ko value deta hai.)
-
-2. **Add AND operator(+=):-**
+**Add AND Operator(+=) :-**
    
-It adds the value of right operand to the value of left hand operand.(is operator me right side ke operand ki value me left operand ki value add kiya jata hai.)
+`Add AND Operator` adds the value of right operand to the value of left hand operand and then gives the sum (result of addition) to the left operand. Here, `a+=b is the same as a=a+b`.
 
-3. **Subtract AND operator(-=):-**
+***Example***
+```python
+x=5
+y=10
+x+=y
+print(x)
+```
+
+***Output :-***
+
+`15`
+
+
+**Subtract AND Operator(-=) :-**
    
-Subtract AND operator (-=) subtract the value of the left operand from the right side operand and returns the output.(subtract and operand right side ke operand se left operand ke value ko subtract krta hai or output deta hai.)
+`Subtract AND Operator` subtracts the value of the right operand from the left side operand and gives the result to the left operand. Here, `a-=b is the same as a=a-b`.
 
-4. **Multiply AND operator(*=):-**
+***Example***
+```python
+x=10
+y=5
+x-=y
+print(x)
+```
 
-It multiplies the left hand operand with the right hand operand and returns the value as output.(yeh right side se left side ke operand ko multiply krta hai or output deta hai.)
+***Output :-***
 
-5. **Division AND operator(/=):-**
+`5`
+
+
+**Multiply AND Operator(*=) :-**
+
+`Multiply AND Operator` multiplies the left hand operand with the right hand operand and returns the value as output, that is gives the result to the left hand operand. Here, `a*=b is the same as a=a*b`.
+
+***Example***
+```python
+x=5
+y=10
+x*=y
+print(x)
+```
+
+***Output :-***
+
+`50`
+
+**Division AND Operator(/=) :-**
    
-Divide AND operator divides the left hand operand with the right hand operand value and gives the result.(divide AND operator left hand ke operand ko right hand ki value se divide krta hai.)
+`Divide AND Operator` divides the left hand operand with the right hand operand value and gives the result, that is gives the value to the left hand side operand.Here, `a/=b is the same as a=a/b`.
 
-6. **Modulus AND Operators(%=):-**
+***Example***
+```python
+x=50
+y=10
+x/=y
+print(x)
+```
 
-Its divides the value of left hand operand with the right hand one and the reminder that we get through this task will we placed as a value of x(ye right hand se left hand ke operand ko divide karta hai or divide karte reminder(sesh) milta hai jise x ke man ke roop me rakha jata hai)
+***Output :-***
 
-7. **Exponents ANDS Operators(**=) :-**
+`5`
 
-It gives us the exponential value of the left hand operand when raised two the power of the value found in the right hand side.(yeh hume left haath ke operand ki power value deta hai jab right hand ki taraf mein paye jane wali value ki power tak multiply kiya jata hai)
+**Modulus AND Operator(%=) :-**
 
-8. **Floor Division(//=):-**
+`Modulus AND Operator` divides the value of left hand operand with the right hand one and the reminder of this division becomes the new value of the left hand side operand, that is it is given to the left hand side operator. Here, `a%=b is the same as a=a%b`.
 
-Floor division divides the value found in the left hand side with the value of right hand operands. The integer value becomes the left hand operand value.(floor division left hand me milne wali value ko right hand ki value se divide karta hai or decimal ko hata kar us se pehle wali value print karta hai.)
+***Example***
+```python
+x=25
+y=10
+x/=y
+print(x)
+```
+
+***Output :-***
+
+`5`
+
+**Exponent AND Operator(**=) :-**
+
+`Exponent Operator` gives us the exponentiated value of the left hand operand when raised to the power of the value found on the right hand side. This value is then given to the left hand side operand. Here, `a**=b is the same as a=a**b`.
+
+***Example***
+```python
+x=5
+y=2
+x**=y
+print(x)
+```
+
+***Output :-***
+
+`25`
+
+**Floor Division(//=) :-**
+
+`Floor division` divides the value found in the left hand side with the value of the right hand side operand. The integer value becomes the left hand operand value. This means that the integer part of the quotient of division is given to the left hand side operand, that is remainder is ignored. Here, `a//=b is the same as a=a//b`.
+
+***Example***
+```python
+x=5
+y=2
+x//=y
+print(x)
+```
+
+***Output :-***
+
+`2`

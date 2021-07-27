@@ -6,4 +6,10 @@
   - Assignment.md
   - Comparison.md
   - Logical.md
+- Debug
+  - intro.md
+- Output
+  - intro.md
+  - Question1.md
+  - Question2.md
  

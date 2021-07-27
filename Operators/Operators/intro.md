@@ -2,8 +2,7 @@
 name: Operators 
 submission_type: url
 ```
-
-Operators ka use hum value or variable ke beech operation perform karwane ke liye karte hai.
+We use operators to perform some operation (calculation or change in the value of) between variables. Just like '+' in maths is an addition operator, similarly there are operators in Python.
 
 **Example**
 
@@ -11,11 +10,11 @@ Operators ka use hum value or variable ke beech operation perform karwane ke liy
 a=6
 b=5
 print(a+b)
- ```
+```
 **Output**
 
 `11`
 
-`Iss example me humne a variable or b variable ki value ko add kiya hai operator ki help se.
-a and b is a operant + is a operator
- a+b=11 is an operation.`
+In the above example, we have added the values of the variables a and b with the help of '+' that is addition operator.
+Here, a and b are the operands while `+` is the `operator`, so the variables that are used with an `operator` are called `operands`. 
+
