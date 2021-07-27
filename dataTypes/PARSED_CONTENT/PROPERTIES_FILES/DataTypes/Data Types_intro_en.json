@@ -1,9 +1,9 @@
 {
 	"intro_key1": "name: Data Types \nsubmission_type: url\n",
-	"intro_key2": "As **we read** the English book, every word in it is English means the **information is in English**. Whatever knowledge we are taking from Book is data and the language is it's type.\n",
-	"intro_key3": "`Data type` indicates the type of information.\n",
-	"intro_key4": "The `Data type` represents a type of value that determines which operation can be performed per data. For example, numeric, non-numeric or Boolean (`true`/`false`) data is the most commonly used data type.\n",
-	"intro_key5": "Data Type is a very important concept in Programming.\n",
-	"intro_key6": "  We can store different type of data type in the `variable`. Like Numeric, Characters. Every programming language has data types.\n",
+	"intro_key2": "As we read the English book, every word in it is English, means the **information is in English**. Whatever knowledge we are taking from the book is data, and the language is its type.\n",
+	"intro_key3": "`Data type` indicates the type of `information`.\n",
+	"intro_key4": "The `Data type` represents a type of value that determines which operation can be performed per data. For example, `numeric`, `non-numeric` or `Boolean (`true`/`false`)` data is the most commonly used data type.\n",
+	"intro_key5": "Data Type is a very important concept in `Programming`.\n",
+	"intro_key6": "We can store different type of data type in the `variable`. Like `Numeric`, `Characters`. Every `programming` language has data types.\n",
 	"intro_key7": "**Below are some data types in `Python`**\n"
 }

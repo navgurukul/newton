@@ -1,39 +1,37 @@
-﻿```ngMeta
+```ngMeta
 name: Boolean Data Type
 submission_type: url
 ```
 
-### Boolean data type
+### `Boolean` data type
 
-Boolean is a common data type of all programming languages. Boolean returns two values.
+`Boolean` is a common data type of all `programming` languages. `Boolean` returns two values.
 
-*True*
+*`True`*
 
-
-
-*False*
+*`False`*
 
 **Example :-**
 
 ```python
 a=("")
 print(bool(a))
- ```
+```
 **Output :-**
 
-`false `
+`False`
 
-`because empty string is false`
+`Because empty string is false.`
 
 **Example :-**
 ```python
 b=("megha")
 print(bool(b))
- ```
+```
 **Output :-**
-`True `
+`True`
 
-`because any string is true except empty`
+`Because any string is true except empty.`
 
 **Example :-**
 ```python
@@ -41,7 +39,7 @@ print(True)
 print(type(True))
 print(False)
 print(type(False))
- ```
+```
 **Output :-**
 
 `True`
@@ -51,5 +49,4 @@ print(type(False))
 `False`
 
 `<class bool>`
-
 

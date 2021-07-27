@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 2
 submission_type: url
 ```
@@ -12,7 +12,7 @@ print(bool(None))
 print(bool(0))
 print(bool(""))
 print(bool(1))
- ```
+```
 
 B. 
 
@@ -21,14 +21,14 @@ x = 20
 y = 5
 result = x + True + y - False
 print(result)
- ```
+```
 
 C.
 
 ```python
 str3='''Hello'''  """ """+ """World"""
 print(str3)
- ```
+```
 
 D.
 
@@ -40,4 +40,4 @@ print(num)
 print(num + num)
 num = num + 10
 print(num)
- ```
+```

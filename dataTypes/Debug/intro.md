@@ -1,19 +1,17 @@
-﻿```ngMeta
+```ngMeta
 name:  Debug  Code
 submission_type: url
 ```
-## Debug  Code
+## `Debug Code`
 
-Now we will debug the code related to dictionary.
-
-
+Now we will `debug` the code related to data types.
 
 A.
 
 ```python
 a = "Megha"
 print a
- ```
+```
 
 B. 
 
@@ -21,14 +19,14 @@ B.
 a="navgurukul"
 b= 2016
 print(a+"," + b + "me shuru hua tha")
- ```
+```
 C. 
 
 ```python
 a="navgurukul"
 b=13
 print(a+b)
- ```
+```
 
 D.
 
@@ -36,7 +34,7 @@ D.
 a="12"
 b=13.1
 print(a+b)
- ```
+```
 
 E.
 
@@ -44,4 +42,4 @@ E.
 a = boolean("")
 b = boolean(" ")
 print(a+b)
- ```
+```

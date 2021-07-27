@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 1 
 submission_type: url
 ```
@@ -12,7 +12,7 @@ A.
 a=5
 a = a * "5"
 print(type(a))
- ```
+```
 
 B. 
 
@@ -20,7 +20,7 @@ B.
 var1 = "nav"
 var2 = "gurukul"
 print(type(var1+var2))
- ```
+```
 
 C.
 
@@ -28,7 +28,7 @@ C.
 num1="7"
 num2="number"
 print(type(num1+num2))
- ```
+```
 
 D.
 
@@ -36,4 +36,4 @@ D.
 num=6.8
 num1=5
 print(type(num+num1))
- ```
+```

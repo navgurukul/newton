@@ -1,11 +1,12 @@
 {
 	"StringQ_key1": "name: Questions \nsubmission_type: url\n",
-	"StringQ_key2": "### Note: Please read about `String` Concatenation.\n\n\n",
+	"StringQ_key2": "### Note : Please read about `String Concatenation`.\n\n\n",
 	"StringQ_key3": "# Question 1\n\n\n",
-	"StringQ_key4": "You have to take two `inputs` from the user whose data type is `string`.\n\n",
-	"StringQ_key5": "Then in `variable` by name add, store the sum of both the user `inputs`.\n\n",
-	"StringQ_key6": "Print the `variable` add.\n\n# Question 2\n\n\n\n\n",
-	"StringQ_key7": "Take one `integer` type `input` and one `string` type `input` from the user.\n\n",
-	"StringQ_key8": "Then in `variable` by name add, store the sum of both the user `inputs`.\n\n",
-	"StringQ_key9": "Print the `variable` add.\n"
+	"StringQ_key4": "1.You have to take two `inputs` from the user whose data type is `string`.\n",
+	"StringQ_key5": "2.Then in `variable` by name add, store the sum of both the user `inputs`.\n",
+	"StringQ_key6": "3.Print the `variable` add.\n",
+	"StringQ_key7": "# Question 2\n\n\n\n",
+	"StringQ_key8": "1.Take one `integer` type `input` and one `string` type `input` from the user.\n",
+	"StringQ_key9": "2.Then in `variable` by name add, store the sum of both the user `inputs`.\n",
+	"StringQ_key10": "3.Print the `variable` add.\n"
 }

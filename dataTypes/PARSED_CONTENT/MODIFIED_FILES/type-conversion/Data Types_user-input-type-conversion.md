@@ -21,11 +21,11 @@ user-input-type-conversion_key7
 
 
 ```python
-number1 = input("Ek number daalo ")
+number1 = input("Enter a number ")
 ```
 user-input-type-conversion_key8
 
-
+  
 user-input-type-conversion_key9
 
 
@@ -33,7 +33,7 @@ user-input-type-conversion_key10
   
 user-input-type-conversion_key11
 ```python
-number2 = input("Ek number daalo ")
+number2 = input("Enter a number ")
 ```
 user-input-type-conversion_key12
 
