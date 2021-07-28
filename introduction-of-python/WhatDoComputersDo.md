@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: What Do Computers Do?
 ```
 
