@@ -17,9 +17,9 @@ We use `comparison operators` to compare 2 values. Their answer or result is alw
 | `<=`        |   Less than or equal to   |   `2 <= 5` |
 
 
-1.**Equal(==):-** To check whether 2 values are equal, the `==` operator is used. (Since we know `=` is used for assignment so for equality it is `==`)
+#### 1. **Equal(==):-** To check whether 2 values are equal, the `==` operator is used. (Since we know `=` is used for assignment so for equality it is `==`)
 
-`Example-1 :-`
+`Example 1 :-`
 
 ```python
 a=5
@@ -45,7 +45,7 @@ print(a==b)
 
 `false`
 
-2.**Not Equal (!=) :-** The `!=` operator is used to check if 2 values are unequal or not equal .
+#### 2. **Not Equal (!=) :-** The `!=` operator is used to check if 2 values are unequal or not equal .
 
 
 `Example 1 :-`
@@ -75,7 +75,7 @@ print(a!=b)
 
 In the above example, both the values are equal, meaning the answer to the question "Are the 2 values unequal?" is false.
 
-3.**Greater than (>) :-** It is the same as in mathematics, it checks whether the value on the left is greater than the value on the right. If yes then the output is true otherwise it is false.
+#### 3. **Greater than (>) :-** It is the same as in mathematics, it checks whether the value on the left is greater than the value on the right. If yes then the output is true otherwise it is false.
 
 
 `Example1 :-`
@@ -107,7 +107,7 @@ print(x>y)
 In this example we are saying that the value of x is greater than y, which is wrong hence the output is false.
 
 
-4.**Less than (<):-** It is the same as in mathematics, it checks whether the value on the left is less than the value on the right. If yes then the output is true otherwise it is false.
+#### 4. **Less than (<):-** It is the same as in mathematics, it checks whether the value on the left is less than the value on the right. If yes then the output is true otherwise it is false.
 
 `Example 1:-`
 
@@ -119,6 +119,7 @@ print(x<y)
 `Output :-`
 
 `true`
+
 In this example, x is smaller than y so the output is true.
 
 
@@ -136,7 +137,7 @@ print(a<b)
 In this example, a is greater than b so the output is false.
 
 
-5.**Greater than or  equal to (>=) :-**  It is the same as in mathematics, it checks whether the value on the left is greater than or equal to the value on the right. If yes then the output is true otherwise it is false.
+#### 5. **Greater than or  equal to (>=) :-** It is the same as in mathematics, it checks whether the value on the left is greater than or equal to the value on the right. If yes then the output is true otherwise it is false.
 
 `Example 1:-`
 
@@ -164,7 +165,7 @@ false
 
 Here since a is not greater than b and a is also not equal to b, the output is false.
 
-6.**Less than or equal to (<=) :-**
+#### 6. **Less than or equal to (<=) :-**
 
 It is the same as in mathematics, it checks whether the value on the left is lesser than or equal to the value on the right. If yes then the output is true otherwise it is false.
 
