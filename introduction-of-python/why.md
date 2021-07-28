@@ -1,4 +1,4 @@
-﻿```ngMeta
+```ngMeta
 name: Why do I need to learn Python  ??
 ```
 
