@@ -1,5 +1,5 @@
 ```ngMeta
-name: Questions 
+name: Questions on String Data Types
 submission_type: url
 ```
 
