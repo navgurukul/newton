@@ -1,9 +1,9 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 3
 submission_type: url
 ```
 
-Write a program to print the sum of all the values of a given dictionary.
+Ek program likhiye jo ki dictionaries ki values ka sum print kare.
 
 
 

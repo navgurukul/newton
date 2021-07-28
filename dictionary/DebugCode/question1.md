@@ -1,9 +1,23 @@
-﻿```ngMeta 
-name: Question 1 
-submission_type: url 
-``` 
-You have been given a dictionary in which you have to print the value of some key. debug the code.
-
- ```python 
-details={ "name":"Shanti", "age":12, "email":"shanti@navgurukul.org", } print(details["name"]) print(details["lastname"]) print(details[age]) 
+```ngMeta
+name:  Question 1 
+submission_type: url
 ```
+
+ aapko ek dictionary di gai hai jisme aapko kuch key ki value print karani hai.
+
+Code ko debug karre do bug find karro.
+
+
+```python
+details={
+    "name":"Shanti",
+    "age":12,
+    "email":"shanti@navgurukul.org",
+    }
+
+print(details["name"])
+print(details["lastname"])
+print(details[age])
+
+ ```
+

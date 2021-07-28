@@ -5,7 +5,7 @@ submission_type: url
 
 ## Adding Elements to a  Dictionary:-
 
-In a python dictionary we can add only one key value pair at a time. To add to a dictionary we make mention the key inside square brackets "[ ]" and use the "=" operator to assign a value.
+Python dictionary me hum ek baar me ek hi key-value add kar sakte hai aur add karne ke liye humein key ko square brackets “[ ]” me likhte hain aur uski value ko “=” operator ka use karke assign kar dete hain.
 
 **Example 1:-** 
 ```python
@@ -46,7 +46,8 @@ print(dic)
 
 ## Key Exists or not
 
-We use the 'in' keyword to check whether a given key exists or not in a dictionary.
+Dictionary mai key exists karti hai ya nahi check karne ke liye hum in keyword ka use karte hai.
+
 
 ```python
 car ={

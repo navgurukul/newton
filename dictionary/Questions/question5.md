@@ -1,9 +1,9 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 5
 submission_type: url
 ```
 
-Create a dictionary from 2 lists, where the elements of 1st list are the keys and the elements of the 2nd list are the corresponding values.
+Do lists lekar ek dictionary banaiye jisme  pehli list ke elements keys ho aur dusri list ke elements unn keys ki values ho.
 
 **Example :-**
 

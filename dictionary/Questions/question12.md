@@ -1,9 +1,12 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 12
 submission_type: url
 ```
 
-Write a program to create a dictionary with all numbers from 1 to 15 as the keys and their squares as the corresponding values.
+Ek program likhiye jo:-
+
+Ek dictionary me 1 se 15 tak saare numbers ki keys banaye aur unke square unn keys ki values ho.
+
 
 `Output :-`
 ```

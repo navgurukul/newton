@@ -1,9 +1,9 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 5
 submission_type: url
 ```
 
-What would be the output of the below code snippet ?
+Q-6. Niche diye gye code snippet ki output kya hogi?
 
 ```python
 my_dict = {}

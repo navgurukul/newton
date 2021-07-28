@@ -1,9 +1,10 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 1 
 submission_type: url
 ```
 
-Write a program such that the below given dictionaries are into a single dictionary and add the values having same key.
+
+Ek program likhiye jisse ki niche di hui dictionaries ek hi dictionary me aa jaaye jaise ki niche Expected result me diya gaya hain or jisski bhi keys same hai unki values add ho jai.
    	 
 
 ***Example :-***

@@ -1,10 +1,10 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 7
 submission_type: url
 ```
 
 
-What would be the output of the below snippet?
+Niche diye gye code snippet ki output kya hogi?
 
 ```python
 rec = {
@@ -24,4 +24,5 @@ rec = {
     }
 id2 = id(rec)
 print(id1 == id2)
+
  ```

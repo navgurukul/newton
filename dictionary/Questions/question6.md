@@ -1,9 +1,10 @@
-﻿```ngMeta
+```ngMeta
 name:  Question 6
 submission_type: url
 ```
 
-Write a program to remove duplicate keys.
+
+Ek program likhiye jo dictionary me se duplicate keys hata de.
 
 **Example :-**
 

@@ -1,19 +1,19 @@
-﻿```ngMeta
+```ngMeta
 name:  Becoming A Programmer
 submission_type: url
 ```
 ## Becoming A Programmer
 
-In this task, you have to learn six new concepts about the dictionary.
+Iss Task mai apko dictionary ke bare mai six new concepts padne hai.
 
-First you have to read the three new concepts of the dictionary from Python's website.
+Phele apko dictionary ke three new concepts python ki website se padna hai.
 
 - https://docs.python.org/3/tutorial/datastructures.html
 
-Then you have read three new concepts from **stackoverflow**.
+Fir aap three new concepts **Stackoverflow** se padh hai.
 
 
-You will share your understanding on a Google doc and share it with your mentor and do some questions related to concepts.
+App ek google doc par apni understand likh kar apne mentor se share karenge aur concepts se related kuch questions bhi karenge.
 
-You will take a class in which you will explain the new concepts you have learned.
+App ek class lenge jisme apne jo new concepts sikhe hai woh explain karenge. 
 
