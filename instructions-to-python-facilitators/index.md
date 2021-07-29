@@ -7,4 +7,6 @@
 - python-curriculum-structure.md
 - how-to-take-a-class.md
 - spoken-english-curriculum-structure.md
+- Spoken English - Phases
+  -SpokenEnglish-Phases.md
 - Volunteer-tracker.md
