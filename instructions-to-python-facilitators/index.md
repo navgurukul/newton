@@ -8,5 +8,5 @@
 - how-to-take-a-class.md
 - spoken-english-curriculum-structure.md
 - Spoken English - Phases
-  -SpokenEnglish-Phases.md
+  - SpokenEnglish-Phases.md
 - Volunteer-tracker.md
