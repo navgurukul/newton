@@ -6,13 +6,6 @@ Holaaaa :) Welcome welcome :)
 
 **SPOKEN ENGLISH**
 
-If you're a fluent English speaker, we invite you to help us teach Spoken English to students willing to learn and help them speak more confidently. Sign up with NavGurukul/Meraki, an initiative to help rural, semi urban Indian students, housewives and salaried people who have studied in non english medium schools to speak English confidently.
-
-Volunteers opting for Spoken-English Volunteering opportunity, will be spending time over the online classes with the children coming from local schools, rural and marginalised communities. 
-
-The classes will take 1 hour per week over the course of 15 week period.
-
-These classes will take place online over Meraki application, where students use the android application, where as the volunteers have to access via [www.Merakilearn.org](http://www.Merakilearn.org) through the calendar invites.
 
 ******We have broken down the curriculum over [www.Merakilearn.org](http://www.Merakilearn.org) in parts of 15 week course material, where we expect the students to come out in better fluency and speaking by the end of this course. This can be ensured by the following phases that we have mentioned for the flow of Volunteer and Student interaction based on the structure.
 
@@ -62,13 +55,7 @@ The class conduct has to be done in following manner :
 3. This is a temporary solution till the *"Recursive Class"* - feature gets updated on Meraki.
 
 
-### Step 4 - Classes with Students
 
-1. Use the first five minutes to understand their learning journey on Meraki, and encourage them to self learn using Live Classes only as an extra help.
-2. Use the next ten minutes to recapitulate and revise previous topics, and solve their previous queries.
-3. You can use the second half of the class to share problems for the students to solve. It could be in the form of MCQs, True or False, Sentence Formation, or even Questions.
-4. You can assign some homework or prework a student must do before the next class, such as the next topic they can read/ study and come for in the next class.
-5. Keep checking in with the students if they've understood or no in between to ensure its a dialogue and not a monologue. You can try to make it as innovative and interactive as you wish to!
 
 ## Content Guidelines
 
@@ -112,6 +99,14 @@ Last 5 weeks, This phase focusses on fluency, diction, pronunciation, pauses, co
 
 1. There might be a variation amongst the students with the level of their understanding and pickup, which is where volunteers need to amalgamate and process together.
 2. Volunteers could routinely check with students if they are able to follow the content. 
+
+### Step 4 - Classes with Students
+
+1. Use the first five minutes to understand their learning journey on Meraki, and encourage them to self learn using Live Classes only as an extra help.
+2. Use the next ten minutes to recapitulate and revise previous topics, and solve their previous queries.
+3. You can use the second half of the class to share problems for the students to solve. It could be in the form of MCQs, True or False, Sentence Formation, or even Questions.
+4. You can assign some homework or prework a student must do before the next class, such as the next topic they can read/ study and come for in the next class.
+5. Keep checking in with the students if they've understood or no in between to ensure its a dialogue and not a monologue. You can try to make it as innovative and interactive as you wish to!
 
 
 **Dear coordinator, YOU ARE THE REASON WHY LETSTEACHENGLISH.ORG PROGRAM IS GROWING AT SUCH A FAST PACE. THANKS A TONNN FOR HELPING US OUT. NO PRESSURE. BUT YOU ARE THE DRIVING FACTOR FOR THE SUCCESS OF THE GROUP** :)
