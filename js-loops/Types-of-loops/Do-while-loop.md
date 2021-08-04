@@ -2,7 +2,7 @@
 name: Do While loop
 ```
 
-**Example:**
+### Example:
 
 ```javascript
 var i=1
@@ -21,7 +21,7 @@ while (i <=10)
 // 7
 // 9    
 ```
-**Explanation :**
+### Explanation:
 
 When i = 1, i%2 =1, and 1==1 true, therefore, 1 is printed. After that it is incremented to 2.
 
@@ -48,7 +48,7 @@ When i = 11 now it will check for loop condition 11<=10 clearly this is false, a
 The do while loop is a variant of the while loop which evaluates the condition at the end of each loop iteration.
           
 
-**Example:-**
+### Example:
 
 ```javascript
 let m=5;
@@ -66,7 +66,7 @@ while(n<=4)
 // 20
 ```
 
-**Explanation:-** 
+### Explanation:
 
 m = 5, n = 1, m*n = 5, n++ is 2, 2<=10, so loop will execute another time.
 
@@ -78,7 +78,7 @@ n=2, 4<=4 true, m=5, m*n(5*4) is 20, so 20 is printed and n incremented to 5
 
 n=5, 5<=4 is false so loop will stop. 
 
-**Example:-** 
+### Example:
 
 ```javascript
 let sum=0
@@ -104,7 +104,7 @@ while(i<=10)
 // 45
 // 55
 ```
-**Explanation:-** 
+### Explanation:
 
 In this code i is initial variable it starts from 0 and it will run till 10 
 
@@ -112,7 +112,7 @@ sum is another variable for storing the value of  (sum+i) this operation. every 
 
 NOTE:-  in do while loop we have to do increment inside the do block if increment will happen out of the do block it will give you error.
 
-**Example:-**
+### Example:
 ```javascript
 let v=0
 do{
@@ -127,7 +127,7 @@ while(v<=3)
 	
 In the next example, we will increment the variable completely outside the do..while statement.
 
-**Example:-**
+### Example:
 
 ```javascript
 let v=0
@@ -143,7 +143,7 @@ v++
 // 0
 // loop will run to infinity
 ```
-**Explanation:-**
+### Explanation:
 
 In the first iteration, v is 0, v gets printed, 0<= 3, so loop runs again.
 

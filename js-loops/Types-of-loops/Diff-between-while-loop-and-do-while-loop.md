@@ -2,8 +2,6 @@
 name: Do While vs While
 ```
 
-## Difference between while and do while loops
-
 ```javascript
 let i=2
 do{
@@ -22,7 +20,7 @@ while(i>10){
 From do while : 2
 From while : nothing will print
 
-**Explanation:** 
+### Explanation: 
 
 In the above example, if you see from do while 2 is printed because in do while first it won’t check loop condition and it will run 1 time because of do and after checking the loop condition it will never run.
 

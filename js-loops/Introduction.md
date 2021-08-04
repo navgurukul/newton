@@ -68,7 +68,7 @@ Now a =101, it will check for a while condition a<=100 (101<=100) that is clearl
 
 Have a look at another Loop example.
 
-**Example :**
+### Example :
 
 ```javascript
 var a = 1;
@@ -92,7 +92,7 @@ while(a <= 100){
 // 100
 ```
 
-**Explanation :-**  
+### Explanation :  
 
 This code will print 1 to 100 without using console.log 100 times.This is because of the loop. Loop helps us to work on the sequence of the tasks.
 

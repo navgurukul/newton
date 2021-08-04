@@ -2,8 +2,6 @@
 name: Object
 ```
 
-## Object Datatype
-
 Think of a dictionary. It has people’s names and their phone numbers. If we have to store this type of data, i.e. people’s names and phone numbers, then we will use something called the Object data type.
 
 The object is a complex data type that allows you to store collections of data.

@@ -2,9 +2,13 @@
 name: Exercises on Numbers
 ```
 
-**Exercises:**
+### Exercises:
 
 1. Write the program that has the variable name as num1 and assign a float value to it ?
+
+```javascript
+//please write code here
+```
 
 ```solution
 var num1=19.3;

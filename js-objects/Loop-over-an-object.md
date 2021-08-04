@@ -5,7 +5,7 @@ name: Loop over an object
 for in loop is a special type of loop that iterates over the object or an array of elements.
  
 
-**Example:**
+### Example:
 
 ```javascript
 
@@ -21,7 +21,7 @@ console.log(cars[car]),
 
 ```
 
-**Explanation:**
+### Explanation:
 
 By for in when you are looping on an array, in the car each time its key (index number) will come like 0,1 ,2 respectively. 
 
@@ -32,7 +32,7 @@ When the second time loop is running, the car value is 1, we said to print cars[
 When the third time loop is running, the car value is 2, we said to print cars[car] means cars[2] so it prints BMW because in the first position of cars we have BMW.
 
 
-**Example:**
+### Example:
 
 ```javascript
 
@@ -49,13 +49,13 @@ for(let campus in campus_list){
 
 ```
 
-**Explanation:**
+### Explanation:
 
 By for in when you are looping  on Array, in  the campus each time its key (index number) will come like 0,1 ,2, 3 respectively. 
 
 In the above example, we are using an operator with for loop. For within operators, use to give the index of an array.
 
-**Example:**
+### Example:
 
 ```javascript
 
@@ -72,7 +72,7 @@ console.log(person_details+ "= "+person[person_details]);
 
 ```
 
-**Explanation:**
+### Explanation:
 
 By for in when you are looping on Dictionary (object), in  person_details each time its key will come like name, surname, age respectively. 
 
@@ -93,7 +93,7 @@ person_details+ "= "+person[“age”],age= 37
 
 
 
-**Example:** 
+## Example:
 
 ```javascript
 
@@ -103,11 +103,11 @@ for(let eachKey in campus){
 }
  
  
-Output: 
+// Output: 
 
-Bangalore_campus
-2016
-three_months
+// Bangalore_campus
+// 2016
+// three_months
 
 ```
 

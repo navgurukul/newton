@@ -1,4 +1,4 @@
-**First:**
+### First:
 
 Debug the code as per the given sample input and output
 

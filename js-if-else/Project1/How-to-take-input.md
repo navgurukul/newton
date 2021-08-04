@@ -16,7 +16,7 @@ To know more about “readline-sync” you can read this doc as well:
 
 Note : Before using “readline-sync” make sure that it is downloaded in your laptop then only you will be able to take the input from the user.
 
-Example:
+### Example:
 
 ```javascript
 
@@ -25,7 +25,8 @@ var yourName= readlineSync.question("What is your name: ")
 console.log(playerName);
 
 ```
-**Explaination:**
+
+### Explaination:
 
 readlineSync we imported by installation using npm install readline-sync. In readlineSync we have so many functions one function is question by this you will take input whatever that you entered here it will come as a string only.
 

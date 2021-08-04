@@ -8,14 +8,14 @@ Have you ever played a game called Rock Paper Scissors? We are going to create t
 
 You can see a video on how to play Rock paper scissors.
 
-@[youtube](https://www.youtube.com/watch?v=AnRYS02tvRA)
+@[youtube](AnRYS02tvRA)
 
 Let’s play it online and see how it works :
 
 [Play Online Game](https://www.crazygames.com/game/rock-paper-scissors)
  
  
-Feedback after submit:
+### Feedback after submit:
 
 ```javascript
 let readlineSync = require("readline-sync");
@@ -52,4 +52,4 @@ else if(playerMove=="paper" && randomMoveOfComputer == "scissors"){
 ```
 
 
-**For the next course [clickHere](https://www.merakilearn.org/course/137/exercise/3536)**
+### For the next course [clickHere](https://www.merakilearn.org/course/137/exercise/3536)

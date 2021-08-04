@@ -40,7 +40,7 @@ priyanka
 nalini
 Manisha
 
-**Explanation:**
+### Explanation:
 
 toLowercase() function is used to convert any letters into small lowercase.
  

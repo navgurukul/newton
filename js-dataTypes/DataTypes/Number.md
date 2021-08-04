@@ -2,9 +2,8 @@
 name: Number
 ```
 
-## Number
 
-**Example:**
+### Example:
 
 ```javascript
 var a = 25;         // positive integer
@@ -17,7 +16,7 @@ The number data type is used to represent positive or negative numbers with or w
 
 The Number data type also includes some special values which are: Infinity, -Infinity and NaN. Infinity represents the mathematical Infinity ∞, which is greater than any number. Infinity is the result of dividing a nonzero number by 0, as demonstrated below:
 
-**Example:**
+### Example:
 
 ```javascript
 console.log(16 / 0);  // Output: Infinity

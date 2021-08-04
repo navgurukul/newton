@@ -2,9 +2,13 @@
 name: Exercises on Booleans
 ```
 
-**Exercises:**
+### Exercises:
 
 1. Write a program which will give output True by comparing two variables?
+
+```javascript
+//please write code here
+```
 
 ```solution
 var num1=5;

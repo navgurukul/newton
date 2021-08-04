@@ -18,7 +18,7 @@ functionName(argument1, argument2, argument3);
  
 You can specify parameters when you define your function to accept input values when your code is running. The parameters work like placeholder variables within a function; they're replaced at run time by the values (known as argument) provided to the function at the time of function calling. See  in the above example we are given 3 arguments when we are calling the function and accessing by the parameters like parameter1, parameter2, parameter3.
 
-**Example:**
+### Example:
 
 ```javascript
 
@@ -53,12 +53,15 @@ showFullname("Shwetha"); // 0utputs: Shwetha undefined
 ```
 
 
-**Exercises:**
+### Exercises:
 
 1. Write a function displayMultiply() and pass 3 parameters and in runtime take the arguments with the names num1, num2, num3 and multiply them and return the result?
 
-Feedback after submit
 ```javascript
+// write code here
+```
+
+```solution
 function displayMultiply(num1, num2, num3) {
    return num1*num2*num3
   }
@@ -74,7 +77,10 @@ function getResult(num1,num2,num3,num4){
 }
  
 getResult(2,3,4,5);
-// Feedback after submit: -2
+```
+
+```solution
+-2
 ```
 
 3. What is the error in this code?
@@ -85,14 +91,18 @@ function getResult(num1,num2,num3){
  
 getResult(2,3,4,5);
 ```
- 
+
+```solution
 Feedback after submit
 No error. Even though an extra parameter (5) is passed, the function getResult simply does not use it.	
-
+```
 4. Write a program that will take two parameters and print its sum?
 
-Feedback after submit
 ```javascript
+// write code here
+```
+
+```solution
 function SumOfNumbers(num1,num2){
    return num1+num2;
 }
@@ -104,17 +114,24 @@ function displayMultiply(a,b){
    console.log(a*b);
 }
 displayMultiply(2,3);
-// Feedback after submit
-// 6
 ```
+
+```solution
+6
+```
+
 6. What is the error in the following code?
 ```javascript
 	function displaySubtraction(a,b){
    console.log(ab);
 }
 displySubraction(2,3);
-// Feedback after submit: ReferenceError: display Subtraction is not defined
 ```
+
+```solution
+ReferenceError: display Subtraction is not defined
+
 The function name is not matched with the calling name so it is given Reference Error.
+```
 
 

@@ -9,6 +9,6 @@ console.log(firstname+" "+lastName);
 ```solution
 Mahendra Bathula
 
-**Explanation**
+### Explanation
 Here we added two variables firstname and lastName which contain values Mahendra and Bathula respectively. When we are printing space in between so after printing Mahendra we will get a single space and Bathula. 
 ```

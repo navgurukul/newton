@@ -2,10 +2,13 @@
 name: Exercises on Arrays
 ```
 
-**Exercises:**
+### Exercises:
 
 1. Write a program to print an array that will show you output [2,4,6,8] ?
 
+```javascript
+// please write code here
+```
 ```solution
 var arr1=[2,4,6,8];
 console.log(arr1);

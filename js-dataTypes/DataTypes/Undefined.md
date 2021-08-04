@@ -2,10 +2,9 @@
 name: Undefined
 ```
 
-## Undefined
 
+### Example:
 
-**Example:**
 ```javascript
 var a;
 var b = "Hello World!"
@@ -18,9 +17,13 @@ variable b is declared and assigned a value i.e., Hello World!
 
 The **undefined** data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, has the value undefined.
 
-**Exercises:**
+### Exercises:
 
 1. Write a program that prints undefined when I print with its variable name?
+
+```javascript
+//please write code here
+```
 
 ```solution
 var z;

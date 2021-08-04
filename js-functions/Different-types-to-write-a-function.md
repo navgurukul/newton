@@ -2,7 +2,7 @@
 name: Different types to write a function
 ```
 
-- **Name Function**
+- ### Name Function
 
 Earlier in this tutorial, you learned that functions are declared with the following syntax:
 
@@ -19,7 +19,7 @@ functionName(argument1 , argument2);
 We can call a function with a name, like addNumbers above, any time we need it by referencing its name and passing some arguments to it. This function has a name. Named functions are useful if we need to call a function many times to pass different values to it or run it several times.
 
 
-- **Function Expressions ( Anonymous function )**
+- ### Function Expressions ( Anonymous function )
 
 ```javascript
 
@@ -49,7 +49,7 @@ Notice how in the function declaration above we will declare function by writing
 
 The syntax that we've used before to create functions is called function declaration. There is another syntax for creating a function that is called a function expression. A function expression can be stored in a variable:
 
-**Example:**
+### Example:
 
 Functions stored in variables do not need function names. They are always invoked (called) using the variable name.
 
@@ -69,7 +69,7 @@ console.log(sum); // 0utputs: 32
 
 The function above is actually an anonymous function (a function without a name).
 
-**Exercises:**
+### Exercises:
 
 Define an Anonymous function and call it by taking two arguments to whether they are       equal or not?
 
@@ -81,7 +81,7 @@ var isEqual = function(str1,str2){
 isEqual("kumar","nayak");
 
 ```
-- **Self-Invoking Functions ( Immediately invoked function expression)**
+- ### Self-Invoking Functions ( Immediately invoked function expression)
 
 You have to add parentheses around the function to indicate that it is a function expression:
 
@@ -97,7 +97,7 @@ Hello!! Nayak
 
 ```
  
-**Explanation:**
+### Explanation:
 
 As we see in the example, we are not giving names and not storing the function in any variable. We are declaring it after that we are accessing it using parentheses. So, output is showing Hello!! Nayak
 
@@ -105,12 +105,14 @@ A self-invoking expression is invoked (started) automatically, without being cal
 Function expressions will execute automatically if the expression is followed by ().
 You cannot self-invoke a function declaration.
 
-**Exercises:**
+### Exercises:
 
 1.Define an Self invoking function and call it by taking two arguments to whether they are  equal or not?
 
-Feedback after submit
 ```javascript
+// write code here..
+```
+```solution
 (function(str1,str2){
    console.log(str1===str2)
 })("kumar","kumar");

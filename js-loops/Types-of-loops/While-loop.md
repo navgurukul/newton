@@ -2,7 +2,7 @@
 name: While loop
 ```
 
-**Example** :-
+### Example:
 
 ```javascript
 var count = 1;
@@ -21,7 +21,7 @@ while (count < 10) {
 
 ```
 
-**Explanation**:-
+### Explanation:
 
 count +=2 really just means count = count + 2.
 
@@ -40,7 +40,7 @@ When this loop runs the sixth time, the value of count is 11. Clearly, 11>10, so
 While loop helps us to execute a block of code. While runs upto a specified condition is true and stops once that condition is no longer true.
 
 
-**Example**:
+### Example:
 
 ```javascript
 
@@ -62,7 +62,7 @@ console.log(i)
 ```
 
 
-**Explanation**:-
+### Explanation:
 
 When this loop runs the first time, the value of i is 0, 0< 7 is true, 0%2 ==0 true ,therefore i is printed, and incremented i to 1
 

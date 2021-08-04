@@ -2,9 +2,13 @@
 name: Exercises on Strings
 ```
 
-**Exercises:**
+### Exercises:
 
 1. Write a program that contains a variable name as firstName and assign the value of your first name?
+
+```javascript
+//please write code here
+```
 
 ```solution
 var firsName="Nayak";
@@ -12,10 +16,11 @@ var firsName="Nayak";
 
 2. What is the output of the following code?
 
-``` javascript
+```javascript
 var b="Hello this is my ‘Dell Laptop’ ";
 console.log(b);
 ```
+
 ```solution
 Hello this is my ‘Dell Laptop’;
 ```
