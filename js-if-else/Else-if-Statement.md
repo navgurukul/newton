@@ -2,7 +2,7 @@
 name: Else if statement
 ```
 
-**Example**:
+### Example:
 ```javascript
     var course = "Hindi";
     if (course == "English"){
@@ -17,7 +17,7 @@ name: Else if statement
 
 ```
 
-**Explanation**:
+### Explanation:
 
 if the course is equal to English, output “Tutorial is for English”.else if the course is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above condition is true, then output “Tutorial is forJavascript”
 

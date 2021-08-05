@@ -2,21 +2,25 @@
 name: How can we run JS on our laptop?
 ```
 
-> You will need to install Node to run JS on your laptop. Without Node we can not run our js code on our laptop. 
-> Node js is an environment to run javascript code outside a web browser. Like in our laptops.
-> Here are instruction on how to install Node in Windows. 
+You will need to install Node to run JS on your laptop. Without Node we can not run our js code on our laptop.  
 
-@[youtube](https://www.youtube.com/watch?v=gHuIKptS0Qg)
+Node js is an environment to run javascript code outside a web browser. Like in our laptops.  
 
-> Here are the instructions on how to install Node in [Ubuntu](https://www.geeksforgeeks.org/installation-of-node-js-on-linux/)
+Here are instruction on how to install Node in Windows.  
 
-> You probably already have Visual Studio installed.If not installed please install you can follow these instructions given here.
+@[youtube](gHuIKptS0Qg)  
 
-> Please follow this link [Vscode](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/).
+Here are the instructions on how to install Node in [Ubuntu](https://www.geeksforgeeks.org/installation-of-node-js-on-linux/)  
 
-> console.log() we will use for printing output in the terminal like we use print in python.
 
-> To run javascript in vscode you need to install a node to do that. Follow this [link](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04) node follow option1 in the file.
+You probably already have Visual Studio installed.If not installed please install you can follow these instructions given here.  
+
+
+Please follow this link [Vscode](https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/).  
+
+console.log() we will use for printing output in the terminal like we use print in python.  
+
+To run javascript in vscode you need to install a node to do that. Follow this [link](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04) node follow option1 in the file.   
 
 - sudo apt update
 
@@ -39,4 +43,4 @@ name: How can we run JS on our laptop?
 
 > Successfully you created a file and ran it, happy coding. …….
 
-**For the next course [Click here](https://www.merakilearn.org/course/136/exercise/3524)**
+### For the next course [Click here](https://www.merakilearn.org/course/136/exercise/3524)

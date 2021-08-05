@@ -6,7 +6,7 @@ name: Dice Rolling
 
 See this example for getting an idea.
 
-https://codepen.io/Lazyboy/pen/avjgEj
+[click here](https://codepen.io/Lazyboy/pen/avjgEj)
 
 - In google search for the Dice rolling application 
 - View the different applications

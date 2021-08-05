@@ -21,7 +21,7 @@ Before we use a function, we need to define it. The most common way to define a 
 
 Function is a block of code you can call as many times as you want. A function is a group of statements that perform specific works and can be kept and maintained separately from the main program. Here are some advantages of using functions:
 
-- **Functions decrease the repetition of code** —  Function allows us to get commonly used blocks of code into a single place. Now you can perform the same event by calling this function wherever you want within your code without writing the same block of code again and again.
+- Functions decrease the repetition of code** —  Function allows us to get commonly used blocks of code into a single place. Now you can perform the same event by calling this function wherever you want within your code without writing the same block of code again and again.
 
 - **Functions makes the code much easier to handle** — Because a function created once can be used multiple times, so any changes made inside a function automatically goes at all the places without touching the all files.
 

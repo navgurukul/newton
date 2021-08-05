@@ -2,11 +2,12 @@
 name: for in vs for of
 ```
 
-# Difference between for( in ) and for (of): 
-
-let Navgurukul = ['Pune', 'Bangalore', 'Sarjapur'];
+### Example:
  
 ```javascript
+
+let Navgurukul = ['Pune', 'Bangalore', 'Sarjapur'];
+
 // cmpKey are the property keys
 for (let cmpKey in Navgurukul) {
  console.log(cmpKey);
@@ -29,9 +30,9 @@ for (let cmpValue of Navgurukul) {
 
 ```
 
-**Explanation**:
+### Explanation:
 
-**Note**: For in loop iterates on the keys or indexes that are there in the list but for of loop will run the values. And for in will work on objects too but for of can’t.
+#### Note: For in loop iterates on the keys or indexes that are there in the list but for of loop will run the values. And for in will work on objects too but for of can’t.
 
 ```javascript
 const campus={"camp_name":"Bangalore_campus","establish":2016,"election":"three_months"}

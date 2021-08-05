@@ -4,7 +4,7 @@ name: Else statement
 
 > If any “ if ”  condition is false then an “else” statement comes into the picture.
 
-**Example**:
+### Example:
 ```javascript
 var a = 10;
 var b = 12;
@@ -19,14 +19,16 @@ console.log(b," is greater than " ,a);
 
 ```
 
-**Explanation**: 
+### Explanation: 
 
 In this example if a condition is false. So, else statement will execute
 
 
-**Example**: Write a program to find the maximum between two numbers.
-```javascript
+### Example: 
 
+Write a program to find the maximum between two numbers.
+
+```javascript
 var num1= 10;
 var num2 = 20;
  
@@ -41,7 +43,6 @@ else{
 
 ```
 
-**Explanation**:
+### Explanation:
 
-The condition that we given num1> num2  is false because num1 (10) is not greater than num2(20), So, if condition is false it will go to else condition and print the
-num2 is greater than num1.
+The condition that we given num1> num2  is false because num1 (10) is not greater than num2(20), So, if condition is false it will go to else condition and print the num2 is greater than num1.

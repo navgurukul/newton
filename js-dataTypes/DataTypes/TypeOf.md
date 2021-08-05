@@ -2,7 +2,7 @@
 name: TypeOf
 ```
 
-## The typeof function
+### Example:
 
 ```javascript
     typeof 15;  // Returns: "number"
@@ -22,12 +22,12 @@ The typeof operator is particularly useful in the situations when you need to pr
 typeof Null;  // Output: "object"
 ```
 
-**Explanation:   **
+### Explanation:
 
 As you can clearly see in the above example when we test the null value using the typeof operator , it returns "object" instead of "null".
 This is a long-standing bug in JavaScript, but since lots of codes on the web are written around this behavior, and thus fixing it would create a lot more problems, so the idea of fixing this issue was rejected by the committee that design and maintains JavaScript.
 
-// Numbers
+#### Numbers
 ```javascript
 typeof 15;  // Output: "number"
 typeof 42.7;  // Output: "number"
@@ -35,31 +35,31 @@ typeof 5.5e-6;  // Output: "number"
 typeof Infinity;  // Output: "number"
 typeof NaN;  // Output: "number". Despite being "Not-A-Number"
 ```
-// Strings
+#### Strings
 ```javascript
 typeof '';  // Output: "string"
 typeof 'hello';  // Output: "string"
 typeof '12';  // Output: "string". Number within quotes is typeof string
 ```
-// Booleans
+#### Booleans
 ```javascript
 typeof true;  // Output: "boolean"
 typeof false;  // Output: "boolean"
 ```
-// Undefined
+#### Undefined
 ```javascript
 typeof undefined;  // Output: "undefined"
 typeof undeclaredVariable; // Output: "undefined"
 ```
-// Objects
+#### Objects
 ```javascript
 typeof {name: "John", age: 18};  // Output: "object"
 ```
-// Arrays
+#### Arrays
 ```javascript
 typeof [1, 2, 4];  // Output: "object"
 ```
-// Functions
+#### Functions
 ```javascript
 typeof addNumbers(){};  // Output: "function"
 ```

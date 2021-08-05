@@ -2,9 +2,13 @@
 name: Exercises on Objects
 ```
 
-**Exercises:**
+### Exercises:
 
 1. Write a program where a variable contains an object related to you with the properties of firstName, lastName, Phone Number, and isHealthy (true or false), and print it on console? 
+
+```javascript
+// please write code here
+```
 
 ```solution
 var myDetails={

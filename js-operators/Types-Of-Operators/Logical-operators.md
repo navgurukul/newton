@@ -2,7 +2,6 @@
 name: Logical Operators
 ```
 
-## Logical Operators
 
 Logical operators are used to combine two or more conditions.
 

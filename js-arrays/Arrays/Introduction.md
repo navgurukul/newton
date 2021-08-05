@@ -2,9 +2,10 @@
 name: Arrays
 ```
 
-## Arrays
 
-Think about a list of your favourite things. For example, 
+Think about a list of your favourite things. 
+
+For example, 
 
 your mother’s name, Ramani
 

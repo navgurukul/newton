@@ -1,6 +1,7 @@
 ```ngMeta
 name: Deleting properties
 ```
+
 ```javascript
 
 var myHome = {

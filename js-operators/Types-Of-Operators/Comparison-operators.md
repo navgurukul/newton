@@ -2,8 +2,6 @@
 name: Comparison Operators
 ```
 
-## Comparison Operators
-
 JavaScript language includes operators that compare two operands and return Boolean value (true or false).
 
 Assume variable A holds 10 and variable B holds 20, then −

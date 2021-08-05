@@ -2,10 +2,6 @@
 name: What is an Operator?
 ```
 
-# Operators
-
-## What is an Operator?
-
 Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them
 
 ```javascript

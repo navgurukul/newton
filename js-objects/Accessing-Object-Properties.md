@@ -31,7 +31,7 @@ console.log(vegetable3);
 
 ```
 
-**Explanation:**
+### Explanation:
 
 vegetables.veg1 would have the value of potato, vegetables.veg2 would have the value of brinjal, vegetables.veg3 would have the value of bottle gourd.
 
@@ -62,6 +62,6 @@ console.log(myDetails["middle name"])
 
 ```
 
-**Explanation:**
+### Explanation:
 
 myDetails["first name"] would be the string “kumar”, myDetails["last name"] would be the string “vadthya”, myDetails["middle name"] would be the string “nayak”.

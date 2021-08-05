@@ -2,11 +2,10 @@
 name: For of loop
 ```
 
-# for of Loop
 
 Loops over iterable objects such as array .
 	
-**Example**:
+### Example:
 ```javascript
 arr=["a","b","g","r","t"]
 for(let le of arr){
@@ -23,25 +22,25 @@ console.log(le);
 
 ```
 	
-**Example**: 
+### Example: 
 ```javascript
 let name=["komal","shweta","rani","swati","mahi","shanti","sarmistha"]
 for(let lname of name){
    console.log(lname);
 }
 
-Output: 
-komal
-shweta
-rani
-swati
-mahi	
-shanti
-sarmistha
+// Output: 
+// komal
+// shweta
+// rani
+// swati
+// mahi	
+// shanti
+// sarmistha
 
 ```
 
-**Explanation**:
+### Explanation:
 
 By for of loop, when we are looping on array, in lname we will get the each element one by one, like "komal","shweta","rani","swati","mahi","shanti","sarmistha" respectively.
 
@@ -62,7 +61,7 @@ When the loop is running for seventh time, lname value is “sarmistha”, we as
 
 
 
-**Example**: 
+### Example: 
 ```javascript
 number_list=[23,"maan",67,"gouri",90,45,34]
 for(let num of number_list){
@@ -81,7 +80,8 @@ console.log(num);
 // 34
 
 ```
-Explanation:
+### Explanation:
+
 By for of loop, when we are looping on an array named as number_list, in num we will get each element one by one, like 23, “maan”, 67, “gouri”, 90, 45, 34 respectively.
 
 When the loop is running for the first time, the num value is 23, we asked to print num only, it prints 23.
@@ -100,7 +100,7 @@ When the loop is running for the seventh time, the num value is 34, we asked to 
 
 
 
-**Example:**
+### Example:
 
 ```javascript
 
@@ -117,7 +117,7 @@ for(let prop of obj){
 
 ```
 	
-**Explanation**: 
+### Explanation: 
 
 The for of loop doesn’t work with an object because it only works  with arrays.
 you want to iterate over the properties(key,value pair) of the object you can use for in loop. 

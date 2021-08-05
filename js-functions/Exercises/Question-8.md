@@ -1,6 +1,9 @@
 1.Define an Self invoking function and call it by taking two arguments to  checkwhether they are  equal or not?
 
 
+```javascript
+// write code here
+```
 
 ```solution
 
@@ -10,4 +13,4 @@
 
 ```
 
-**For the next course [clickHere](https://www.merakilearn.org/course/147/exercise/3549)**
+### For the next course [clickHere](https://www.merakilearn.org/course/147/exercise/3549)

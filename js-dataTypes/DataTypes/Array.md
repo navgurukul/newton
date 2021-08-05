@@ -2,8 +2,6 @@
 name: Array
 ```
 
-## The Array Data Type
-
 Think about a list of your favourite things. For example, 
 
 your mother’s name, Ramani

@@ -2,12 +2,12 @@
 name: Variables
 ```
 
-**Example:**
+### Example:
 ```javascript
 var myName;
 ```
 
-**Explanation:**
+### Explanation:
 
 In the above example it creates a variable called myName. And variables work like a container to hold the value that we give after equal to (=).
 
@@ -22,15 +22,23 @@ In javascript we end with semicolons(;). Variable names can be made up of number
 
 In the computer world data is everything which is meaningful to computers. We have so many different types of data types which are string, number, boolean, object , undefined , null etc.,
 
-**Some more Examples:**
+### Some more Examples:
 
 1. Use the var keyword to create a variable called ourCampusName?
+
+```javascript
+// please write code here
+```
 
 ```solution
 var ourCampusName;
 ```
 
 2. Use the var keyword to create a variable called myVillage?
+
+```javascript
+// please write code here
+```
 
 ```solution
 var myVillage; 

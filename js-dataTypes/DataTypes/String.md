@@ -2,13 +2,12 @@
 name: String
 ```
 
-# Strings
-
-**Example:**
+## Example:
 
 ```javascript
 var greet1 = 'Hi Nayak!';  // using single quotes
 ```
+
 ```javascript
 var greet2 = "Hi Nayak!";  // using double quotes
 ```
@@ -31,7 +30,7 @@ output : kumar
 
 You can include quotes inside the string as long as they don't match the enclosing quotes.
 
-**Example:**
+### Example:
 
 ```javascript
 var a = "I’m going to the classroom"; // single quote inside double quotes

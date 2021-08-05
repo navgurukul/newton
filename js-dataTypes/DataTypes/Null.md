@@ -2,13 +2,12 @@
 name: Null
 ```
 
-## Null
 
 This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string ("") or 0, it is simply nothing.
 
 A variable can be explicitly emptied of its current contents by assigning it the null value.
 
-**Example:**
+### Example:
 
 ```javascript
 var a = null;
@@ -19,9 +18,13 @@ b = null;
 console.log(b) // Output: null
 ```
 
-**Exercises:**
+### Exercises:
 
 1. Write a program to print null when I console a variable name is y?
+
+```javascript
+//please write code here
+```
 
 ```solution
 var y= null;

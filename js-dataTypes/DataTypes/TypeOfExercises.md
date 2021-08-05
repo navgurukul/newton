@@ -2,7 +2,7 @@
 name: Exercises on TypeOf
 ```
 
-**Exercises:**
+### Exercises:
 
 1. What is the output of the following code?
 
@@ -31,4 +31,4 @@ ohhhh you missed a parenthesis.
 ```
 
 
-**For the next course [clickHere](https://www.merakilearn.org/course/130/exercise/3261)**
+### For the next course [clickHere](https://www.merakilearn.org/course/130/exercise/3261)

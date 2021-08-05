@@ -2,7 +2,7 @@
 name: Musical Instrument
 ```
 
-see this example https://codepen.io/rajeev-artha/full/pVdNNK/
+see this example [click here](https://codepen.io/rajeev-artha/full/pVdNNK/)
 
 In this project you need to make a musical instrument piano, when you will press different keys it will give different sounds like "Sa" "Re" "Ga" "Ma" "Pa" "Dha" "Ni" "Sa". 
 
@@ -13,7 +13,7 @@ In this project you need to make a musical instrument piano, when you will press
 3. You have to learn about keypress in javascript. it has predefined properties and funstions understand them first and use them.
 
 for keypress
-https://developer.mozilla.org/en-US/docs/Web/Events/keypress
+[click here](https://developer.mozilla.org/en-US/docs/Web/Events/keypress)
 
 4. in keypress event we will store a key on which value is stored. you can use switch case for finding which key is pressed on keyboard and play corresponding sound on code.
 

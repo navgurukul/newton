@@ -9,6 +9,6 @@ console.log(Str1);
 ```solution
 ReferenceError: Str1 is not defined
 
-**Explanation**
+### Explanation
 Because str1 is in small letters but we tried to console Str1 so it didn’t get Feedback after submitting that, it threw a reference error.
 ```

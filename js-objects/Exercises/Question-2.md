@@ -5,3 +5,7 @@ Write a programme to generate and print a dictionary that contains a number (bet
 Sample input (n = 5) :
 
 Output : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}.
+
+```javascript
+// please write code here
+```

@@ -8,13 +8,13 @@ We are going to do a calculator which we can use on the web.
 
 This is where you will get [basic html code](https://github.com/vknayak/JS-projects/blob/main/Project5/index.html) for a calculator. We have to work on html elements to get the data.
 
-![Navgurukul calculator pic](https://lh5.googleusercontent.com/JrOVKK2MjVe9qdKPy7nSvz1U3zKb5-k8-Wyn4vL-bHpAbqIg54Xz1MI-0E_w_gegT-IJ7WJbiH_woqOcfNMVQnrk4JvmRn2SE1lVF1A)
+![Navgurukul calculator pic](images/calculator_pic.png)
 
 Script file that is to be used in a calculator where we have our functions to do the computations.
 
 [https://github.com/vknayak/JS-projects/blob/main/Project5/script.js](https://github.com/vknayak/JS-projects/blob/main/Project5/script.js)
 
-![how to add script tag](https://lh5.googleusercontent.com/dQ87Acy16ynyYODf7x4-vmW6ryJ8RCOVRJLfaEghmv9QKAVAntFLwKJ9dpF436bLmXl3VVp2MzL5FOu8w8kjgZLZTivWbY5sfACWQm8o8xlAcFHW0wGcXWR1vfFm0DgDOuumkmKY)
+![how to add script tag](images/how_to_add_script.png)
 
 function that display value
 

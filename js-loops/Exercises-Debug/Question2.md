@@ -1,4 +1,4 @@
-**Second**
+### Second
 
 Print the maximum number in between the numbers given by user?
 

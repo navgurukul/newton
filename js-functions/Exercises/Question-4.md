@@ -1,5 +1,8 @@
 Define an Anonymous function and call it by taking two arguments to whether they are equal or not?
 
+```javascript
+// write code here
+```
 
 ```solution
 

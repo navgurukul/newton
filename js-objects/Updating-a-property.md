@@ -2,7 +2,7 @@
 name: Updating a property
 ```
 
-For example, let's look at myHome:
+### For example, let's look at myHome:
 
 ```javascript
 

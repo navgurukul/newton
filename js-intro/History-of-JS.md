@@ -3,15 +3,16 @@ name: History of JS
 ```
 
 
-> In 1995, JavaScript was created by a developer named Brendan Eich. First, it was called Mocha that later was renamed to LiveScript and then Javascript. 
+In 1995, JavaScript was created by a developer named Brendan Eich. First, it was called Mocha that later was renamed to LiveScript and then Javascript. 
 
-> Some more Information about browser and importance of Javascript from 
 
-@[youtube](https://youtu.be/9WfPJKiKs_I?t=679)
+Some more Information about browser and importance of Javascript from this video.
+
+@[youtube](679)
 
 # What You Can Do with JavaScript
 
-@[youtube](https://www.youtube.com/watch?v=VePxnvFBZAs)
+@[youtube](VePxnvFBZAs)
 
 - [Things you can build with JavaScript?](https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/)
 

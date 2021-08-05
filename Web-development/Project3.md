@@ -2,7 +2,7 @@
 name: Get HTML elements
 ```
 
-Understand about prompt below :
+### Understand about prompt below :
 
 You already know about readline-sync that is useful for taking an input, but in browsers we have one default function named prompt which will give an popup whenever it is called to take input.
 
@@ -10,7 +10,9 @@ You already know about readline-sync that is useful for taking an input, but in 
 var yourName= prompt("Please enter your name");
 ```
 
-You can read more about the prompt here. [how to use promt](https://www.w3schools.com/jsref/met_win_prompt.asp)
+You can read more about the prompt here. 
+
+[how to use promt](https://www.w3schools.com/jsref/met_win_prompt.asp)
 
 Write a programme in Javascript like a web crawler, you have to take input from the user, who is interested in finding the links based on that particular substring. you have to fetch all the links which contain the user given substring as a text in all links.
 
@@ -23,7 +25,7 @@ Website: www.navgurukul.org
 
 Substring: MERAKI
 
-![links by using substring](https://lh6.googleusercontent.com/8j7X_fFROpVQo5zZ9IH2Vnqi1lmC3hffi5cyf4WYVdZ8ORIqJ_3Dfui4_syghC5k1O8nMBSZvsOJbMWqymzpiywkNxxX3KhEVIZihOr7v3gwCkQYWmi2Q2UOy3lcR8MozeK0dift)
+![links by using substring](images/links_by_using_substring.png)
 
 How to add Script file in html
 
@@ -39,14 +41,14 @@ This is the html page of a small web page. What you need to do is write a script
 
 And the script file is attached with html in script tag with src attribute.
 
-**Script.js**
+### Script.js
 
-// Get the value of h1 tag that is there in given webpage by using dom 
+Get the value of h1 tag that is there in given webpage by using dom 
 method: getElementById store it in a variable and console it
  
 // write the code from below line….
 
-**Finding HTML Elements**
+### Finding HTML Elements
 
 You can manipulate html Elements by using Javascript, you have so many type to do that but the basic one we will discuss now.
 

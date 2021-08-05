@@ -3,12 +3,13 @@ name: Project Menstrual Clock
 ```
 
 
-1. create 1 html/CSS page where it displays clock and todays date and year as like this https://codepen.io/josephshambrook/full/xmtco.
+1. create 1 html/CSS page where it displays clock and todays date and year as like this [click here](https://codepen.io/josephshambrook/full/xmtco).
 Try that for not seeing the code.You can use transform and transform-origin css style properties for showing the hands of clock.(Hint: try "transform" and "transform-origin")
 
-2. for getting present day we use https://www.w3schools.com/js/js_dates.asp.
+2. for getting present day we use [click here](https://www.w3schools.com/js/js_dates.asp).
+
 for getting date or month or year from objects wer have the pre-defined methods
-like this https://www.w3schools.com/js/js_date_methods.asp. Get them and store them in seperate varaibles to use it later.
+like this [click here](https://www.w3schools.com/js/js_date_methods.asp). Get them and store them in seperate varaibles to use it later.
 
 For showing date you need to change html data,, for that you can use innerHTML, getElementById or any other method you can use it and show it.
 
@@ -19,7 +20,7 @@ For showing date you need to change html data,, for that you can use innerHTML, 
 
 5. In your web browser you can store the previous period dates also permanently in localstorage.
 
-https://www.w3schools.com/html/html5_webstorage.asp
+[click here](https://www.w3schools.com/html/html5_webstorage.asp)
 
 6. By the previous period date it would calculate the avaerage difference in betwwen in period dates..
 

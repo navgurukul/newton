@@ -2,7 +2,6 @@
 name: Assignment Operators
 ```
 
-## Assignment Operators
 
 JavaScript includes assignment operators to assign values to variables.
 
