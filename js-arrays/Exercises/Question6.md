@@ -10,4 +10,4 @@ console.log(myFavouriteGames)
 ```
 
 
-### For the next course [clickHere](https://www.merakilearn.org/course/150/exercise/3635)
+**For the next course [clickHere](https://www.merakilearn.org/course/150/exercise/3635)**
