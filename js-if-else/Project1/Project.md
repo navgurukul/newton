@@ -52,4 +52,4 @@ else if(playerMove=="paper" && randomMoveOfComputer == "scissors"){
 ```
 
 
-### For the next course [clickHere](https://www.merakilearn.org/course/137/exercise/3536)
+**For the next course [clickHere](https://www.merakilearn.org/course/137/exercise/3536)**
