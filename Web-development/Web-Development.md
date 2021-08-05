@@ -4,7 +4,7 @@ name: Web Development
 
 Watch this video to understand how to use what we need to install.
 
-@[youtube](cvvwkgp4HBg&)
+@[youtube](cvvwkgp4HBg)
 
 For running the javascript we don’t need the npm also, it will run on your web browser,
 
