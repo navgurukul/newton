@@ -8,7 +8,7 @@ In 1995, JavaScript was created by a developer named Brendan Eich. First, it was
 
 Some more Information about browser and importance of Javascript from this video.
 
-@[youtube](679)
+@[youtube](679s)
 
 # What You Can Do with JavaScript
 
