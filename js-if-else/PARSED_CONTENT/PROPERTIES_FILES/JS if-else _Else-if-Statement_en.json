@@ -1,0 +1,7 @@
+{
+	"Else-if-Statement_key1": "**Example**:\n",
+	"Else-if-Statement_key2": "**Explanation**:\n",
+	"Else-if-Statement_key3": "if the course is equal to English, `output` “Tutorial is for English”.else if the course is equal to Hindi, `output` “Tutorial is for Hindi”.if nothing of the above condition is `true`, then `output` “Tutorial is forJavascript”\n",
+	"Else-if-Statement_key4": "> else If condition specifies a new condition if the first condition will be  `false` then it checks other conditions. When we have many conditions and we want a condition to be `true` then we use an else-if `statement`.\n\n",
+	"Else-if-Statement_key5": "> We have done a lot of questions related to if `statements` in `python`. To understand the `syntax` of Javascript. Please do these questions in js. [If else questions](https://merakilearn.org/course/93/exercise/2169)\n"
+}

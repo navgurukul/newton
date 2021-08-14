@@ -1,0 +1,9 @@
+{
+	"formulas_key1": "# Formulas\n\n",
+	"formulas_key2": "Formulas, which begin with an equal sign, can configure cells to contain values calculated from other cells. In this section, you’ll use the openpyxl module to programmatically add formulas to cells, just like any normal value. For example:\n",
+	"formulas_key3": "This will store =SUM(B1:B8) as the value in cell B9. This sets the B9 cell to a formula that calculates the sum of values in cells B1 to B8. You can see this in action in Figure 12-5.\n",
+	"formulas_key4": " -->\nFigure 12-5. Cell B9 contains the formula =SUM(B1:B8), which adds the cells B1 to B8.\n",
+	"formulas_key5": "A formula is set just like any other text value in a cell. Enter the following into the interactive `shell`:\n",
+	"formulas_key6": "The cells in A1 and A2 are set to 200 and 300, respectively. The value in cell A3 is set to a formula that sums the values in A1 and A2. When the spreadsheet is opened in Excel, A3 will display its value as 500.\n",
+	"formulas_key7": "Excel formulas offer a level of programmability for spreadsheets but can quickly become unmanageable for complicated tasks. For example, even if you’re deeply familiar with Excel formulas, it’s a headache to try to decipher what =IF`ERROR`(TRIM(IF(LEN(VLOOKUP(F7, Sheet2!$A$1:$B$10000, 2, `FALSE`))>0,SUBSTITUTE(VLOOKUP(F7, Sheet2!$A$1:$B$10000, 2, `FALSE`), “ ”, “”),“”)), “”) actually does. `Python` `code` is much more readable.\n"
+}

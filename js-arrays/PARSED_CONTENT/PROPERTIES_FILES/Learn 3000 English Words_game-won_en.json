@@ -1,0 +1,9 @@
+{
+	"game-won_key1": "## Game Won?\n\n",
+	"game-won_key2": "Aapko `is_word_guessed` function update karna hai, jisse ki aap check kar payein ki jo characters user ne guess kiye hai, kya secret word unhi characters se ban sakta hai. Agar haa, toh aap `True` return karoge, nahi toh `False` return karoge.\n",
+	"game-won_key3": "## Hint\n\n",
+	"game-won_key4": "Yeh karne ke liye aap `get_guessed_word` function use kar sakte hai\n\n\n",
+	"game-won_key5": "## Solution\n\n\n",
+	"game-won_key6": "## Possible Solution\n\n",
+	"game-won_key7": "Aap yeh kaam alag tarah se bhi kar sakte hai, yeh sirf ek possible solution hai.\n"
+}

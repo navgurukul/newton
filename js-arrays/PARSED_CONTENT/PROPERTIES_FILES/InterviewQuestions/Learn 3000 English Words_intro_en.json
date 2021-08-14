@@ -1,0 +1,12 @@
+{
+	"intro_key1": "## Interview Questions\n\n\n",
+	"intro_key2": "1- What is the difference between a parameter and an argument?\n",
+	"intro_key3": "2- All functions in `Python` by default return …?\n",
+	"intro_key4": "3- What are `key`word arguments and when should we use them?\n",
+	"intro_key5": "4- How can we make a parameter of a function optional?\n",
+	"intro_key6": "5- What happens when we prefix a parameter with an asterisk (*)?\n",
+	"intro_key7": "6- What about two asterisks (**)?\n",
+	"intro_key8": "7- What is the scope?\n",
+	"intro_key9": "8- What is the difference between local and global `variables`?\n",
+	"intro_key10": "9- Why is using the global `statement` a bad practice?\n"
+}

@@ -1,0 +1,11 @@
+{
+	"random_key1": "# Part V\n\n\n",
+	"random_key2": "Aapko apna peechla wala program aise modify karna hai jiske vajah se, \"Kuch Aur\" click karne par koi random quote aur uska author aaye.\n\n\n",
+	"random_key3": "**Hints**:\n",
+	"random_key4": "Iske liye aapko Math.random() function use karna hoga.\n\n",
+	"random_key5": "**Math.random()** se 0 se 1 ke beech mei koi random number aata hai.\n\n",
+	"random_key6": "Aapko agar 0 se 4 ke beech mei random number chahiye toh Math.random() ko 4 se multiply kar do.\n\n",
+	"random_key7": "Uske baad bhi kuch decimal (yaani dashamlav) ke aage kuch hoga, jisko hatane ke liye aap Math.floor function use kar sakte ho.\n\n",
+	"random_key8": "Yaani  \n\n",
+	"random_key9": "**Concept**: Math.random() aur Math.floor() in Javascript\n"
+}

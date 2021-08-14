@@ -1,0 +1,11 @@
+{
+	"sab-saath-mei_key1": "## Sab Saath Mei\n\n\n",
+	"sab-saath-mei_key2": "Ek `code` likho jo kisi bhi list ke liye yeh `output`\nkarta hai, ki uss list mei `odd numbers`,\n`even numbers` aur sab `numbers` ka:\n",
+	"sab-saath-mei_key3": "count\n",
+	"sab-saath-mei_key4": "sum\n",
+	"sab-saath-mei_key5": "average\n\n\n",
+	"sab-saath-mei_key6": "print aaye.\n",
+	"sab-saath-mei_key7": "### Sample `Input`\n\n",
+	"sab-saath-mei_key8": "### Sample `Output`\n\n",
+	"sab-saath-mei_key9": "odd numbers ka count .... hai\neven numbers ka count .... hai\nsaare numbers ka count .... hai\nodd numbers ka sum .... hai\neven numbers ka sum .... hai\nsaare numbers ka sum .... hai\nodd numbers ka average .... hai\neven numbers ka average .... hai\nsaare numbers ka average .... hai\n"
+}

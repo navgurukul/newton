@@ -1,0 +1,9 @@
+{
+	"count-occurences_key1": "# Count Occurences\n\n\n",
+	"count-occurences_key2": "**Occurences** - occur shabd se bana hai, jiska matlab hota hai, ki kitni baar aata hai.\n",
+	"count-occurences_key3": "**Sample List**\n",
+	"count-occurences_key4": "**Sample List ka `Output`:**\n",
+	"count-occurences_key5": "Humei `char_list` mei jo bhi characters hai, unki `occurences` count karni hai, aur ek nested list mei `save` karni hai, phir uss nested list ko use kar kar jo `output` hai, woh print karna hai.\n",
+	"count-occurences_key6": "## Edge Case\n\n",
+	"count-occurences_key7": "**Solution**\n"
+}

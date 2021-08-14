@@ -1,0 +1,18 @@
+{
+	"Building_Blocks_key1": "# `Variables`\n\n\n",
+	"Building_Blocks_key2": "Kisi bhi programming language mein *`variables`* ka use values store karne ke liye hota hai - taki aap baad mein use manipulate (usme changes) kar sake.\n",
+	"Building_Blocks_key3": "Javascript mein `variables` kaise use hote hain?\n",
+	"Building_Blocks_key4": "Iska `output` 27 hoga.\n",
+	"Building_Blocks_key5": "Variables ke baare mein aur jaanne ke liye\n",
+	"Building_Blocks_key6": "yahan\n",
+	"Building_Blocks_key7": "padhe.\n",
+	"Building_Blocks_key8": "`Variables` banane ke kuch niyam hote hain:\n",
+	"Building_Blocks_key9": "`Variables` ka naam kisi letter se shuru hona chahiye.\n",
+	"Building_Blocks_key11": "Hum Javascript mein `variables` ka naam hum ",
+	"Building_Blocks_key12": "camelCase",
+	"Building_Blocks_key13": " use karke dete hain. jaise ",
+	"Building_Blocks_key14": "myAge",
+	"Building_Blocks_key15": "`Variables` ka naam aapke program ke context mein meaningful hona chahiye taaki aapka program padhne wale log ye samajh jaayein ki wah `variable` kya kar raha hai\n\n\n",
+	"Building_Blocks_key16": "**Homework**\n",
+	"Building_Blocks_key17": "Navgurukul ke sare students ka age alag alag `variables` mein store karo aur unka average javascript use karke nikalo.\n"
+}

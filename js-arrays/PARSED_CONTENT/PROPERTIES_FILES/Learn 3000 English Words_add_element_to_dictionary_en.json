@@ -1,0 +1,14 @@
+{
+	"add_element_to_dictionary_key1": "## Adding Elements to a  Dictionary:-\n\n\n",
+	"add_element_to_dictionary_key2": "`Python` dictionary me hum ek baar me ek hi `key`-value add kar sakte hai aur add karne ke liye humein `key` ko square brackets “[ ]” me likhte hain aur uski value ko “=” `operator` ka use karke assign kar dete hain.\n",
+	"add_element_to_dictionary_key3": "**Example 1:-** \n",
+	"add_element_to_dictionary_key4": "*`Output`:- * \n",
+	"add_element_to_dictionary_key5": "`{'Name': 'RAM', 'Age': 17,'ORGANIZATION': 'NAVGURUKUL', 'place':'dharamsala}`\n",
+	"add_element_to_dictionary_key6": "**Example 2:-**\n",
+	"add_element_to_dictionary_key7": "*`Output`:-*\n",
+	"add_element_to_dictionary_key8": "`{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}`\n",
+	"add_element_to_dictionary_key9": "## `Key` Exists or not\n\n\n",
+	"add_element_to_dictionary_key10": "Dictionary mai `key` exists karti hai ya nahi check karne ke liye hum in `key`word ka use karte hai.\n",
+	"add_element_to_dictionary_key11": "`Output :- `\n",
+	"add_element_to_dictionary_key12": "`Yes, 'model' is one of the `keys` in the thisdict dictionary.`\n"
+}

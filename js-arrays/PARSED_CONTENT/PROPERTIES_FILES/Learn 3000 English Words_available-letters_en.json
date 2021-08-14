@@ -1,0 +1,13 @@
+{
+	"available-letters_key1": "## Available Letters\n\n",
+	"available-letters_key2": "Ab aapko ek feature implement karna hai, jisse ki user ko hum dikha sake ki kaun kaun se letters abhi tak user ne use nahi kiye hai. Aise letters ko hum `Available Letters` ke naam se refer karenge.\n",
+	"available-letters_key3": "Aap `available_letters` ka use apni tarah se program ko interesting banane mei kar sakte hai.\n",
+	"available-letters_key4": "## Hint\n\n",
+	"available-letters_key5": "`available_letters` ke liye get_available_letters function use hota hai. Isliye aapko iss function mei changes karne hai\n",
+	"available-letters_key6": "`get_available_letters` mei further hints hai, isko karne ke liye\n\n\n",
+	"available-letters_key7": "## Solution\n\n\n",
+	"available-letters_key8": "## Possible Solution\n\n",
+	"available-letters_key9": ":\n    '''\n    letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai\n    returns: `string`, hame ye return karna hai ki kaun kaun se letters aapne nahi guess kare abhi tak\n    eg agar letters_guessed = ['e', 'a'] hai to humme baki charecters return karne hai\n    jo ki `bcdfghijklmnopqrstuvwxyz' ye hoga\n    '''\n",
+	"available-letters_key10": "```\n",
+	"available-letters_key11": "Aap yeh kaam alag tarah se bhi kar sakte hai, yeh sirf ek possible solution hai.\n"
+}

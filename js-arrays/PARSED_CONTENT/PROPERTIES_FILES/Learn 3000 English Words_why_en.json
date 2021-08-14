@@ -1,0 +1,17 @@
+{
+	"why_key1": "[Introduction of `Python` in English\n](https://www.`youtube`.com/watch?v=UlpurGz1-TU&t=9s)\n",
+	"why_key2": "[Introduction of `Python` in Hindi\n](https://www.`youtube`.com/watch?v=iWNpVTYSt74)\n",
+	"why_key3": "### Difference Between `Python2` and `Python3`\n\n\n",
+	"why_key4": "**`Python2`**\n",
+	"why_key5": "This is old version of `python` .\n",
+	"why_key6": "`Python2` has one print `statement`.\n",
+	"why_key7": "In `Python2` while printing we write like this ,\n\n\n\n",
+	"why_key8": "In `Python2` we use raw_`input` ka use for user `input`.\n\n\n",
+	"why_key9": "`Python2` has 31 `key`words .\n\n\n\n\n",
+	"why_key10": "**`Python3`**\n",
+	"why_key11": "This is the new version of `python` .\n",
+	"why_key12": "`Python3` has one print() .\n",
+	"why_key13": "In `Python3` me while  printing  we use parentheses () .\n\n",
+	"why_key14": "In `Python3` we use `input` for user's `input` .\n\n",
+	"why_key15": "`Python3` has 35 `key`words .\n"
+}

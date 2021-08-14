@@ -1,0 +1,12 @@
+{
+	"if-else-dry-run_key1": "Aap pehle iss video ko dekhein if-else program ka dry run karne ke liye. \n",
+	"if-else-dry-run_key2": "Kya yeh dono program same hai ya alag? Kyu same hai? Thoda socho.\n",
+	"if-else-dry-run_key3": "**Guess karein ki yeh jo program likha hai uppar, woh kya karta hai. Iske liye aap alag alag numbers ke saath yeh programs try karo.**\n",
+	"if-else-dry-run_key4": "### Questions\n\n",
+	"if-else-dry-run_key5": "Kya kabhi `marks <= 25 and marks>45` `True` ho sakta hai? Agar ho sakta hai, toh marks ki kaunsi value par?\n",
+	"if-else-dry-run_key6": "Iss program ko marks ki values - `20, 24, 28, 30` ke liye **`execute`** karo. Dekho ki kaun kaun si conditions `execute` nahi ho payengi.\n",
+	"if-else-dry-run_key7": "Kya aap iss program ko modify kar sakte hai, jisse ki hum sahi se student ko uske marks ke hisaab se usko grade de payein.\n\n\n",
+	"if-else-dry-run_key8": "Aap alag alag amounts ke liye yeh `code` run kar kar dekh sakte hai, better practice ke liye.\n",
+	"if-else-dry-run_key9": "u1 aur u2 ko different different values jaise \"**rock**\", \"**scissors**\", \"**paper**\", etc. de kar try karo aur samjho iss program ka `control flow` kaisa hai.\n",
+	"if-else-dry-run_key10": "Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho.\n"
+}

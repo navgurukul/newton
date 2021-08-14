@@ -1,0 +1,6 @@
+{
+	"Difference-between-for(in)-and-for(of)_key1": "# Difference between for( in ) and for (of): \n\n\n",
+	"Difference-between-for(in)-and-for(of)_key2": "let Navgurukul = ['Pune', 'Bangalore', 'Sarjapur'];\n",
+	"Difference-between-for(in)-and-for(of)_key3": "**Explanation**:\n",
+	"Difference-between-for(in)-and-for(of)_key4": "**Note**: For in `loop` iterates on the `keys` or indexes that are there in the list but for of `loop` will run the values. And for in will work on objects too but for of can’t.\n"
+}

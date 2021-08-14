@@ -1,0 +1,16 @@
+{
+	"variables-intro_key1": "## What are `Variables` ?\n\n\n",
+	"variables-intro_key2": "**`VARIABLE`** is a memory/location in which the data is stored. Whose value we can change that is called a `VARIABLE`. You can give any name to the **`VARIABLE`** and you can store anything in the `variable`.\n",
+	"variables-intro_key3": "Just as we can store `123` in a `VARIABLE` named as `variable_x`.\n",
+	"variables-intro_key4": "Similarly we can put `9999` in a `VARIABLE` named as `a`.\n\n\n",
+	"variables-intro_key5": "As you remember that 123 and 9999 are `INTEGERS`.\n",
+	"variables-intro_key6": "Let's see what happens when we print `variable_x` and `a`.\n",
+	"variables-intro_key7": "We can give another value to `variable_x`, by this `variable_x` will be updated. As you can see below that we have given a value 9.9 to the `variable`_x now.\n",
+	"variables-intro_key8": "Now print `variable`_x to see its value.\n",
+	"variables-intro_key9": "As you remember that `9.9` is `float`. That means we can give different values to a `variable`. Value of `a`is not changed because we have not updated it. Now we can update `a` and make a new `variable` `b`.\n",
+	"variables-intro_key10": "Now print them to see the `output`.\n",
+	"variables-intro_key11": "### Dry Run \n\n\n",
+	"variables-intro_key12": "You all have to do these questions using pen and paper. Solve all the exercises in your notebooks and ask other people around you to check the solution.\n",
+	"variables-intro_key13": "To understand about the dry run of `variables`,please see this video.\n",
+	"variables-intro_key14": "To understand and verify this solution you can watch these videos.\n"
+}

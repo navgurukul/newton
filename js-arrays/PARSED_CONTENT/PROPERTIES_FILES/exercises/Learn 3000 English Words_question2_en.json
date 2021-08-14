@@ -1,0 +1,8 @@
+{
+	"question2_key1": "Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge\n",
+	"question2_key2": "`input` ka use kar ke do values ka `input` lo:\n",
+	"question2_key3": "Number of students\n",
+	"question2_key4": "Ek student ka kharcha\n\n\n",
+	"question2_key5": "Iss ke hisaab se total kharcha nikalein. Agar total kharcha 50000 (50 hazar) ya usse kam hai toh print karein `\"Hum budget ke andar hain\"` nahi toh print karo ki hum budget ke bahar hain.\n",
+	"question2_key6": "*Note: Inn exercises mein aapko `variables` ke naam apne aap soch kar likhne hain*\n"
+}

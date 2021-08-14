@@ -1,0 +1,22 @@
+{
+	"type-conversion-question_key1": "### This is an exercise\n\n",
+	"type-conversion-question_key2": "*You can answer each question by `upload`ing a `file`.*\n",
+	"type-conversion-question_key3": "*Remember `python` `files` have .py extension.*\n",
+	"type-conversion-question_key4": "**For your sake, we have broken this question into several parts. But you have to submit in a single `file`.**\n",
+	"type-conversion-question_key5": "## Part 1\n\n",
+	"type-conversion-question_key6": "Store a `STRING` value in`var12`\n",
+	"type-conversion-question_key7": "Then typecast the `STRING` value to `FLOAT` and store in  `var13`\n\n\n",
+	"type-conversion-question_key8": "## Part 2\n\n",
+	"type-conversion-question_key9": "Store a `FLOAT` value in`var23` \n",
+	"type-conversion-question_key10": "Then typecast the `FLOAT` value to `INTEGER` and store in  `var24`\n\n\n",
+	"type-conversion-question_key11": "## Part 3\n\n",
+	"type-conversion-question_key12": "Store a `INTEGER` value in`var34`\n",
+	"type-conversion-question_key13": "Then typecast the `INTEGER` value to `STRING` and store in  `var35`\n\n\n",
+	"type-conversion-question_key14": "## Part 4\n\n",
+	"type-conversion-question_key15": "Store a `FLOAT` value in`var45` \n",
+	"type-conversion-question_key16": "Then typecast the `FLOAT` value to `STRING` and store in  `var46`\n\n\n",
+	"type-conversion-question_key17": "## Part 5\n\n",
+	"type-conversion-question_key18": "Store a `STRING` value in`var56`\n",
+	"type-conversion-question_key19": "Then typecast the `STRING` value to `INTEGER` and store in  `var57`\n\n\n",
+	"type-conversion-question_key20": "`Upload` the `code` of all the parts of this question by writing it in a single `python` `file`.\n"
+}

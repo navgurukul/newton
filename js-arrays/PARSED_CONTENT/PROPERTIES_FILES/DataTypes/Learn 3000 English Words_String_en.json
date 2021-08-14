@@ -1,0 +1,11 @@
+{
+	"String_key1": "# `Strings`\n\n\n",
+	"String_key2": "**Example:**\n",
+	"String_key3": "In the above example the `variable` a contains a greeting which is saying **Hi Nayak**, if you see the saying that is actually a **`string`**. \n",
+	"String_key4": "The `string` data type is used to represent textual data (i.e. sequences of characters). `Strings` are created using 'single' or \"double quotes\" surrounding one or more characters, as shown below:\n",
+	"String_key5": "You can include quotes inside the `string` as long as they don't match the enclosing quotes.\n",
+	"String_key6": "**Example:**\n",
+	"String_key7": "If you observe the above example, in `variable` a we have a sentence that is I’m going to the classroom, in this sentence if you see a single quote is there after I ,it won’t create a problem that is not matching with enclosing quotes because enclosing quotes are double quotes.\n",
+	"String_key8": "If you observe the above example, in `variable` b we have a sentence that is He said \"bye\" and went out.  In this sentence if you see a double quote for bye inside a single quote  ,it won’t create a problem that is not matching with enclosing quotes because enclosing quotes are double quotes.\n",
+	"String_key9": "If you observe the above example, if we have single quotes inside single quotes then it will create a problem for you to resolve that issue you need to use an escape sequence.\n"
+}

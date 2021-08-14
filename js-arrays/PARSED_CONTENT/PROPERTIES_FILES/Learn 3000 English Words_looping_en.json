@@ -1,0 +1,12 @@
+{
+	"looping_key1": "Agar aap game ko chala kar dekhoge, toh game sirf ek baar user se `input` leta hai. Aapko `code` `loop` mei daalna hai jisse ki user multiple baar letter daal daal kar try kar sake.\n",
+	"looping_key2": "Aapko bahut jyada dhyaan rakhna hai, ki kaunsi instructions `loop` mei jayengi, kaunsi nahi? \n",
+	"looping_key3": "## Hint\n\n",
+	"looping_key4": "Wohi instructions `loop` mei jayengi jo aapko lagta hai ki aapko repeat karni hai - e.g. \n",
+	"looping_key5": "user se `input` aapko har baar lena hai, toh woh `loop` mei jana chahiye\n",
+	"looping_key6": "Jab hum print karte hai \"welcome to the game\", woh sirf ek baar karein toh theek hai, toh isliye woh `loop` mei nahi hona chahiye\n\n\n",
+	"looping_key7": "## Solution Video\n\n\n",
+	"looping_key8": "## Possible Solution:\n\n",
+	"looping_key9": "Your `hangman` function can look like:\n",
+	"looping_key10": "Aapka solution alag ho sakta hai, depending on ki aap `loop` mei kaise enter karte hai, aur kaise `loop` se exit karte hai.\n"
+}

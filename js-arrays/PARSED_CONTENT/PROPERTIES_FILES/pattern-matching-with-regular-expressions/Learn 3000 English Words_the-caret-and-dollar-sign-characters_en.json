@@ -1,0 +1,9 @@
+{
+	"the-caret-and-dollar-sign-characters_key1": "# The Caret and Dollar Sign Characters\n\n",
+	"the-caret-and-dollar-sign-characters_key2": "You can also use the caret symbol (^) at the start of a regex to indicate that a match must occur at the beginning of the searched text. Likewise, you can put a dollar sign ($) at the end of the regex to indicate the `string` must end with this regex pattern. And you can use the ^ and $ together to indicate that the entire `string` must match the regex—that is, it’s not enough for a match to be made on some subset of the `string`.\n",
+	"the-caret-and-dollar-sign-characters_key3": "For example, the r'^Hello' regular expression `string` matches `strings` that begin with 'Hello'. Enter the following into the interactive `shell`:\n",
+	"the-caret-and-dollar-sign-characters_key4": "The r'\\d$' regular expression `string` matches `strings` that end with a numeric character from 0 to 9. Enter the following into the interactive `shell`:\n",
+	"the-caret-and-dollar-sign-characters_key5": "The r'^\\d+$' regular expression `string` matches `strings` that both begin and end with one or more numeric characters. Enter the following into the interactive `shell`:\n",
+	"the-caret-and-dollar-sign-characters_key6": "The last two search() calls in the previous interactive `shell` example demonstrate how the entire `string` must match the regex if ^ and $ are used.\n",
+	"the-caret-and-dollar-sign-characters_key7": "I always confuse the meanings of these two symbols, so I use the mnemonic “Carrots cost dollars” to remind myself that the caret comes first and the dollar sign comes last.\n"
+}

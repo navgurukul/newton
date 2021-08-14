@@ -1,0 +1,13 @@
+{
+	"factorial_key1": "## Factorial\n\n",
+	"factorial_key2": "Factorial ek maths ka function hota hai, jiska kaafi jagah use hota hai, specially probability yaani chance calculate karne ke liye.\n",
+	"factorial_key3": "Factorial ko hum exclamation mark `operator` se dikhate hai. Jaise,\n",
+	"factorial_key4": "`7!`, `9!`, etc.\n",
+	"factorial_key5": "Kisi bhi number ka factorial 1 se le kar uss number tak ke beech ke saare numbers ka product hota hai. Kya aap factorial function recursion ka use kar kar likh sakte hai?\n",
+	"factorial_key6": "## Hint\n\n",
+	"factorial_key7": "Agar aapko `7!` factorial nikalna hai, aur aapke paas `6!` factorial given hai, toh aap kaise nikaloge? Agar aap yeh sahi se soch paa rahe hai, phir program likhna asaan ho jayega.\n\n",
+	"factorial_key8": "Base case kya hoga?\n\n\n",
+	"factorial_key9": "## Solution\n\n",
+	"factorial_key10": "## Aage\n\n",
+	"factorial_key11": "Yeh function aap bina recursion ke bhi likh sakte hai. Kya aap bina recursion ke bhi likh kar implemment kar sakte hai?\n"
+}

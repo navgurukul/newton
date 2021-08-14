@@ -1,0 +1,10 @@
+{
+	"getting-the-body-from-a-raw-message_key1": "# Getting the Body from a Raw Message\n\n",
+	"getting-the-body-from-a-raw-message_key2": "Emails can be sent as plaintext, HTML, or both. Plaintext emails contain only text, while HTML emails can have colors, fonts, images, and other features that make the email message look like a small web page. If an email is only plaintext, its PyzMessage object will have its html_part attributes set to None. Likewise, if an email is only HTML, its PyzMessage object will have its text_part attribute set to None.\n",
+	"getting-the-body-from-a-raw-message_key3": "Otherwise, the text_part or html_part value will have a get_payload() method that returns the email’s body as a value of the bytes data type. (The bytes data type is beyond the scope of this book.) But this still isn’t a `string` value that we can use. Ugh! The last step is to call the de`code`() method on the bytes value returned by get_payload(). The de`code`() method takes one argument: the message’s character encoding, stored in the text_part.charset or html_part.charset attribute. This, finally, will return the `string` of the email’s body.\n",
+	"getting-the-body-from-a-raw-message_key4": "Continue the interactive `shell` example by entering the following:\n",
+	"getting-the-body-from-a-raw-message_key5": "   `True`\n",
+	"getting-the-body-from-a-raw-message_key6": "❷ 'So long, and thanks for all the fish!\\r\\n\\r\\n-Al\\r\\n'\n",
+	"getting-the-body-from-a-raw-message_key7": "   `True`\n",
+	"getting-the-body-from-a-raw-message_key8": "   '<div dir=\"ltr\"><div>So long, and thanks for all the fish!<br><br></div>-Al\n   <br></div>\\r\\n'\nThe email we’re working with has both plaintext and HTML content, so the PyzMessage object stored in message has text_part and html_part attributes not equal to None ❶ ❸. Calling get_payload() on the message’s text_part and then calling de`code`() on the bytes value returns a `string` of the text version of the email ❷. Using get_payload() and de`code`() with the message’s html_part returns a `string` of the HTML version of the email ❹.\n"
+}

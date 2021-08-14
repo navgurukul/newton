@@ -1,0 +1,12 @@
+{
+	"variables-question_key1": "*To answer any question you can `upload` the `file`.*\n",
+	"variables-question_key2": "*Remember `python` `file` extension is `.py`.*\n",
+	"variables-question_key3": "**Just for your ease we have broken up this question into multiple parts. But you have to do the submission in single `file` only.**\n",
+	"variables-question_key4": "## Question Part 1\n\n\n",
+	"variables-question_key5": "Assign an `INTEGER` value to a `variable` named as `variable_nav`.\n",
+	"variables-question_key6": "Then print the `variable_nav`.\n\n\n",
+	"variables-question_key7": "## Question Part 2\n\n",
+	"variables-question_key8": "Take a new `variable` named as `gurukul` and assign any `STRING` value to it.  \n",
+	"variables-question_key9": "Assign a `FLOAT` value to `variable_nav` and set it.  \n",
+	"variables-question_key10": "Now print the value of `variable_nav` and `gurukul`.\n"
+}

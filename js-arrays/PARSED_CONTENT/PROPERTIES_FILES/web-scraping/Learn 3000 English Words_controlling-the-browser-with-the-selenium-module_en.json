@@ -1,0 +1,12 @@
+{
+	"controlling-the-browser-with-the-selenium-module_key1": "# Controlling the Browser with the selenium Module\n\n",
+	"controlling-the-browser-with-the-selenium-module_key2": "The selenium module lets `Python` directly control the browser by programmatically clicking links and filling in login information, almost as though there is a human user interacting with the page. Selenium allows you to interact with web pages in a much more advanced way than Requests and Beautiful Soup; but because it launches a web browser, it is a bit slower and hard to run in the background if, say, you just need to download some `files` from the Web.\n",
+	"controlling-the-browser-with-the-selenium-module_key3": "Appendix A has more detailed steps on installing third-party modules.\n",
+	"controlling-the-browser-with-the-selenium-module_key4": "# Starting a Selenium-Controlled Browser\n\n",
+	"controlling-the-browser-with-the-selenium-module_key5": "For these examples, you’ll need the Firefox web browser. This will be the browser that you control. If you don’t already have Firefox, you can download it for free from <span><a href=\" http://getfirefox.com/.\"> http://getfirefox.com/.</a></span>\n",
+	"controlling-the-browser-with-the-selenium-module_key6": "Importing the modules for Selenium is slightly tricky. Instead of import selenium, you need to run from selenium import webdriver. (The exact reason why the selenium module is set up this way is beyond the scope of this book.) After that, you can launch the Firefox browser with Selenium. Enter the following into the interactive `shell`:\n",
+	"controlling-the-browser-with-the-selenium-module_key7": "<class 'selenium.webdriver.firefox.webdriver.WebDriver'>\n",
+	"controlling-the-browser-with-the-selenium-module_key8": "You’ll notice when webdriver.Firefox() is called, the Firefox web browser starts up. Calling type() on the value webdriver.Firefox() reveals it’s of the WebDriver data type. And calling browser.get(<span><a href=\"http://inventwith`python`.com\">http://inventwith`python`.com</a></span>) directs the browser to <span><a href=\"http://inventwith`python`.com/.\">http://inventwith`python`.com/.</a></span> Your browser should look something like Figure\n",
+	"controlling-the-browser-with-the-selenium-module_key9": " -->\n",
+	"controlling-the-browser-with-the-selenium-module_key10": "After calling webdriver.Firefox() and get() in IDLE, the Firefox browser appears.\n"
+}

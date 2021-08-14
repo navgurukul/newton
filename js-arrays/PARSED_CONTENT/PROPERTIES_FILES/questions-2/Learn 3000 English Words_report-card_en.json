@@ -1,0 +1,10 @@
+{
+	"report-card_key1": "# Report Card\n\n\n",
+	"report-card_key2": "Iss list ko dekhein:\n",
+	"report-card_key3": "Yeh kisi student ke peechle teen saal ke marks hai. Aap ko teeno saalo, ke sab subjects ke marks ka total calculate karna hai.\n",
+	"report-card_key4": "Jaise uppar di hui nested list ka sum - 1142 aayega.\n",
+	"report-card_key5": "# Edge Cases:\n\n",
+	"report-card_key6": "Check your program for following nested lists as well (bina `code` change kiye chalna chahiye, nahi toh aapne sahi se `code` nahi likha):\n",
+	"report-card_key7": "Jaise uppar di hui nested list ka sum - 965 aayega.\n",
+	"report-card_key8": "Jaise uppar di hui nested list ka sum - 1324 aayega.\n"
+}

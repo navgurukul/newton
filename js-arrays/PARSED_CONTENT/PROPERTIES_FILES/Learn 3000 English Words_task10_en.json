@@ -1,0 +1,14 @@
+{
+	"task10_key1": "# Task 10\n\n\n",
+	"task10_key2": "Ab humne saari 250 movies ki list toh scrape kar li hai. Iss task mein humne kuch aur analysis.\n",
+	"task10_key3": "Abhi tak humne directors aur languages ka analysis alag alag se kia tha. Toh humare paas yeh data tha ki har director ki total kitni movies hain aur languages ke hisaab se bhi movies ki frequency thi. Ab humein in dono ko combine karna hai?\n",
+	"task10_key4": "Ab humein yeh samajhna hai ki **Kaunse directors kaun kaun si languages mein movies banante hain? Aise kaunse diectors hai jo ek se zyada langauges mein movies direct karte hain?**\n",
+	"task10_key5": "Iske liye aap ek function likhoge jiska naam hoga `analyse_language_and_directors`. Yeh function ek parameter lega called `movies_list`. Iss parameter mein woh list hogi jo `get_movie_list_details` wala function return karta hai. Matlab woh list kuch aisi dikhegi:\n",
+	"task10_key6": "**Yeh dhyan rakhna ki aapne yeh analysis saari 250 movies ki list pe run karna hai.**\n",
+	"task10_key7": "Aapke function ka return value ek dictionary hoga. Yeh dictionary kuch aisi dikhegi:\n",
+	"task10_key8": "Kyunki har movies mein director aur languages dono lists hain aur ek `string` nahi hai. Agar ek movie ke 2 directors aur saath saath 2 languages bhi hai toh uss movie ki counting dono languages mein bhi hogi, aur dono directors mein bhi hogi.\n",
+	"task10_key9": "## Hint\n\n\n",
+	"task10_key10": "Nested `loops` ka use karo :)\n\n\n",
+	"task10_key11": "## Solution Video :\n\n\n",
+	"task10_key12": "**Created by** vishal18@navgurukul.org\n"
+}

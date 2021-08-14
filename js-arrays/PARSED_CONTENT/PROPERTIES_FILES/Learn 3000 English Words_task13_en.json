@@ -1,0 +1,9 @@
+{
+	"task13_key1": "# Task 13\n\n\n",
+	"task13_key2": "**Task 12** mein aapne ek movie ki cast ki details nikaalne ka function toh likh liya.\n",
+	"task13_key3": "Lekin abhi tak humra `scrape_movie_details` wala function caste ki details nhi nikaal raha. Sirf movie ki details nikaal raha hai. Uss function edit kar ke aise change karo ki wahi function caste ke URL ke saath apne andar se `scrape_movie_cast` wala function call kar raha hai.\n",
+	"task13_key4": "Toh finally aapke `scrape_movie_details` waale function ko yeh dictionary return karni hogi:\n",
+	"task13_key5": "Dekho ki kaise `scrape_movie_cast` wale function ki returned list issi dictionary mein ek `key` ki value hai.\n",
+	"task13_key6": "Finally apna `get_movie_list_details` wala function bhi chala ke test karo ki woh ab movie ki details aur cast saari ek list mein return kar raha hai.\n",
+	"task13_key7": "Saath saath yeh bhi test kar lo ki aapka `scrape_movie_cast` aur `scrape_movie_details` wale function aapki caching functionality kaam karni chaiye.\n"
+}

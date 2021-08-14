@@ -1,0 +1,5 @@
+{
+	"comparison-operators_key1": "Explain them the concept of comparison `operators` and then ask them to enter two different numbers using prompt. After this it returns maximum of those two numbers //`Operators` like less than, greater than\n\n\n",
+	"comparison-operators_key2": "var a = Number(prompt('Pehle number likho', '12'))\nvar b = Number(prompt('Dusra number likho', '34'))\n",
+	"comparison-operators_key3": "if (a > b) {\n        console.log('sabse badha number: ' + a)\n} else {\n        console.log('sabse badha number: ' + b)\n}\n"
+}

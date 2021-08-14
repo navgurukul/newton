@@ -1,0 +1,17 @@
+{
+	"Logical-operators_key1": "## Logical `Operators`\n\n\n",
+	"Logical-operators_key2": "Logical `operators` are used to combine two or more conditions.\n",
+	"Logical-operators_key3": "Operator",
+	"Logical-operators_key4": "Description",
+	"Logical-operators_key5": "Example",
+	"Logical-operators_key6": "&&",
+	"Logical-operators_key7": "&& is known as AND `operator`.  It checks that two conditions are `true` then it returns `true` otherwise returns `false`",
+	"Logical-operators_key8": "(10==20 && 20==33) = `false`",
+	"Logical-operators_key9": "OR",
+	"Logical-operators_key10": "is known as OR `operator`.  It checks that two conditions and at least 1 condition is `true` it returns `true` otherwise returns `false`",
+	"Logical-operators_key11": "(10==20 || 20==33) = `false`",
+	"Logical-operators_key12": "!",
+	"Logical-operators_key13": "! is known as NOT `operator`. It reverses the boolean result of the operand (or condition)",
+	"Logical-operators_key14": "!(10==20) = `true`",
+	"Logical-operators_key15": "## Exercises:\n\n"
+}

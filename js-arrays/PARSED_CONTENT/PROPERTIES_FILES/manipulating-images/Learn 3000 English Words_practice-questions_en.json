@@ -1,0 +1,21 @@
+{
+	"practice-questions_key1": "# Practice Questions\n\n\n",
+	"practice-questions_key2": "Q:\n",
+	"practice-questions_key3": "What is an RGBA value?\n\n\n",
+	"practice-questions_key4": "Q:\n",
+	"practice-questions_key5": "How can you get the RGBA value of 'CornflowerBlue' from the Pillow module?\n\n\n",
+	"practice-questions_key6": "Q:\n",
+	"practice-questions_key7": "What is a box tuple?\n\n\n",
+	"practice-questions_key8": "Q:\n",
+	"practice-questions_key9": "What function returns an Image object for, say, an image `file` named zophie.png?\n\n\n",
+	"practice-questions_key10": "Q:\n",
+	"practice-questions_key11": "How can you find out the width and height of an Image object’s image?\n\n\n",
+	"practice-questions_key12": "Q:\n",
+	"practice-questions_key13": "What method would you call to get Image object for a 100×100 image, excluding the lower left quarter of it?\n\n\n",
+	"practice-questions_key14": "Q:\n",
+	"practice-questions_key15": "After making changes to an Image object, how could you `save` it as an image `file`?\n\n\n",
+	"practice-questions_key16": "Q:\n",
+	"practice-questions_key17": "What module contains Pillow’s shape-drawing `code`?\n\n\n",
+	"practice-questions_key18": "Q:\n",
+	"practice-questions_key19": "Image objects do not have drawing methods. What kind of object does? How do you get this kind of object?\n"
+}

@@ -1,0 +1,14 @@
+{
+	"task11_key1": "# Task 11\n\n\n",
+	"task11_key2": "Iss task mein humein ek aur chota sa anlysis run karna hai. Ab hum movies ko by genre analyse karenge.\n",
+	"task11_key3": "Yahan dekho ki Anand ka Genre mein **Drama** likha hua hai. Bahot saari movies ke ek se zyada genres bhi hote hain.\n",
+	"task11_key4": "Ek `analyse_movies_genre` naam ka function likho. Yeh function ek `movies_list` naam ka parameter lega jisme mein woh list hogi jo `get_movie_list_details` wala function return karta hai. Matlab `movies_list` ka structure aisa hoga:\n",
+	"task11_key5": "Aapke function ko ek dictionary return karni hai jismein har genre ka naam `keys` mein hoga aur genre ki number of movies uski value mein hoga.\n",
+	"task11_key6": "**Note: Yeh `keys` aur values ko kaise refer kara hai ispe khaas dhyaan di jiye. Issi tareeke se dictionaries ki baat karte hain :)**\n",
+	"task11_key7": "`analyse_movies_genre` wali return value ki dictionary ka neeche dia hua structure dia hua hai.\n",
+	"task11_key8": "Yeh function aapko saari 250 movies pe run karna hai.\n",
+	"task11_key9": "## Hint\n\n\n",
+	"task11_key10": "Ab kya hint ki zaroorat hai? Bahot baar kar lia aapne yeh :)\n",
+	"task11_key11": "### Solution Video :-\n\n\n",
+	"task11_key12": "**Creadted by Vishal Gaddam** (vishal18@navgurukul.org)\n"
+}

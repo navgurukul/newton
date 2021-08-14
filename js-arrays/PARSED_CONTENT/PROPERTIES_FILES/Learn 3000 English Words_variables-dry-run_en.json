@@ -1,0 +1,13 @@
+{
+	"variables-dry-run_key1": "## Humein inn programs ka dry run karna hai:\n\n\n",
+	"variables-dry-run_key2": "### Kaise Use Karein\n\n",
+	"variables-dry-run_key3": "Aap sab ko yeh questions pen and paper use kar kar karne hai. Saari exercises aap apni notebooks mei solve kar kar, ek doosre ke solution ko check karayein.\n",
+	"variables-dry-run_key4": "`Variables` ka dry run samajhne ke liye aap iss video ko dekhein aur samjhe.\n",
+	"variables-dry-run_key5": "Jab aap ko confidence ho ki aap ka solution theek hai, `tab` aap kisi senior se solution verify kara kar aage badh sakte hai.\n",
+	"variables-dry-run_key6": "Yeh bahut important hai ki yeh course aap bahut dhyaan se karein, kyuki programming ke basics iss course mei develop ho jayenge.\n",
+	"variables-dry-run_key7": "Iska solution verify ya samajhne k liye aap yeh videos dekh sakte ho.\n",
+	"variables-dry-run_key8": "Aapko kaunse video mein zyada clarity lagi?\n",
+	"variables-dry-run_key9": "Kya yeh dono program same behave karte hai? If yes, toh aisa kyu?\n",
+	"variables-dry-run_key10": "new_amount aur amount kya same hai ya alag? Aisa kyu hona chahiye\n",
+	"variables-dry-run_key11": "Iss program mai humne int or `float` dono daale hai, isko dhyaan se kijeyega. Dhyaan rakhein, `floats` aur `integer` division alag alag hota hai.\n"
+}

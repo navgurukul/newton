@@ -1,0 +1,18 @@
+APIrequestsThroughJavascript_key1
+
+
+APIrequestsThroughJavascript_key2
+
+
+APIrequestsThroughJavascript_key3
+
+
+APIrequestsThroughJavascript_key4[APIrequestsThroughJavascript_key5](https://www.kirupa.com/html5/making_http_requests_js.htm)
+APIrequestsThroughJavascript_key6[APIrequestsThroughJavascript_key7](https://www.codecademy.com/courses/javascript-beginner-en-EID4t/0/1?curriculum_id=5122e50456ef4d6c450008c1)
+APIrequestsThroughJavascript_key8
+
+
+APIrequestsThroughJavascript_key9
+- APIrequestsThroughJavascript_key11[APIrequestsThroughJavascript_key12](https://codepen.io/freeCodeCamp/full/bELRjV)APIrequestsThroughJavascript_key13
+- APIrequestsThroughJavascript_key14
+- APIrequestsThroughJavascript_key15

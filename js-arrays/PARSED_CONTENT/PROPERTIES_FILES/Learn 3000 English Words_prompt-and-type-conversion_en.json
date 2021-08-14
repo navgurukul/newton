@@ -1,0 +1,7 @@
+{
+	"prompt-and-type-conversion_key1": "Use prompt to take in two numbers and logging them in the console.\n\n",
+	"prompt-and-type-conversion_key2": "Then use prompt to add two numbers. Here the student will realise that they cannot be added but are concatenated because they are `strings`.\n\n",
+	"prompt-and-type-conversion_key3": "Talk about data types and then come to data type `conversion`.\n\n",
+	"prompt-and-type-conversion_key4": "Come up with the complete example of taking `input` and then showing the `output` as the addition of numbers which were `input`.\n\n",
+	"prompt-and-type-conversion_key5": "Add link to alert() & confirm() functions but do not explain about them.\n"
+}

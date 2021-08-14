@@ -1,0 +1,10 @@
+{
+	"hangman-images_key1": "## Hangman Images\n\n",
+	"hangman-images_key2": "Aapko images.py se IMAGES import kar kar, woh images print karni hai. Jab bhi user koi galat `input` deta hai, toh aap corresponding image dikhayenge. \n",
+	"hangman-images_key3": "## Hint\n\n",
+	"hangman-images_key4": "Toh agar user ne teesri baar galat answer diya, toh aap teesri wali image dikhayeing, `remaining_lives` ko graphically show karne ke liye.\n",
+	"hangman-images_key5": "## Solution\n\n\n",
+	"hangman-images_key6": "## Possible Solution\n\n",
+	"hangman-images_key7": "..................... in the hangman function ............................\n...\n...\n...\n",
+	"hangman-images_key8": "...\n...\n...\n"
+}
