@@ -1,9 +1,0 @@
-{
-	"What-is-an-Operator?_key1": "# `Operators`\n\n\n",
-	"What-is-an-Operator?_key2": "## What is an `Operator`?\n\n\n",
-	"What-is-an-Operator?_key3": "Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them\n",
-	"What-is-an-Operator?_key4": "An `operator` performs some operation on operands (data value on which operation is being performed) and produces a result. For example 1 + 2, where + sign is an `operator` and 1 is left operand and 2 is right operand. + `operator` adds two numeric values and produces a result which is 3 in this case.\n",
-	"What-is-an-Operator?_key5": "In JavaScript, an `operator` is a special symbol used to perform operations on operands (values and `variables` on which operation is being performed). \n",
-	"What-is-an-Operator?_key6": "Here is a list of different `operators` you will learn in this tutorial.\n",
-	"What-is-an-Operator?_key7": "JavaScript `Operator` Types\n\n  - Arithmetic `Operators`\n  - Comparison `Operators`\n  - Assignment `Operators`\n  - Logical `Operators`\n"
-}

@@ -1,9 +1,0 @@
-{
-	"task7_key1": "# Task 7\n\n\n",
-	"task7_key2": "Abhi tak humne movies ko Languages ke basis pe analyse kara hai aur yeh dekha hai ki kaunsi language ki kitni movies hain top 250 ki list mein. Ab hum same cheez directors ke saath karenge. Yeh wala task bhi abhi ke liye humne pehli 10 movies ke liye karna hai.\n",
-	"task7_key3": "`analyse_movies_directors` naam ka ek function likho. Yeh function movies naam ki ek list lega. Yeh woh list hogi jo `get_movie_list_details` wala function return karta hai. Kuch aisi dikhegi:\n",
-	"task7_key4": "Iss function ka `output` yeh hoga:\n",
-	"task7_key5": "Jaise agar Sanjay Leela Bansali ka naam do movies mein aa raha hai, toh uski ginti 2 baar hogi. Aur agar kisi movie ka ek se zyada directors hain, toh unn dono ki ginti hogi.\n",
-	"task7_key6": "## Hint\n\n\n",
-	"task7_key7": "Iska `code` kuch aisa dikhega:\n"
-}

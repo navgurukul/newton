@@ -1,6 +1,0 @@
-{
-	"substring-nikalo_key1": "# Remove Sub`string`\n\n\n",
-	"substring-nikalo_key2": "Aapko aisa program likhna hai, jo **subStr** ki saari occurences ko **mainStr** se hata degi. Yaani uppar wale program ka `output` yeh hoga:\n",
-	"substring-nikalo_key3": "### Bonus Part\n\n",
-	"substring-nikalo_key4": "**mainStr** mei **subStr** ko **replacementStr** se replace kar kar print karo.\n"
-}

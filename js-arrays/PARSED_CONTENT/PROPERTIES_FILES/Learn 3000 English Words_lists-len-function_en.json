@@ -1,7 +1,0 @@
-{
-	"lists-len-function_key1": "# How to iterate on two lists together?\n\n\n",
-	"lists-len-function_key2": "Let's say aapke paas do lists jo same length ki hai. Aap unn do lists pe ek saath kaise iterate karoge?\n",
-	"lists-len-function_key3": "Dekho ki dono lists li length `6` hai. Inpe iterate karne ka `code` aise likhenge:\n",
-	"lists-len-function_key4": "Yahan dekho dono lists mein jo bhi element hain woh print ho jayenge.\n",
-	"lists-len-function_key5": "Iss lesson mein bass itna hi hai :D\n"
-}

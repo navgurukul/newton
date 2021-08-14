@@ -1,5 +1,0 @@
-{
-	"Question-2_key1": "`code` the change like if I give number as 21, 21 is divisible by both 3 and 7 so it should give Chacolate as answer to me.\n",
-	"Question-2_key2": "sample `input`:\nfor 21 answer Chacolate\nfor 15 answer choco\nfor 14 answer late\nfor 13 answer Not divisible by 3 , 7\n",
-	"Question-2_key3": "Debug the `code` and try to get exact solutions with different `inputs`\n"
-}

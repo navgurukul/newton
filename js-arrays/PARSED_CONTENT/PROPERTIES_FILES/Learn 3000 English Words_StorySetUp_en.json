@@ -1,9 +1,0 @@
-{
-	"StorySetUp_key1": "Aap ek nayi Project directory **Stories** banaiye\n",
-	"StorySetUp_key2": "Apne Stories directory mein navigate kijiye\n",
-	"StorySetUp_key3": "Stories directory mein navigate karne ke baad aap **git init** command run kijiye\n",
-	"StorySetUp_key4": "Iss command ke baad **git** humare iss directory mein banaye hue content ko track karna shuru kar dega.\n",
-	"StorySetUp_key5": "**Assignment**\n",
-	"StorySetUp_key6": "Git ke documentation mein ja kar **git init** command ke baare mein padhe\n\n\n",
-	"StorySetUp_key7": "https://git-scm.com/docs/git-init\n"
-}

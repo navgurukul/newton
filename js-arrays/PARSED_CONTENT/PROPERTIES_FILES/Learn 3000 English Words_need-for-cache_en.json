@@ -1,9 +1,0 @@
-{
-	"need-for-cache_key1": "## Need for Cache\n\n\n",
-	"need-for-cache_key2": "Iss `code` ko `execute` karein.\n",
-	"need-for-cache_key3": "Yeh `code` kya karta hai?\n",
-	"need-for-cache_key4": "Yeh `code` kitni baar API calls karega?\n",
-	"need-for-cache_key5": "API calls karne mei kuch problem hai kya? Matlab jab hum `loop` chalate hai, 100 ya 1000 tak ka, `tab` toh `code` ek dum se `execute` ho jaata hai. Toh itni si API calls mei itna saara time kyu lag raha hai?\n",
-	"need-for-cache_key6": "Kya aap yeh dekh paa rahe, ki kuch API hi hai, jo baar baar call ho rahi hai?\n",
-	"need-for-cache_key7": "Kya aapko lagta hai iss `code` ko `execute` karne ka koi behetar tareeka hai, jismei humei baar baar same API calls na karni padein?\n"
-}

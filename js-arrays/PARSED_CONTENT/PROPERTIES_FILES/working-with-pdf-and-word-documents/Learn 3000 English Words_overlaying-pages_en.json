@@ -1,9 +1,0 @@
-{
-	"overlaying-pages_key1": "# Overlaying Pages\n\n",
-	"overlaying-pages_key2": "PyPDF2 can also overlay the contents of one page over another, which is useful for adding a logo, timestamp, or watermark to a page. With `Python`, it’s easy to add watermarks to multiple `files` and only to pages your program specifies.\n",
-	"overlaying-pages_key3": "Download watermark.pdf from <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span> and place the PDF in the current working directory along with meetingminutes.pdf. Then enter the following into the interactive `shell`:\n",
-	"overlaying-pages_key4": "Here we make a Pdf`File`Reader object of meetingminutes.pdf ❶. We call getPage(0) to get a Page object for the first page and store this object in minutesFirstPage ❷. We then make a Pdf`File`Reader object for watermark.pdf ❸ and call mergePage() on minutesFirstPage ❹. The argument we pass to mergePage() is a Page object for the first page of watermark.pdf.\n",
-	"overlaying-pages_key5": "Now that we’ve called mergePage() on minutesFirstPage, minutesFirstPage represents the watermarked first page. We make a Pdf`File`Writer object ❺ and add the watermarked first page ❻. Then we `loop` through the rest of the pages in meetingminutes.pdf and add them to the Pdf`File`Writer object ❼. Finally, we open a new PDF called watermarkedCover.pdf and write the contents of the Pdf`File`Writer to the new PDF.\n",
-	"overlaying-pages_key6": "Figure 13-3 shows the results. Our new PDF, watermarkedCover.pdf, has all the contents of the meetingminutes.pdf, and the first page is watermarked.\n",
-	"overlaying-pages_key7": " -->\nFigure 13-3. The original PDF (left), the watermark PDF (center), and the merged PDF (right)\n"
-}

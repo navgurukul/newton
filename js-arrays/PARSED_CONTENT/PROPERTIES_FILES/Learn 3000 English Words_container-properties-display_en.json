@@ -1,8 +1,0 @@
-{
-	"container-properties-display_key1": "# Display Flex: Container Property\n\n",
-	"container-properties-display_key2": "## **display: flex**\n\n",
-	"container-properties-display_key3": "Yeh likhna jaruri hota hai. Agar hum yeh **property** container ki class mei nahi likhenge toh flex nahi chalega. Jiske vajah se koi aur bhi flex ki property kaam nahi karegi.\n\nIsse likhne se ek html **tag** flex container ki tarah behave karta hai.\n\n",
-	"container-properties-display_key5": "Iss ",
-	"container-properties-display_key6": "example",
-	"container-properties-display_key7": " mei container ki css mei display flex likh kar dekho ki kya hota hai."
-}

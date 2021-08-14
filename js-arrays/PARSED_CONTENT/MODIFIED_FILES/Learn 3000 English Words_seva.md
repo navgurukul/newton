@@ -1,2 +1,0 @@
-seva_key1
-seva_key2

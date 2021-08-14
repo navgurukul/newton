@@ -1,7 +1,0 @@
-{
-	"functions-dry-run_key1": "Iss question ko solve karne ke baad aap iss video se iska solution verify kar sakte hai.\n",
-	"functions-dry-run_key2": "Jab Hum ek list ko as an argument pass karte hai, toh woh list copy ho kar nahi jaati, balki bas uska ek `reference` jaata hai. Iska matlab, jub hum uss function mei jaha par woh list bheji hai, ussmei jo hamari main item thi, wohi modify karte hai.\n",
-	"functions-dry-run_key3": "Jaise iss program mei, jab hum `a(example)` call karenge, toh jo `def a` mei changes honge, woh example `variable` ke andar ho jayenge. Jba hum `example` ko `print` karenge, toh `example` updated hoga.\n",
-	"functions-dry-run_key4": "Yeh question karte waqt, aap uppar wale example ka dhyaan rakhiye.\n",
-	"functions-dry-run_key5": "Yeh function kya karta hai? Kya aapne kuch interesting solution dekha iss algorithm mei?\n*HINT*: *Sorting*\n"
-}

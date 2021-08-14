@@ -1,6 +1,0 @@
-{
-	"setup_key1": "Tell them to create a JS `file` and add a <script> tag in the html page.\n\n",
-	"setup_key2": "Here we should tell them to add some basic thing like console.log(\"\"Rishabh Verma\"\"). \n\n",
-	"setup_key3": "Teach them how to open Chrome Dev Tools. At the end they should see their console `output` in the chrome dev tools easily.\n\n\n",
-	"setup_key4": "This video explains the concept of including JS into the page really really well.\n"
-}

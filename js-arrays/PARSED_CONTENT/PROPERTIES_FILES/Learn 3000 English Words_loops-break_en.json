@@ -1,8 +1,0 @@
-{
-	"loops-break_key1": "Agar aap yeh diagram dekhoge toh aap samjhoge, ki `break` command se hum jiss bhi `loop` ke andar aapne woh command likhi hai, uss `loop` se immediately bahar nikal jaate hai.\n",
-	"loops-break_key2": "Ab iss idea ko use karte hue in example `codes` ka `dry run` karein.\n",
-	"loops-break_key3": "### Jab `nested `loops`` hote hai, toh `break` command se hum uss `loop` se bahar aate hai, jo immediately pehla `loop` hota hai jiske `andar` break likha hota hai.\n\n\n",
-	"loops-break_key4": "Jaise neeche diye hue program mei `break` `statement` sirf `loop`2 se bahar nikalega.\n",
-	"loops-break_key5": "Iss program ka `output` likh kar, iss program ko bina `break` `statement` ke likhiye.\nApne likhe hue naye program ka bhi `dry run` karein.\n",
-	"loops-break_key6": "Iss program ka `output` likh kar, iss program ko bina `break` `statement` ke likhiye.\nApne likhe hue naye program ka bhi `dry run` karein.\n"
-}

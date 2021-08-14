@@ -1,7 +1,0 @@
-{
-	"task15_key1": "# Task 15\n\n\n",
-	"task15_key2": "Ab humne cast ke basis pe kaafi saare analysis bhi kar liye. Iss task mein hum ek bahot simple sa analysis karenge. Iss analysis mein hum log woh actors/actresses ki list nikalenge jinka naam ek se zyada movies mein aata hai. Yeh analysis hum har movie ki saari cast pe karenge aur na ki top 5 pe.\n",
-	"task15_key3": "Ek function likho jiska naam `analyse_actors` ho. Yeh function ek `movies_list` naam ki list ko parameter ki tarah lega. Iss list mein woh list hogi jo `get_movie_list_details` wala function return karta hai. Yeh `movies_list` aisi dikhegi:\n",
-	"task15_key4": "Humare function ko yeh batana hai ki kaun kaun se actors hain jo ek se zyada movies mein aate hain. Toh yeh function ek dictionary return karega jiska yeh structure hoga:\n",
-	"task15_key5": "Dhayn di jiye kaise iss dictionary mein bhi humne actors ko unki IDs se reference kara hai aur na ki unke names se. Aap apna `code` likhte hue bhi IDs ke basis pe `code` likhna.\n"
-}

@@ -1,8 +1,0 @@
-{
-	"the-tuple-data-type_key1": "# The Tuple Data Type\n\n",
-	"the-tuple-data-type_key2": "The tuple data type is almost identical to the list data type, except in two ways. First, tuples are typed with parentheses, ( and ), instead of square brackets, [ and ]. For example, enter the following into the interactive `shell`:\n",
-	"the-tuple-data-type_key3": "But the main way that tuples are different from lists is that tuples, like `strings`, are immu`tab`le. Tuples cannot have their values modified, appended, or removed. Enter the following into the interactive `shell`, and look at the Type`Error` `error` message:\n",
-	"the-tuple-data-type_key4": "If you have only one value in your tuple, you can indicate this by placing a trailing comma after the value inside the parentheses. Otherwise, `Python` will think you’ve just typed a value inside regular parentheses. The comma is what lets `Python` know this is a tuple value. (Unlike some other programming languages, in `Python` it’s fine to have a trailing comma after the last item in a list or tuple.) Enter the following type() function calls into the interactive `shell` to see the distinction:\n",
-	"the-tuple-data-type_key5": "<class 'tuple'>\n",
-	"the-tuple-data-type_key6": "<class 'str'>\nYou can use tuples to convey to anyone reading your `code` that you don’t intend for that sequence of values to change. If you need an ordered sequence of values that never changes, use a tuple. A second benefit of using tuples instead of lists is that, because they are immu`tab`le and their contents don’t change, `Python` can implement some optimizations that make `code` using tuples slightly faster than `code` using lists.\n"
-}

@@ -1,5 +1,0 @@
-{
-	"difference_key1": "## Difference\n\n\n",
-	"difference_key2": "Q: Given two arrays, 1,2,3,4,5 and 2,3,1,0,5 find which numbers are not present in the second array.\n",
-	"difference_key3": "`Output`: **[4, 5]**\n"
-}

@@ -1,6 +1,0 @@
-{
-	"if-code-question3_key1": "You have a `variable` called `number` with the value as shown:\n",
-	"if-code-question3_key2": "Create a flowchart that takes a number as `input` from the user. Check if this number is greater than or equal to `number`.\n",
-	"if-code-question3_key3": "If the entered number is greater than or equal to `number`, print **\"greater than or equal\"** else **\"lesser\"**. \n",
-	"if-code-question3_key4": "Submit the flowchart as well as `code`.\n"
-}

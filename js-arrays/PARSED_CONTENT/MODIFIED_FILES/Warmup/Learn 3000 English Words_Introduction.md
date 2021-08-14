@@ -1,6 +1,0 @@
-Introduction_key1
-
-
-[Introduction_key2](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges)
-Introduction_key3Introduction_key4Introduction_key5Introduction_key6Introduction_key7
-

@@ -1,3 +1,0 @@
-StringMediumQuestion3_key1
-
-

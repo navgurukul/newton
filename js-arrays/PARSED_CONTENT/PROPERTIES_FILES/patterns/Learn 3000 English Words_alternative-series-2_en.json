@@ -1,8 +1,0 @@
-{
-	"alternative-series-2_key1": "## Pattern\n\n",
-	"alternative-series-2_key2": "10, 11, 110, 111, 1110, 1111, 11110, 11111, 111110, 111111 ...\n",
-	"alternative-series-2_key3": "## Hint\n\n",
-	"alternative-series-2_key4": "Kisi bhi element ko nikalne ke liye\n  - nth element (n-1)th element ka 10 times hai agar n odd hai\n  - nth element (n-1)th element mei 1 jod kar milta hai agar n even hai toh\n",
-	"alternative-series-2_key5": "Base Case ka dhyaan rakhein - jab 1st element nikalna ho\n\n\n",
-	"alternative-series-2_key6": "## Solution\n\n"
-}
