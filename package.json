@@ -1,0 +1,22 @@
+{
+  "name": "newton",
+  "version": "1.0.0",
+  "description": "The complete structure of a course is explained here. This will help you create a new course in this repo :) You can also browse through other courses (every directory is a course) to understand more about the structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navgurukul/newton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navgurukul/newton/issues"
+  },
+  "homepage": "https://github.com/navgurukul/newton#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
