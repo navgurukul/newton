@@ -2,6 +2,8 @@
 name: Returning values from a function
 ```
 
+### Example:
+
 ```javascript
 // Defining function
 function getSum(num1, num2) {
@@ -10,19 +12,44 @@ function getSum(num1, num2) {
 }
 
 ```
+### Explanation:
+
+Here in the above example, we just defined a function and we returned total.
+
+### Example:
 
 ```javascript
 
-// Displaying returned value
+// Defining function
+function getSum(num1, num2) {
+ var total = num1 + num2;
+ return total;
+}
 
+// Displaying returned value
 var result1 = getSum(6, 20);
 console.log(result1) // 0utputs: 26
 var result2 = getSum(-5, 17);
 console.log(result2) // 0utputs: 12
-
 ```
  
 To get the result for the above function, we need to console with the function name like we returned total so it will go and save in the function script and we need to call our function within the console and the value we returned here is a number.
+
+```javascript
+
+// Defining function
+function getSum(num1, num2) {
+ var total = num1 + num2;
+ return total;
+ console.log("it won't prints this because return works like break");
+}
+
+// Displaying returned value
+var result1 = getSum(6, 20);
+console.log(result1) // 0utputs: 26
+var result2 = getSum(-5, 17);
+console.log(result2) // 0utputs: 12
+```
  
 A function can return a value back to the script that called the function as a result using the return statement. The value may be of any type, including arrays and objects. Whenever a function sees return the function will stop there only , it won’t execute other statements.
 
@@ -34,9 +61,10 @@ A function can return a value back to the script that called the function as a r
 ```javascript
 // write code here
 ```
+
 ```solution
 function averageOfSubjects(maths,science){
-   return (maths+science)/2
+   return ((maths+science)/2);
 }
 console.log(averageOfSubjects(25,30));
  ```
@@ -58,12 +86,15 @@ console.log(insertingElement([1,2,3,4]));
 ```solution
 [ 1, 2, 3, 4, 5 ]
 ```
+#### Note:
 
-3. Notice that the line console.log(arr) will not print anything as the function stops executing after the return statement.
+Notice that the line console.log(arr) in the above example will not print anything as the function stops executing after the return statement.
+
+3.  What is the error in the following code?
 
 ```javascript
-What is the error in the following code?
-		function multiplyString(string,num){
+
+function multiplyString(string,num){
    string*num;
 }
  

@@ -14,10 +14,12 @@ Let’s play it online and see how it works :
 
 [Play Online Game](https://www.crazygames.com/game/rock-paper-scissors)
  
- 
-### Feedback after submit:
-
 ```javascript
+// please write code here
+```
+
+
+```solution
 let readlineSync = require("readline-sync");
  
 var computerMoves = ['rock', 'paper', 'scissors'];

@@ -5,22 +5,6 @@ name: For of loop
 
 Loops over iterable objects such as array .
 	
-### Example:
-```javascript
-arr=["a","b","g","r","t"]
-for(let le of arr){
-console.log(le);
-}
-
-// Output:
-
-// a
-// b
-// g
-// r
-// t   
-
-```
 	
 ### Example: 
 ```javascript
@@ -58,7 +42,36 @@ When the loop is running for sixth time, lname value is “shanti”, we asked t
 
 When the loop is running for seventh time, lname value is “sarmistha”, we asked to print lname only, it prints sarmistha.
 
+### Example:
+```javascript
+arr=["a","b","g","r","t"]
+for(let character of arr){
+console.log(character);
+}
 
+// Output:
+
+// a
+// b
+// g
+// r
+// t   
+
+```
+
+### Explanation:
+
+By for of loop, when we are looping on array, in character we will get the each element one by one, like "a","b","g","r","t" respectively.
+
+When the loop is running for first time, character value is "a", we asked to print character only, it prints a.
+
+When the loop is running for second time, character value is “b”, we asked to print character only, it prints b.
+
+When the loop is running for third time, character value is "g", we asked to print character only, it prints g.
+
+When the loop is running for fourth time, character value is "r", we asked to print character only, it prints r.
+
+When the loop is running for fifth time, character value is "t", we asked to print character only, it prints t.
 
 
 ### Example: 

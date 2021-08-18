@@ -28,4 +28,4 @@ console.log(typeof(notDefined)); // Output: undefined
 
 ### Explanation:
 
-Here in Undefined we have declared a variable but didn’t assign a value to it which means the variable is there but nothing is stored in it, so when we try to console it the output will be “undefined” as it is not defined yet. The type of undefined is also the same, here the value of a variable is not defined so it shows the type also as undefined.
+Here in notDefined variable we have declared a variable but didn’t assign a value to it which means the variable is there but nothing is stored in it, so when we try to console it the output will be “undefined” as it is not defined yet. Here the value of a variable is not defined so it shows the type also as undefined.

@@ -1,9 +1,13 @@
 ### Third
 
+Debug the code as per the given output
+
 Output should be 
 
 max-length
+
 no-amd
+
 prefer-arrow-functions
 
 ```javascript
@@ -35,5 +39,3 @@ for(const value in success){
    console.log(success[value]);
 }
 ```
-
-For the next course [clickHere](https://www.merakilearn.org/course/126/exercise/3256)

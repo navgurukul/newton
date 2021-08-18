@@ -4,7 +4,7 @@ name: Exercises on Booleans
 
 ### Exercises:
 
-1. Write a program which will give output True by comparing two variables?
+1. Write a program which will give output true by comparing two variables?
 
 ```javascript
 //please write code here
@@ -39,4 +39,24 @@ console.log(!=a);
 output:SyntaxError: Unexpected token '!=' 
 
 Because we need to compare here two variables that means b!=a should be there not !=a.
+```
+
+4. What is the error in this statement.
+
+```javascript
+var egg cost = 3.45;
+```
+
+```solution
+A space is an illegal character in a variable name.
+```
+
+5. Rewrite this using camelCase.
+
+```javascript
+var Nameofband;
+```
+
+```solution
+var nameOfBand;
 ```

@@ -2,7 +2,9 @@
 name: Defining and calling a function
 ```
 
-The declaration of a function starts with the function keyword, followed by the name of the function you want to create, followed by parentheses i.e. (). Function naming can follow all rules as variables.
+The declaration of a function starts with the function keyword, followed by the name of the function you want to create, followed by parentheses i.e. (). 
+
+Function naming can follow all rules as variables.
 
 The parentheses may include parameter names separated by commas:
 (parameter1, parameter2, ...)
@@ -16,7 +18,6 @@ Finally write your function's code between curly brackets {}. Here's the basic s
 ### Example:
 
 ```javascript
-
 // Defining function
 
 function sayHello(name) {
@@ -27,7 +28,6 @@ console.log(sayHello("Pragna"))
  
 // Output :
 // Hello pragna
-
 ```
 
 - #### How to Call a function

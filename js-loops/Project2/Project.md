@@ -11,7 +11,12 @@ The game is about guessing a number between 1 to 10, you can choose how many tim
  
 Let’s play the game and understand with fun:[online game](https://www.funbrain.com/games/guess-the-number)
 
+
 ```javascript
+// please write code here
+```
+
+```solution
 let readlineSync = require("readline-sync");
 let userChances = readlineSync.questionInt("how many times you want to guess: ");
 let randomNumber= Math.floor(Math.random()*10);

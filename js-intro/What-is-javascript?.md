@@ -17,6 +17,6 @@ You can go through this video first to understand the features of Javascript.
 Javascript is a high-level scripting and interpreted programming language. Now, there are three important phrases to understand here. High level, Scripting, and Interpreted.
 
 - High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.
-- Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also.
+- Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1's and 0's  and we will call it a low level language also.
 - Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it. 
 

@@ -6,4 +6,4 @@ name: Project prereuisite
 
 Follow the link below to understand how to get random numbers. 
 
-https://www.w3schools.com/jsref/jsref_random.asp
+[click here](https://www.w3schools.com/jsref/jsref_random.asp)

@@ -8,17 +8,14 @@ for in loop is a special type of loop that iterates over the object or an array 
 ### Example:
 
 ```javascript
-
 var cars = ["Maruti", "Mercedes", "BMW"];
 for (car in cars){
 console.log(cars[car]),
 }
-
 // Output:
 // Maruti
 // Mercedes
 // BMW
-
 ```
 
 ### Explanation:
@@ -76,35 +73,32 @@ console.log(person_details+ "= "+person[person_details]);
 
 By for in when you are looping on Dictionary (object), in  person_details each time its key will come like name, surname, age respectively. 
 
-When the first time loop is running the person_details value is name, we said to print person[person_details] means person[“name”] so it prints gouri because in person dictionary name key has the value of gouri.
+When the first time loop is running the person_details value is name, we said to print person[person_details] means person["name"] so it prints gouri because in person dictionary name key has the value of gouri.
 
 With the string concatenation 
-person_details+ "= "+person[“name”], name= gouri
 
-When the second time loop is running, the person_details value is surname. We said to print person[person_details] means person[“surname] so it prints maity because in person dictionary surname key has the value maity.
+person_details+ "= "+person["name"], name= gouri
 
-With the string concatenation 
-person_details+ "= "+person[“surname”],surname=maity
-
-When the third time loop is running, the person_details value is age, we said to print person[person_details] means person[“age”] so it prints 37 because in the person dictionary age has the value of 37.
+When the second time loop is running, the person_details value is surname. We said to print person[person_details] means person["surname"] so it prints maity because in person dictionary surname key has the value maity.
 
 With the string concatenation 
-person_details+ "= "+person[“age”],age= 37
 
+person_details+ "= "+person["surname"],surname=maity
 
+When the third time loop is running, the person_details value is age, we said to print person[person_details] means person["age"] so it prints 37 because in the person dictionary age has the value of 37.
+
+With the string concatenation 
+
+person_details+ "= "+person["age"],age= 37
 
 ## Example:
 
 ```javascript
-
 const campus={"camp_name":"Bangalore_campus","establish":2016,"election":"three_months"}
 for(let eachKey in campus){
   console.log(campus[pro])
 }
- 
- 
 // Output: 
-
 // Bangalore_campus
 // 2016
 // three_months

@@ -5,12 +5,11 @@ name: History of JS
 
 In 1995, JavaScript was created by a developer named Brendan Eich. First, it was called Mocha that later was renamed to LiveScript and then Javascript. 
 
-
-Some more Information about browser and importance of Javascript from this video.
+You will get some more Information about browser and importance of Javascript from this video.
 
 @[youtube](9WfPJKiKs_I)
 
-# What You Can Do with JavaScript
+### What You Can Do with JavaScript
 
 @[youtube](VePxnvFBZAs)
 
@@ -18,7 +17,7 @@ Some more Information about browser and importance of Javascript from this video
 
 - [What are some of the cool projects that I can build using Pure JavaScript?](https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio)
 
-## Some more companies which is using JS
+### Some more companies which is using JS
 
 Nowadays, in the world so many are using javascript. The best companies in the world use javascript somewhere in their company. Javascripts speciality they can run on any platform.
 

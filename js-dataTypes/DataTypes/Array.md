@@ -2,12 +2,17 @@
 name: Array
 ```
 
-Think about a list of your favourite things. For example, 
+Think about a list of your favourite things. 
 
-your mother’s name, Ramani
-Your favourite colour, Black
-Your favourite number, 1
-Your birthdate, Jan 2, 1996
+For example, 
+
+your mother’s name, Ramani  
+
+Your favourite colour, Black  
+
+Your favourite number, 1  
+
+Your birthdate, Jan 2, 1996  
 
 Now imagine you had to store them together as myFavourtiThings in JS. To do this you will use an Array Data Type.
 
@@ -22,4 +27,6 @@ console.log(cities[0]);   // Output: Dharamshala
 console.log(cities[2]);   // Output: Pune
  ```
 
-Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, strings, booleans, functions, objects, and even other arrays. The array index starts from 0, so that the first array element is arr[0] not arr[1]. For the example above, colours[0] refers to Red.
+Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, strings, booleans, functions, objects, and even other arrays. The array index starts from 0, so that the first array element is arr[0] not arr[1].  
+
+For the example above, cities[0] refers to Dharamshala.

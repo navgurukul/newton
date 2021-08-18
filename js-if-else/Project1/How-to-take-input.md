@@ -14,16 +14,16 @@ To know more about “readline-sync” you can read this doc as well:
 	
 [Follow this link](https://launchschool.com/books/javascript/read/input_output)
 
-Note : Before using “readline-sync” make sure that it is downloaded in your laptop then only you will be able to take the input from the user.
+#### Note : 
+
+Before using “readline-sync” make sure that it is downloaded in your laptop then only you will be able to take the input from the user.
 
 ### Example:
 
 ```javascript
-
 let readlineSync = require("readline-sync");
 var yourName= readlineSync.question("What is your name: ")
-console.log(playerName);
-
+console.log(yourName);
 ```
 
 ### Explaination:

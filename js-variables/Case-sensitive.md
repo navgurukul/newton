@@ -12,7 +12,7 @@ console.log(Name+name)
 ```
 ### Explanation:
 
-As variables are case sensitive. It means x and X are different variables. You can see clearly in this variable Name we have capital N and in this variable name we have n, both are different  to look at andlook  and JS feels also it as a different variable.
+As variables are case sensitive. It means x and X are different variables. You can see clearly in this above two variables one is Name we have with N (capital N) and second one is also name but started with n (small n), both are different  to look and JS feels also it as a different variable.
 
 
 ### Example:

@@ -45,6 +45,8 @@ When i = 10, now it will check for loop condition 10<=10 this is true, and it wi
 
 When i = 11 now it will check for loop condition 11<=10 clearly this is false, and it won’t go further.
 
+#### Note
+
 The do while loop is a variant of the while loop which evaluates the condition at the end of each loop iteration.
           
 
@@ -110,7 +112,9 @@ In this code i is initial variable it starts from 0 and it will run till 10
 
 sum is another variable for storing the value of  (sum+i) this operation. every time sum value will change because sum value is inside the loop and variable nature is that it updates the value.when condition will be false then it will give us the last update value.
 
-NOTE:-  in do while loop we have to do increment inside the do block if increment will happen out of the do block it will give you error.
+#### NOTE:  
+
+In do while loop we have to do increment inside the do block if increment will happen out of the do block it will give you error.
 
 ### Example:
 ```javascript
@@ -153,4 +157,4 @@ In the third iteration, v is 0, v gets printed, 0<= 3, so loop runs again.
 
 …
 
-Do you see what is happening? V is never getting incremented. Thus this program will run to infinity. 
+Do you see what is happening? v is never getting incremented. Thus this program will run to infinity. 

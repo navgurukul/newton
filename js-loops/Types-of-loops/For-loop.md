@@ -56,11 +56,17 @@ When this loop runs the second time, the value of n is 8, n>0 is true, and it is
 When this loop runs the third time, the value of n is 7, n>0 is true, and it is decremented due to n--, n value will become 6, therefore i is printed
 
 When this loop runs the fourth time, the value of n is 6, n>0 is true, and it is decremented due to n--, n value will become 5, therefore i is printed
+
 ….
+
 ….
+
 ….
+
 ….
+
 ….
+
 When this loop runs the tenth time, the value of n is 0, 0>0 is false, and the loop breaks.
 
 ### Example :
