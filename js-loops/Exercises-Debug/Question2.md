@@ -1,8 +1,8 @@
-### Second
-
 Print the maximum number in between the numbers given by user?
 
 if loop_time input is given 3, 3 times input need to give for making a list with 3 elements and need to find max from the list.
+
+Debug the code if anythinng wrong is there?
 
 ```javascript
 let c=require("readline-sync");

@@ -9,11 +9,11 @@ var isStanding = true;   // this means -- yes, I'm standing
 var isStudying = false; // this means -- no, I'm not studying
 ```
 
-Boolean values also come as a result of comparisons in a program. The following example compares two variables and shows the result in an alert dialog box:
+Boolean values also come as a result of comparisons in a program. The following example compares two variables and shows the result.
 
 ```javascript
 var a = 2, b = 5, c = 10;
-console.log(b > a) // Output: true
-console.log(b > c) // Output: false
+console.log(b > a); // Output: true
+console.log(b > c); // Output: false
 ```
-Don't worry we will learn more on operations and comparision in operators.
+Don't worry we will learn more on operations and comparisions in **operators**.

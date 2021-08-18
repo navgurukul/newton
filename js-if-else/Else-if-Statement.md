@@ -4,25 +4,29 @@ name: Else if statement
 
 ### Example:
 ```javascript
-    var course = "Hindi";
-    if (course == "English"){
-        console.log("Tutorial is for English")}
-    else if (course == "Hindi"){
-        console.log("Tutorial is for Hindi")}
-    else {
-        console.log("Tutorial is for Javascript")
+var course = "Hindi";
+if (course == "English"){
+    console.log("Tutorial content is there in English");
     }
+else if (course == "Hindi"){
+    console.log("Tutorial content is there in Hindi");
+    }
+else {
+    console.log("I am not understanding of Language");
+}
 
-// Output : Tutorial is for Hindi
+// Output : Tutorial content is there in Hindi
 
 ```
 
 ### Explanation:
 
-if the course is equal to English, output “Tutorial is for English”.else if the course is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above condition is true, then output “Tutorial is forJavascript”
+if the course is equal to English, output “Tutorial content is there in English”.else if the course is equal to Hindi, output “Tutorial content is there in Hindi”.if nothing of the above condition is true, then output “I am not understanding of Languaget”
 
 
-> else If condition specifies a new condition if the first condition will be  false then it checks other conditions. When we have many conditions and we want a condition to be true then we use an else-if statement.
+else If condition specifies a new condition if the first condition will be  false then it checks other conditions. 
 
+#### Note
 
-> We have done a lot of questions related to if statements in python. To understand the syntax of Javascript. Please do these questions in js. [If else questions](https://merakilearn.org/course/93/exercise/2169)
+When we have many conditions to check and we want a condition to be true then we use an else-if keyword.
+

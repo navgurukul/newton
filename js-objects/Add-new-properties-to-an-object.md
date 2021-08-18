@@ -33,3 +33,13 @@ console.log(myHome);
 ```
 
 If you see, the new property isGood is added in the object.
+
+For adding:
+
+objectName.NewPropertyName = value;
+
+myHome.isGood= true;
+
+Then in myHome object we are going to set a new property named isGood and we are giving value as true.
+
+

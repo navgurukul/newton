@@ -22,7 +22,7 @@ var scooty = {
 
 An object contains properties, defined as a key-value pair. In the example above, name, surname and age are keys, and Nayak, Kumar and 24 and their corresponding values.
 
-You can omit the quotes around property name if the name is a valid JavaScript name. That means quotes are required around "first-name", "first name" but are optional around firstname. So the car object in the above example can also be written as:
+You can omit the quotes around property name if the name is a valid JavaScript name. That means quotes are required around "first-name", "first name" but are optional around firstname. So the scooty object in the above example can also be written as:
  
 ```javascript
 var scooty = {

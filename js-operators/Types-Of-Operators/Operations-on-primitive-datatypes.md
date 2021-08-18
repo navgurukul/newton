@@ -2,13 +2,13 @@
 name: Operations on primitive data types
 ```
 
-As you previously read about different data types in javascript. There are some primitive data types on which some operations can be performed which we are going to know about it now :
+As you previously read about different data types in javascript. There are some primitive data types on which some operations can be performed which we are going to know about it now.
 
 ## Operations on Strings 
 
-- ### Finding length of a string
+- ### Finding the length of a string
 
-To find the length of a string you just need  a simple property called length
+To find the length of a string you just need to use a simple property called length.
 
 ### Example:
 

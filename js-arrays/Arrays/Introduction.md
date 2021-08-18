@@ -18,7 +18,7 @@ Your favourite number, 1
 
 Your birthdate, Jan 2, 1996
 
-Now imagine you had to store them together as myFavouriteThings in JS. To do this you will use an Array Data Type
+Now imagine you had to store them together as myFavouriteThings in JS. To do this you will use an Array Data Type.
 
 
 An array is a type of object used for storing multiple values in a single variable.
@@ -34,7 +34,5 @@ Same like myFavouriteFriends
 
 ```javascript
 var myFavouriteFriends = ["shweta", "rani", "nayak", "kajal"]
-
 ```
-
-Which you can relate with lists in python. 
+ 

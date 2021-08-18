@@ -9,7 +9,9 @@ console.log(a+2);
 ```
 
 ```solution
-undefined undefined undefined NaN
+undefined undefined undefined 
+
+NaN
 
 ### Expalanation
 

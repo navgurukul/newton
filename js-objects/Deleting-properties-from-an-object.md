@@ -30,3 +30,10 @@ var myHome = {
 
 isGood property is deleted from an object myHome.
 
+For deleting a particular property:
+
+delete objectName.PropertyName;
+
+delete myHome.isGood;
+
+Then in myHome object we are going to delete a property named isGood and we are deleting isGood property.

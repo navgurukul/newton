@@ -11,7 +11,9 @@ console.log(string1)
 ```
 ### Explanation:
 
-See in the above example, you want double quotes to Sarjapur Campus, but because the string is also in double quotes you can ignore double quotes that are there to Sarjapur Campus by using backslashes.
+See in the above example, you want double quotes to Sarjapur Campus, but because the whole string is also in double quotes you can ignore double quotes that are there to Sarjapur Campus by using backslashes.
+
+#### Note:
 
 See, when you are defining a string you can use single or double quotes, but somewhere if you want literal quotes( double quotes(“ “) or single quotes(‘ ‘) ) so to fulfill that need we can use backslash(\) to ignore literal wherever we want.
 

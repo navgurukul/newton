@@ -7,19 +7,24 @@ name: Different types to write a function
 Earlier in this tutorial, you learned that functions are declared with the following syntax:
 
 ```javascript
-
 function addNumbers(parameter1, parameter2) {
  // code to be executed
 }
 
+addNumbers(argument1 , argument2);
 ```
 
-functionName(argument1 , argument2);
+We can call a function with a name, like addNumbers above, any time we need it by referencing its name and passing some arguments to it. This function has a name.
 
-We can call a function with a name, like addNumbers above, any time we need it by referencing its name and passing some arguments to it. This function has a name. Named functions are useful if we need to call a function many times to pass different values to it or run it several times.
+#### Note:
+
+Named functions are useful if we need to call a function many times to pass different values to it or run it several times.
 
 
 - ### Function Expressions ( Anonymous function )
+
+
+### Syntax for Function Declaration
 
 ```javascript
 
@@ -33,6 +38,8 @@ function getSum(num1, num2) {
 ```
 
 Here we have just declared the function getSum. We haven’t called it yet. Declared functions are not executed immediately. They are "saved for later use", and will be executed later, when they are invoked (called upon).
+
+### Syntax for Function Expression
  
 ```javascript
 
@@ -46,6 +53,8 @@ var getSum = function(num1, num2) {
 ```
 
 Notice how in the function declaration above we will declare function by writing a function and do the tasks, but in function expressions we will assign to it a variable and perform tasks.
+
+#### Note:
 
 The syntax that we've used before to create functions is called function declaration. There is another syntax for creating a function that is called a function expression. A function expression can be stored in a variable:
 
@@ -67,14 +76,19 @@ console.log(sum); // 0utputs: 32
 
 ```
 
+### Note:
+
 The function above is actually an anonymous function (a function without a name).
 
 ### Exercises:
 
-Define an Anonymous function and call it by taking two arguments to whether they are       equal or not?
+Define an Anonymous function and call it by taking two arguments to whether they are equal or not?
 
-Feedback after Submit
 ```javascript
+// please write code here
+```
+
+```solution
 var isEqual = function(str1,str2){
    console.log(str1===str2)
 }
@@ -92,17 +106,19 @@ You have to add parentheses around the function to indicate that it is a functio
  console.log(x);
 })();
  
-Output :-
-Hello!! Nayak
+// Output :
+// Hello!! Nayak
 
 ```
  
 ### Explanation:
 
-As we see in the example, we are not giving names and not storing the function in any variable. We are declaring it after that we are accessing it using parentheses. So, output is showing Hello!! Nayak
+As we see in the example, we are not giving names and not storing the function in any variable. We are declaring it after that we are accessing it using parentheses. So, output is showing **Hello!! Nayak**
 
 A self-invoking expression is invoked (started) automatically, without being called.
+
 Function expressions will execute automatically if the expression is followed by ().
+
 You cannot self-invoke a function declaration.
 
 ### Exercises:
@@ -112,6 +128,7 @@ You cannot self-invoke a function declaration.
 ```javascript
 // write code here..
 ```
+
 ```solution
 (function(str1,str2){
    console.log(str1===str2)

@@ -42,5 +42,5 @@ console.log(myObj)
 ```solution
 Output:ReferenceError: name is not defined
 
-Because the name key we need to give it in strings, otherwise it feels that it is a variable.
+Because the name key we need to give it in strings as myObj["name"] =7;, otherwise it feels name as a variable and search for it to get value.
 ```

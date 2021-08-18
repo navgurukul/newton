@@ -1,6 +1,6 @@
-**First :**
+Program to check whether a given string is a palindrome or not.
 
-Program to check whether a given string is a palindrome or not?
+What is the output of the following program?
 
 ```javascript
 // enter name: kumar and tell us the what is the output will come

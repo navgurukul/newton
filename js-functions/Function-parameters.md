@@ -12,18 +12,17 @@ function functionName(parameter1, parameter2, parameter3) {
  // Code to be executed
 }
 
+functionName(argument1, argument2, argument3);
+
 ```
 
-functionName(argument1, argument2, argument3);
  
-You can specify parameters when you define your function to accept input values when your code is running. The parameters work like placeholder variables within a function; they're replaced at run time by the values (known as argument) provided to the function at the time of function calling. See  in the above example we are given 3 arguments when we are calling the function and accessing by the parameters like parameter1, parameter2, parameter3.
+You can specify parameters when you define your function to accept input values when your code is running. The parameters work like placeholder variables within a function. They're going to replaced at run time by the values (known as argument) provided to the function at the time of function calling. See  in the above example we are given 3 arguments when we are calling the function and accessing by the parameters like parameter1, parameter2, parameter3.
 
 ### Example:
 
 ```javascript
-
 // Defining function
-
 function displaySum(num1, num2) {
  var total = num1 + num2;
  console.log(total);
@@ -33,10 +32,9 @@ function displaySum(num1, num2) {
 
 displaySum(6, 20); // 0utputs: 26
 displaySum(-5, 17); // 0utputs: 12
-
 ```
 
-You can declare as many parameters as you want. However for each parameter you write, a corresponding argument needs to be passed to the function when it is called, if not passed its value becomes undefined. Let's consider the following example:
+### Example:
 
 ```javascript
 
@@ -52,10 +50,19 @@ showFullname("Shwetha"); // 0utputs: Shwetha undefined
 
 ```
 
+### Explanation:
+
+In function parameters we given two named as firstName, lastName but when we calling a function we need to pass arguments there we passed only one that is Shwetha and if we are not passing an argument the parameter which is responsible for getting the value, it won't get anything and it has undefined in it, so it prints  **Shwetha undefined** as output.
+
+
+#### Note:
+
+You can declare as many parameters as you want. However for each parameter you write, a corresponding argument needs to be passed to the function when it is called, if not passed its value becomes undefined. 
+
 
 ### Exercises:
 
-1. Write a function displayMultiply() and pass 3 parameters and in runtime take the arguments with the names num1, num2, num3 and multiply them and return the result?
+1. Write a function name it as displayMultiply() and pass 3 parameters and in runtime take the arguments with the names num1, num2, num3 and multiply them and return the result?
 
 ```javascript
 // write code here
@@ -93,10 +100,12 @@ getResult(2,3,4,5);
 ```
 
 ```solution
-Feedback after submit
 No error. Even though an extra parameter (5) is passed, the function getResult simply does not use it.	
 ```
+
+
 4. Write a program that will take two parameters and print its sum?
+
 
 ```javascript
 // write code here
@@ -107,8 +116,11 @@ function SumOfNumbers(num1,num2){
    return num1+num2;
 }
 SumOfNumbers(1,2);
- ```
+```
+
+
 5. What is the output of the following code?
+
 ```javascript
 function displayMultiply(a,b){
    console.log(a*b);
@@ -121,6 +133,7 @@ displayMultiply(2,3);
 ```
 
 6. What is the error in the following code?
+
 ```javascript
 	function displaySubtraction(a,b){
    console.log(ab);

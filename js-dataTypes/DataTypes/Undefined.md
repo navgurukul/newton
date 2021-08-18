@@ -7,15 +7,17 @@ name: Undefined
 
 ```javascript
 var a;
-var b = "Hello World!"
-console.log(a) // Output: undefined
-console.log(b) // Output: Hello World!
+var b = "Hello World!";
+console.log(a); // Output: undefined
+console.log(b); // Output: Hello World!
 ```
 variable a is just declared and not assigned any value in it, whenever you will try to print before assigning a vlaue you will get undefined.
 
 variable b is declared and assigned a value i.e., Hello World!
 
-The **undefined** data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, has the value undefined.
+### Note
+
+The **undefined** data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, it has the value undefined.
 
 ### Exercises:
 

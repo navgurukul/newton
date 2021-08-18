@@ -5,7 +5,6 @@ name: Common operations can be done on Arrays
 
 - ### Create an array
 
-### Example :
 ```javascript
 var fruits = ['Apple', 'Banana'];
 console.log(fruits.length); 
@@ -14,11 +13,9 @@ console.log(fruits.length);
 
 ### Explanation :
 
-In this we have used the length property to find the length of the array. It depends generally on the elements present in the arrays.
+In this we have used the length property to find the length of the array. Beacuse in our fruits list we have only 2 elements those are Apple and Banana it given us the output 2. It depends generally on the how maelements present in the arrays.
 
 - ### Access an Array item using the index position
-
-### Example :
 
 ```javascript
 var fruits = ['Apple', 'Banana', ‘Orange’]
@@ -26,11 +23,9 @@ console.log(fruits[1]); // output ‘Banana’
 ```
 ### Explanation :
 
-In javascript arrays elements can be accessed by indexing which specify the position of the current element in the array. And it starts with 0.
+In javascript arrays elements can be accessed by indexing which specify the position of the current element in the array. And indexing starts with 0.
 
 - ### Loop over an Array
-	
-### Example :
 
 ```javascript
 var array = [ 1, 2, 3, 4, 5, 6 ];
@@ -68,7 +63,6 @@ When this loop runs the seventh time, the value of the index is 6. Clearly, 6<6 
  
 - ### Add an item to the end of an Array
 	
-### Example :
 
 ```javascript
 var fruits = ['Apple', 'Banana']
@@ -78,8 +72,6 @@ console.log (fruits)
 ```
 - ### Remove an item from the end of an Array
     
-### Example :
-
 ```javascript
 var fruits = ['Apple', 'Banana', ‘Orange’]
 fruits.pop()
@@ -89,10 +81,9 @@ console.log(fruits)
 
 - ### Remove an item from the beginning of an Array
 
-### Example :
 
 ```javascript
-var fruits = ['Apple', 'Banana', ’orange’]
+var fruits = ['Apple', 'Banana', 'orange']
 fruits.shift()
 console.log(fruits)
 
@@ -101,7 +92,6 @@ console.log(fruits)
 - ### Add an item to the beginning of an Array
 
 
-### Example :
 ```javascript
 var fruits = ['Apple', 'Banana']
 fruits.unshift(‘Grapes’)
@@ -109,32 +99,33 @@ console.log(fruits);
 // output : [ 'Grapes', 'Apple', 'Banana' ]
 ```
 - ### Find an index of an items the Array
-	
-### Example :
+
 ```javascript
-let fruits = ['Apple', 'Banana', ‘Orange’]
+let fruits = ['Apple', 'Banana', 'Orange']
 let position = fruits.indexOf('Banana')
 console.log(position);
 //  output 1
 ```
 - ### Remove an item by its index position
 	
-### Example :
 ```javascript
-var fruits = ['Apple', 'Banana', ‘Orange’]
+var fruits = ['Apple', 'Banana', 'Orange']
 
 let removedItem = fruits.splice(1,1)
 // output [‘Apple’, ‘Orange’]
 ```
 
-Note: while using splice(position, number of items to be removed) method you have to specify the position to start from and the number of items you want to remove from the array.
+#### Note: 
+
+While using splice(position, number of items to be removed) method you 
+have to specify the position to start from and the number of items you want to remove from the array.
+
 So here, we are saying begin from position 1, which is Banana, and remove one item from the array. Thus Banana will be removed.
  
 - ### Accessing Array Elements
 
 JavaScript arrays are zero-indexed. The first element of an array is at index 0. 
 
-### Example :
 ```javascript
 var arr = ['shweta', 'nayak', 'komal', 'zeba']
 console.log(arr[0])              // output 'shweta' the first element
@@ -145,6 +136,7 @@ console.log(arr[arr.length - 1]) // logs 'Zeba' the last element.
 In this example, arr.length gives us the total number of elements in the array, which is 4. 4 - 1 is 3. So this statement prints out arr[3], which is Zeba.
 
 ### Example :
+
 ```javascript
 let arr = ['shweta', 'nayak', 'komal', ‘Zeba’]
 console.log(arr.0)   // syntax error

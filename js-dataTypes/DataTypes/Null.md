@@ -3,9 +3,6 @@ name: Null
 ```
 
 
-This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string ("") or 0, it is simply nothing.
-
-A variable can be explicitly emptied of its current contents by assigning it the null value.
 
 ### Example:
 
@@ -17,6 +14,10 @@ console.log(b); // Output: Hello World!
 b = null;
 console.log(b) // Output: null
 ```
+
+This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string ("") or 0, it is simply nothing.
+
+A variable can be explicitly emptied of its current contents by assigning it the null value.
 
 ### Exercises:
 
@@ -38,5 +39,5 @@ console.log(val);
 ```
 
 ```solution
-Null
+null
 ```

@@ -37,6 +37,8 @@ When this loop runs the fifth time, the value of count is 9, therefore count is 
 
 When this loop runs the sixth time, the value of count is 11. Clearly, 11>10, so the while loop will stop.
 
+#### Note
+
 While loop helps us to execute a block of code. While runs upto a specified condition is true and stops once that condition is no longer true.
 
 
@@ -53,7 +55,7 @@ console.log(i)
 }
  
 
-// Output:-
+// Output:
 // 0
 // 2
 // 4
