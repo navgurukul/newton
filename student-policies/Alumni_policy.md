@@ -1,3 +1,7 @@
+```ngMeta
+name: Alumni Policy
+```
+
 # Alumni Policy
 
 *The policy is subject to change as and when required by the management & agreements.*
