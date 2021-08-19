@@ -1,3 +1,7 @@
+```ngMeta
+name: COVID Policies
+```
+
 You can find COVID policies of our different campuses linked underneath. 
 
 - [Bangalore Campus](https://drive.google.com/file/d/1EfASmP2Ncqd08trPyJCcLy9TY4zjor3W/view?usp=sharing)
