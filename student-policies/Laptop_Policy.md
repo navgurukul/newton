@@ -1,3 +1,7 @@
+```ngMeta
+name: Laptop Policy and Procedure Handbook
+```
+
 # Student Laptop Policy and Procedure Handbook
 
 *The policy is subject to change as and when required by the management & agreements.*
