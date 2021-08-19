@@ -1,4 +1,4 @@
 ```ngMeta
-name: Probation Policies
+name: Student Policies
 short_description: Ye hamare probation policies hain...
 ```
