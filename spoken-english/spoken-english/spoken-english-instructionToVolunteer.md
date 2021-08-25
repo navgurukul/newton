@@ -63,7 +63,7 @@ The classes will take 1 hour per week over the course of 15 week period.
 
 ******We have broken down the curriculum over [www.Merakilearn.org](http://www.Merakilearn.org) in parts of 15 week course material, where we expect the students to come out in better fluency and speaking by the end of this course. This can be ensured by the following phases that we have mentioned for the flow of Volunteer and Student interaction based on the structure.
 
-- **Preparatory Volunteer Notes**
+**Preparatory Volunteer Notes**
     - Application - know the whereabouts of Meraki android application
     - Online Class - learn how to create class on [www.m](http://www.mERAKILEARN.ORG)erakilearn.org
     - Curriculum
