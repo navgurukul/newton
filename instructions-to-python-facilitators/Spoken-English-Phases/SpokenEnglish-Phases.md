@@ -10,26 +10,26 @@ Volunteers opting for Spoken-English Volunteering opportunity, will be spending 
 
 The classes will take 1 hour per week over the course of 15 week period.
 
-These classes will take place online over Meraki application, where students use the android application, where as the volunteers have to access via [www.Merakilearn.org](http://www.Merakilearn.org) through the calendar invites.
+These classes will take place online over Meraki application, where students use the android application, where as the volunteers have to access via [www.Merakilearn.org](https://www.merakilearn.org) through the calendar invites.
 
-******We have broken down the curriculum over [www.Merakilearn.org](http://www.Merakilearn.org) in parts of 15 week course material, where we expect the students to come out in better fluency and speaking by the end of this course. This can be ensured by the following phases that we have mentioned for the flow of Volunteer and Student interaction based on the structure.
+**We have broken down the curriculum over [Meraki](https://www.merakilearn.org) in parts of 15 week course material, where we expect the students to come out in better fluency and speaking by the end of this course. This can be ensured by the following phases that we have mentioned for the flow of Volunteer and Student interaction based on the structure.**
 
 **Preparatory Volunteer Notes**
-    - Application - know the whereabouts of Meraki android application
-    - Online Class - learn how to create class on [Meraki](http://www.merakilearn.org/classes)
-    - Curriculum
-        - Walkthrough the 15 week course material
-        - Feedback for any additions/omissions in the curriculum
-        - Provide any supplement material- *run-through the Volunteer Manager in advance*
-        - Do not use malicious, external resources unless verified by the volunteer Manager
-        - Walkthrough of the external material to be done 2 days before the class is being conducted
-    - Reach out POC (Contact Details) - issues/challenges
-    - Provide Feedback - Class/Curriculum (Weekly)
-    - Monthly Volunteer Engagement - ***4 engagements through 15 weeks*** (30 Minutes)
-        - Celebrating success of the ongoing classes
-        - Understanding the challenges
-        - Brainstorming solutions
-        - Volunteers can reach out to Volunteer Managers at any moment if required
+- Application - know the whereabouts of Meraki android application
+- Online Class - learn how to create class on [Meraki](https://www.merakilearn.org/classes)
+- Curriculum
+    - Walkthrough the 15 week course material
+    - Feedback for any additions/omissions in the curriculum
+    - Provide any supplement material *run-through the Volunteer Manager in advance*
+    - Do not use malicious, external resources unless verified by the volunteer Manager
+    - Walkthrough of the external material to be done 2 days before the class is being conducted
+- Reach out POC (Contact Details) - issues/challenges
+- Provide Feedback - Class/Curriculum (Weekly)
+- Monthly Volunteer Engagement - ***4 engagements through 15 weeks*** (30 Minutes)
+    - Celebrating success of the ongoing classes
+    - Understanding the challenges
+    - Brainstorming solutions
+    - Volunteers can reach out to Volunteer Managers at any moment if required
 
 ***FLOW OF SPOKEN ENGLISH:*** 
 **PHASE-1: Building Comfort & Rapport**
