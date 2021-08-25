@@ -16,7 +16,7 @@ These classes will take place online over Meraki application, where students use
 
 **Preparatory Volunteer Notes**
     - Application - know the whereabouts of Meraki android application
-    - Online Class - learn how to create class on [www.m](http://www.mERAKILEARN.ORG)erakilearn.org
+    - Online Class - learn how to create class on [Meraki](http://www.merakilearn.org/classes)
     - Curriculum
         - Walkthrough the 15 week course material
         - Feedback for any additions/omissions in the curriculum
