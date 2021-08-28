@@ -50,14 +50,21 @@ Once you have completed creating a class. You shall get an email and/or a calend
 The class conduct has to be done in following manner : 
 
 For the people who are starting this week for the first session, please follow these steps:
-1. While conducting classes via Meraki for spoken English, please limit the number of entries maximum to 15, when taking first class.
 
-How to create classes:
-1.This week, there would be a new way to setup your classes. While creating classes please Select "Cohort". While when you select cohort, as for eg if you have classes on Wednesday  , 4-5 pm, so scroll down after filling all you desc, email id, name etc, follow these steps:
+While conducting classes via Meraki for spoken English, please limit the number of entries maximum to 15, when taking first class.
+
+#### How to create classes:
+
+1.This week, there would be a new way to setup your classes. While creating classes please Select "Cohort". While when you select cohort, as for eg if you have classes on Wednesday  , 4-5 pm, so scroll down after filling all you desc, email id, name etc, follow these steps.
+
 2. check the checkbox **Weekly**
+
 3. Check the checkboxes for **Days** on which you wish to conduct your classes eg, as in the above example, it is every *Wednesday*
+
 Now you have either 2 options:
-i. Either select **Until date** - please select the tentative date till which the course will get finished, eg as you are teaching English, considering 15-18 classes, and by calculation eg if your classes might end up by 18 December considering 15 weeks-18 weeks from August end, then in that section select 18 December.
+
+a. Either select **Until date** - please select the tentative date till which the course will get finished, eg as you are teaching English, considering 15-18 classes, and by calculation eg if your classes might end up by 18 December considering 15 weeks-18 weeks from August end, then in that section select 18 December.
+
 b. Second option is to select **occurrences**, meaning total number of recurring classes, as english has total 15-18 including doubt sessions classes, so you can mention occurrences as 18 classes.
 
 Please update the [Tracker](https://docs.google.com/spreadsheets/d/1jZYeO6412o1tFhmGVRjWETmotBMXZjK15CAiyy2Z0_c/edit#gid=0) (Add new data for each new class)
