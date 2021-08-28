@@ -45,14 +45,22 @@ You can click on the Create a Class button on the left hand side corner, to crea
 
 Once you have completed creating a class. You shall get an email and/or a calendar invite. You may use that to join the Google Meet you've created for your class. You can use this [Extension](https://chrome.google.com/webstore/detail/auto-admit-for-google-mee/epemkdedgaoeeobdjmkmhhhbjemckmgb/related?hl=en,) to Auto Admit students to the Meet you've scheduled.
 
-**NOTE** : This will be a recusrive Session, meaning 1 volunteer will be teaching 5 students, and same students will be taught for the rest of the weeks as well to bring a cohort culture. Currently the slots available are *Weekdays/Weekends 7-9pm*.
-
+**NOTE** : This will be a recusrive Session, meaning 1 volunteer will be teaching 5 students, and same students will be taught for the rest of the weeks as well to bring a cohort culture. 
 
 The class conduct has to be done in following manner : 
 
-1. Create first class over Meraki. Limit student entry to 5-7 only. Gather student email-ids, send them calendar invites for the second class. *Do not create second class over Meraki*
-2. Repeat the calendar invite for the following classes.
-3. This is a temporary solution till the *"Recursive Class"* - feature gets updated on Meraki.
+For the people who are starting this week for the first session, please follow these steps:
+1. While conducting classes via Meraki for spoken English, please limit the number of entries maximum to 15, when taking first class.
+
+How to create classes:
+1.This week, there would be a new way to setup your classes. While creating classes please Select "Cohort". While when you select cohort, as for eg if you have classes on Wednesday  , 4-5 pm, so scroll down after filling all you desc, email id, name etc, follow these steps:
+2. check the checkbox **Weekly**
+3. Check the checkboxes for **Days** on which you wish to conduct your classes eg, as in the above example, it is every *Wednesday*
+Now you have either 2 options:
+i. Either select **Until date** - please select the tentative date till which the course will get finished, eg as you are teaching English, considering 15-18 classes, and by calculation eg if your classes might end up by 18 December considering 15 weeks-18 weeks from August end, then in that section select 18 December.
+b. Second option is to select **occurrences**, meaning total number of recurring classes, as english has total 15-18 including doubt sessions classes, so you can mention occurrences as 18 classes.
+
+Please update the [Tracker](https://docs.google.com/spreadsheets/d/1jZYeO6412o1tFhmGVRjWETmotBMXZjK15CAiyy2Z0_c/edit#gid=0) (Add new data for each new class)
 
 
 
