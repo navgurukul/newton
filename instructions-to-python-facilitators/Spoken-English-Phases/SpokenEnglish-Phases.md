@@ -10,7 +10,7 @@ Volunteers opting for Spoken-English Volunteering opportunity, will be spending 
 
 The classes will take 1 hour per week over the course of 15 week period.
 
-These classes will take place online over Meraki application, where students use the android application, where as the volunteers have to access via [www.Merakilearn.org](https://www.merakilearn.org) through the calendar invites.
+These classes will take place online over Meraki application, where students use the android application, where as the volunteers have to access via [www.merakilearn.org](https://www.merakilearn.org) through the calendar invites.
 
 **We have broken down the curriculum over [Meraki](https://www.merakilearn.org) in parts of 15 week course material, where we expect the students to come out in better fluency and speaking by the end of this course. This can be ensured by the following phases that we have mentioned for the flow of Volunteer and Student interaction based on the structure.**
 

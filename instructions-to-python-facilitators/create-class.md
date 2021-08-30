@@ -9,7 +9,7 @@ Now that you've decided to teach students, lets see how you can get there and ge
 
 You can click on the *Create a Class* button on the left hand side corner, to create your class. *(Please use the nomenclature mentioned in the [curriculum table](https://www.merakilearn.org/course/145/exercise/3523) if you're creating a workshop)*
 
-![Creating a class](Images/How_to_create_a_class.png)
+![Creating a class](images/how_to_create_a_class.png)
 
 #### What's the difference between a Workshop and a Cohort Class? 
 
