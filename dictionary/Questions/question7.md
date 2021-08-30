@@ -4,12 +4,13 @@ submission_type: url
 ```
 
 
-Ek list lijiye aur uske andar dictionaries me keys and values likhiye jaisa ki niche dikhaya gaya hai (Sample Data) aur uske baad saare unique values ko ek list me print karaye.
-
-**Example :-**
+Take a `list having dictionary` elements as shown below (Sample Data) and then store all the `unique values` into a `list` and print.
 
 
-`Input :-`
+#### Example :-
+
+
+#### Input :-
 ```python
  [
      {"first":"1"}, 
@@ -22,7 +23,7 @@ Ek list lijiye aur uske andar dictionaries me keys and values likhiye jaisa ki n
 ]
  ```
 
-`Output :- `
+#### Output :-
 ``` 
 [2', '7', '9', '5', '1'] 
 ```

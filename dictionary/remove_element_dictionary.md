@@ -5,10 +5,13 @@ submission_type: url
    	 
 ## Removing Elements from a Dictionary:-
 
-Hum dictionary ke elements ko kahin tareeko se remove kar sakte hain.
-Jaisa ki niche dikhaya gaya hain.
+ We can remove dictionary elements by many methods. 
+Like given below.
 
-Hum **pop( )** method ka use karke specified element ko remove kar sakte hain :
+### pop()
+
+Using the **pop( )** method we can remove a specified element from the dictionary.
+
 
 
 ```python
@@ -21,11 +24,11 @@ CAR_DETAILS.pop("model")
 print(CAR_DETAILS)
  ```
     
-*Output:-*
+#### Output:-
 
-` {'brand': 'Ford', 'year': 1964}`
+`{'brand': 'Ford', 'year': 1964}`
 
-
+### popitem()
 
 The **popitem()** method removes the last inserted item:
 
@@ -38,11 +41,13 @@ person={
 person.popitem()
 print(person)
  ```
-*Output:-*
+#### Output:-
 
 `{'name':'jack','id':22}`
 
-Hum **del** keyword ka use karke kisi specified element ko delete kar sakte hain :
+### del
+
+Using the **del** keyword we can remove a specified element from the dictionary.
 
 ```python
 person={
@@ -55,8 +60,8 @@ del person('place')
 print(person)
  ```
 
-*Output:-*
+#### Output:-
 
-` {'name':'jack','id':22}`
+`{'name':'jack','id':22}`
    	 
    	 

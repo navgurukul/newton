@@ -3,12 +3,13 @@ name:  Question 5
 submission_type: url
 ```
 
+## Question 5
 
-aapko iss code mai  a name ki key hai uski values ka sum karna hai , b name ki key ka sum karna hai aur c name ki key ka sum karna hai. 
+In this code you have to sum the values ​​of `key with name a, key b and key c`.
 
-Iska output aisa hona chahiye :-   
+Its output should be like this:-    
 
-{'a': 400, 'b': 400, 'c': 700, 'd': 450}.`
+`{'a': 400, 'b': 400, 'c': 700, 'd': 450}.`
 
 
 

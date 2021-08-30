@@ -2,7 +2,7 @@
 name:  Debug  Code
 submission_type: url
 ```
-## `Debug Code`
+##  `Debug Code`
 Let us `debug` a few examples.
 
 

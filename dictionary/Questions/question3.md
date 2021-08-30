@@ -7,10 +7,10 @@ Ek program likhiye jo ki dictionaries ki values ka sum print kare.
 
 
 
-***Example :-***
+#### Example :-
 
-`Input :- `
-``` 
+#### Input :-
+```python 
    	my_dict = {
         'data1':100,
         'data2': -54,
@@ -18,7 +18,7 @@ Ek program likhiye jo ki dictionaries ki values ka sum print kare.
        } 
  ```
  
-`Output :- `
+#### Output :- 
 ```  
 293 
  ```

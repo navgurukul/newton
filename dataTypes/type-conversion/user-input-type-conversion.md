@@ -3,11 +3,13 @@ name: type conversion
 submission_type: url
 ```
 
-# Introduction
+## Introduction
 
 In this section, we want to take input from user using python. Then we'll also explore doing `type conversions` with that input.
 
-In the future, very often we will have to take some input from our users. To take an input in Python, we use `input`. Ex:-
+In the future, very often we will have to take some input from our users. To take an input in Python, we use `input`.
+
+#### Example 1 :-
 
 ```python
 user_input = input("Kuch input daaliye ")
@@ -17,7 +19,7 @@ When it runs, python will stop and a cursor will appear. Here you have to put so
 print (user_input)
 ```
 
-# One more Example
+#### Example 2 :-
 
 Let us understand this in more detail by taking an example of another input.
 
@@ -29,19 +31,19 @@ Look here that we have put a `string` inside the brackets of `raw_input`. The va
   
 If we do print `number1` in the `python shell`, then whatever value we have entered, will be printed.
 
-# `Type Conversion of User inputs`
+## `Type Conversion of User Inputs`
   
 Whenever we take user input from `input` to a variable it is in the `string` type. Meaning, whatever the user puts in, `raw_input` makes it a `string`.
 ```python
 number2 = input("Enter a number ")
 ```
-Here the data type of `number2` will be string. Whenever we take the value of a variable as input from `input`, that value is in the form of a `string`. If the user has to input a number, it will also be in the form of a `string`.
+Here the data type of `number2` will be `string`. Whenever we take the value of a variable as input from `input`, that value is in the form of a `string`. If the user has to input a number, it will also be in the form of a `string`.
 
 ```python
 print (type(number2))
 ```
 
-Like if here we entered 25 then `number2` would contain "25". Any value that has `quotes` in front of it is a `string`. To convert it to `integer` we have to use `int()`.
+Like if here we entered 25 then `number2` would contain "25". Any value that has `quotes` in front of it is a `string`. To convert it to `  INTEGER` we have to use `int()`.
 
 ```python
 number3 = int(number2)
@@ -60,6 +62,6 @@ number_y = int(number_y) # raw_input se hume number_y string type mein mila
 print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga
 ```
 
-Here it is important to understand we convert `number_x` and `number_y` to integer before multiplying because with `input` we get input always in the form of a `string`.
+Here it is important to understand that we convert `number_x` and `number_y` to integer before multiplying because with `input` we get input always in the form of a `string`.
 
-**Fun Activity :** Run this example without converting `number_x` and `number_y` to `int` and see what error occurs. Google this error and try to solve it. Talk to your friends around you, too. For this, you will have to remove the lines with `number_x = int(number_x)` and `number_y = int(number_y)`.
+### Fun Activity : Run this example without converting `number_x` and `number_y` to `int` and see what error occurs. Google this error and try to solve it. Talk to your friends around you, too. For this, you will have to remove the lines with `number_x = int(number_x)` and `number_y = int(number_y)`.

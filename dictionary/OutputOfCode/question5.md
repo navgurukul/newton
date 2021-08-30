@@ -2,8 +2,10 @@
 name:  Question 5
 submission_type: url
 ```
+## Question 5
 
-Q-6. Niche diye gye code snippet ki output kya hogi?
+
+What will be the output of the following code snippet?
 
 ```python
 my_dict = {}

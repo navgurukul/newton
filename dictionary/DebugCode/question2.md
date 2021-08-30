@@ -3,9 +3,9 @@ name:  Question 2
 submission_type: url
 ```
 
- aapko ek dictionary di gai hai jisme aapko sare key ka sum karna hai.
+## Question 2
 
-Apko iss code mai dedugging karni or pata karna hai ki aap output 14 kese la sakte ho.
+You have been given a dictionary in which you have to find the sum of all the keys. You have to debug this code and find out how you can get the output as 14.
 
 
 ```python

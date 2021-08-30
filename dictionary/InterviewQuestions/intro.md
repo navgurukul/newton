@@ -3,22 +3,23 @@ name:  Interview Questions
 submission_type: url
 ```
 ## Interview Questions
-Q1. Difference between dict.items() and dict.iteritems() in Python?
 
-Q2. Python program to print the dictionary in a table format?
+Q1. Difference between `dict.items()` and `dict.iteritems()` in Python?
 
-Q3. How to find length of dictionary values?
+Q2. Write a Python program to print the `dictionary` in a table format?
 
-Q4. Find keys with duplicate values in the dictionary?
+Q3. How to find `length of dictionary values`?
 
-Q5. Sum list of dictionaries with the same key?
+Q4. Find keys with duplicate values in the `dictionary`?
 
-Q6. Split dictionary keys and values into separate lists?
+Q5. Sum `list of dictionaries` with the same key?
 
-Q7. Convert a set into a dictionary?
+Q6. Split `dictionary` keys and values into separate lists?
 
-Q8. Get key with maximum value in Dictionary?
+Q7. Convert a `set into a dictionary`?
 
-Q9. Sort the list alphabetically in a dictionary?
+Q8. Get key with maximum value in `dictionary`?
 
-Q10.  Remove spaces from dictionary keys?
+Q9. Sort the list alphabetically in a `dictionary`?
+
+Q10. Remove spaces from `dictionary keys`?

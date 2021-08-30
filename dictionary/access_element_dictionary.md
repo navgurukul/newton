@@ -7,9 +7,9 @@ submission_type: url
 ## Accessing Elements from a Dictionary:-
 
 
-Hum square brackets ka use karke dictionary ke values ko access kar sakte hain. Jaisa ki niche dikhaya gaya hai.
+We can access dictionary values with the use of square brackets. Look at the example below to understand.
 
-**Example 1:-**
+#### Example :-
 
 ```python
 person={
@@ -25,13 +25,15 @@ print(x)
 print(result)
  ```
     
-*Output:-*
+#### Output :-
 
 `organisation male 20 ` 
 
-**get()** function bhi dictionary ki value access karne mai help karta hai. 
+### get() :-
+We can also make use of the **get()** function to access dictionary values.
+ 
 
-**Example 2:-**
+#### Example :-
 ```python
 person={
     'name':'jack',
@@ -50,8 +52,10 @@ result = person[4]['place']
 print(result)
  ```
    
-*Output:-*
-`  male {'organisation': 'navgurukul', 'place': 'dharamsala'}
+#### Output :-
+```
+male 
+{'organisation': 'navgurukul', 'place': 'dharamsala'}
  dharamsala
-`
+```
    	 

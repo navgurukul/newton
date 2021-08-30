@@ -2,14 +2,14 @@
 name:  Question 6
 submission_type: url
 ```
+## Question 6
+
+Write a program to remove `duplicate keys`.
+
+#### Example :-
 
 
-Ek program likhiye jo dictionary me se duplicate keys hata de.
-
-**Example :-**
-
-
-`Input :-`
+#### Input :-
 ```python
 dic={
     “ball”:”red”,
@@ -20,7 +20,7 @@ dic={
     }
  ```
 
-`Output :- `
+#### Output :- 
 ``` 
  {“ball”:”red”,”bat”:4,”wickets”:8}
  ```

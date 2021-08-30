@@ -2,9 +2,11 @@
 name:  Question 13
 submission_type: url
 ```
-Ek code likhiye jo dictionary ki 3 highest value print karaye. 
+## Question 13
 
-**Example :-**
+Write a program to print the top 3 highest values of a given `dictionary`.
+
+#### Example :-
 ```python
 my_dict = {
     'a':50, 
@@ -15,5 +17,7 @@ my_dict = {
     'f':20
     }
  ```
-
-` expect result:-['e','b','c']`
+#### Output :-
+```
+expect result:-['e','b','c']
+```

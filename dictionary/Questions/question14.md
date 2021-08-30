@@ -3,12 +3,14 @@ name:  Question 14
 submission_type: url
 ```
 
-Ek program likho jo ki dictionaries ki values ko sort(ascending or descending) kar de.
+## Question 14
+Write a program to sort a dictionary in ascending or descending according to its values .
 
 
-`Input :- `
+#### Input :-
 
-```
+```python
+
 {'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}
  ```
 
