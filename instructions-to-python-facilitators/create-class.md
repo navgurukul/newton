@@ -9,10 +9,21 @@ Now that you've decided to teach students, lets see how you can get there and ge
 
 You can click on the *Create a Class* button on the left hand side corner, to create your class. *(Please use the nomenclature mentioned in the [curriculum table](https://www.merakilearn.org/course/145/exercise/3523) if you're creating a workshop)*
 
-### What's the difference between a Workshop and a Cohort Class? 
+![Creating a class](images/how to create a class.png)
 
-In a Cohort system, you will be able to create recursive classes at one go. Students enrolled in one Cohort class, would get notified for future classes as well. 
-You will need to fix the class days and timings before hand. This will ensure 
+#### What's the difference between a Workshop and a Cohort Class? 
+
+In a Cohort system, you will be able to 
+- Create recursive classes at one go. 
+- Students enrolled in one Cohort class, would get notified for future classes as well. 
+- Fix the class days and timings before hand, ensuring regular enrollment of students. 
+- Help students continue a cohort system with one facilitator. 
+
+In a Workshop systen, you will be able to 
+- Create one class at a time, making you schedule 23 individual classes over the course of the program
+- Students enrolled in one Workshop class, would only get notified for that class. 
+- Gives you flexibility in your class days and timings, but can cause irregularity in students enrollments
+- There is a chance a student may end up attending classes conducted by more than one facilitator throughout their program
 
 Once you have completed creating a class. You shall get an email and/or a calendar invite. You may use that to join the Google Meet you've created for your class. You can use this [Extension](https://chrome.google.com/webstore/detail/auto-admit-for-google-mee/epemkdedgaoeeobdjmkmhhhbjemckmgb/related?hl=en, "Auto Admit Extension") to Auto Admit students to the Meet you've scheduled.
 
