@@ -18,6 +18,7 @@ In a Cohort system, you will be able to
 - Students enrolled in one Cohort class, would get notified for future classes as well. 
 - Fix the class days and timings before hand, ensuring regular enrollment of students. 
 - Help students continue a cohort system with one facilitator. 
+- Flexibility in conducting the sessions at your pace. 
 - **Nomenclature** - *[NGO Partner Name]* - Python Programming with *[Your Name]* - Batch *[Number 1,2,3,4]*
 
 In a Workshop systen, you will be able to 
@@ -25,6 +26,7 @@ In a Workshop systen, you will be able to
 - Students enrolled in one Workshop class, would only get notified for that class. 
 - Gives you flexibility in your class days and timings, but can cause irregularity in students enrollments
 - There is a chance a student may end up attending classes conducted by more than one facilitator throughout their program
+- Each Class has a defined set of topics to be covered.
 - **Nomenclature** - Class *[Number 1,2,3,etc]* - *[Name of Class as mentioned in Curriculum Table]*
 
 Once you have completed creating a class. You shall get an email and/or a calendar invite. You may use that to join the Google Meet you've created for your class. You can use this [Extension](https://chrome.google.com/webstore/detail/auto-admit-for-google-mee/epemkdedgaoeeobdjmkmhhhbjemckmgb/related?hl=en, "Auto Admit Extension") to Auto Admit students to the Meet you've scheduled.
