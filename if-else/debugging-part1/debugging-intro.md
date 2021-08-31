@@ -2,7 +2,7 @@
 name: Debugging
 ```
 
-## What is `debugging`?
+## What is `debugging` ?
 
 ![debugging-intro](assets/debugging-intro.jpg)
 

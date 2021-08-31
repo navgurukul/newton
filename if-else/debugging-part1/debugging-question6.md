@@ -2,6 +2,7 @@
 name: Question 6
 submission_type: url
 ```
+## Question 6
 
 ```python
 # Aapke paas ek variable mein `raw_input` se gaadi ki speed ka ek integer hai

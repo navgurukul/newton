@@ -2,9 +2,9 @@
 name: Writing Code for If Statements
 ```
 
-# Introduction
+## Introduction
 
-We have learned how to create flowcharts for if conditions. But we cannot use these flowcharts unless we learn how to write a code by looking at a flowchart.
+We have learned how to create `flowcharts` for `if conditions`. But we cannot use these `flowcharts` unless we learn how to write a code by looking at a `flowchart`.
 
 ```python
 day = raw_input("Din enter karo\n")
@@ -24,11 +24,12 @@ else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesd
 	print "Poha"
 ```
 
-In the above example, we take the day as input from the user. According to the day enetered, we print the food item for that particular day. Read the comments carefully to understand how the code is executed at every step.
+In the above example, we take the day as input from the user. According to the day entered, we print the food item for that particular day. Read the comments carefully to understand how the code is executed at every step.
 
-*Note: While entering the input for the day, you'll have to enter it exactly as it is used in the if conditions. Since Python is case-sensitive, it will treat `Monday` and `monday` differently.*
+### Note:
+ While entering the input for the day, you'll have to enter it exactly as it is used in the if conditions. Since Python is case-sensitive, it will treat `Monday` and `monday` differently.
 
-# More examples
+### More examples
 
 We have only used `==` comparison operator in the if statements. In the booleans exercise, we had seen other comparison operators as well. For example: 
 1. `>`: Greater than
@@ -39,7 +40,7 @@ We have only used `==` comparison operator in the if statements. In the booleans
 
 The following examples use these above mentioned comparison operators.
 
-## Example 1
+#### Example 1 :-
 In this program, you have set the value of the variable. The user will have to guess the string.
 
 ```python
@@ -52,7 +53,7 @@ else:
 ```
 
 
-## Example 2
+#### Example 2 :-
 Let's assume a rule that if the speed of our vehicle is less than or equal to 60, it will not be considered as overspeeding. Otherwise, it will be considered as overspeeding. We can write the program for it as shown below:
 
 ```python
@@ -64,12 +65,13 @@ else:
 	print "Gaadi speed limit ke bahar thi."
 ```
 
-*Note: Notice we have converted the value in the `speed` variable to an `int` before using in if condition. This is because the output of the `input` function is always a `string` and we cannot compare a string with a number correctly using `<=` operator.*
+### Note: 
+Notice we have converted the value in the `speed` variable to an `int` before using in if condition. This is because the output of the `input` function is always a `string` and we cannot compare a string with a number correctly using `<=` operator.
 
-# Nested If Condition
+### `Nested If Condition`
 We can easily use an if statement inside another if statement.
 
-Consider the example where we want to display the food menu based on the day and time. For example on monday, "Poha" in breakfast, "Rajma Chawal" for lunch and "Roti Sabzi" for dinner. Similary on tuesday, "Poori Sabzi" for breakfast, "Thukpa" for lunch and "Chicken Chawal" for dinner. We can write a program for this question as shown below:
+Consider the example where we want to display the food menu based on the day and time. For example on monday, "Poha" in breakfast, "Rajma Chawal" for lunch and "Roti Sabzi" for dinner. Similary on tuesday, "Poori Sabzi" for breakfast, "Thukpa" for lunch and "Chicken Chawal" for dinner. We can write a program for this question as shown below:-
 
 `TODO: We need to add a flowchart here somehow. #studentsShouldIgnore`
 
@@ -95,4 +97,4 @@ else:
 	print "Aur kisi bhi din hum daal roti sabzi khaynege."
 ```
 
-Observe how we have used if statement inside another if statement. The if statement inside will only be checked if the outer if condition is True.
+Observe how we have used if statement inside another if statement. The if statement inside will only be checked if the outer `if condition` is `True`.

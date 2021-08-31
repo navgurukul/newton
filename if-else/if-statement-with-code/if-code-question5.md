@@ -2,9 +2,10 @@
 name: Question 5
 submission_type: url
 ```	
+## Question 5
 
 1. Take user input in a variable named `varx`.
-2. Convert it to an integer.
+2. Convert it to an `integer`.
 3. Check if this number is divisible by 2.
 
 You can achieve this by using the `modulus operator`. Remember, modulus operator returns the remainder of the division of first operand by the second operand. Example:
