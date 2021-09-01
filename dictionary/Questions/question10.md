@@ -3,17 +3,20 @@ name:  Question 10
 submission_type: url
 ```
 
-Ek dictionary ki value ke sabhi items ko count kijiye jo ki ek list me hai.
+## Question 10
+
+Count the total number of items from the values of the `dictionary` which are in the form of a `list`.
 
 
-`Input :-`
-```
+
+#### Input :-
+```python
  dict =  {
    'Alex': ['subj1', 'subj2', 'subj3'], 
    'David': ['subj1', 'subj2']}
   ```
 
-`Output :-`
+#### Output :-
 ```
 total count:5
  ```

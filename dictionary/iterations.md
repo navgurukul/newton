@@ -16,13 +16,13 @@ for state in states_capitals:
     	print(state)
  ```
 
-*Output:-*
-`Gujarat Maharashtra Rajasthan Bihar`
+#### Output:-
+Gujarat Maharashtra Rajasthan Bihar
 
 
 ## Iterate through all values:-
 
-`Example :-`
+#### Example :-
 
 ```python 
 states_capitals = {
@@ -36,13 +36,14 @@ for state in states_capitals:
     print(states_capitals[state])
  ```
 
-*Output :-*
+#### Output :-
    ` Gandhinagar
    	 Mumbai
    	 Jaipur
    	 Patna`
 
-`Example :-`
+#### Example :-
+
 
 
 ```python
@@ -56,7 +57,7 @@ for x in details.values():
  ```
 
 
-`Output: `
+#### Output :-
 
 
 `17
@@ -65,9 +66,9 @@ Bijender
 `
 
 
-`Example  :-`
+#### Example :-
 
-dictionary se *keys* and *values* *ek sath* kaise print karte hai.
+How to print *keys* and *values* together from a dictionary?
 
 
 ```python
@@ -80,7 +81,7 @@ for x,y in movie.items():
 	print(x,y)
  ```
 
-`Output :-`
+#### Output :-
 
 `('rating', 7.5)
 ('hero', 'Vijay')
@@ -88,11 +89,12 @@ for x,y in movie.items():
 `
    
 
-## Dictionary length
+### Dictionary length
 
-**Dictionary length** hum dictionary mai kitne items hai yai count karne ke liye karte hai.
+We use **Dictionary length** to find the number of items/key value pairs in a dictionary.
 
-`Example:- `
+
+#### Example:-
 
 
 ```python
@@ -104,5 +106,5 @@ meal ={
 print(len(meal))
  ```
 
-*Output :-*
-   `3`
+#### Output :-
+   3

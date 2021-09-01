@@ -2,9 +2,9 @@
 name:  Question 7
 submission_type: url
 ```
+## Question 7
 
-
-Niche diye gye code snippet ki output kya hogi?
+What will be the output of the following code snippet?
 
 ```python
 rec = {

@@ -3,12 +3,14 @@ name:  Question 8
 submission_type: url
 ```
 
+## Question 8
 
-User se 10 students ke naam aur marks lekar unhe ek dictionary me store karaye.
+Take input of name and marks of 10 students and store to a dictionary.
 
 
-`Output :- `
-``` 
+
+#### Output :- 
+```python 
 {
     'sonu':85,
     'Kartik':90,

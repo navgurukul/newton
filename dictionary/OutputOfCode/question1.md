@@ -3,15 +3,14 @@ name:  Question 1
 submission_type: url
 ```
 
-Niche diye gye code snippet ki output kya hogi?
-
+What will be the output of the following code snippet?
 
 ```python
 a = {(1,2):1,(2,3):2}
 print(a[1,2])
  ```
 
-`Options :- `
+`Options :-`
 
 A.	 Key Error
 

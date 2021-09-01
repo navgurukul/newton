@@ -2,12 +2,12 @@
 name: Debugging
 ```
 
-# What is debugging?
+## What is `debugging` ?
 
 ![debugging-intro](assets/debugging-intro.jpg)
 
 
-We have learned how to write a code. When we write a code, many times the code does not run because of our mistakes. Sometimes we need to work with code written by someone else. In such cases, we might need to correct the mistakes within the code. This process is called debugging. Try to run the code given below:
+We have learned how to write a code. When we write a code, many times the code does not run because of our mistakes. Sometimes we need to work with code written by someone else. In such cases, we might need to correct the mistakes within the code. This process is called `debugging`. Try to run the code given below:
 
 ```python
 	number1 = 234
@@ -30,7 +30,7 @@ By looking at this error message, we can conclude that `numer1` variable is not 
 
 Once this is corrected, the program will run.
 
-# More problems
+### More problems
 
 Try to find out the error from the below program.
 
@@ -53,4 +53,4 @@ TypeError: unsupported operand type(s) for +: 'int' and 'str'
 
 This indicates that there is an error on line number 3. You can search the error message on Google to find solutions for fixing the error. If you type `TypeError: unsupported operand type(s) for +: 'int' and 'str'` in Google Search, you'll be able to find the solution from the first few links.
 
-In the next few questions, you'll get a pre-written code. You have to debug the incorrect program and submit the correct file.
+In the next few questions, you'll get a pre-written code. You have to `debug` the incorrect program and submit the correct file.

@@ -2,13 +2,13 @@
 name:  Question 4
 submission_type: url
 ```
+## Question 4
 
-aapko two dictionary di gai hai  unhen aapko concatenate karna hai
+You have been given two dictionaries, You need to `concatenate` them.
 
+Now you have to debug the code
+And your output should be like this :-
 
-
-ab apko code ko debug karna hai 
-Aur aapka output aisa hona chahiye  :-
 
 `{'umesh':21,'bijender':54,'amar':67,'peter':89,'sonu':56,'python':20,"gaurav":300,'dev':34,"karan":43}`
 

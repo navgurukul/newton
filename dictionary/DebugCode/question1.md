@@ -3,9 +3,8 @@ name:  Question 1
 submission_type: url
 ```
 
- aapko ek dictionary di gai hai jisme aapko kuch key ki value print karani hai.
-
-Code ko debug karre do bug find karro.
+## Question 1
+ You have been given a dictionary in which you have to print the value of some key. Debug the code.
 
 
 ```python

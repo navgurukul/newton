@@ -3,19 +3,22 @@ name:  Question 2
 submission_type: url
 ```
 
-Ek program likhiye jisse ki agar di hui key pehle se dictionary me exist karti ho toh  “exists “ print kare aur agar nahi karti ho toh “not exists” print kare.
+## Question 2
+
+Write  a program to print 'exists' if entered key already exists in the dictionary and print 'not exists' if the entered key does not exist.
 
 
 
-***Example :-***
 
-```
-dict={“name”:”Raju”, “marks”:56}
+#### Example :-
+
+```python
+    dict={“name”:”Raju”, “marks”:56}
  ```
 
-```
-if input is “name” then output will be “exist”
+#### Note :-
+If input is “name” then output will be “exist”
 
 If input is “class” then output will be “not exists”.
- ```
+ 
 

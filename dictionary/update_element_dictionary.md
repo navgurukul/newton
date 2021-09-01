@@ -5,9 +5,9 @@ submission_type: url
 
 ## Updating Dictionary :-
 
-Hum dictionary ko update karne ke liye usme ek entry kar sakte hai ya fir key-value pair add kar sakte hai aur jo key pehle se present hai uski value change kar sakte hai. Jaisa ki niche example me dikhaya gaya hain.
+To update dictionary ,we can make an entry in it or we can add a key-value pair or we can change the value of an existing key.As given in the example explained:-
 
-**Example 1:-**
+#### Example 1:-
 
 ```python
 person= {'1': 'RAM', '2': 17,}
@@ -15,10 +15,10 @@ person[3] = 'male'
 print(person)
  ```
 
-*Output:-*
-` {'1': 'RAM', '2': 17,'3':'male'}`
+#### Output:-
+`{'1': 'RAM', '2': 17,'3':'male'}`
 
-**Example 2-**
+#### Example 2 :-
 
 ```python
 details={
@@ -33,20 +33,20 @@ details['student']['id']=35
 print(details); 
  ```
    	 
-*Output:-*
+#### Output:-
 
 `{'Name': 'RAM', 'Age': 17, 'student': {'id': 35, 'place': 'dharamsala'}}`
 
 
 
 
-## Copy of Dictionary :- 
+### Copy of Dictionary :- 
 
 
-Hum dictionary ko 2 tarike se copy kar sakte hai,phela method *copy()* and second method by using built-in function dict().
+We can copy a dictionary in two ways,first method is using `copy()` and second method by using built-in function `dict()`.
 
 
-`Example 1 :-`
+#### Example 1 :-
 
 ```python
 classes ={
@@ -58,8 +58,8 @@ mydict=classes.copy()
 print(mydict)
  ```
 
-`Ouput:-`
+#### Output :-
 
-`{'room2': '7th', 'room3': '8th', 'room1': '6th'`
+`{'room2': '7th', 'room3': '8th', 'room1': '6th'}`
 
 

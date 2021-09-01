@@ -1,0 +1,18 @@
+{
+	"iterations_key1": "## Iterate through all `keys`:-\n\n",
+	"iterations_key2": "*`Output`:-*\n`Gujarat Maharashtra Rajasthan Bihar`\n",
+	"iterations_key3": "## Iterate through all values:-\n\n\n",
+	"iterations_key4": "`Example :-`\n",
+	"iterations_key5": "*`Output` :-*\n   ` Gandhinagar\n        Mumbai\n        Jaipur\n        Patna`\n",
+	"iterations_key6": "`Example :-`\n",
+	"iterations_key7": "`Output: `\n",
+	"iterations_key8": "`17\nBijender\n10th\n`\n",
+	"iterations_key9": "`Example  :-`\n",
+	"iterations_key10": "How to print *`keys`* and *values* together from a dictionary?\n",
+	"iterations_key11": "`Output :-`\n",
+	"iterations_key12": "`('rating', 7.5)\n('hero', 'Vijay')\n('name', 'Puli')\n`\n",
+	"iterations_key13": "## Dictionary length\n\n\n",
+	"iterations_key14": "We use **Dictionary length** to find the number of items/`key` value pairs in a dictionary.\n",
+	"iterations_key15": "`Example:- `\n",
+	"iterations_key16": "*`Output` :-*\n   `3`\n"
+}

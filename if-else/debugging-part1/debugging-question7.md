@@ -2,6 +2,7 @@
 name: Question 7
 submission_type: url
 ```
+## Question 7
 
 ```python
 # `raw_input` ka use kar ke user se din aur abhi ka samay (lunch, dinner) input
