@@ -1,0 +1,11 @@
+{
+	"loops-code-question7_key1": "Ab hum `loops` ka use karke ek game banayenge. Iss game ko hum \"**guessing game**\" bolte hai.\n",
+	"loops-code-question7_key2": "Iss game mein humare pass pehle se ek number hota hai. Abhi ke liye maan lo yeh **number 5**     hai.\n",
+	"loops-code-question7_key3": "Uske baad hum user se **1 se 10** ke beech mein ek **number `input`** lete hai. Phir user humare number ko guess karni ki koshish karta hai.\n",
+	"loops-code-question7_key4": "Jaise, agar user ne 3 `input` kiya. Hum check karenge ki kya 3, 5 ke barabar hai?\n",
+	"loops-code-question7_key5": "3, 5 ke barabar nahi hai isliye hum user se phir koi number `input` lenge.\n",
+	"loops-code-question7_key6": "Aur check karenge ki kya woh number 5 ke barabar hai?\n",
+	"loops-code-question7_key7": "User ko **5 chances** milenge number guess karne ke liye.\n\n\n",
+	"loops-code-question7_key8": "Agar usne 5 chances mein number guess kar liya toh sahi hai, nahi toh ek message aa jayega ki user ne guess nahi kiya.\n",
+	"loops-code-question7_key9": "**Hint: `Python` mein ek break `statement` hoti hai. Iske baare mein Google kar ke padh lo.**\n"
+}

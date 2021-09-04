@@ -1,0 +1,12 @@
+{
+	"introduction_key1": "# What is Counter?\n\n\n",
+	"introduction_key2": "Counter ek `variable` hota hai jaha hum value assign karte hai or vo ek \n**good `variable`** bhi hota hai jo ki decide karta hai ki humara `loop` kaha se kaha tak chalega. \n",
+	"introduction_key3": "`For Example :- `\n",
+	"introduction_key4": "`Chlo ek example ke through counter ko  smjhne ki kosis karte hai :- `\n",
+	"introduction_key5": "Dekho counter main hum number dete hai ki hume k aha se kaha tak `loop` chalana hai aur `loop` jb tk chlta rehta hai jab tak `loop` ki condition `false` nahi ho jati.\n",
+	"introduction_key6": "**Abb Hum example ko break kar kar samjhenge**\n",
+	"introduction_key7": "Humne ek `variable` liya jo counter name se define kiya hai.\nAb hum use keh rahe hai ki hume 1 se lekar 5 tak `loop` chalana hai aur starting hum 1 se shuru kar rahe hai phir hum ```\"Working\"``` print karwa rahe hai `loop` jab chalna band ho jayega jab count ki value  6 ho jaeygi and at that time `loop` condition will be `false`\n``1<=5`` condition `true` `loop` chal raha hai \n",
+	"introduction_key8": "Aise hi last main increment hoke ``5<=5`` tak `loop` chalega\n",
+	"introduction_key9": "Abb increment mai count ki value 6 ho gyi toh ``6<=5`` condition `false` toh `loop` chalana band ho jayega \n",
+	"introduction_key10": "So, Humara counter yahi  work krta hai.\n"
+}
