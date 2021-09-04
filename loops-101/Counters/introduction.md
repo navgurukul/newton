@@ -2,12 +2,11 @@
 name: Counters
 ```
 
-# What is Counter?
+## What is `Counter`?
 
-Counter ek variable hota hai jaha hum value assign karte hai or vo ek 
-**good variable** bhi hota hai jo ki decide karta hai ki humara loop kaha se kaha tak chalega. 
+`Counter` is a variable where we assign a value and it is also a **good variable** which decides that our loop will run from where to where.
 
-`For Example :- `
+#### Example :- 
 
 ```python
 count=1
@@ -15,20 +14,22 @@ While count<=5:
     print("Working")
     count = count + 1
 ```
-`Chlo ek example ke through counter ko  smjhne ki kosis karte hai :- `
-
-Dekho counter main hum number dete hai ki hume k aha se kaha tak loop chalana hai aur loop jb tk chlta rehta hai jab tak loop ki condition false nahi ho jati.
+`Let us understand Counter with the help of an example.`
 
 
-**Abb Hum example ko break kar kar samjhenge**
+In the `counter` variable we give a number that tells that the `loop` will run from where to where. The loop keeps on running `until` the loop condition becomes `False`,
 
 
-Humne ek variable liya jo counter name se define kiya hai.
-Ab hum use keh rahe hai ki hume 1 se lekar 5 tak loop chalana hai aur starting hum 1 se shuru kar rahe hai phir hum ```"Working"``` print karwa rahe hai loop jab chalna band ho jayega jab count ki value  6 ho jaeygi and at that time loop condition will be false
-``1<=5`` condition true loop chal raha hai 
 
-Aise hi last main increment hoke ``5<=5`` tak loop chalega
+**Now we will try to understand different parts of the example.**
 
-Abb increment mai count ki value 6 ho gyi toh ``6<=5`` condition false toh loop chalana band ho jayega 
+We have defined a variable with a variable name as `counter`. Now we are telling the variable, that we will run the loop from 1 to 5. The starting point of the loop is 1 and we will print `"Working"`. The loop will stop working when the value of the count is 6 and at that time the loop condition becomes `False`.
 
-So, Humara counter yahi  work krta hai.
+`1<=5` condition `True` loop will run.
+
+The loop will increment and run till `5<=5`.
+
+Now, after incrementing, when the count value becomes 6 then the `6<=5` condition becomes `False` then the loop will stop working.
+
+
+So, this is how the `counter` works.

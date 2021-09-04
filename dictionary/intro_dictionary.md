@@ -52,7 +52,8 @@ print(type(city_population))
 
 ## `Keys Case Sensitive` :-
 
-Dictionary ki keys case sensitive hoti hain , matlab hum same name ki keys ko alag alag case me likh sakte hai aur python usko alag alag keys ki tarah treat karega.
+
+Dictionary keys should be `case sensitive`, means we can write `keys` with same names but different case. Python treats them as different `keys`.
 
 #### Example:-
 
@@ -75,7 +76,7 @@ KeyError: bat
 // KeyError tab aati hai jab key dictionay mai nahi hoti hai.
  ```
 
-In the dictionary, *dict* *"ball"* is a key which has value *"green"*, similarly *"Ball"* is another key which has value *"red"*.
+In the dictionary, *dict* , *ball* a key which has value *"green"*, similarly *"Ball"* is another key which has value *"red"*.
 
 ### dict() function
 
@@ -95,7 +96,7 @@ print(student)
 
 ### DataType of `Keys` and `Values`
 
-A *"dictionary"*  can have values of any data type and can also be same, but keys are alway to be unique.
+A *"dictionary"*  can have values of any data type and can also be same, but keys are always to be unique.
 
 
 #### Example:- 
@@ -124,7 +125,7 @@ my_dict = {
 
 
 
-### Nested Dictionary :-
+### `Nested Dictionary` :-
 
 
 

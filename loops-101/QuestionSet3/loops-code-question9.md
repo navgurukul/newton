@@ -3,6 +3,7 @@ name: Question 9
 submission_type: url
 ```
 
-Ek algorithm banao jo user se `2 number input` lega. Aur fir unn number ko multiply karke print kare. Jaise, agar input hai `5 aur 4` tab `20` print hona chahiye. 
+Make an algorithm that takes `2 numbers as inputs` from the user. Then we will multiply those numbers and print the result. Example :-, if we input `5 and 4` then `20` should be printed. 
 
-**Note:- Aap  `*` yaani ki multiply operator ka numbers ko multiply karne ke liye use nhi kar sakte. Aap aur kisi bhi operator (+, -) ka use kar sakte ho.**
+#### Note :-
+ Don't use `*` multiply operator to `multiply` , you can use any other `operators` like `+,-`).

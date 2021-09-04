@@ -1,28 +1,30 @@
 ## Defining Lists
 
-Lists ko define kar ne ke liye hum `square brackets use karte hai` - [].
 
-Jab bhi aap `[` dekhein, toh samjhe, list ki definition shuru ho gayi hai, aur `]` se list ki defintion khatam ho gayi hai.
+To define lists we can use `square brackets` - `[]`.
 
-# Kuch Examples
+Whenever you see `[`, then think that list definition has started, and when you see `]`, then think that list definition is ending.
 
-Iss example mein hum kuch bachon ki naam ki list store kar rahe hain.
+### Some Examples
+
+In this example, we will store the names of students in a list.
+
 
 ```python
 names_list = ["rahul", "shivam", "kavay", "ashish", "rohit"]
 print names_list
 print type(names_list)
 ```
+In the last line we have used `type`. By using this function we will come to know that what is its data type.
 
-Aakhri line mein humne `type` ka use kiya hai. `type` function se hum dekhenge python mein iska type kya hai.
+This is the `list of strings` because all of its values contain strings.
 
-Yeh ek `strings ki list` hai kyunki iski saari values mein string hain.
 
-**Note kariye, ki LIST ko start karne ke liye `[` use hota hai and band karne ke liye `]` use hota hai. `[ ]` ki shape square jaise dekhti hai, isliye inhe SQUARE BRACKEtS kaha jata hai**
+**Please note that in order to start a `List` ,`[` is used and in order to close `]` is used. `[]` looks like a square shape, that is why these are called `SQUARE BRACKETS`.**
 
-Lists ke andar hum koi bhi object daal sakte hain. Yeh string, integer ya kisi bhi aur data type ka ho sakta hai.
+We can put any object inside a `list`. This can be `string, integer` or any other data type.
 
-## STRINGS ki LIST
+### `LIST OF STRINGS` 
 Yeh kuch banks ke naam ki list hai
 ```python
 banks_list = ["Kotak", "HDFC", "RBL", "SBI", "Bank of Baroda"]
@@ -30,8 +32,9 @@ print banks_list
 print type(banks_list)
 ```
 
-## INTEGERS ki LIST
-Yeh ek student ke boards ki marks ki list hai.
+### `LIST OF INTEGERS`
+
+This is the list of students marks.
 
 ```python
 marks_list = [70, 80, 75, 65, 68]
@@ -39,18 +42,18 @@ print marks_list
 print type(marks_list)
 ```
 
-## FLOATS ki LIST
-Yeh pichle saat dinon mein temperatures ki list hai.
+### `LIST OF FLOATS` 
+
+This is the list of temperatures of last seven days.
 
 ```python
 temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]
 print temperature_list
 ```
+But if we will use type function on a list variable, it will always show the type as list.But we the data iside a list can be of any type.
 
-Lekin hum jab bhi ek list variable pe `type` function ka use karenge, toh humesha uska type list dikhayega. Lekin list ke andar kuch bhi type ho sakte hain.
+### Exercises
 
-## Exercises
-
-1. Aap apne friends ki ek `list` banaye
-2. Aap aap jin jin countries ko visit karna chahte hai unki ek `list` banaye
-3. Aap peechle 5 mahine ke `total expenses` kitne hue, uski ek `list` banaye (jaise maan lo, peechle mahine 58750 ke expenses hue, and so on)
+1. Make a `list` of your friends.
+2. Make a `list` of all the countries that you want to visit.
+3. Make a list of `total expenses` of last 5 months (suppose , your last month expenses were 58750 and so on.)

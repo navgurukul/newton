@@ -7,8 +7,8 @@ submission_type: url
 We use `comparison operators` to compare two values. Their answer or result is always of the `Boolean Data Type`.
 
 
-| OPERATORS |           NAME            |  EXAMPLE |
-| :-------- | :-----------------------: | -------: |
+| OPERATORS  |           NAME            |  EXAMPLE |
+| :--------- | :-----------------------: | -------: |
 | `==`        |           `Equal`          | `10 == 10` |
 | `!=`        |         `Not Equal`         | `10 != 13` |
 | `>`         |       `Greater than`        |    `2 > 5` |

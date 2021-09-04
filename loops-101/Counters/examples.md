@@ -2,17 +2,18 @@
 name: Counter Examples
 ```
 
-# Counter Examples
+## `Counter Examples`
 
-Iss section mein kuch kuch examples die hue hain. Inn examples ko aapko ache se samajhna chaiye yeh figure out karne ke liye ki yeh kaise kaam karte hain. Aapko har example ka dry run karke dekhna chaiye ki dry run kaise ho raha hai.
+In this section, some examples are given. You need to understand these examples very carefully, to figure out how they work? You have to do a `dry run` of each of the examples and notice that how the dry run works.
 
-Saath saath comments mein aap kuch aur examples bhi likh sakte hain jisse aapke concepts aur aapke peers ke concepts better clear ho sakte hain.
+You can also add some more examples as comments so that your, as well as your peer's concept, becomes clear.
 
-## Example 1
 
-1 se 40 ke beech ke saare 3 ke multiples print karne hain. Code likhte waqt yeh dhyan rakhein ki aapka counter 891 se shuru hona chaiye.
+#### Example 1
 
-### Solution to Example 1
+You have to print multiples of 3 from 1 to 40. While writing the code keep in mind that the counter starts from 891.
+
+#### Solution to Example 1
 ```python
 i = 891
 while i < 931:
@@ -22,11 +23,11 @@ while i < 931:
   i = i + 1
 ```
 
-## Example 2
+#### Example 2
 
-1 se 50 ke beech ke saare 5 ke multiples print karo. Lekin aapko % (modulous operator) ka use nahi karna hai. Uske bina karo.
+Write a code to print all the multiples of 5 from 1 to 50. But you don't need to use % (modulus operator). Do without it.
 
-### Solution to Example 2
+#### Solution to Example 2
 ```python
 i = 0
 while i <= 50:
@@ -36,11 +37,11 @@ while i <= 50:
 ```
 
 
-## Example 3
+#### Example 3
 
-50 se 100 ke beech ke saare odd numbers ka sum print karo.
+Print all the odd numbers between 50 to 100.
 
-### Solution 1 to Example 3
+#### Solution 1 to Example 3
 
 ```python
 i = 49
@@ -68,29 +69,31 @@ while i >= 350:
   i = i - 1
 ```
 ## Example 4
-1 se 10 tak number print karne hai .incriment ka use nahi karna hai .
+
+Print the numbers from 1 to 10 without using increment.
+
 ### Solution 1 to Example 4
 ```python
 a = -1
 while a >= (-10):
-	print (-a)
-	a = a -1
+  print (-a)
+  a = a -1
 ```
 
 ### Solution 2 to Example 4
 ```python
 a = 1 
 while a <= 10:
-	print (a)
-	a = a-(-1)
+  print (a)
+  a = a-(-1)
 ```
 
 ### Solution 3 to Example 4
 ```python
 a = 1
 while a !=11:
-	print (a)
-	a-=-1
+  print (a)
+  a-=-1
 ```
 
 

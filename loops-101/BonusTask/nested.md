@@ -2,9 +2,12 @@
 name:  Nested While Loop
 submission_type: url
 ```
-Nested while loop woj hota hai jo loop ke andar loops hota hai.Usme phele andar wala loop run hota hai.Jab andar wala loop false ho jata hai tab woh bahar wala loop run karta aur yeh processes tab tak chata rehta hai jab tak bahar wale loop ki condition false nahi ho jati.
+## `Nested while loop`
 
-Example:-
+`Nested while loop` is defined as a loop witin a loop. In this, first the `inner loop` runs. When the inner loop becomes false, then only the outer loop runs and this process continues `until` the outer loop condition becomes `False`.
+
+
+#### Example :-
 
 ```python
 i = 1

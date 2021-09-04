@@ -8,7 +8,7 @@ submission_type: url
  We can remove dictionary elements by many methods. 
 Like given below.
 
-### pop()
+### `pop()` :-
 
 Using the **pop( )** method we can remove a specified element from the dictionary.
 
@@ -28,7 +28,7 @@ print(CAR_DETAILS)
 
 `{'brand': 'Ford', 'year': 1964}`
 
-### popitem()
+### `popitem()`:-
 
 The **popitem()** method removes the last inserted item:
 
@@ -45,7 +45,7 @@ print(person)
 
 `{'name':'jack','id':22}`
 
-### del
+### `del` :-
 
 Using the **del** keyword we can remove a specified element from the dictionary.
 

@@ -1,0 +1,12 @@
+{
+	"part-6_key1": "## `50 50 Lifeline`\n\n\n",
+	"part-6_key2": "Now, you have to implement `50 50 lifeline` when the user answers, you can also give 50 50 together with 1,2,3,4 as an option in the answers. If the user goes for 50 50, then you need to do the below things for the user :-\n",
+	"part-6_key3": "only for that specific question\n",
+	"part-6_key4": "you have to show two options again\n",
+	"part-6_key5": "you have to take user `inputs` again\n",
+	"part-6_key6": "and whatever `code` you were running that only you will run.\n- if the answer is correct - then tell - that the answer is right.\n- if the answer is wrong - tell the user - that the answer is wrong\n\n\n",
+	"part-6_key7": "#### Note\n\n",
+	"part-6_key8": "The two options that you will give - (out of the two one should be correct).\n\n\n",
+	"part-6_key9": "### Bonus Task\n\n\n",
+	"part-6_key10": "Write your `code` in such a way that users can use the `50 50 lifeline` once only. If the user tries to use that lifeline again then we have to tell them the lifeline has already been used.\n"
+}

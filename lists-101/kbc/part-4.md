@@ -3,12 +3,11 @@ name: User se Input
 submission_type: url
 ```
 
-## User se Input
+## Input from the User
 
-Ab aap ko har baar, question poochne ke baad, user se input lena hai, ki usse kya lagta hai, ki kya sahi answer hai.
+Now, everytime after asking the question, you need to take input from the user ,so that he can guess about what will be the correct answer.
 
-User 1, 2, 3 ya 4 mei se koi bhi answer kar sakta hai. 
+User can answer either 1, 2, 3 or 4.
+Now, you have taken answer as an input from the user, now you need to check if the user has given correct answer or not.
 
-Ab aapne user se answer ka input le liya hai, aise hi ab check karo ki user ne sahi answer daala hai ya nahi. 
-
-Agar answer sahi hai toh print karo `"Congrats! Aapka answer sahi hai"` nahi toh print karo `Sadly aapka javab galat hai.`
+If the answer is correct then print `"Congrats! Aapka answer sahi hai"` otherwise`Sadly aapka javab ga1lat hai.`

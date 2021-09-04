@@ -3,6 +3,9 @@ name: Question 5
 submission_type: url
 ```
 
-11 logon ka weight input le aur fir average weight print kare. Aur fir yeh bhi check kare ki kya Average weight 5 ka multiple (Yaani 5 se bhaag karne par shesh 0 bachta hai) hai ya nahi?
+## Question 5
 
-**Note: Isme aapko `input` ka use karna padega. Aap loop ke andar raw input ka use kar ke 11 baar raw_input le sakte ho.**
+Take input of `weights` of 11 people and then print their `average` and then check whether the `average weight` is a multiple of 5 or not? This means that when you will divide the `average weight by 5`, the remainder should be `0`.
+
+#### Note :-
+ Here you have to use `input` function. You can also use raw input to take the weights as inputs, inside the loop.

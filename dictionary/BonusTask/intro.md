@@ -6,11 +6,11 @@ submission_type: url
 
 In this task, you have to learn six new concepts about the `dictionary`.
 
-First you have to read the three new concepts of the dictionary from Python's website.
+Firstly, you have to read the three new concepts of the `dictionary` from Python's website.
 
 - https://docs.python.org/3/tutorial/datastructures.html
 
-Then you have to read three new concepts from **stackoverflow**.
+Then you have to read three new concepts from `stackoverflow`.
 
 
 You will share your understanding on a `Google doc` and share it with your mentor and do some questions related to concepts.

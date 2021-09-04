@@ -1,0 +1,10 @@
+{
+	"report-card-2_key1": "## Report Card - Part II\n\n\n",
+	"report-card-2_key2": "Please see this list :\n",
+	"report-card-2_key3": "This is the list of marks of a student for the last three years. You have to calculate the average marks for each year.\nLike, for the above list, the `output` should be as follows:- \n   Average of 1 year  - 84\n   Average of 2 year  - 80\n   Average of 3 year  - 63\n",
+	"report-card-2_key4": "## Edge Cases:\n\n",
+	"report-card-2_key5": "Check your program for following `nested lists` as well ( the `code` should run without changing the `code`, if it does not runs properly that means you have not written the `code` properly :\n",
+	"report-card-2_key6": "Through your `code` the `output` of the above list should be as follows :\n",
+	"report-card-2_key7": "This list should run without any `error`, if your program is **robust**:\n",
+	"report-card-2_key8": "Through your `code`, the solution of the above `nested list` should be as follows:\n"
+}

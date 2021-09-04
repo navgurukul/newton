@@ -2,9 +2,9 @@
 name:  Question 3
 submission_type: url
 ```
+## Question 3
 
-Niche diye gye code snippet ki output kya hoga?
-
+What will be the output of the following code snippet?
 
 ```python
 i = 2

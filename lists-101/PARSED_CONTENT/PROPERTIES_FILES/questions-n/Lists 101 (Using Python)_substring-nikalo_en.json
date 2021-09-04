@@ -1,0 +1,6 @@
+{
+	"substring-nikalo_key1": "## Remove Sub`string`\n\n\n",
+	"substring-nikalo_key2": "You have to write a program in such a way that it should remove all the occurrences of **subStr** from **mainStr**. The `output` of the above program is given below for you to understand.\n",
+	"substring-nikalo_key3": "### Bonus Part\n\n",
+	"substring-nikalo_key4": "Replace the **subStr** from **mainStr** using **replacementStr** and then print it.\n"
+}

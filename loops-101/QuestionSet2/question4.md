@@ -2,11 +2,11 @@
 name: Question 4
 ```
 
-# Question 4
+## Question 4
 
-1 se 10 tak numbers print karo. Aapka loop ka counter 156 se shuru hona chaiye.
+Make a program to print the numbers from 11 to 101. The loop counter should start from `156`.
 
-Aapki output yeh honi chaiye:
+Your output should be as follows .
 
 ```
 1

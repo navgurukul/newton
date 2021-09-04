@@ -4,7 +4,7 @@ submission_type: url
 ```
 
 ## Question 1
- You have been given a dictionary in which you have to print the value of some key. Debug the code.
+ You have been given a dictionary in which you have to print the value of some `key`. Debug the code.
 
 
 ```python

@@ -2,12 +2,15 @@
 name: Question 8
 submission_type: url
 ```
+## Question 8
 
-1. Ab hum pichli wali game ko thoda change karenge. Humne sirf yeh check kara the ki kya user ne jo number input kiya hai wo humare number ke barabar hai ya nahi. 
-2. Ab hum user ko yeh bhi batayenge ki jo usne number guess kiya hai, woh humare number se chota hai ya bada hai. 
-3. Jaise, agar user ne 4 input kiya. Hum check karenge ki kya 4 5 se chota hai? Haan 4 5 se chota hai. Hum print karenge ki "aapka number chota hai! Ek aur baar try karo".
-4. Phir hum user se ek baar aur number input lenge. Socho iss baar user ne 7 daala. Ab hum check karenge ki kya 7 5 se chota hai. Iska jawab nahi hoga. Ab hum print karenge ki "aapka number bada hai! Ek aur baar try karo". 
-5. Ab socho user ne 5 input kar diya. Yeh number humare number ke barabar ho jayega. Ab hum print karenge ki " waah! Aapne number guess kar liya".
-6. Hum aisa tab tak karte rahenge jab tak user humara number guess nahi kar leta. Ya uski chances (jo ki 10 hain) khatam nahi ho jaati.
+1. Now, we will change the previous game a little. We only checked whether the `number` given by the user is equal to the `input number` or not.
 
-User ko aise hint denge toh user ke liye guess karna asaaan ho jayega.
+2. Now, we will also tell the user if the `number` given by the user is greater or smaller than the input number.
+3. If the user gives `4` as a number then we will check if `4 is less than 5` or not so it's true then we will print "Number entered by you entered is small, try one more time ".
+
+4. We will again take input from the user. If the user gives `7 `as a number then we will check if `7 is less than 5 or not` so it is `False` then we will print "Number entered by you entered is greater, try one more time ".
+5.  If the user gives `5` as input then this `number` is equal to the `given number` then we will print "Wow you guessed the correct number".
+6. User will keep on `guessing` `until` all the chances are finished.
+
+If we will give such types of hints to the user, it will become easier for him to solve the question.

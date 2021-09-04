@@ -1,0 +1,12 @@
+{
+	"part-2_key1": "## Your Question\n\n\n",
+	"part-2_key2": "### Part 1\n\n\n",
+	"part-2_key3": "We have to use those `lists` to print this information:-\n",
+	"part-2_key4": "Using `question_list` `variable` print `doosra question`. Using `options_list`,  print the four options of `doosra question`.\n",
+	"part-2_key5": "Your `output` should look like this :-\n",
+	"part-2_key6": "#### Keep in Mind :\n\n\n",
+	"part-2_key7": "With each option, we should also print its `number`.\n",
+	"part-2_key8": "#### Hint:\n\n",
+	"part-2_key9": "Remember what we learned about the `indexes`.\n",
+	"part-2_key10": "Use a `loop` to print the `options`.\n"
+}

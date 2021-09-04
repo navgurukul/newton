@@ -28,7 +28,7 @@ We can give another value to `variable_x`, by this `variable_x` will be updated.
 variable_x=9.9
 ```
 
-Now print variable_x to see its value.
+Now print `variable_x` to see its value.
 
 ```python
 print (variable_x)
@@ -47,7 +47,7 @@ Now print them to see the output.
 print (variable_x, a, b)
 ```
 
-### `Dry Run `
+### `Dry Run`
 
 You all have to do these questions using pen and paper. Solve all the exercises in your notebooks and ask other people around you to check the solution.
 

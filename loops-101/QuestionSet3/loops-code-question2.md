@@ -3,4 +3,6 @@ name: Question 2
 submission_type: url
 ```
 
-Aisa code likho jisse 1 se 100 mein wahi numbers print ho jo 7 se divisible hai yaani unka 7 se bhaag karne per remainder 0 bachta hai.
+## Question 2
+
+Write a code that `prints` all those numbers  between `1 to 100` which are divisible by `7` that means when you divide any number by `7` the remainder comes as 0.

@@ -5,7 +5,7 @@ submission_type: url
 
 ## Question 1
 
-Check the type of the data and operators used :-
+Tell the type of the data and operators used :-
 
 
 A.

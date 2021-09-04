@@ -2,9 +2,9 @@
 submission_type: url
 ```
 
-# Report Card
+## `Report Card`
 
-Iss list ko dekhein:
+Please see this list :
 
 ```python
 marks = [
@@ -13,13 +13,13 @@ marks = [
     [95, 45, 78, 52, 49]
 ]
 ```
+These are the marks of any student for the last three years. You have to calculate total marks for all the three years.
 
-Yeh kisi student ke peechle teen saal ke marks hai. Aap ko teeno saalo, ke sab subjects ke marks ka total calculate karna hai.
 
-Jaise uppar di hui nested list ka sum - 1142 aayega.
+Sum of the nested list given above - 1142.
 
-# Edge Cases:
-Check your program for following nested lists as well (bina code change kiye chalna chahiye, nahi toh aapne sahi se code nahi likha):
+### `Edge Cases`
+Check your program for following nested lists as well (your code should run without making any change, if its not running properly then that means that you have not written the code properly ) :
 
 ```python
 marks = [
@@ -29,7 +29,7 @@ marks = [
 ]
 ```
 
-Jaise uppar di hui nested list ka sum - 965 aayega.
+Sum of the nested list given above - 965.
 
 ```python
 marks = [
@@ -40,4 +40,4 @@ marks = [
 ]
 ```
 
-Jaise uppar di hui nested list ka sum - 1324 aayega.
+Sum of the nested list given above - 1324.

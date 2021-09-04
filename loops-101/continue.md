@@ -3,9 +3,9 @@ name: continue
 submission_type: url
 ```
 
-# continue
+## `continue`
 
-continue python ka ek keyword hai.continue statement se loop mein iterate ho rahe kuchh statement ko skip karake agale statement ko execute karata hai.
+`continue` is also a python **keyword**. `continue statement` skips some of the statements of the loop and executes the other statements.
 
 ![Mobile Video Recorder](assets/how-continue-statement-works.jpg)
 
@@ -17,7 +17,7 @@ while(i <= 10):
       continue
     print(i)
 ```
-`Output`
+#### Output :-
 1
 2
 3
@@ -47,6 +47,5 @@ while (counter < len(string)):
 
 print("The end", string[counter])
  ```
-Iss code ko hum video ke through samjhege.
-
+Please, watch this video to understand this code.
 @[youtube](https://www.youtube.com/watch?v=rOfNF7gj5t0)

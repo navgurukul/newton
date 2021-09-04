@@ -3,9 +3,9 @@ name: Break Statement
 submission_type: url
 ```
 
-# break
+## `break`
 
-break  python mai ek *keyword* hai. Jo humko loop se bahar nikalne mai help karta hai aur new line mai chala jata hai jo loop se bahar hai.
+`break` is a **keyword** in python. That helps us in coming out of the `loop` and goes to new line which is out of the `loop`.
 ![Mobile Video Recorder](assets/how-break-statement-works.jpg)
 
 ```python

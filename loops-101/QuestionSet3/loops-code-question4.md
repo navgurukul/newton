@@ -2,5 +2,6 @@
 name: Question 4
 submission_type: url
 ```
+## Question 4
 
-Code likho jisse 30 se 420 tak ke unn numbers ka sum calculate ho jo 8 ke multiple hai yaani wo numbers 8 ke table (paahade) mein aate hai.
+Write a code that calculates the sum of those numbers from `30 to 420` which are `multiples of 8` that means those numbers come in the table of `8`.

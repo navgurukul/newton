@@ -23,7 +23,7 @@ type(x) # bool. iska matlab boolean hota hai
 type(4 < 5) # socho iska javab bool kyun aata hai?
 ```
 
-### If Conditions & Booleans
+### `If Conditions & Booleans`
 
 Using programming, we instruct the computer to perform different actions under different conditions. For example:-
 
@@ -55,7 +55,7 @@ In the above example, `>` operator raises the question - **Is number2 greater th
 1. Yes / True
 2. No / False
 
-When the answer is "Yes", the output of `>` is `True`. When the answer is "No", the output is `False`. Depending on this `True or False` value, the `if statement` executes the code. If the output was True, then the code inside the if statement will run, otherwise the code inside the else statement will run.
+When the answer is "Yes", the output of `>` is `True`. When the answer is "No", the output is `False`. Depending on this `True or False` value, the `if statement` executes the code. If the output was True, then the code inside the `if statement` will run, otherwise the code inside the else statement will run.
 
 Try to run the following code:
 

@@ -3,13 +3,13 @@ name: Reverse Order
 submission_type: url
 ```
 
-Code likho jo neeche di gayi lists ke items ko reverse order yaani ki ulta print kare.
+Write a code that the reverses the order of the items means in opposite order.
 
 ```python
 places=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]
 ```
 
-Aapke code ka outut yeh hona chaiye:
+Your code output should be here :
 
 ```
 kerela
@@ -19,10 +19,10 @@ gujrat
 delhi
 ```
 
-## Hints
-Jab `index i` hai, tab `length - i -1` index par kya hoga.
+## Hints 
+When `index i` is there, then what will be at index `length - i -1`.
 
-places=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]
+`places=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]`
 
 | i     | places[i] | length - i| places[length - i] |
 |-------|:---------:|:---------:|-------------------:|

@@ -1,9 +1,7 @@
-## Aao Jodein
+## Lets Add
 
-Ek code likho jo kissi bhi list ke liye
-uss list ke do `sum` ka output karta hai, ki
-uss list mei `odd numbers` ka `sum` aur
-`even numbers` ka `sum` kitna hai.
+Write a code that works for any list, it should give two sums as outputs, one is the sum of `odd numbers` present in the list and the other is the sum of `even numbers` present in the list.
+
 
 ```python
 elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]

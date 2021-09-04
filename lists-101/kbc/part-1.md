@@ -2,9 +2,10 @@
 name: Kaun Banega Codepati (KBC) - Setup
 ```
 
-**Lists ke baare mein seekhne ke liye hum Kaun Banega Crorepati jaise ek game banayenge python ka use kar ke.**
+**To understand more about list, we will make a game similar to Kaun Banega Crorepati using python.** 
 
-Yeh code dekh kar samjhe - ki kaise humne KBC game banane ke liye, kuch important cheezein define ki hai - jaise - questions, options aur unke solutions.
+Please look at the code and try to understand that in order to understand KBC game, we have defined some inportant things like
+- questions, options and their  solutions.
 
 ```python
 question_list = [

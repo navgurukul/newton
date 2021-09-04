@@ -1,0 +1,11 @@
+{
+	"binary-to-decimal_key1": "## Binary to Decimal\n\n\n",
+	"binary-to-decimal_key2": "In this program, if we are given any number in **binary form**, then we will learn to convert that number in **decimal form**.\n",
+	"binary-to-decimal_key3": "Please see this diagram.\n",
+	"binary-to-decimal_key4": "To convert this number in `decimal form`:\n",
+	"binary-to-decimal_key5": "After doing the above steps, you will get **155** as an answer.\n",
+	"binary-to-decimal_key6": "## Edge Case\n\n",
+	"binary-to-decimal_key7": "What will be the `output` of this program? If your program is **robust** then it will give invalid `output`, otherwise, it will throw an `error`.\n",
+	"binary-to-decimal_key8": "If your program is **robust**:\n",
+	"binary-to-decimal_key9": "But, if it will not be **robust**, then it will throw an `error`.\n"
+}

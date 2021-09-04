@@ -10,7 +10,7 @@ In Python for naming variables, some rules are followed. If we do not follow the
   
 Keep these 3 rules always in your mind :  
   
-1. The name starts with either a - Letter or an _ (underscore).  
+1. The name starts with either some - Letter or an _ (underscore).  
 2. Only letters, underscore or numbers can be present in the Name (no special characters).  
 3. It is `Case Sensitive` (means var, VAR, Var are different variables).
 
@@ -18,4 +18,5 @@ Keep these 3 rules always in your mind :
 **Incorrect Names** - `var@iable`, `123var`, `var.123`  
 **Different Names** - `varX`, `varx`, `Varx`, `VarX`
 
-### Activity : In `Python shell`, try to put values in the Incorrect variable names. See how python gives errors.
+### Activity : 
+In `Python shell`, try to put values in the Incorrect variable names. See how python gives errors.
