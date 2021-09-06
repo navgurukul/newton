@@ -3,8 +3,9 @@ name:  Question 2
 submission_type: url
 ```
 
-Niche diye gye code snippet ki output kya hogi?
+## Question 2
 
+What will be the output of the following code snippet?
 
 ```python
 n = 6

@@ -5,7 +5,7 @@ submission_type: url
 
 ## Question 2
 
-You have been given a dictionary in which you have to find the sum of all the keys. You have to debug this code and find out how you can get the output as 14.
+You have been given a `dictionary` in which you have to find the `sum` of all the `keys`. You have to `debug` this code and find out how you can get the output as 14.
 
 
 ```python

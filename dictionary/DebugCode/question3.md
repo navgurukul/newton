@@ -6,7 +6,7 @@ submission_type: url
 
 ## Question 3
 
-Below is a program in which the keys are between 1 to 15 and the values ​​are the squares of the keys.
+Below is a program in which the `keys` are between `1 to 15` and the values ​​are the squares of the keys.
 
 The output should be something like this:-
 `

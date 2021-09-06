@@ -77,4 +77,4 @@ print(a)
 
 `3+5j`
 
-In this example, `3 is a real part and 5j is an imaginary part`.
+In this example, `3` is a `real part` and `5j` is an `imaginary part`.

@@ -3,11 +3,12 @@ submission_type: url
 ```
 
 ## Is Magic Square?
-Magic Square woh square hota hai jismei - har row ka, har column ka, and dono diagonals ka sum same hota hai.
+`Magic Square` is that kind of square in which sum of each row, sum of each column and sum of both the diagonals is equal.   
 
-Aapko yeh program likhna hai - jo ek nested list leta hai, aur dekhta hai ki woh magic square hai ya nahi?
 
-E.g. Yeh magic square hai, kyuki
+You have to write this program that takes a `nested list` as input and checks whether it is a `magic square` or not? 
+
+ This is a `magic square` because, 
 ```python
 magic_square = [
     [8, 3, 4],
@@ -32,9 +33,9 @@ magic_square = [
 4 + 5 + 6 = 15
 ```
 
-    Iss square ko visualise karne ke liye, isse ek square ki tarah dekhein. Har row mei same number of elements honge. Jitne elements ek row mei hai, utne hi columns iss square mei honge.
+    To visualize this sqaure, see it like a square. All the rows have same number of elements. Number of elements in row should be equal to number of elements in a column.
 
-Yeh magic square nahi hai, kyuki:
+This is not a magic square :
 ```python
 magic_square = [
     [5, 3, 7],
@@ -49,14 +50,17 @@ Rows
 1 + 8 + 9 = 18
 ```
 
-Kyuki second row ka sum 15 nahi hai, isliye yeh magic square nahi hai.
+Because the sum of elements of the second row is not 15 nahi hai, therefore this is not a magic square.
 
-## Edge Case 1
-Kya aapka likha program sirf 3x3 square ke liye chalta hai, ya kisi bhi size ke square ke liye chal jaata hai?
+### `Edge Case 1`
 
-Isse kisi bhi square size ke liye likhe, jisse ki user koi bhi square size likhei toh aapka program sahi output de.
+Pls see that the program that you wrote works for only 3x3 square or it works for any size of square.
 
-## Edge Case 2
+Write this program for square of any size, square of any size so that if a user enters square of any size, your program should give the correct output.
+
+
+
+### `Edge Case 2`
 ```python
 magic_square = [
     [8, 3, 4, 0],
@@ -64,9 +68,9 @@ magic_square = [
     [6, 7, 2]
 ]
 ```
+For this `nested list`, what will be your answer - `True` or `False`. 
 
-Iss `nested list` ke liye aapka kya answer hoga - `True` ya `False`. Aapka answer kya hona chahiye.
+#### Hint :
 
-**Hint**
-Agar di hui `nested list` ek `square` nahi hai, toh aapko pehle hi `False` return karna chahiye.
+If the given `nested list` is not a `square`, then return `False`, on the first go.
 

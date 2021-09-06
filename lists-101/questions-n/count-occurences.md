@@ -2,16 +2,16 @@
 submission_type: url
 ```
 
-# Count Occurences
+## Count Occurences
 
-**Occurences** - occur shabd se bana hai, jiska matlab hota hai, ki kitni baar aata hai.
+**Occurences** - is made from the word `occur` which means that how many times a certain character or word appears.
 
 **Sample List**
 ```python
 char_list = ["a", "n", "t", "a", "a", "t", "n", "n", "a", "x", "u", "g", "a", "x", "a"]
 ```
 
-**Sample List ka Output:**
+**Output of the Sample List**
 ```python
 [["a", 6], ["n", 3], ["t", 2], ["x", 2], ["u", 1], ["g", 1]]
 
@@ -22,15 +22,15 @@ x - 2 times
 u - 1 times
 g - 1 times
 ```
+We have to count the `occurences` of characters present in the `char_list` and we have to save in the `nested list`, then we have to use that nested list to print the output.
 
-Humei `char_list` mei jo bhi characters hai, unki `occurences` count karni hai, aur ek nested list mei save karni hai, phir uss nested list ko use kar kar jo output hai, woh print karna hai.
 
-## Edge Case
+### `Edge Case`
 ```python
 char_list = []
 ```
 
-**Solution**
+#### Solution
 ```python
 []
 ```

@@ -3,84 +3,88 @@ name: Loop
 submission_type: url
 ```
 
-# What are loops?
+## What are loops?
 
-Agar humein koi bhi kaam baar baar karna ho toh computers humein bahot asani se uss kam ko karne mein help karte hain.
+If we want to do a task again and again, so computers can help us with that task.
 
-Jaise agar mujhe apne 100 friends ko ek eMail bhej ke kisi event ke baare mein batana ho toh main ek ek kar ke har kisi ko eMail bhejne mein bore ho jaungi. Yeh karte karte mujhe bahot mushkil bhi hogi. Aur galti karne ka dar bhi hai. Loops ka istemaal karke same type ka kaam hum baar baar karva sakte hain computers se.
+### Not Translated
+
+If I want to send mail to my 100 friends to inform about certain event. If I send the mails one by one it will be a very tedious task for me and I might commit a mistake also. With the help of loops we can do this work very easily and efficiently.
+ 
 
 
-# Writing code for loops
+### Writing code for loops
 
 ```python
 counter = 0
 while counter < 5:
-	print "navgurukul"
+	print "NavGurukul"
 	counter = counter + 1
 ```
-![Mobile Video Recorder](assets/example2.jpeg)
 
-Iss code mein:
+In this code :
 
-1. `counter` naam ka ek variable define ho raha hai jiski value `0` hai. Flowchart mein bhi same cheez ho rahi hai.
-2. Fir ek `while` loop likha hai jiske aage ek condition hai `counter < 5`. `While` ka matlab ho jab tak (जब तक). Toh ek tareeke se `while` loop python ko bolta hai ki jab tak aage di hui condition `True` hai tab tak loop chalao.
-3. Jaise hi loop khatam hoga toh while ke bahar wala code chalega. Yeh samajhne ke liye neeche diye hua code chalao:
+1. Take a variable named as `counter` whose value is 0. Same thing is happening in the flowchart.
+2. Then a `while` loop statement is written with the condition `counter < 5`. `While` statement means (till). So,`while` loop tells python that till the given condition `True`, you can run the loop.
+3. When the loop finishes, the code outside the while loop will run. To understand the run the code given below.
 
 ```python
 counter = 0 
 while counter < 5:
 	print "NavGurukul"
 	counter = counter + 1
-print "one time print"
+print "Yeh sirf ek baar print hoga"
 ```
-![Mobile Video Recorder](assets/example1.jpeg)
 
-Yeh code chala ke dekhoge toh `"NavGurukul"` 5 baar print hoga aur last waali line sirf ek baar.
+If you run this code so`"NavGurukul"`will be printed 5 times and last line is printed one time.
 
-# Ek aur example
+### One more example
 
-Maan lo humne code likhna hai jisme humne 1 se 100 tak saare number print karne hai jo 2 se divide hote hain. Toh hum while loops ka use kar ke aise likhenge:
-
+Suppose we need to write a code where we need to print the numbers divisible by 2 between 1 to 100.
 
 ```python
 counter = 1
 while counter < 100:
-	if counter % 2 == 0:
-		print counter
-	counter = counter + 1
+      if counter % 2 == 0:
+            print counter
+      counter = counter + 1
 ```
 ![Mobile Video Recorder](assets/example3.jpeg)
 
-**Note: Yahan humne counter 1 se isliye shuru kiya hai kyunki humne 1 se 100 tak print karne hai aur na ki 0 se 99 tak.**
-
-Iss video mein hum ache se loops ke baare mein samjhenge aur code likhna seekhenge.
+#### Note:
+Here, we have taken the `counter` as 1  as we have to print from `1 to 100` and not from `0 to 99`.
+ 
+In this video, we will understand loops and learn how to write their code.
 
 <!-- @[youtube](loops-video-id-here) -->
 
 <!-- ## Structure of the Video -->
-1. Loops help us do the same things again and again. Same work can be done again and again.
+
+1. Loops help us do the same things again and again. The same work can be done again and again.
 
 2. Take an example of getting laptops from a car to the house. If there are 50 laptops in the car.
 
-3. Explain this from the concept of Jab tak. Jab tak (ghar mein laptops 0 nahi ho jaate) {tab tak laptops lao aur gaadi mein rakho.}
-      - Kaam baar baar karna hai.
-      - But kitni baar karna hai? Woh jab tak se decide hota hai.
-      - Jab tak mein jo condition daalte hain tab tak kaam hota hai.
-      - Yahan jab tak mein hum laptops laptops >= 10 likhenge.
-      - Matlab jab laptops 10 ya 10 se zyada hain tab jab tak ke andar wala kaam karna band kar do.
-      - Jab tak ke andar wala kya kaam hai. Andar wala kaam hai laptop lana ghar se aur laptop ko gaadi mein rakh dena.
-      - Jaisa hi aisa hota ek laptop kam ho jayega.
-      - Hum isi ki python mein likhna seekhenge.
+3. Explain this from the concept of `(till / until)`. `Until` the laptops inside the home becomes 0 `till` then take the laptops and keep them in the car. 
+      - Do this work again and again.
+      - But till when we will do this work? This is decided by `until`.
+      - Whatever condition we put inside  `until`, `till then` the loop runs.
+      - Here, under the `until` condition, we will write `laptops >= 10`.
+      - Means when laptops become 10 or greater than 10 then stop doing the work.
+      - What is the work inside `until`?
+      The work inside until is to bring a laptop from home and keep it in the car.
+      
+      - The moment this work is done one time, one laptop becomes less.
+      - We will write this in python.
 4. Take the example of teaching this in python.
-      - Let's say total laptops are 10. Laptops = 0. Yeh maintain karega abhi gaadi mein kitne laptops hain.
-      - Jab tak laptops 10 nahi ho jaate. Tab tak laptops laao aur gaadi mein rakho.
-      - Matalb `while laptops >= 10`. This will make sure this work happens for for 10 times.
-      - Kya kaam karna hai? Laptops gaadi mein rakhna. Print karo "Ek laptop gaadi mein rakh diya"
-      - Fir kaise track rakhenge ki laptop rakh dia. Aur ek baar kaam kar lia hai.
-      - Uske liye hum laptop wale variable mein +1 kar denge. Matlab utne laptops humne gaadi mein rakh die hain.
+      - Let's say the total number of laptops is 10. `Laptops = 0`, this variable will maintain the number of laptops.
+      - Until the number of laptops becomes 10, till then bring the laptops from the home and keep it in the car.
+      -`while laptops <= 10` means this work happens 10 times.
+      - Our work is to keep the laptops in the car? print( "One laptop kept in the car.")
+      - Then how we will track that we have kept the laptop or done our work?
+      - or that we will add +1 to laptop variable means that much laptop we kept in the car.
       - Let's do the dry run of the same program to see if this works fine.
-5. Second we will write the same program in the python visualiser to see if it works the same way as we thought it would. And now explain how the visualiser would run this code.
+5. Second we will write the same program in the python visualizer to see if it works the same way as we thought it would. And now explain how the visualizer would run this code.
 6. Similarly take another example of printing numbers from 1 to 20.
-7. Take another example on how printing the even numbers from 20 to 40.
-8. In the 20 to 40 example talk about where to add the if statements. Adding the if statement outside and adding the if statement inside. (This also needs to be shown on how writing if statements inside and outside will create a difference.). i+1 and % should be used.
-9. Take the same example to print the even numbers between 20 to 40. But here do i+2 to do it.
+7. Take another example of how to print the even numbers from 20 to 40.
+8. In the `20 to 40` example talk about where to add the `if statements`. Adding the` if statement outside and adding the if statement inside.` (This also needs to be shown on how writing if statements inside and outside will create a difference.). `i+1 and % `should be used.
+9. Take the same example to print the `even numbers` between `20 to 40`. But here do `i+2` to do it.

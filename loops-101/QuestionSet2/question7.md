@@ -4,7 +4,7 @@ name: Question 7
 
 # Question 7
 
-Yeh pattern print karo.
+Print this pattern. 
 
 ```
 5 5 5 5 5

@@ -1,0 +1,21 @@
+{
+	"bubble-sort_key1": "## Sorting\n\n",
+	"bubble-sort_key2": "**Sorting** is a very important process, you will come across it quite often. Sorting (Sort is the **root word**) means to arrange in some order like arranging any sequence by height, weight, by name, by marks, etc.\n",
+	"bubble-sort_key3": "#### Example :-\n\n",
+	"bubble-sort_key4": "Arrange marks from lesser to higher (**Ascending Sort**).\n",
+	"bubble-sort_key5": "To sort names alphabetically (**Chronological Ascending Sort**).\n",
+	"bubble-sort_key6": "Arranging height from lesser to higher(**Ascending Sort**).\n",
+	"bubble-sort_key7": "Arranging weight from higher to lesser(**Descending Sort**).\nBubble sort is a way of sorting, that arranges a sequence of numbers, in **ascending** or **descending** order.\n\n\n",
+	"bubble-sort_key8": "### Understanding Bubble Sort\n\n\n",
+	"bubble-sort_key9": "Look at this diagram. You can read about\n",
+	"bubble-sort_key10": "Bubble Sort\n",
+	"bubble-sort_key11": "from here also\n",
+	"bubble-sort_key12": "yahan\n",
+	"bubble-sort_key13": ".\n",
+	"bubble-sort_key14": "Compare 1st and 2nd elements.\n- If the bigger element is afterward, then don't do anything.\n- If the bigger element is before only, then swap it.\n (**swap** means - **interchange** - replace the first element with the second one, and the second element with the first one).\n",
+	"bubble-sort_key15": "Now, do the same with 2nd and 3rd i.e.compare the elements and swap them.\n",
+	"bubble-sort_key16": "Repeat the same process.\n- The largest number after one **iteration** will reach the extreme right.\n",
+	"bubble-sort_key17": "These iterations will run as many times as there are number of elements present - by this, the `array` will be sorted.\n\n\n",
+	"bubble-sort_key18": "First, do this with the help of **notebook and pen**, this will improve your understanding.\n",
+	"bubble-sort_key19": "Then, implement this **algorithm** with the help of a `code`. This is a difficult question, if it takes 4 to 5 hours to do this, then also okay.\n"
+}

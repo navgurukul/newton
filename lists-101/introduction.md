@@ -2,28 +2,26 @@
 name: Introduction to Lists
 ```
 
-# Lists kya hota hai?
+## What do we mean by lists?
 
-Aapne `string`, `integer`, `float` aur `booleans` data types ke baarein mei padha hoga. Yeh `primitive data types` kehlaye jaate hai. `Primitive` ka yaha matlab hai `simple` data types, jinka use kar kar hum aur `complex` data types bana sakte hai.
+You might have studied about `string`, `integer`, `float` and `booleans` data types. These are called `primitive data types` where `primitive` means `simple` data types. We can use `primitive data types` to make `complex data types`. `List` is one of the `complex data type`.
 
-`List` aisa hi ek `complex` data type hai.
+### Exercise
 
-## Exercise
-- Aap Zindagi mei 10 kya cheezein karna chahte ho, uski list banao.
-- Ab iss ko ek `python` mei `variables` mei store karne ki koshish karo
+- What 10 things do you want to do in your life, make its list.
+- Now, store it in a `python variable`.
 
 ----------
+In this way, you will get a lot of `information in the form of a list`.      Example :-
 
-Aise aap ko bahut baari, `information` ek `list`  ki form mei milegi. Jaise 
-
-- Groceries ki list jo aapko khareedni hai
-- Courses ki list jo aapko NavGurukul mei karne
-- Questions ki list jo aapko kisi course mei karne hai
-- Kuch acchi habits ki list jo aap ko acche se program karne mei help kar sakti
-- Kuch companies ki list jaha aap job karna chahte hai
-- Aapke campus mei students ki list
-- Council members ki list
+- Make a list of Groceries that you want to buy.
+- Make a list of Courses that you can do at NavGurukul.
+- Make a list of questions that you have to do in a given course.
+- List of all the good habits that you have.
+- List of Companies where you want to work.
+- List of students present in the campus.
+- List of Council members 
 
 etc.
 
-Hum aage dekhenge ki `lists` kitna useful `data type` ya `data structure` hai.
+We will see that how important it is for us to study `List Data Type and List Data Structure`.

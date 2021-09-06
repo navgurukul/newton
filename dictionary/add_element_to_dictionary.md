@@ -45,7 +45,7 @@ print(dic)
 `{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}`
    	 
 
-### Key Exists or not
+### `Key` Exists or not
 
 We use the `in` keyword to check whether a given key exists or not in a dictionary.
 

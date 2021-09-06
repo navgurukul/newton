@@ -31,12 +31,12 @@ In the above example, we take the day as input from the user. According to the d
 
 ### More examples
 
-We have only used `==` comparison operator in the if statements. In the booleans exercise, we had seen other comparison operators as well. For example: 
-1. `>`: Greater than
-2. `<`: Less than 
-3. `>=`: Greater than equal to 
-4. `<=`: Less than equal to 
-5. `!=`: Not equal to 
+We have only used `==`, `comparison operator` in the `if statements`. In the booleans exercise, we had seen other comparison operators as well. For example: 
+1. `>`  : `Greater than`
+2. `<`  : `Less than` 
+3. `>=` : `Greater than equal to` 
+4. `<=` : `Less than equal to` 
+5. `!=` : `Not equal to` 
 
 The following examples use these above mentioned comparison operators.
 

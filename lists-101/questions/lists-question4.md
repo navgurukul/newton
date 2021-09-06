@@ -3,19 +3,19 @@ name: Palindrome or not?
 submission_type: url
 ```
 
-Palindrome wo strings ya numbers hote hai jo ulta seedhe same hote hai. Jaise, NITIN. Nitin ko aap left se padho ya right se, nitin hi hai. Aise hi MOM bhi ek palindrome hai.
+A `palindrome` is a word, sentence, verse, or even a number that reads the same backward or forward. Like NITIN. Read Nitin either from left or right, it will be same. Similarly MOM is also a `palindrome`.
 
-Code likho jo check kare ki kya list palindrome hai ya nahi. Aur print karo “Haan! palindrome hai” agar hai. Aur “nahi! Palindrome nahi hai” agar nahi hai.
+Write a code that checks whether a list is a palindrome or not. And print “Haan! palindrome hai” if its a `pallindrome` and “nahi! palindrome nahi hai” if its not a palindrome.
 
-Abhi ke liye iss list ko use kar ke code likh sakte ho:
+For the time being you can use the list given below for writing the code.
 
 ```python
 name=[ 'n', 'i', 't', 'i', 'n' ]
 ```
 
-Apni list ko change kar ke alag alag values ke saath test out karo aur fir finally theek code ko upload karo.
+Now, change your list, and test it with different values and then finally upload the correct code.
 
-Inn values ke liye aap test kar sakte hai
+You can test for these values.
 
 nayan => true
 naina => false
@@ -24,7 +24,7 @@ ainaania => true
 ainabnia => false
 
 ## Hints
-Jab `index i` hai, tab `length - i -1` index par kya hoga.
+When the `index is i`, then what will be at index `length - i -1`.
 
 places=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]
 

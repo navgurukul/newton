@@ -2,10 +2,9 @@
 submission_type: url
 ```
 
-Code likho jo iss list mein se `second maximum element` (doosra sabse bada element) dhund kar kar print kare.
+Write a Code that finds `second maximum element` from the list and print it.
 
 ```python
 numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]
 ```
-
-Iss list ke liye apke program ka output `56` hona chaiye.
+For this list, the output of your program should be `56`.

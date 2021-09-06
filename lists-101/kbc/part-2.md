@@ -3,15 +3,17 @@ name: Aapka Question
 submission_type: url
 ```
 
-## Aapka Question
+## Your Question
 
-# Part 1
-Humein unn lists ko use kar kar, yeh information print karni hai:
+### Part 1
+We have to use those lists to print this information :
+
+Using `question_list` variable print `doosra question`.Using `options_list`, print the four options of 
 
 `question_list` variable ko use kar kar `doosra question` print karo
-`options_list` ka use kar kar `doosre question` ke chaaron options ko print karo
+`options_list` ka use kar kar `doosre question` ke chaaron options ko print karo `doosre question`.
 
-Aapka output kuch aisa aana chahiye:
+Your output should look like this :
 
 ```bash
 Aapka Sawaal hai:
@@ -24,9 +26,11 @@ Aapke options hai:
 4. Delhi
 ```
 
-### Dhyaan Rakhein
-Har option ke saath uska `number` bhi print karna hai
+#### Keep in Mind :
 
-### Hint:
-1. Yaad karo aapne indexes ke baare mein kya pada tha
-2. Options ko print karne ke liye loop use karo
+With each option , we should also print its `number`.
+
+
+#### Hint:
+1. Remember what learnt about the indexes.
+2. Use loop to print the options.

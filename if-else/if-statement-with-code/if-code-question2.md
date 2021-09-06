@@ -12,6 +12,6 @@ varx = 300 - 123
 
 Create a flowchart to take a number as input from the user. Convert this input to integer. Check if it is equal to `varx`. 
 
-If the number is equal to varx, print **"Equal"** else print **"Not equal"**.
+If the number is equal to `varx`, print **"Equal"** else print **"Not equal"**.
 
 Upload the flowchart as well as python file.

@@ -2,44 +2,43 @@
 name: Question 5
 ```
 
-# Question 5
+## Question 5
 
-User se ek `n` naam ke variable mein ek integer input lo.
-Fir user se utni baar input baar ek integer ko input lo jitni `n` ki value hai.
-Finally unn saare integer jinko user ne input kara hai, sum karke print karo.
+Take an integer input in a variable named `n`. Take user input as many times as the value of `n`.
 
-Example: Jaise agar `n` mein user ne ki 6 daala hai toh 6 baar input lo.
+Finally, print the sum of all those numbers which you have taken as an input.
+
+Example: If the user has put `n` value as `6`, then take input for 6 times.
 
 ```
-Kitni baar input lein? ' 6
-Ek number daalo> 10
-Ek number daalo> 1
-Ek number daalo> 56
-Ek number daalo> 89
-Ek number daalo> 11
-Ek number daalo> 12
+Number of inputs to be taken?  6
+Enter a number > 10
+Enter a number > 1
+Enter a number > 56
+Enter a number > 89
+Enter a number > 11
+Enter a number > 12
 Sum: 179
 ```
 
-`n` ki value `Kitni baar input lein?` waali line mein input li gai hai.
+`n` value  is taken as an input in this line`Number of inputs to be taken?` 
 
-`Sum 179` isliye likha hai kyunki `10+1+56+89+11+12` ka result `179` hai.
+`Sum 179` is written because `10+1+56+89+11+12` result into `179`.
 
-Example: Jaise agar user ne `n` ki value `10` di hai toh program kuch aisa chalega. Aap koi aur numbers bhi de sakte ho input mein.
-
+Example: Suppose if the user has given the value of `n` as `10`, then the program will run as below, you can give the value of `n` as per your choice.
 ```
-Kitni baar input lein? ' 10
-Ek number daalo> 11
-Ek number daalo> 7
-Ek number daalo> 14
-Ek number daalo> 76
-Ek number daalo> 21
-Ek number daalo> 34
-Ek number daalo> 86
-Ek number daalo> 5
-Ek number daalo> 78
-Ek number daalo> 64
+Number of inputs to be taken?' 10
+Enter a number > 11
+Enter a number > 7
+Enter a number > 14
+Enter a number > 76
+Enter a number > 21
+Enter a number > 34
+Enter a number > 86
+Enter a number > 5
+Enter a number > 78
+Enter a number > 64
 Sum: 396
 ```
 
-`Sum 396` isliye hai kyunki `11+7+14+76+21+34+86+5+78+64` ka result `396` hai.
+`Sum 396` is because the sum of `11+7+14+76+21+34+86+5+78+64` is `396`.

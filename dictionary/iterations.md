@@ -17,7 +17,7 @@ for state in states_capitals:
  ```
 
 #### Output:-
-Gujarat Maharashtra Rajasthan Bihar
+`Gujarat Maharashtra Rajasthan Bihar`
 
 
 ## Iterate through all values:-
@@ -107,4 +107,4 @@ print(len(meal))
  ```
 
 #### Output :-
-   3
+   `3`

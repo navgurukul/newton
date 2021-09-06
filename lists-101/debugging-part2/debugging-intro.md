@@ -2,6 +2,6 @@
 name: Debugging Part 2
 ```
 
-# Debugging
+## `Debugging`
 
-Ab iss part mein hum alag alag already likhe hue code ko debug kar ke sahi karenge :)
+Now, in this part, we will debug different parts of a code and correct it.

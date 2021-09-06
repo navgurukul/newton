@@ -2,16 +2,19 @@
 name: Question 2
 ```
 
-# Question 2
+## Question 2
 
-Ek program banao jo 1 se 100 tak ke numbers ke saath yeh kare:
+Make a program that should do the following thing from `1 to 100`.
 
-1. Jo `3` se divisible hain unki jagah "Nav" print kare
-2. Jo `7` se divisible hain unki jagah "Gurukul" print kare
-3. Jo `3` aur `7` dono se divisible hain, unki jagah "NavGurukul" print karein
-4. Jo upar wale teen cases mein nahi aate, unki jagah sirf number print karvao.
 
-Aapki output mein kuch aisa aana chaiye.
+1. Numbers that are divisible by `3`, you have to print "`Nav"`. 
+
+2. Numbers that are divisible by `7` so that `"Gurukul"` is printed.
+3. Numbers that are divisible by both `3` and `7`, print `"NavGurukul"` there.
+
+4. If the number does not come in the above three cases then print the number only.
+
+Your output should look like this.
 
 ```
 1

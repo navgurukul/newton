@@ -3,9 +3,11 @@ name: Conversion
 ```
 
   
-### Note : Remember to run all the code examples and see them. Only by trying them will you be able to learn.
+### Note : 
 
-## `What is Type Conversion` ?
+Remember to run all the code examples and see them. Only by trying them you will be able to learn.
+
+## `What is Type Conversion`?
 
 In the previous sections, we understood that there are different data types in Python. Some of the types we have read about are :
 
@@ -34,15 +36,15 @@ a = "Y"
   
 We can convert our data from one `type` to another `data type` in python. This will come in very handy in the future because we will often have data in one type and we will have to convert to another type. In Python we can do this with the help of `type conversions` :-
 
-1.`Float to String`  
-2.`Float to Integer`   
-3.`Integer to String`   
-4.`Integer to Float`   
-5.`String to Float`   
+1.`Float to String`
+2.`Float to Integer`
+3.`Integer to String`
+4.`Integer to Float`
+5.`String to Float` 
 6.`String to Integer`
 
 
-### `String to Integer & String to Float`
+### `String to Integer and String to Float`
 Now let us see how to convert to INTEGER. `Type cast 12` to Python Integer and store `12`.
 
 #### Examples :- 
@@ -74,7 +76,7 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-### `Float to Integer & Float to String`
+### `Float to Integer and Float to String`
 
 Converts any FLOAT to Python INTEGER by removing its decimal part.
 
@@ -115,7 +117,7 @@ print (type(var_a))
 print (type(var_b))
 ```
 
-### `Integer to Float & Integer to String`
+### `Integer to Float and Integer to String`
 
   
 Python simply adds the decimal point when we convert INTEGER to FLOAT.
@@ -130,4 +132,4 @@ print (type(var_b))
 print (var_b)
 ```
 
-Look carefully here that Python adds `.0` to the last. Try converting a FLOAT 12.2 to an INTEGER in Python. Try and understand what is happening.
+Look carefully here that Python adds `.0` to the last. Try converting a `FLOAT 12.2` to an `INTEGER` in Python. Try and understand what is happening.

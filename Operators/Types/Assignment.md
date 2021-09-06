@@ -4,22 +4,20 @@ submission_type: url
 ```
 
 
-## ASSIGNMENT OPERATORS
+## `ASSIGNMENT OPERATORS`
 
 `Assignment operators` are used to assign values to variables. They ultimately give the value on the right of the operator to the variable on the left.
 
- OPERATORS     | NAME | EXAMPLE    |
-| :---        |    :----:   |          ---: |
-| `=`  | `Assignment`   |  `x=5`  |
-|`+=`  | `Add AND` | `x+=5 or x=x+5`   |
-|`-=`  | `Subtract AND`    |`x-=5 or x=x-5`  |
-|`*=`  | `Multiply AND`   | `x*=5 or x=x*5`   |
-| `/+` | `Division AND`    | `x/=5 or x=x/5`   |
-| `%=`| `Modulus AND`   |`x%=5 or x=x%5`   |
-| `**=`| `Exponent AND` | `x**=5 or x=x**5`|
-| `//=`| `Floor Division AND` | `x//=5 or x=x//5` |
-
-
+| OPERATOR | NAME | EXAMPLE |
+|---|:---:|:---:|
+| `=` | `Assignment` | `x=5` |
+| `+=` | `Add And` | `x+=5 or x=x+5` |
+| `-=` | `Subtract And` | `x-=5 or x=x-5` |
+| `*=` | `Multiply And` | `x*=5 or x=x*5` |
+| `/=` | `Division And` | `x/=5 or x=x/5` |
+| `//=` | `Floor Division And ` | `x//=5 or x=x//5` |
+| `%=` | `Modulus And` | `x%=5 or x=x%5` |
+| `**=` | `Exponent And` | `x**=5 or x=x**5` |
 
 ### `Assignment Operator(=) :-`
 

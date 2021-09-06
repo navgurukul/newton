@@ -3,8 +3,9 @@ name:  Question 3
 submission_type: url
 ```
 
-Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs)
+## Question 3
 
+There are some `bugs` in the code given below. Now you have to find those errors and tell the number of `bugs`.
 
 
 ```python

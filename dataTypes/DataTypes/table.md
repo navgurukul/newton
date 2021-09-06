@@ -3,7 +3,7 @@ name: Table of Data Types
 submission_type: url
 ```
 
-## Data Types Table 
+## `Data Types Table` 
 
 | Example        | Data Type  | Output                       |
 | :---           |   :----:   |    ---:                      |
@@ -12,28 +12,3 @@ submission_type: url
 | `x=20.5`         |`Float`    |`20.5 (<class ‘float’>)`       |
 | `x=1j`           |`Complex`   | `1j (<class ‘complex’>)`      |
 | `x=True`      |`Boolean(True or False)`|`True (<class ‘bool’>)`|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

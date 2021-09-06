@@ -2,25 +2,24 @@
 name: Question 4
 ```
 
-# Question 4
+## Question 4
 
-Loop ka use kar ke yeh pattern print karo.
+Print this pattern using Loops. 
 
 **1, -2, 3, -4, 5, -6 ..99, -100**
 
-### Hint
+### Hint :
 
-Notice karo ki kaise pehla nuber positive, dusra number negative, fir firse positive number aur uske baad negative number. Pattern mein ek tareeke se `Positive (+) Number`, `Negative (-) Number`, `Positive (+) Number`, `Negative (-) Number` and so on.
+Notice that first number is `positive`, and the second number is `negative`, then again a positive and then negative number and so on should be printed. Pattern looks similar to this `Positive (+) Number`, `Negative (-) Number`, `Positive (+) Number`, `Negative (-) Number` and so on.
 
-Aur yeh yaad karo ki kisi bhi number ki koi bhi number ko hum negative bana sakte hain by multiplying it by -1.
+We can make any number negative by mutiplying it by `-1`.
 
-Example:
+#### Example :-
 
 ```
 10 * -1 = -10
 2 * -1 = 2
 ```
-
-Kya aap iss hint ka use kar ke yeh program likh sakte ho?
+You can use the above `Hint` to write the program.
 
 

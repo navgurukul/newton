@@ -2,9 +2,9 @@
 name: Iterating two lists
 ```
 
-# How to iterate on two lists together?
+## How to iterate on two lists together?
 
-Let's say aapke paas do lists jo same length ki hai. Aap unn do lists pe ek saath kaise iterate karoge?
+Let's say you have two lists of the same length. How will you iterate through both the lists together ?
 
 ```python
 students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']
@@ -14,7 +14,7 @@ print len(students)
 print len(marks)
 ```
 
-Dekho ki dono lists li length `6` hai. Inpe iterate karne ka code aise likhenge:
+See if both the lists have same length as `6`. Below we have written a code on how to iterate through these lists.
 
 ```python
 length = len(students) # kyunki dono ki same length hai toh jiski bhi length le sakte ho
@@ -23,6 +23,6 @@ while counter < length:
 	print students[counter] + str(marks[counter])
 ```
 
-Yahan dekho dono lists mein jo bhi element hain woh print ho jayenge.
+You will notice here that elements of both the lists will be printed.
 
-Iss lesson mein bass itna hi hai :D
+This lesson has only this much to read :D

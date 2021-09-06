@@ -3,9 +3,9 @@ name:   Update Dictionary
 submission_type: url
 ```
 
-## Updating Dictionary :-
+## `Updating Dictionary` :-
 
-To update dictionary ,we can make an entry in it or we can add a key-value pair or we can change the value of an existing key.As given in the example explained:-
+To `update dictionary` ,we can make an entry in it or we can add a `key-value` pair or we can change the value of an existing key. As given in the example explained:-
 
 #### Example 1:-
 

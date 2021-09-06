@@ -17,9 +17,9 @@ print(b)
 ```
 #### Output :-
 
-Hello python
+`Hello python`
 
-Hello world
+`Hello world`
 
 In this example, we have taken two different variables in which the value is written inside `double (" ") quotes or single (' ') quotes.`
 
@@ -31,6 +31,5 @@ print(type(a))
 #### Output :-
 
 `str`
-
 
 ( means `string`, for checking the data type we use `type()`).

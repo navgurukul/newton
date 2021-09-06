@@ -1,0 +1,15 @@
+{
+	"introduction_key1": "# Understanding `Loop` Conditions\n\n\n",
+	"introduction_key2": "Yeh `code` dekhte hain\n",
+	"introduction_key3": "Yeh `code` 1 se leke 99 tak numbers ko print kar dega. Lekin agar iss `code` ko ache se samajhne ke liye har line mein kya ho raha hai woh samajhte hain.\n",
+	"introduction_key4": "`i = 1` yahan pe humne `i` naam ka `variable` define kiya aur usme `1` value daali.\n",
+	"introduction_key5": "`while i < 100` yahan humne ek `loop` define kara. Hindi mein iska matlab hai ki jab tak `i` ki value 100 se kam hai `tab` tak is while ke andar likha hua kaam karte raho. Toh yeh kaam `tab` tak hota rahega jab i ki value 100 se kam hai.\n",
+	"introduction_key6": "`print(i)` waali line `loop` ke andar likhi hui hai. Toh jab tak i ki value 100 se kam hai `tab` tak har baar `loop` chalega toh har baar yeh line chalegi.\n",
+	"introduction_key7": "`i = i + 1` Yeh waali line humare counter ko badayegi. Ek tareeke se yeh waali line determine karti hai ki humara `loop` kitni baar chalega.\n\n\n",
+	"introduction_key8": "Yahan pe `i = i + 1` aur `while i < 100` sabse important `statements` mein se hai. Yeh video dekh ke hum samjhenge ki inn lines ka exact matlab kya hai aur computer inko kaise samajhta hai. Isse hum better tareeke se `loops` likh payenge.\n",
+	"introduction_key9": "## Contents of Video\n\n",
+	"introduction_key10": "What does it mean to write the `i < 100` in the following `loop`?\n\n",
+	"introduction_key11": "How does the `loop` run? Every time the `code` within the `loop` block is `execute`d the condition is evaluated once again and until the condition is `true` the `loop` keeps on running. Basically the condition results into a boolean and if the boolean is `True` then the `loop` is run otherwise it is not run.\n",
+	"introduction_key12": "Apart from this we can also put the `statement` like this.\n\n",
+	"introduction_key13": "4.\n"
+}

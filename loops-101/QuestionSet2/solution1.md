@@ -2,8 +2,11 @@
 name: Solution
 ```
 
-# Solution
-Yeh pattern print karo.
+## Solution
+
+## Question
+
+Print this pattern.
 
 ```
 #
@@ -15,37 +18,39 @@ Yeh pattern print karo.
 #######
 ```
 
-## Question
+
 
 ## Solution
 
-Iss question ke saath solution di hui hai. Yeh aapko samjhane ke liye hai ki hum iss type ke questions kaise solve kar sakte ho. Better yeh hoga ki aap solution na dekho aur pehle khud solve karne ki try karo.
+The solution to this question is given. This solution is written to give you more clarity on the concept. But, it would be much better if you try to solve it at first by yourself without looking at the solution.
 
-Solution se pehle ek chota sa concept samajhte hain. Jaise agar hum `4*3` karte hain toh hum 2 integers ko multiply kar rahe hain aur humara result `12` aayega. Aise hi agar hum ek string aur integer ko different behaviour hoga. Jaise
+We will understand a very small concept before understanding the solution. Suppose if we write `4*3` then `12` will come as we are multiplying two integers.
+
+Similarly, if we multiply a string with an integer then it will behave differently.
 
 ```
 >>> 'navgurukul' * 3
 'navgurukulnavgurukulnavgurukul'
 ```
 
-Dekho kaise `"navgurukul"*3` karke `navgurukul` 3 baar aa gaya. Aise hi `'hello'*5` `hello` 5 baar ayega. Jaise:
+See carefully, here if we write `"navgurukul"*3` then `navgurukul` is printed `3` times. Similarly, if we do `hello * 5`, then `hello` is printed `5` times.
 
 ```
 >>> 'hello' * 5
 'hellohellohellohellohello'
 ```
 
-Yeh program likhne se pehle upar wale pattern mein kuch cheezein dekhte hain.
+Before writing the program we will observe some important things.
 
-1. Pehli, iss pattern mein total `7` lines hain.
-2. Pehli line mein ek `#` hai, dusri line mein 2 `#` hain, teesri line mein 3 `#` hain.
-3. Matlab number of `#` bhi line number ke saath badte jaa rahe hain.
+1. In this pattern there are `7` lines.
+2. the First line has one `#`, the second line has 2 `#`, the third line has 3 `#`.
+3. Means the number of `#` increases with the number of lines.
 
-Iska solution kuch aisa hoga.
+Its solution will be as follows:-
 
 ```
-i = 1 # counter 1 se shuru karo
-while i <= 7: # kyunki humare program mein 7 lines hain isliye loop tab hi band karna hai jab woh 7 baar chal jaye. Har baar line print karne pe loop chalega.
+i = 1 # start the counter by 1
+while i <= 7: #Because our program has 7 lines so the program will run for 7 times.
   print('#'*i)
   i = i + 1
 ```

@@ -4,10 +4,10 @@ submission_type: url
 ```
 
 
-## Accessing Elements from a Dictionary:-
+## `Accessing` Elements from a Dictionary:-
 
 
-We can access dictionary values with the use of square brackets. Look at the example below to understand.
+We can `access` dictionary values with the use of square brackets. Look at the example below to understand.
 
 #### Example :-
 
@@ -29,7 +29,7 @@ print(result)
 
 `organisation male 20 ` 
 
-### get() :-
+### `get()` :-
 We can also make use of the **get()** function to access dictionary values.
  
 

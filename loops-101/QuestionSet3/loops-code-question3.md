@@ -2,7 +2,6 @@
 name: Question 3
 submission_type: url
 ```
+## Question 3
 
-Code likho jisse
-12 se 421 tak saare numbers
-ka "total" calculate kare.
+Write a program that calculates the "total" from `12 to 421`.

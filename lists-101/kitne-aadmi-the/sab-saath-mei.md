@@ -1,14 +1,12 @@
-## Sab Saath Mei
+## All together
 
-Ek code likho jo kisi bhi list ke liye yeh output
-karta hai, ki uss list mei `odd numbers`,
-`even numbers` aur sab `numbers` ka:
+Write a code that works for all lists. It should print the output as the following like for all the `odd numbers` and all the `even numbers` and for all the numbers in the given list, it should calculate the following :
 
 - count
 - sum
 - average
 
-print aaye.
+and then print it.
 
 ### Sample Input
 ```python
@@ -16,12 +14,12 @@ elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]
 ```
 
 ### Sample Output
-odd numbers ka count .... hai
-even numbers ka count .... hai
-saare numbers ka count .... hai
-odd numbers ka sum .... hai
-even numbers ka sum .... hai
-saare numbers ka sum .... hai
-odd numbers ka average .... hai
-even numbers ka average .... hai
-saare numbers ka average .... hai
+count of odd numbers  .... 
+count of even numbers ....
+count of all the numbers .... 
+sum of odd numbers ....
+sum of even numbers ....
+sum of all the numbers .... 
+average of odd numbers ....
+average of even numbers .... 
+average of all the numbers ka .... 

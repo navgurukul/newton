@@ -3,10 +3,9 @@ name: Max Element
 submission_type: url
 ```
 
-Code likho jo iss list mein se maximum dhund kar ke print kare.
+Write a code that prints the maximum in this list.
 
 ```python
 numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]
 ```
-
-Iss list ke liye aapke program ka output `70` hona chaiye.
+For this list your program output should be `70`.

@@ -1,10 +1,11 @@
 ```ngMeta
 name: Question Set 2
 ```
-# Question Set 2
+## Question Set 2
 
-Yeh set of questions bhi pichle set of questions ki tarah hi hai. Same tareeke se hi solve karein.
+This set of questions is similar to the last set of questions. Solve it in the same way.
 
-Iss section mein kuch questions diye hue hain. Inmein se kuch kuch questions ke saath unki solutions bhi di hui hain. Aap chahe toh aap solutions ko directly dekh sakte hain. Par usse aapka zyada fayda nahi hoga. Better hoga ki pehle aap at least 1 hour khud se aur fir 0.5 hrs apne ek friend ke saath koshish kar ke solution dekho. Aapke concepts ko ache se clear karne ka aur koi better tareeka nhi hai.
 
-Jinn solutions ka video nhi hai unn solutions ka video create karne ki koshish kar sakte ho. Isse aapko concepts ke baare mein ache se baat karna aayega aur interviews mein bahot help hogi. Videos bana ke upload kar sakte ho, aur link ke saath questions ke neeche hi comments mein daal sakte ho.
+In this section, some questions are given. Solutions to some of the questions are given. If you want, you can see the solutions directly. But that will not at all help you. It would be better that first try that question for at least 1 hour by yourself and then for 0.5 hours with your friend and find the solution. There is no other better way to clarify your concepts.
+
+For all those solutions which don't have a video, try to create a video for those solutions. By this, you will also learn how to discuss and talk about the concepts and this will be very helpful during the interviews. You can make the videos and upload them, and together with the links, you can share them as comments below the questions.

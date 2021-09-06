@@ -1,0 +1,7 @@
+{
+	"question6_key1": "# Question 6\n\n",
+	"question6_key2": "Prime numbers woh numbers hote hai jo sirf 1 aur apne aap se divisible hote hain. Jaise\n",
+	"question6_key3": "`13` prime hai kyunki `13` sirf `13` aur `1` se perfectly divide hota hai. Aur kisi bhi number se perfectly divide nahi hota.\n",
+	"question6_key4": "`4` prime nahi hai kyunki `4` apne aap se aur `2` aur `1` se perfectly divide hota hai.\n\n\n",
+	"question6_key5": "Prime number ke liye aapko check karna hoga ki woh number kaun kaun se numbers se divisible hai. Yeh `loop` chala ke kar sakte ho.\n"
+}

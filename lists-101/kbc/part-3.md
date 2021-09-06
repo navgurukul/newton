@@ -3,7 +3,8 @@ name: Loop the List
 submission_type: url
 ```
 
-## Loop the List
-Ab aap apne code ko aise modify karo, ki ek `loop` ko use kar kar, ek ek kar kar, saare questions aur options ko print kar do.
+## `Loop the List`
 
-Yeh loop aapke program ka sabse important part hai. Isse bahut dhyaan se karna hai.
+Now, modify your code in such a way using `loops` that all the questions and their options are printed one by one.
+
+This `loop` is very important part of the `program`, so do it very carefully.

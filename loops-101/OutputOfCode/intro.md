@@ -4,4 +4,4 @@ submission_type: url
 ```
 ## Code Output
 
-Ab hum While Loop se related kuch questions karege. Jo hume While Loop ki better understand mai help karega.
+Now, we will do some questions related to `While Loop` which will give us more clarity on `loops`.

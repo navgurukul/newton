@@ -3,7 +3,8 @@ name: Questions on String Data Types
 submission_type: url
 ```
 
-### Note : Please read about `String Concatenation`.
+### Note :
+ Please read about `String Concatenation`.
 
 ## Question 1
 

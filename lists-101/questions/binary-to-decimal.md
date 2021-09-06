@@ -4,17 +4,17 @@ submission_type: url
 
 ## Binary to Decimal
 
-Iss program mei humein agar koi number **binary form** mei diya gaya hai, toh hum uski **decimal form** nikalna seekhenge.
+In this program, if we are given any number in **binary form**, then we will learn to convert that number in **decimal form**.
 
 ![binary](../assets/binary.jpg)
 
-Jaise yeh diagram dekho.
+Please see this diagram.
 
 ```python
 binary_number = [1, 0, 0, 1, 1, 0, 1, 1]
 ```
 
-Iss number ko decimal form mei karne ke liye, hum
+To convert this number in `decimal form`:-
 
 ```python
 # last element ko 2^0 yaani 1 se
@@ -28,23 +28,22 @@ Iss number ko decimal form mei karne ke liye, hum
 # add karna hai
 ```
 
-Aise karne se uppar wali list ka answer **155** aayega.
+After doing the above steps, you will get **155** as an answer.
 
-## Edge Case
+## `Edge Case`
 ```python
 binary_number = [1, 0, 0, 2, 1]
 ```
 
-Aapka program iss case mei kya output deta hai? Aapke program agar **robust** hoga, toh bolega invalid output, nahi toh error throw karega.
+What will be the output of this program? If your progrsm is **robust** then it will give invalid output, otherwise it will throw an error.
 
 ```python
 binary_number = [1, 0, 0, "1", 1]
 ```
 
-Aapka program iss case mei kya output deta hai?
-Aapke program agar **robust** hoga
+If your program is **robust** :
 
-    - toh bolega invalid output, ya
-    - "1" ko 1 ki tarah maan kar solve kar dega
+    - then it will give invalid output, or
+    - it will consider "1" as 1 ki and solve the question.
 
-Par **robust** nahi hoga, toh error throw karega.
+But, if it will not be **robust**, then it will throw error.

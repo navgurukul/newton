@@ -2,11 +2,11 @@
 name: Question 0
 ```
 
-# Question 0
+## Question 0
 
-Ek program banao jo 1 se 100 tak ke saare numbers print karta hai.
+Make a program that prints all the numbers from 1 to 100.
 
-Aapki output mein yeh aana chaiye.
+You should get the following as an output.
 
 ```
 1

@@ -13,4 +13,4 @@ If this number is less than 10 then print  **"10 se chota hai"**. If it is great
 Once the flowchart is complete, write the Python program and save it as `.py` file. Submit both the files together.
 
 ### Note:-
- In the next exercises, submit the flowchart file as well as python file.*
+ In the next exercises, submit the flowchart file as well as python file.

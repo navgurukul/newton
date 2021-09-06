@@ -3,5 +3,5 @@ name: Galat Jawaab
 submission_type: url
 ```
 
-## Galat Jawaab
-Agar user galat answer karta hai, toh user ko loop se exit kara kar, batayie ki woh game se bahar kar diya gaya hai.
+## Wrong Answer
+If user gives wrong answer, then exit the user from the loop and tell the user that he is out of the game now.

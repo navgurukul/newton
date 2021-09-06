@@ -1,0 +1,14 @@
+{
+	"solution1_key1": "# Solution\n\n",
+	"solution1_key2": "Yeh pattern print karo.\n",
+	"solution1_key3": "## Question\n\n\n",
+	"solution1_key4": "## Solution\n\n\n",
+	"solution1_key5": "Iss question ke saath solution di hui hai. Yeh aapko samjhane ke liye hai ki hum iss type ke questions kaise solve kar sakte ho. Better yeh hoga ki aap solution na dekho aur pehle khud solve karne ki try karo.\n",
+	"solution1_key6": "Solution se pehle ek chota sa concept samajhte hain. Jaise agar hum `4*3` karte hain toh hum 2 `integers` ko multiply kar rahe hain aur humara result `12` aayega. Aise hi agar hum ek `string` aur `integer` ko different behaviour hoga. Jaise\n",
+	"solution1_key7": "Dekho kaise `\"navgurukul\"*3` karke `navgurukul` 3 baar aa gaya. Aise hi `'hello'*5` `hello` 5 baar ayega. Jaise:\n",
+	"solution1_key8": "Yeh program likhne se pehle upar wale pattern mein kuch cheezein dekhte hain.\n",
+	"solution1_key9": "Pehli, iss pattern mein total `7` lines hain.\n",
+	"solution1_key10": "Pehli line mein ek `#` hai, dusri line mein 2 `#` hain, teesri line mein 3 `#` hain.\n",
+	"solution1_key11": "Matlab number of `#` bhi line number ke saath badte jaa rahe hain.\n\n\n",
+	"solution1_key12": "Iska solution kuch aisa hoga.\n"
+}

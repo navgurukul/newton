@@ -1,32 +1,31 @@
 ```ngMeta
 submission_type: url
 ```
+## Sorting
+**Sorting** is a very important process, you will come across it quite often. Sorting (Sort is the **root word**) means to arrange in some order like arranging any sequence by height, weight, by name, by marks, etc.
 
-**Sorting** bahut hi important process hai jo aap ko programming mei baar baar encounter hoga. Sorting (Sort is the **root word**) ka matlab hai - kisi order mei arrange karna - jaise height se, weight se, marks se, naam se etc. 
-
-Jaise:
-- Kam marks se jyada marks (**Ascending Sort**)
-- Alphabetically naam sort karna (**Chronological Ascending Sort**)
-- Kam height se jyada height (**Ascending Sort**)
-- Jyada weight se kam weight (**Descending Sort**)
-
-Bubble sort ek sort karne ka tareeka hai, jo kuch numbers ko leta hai, aur unko **ascending** ya **descending** order mei sort kar deta hai.
+#### Example :-
+- Arrange marks from lesser to higher (**Ascending Sort**).
+- To sort names alphabetically (**Chronological Ascending Sort**).
+- Arranging height from lesser to higher(**Ascending Sort**).
+- Arranging weight from higher to lesser(**Descending Sort**).
+Bubble sort is a way of sorting, that arranges a sequence of numbers, in **ascending** or **descending** order.
 
 ### Understanding Bubble Sort
 
-Iss diagram ko dekhiye. Aap bubble sort ke baarein mei [yahan](https://medium.com/karuna-sehgal/an-introduction-to-bubble-sort-d85273acfcd8) se bhi padh sakte ho.
+Look at this diagram. You can read about `Bubble Sort` from here also [yahan](https://medium.com/karuna-sehgal/an-introduction-to-bubble-sort-d85273acfcd8).
 
 ![bubble sort](../assets/bubble.jpg)
 
-1. 1st and 2nd element ko compare karo
-   - Agar bada wala element baad mei hai, toh kuch mat karo
-   - Agar bada wala element pehle hai, toh swap kar do
-    (**swap** matlab - **interchange** - yaani pehle element ko doosre se, aur doosre ko pehle se replace kar do)
-2. Aise hi ab 2nd aur 3rd elements ko compare and swap karo
-3. Aise hi karte chalo, isse. 
-   - Sabse bada wala element ek **iteration** ke baad sabse right mei pahuch jayega
-4. Yeh iterations jitne numbers hai, utni baar karo - isse array sort ho jayega
+1. Compare 1st and 2nd elements.
+   - If the bigger element is afterward, then don't do anything.
+   - If the bigger element is before only, then swap it.
+    (**swap** means - **interchange** - replace the first element with the second one, and the second element with the first one).
+2. Now, do the same with 2nd and 3rd i.e.compare the elements and swap them.
+3. Repeat the same process.
+   - The largest number after one **iteration** will reach the extreme right.
+4. These iterations will run as many times as there are number of elements present - by this, the `array` will be sorted.
 
-Pehle aap yeh apni **notebook aur pen** use kar kar karo, isse aapki understanding improve hogi.
+First, do this with the help of **notebook and pen**, this will improve your understanding.
 
-Phir yeh **algorithm** aap code kar kar implement karo. Yeh ek mushkil question hai, agar ismei aap ko 4-5 ghante bhi lagte hai toh bhi theek hai.
+Then, implement this **algorithm** with the help of a code. This is a difficult question, if it takes 4 to 5 hours to do this, then also okay.

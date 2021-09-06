@@ -2,7 +2,7 @@
 name: If Statements
 ```
 
-## Programming & If Statements
+## `Programming & If Statements`
 
 By learning programming, we can make the computer do anything that we want. For example, we can write a program that shows the food menu for each day. We can use conditions to display the food item depending on what day it is.
 
@@ -46,7 +46,7 @@ All the flowcharts are made up of these components:
 | Condition       	| ![Condition Box](assets/theory_images/if-statement-intro_flowchart-if-box.png)      	| Any condition can be represented using this shape. Since an if statement can have only two outputs (`True` or `False`), two arrows go out from this shape. 	|
 | Arrow           	| ![Condition Box](assets/theory_images/if-statement-intro_flowchart-arrow.png)       	| Arrows are used to indicate the flow of the program at every step.|
 
-### Another example of a Flowchart
+### Another example of a `Flowchart`
 
 The flowchart below shows the process of `Facebook login`. Follow the flowchart carefully, this example will clarify how flowchart works. 
 

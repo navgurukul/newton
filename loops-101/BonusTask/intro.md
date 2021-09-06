@@ -2,17 +2,18 @@
 name:  Becoming  A Programmer
 submission_type: url
 ```
-## Becoming A Programmer
+## `Becoming A Programmer`
 
-Iss Task mai apko loop ke bare mai six new concepts padne hai.
+In this task you will study about 6 new concepts of `loops`.
 
-Phele apko loop ke three new concepts python ki website se padna hai.
+Firstly, you have to study about three new concepts from `python's website`.
 
 - https://www.w3schools.com/python/python_while_loops.asp
 
-Fir aap loop ke three new concepts **Stackoverflow** se padh hai.
+Then, you will study the three new concepts from **`Stackoverflow`**.
 
 
-App ek google doc par apni understand likh kar apne mentor se share karenge aur concepts se related kuch questions bhi karenge.
+You will write on a google doc about what was your understanding regarding the topic and share it with your mentor and you will also do some questions related to that concept.
 
-App ek class lenge jisme apne jo new concepts sikhe hai woh explain karenge.
+You will take a class in which u will explain whatever concept you studied? 
+

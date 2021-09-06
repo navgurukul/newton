@@ -2,11 +2,13 @@
 name: Question 1
 ```
 
-# Question 1
+## Question 0.5
 
-Ek program banao jo 10 se 80 tak ke saare numbers print karta hai.
+Write a program that prints numbers from 10 to 80.
 
-Aapki output mein yeh aana chaiye.
+What should be the output?
+
+
 
 ```
 10

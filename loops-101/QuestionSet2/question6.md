@@ -2,10 +2,12 @@
 name: Question 6
 ```
 
-# Question 6
-Prime numbers woh numbers hote hai jo sirf 1 aur apne aap se divisible hote hain. Jaise
+##  Question 6
 
-1. `13` prime hai kyunki `13` sirf `13` aur `1` se perfectly divide hota hai. Aur kisi bhi number se perfectly divide nahi hota.
-2. `4` prime nahi hai kyunki `4` apne aap se aur `2` aur `1` se perfectly divide hota hai.
+`Prime numbers` are those numbers that are divisible by 1 or by themselves. Example:-
 
-Prime number ke liye aapko check karna hoga ki woh number kaun kaun se numbers se divisible hai. Yeh loop chala ke kar sakte ho.
+1.`13` is `prime` because `13` is `perfectly divisible` by `13` and `1`. It is not `perfectly divisible` by any other number.
+
+2.`4` is not prime number because `4` is perfectly divisible by `4`, `2` and `1`.
+
+For `prime numbers` you have to check that the number is divisible by how many numbers and you have to use `loops` also.

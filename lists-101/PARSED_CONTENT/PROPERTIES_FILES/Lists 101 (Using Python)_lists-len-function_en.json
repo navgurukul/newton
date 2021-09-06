@@ -1,0 +1,7 @@
+{
+	"lists-len-function_key1": "## How to iterate on two lists together?\n\n\n",
+	"lists-len-function_key2": "Let's say you have two lists of the same length. How will you `iterate` through both lists together?\n",
+	"lists-len-function_key3": "See if the length of both the lists is the same or not as `6`. Below we have written a `code` on how to `iterate` through these lists.\n",
+	"lists-len-function_key4": "You will notice here that elements of both lists will be printed.\n",
+	"lists-len-function_key5": "This lesson has only this much to read :D\n"
+}

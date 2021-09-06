@@ -2,9 +2,9 @@
 name: Nested Lists
 ```
 
-## LISTS ki LIST
+## LISTS within List
 
-Yeh list dekhein:
+See this list :-
 
 ```python
 magic_square = [
@@ -22,14 +22,14 @@ print sum(magic_square[1])
 print sum(magic_square[2])
 ```
 
-Yeh image dhyaan se dekhein:
+See this image carefully :-
 
 ![nested lists](assets/nested_lists.png)
 
-yeh samajhne ke liye, ki `nested_lists` mei kaise elements ko **access** karte hai.
+to understand that how to access elements in `nested_lists`.
 
-## Bonus Content
-If you want to learn lists with a very strong depth, watch this video:
+### Bonus Content
+If you want to learn lists with a very strong depth, watch this video :
 
 @[youtube](9rLdQP3g4fw)
 

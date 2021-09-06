@@ -3,18 +3,21 @@ name: 50 50 Lifeline
 submission_type: url
 ```
 
-## 50 50 Lifeline
-Ab aapko 50 50 lifeline implement karni hai, user answer karte time, answer mei 1,2,3 ya 4 ke alaway ab 5050 bhi daal sakta hai. Agar user 5050 daalega, toh aapko user ko 
+## `50 50 Lifeline`
 
-- sirf uss question ke liye
-- dobara se do options dikhane hai
-- dobara se user input lena hai
-- aur phir jaisa aap pehle kar rahe the, wohi code chalna chahiye, yaani
-  - sahi answer to - batayie - right answer hai
-  - galat answer to - tell user - wrong answer hai
+Now, you have to implement `50 50 lifeline` when the user answers, you can also give 50 50 together with 1,2,3,4 as an option in the answers. If the user goes for 50 50, then you need to do the below things for the user :-
 
-### Dhyaan Rakhein
-- Jo do options aap denge - unemi se ek answer theek hi hona chahiye
+
+- only for that specific question
+- you have to show two options again
+- you have to take user inputs again
+- and whatever code you were running that only you will run.
+  - if the answer is correct - then tell - that the answer is right.
+  - if the answer is wrong - tell the user - that the answer is wrong
+
+#### Note
+- The two options that you will give - (out of the two one should be correct).
 
 ### Bonus Task
-Apne code ko aise likhiye, ki user sirf ek baar `5050 lifeline` use kar sakta hai. User agar doosri baar try karta hai, toh usse boliye, ki aap already lifeline use kar chuke hai.
+
+Write your code in such a way that users can use the `50 50 lifeline` once only. If the user tries to use that lifeline again then we have to tell them the lifeline has already been used.

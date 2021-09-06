@@ -2,11 +2,12 @@
 name: Question 1
 ```
 
-# Question 1
+## Question 1
 
-Ek program banao jo 1 se 100 tak ke beech mein woh numbers print kare jo 7 se divide ho jaate hain.
+Write a program that prints all those numbers from 1 to 100  which are divisible by 7.
 
-Aapki output mein yeh aana chaiye.
+
+The output should come as follows :-
 
 ```
 7
