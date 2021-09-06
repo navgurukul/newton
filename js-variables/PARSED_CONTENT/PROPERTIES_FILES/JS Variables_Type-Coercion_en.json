@@ -1,0 +1,21 @@
+{
+	"Type-Coercion_key1": "### Example:\n\n",
+	"Type-Coercion_key2": "### Explanation:\n\n\n",
+	"Type-Coercion_key3": "If you look at the `variable` result, you may think that this `variable` is trying to add a `string` (navgurukul) to a number (29). But that is not the case, because you cannot add a `string` to a number. JS in such circumstances, will convert the number 29 into the `string` “29” and will join (or concatenate) the two `strings`.  \n",
+	"Type-Coercion_key4": "Thus the `output` of result will be **navgurukul29**  \n",
+	"Type-Coercion_key5": "### Note\n\n\n",
+	"Type-Coercion_key6": "This auto converting of a value from one type to another — such as number to `string` — in JS is called **Type Coercion**.  \n",
+	"Type-Coercion_key7": "### Example:\n\n",
+	"Type-Coercion_key8": "### Explanation:\n\n\n",
+	"Type-Coercion_key9": "If you look at the `variable` result, you may think that this `variable` is trying to add a `string` (height) to a `float` (16.5). But that is not the case, because you cannot add a `string` to a number. JS in such circumstances, will convert the `float` 16.5 into the `string` “16.5” and will join (or concatenate) the two `strings`.  \n",
+	"Type-Coercion_key10": "Thus the `output` of result will be **height16.5**\n",
+	"Type-Coercion_key11": "### Note\n\n\n",
+	"Type-Coercion_key12": "This auto converting of a value from one type to another — such as `float` to `string` — in JS is called Type Coercion.\n",
+	"Type-Coercion_key13": "### Examples: \n\n\n",
+	"Type-Coercion_key14": "What is the `output` of the following `code`?\n\n",
+	"Type-Coercion_key15": "### Explanation:\n\n\n",
+	"Type-Coercion_key16": "1 is considered to be `true` because it is non-zero. Thus the reason `true`  value is 1, `False` value is 0. It will compute `true`+`false` as 1+0 and prints 1.\n",
+	"Type-Coercion_key17": "What is the `error` in this program?\n\n",
+	"Type-Coercion_key18": "### Explanation:\n\n\n",
+	"Type-Coercion_key19": "There is no `error` in this following `code`. But it will return a NaN, when a number is divided by non `integer` so it is not able to solve the problem.\n"
+}

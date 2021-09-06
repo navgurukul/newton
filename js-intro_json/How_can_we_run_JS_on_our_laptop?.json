@@ -43,26 +43,32 @@
     "value": "  node follow option1 in the file."
   },
   {
-    "component": "list",
-    "type": "unordered",
-    "value": [
-      {
-        "component": "text",
-        "value": "sudo apt update"
-      },
-      {
-        "component": "text",
-        "value": "sudo apt install nodejs"
-      },
-      {
-        "component": "text",
-        "value": "nodejs -v"        
-      },
-      {
-        "component": "text",
-        "value": "sudo apt install npm"
-      }
-    ]
+    "component":"text",
+    "value": "sudo apt update",
+    "decoration":{
+       "type":"bullet"
+    }
+  },
+  {
+    "component":"text",
+    "value": "sudo apt install nodejs",
+    "decoration":{
+       "type":"bullet"
+    }
+  },
+  {
+    "component":"text",
+    "value": "nodejs -v",
+    "decoration":{
+       "type":"bullet"
+    }
+  },
+  {
+    "component":"text",
+    "value": "sudo apt install npm",
+    "decoration":{
+       "type":"bullet"
+    }
   },
   {
     "component": "text",
@@ -73,46 +79,76 @@
     "value": "  Steps to write in code in vs code :"
   },
   {
-    "component": "list",
-    "type": "ordered",
-    "value": [
-      {
-        "component": "text",
-        "value": "Open vs code editor."
-      },
-      {
-        "component": "text",
-        "value": "Make hello.js file."
-      },
-      {
-        "component": "text",
-        "value": "nodejs -v"        
-      },
-      {
-        "component": "text",
-        "value": "paste the below code in hello.js `console.log('Hello JS')`"
-      },
-      {
-        "component": "text",
-        "value": "Press 'control' + 'shift'+ 'tilt'(~) on your keyboard. It will show the terminal in vs code."
-      },
-      {
-        "component": "text",
-        "value": "Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** on the screen."
-      },
-      {
-        "component": "text",
-        "value": "Successfully you created a file and ran it, happy coding."
-      },
-      {
-        "component": "text",
-        "value": "**For the next course "
-      },
-      {
-        "component": "link",
-        "text": "Click Here**",
-        "href": "https://www.merakilearn.org/course/136/exercise/3524"
-      }
-    ]
+    "component":"text",
+    "value": "Open vs code editor.",
+    "decoration":{
+       "type":"number",
+       "value": 1
+    }
+  },
+  {
+    "component":"text",
+    "value": "Make hello.js file.",
+    "decoration":{
+       "type":"number",
+       "value": 2
+    }
+  },
+  {
+    "component":"text",
+    "value": "nodejs -v",
+    "decoration":{
+       "type":"number",
+       "value": 3
+    }
+  },
+  {
+    "component":"text",
+    "value": "paste the below code in hello.js `console.log('Hello JS')`",
+    "decoration":{
+      "type":"number",
+       "value": 4
+    }
+  },
+  {
+    "component":"text",
+    "value": "Press 'control' + 'shift'+ 'tilt'(~) on your keyboard. It will show the terminal in vs code.",
+    "decoration":{
+       "type":"number",
+       "value": 5
+    }
+  },
+  {
+    "component":"text",
+    "value": "Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** on the screen.",
+    "decoration":{
+       "type":"number",
+       "value": 6
+    }
+  },
+  {
+    "component":"text",
+    "value": "Successfully you created a file and ran it, happy coding.",
+    "decoration":{
+       "type":"number",
+       "value": 7
+    }
+  },
+  {
+    "component":"text",
+    "value": "**For the next course ",
+    "decoration":{
+       "type":"number",
+       "value": 8
+    }
+  },
+  {
+    "component":"link",
+    "text": "Click Here**",
+    "href": "https://www.merakilearn.org/course/136/exercise/3524",
+    "decoration":{
+       "type":"number",
+       "value": 9
+    }
   }
 ]

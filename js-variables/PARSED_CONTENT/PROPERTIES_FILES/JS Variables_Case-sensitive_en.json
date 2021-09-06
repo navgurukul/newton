@@ -1,0 +1,8 @@
+{
+	"Case-sensitive_key1": "### Example:\n\n",
+	"Case-sensitive_key2": "### Explanation:\n\n\n",
+	"Case-sensitive_key3": "As `variables` are case sensitive. It means x and X are different `variables`. You can see clearly in this above two `variables` one is Name we have with N (capital N) and second one is also name but started with n (small n), both are different  to look and JS feels also it as a different `variable`.\n",
+	"Case-sensitive_key4": "### Example:\n\n",
+	"Case-sensitive_key5": "### Explanation:\n\n\n",
+	"Case-sensitive_key6": "As the above example throws an `error` because according to the rules of naming `variables`, We can not use numbers in the starting of `variables` Like 12num . If we do it then our computer will be confused and will throw an `error` because it doesn’t know to start a `variable` with a number.\n"
+}

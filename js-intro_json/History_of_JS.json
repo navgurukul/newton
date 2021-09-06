@@ -17,91 +17,119 @@
     "value": "VePxnvFBZAs"
   },
   {
-    "component": "list",
-    "type": "unordered",
-    "value": [
-      {
-        "component": "link", 
-        "text": "Things you can build with JavaScript?",
-        "href": "https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/"
-      },
-      {
-        "component": "link", 
-        "text": "What are some of the cool projects that I can build using Pure JavaScript?",
-        "href": "https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio"
-      }
-    ]
+    "component": "link", 
+    "text": "Things you can build with JavaScript?",
+    "href": "https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "link", 
+    "text": "What are some of the cool projects that I can build using Pure JavaScript?",
+    "href": "https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio",
+    "decoration":{
+      "type":"bullet"
+    }
   },
   {
     "component": "header",
     "level": 2,
-    "value": "Some more companies which is using JS"
+    "value": "Some more companies which is using JS",
+    "decoration":{
+      "type":"bullet"
+    }
   },
   {
     "component": "text",
     "value": "Nowadays, in the world so many are using javascript. The best companies in the world use javascript somewhere in their company. Javascripts speciality they can run on any platform."
   },
   {
-    "component": "list",
-    "type": "unordered",
-    "value": [
-      {
-        "component": "text", 
-        "value": "Javascript run on browsers"
-      },
-      {
-        "component": "text", 
-        "value": "For making mobile apps also we can use javascript"
-      },
-      {
-        "component": "text", 
-        "value": "for making backend code on server"
-      },
-      {
-        "component": "text", 
-        "value": "We can run JS applications on Digital smart watches"
-      },
-      {
-        "component": "text", 
-        "value": "In Drones also we will use JS"
-      }
-    ]
+    "component": "text", 
+    "value": "Javascript run on browsers",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "For making mobile apps also we can use javascript",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "for making backend code on server",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "We can run JS applications on Digital smart watches",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "In Drones also we will use JS",
+    "decoration":{
+      "type":"bullet"
+    }
   },
   {
     "component": "text",
     "value": "So many companies using Javascript in that some company names are:"
   },
   {
-    "component": "list",
-    "type": "unordered",
-    "value": [
-      {
-        "component": "text", 
-        "value": "Flipkart"
-      },
-      {
-        "component": "text", 
-        "value": "Myntra"
-      },
-      {
-        "component": "text", 
-        "value": "PayTM and Freecharge"
-      },
-      {
-        "component": "text", 
-        "value": "IRCTC (Indian Railways website)"
-      },
-      {
-        "component": "text", 
-        "value": "Instagram's mobile app is made on JS"
-      },
-      {
-        "component": "text", 
-        "value": "Google"
-      },      {
-        "component": "text", 
-        "value": "Facebook's so many apps made on JS."
-      }
-    ]
+    "component": "text", 
+    "value": "Flipkart",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "Myntra",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "PayTM and Freecharge",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "IRCTC (Indian Railways website)",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "Instagram's mobile app is made on JS",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "Google",
+    "decoration":{
+      "type":"bullet"
+    }
+  },
+  {
+    "component": "text", 
+    "value": "Facebook's so many apps made on JS",
+    "decoration":{
+      "type":"bullet"
+    }
   }
 ]

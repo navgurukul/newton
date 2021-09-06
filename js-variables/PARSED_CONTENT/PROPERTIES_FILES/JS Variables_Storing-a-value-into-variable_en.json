@@ -1,0 +1,18 @@
+{
+	"Storing-a-value-into-variable_key1": "### Example:\n\n",
+	"Storing-a-value-into-variable_key2": "Here, we stored 3 as a value and it is stored in a `variable` named myLuckynumber.\n",
+	"Storing-a-value-into-variable_key3": "### Explanation:\n\n\n",
+	"Storing-a-value-into-variable_key4": "A `variable` is simply the name of a storage location and `variables` work like a container to hold the value that we give after equal to (=). = (equal to ) is used to assign a value to a `variable`, if you do any operation such as addition, multiplication and it will compute first and assign the `output` to the `variable`.\n",
+	"Storing-a-value-into-variable_key5": "### Note:\n\n\n",
+	"Storing-a-value-into-variable_key6": "we use this console.log(); for printing the `output` in logs.\n",
+	"Storing-a-value-into-variable_key7": "### Examples: \n\n\n",
+	"Storing-a-value-into-variable_key8": "Assign a boolean to a `variable` isHealthy?\n\n\n",
+	"Storing-a-value-into-variable_key9": "Multiply two numbers and store it in `variable` multiplyTwoNumbers?\n\n\n",
+	"Storing-a-value-into-variable_key10": "### Example:\n\n\n",
+	"Storing-a-value-into-variable_key11": "### Explanation:\n\n\n",
+	"Storing-a-value-into-variable_key12": "The above myName is declared with no value, then assigns a value “kumar” in it. And after that we declare a `variable` myFullName with no value. If you want to define “kumar” in myFullName you can do it by  directly assigning  myName to myFullname.\n",
+	"Storing-a-value-into-variable_key13": "#### Note: You can assign a `variable` to another `variable`.\n\n\n",
+	"Storing-a-value-into-variable_key14": "### Example:\n\n\n",
+	"Storing-a-value-into-variable_key15": "### Explanation:\n\n\n",
+	"Storing-a-value-into-variable_key16": "As you know from the previous example,you learnt how to store a `variable` into another `variable`. Now in this example We added two `variables` myName and myFullName which contain the values “kumar” and “nayak vadthya” respectively and store it in FullName. So when we printed FullName it showed the value as kumar nayak Vadthya.\n"
+}

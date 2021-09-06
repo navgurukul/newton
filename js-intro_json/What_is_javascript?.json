@@ -37,22 +37,24 @@
     "value": "To run javascript in vscode you need to install a node to do that. Follow this\n"
   },
   {
-    "component": "list",
-    "type": "unordered",
-    "value": [
-      {
-        "component": "text",
-        "value": "High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily."
-      },
-      {
-        "component": "text",
-        "value": "Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also."
-      },
-      {
-        "component": "text",
-        "value": "Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it."
-      }
-    ]
+    "component":"text",
+    "value": "High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.",
+    "decoration":{
+       "type":"bullet"
+    }
+  },
+  {
+    "component":"text",
+    "value": "Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also.",
+    "decoration":{
+       "type":"bullet"
+    }
+  },
+  {
+    "component":"text",
+    "value": "Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it.",
+    "decoration":{
+       "type":"bullet"
+    }
   }
 ]
-
