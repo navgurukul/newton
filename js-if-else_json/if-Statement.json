@@ -1,16 +1,16 @@
 [
     {
-        "component": "Code block",
-        "type": "Javascript",
-        "Text": "if (condition is true) {statement is executed}"
+        "component": "code",
+        "type": "javascript",
+        "text": "if (condition is true) {statement is executed}\n"
     },
     {
-        "component": "Block quote",
+        "component": "blockquote",
         "value": " If you want to run a piece of code, based on a certain condition, then you should use the if statement.The keyword if tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses ().\n"
     },
     {
         "component": "text", 
-        "value": "**Note**",
+        "value": "Note",
         "decoration":{
           "type":"bold"
         }
@@ -20,35 +20,40 @@
         "value": ": These conditions are known as Boolean conditions and they are only be true or false.\n"
     },
     {
-        "component": "Block quote",
+        "component": "blockquote",
         "value": " When the condition evaluates to true, the program executes the statement inside the curly braces. When the Boolean condition evaluates to false, the statement inside the curly braces will not execute.\n"
     },
     {
-        "component": "Block quote",
-        "value": "Let us see some more examples."
+        "component": "blockquote",
+        "value": "Let us see some more examples.\n"
     },
     {
-        "component": "Text ", 
-        "value": "**Example**",
+        "component": "text ", 
+        "value": "Example\n",
         "decoration":{
           "type":"bold"
         }
     },
     {
-        "component": "Code block ",
-        "type": "Javascript",
-        "Text": "var a = 10; var b = 12; if(b > a){ console.log( b,' is greater than  ', a  );}"
+        "component": "code ",
+        "type": "javascript",
+        "text": "var a = 10; var b = 12; if(b > a){ console.log( b,' is greater than  ', a  );}\n"
     },
     {
         "component": "text",
-        "value": "Output :- 12, is greater than, 10"
+        "value": "Output :- 12, is greater than, 10\n"
     },
     {
-        "component": "H3",
-        "value": "**Explanation**:"
+        "component": "header",
+        "variant": "3",
+        "value": "Explanation"
     },
     {
         "component": "text",
-        "value": "    Here 12 is greater than 10. So, the console will show us the output as 12."
+        "value": ":\n"
+    },
+    {
+        "component": "text",
+        "value": "Here 12 is greater than 10. So, the console will show us the output as 12.\n"
     }
 ]
