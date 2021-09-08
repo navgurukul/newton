@@ -1,4 +1,5 @@
 ```ngMeta
+name: count-occurences
 submission_type: url
 ```
 

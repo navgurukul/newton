@@ -1,4 +1,5 @@
 ```ngMeta
+name: binary-to-decimal
 submission_type: url
 ```
 
