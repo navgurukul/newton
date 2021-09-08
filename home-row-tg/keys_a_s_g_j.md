@@ -8,10 +8,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text with your ring fingers once you're comfortable with the home row keys `a`, `s`, `g`, `j`
 
 
-```trytyping
-asgj
-```
-
 ```practicetyping
 asgj
 asgjsagjasgjgjjajgjagsssjgjsgjagjgagjsggjasgsgjasgasgajgagasgajgjjjgasgsgsajsgasgajsgajsgasgjasgjjjagssgsasjaj

@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text once you're comfortable with the home row keys `f` and `j`
 
 
-```trytyping
-fj
-```
-
 ```practicetyping
 fj
 fffjjjfjfjfjjjjfff

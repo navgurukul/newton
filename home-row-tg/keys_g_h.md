@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text by moving your index fingers towards each other but your hands fixed `g` and `h`
 
 
-```trytyping
-gh
-```
-
 ```practicetyping
 gh
 ggghhhghghghhhhggg

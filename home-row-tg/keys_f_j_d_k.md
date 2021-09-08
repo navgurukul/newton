@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 As an exercise, type the following text without making any mistakes.
 
 
-```trytyping
-f,j,d,k
-```
-
 ```practicetyping
 f,j,d,k,d, ,d,f,j,d,k, ,k,k,f,j,f,j, ,d,d,j,d,k,f,f
 ```

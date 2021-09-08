@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text with your ring fingers once you're comfortable with the home row keys `j`, `k`, `l`, `;`
 
 
-```trytyping
-jkl;
-```
-
 ```practicetyping
 jkl;
 jkl;jkl;jl;jkk;;jk;ljk;lk;ljk;lk;jkl;;lk;lkj;lk;lkj;lkj;lkj;lk;lk;jjjj;;lk;ljjk;ljk;l;;jlk

@@ -10,10 +10,6 @@ Find the numpad on farthest right bottom of your keyboard and try the following 
 As an exercise, type the following text without making any mistakes.
 
 
-```trytyping
-0,1
-```
-
 ```practicetyping
 0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,0,0,1
 ```
