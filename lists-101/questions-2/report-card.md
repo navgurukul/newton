@@ -1,4 +1,5 @@
 ```ngMeta
+name: report-card
 submission_type: url
 ```
 

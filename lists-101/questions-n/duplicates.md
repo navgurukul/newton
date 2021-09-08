@@ -1,4 +1,5 @@
 ```ngMeta
+name: Duplicates
 submission_type: Duplicates
 ```
 

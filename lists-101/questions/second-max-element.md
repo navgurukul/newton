@@ -1,4 +1,5 @@
 ```ngMeta
+name: second-max-element
 submission_type: url
 ```
 
