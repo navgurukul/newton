@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text with your little fingers once you're comfortable with the home row keys `a` and `;`
 
 
-```trytyping
-a;
-```
-
 ```practicetyping
 a;
 aaa;;;a;a;;a;;;;aaa

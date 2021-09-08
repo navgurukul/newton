@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text once you're comfortable with the top row keys `q` and `p`
 
 
-```trytyping
-qp
-```
-
 ```practicetyping
 qp
 qqqpppqqppqqppqpqpqpqqqppp

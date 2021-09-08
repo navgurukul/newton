@@ -9,10 +9,6 @@ Position your left middle and index finger on the left groove of the keyboard, a
 Enter the following text once you're comfortable with the top row keys  `w`, `r`, `y`, `o`
 
 
-```trytyping
-wryo
-```
-
 ```practicetyping
 wryo
 ywwwrrrryyyyoooowwrryyoowwwrrryyyooowryowryowryo

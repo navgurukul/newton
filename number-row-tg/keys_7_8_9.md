@@ -10,10 +10,6 @@ Find the numpad on farthest right bottom of your keyboard and try the following 
 As an exercise, type the following text without making any mistakes.
 
 
-```trytyping
-7,8,9
-```
-
 ```practicetyping
 9,8,7,8,8,8,7,8,8,8,9,7,8,8,9,7,9,9,8,7,8,7,8,9,7,8,9,9,8,7,8,9,8,7,9,8,7,9,7,8,9,9
 ```

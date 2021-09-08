@@ -8,10 +8,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text with your ring fingers once you're comfortable with the home row keys `d`, `f`, `h`, `;`
 
 
-```trytyping
-dfh;
-```
-
 ```practicetyping
 dfh;
 dfh;;;hd;hd;hddffdfdhfdhfh;dfhdf;dhfdfh;df;dhfd;fh;h;dhfd;f;;;hdfhd;fdhf;dh;;;fdfhdf;dh;hdf;;;dfd;;;fdhhhhfd;

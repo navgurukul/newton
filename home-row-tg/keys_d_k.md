@@ -9,10 +9,6 @@ Position your left index finger on the left groove on the keyboard, and your rig
 Enter the following text with your middle fingers once you're comfortable with the home row keys `d` and `k`
 
 
-```trytyping
-dk
-```
-
 ```practicetyping
 dk
 dddkkkdkdkdkkkkddd
