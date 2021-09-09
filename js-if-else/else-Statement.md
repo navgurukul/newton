@@ -30,7 +30,7 @@ if(num1>num2){
    connsole.log("num1 is greater than num2");
 }
 else{
-   console.log("num2 is greater than num1");;
+   console.log("num2 is greater than num1");
 }
 
 output: "num2 is greater than num1"

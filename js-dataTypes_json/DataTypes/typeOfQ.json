@@ -1,0 +1,47 @@
+[    
+    {
+        "component": "text", 
+        "value": "Exercises\n",
+        "decoration":{
+        "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "What is the output of the following code? \n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "console.log(typeof “Navgurukul”); \nconsole.log(typeof {name: \"Shweta\", age: 118});\nconsole.log(typeof [1, 2, 4]); console.log(typeof function(){});\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output:\n\tstring\n\tobject\n\tobject\n\tfunction\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the error in the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "console.log(typeOf {name: \"Shweta\", age: 18});\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output: SyntaxError: missing ) after argument list.\n"
+    },
+    {
+        "component": "text", 
+        "value": "ohhhh you missed a parenthesis."
+    }  
+]

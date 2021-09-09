@@ -1,0 +1,64 @@
+[
+    {
+        "component": "header",
+        "variant": "2",
+        "value": "Null\n"
+    },  
+    {
+        "component": "text",
+        "value": "This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string (\"\") or 0, it is simply nothing.\n\n"
+    },
+    {
+        "component": "text",
+        "value": "A variable can be explicitly emptied of its current contents by assigning it the null value.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example:",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null"    
+    },
+    {
+        "component": "text", 
+        "value": "Exercises:",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Write a program to print null when I console a variable name is y\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "var y= null;\nconsole.log(y);\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the output of the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "var val = null;\nconsole.log(val);\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output: Null\n"
+    }
+]

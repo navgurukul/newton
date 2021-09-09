@@ -1,0 +1,67 @@
+[
+    {
+        "component": "text", 
+        "value": "Data type",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": " consist of two different words, "
+    },
+    {
+        "component": "text", 
+        "value": "Data",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": "and"
+    },
+    {
+        "component": "text", 
+        "value": "Type",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": ". Let’s understand this one by one. Data means information and type means what kind of information. Data types basically specify what kind of data can be stored and manipulated within a program.\n"
+    },
+    {
+        "component": "text",
+        "value": "For example, when we write the following line in JS,\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "var my_name = 'Shweta';\n"    
+    },
+    {
+        "component": "text",
+        "value": "The variable my_name can store some information. And the type of that information is a String, like ‘Shweta’ in this case.\n"
+    },
+    {
+        "component": "text",
+        "value": "There are"
+    },
+    {
+        "component": "text", 
+        "value": "six basic data types",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": "in JavaScript which can be divided into three main categories: primitive (or primary), composite, and special data types. String, Number, and Boolean are primitive data types. Object, Array, and Function (which are all types of objects) are composite data types. Whereas Undefined and Null are special data types.\n"
+    },
+    {
+        "component": "text",
+        "value": "Primitive data types can hold only one value at a time, whereas composite data types can hold collections of values and more complex entities. Let's discuss each one of them in detail.\n"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "component": "text", 
+        "value": "Exercises:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Write the program that has the variable name as num1 and assign a float value to it ?\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+     
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "var num1=19.3;\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the output of the following program? \n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+             }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "console.log(300/2);\n"
+    },
+    {
+        "component": "text", 
+        "value": "output: 150;\n"
+    },
+    {
+        "component": "text", 
+        "value": " What is the error in the following program?\n",
+        "decoration":{
+            "type":"number",
+            "value": 3
+        }
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "console.lo('2')\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output: TypeError: console.lo is not a function\n"
+    }, 
+    {
+        "component": "text", 
+        "value": "Here our function name is log but we wrote lo. So, it gave an error TypeError.\n"
+    }
+]

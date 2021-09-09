@@ -1,0 +1,111 @@
+[
+    {
+        "component": "header",
+        "variant": "2",
+        "value": "The typeof function\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": " typeof 15;  // Returns: \"number\"\ntypeof (42.7);  // Returns: \"number\"\ntypeof “Nayak”;  // Returns: \"string\"\n"    
+    },
+    {
+        "component": "text",
+        "value": "The typeof operator can be used to find out what type of data a variable or operand contains.\n"
+    },
+    {
+        "component": "text",
+        "value": "The typeof can be used with or without parentheses (typeof(x) or typeof x).\nIn the example given above, the operand contains 15 so it returns the type of that operand i.e., number.\n"
+    },
+    {
+        "component": "text",
+        "value": "The typeof operator is particularly useful in the situations when you need to process the values of different types differently, but you need to be very careful, because it may produce unexpected result in some cases, as demonstrated in the following example:\n"
+    },
+    {
+        "component": "text",
+        "value": "// Null"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof Null;  // Output: \"object\"\n"    
+    },
+    {
+        "component": "text", 
+        "value": "Explanation\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": "As you can clearly see in the above example when we test the null value using the typeof operator , it returns \"object\" instead of \"null\"."
+    },
+    {
+        "component": "text",
+        "value": "This is a long-standing bug in JavaScript, but since lots of codes on the web are written around this behavior, and thus fixing it would create a lot more problems, so the idea of fixing this issue was rejected by the committee that design and maintains JavaScript.\n"
+    },
+    {
+        "component": "text",
+        "value": "// Numbers\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof 15;  // Output: \"number\"\ntypeof 42.7;  // Output: \"number\"\ntypeof 5.5e-6;  // Output: \"number\"\ntypeof Infinity;  // Output: \"number\"\ntypeof NaN;  // Output: \"number\". Despite being \"Not-A-Number\"\n"    
+    }, 
+    {
+        "component": "text",
+        "value": "// Strings\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof '';  // Output: \"string\"\ntypeof 'hello';  // Output: \"string\"\ntypeof '12';  // Output: \"string\". Number within quotes is typeof string\n"    
+    }, 
+    {
+        "component": "text",
+        "value": "// Booleans\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof true;  // Output: \"boolean\"\ntypeof false;  // Output: \"boolean\"\n"    
+    }, 
+    {
+        "component": "text",
+        "value": "// Undefined\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof undefined;  // Output: \"undefined\"\ntypeof undeclaredVariable; // Output: \"undefined\"\n"    
+    },
+    {
+        "component": "text",
+        "value": "// Object\ns"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof {name: \"John\", age: 18};  // Output: \"object\"\n"    
+    },
+    {
+        "component": "text",
+        "value": "// Arrays\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof [1, 2, 4];  // Output: \"object\"\n"    
+    },
+    {
+        "component": "text",
+        "value": "// Functions\n"
+    },
+    {
+        "component": "code",
+        "type": "javascript",
+        "text": "typeof addNumbers(){};  // Output: \"function\";\n"    
+    }
+]
