@@ -1,7 +1,7 @@
 ## Undefined
 
 
-**Exercises:**
+**Exercise:**
 ```javascript
 var a;
 var b = "Hello World!"
