@@ -16,7 +16,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var num1=19.3;\n"
     },
@@ -29,7 +29,7 @@
              }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "console.log(300/2);\n"
     },
@@ -46,7 +46,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "console.lo('2')\n"
     },

@@ -35,7 +35,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a = 10; \nvar b = 12; \nif(b > a){ \n\tconsole.log( b,\" is greater than  \", a  );\n}\n"
     },

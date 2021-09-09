@@ -12,7 +12,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!"
     },

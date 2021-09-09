@@ -12,7 +12,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var empty = null;\nconsole.log(empty); // Output: null\nconsole.log(typeof(empty)); // Output: object\n"
     },
@@ -39,7 +39,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var notDefined;\nconsole.log(notDefined); // Output: undefined\nconsole.log(typeof(notDefined)); // Output: undefined\n"
     },

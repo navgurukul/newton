@@ -4,7 +4,7 @@
         "value": "Please tell output on different value of time variable :-\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "time= 5\ntime=8\ntime=10\n\nvar time = 9;\nif (time >= 5 && time <= 6) {\n\tconsole.log(\"sleep well\");\n}\nelse if (time >= 6 && time <= 7) {\n\tconsole.log(\"Morning Exercise\");\n}\nelse if(time > 7 && time < 8.30){\n\tconsole.log(\"Break+Breakfast\");\n}\nelse if ( time > 8.30 && time < 12){\n\tconsole.log(\"Study\");\n}\n"    
     },

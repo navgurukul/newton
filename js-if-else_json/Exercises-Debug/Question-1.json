@@ -1,6 +1,6 @@
 [
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "let isTrue = \"True\";\nif(isTrue){\n\tconsole.log(\"Output should show\")\n}\nif(isTrue === \"False\"){\n\tconsole.log(\"Both are same\")\n}\nelse {\n\tconsole.log(\"Please run it. if all conditions false\")\n}\n}\n"
     },

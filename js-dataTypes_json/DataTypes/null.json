@@ -20,7 +20,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null"    
     },
@@ -40,7 +40,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var y= null;\nconsole.log(y);\n"
     },
@@ -53,7 +53,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var val = null;\nconsole.log(val);\n"
     },

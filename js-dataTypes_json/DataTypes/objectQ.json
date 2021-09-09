@@ -16,7 +16,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var myDetails={\nfirstName:\"kumar\",\nlastName:\"Nayak\",\nphoneNumber:\"123456789\",\nisHealthy:false\n}\nconsole.log(myDetails);\n"
     },
@@ -29,7 +29,7 @@
              }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var obj1 = { a: 5, b: 6 };\nobj1[\"a\"] =7;\nconsole.log(obj1)\n"
     },
@@ -46,7 +46,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var myObj = { name: \"kumar\", height: 5.4 };\nmyObj[name] =7;\nconsole.log(myObj)\n"
     },

@@ -4,7 +4,7 @@
         "value": "Print  the students\" names according to day?\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var day = \"TUeSday\".toLowerCase();\nif (day == \"monday\") {\n\tconsole.log(\"Dhanwantari\nSiddhiKritika\nSalon\nMayuri\nGauri\");\n}\nelse if (day == \"tuesday\") {\n\tconsole.log(\"Keemaya\nRoshni\nPooja\nPriyanka\nnalini\nManisha\");\n}\nelse if (day == \"wednesday\") {\n\tconsole.log(\"Shrusti\nKaruna\nParveen\nSandhya\nLeena\nKarishma\");\n}\nelse if (day == \"thursday\") {\n\tconsole.log(\"Nikita\nMona\nPriyanka\nTejashree\nLovely\nMehzebin\");\n}\nelse if (day == \"friday\") {\n\tconsole.log(\"Pihu\nSejal\nChaya\nShrestha\nMonali\nAardhangya\");\n}\nelse if (day == \"saturday\") {\n\tconsole.log(\"Gunjan\nShweta\nRani\nIsha\nKusu\nMadhu\n\");\n}\nelse if (day == \"sunday\") {\n\tconsole.log(\"Swati\nKhusboo\nidhi\nPreeti\nDipti\nAnamika\");\n}\nelse {\nconsole.log(\"Please enter valid week day\")\n}\n"
     },

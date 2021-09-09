@@ -15,7 +15,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var num1=5;\nvar num2=6;\nconsole.log(num2>num1);\n"
     },
@@ -28,7 +28,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a = 3;\nvar b = 5;\nconsole.log(b<a);\n"
     },
@@ -45,7 +45,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a = 3;\nvar b = 5;\nconsole.log(!=a);\n"
     },

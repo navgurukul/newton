@@ -12,12 +12,12 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var greet1 = 'Hi Nayak!';  // using single quotes;\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "/var greet2 = \"Hi Nayak!\";  // using double quotes\n"
     },
@@ -75,7 +75,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a = \"I’m going to the classroom\"; // single quote inside double quotes \n"
     },
@@ -84,7 +84,7 @@
         "value": "If you observe the above example, in variable a we have a sentence that is I’m going to the classroom, in this sentence if you see a single quote is there after I ,it won’t create a problem that is not matching with enclosing quotes because enclosing quotes are double quotes.\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var b = 'He said \"bye\" and went out.';  // double quotes inside single quotes\n"
     },
@@ -93,7 +93,7 @@
         "value": "If you observe the above example, in variable b we have a sentence that is He said \"bye\" and went out.  In this sentence if you see a double quote for bye inside a single quote  ,it won’t create a problem that is not matching with enclosing quotes because enclosing quotes are double quotes.\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var c = 'We'll never leave you.';     // escaping single quote with backslash\n"
     },

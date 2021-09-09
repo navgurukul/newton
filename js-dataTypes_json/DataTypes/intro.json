@@ -37,7 +37,7 @@
         "value": "For example, when we write the following line in JS,\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var my_name = 'Shweta';\n"    
     },

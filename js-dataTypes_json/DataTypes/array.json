@@ -25,7 +25,7 @@
         "value": "The simplest way to create an array is by specifying the array elements as a comma-separated list enclosed by square brackets, as shown in the example below:\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var languages = [\"Telugu\", \"Tamil\", \"Kannada\"];\nvar cities = [\"Dharamshala\", \"Bangalore\", \"Pune\"];\nconsole.log(cities[0]);   // Output: Dharamshala\nconsole.log(cities[2]);   // Output: Pune\n"
     },
