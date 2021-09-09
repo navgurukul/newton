@@ -51,6 +51,11 @@
         }
     },
     {
+        "component": "image", 
+        "value": "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2011.28.25%20AM.png",
+        "alt": "Haha Gotcha"
+    },
+    {
         "component": "text",
         "value": "\n\tHere 12 is greater than 10. So, the console will show us the output as 12.\n"
     }
