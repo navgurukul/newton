@@ -6,7 +6,7 @@
     },
     {
         "component": "text", 
-        "value": "Exercise:\n",
+        "value": "Example:\n",
         "decoration":{
           "type":"bold"
         }
