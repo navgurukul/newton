@@ -2,7 +2,7 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "if (condition is true){\n  statement is executed \n}\n"
+        "text": "if (condition is true){\n\tstatement is executed \n}\n"
     },
     {
         "component": "blockquote",
@@ -37,23 +37,21 @@
     {
         "component": "code ",
         "type": "javascript",
-        "text": "var a = 10; \nvar b = 12; \nif(b > a){ \n  console.log( b,' is greater than  ', a  );\n}\n"
+        "text": "var a = 10; \nvar b = 12; \nif(b > a){ \n\tconsole.log( b,\" is greater than  \", a  );\n}\n"
     },
     {
         "component": "text",
         "value": "Output :- 12, is greater than, 10\n"
     },
     {
-        "component": "header",
-        "variant": "3",
-        "value": "Explanation"
+        "component": "text", 
+        "value": "Explanation\n",
+        "decoration":{
+          "type":"bold"
+        }
     },
     {
         "component": "text",
-        "value": ":\n"
-    },
-    {
-        "component": "text",
-        "value": "\tHere 12 is greater than 10. So, the console will show us the output as 12.\n"
+        "value": "\n\tHere 12 is greater than 10. So, the console will show us the output as 12.\n"
     }
 ]

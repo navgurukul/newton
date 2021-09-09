@@ -1,0 +1,11 @@
+[
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var x = 10; \nvar y = 12 \nvar z = 90 \n\nif (x > y){\n\tif (x < z){\n\t\tx = y\n\t}\n\telse{\n\t\tm = z\n\t}\n}\nelse {\n\tif(y > z){\n\t\tm = y\n\t}\n\telse {\n\t\tm = x\n\t}\n}\nconsole.log(m)\n"    
+    },
+    {
+        "component": "text",
+        "value": "output: 10"
+    }
+]

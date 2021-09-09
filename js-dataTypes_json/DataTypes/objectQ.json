@@ -1,0 +1,61 @@
+[
+    {
+        "component": "text", 
+        "value": "Exercises:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Write a program where a variable contains an object related to you with the properties of firstName, lastName, Phone Number, and isHealthy (true or false), and print it on console?\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+     
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var myDetails={\nfirstName:\"kumar\",\nlastName:\"Nayak\",\nphoneNumber:\"123456789\",\nisHealthy:false\n}\nconsole.log(myDetails);\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the output of the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+             }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var obj1 = { a: 5, b: 6 };\nobj1[\"a\"] =7;\nconsole.log(obj1)\n"
+    },
+    {
+        "component": "text", 
+        "value":"Output: { a: 7, b: 6 }\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the error of the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 3
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var myObj = { name: \"kumar\", height: 5.4 };\nmyObj[name] =7;\nconsole.log(myObj)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output:ReferenceError: name is not defined\n"
+    }, 
+    {
+        "component": "text", 
+        "value": "Because the name key we need to give it in strings, otherwise it feels that it is a variable.\n"
+    }
+]

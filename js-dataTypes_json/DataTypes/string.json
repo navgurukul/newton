@@ -1,0 +1,105 @@
+[
+    {
+        "component": "header",
+        "variant": "2",
+        "value": "Strings\n"
+    },  
+    {
+        "component": "text", 
+        "value": "Example:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var greet1 = 'Hi Nayak!';  // using single quotes;\n"
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "/var greet2 = \"Hi Nayak!\";  // using double quotes\n"
+    },
+    {
+        "component": "text", 
+        "value": "In the above example the variable a contains a greeting which is saying\n"
+    },
+    {
+        "component": "text", 
+        "value": "Hi Nayak\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": ", if you see the saying that is actually a\n"
+    },
+    {
+        "component": "text", 
+        "value": "string\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "The string data type is used to represent textual data (i.e. sequences of characters). Strings are created using 'single' or \"double quotes\" surrounding one or more characters, as shown below:\n"
+    },
+    {
+        "component": "text", 
+        "value": "var name='kumar'\nconsole.log(name);\noutput : kumar\n"
+    },
+    {
+        "component": "text", 
+        "value": "output : kumar\n"
+    },
+    {
+        "component": "text", 
+        "value": "var name=\"kumar\"\nconsole.log(name);\n"
+    },
+    {
+        "component": "text", 
+        "value": "output : kumar\n"
+    },
+    {
+        "component": "text", 
+        "value": "You can include quotes inside the string as long as they don't match the enclosing quotes.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var a = \"I’m going to the classroom\"; // single quote inside double quotes \n"
+    },
+    {
+        "component": "text", 
+        "value": "If you observe the above example, in variable a we have a sentence that is I’m going to the classroom, in this sentence if you see a single quote is there after I ,it won’t create a problem that is not matching with enclosing quotes because enclosing quotes are double quotes.\n"
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var b = 'He said \"bye\" and went out.';  // double quotes inside single quotes\n"
+    },
+    {
+        "component": "text", 
+        "value": "If you observe the above example, in variable b we have a sentence that is He said \"bye\" and went out.  In this sentence if you see a double quote for bye inside a single quote  ,it won’t create a problem that is not matching with enclosing quotes because enclosing quotes are double quotes.\n"
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var c = 'We'll never leave you.';     // escaping single quote with backslash\n"
+    },
+    {
+        "component": "text", 
+        "value": "If you observe the above example, if we have single quotes inside single quotes then it will create a problem for you to resolve that issue you need to use an escape sequence.\n"
+    }
+
+]

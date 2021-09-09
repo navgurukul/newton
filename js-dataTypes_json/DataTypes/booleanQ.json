@@ -1,0 +1,60 @@
+[
+    {
+        "component": "text", 
+        "value": "Exercises:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Write a program which will give output True by comparing two variables?\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var num1=5;\nvar num2=6;\nconsole.log(num2>num1);\n"
+    },
+    {
+        "component": "text", 
+        "value": " What is the output of the following program?\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var a = 3;\nvar b = 5;\nconsole.log(b<a);\n"
+    },
+    {
+        "component": "text", 
+        "value": "output : false\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the error in the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 3
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var a = 3;\nvar b = 5;\nconsole.log(!=a);\n"
+    },
+    {
+        "component": "text", 
+        "value": "output:SyntaxError: Unexpected token '!=' \n"
+    }, 
+    {
+        "component": "text", 
+        "value": "Because we need to compare here two variables that means b!=a should be there not !=a.\n"
+    } 
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "component": "header",
+        "variant": "2",
+        "value": "Undefined\n"
+    },
+    {
+        "component": "text", 
+        "value": "Exercises:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!"
+    },
+    {
+        "component": "text", 
+        "value": "variable a is just declared and not assigned any value in it, whenever you will try to print before assigning a vlaue you will get undefined.\n"
+    }, 
+    {
+        "component": "text", 
+        "value": "variable b is declared and assigned a value i.e., Hello World!\n"
+    }, 
+    {
+        "component": "text", 
+        "value": "The\n"
+    }, 
+    {
+        "component": "text", 
+        "value": "undefined\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, has the value undefined.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Exercises:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Write a program that prints undefined when I print with its variable name?\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var z;\nconsole.log(z);\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the output of the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var n;\nconsole.log(n);\n"
+    },
+    {
+        "component": "text", 
+        "value": "output:undefined\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the error in the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 3
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var x=3;\nconsole.log(X);\n"
+    },
+    {
+        "component": "text", 
+        "value": "output: ReferenceError: X is not defined\n"
+    }, 
+    {
+        "component": "text", 
+        "value": "Because X is not defined here, JS is case sensitive so that's this x and this X is different.\n"
+    }  
+]

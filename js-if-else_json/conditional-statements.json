@@ -1,0 +1,33 @@
+[
+    {
+        "component": "blockquote",
+        "value": "Consider the following:\n"
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "let condition = 'Raining'; \nif(condition == 'Raining'){\n\tconsole.log('I will not go to the park');\n}\nelse{\n\tconsole.log('I will go to the park')\n}\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": "\tIf it rains tomorrow I will not go to play in the park, and if it does not rain then I will go to play in the park\n"
+    },
+    {
+        "component": "text", 
+        "value": "Explanation\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text",
+        "value": "\nIn this example, there are two outputs (play in the park, and not play in the park), which depends on a condition which is the rainfall.\n"
+    }
+]

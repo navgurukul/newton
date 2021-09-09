@@ -1,0 +1,11 @@
+[
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var number = 12;\n\nif(Number%3 === 0){\n\tconsole.log(\"choco\")\n}\nelif(number % 7){\n\tconsole.log(\"late\")\n}\nelif(a%3==0 and a%7==0) {\n\tconsole.log(\"Chocolate\")\n}\nelse {\nconsole.log(\"Not divisible by 3 , 7\")\n}\n"
+    },
+    {
+        "component": "text",
+        "value": "Output should show chocolate only when it is divisible by both 3 and 7 and it should not show choco and late to the same number.\n"
+    }
+]

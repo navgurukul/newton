@@ -18,7 +18,7 @@ The typeof operator is particularly useful in the situations when you need to pr
 typeof Null;  // Output: "object"
 ```
 
-**Explanation:   **
+**Explanation:**
 
 As you can clearly see in the above example when we test the null value using the typeof operator , it returns "object" instead of "null".
 This is a long-standing bug in JavaScript, but since lots of codes on the web are written around this behavior, and thus fixing it would create a lot more problems, so the idea of fixing this issue was rejected by the committee that design and maintains JavaScript.

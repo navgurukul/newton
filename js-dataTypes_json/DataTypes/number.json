@@ -1,0 +1,48 @@
+[
+    {
+        "component": "header",
+        "variant": "2",
+        "value": "Number\n"
+    },  
+    {
+        "component": "text", 
+        "value": "Example:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var a = 25;         // positive integer\nvar b = 80.5;       // floating-point number\nvar c = -2;         // negative number\n"
+    },
+    {
+        "component": "text", 
+        "value": "Here in the above we stored a positive number i.e., 25 in a variable named a.\nThe number data type is used to represent positive or negative numbers with or without decimal place.\n"
+    },
+    {
+        "component": "text", 
+        "value": "The Number data type also includes some special values which are: Infinity, -Infinity and NaN. Infinity represents the mathematical Infinity ∞, which is greater than any number. Infinity is the result of dividing a nonzero number by 0, as demonstrated below:\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example:\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "console.log(16 / 0);  // Output: Infinity\nconsole.log(-16 / 0); // Output: -Infinity\nconsole.log(16 / -0); // Output: -Infinity\n"
+    },
+    {
+        "component": "text", 
+        "value": "While NaN represents a special Not-a-Number value. It is a result of an invalid or an undefined mathematical operation, like taking the square root of -1 or dividing 0 by 0, etc\n"
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "console.log(\"Nav Gurukul\" / 2);       // Output: NaN\nconsole.log(\"Dharamshala\" / 2 + 10);  // Output: NaN\nconsole.log(Math.sqrt(-1));         // Output: NaN\n"
+    }
+]

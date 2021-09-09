@@ -1,0 +1,57 @@
+[
+    {
+        "component": "text", 
+        "value": "Exercises\n",
+        "decoration":{
+          "type":"bold"
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Write a program to print an array that will show you output [2,4,6,8] ?\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+     
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var arr1=[2,4,6,8];\nconsole.log(arr1);\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the output of the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+             }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var arr1= [1, 'HI', 3, 12.3];\narr1[1] =4;\nconsole.log(arr1);\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output: [ 1, 4, 3, 12.3 ]\n"
+    },
+    {
+        "component": "text", 
+        "value": "What is the error in the following code?\n",
+        "decoration":{
+            "type":"number",
+            "value": 3
+        }
+    },
+    {
+        "component": "code ",
+        "type": "javascript",
+        "text": "var arr1=var arr1= [\"kumar\", 24, \"Academic Associate\"];\narr1['0'] =\"Nayak\";\nconsole.log(arr1);\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output: There is no error.\n"
+    } 
+]
