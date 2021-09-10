@@ -16,7 +16,7 @@
         "component": "text", 
         "value": "Example:",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -28,14 +28,14 @@
         "component": "text", 
         "value": "Exercises:",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
         "component": "text", 
         "value": "Write a program to print null when I console a variable name is y\n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 1
         }
     },
@@ -48,7 +48,7 @@
         "component": "text", 
         "value": "What is the output of the following code?\n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 2
         }
     },

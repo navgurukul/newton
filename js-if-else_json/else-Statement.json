@@ -7,7 +7,7 @@
         "component": "text", 
         "value": "Example\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -23,7 +23,7 @@
         "component": "text", 
         "value": "Explanation\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -34,7 +34,7 @@
         "component": "text", 
         "value": "Example\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -50,7 +50,7 @@
         "component": "text", 
         "value": "Explanation\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {

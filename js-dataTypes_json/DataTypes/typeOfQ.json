@@ -3,14 +3,14 @@
         "component": "text", 
         "value": "Exercises\n",
         "decoration":{
-        "type":"bold"
+        "type":["bold"]
         }
     },
     {
         "component": "text", 
         "value": "What is the output of the following code? \n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 1
         }
     },
@@ -27,7 +27,7 @@
         "component": "text", 
         "value": "What is the error in the following code?\n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 2
         }
     },

@@ -1,0 +1,204 @@
+[
+    {
+        "component": "header",
+        "variant": "3",
+        "value": "Logical Operator(and ,or ,not ) :- \n"
+    },
+    {
+        "component": "text",
+        "value": "Logical operators are used to combine conditional statements.\nLogical operators are used in any programming language to make decision based on multiple conditions.in python ,we used logical operators to determine whether a condition is True or False by taking operand values as base.let's consider different logical operators that are used in python programming.\n"
+    },
+    {
+        "component": "text",
+        "value": "(logical operators ka use sabhi programmo me kayi condition me decision lene ke liye use kiya jata hai python me hum decision lene ke liye logical operator ka use karte hai ki kya humare operand me lagayi gayi condition True hai ya Fasle hai.)\n"
+    },
+    {
+        "component": "text", 
+        "value": "and :-",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text",
+        "value": " and operator ka istemal hum tab karte hai jab dono condition ko check krwani ho agar dono condition true hogi to output true ayega agr dono me se koi ek bhi condition galat hui to false aayega . kyunki and me dono condition true hone par hi output True aata hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example :-\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    }, 
+    {
+        "component": "code",
+        "type": "python",
+        "text": "a = True\nb=False\nprint(a and b and a)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output :-",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "False",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Example :-\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    }, 
+    {
+        "component": "code",
+        "type": "python",
+        "text": "number = int(input(\"enter the number\"))\nprint(number and 1)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Iss example mai input mai 1 deti hu toh output 1 hoga kuki dono values True hoga\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Iss example mai input mai 0 deti hu toh output 0 hoga kuki ek  value False hoga\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "or :-",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text",
+        "value": "or operator me koi bhi ek condition true hoti hai to output true milta hai isme jaruri nahi hai ki dono conditon sahi ho, isme agar dono condition false ho tabhi output False aati hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example :-\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "a = 4 > 5\na = 899 < 887\nprint(a or a or 7 < 8) \n"
+    },
+    {
+        "component": "text", 
+        "value": "Output :-\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "True\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Example :-\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "x = \"apple\"\ny = \"mango\"\nprint(x or y )\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output :-\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "apple\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "not :-",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text",
+        "value": "not operator ka jab use karte hai tb wo condition ke opposite output dega ,agar condition true hogi to output false ayega or agr false hogi to output true deta hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example :-\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "a = 19\nb = 34\nc = 56\nprint(not c>b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output :-\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "False",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Example :-\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "var1 =True\nprint(not var1)\na =True\nb= False\nprint( a and b or a or not b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output :-\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "True\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    }
+]

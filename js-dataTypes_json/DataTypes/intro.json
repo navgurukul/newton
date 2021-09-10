@@ -3,7 +3,7 @@
         "component": "text", 
         "value": "Data type",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -14,7 +14,7 @@
         "component": "text", 
         "value": "Data",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -25,7 +25,7 @@
         "component": "text", 
         "value": "Type",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -58,7 +58,7 @@
         "component": "text", 
         "value": "six basic data types",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {

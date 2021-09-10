@@ -3,14 +3,14 @@
         "component": "text", 
         "value": "Exercises:\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
         "component": "text", 
         "value": "Write a program that contains a variable name as firstName and assign the value of your first name??\n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 1
      
         }
@@ -24,7 +24,7 @@
         "component": "text", 
         "value": "What is the output of the following code?\n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 2
              }
     },
@@ -41,7 +41,7 @@
         "component": "text", 
         "value": " What is the error in this code?\n",
         "decoration":{
-            "type":"number",
+            "type":["number"],
             "value": 3
         }
     },

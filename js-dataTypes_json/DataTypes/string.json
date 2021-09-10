@@ -8,7 +8,7 @@
         "component": "text", 
         "value": "Example:\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -29,7 +29,7 @@
         "component": "text", 
         "value": "Hi Nayak\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -40,7 +40,7 @@
         "component": "text", 
         "value": "string\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {
@@ -71,7 +71,7 @@
         "component": "text", 
         "value": "Example:\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {

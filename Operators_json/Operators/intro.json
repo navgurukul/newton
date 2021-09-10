@@ -1,0 +1,39 @@
+[
+    {
+        "component": "text",
+        "value": "Operators ka use hum value or variable ke beech operation perform karwane ke liye karte hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "a=6\nb=5\nprint(a+b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Output\n",
+        "decoration":{
+          "type":["bold"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "11\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Iss example me humne a variable or b variable ki value ko add kiya hai operator ki help se.\na and b is a operant + is a operator\na+b=11 is an operation.\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "component": "header",
+        "variant": "3",
+        "value": "TYPE OF OPERATORS\n"
+    },
+    {
+        "component": "text", 
+        "value": "Arithmetic  Operator\n",
+        "decoration":{
+            "type":"number",
+            "value": 1
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Assignment Operators\n",
+        "decoration":{
+            "type":"number",
+            "value": 2
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Comparison Operators\n",
+        "decoration":{
+            "type":"number",
+            "value": 3
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Logical Operators\n",
+        "decoration":{
+            "type":"number",
+            "value": 4
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Identity Operators(will learn later)\n",
+        "decoration":{
+            "type":"number",
+            "value": 5
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Membership Operators(will learn later)\n",
+        "decoration":{
+            "type":"number",
+            "value": 6
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Bitwise Operators(will learn later)\n",
+        "decoration":{
+            "type":"number",
+            "value": 7
+        }
+    }
+]

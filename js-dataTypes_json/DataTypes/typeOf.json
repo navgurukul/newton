@@ -34,7 +34,7 @@
         "component": "text", 
         "value": "Explanation\n",
         "decoration":{
-          "type":"bold"
+          "type":["bold"]
         }
     },
     {

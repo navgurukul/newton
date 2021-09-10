@@ -1,0 +1,302 @@
+[
+    {
+        "component": "header",
+        "variant": "3",
+        "value": "ARITHMETIC OPERATORS\n"
+    },
+
+    {
+        "component": "text",
+        "value": "Arithmetic operators ka use numeric value  ke sath common mathematical  operation karne ke liye use karte hai.\n"
+    },
+    {
+      "component": "text",
+      "value": "| OPERATORS     | NAME | EXAMPLE    |\n| :---        |    :----:   |          ---: |\n| +  | Addition    |  2 + 5  |\n| -   | Subtraction       | x - y     |\n|*  | Multiply        |2 * 5    |\n|/  | Division       | 2 / 5    |\n| %   | Modulus      | 2 % 5  |\n| **  | Exponents      |2 ** 5  |\n| //   | Floor Division      | 2 // 5|\n\n"
+    },
+    {
+        "component": "text", 
+        "value": "Addition :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Additional operate kissi bhi value ko add krne ke liye use hota hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "x=25\ny=10\nprint(x+y)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "35\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Subtraction :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Subtraction operator ek value ko dusri value se gatane  ke liye use krte hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "var1=5\nvar2=3\nprint(var1-var2)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "2\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Multiply :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Multiply operate kiss bhi value ko guna krne ke kaam aata hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "a=2\nb=3\nprint(a*b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "6\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Division :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Divsion operator kissi bhi ek value ko dursi value se divide krne ke kaam aata hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "x=5\ny=2\nprint(x/y)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "2.5\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Division :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Divsion operator kissi bhi ek value ko dursi value se divide krne ke kaam aata hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "x=5\ny=2\nprint(x/y)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "2.5\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Modulus :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Modulus operate kissi bhi ek value ko durse se divide krne ke baad jo reminder aata hai woh result mai deta hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "num=5\nnum1=2\nprint(num%num1)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "1\n",
+        "decoration":{
+          "type":["highlight"]
+        }
+    },
+    {
+        "component": "text", 
+        "value": "Exponents :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text",
+        "value": "Exponents operate kissi bhi ek value ko dusri value ko multiple krta hai.\n"
+    },
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "x=2\ny=5\nprint(x**y)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text",
+        "value": "32\n"
+    },
+    {
+        "component": "text", 
+        "value": "Floor Division :-",
+        "decoration":{
+          "type":["bold"]
+        }
+    },  
+    {
+        "component": "text", 
+        "value": "Example\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "text": "a=15\nb=2\nprint(a//b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "Ouput :-\n",
+        "decoration":{
+          "type":["bold","italic"]
+        }
+    },
+    {
+        "component": "text",
+        "value": "7\n"
+    }
+]
