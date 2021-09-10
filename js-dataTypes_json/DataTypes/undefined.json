@@ -6,10 +6,7 @@
     },
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
@@ -30,10 +27,7 @@
     }, 
     {
         "component": "text", 
-        "value": "undefined\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>undefined</b>\n"
     },
     {
         "component": "text", 
@@ -41,16 +35,13 @@
     },
     {
         "component": "text", 
-        "value": "Exercises:\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Exercises:</b>\n"
     },
     {
         "component": "text", 
         "value": "Write a program that prints undefined when I print with its variable name?\n",
         "decoration":{
-            "type":["number"],
+            "type":"number",
             "value": 1
         }
     },
@@ -63,7 +54,7 @@
         "component": "text", 
         "value": "What is the output of the following code?\n",
         "decoration":{
-            "type":["number"],
+            "type":"number",
             "value": 2
         }
     },
@@ -80,7 +71,7 @@
         "component": "text", 
         "value": "What is the error in the following code?\n",
         "decoration":{
-            "type":["number"],
+            "type":"number",
             "value": 3
         }
     },

@@ -32,10 +32,7 @@
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "text",

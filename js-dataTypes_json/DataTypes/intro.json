@@ -1,10 +1,7 @@
 [
     {
         "component": "text", 
-        "value": "Data type",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Data type</b>"
     },
     {
         "component": "text",
@@ -12,10 +9,7 @@
     },
     {
         "component": "text", 
-        "value": "Data",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Data</b>"
     },
     {
         "component": "text",
@@ -23,10 +17,7 @@
     },
     {
         "component": "text", 
-        "value": "Type",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Type</b>"
     },
     {
         "component": "text",
@@ -56,10 +47,7 @@
     },
     {
         "component": "text", 
-        "value": "six basic data types",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>six basic data types</b>"
     },
     {
         "component": "text",

@@ -14,10 +14,7 @@
     },
     {
         "component": "text", 
-        "value": "and :-",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "and :-"
     },
     {
         "component": "text",
@@ -25,10 +22,7 @@
     },
     {
         "component": "text", 
-        "value": "Example :-\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example :-</b>\n"
     }, 
     {
         "component": "code",
@@ -37,24 +31,15 @@
     },
     {
         "component": "text", 
-        "value": "Output :-",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "False",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "False"
     },
     {
         "component": "text", 
-        "value": "Example :-\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example :-</b>\n"
     }, 
     {
         "component": "code",
@@ -63,24 +48,15 @@
     },
     {
         "component": "text", 
-        "value": "Iss example mai input mai 1 deti hu toh output 1 hoga kuki dono values True hoga\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Iss example mai input mai 1 deti hu toh output 1 hoga kuki dono values True hoga\n"
     },
     {
         "component": "text", 
-        "value": "Iss example mai input mai 0 deti hu toh output 0 hoga kuki ek  value False hoga\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Iss example mai input mai 0 deti hu toh output 0 hoga kuki ek  value False hoga\n"
     },
     {
         "component": "text", 
-        "value": "or :-",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "or :-"
     },
     {
         "component": "text",
@@ -88,10 +64,7 @@
     },
     {
         "component": "text", 
-        "value": "Example :-\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example :-</b>\n"
     },
     {
         "component": "code",
@@ -100,24 +73,15 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "True\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "True\n"
     },
     {
         "component": "text", 
-        "value": "Example :-\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example :-</b>\n"
     },
     {
         "component": "code",
@@ -126,24 +90,15 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "apple\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "apple\n"
     },
     {
         "component": "text", 
-        "value": "not :-",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "not :-"
     },
     {
         "component": "text",
@@ -151,10 +106,7 @@
     },
     {
         "component": "text", 
-        "value": "Example :-\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example :-</b>\n"
     },
     {
         "component": "code",
@@ -163,24 +115,15 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "False",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "False"
     },
     {
         "component": "text", 
-        "value": "Example :-\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example :-</b>\n"
     },
     {
         "component": "code",
@@ -189,16 +132,10 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "True\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "True\n"
     }
 ]

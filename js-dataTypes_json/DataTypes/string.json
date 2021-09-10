@@ -6,10 +6,7 @@
     },  
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
@@ -27,10 +24,7 @@
     },
     {
         "component": "text", 
-        "value": "Hi Nayak\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Hi Nayak</b>\n"
     },
     {
         "component": "text", 
@@ -38,10 +32,7 @@
     },
     {
         "component": "text", 
-        "value": "string\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>string</b>\n"
     },
     {
         "component": "text", 
@@ -69,10 +60,7 @@
     },
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",

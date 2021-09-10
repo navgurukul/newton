@@ -61,7 +61,7 @@
   {
       "component": "image", 
       "value": "https://eyecandyfilmjournal.org/wp-content/uploads/2020/05/bojak-265x198.jpg",
-      "alt": "Bojack"
+      "alt": "Bojack",
       "decoration":{
         "type":"bullet"
       }

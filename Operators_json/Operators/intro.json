@@ -5,10 +5,7 @@
     },
     {
         "component": "text", 
-        "value": "Example\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Example</b>\n"
     },
     {
         "component": "code",
@@ -17,23 +14,14 @@
     },
     {
         "component": "text", 
-        "value": "Output\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Output</b>\n"
     },
     {
         "component": "text", 
-        "value": "11\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "11\n"
     },
     {
         "component": "text", 
-        "value": "Iss example me humne a variable or b variable ki value ko add kiya hai operator ki help se.\na and b is a operant + is a operator\na+b=11 is an operation.\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Iss example me humne a variable or b variable ki value ko add kiya hai operator ki help se.\na and b is a operant + is a operator\na+b=11 is an operation.\n"
     }
 ]

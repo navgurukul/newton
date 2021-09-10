@@ -1,16 +1,13 @@
 [
     {
         "component": "text", 
-        "value": "Exercises:\n",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Exercises:\n</b>"
     },
     {
         "component": "text", 
         "value": "Write the program that has the variable name as num1 and assign a float value to it ?\n",
         "decoration":{
-            "type":["number"],
+            "type":"number",
             "value": 1
      
         }
@@ -24,7 +21,7 @@
         "component": "text", 
         "value": "What is the output of the following program? \n",
         "decoration":{
-            "type":["number"],
+            "type":"number",
             "value": 2
              }
     },
@@ -41,7 +38,7 @@
         "component": "text", 
         "value": " What is the error in the following program?\n",
         "decoration":{
-            "type":["number"],
+            "type":"number",
             "value": 3
         }
     },

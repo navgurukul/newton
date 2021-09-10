@@ -14,10 +14,7 @@
     },
     {
         "component": "text", 
-        "value": "Equal(==):-",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Equal(==):-</b>"
     },  
     {
         "component": "text",
@@ -25,10 +22,7 @@
     },
     {
         "component": "text", 
-        "value": "Example-1 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example-1 :-\n"
     },
     {
         "component": "code",
@@ -37,24 +31,15 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "true\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "true\n"
     },
     {
         "component": "text", 
-        "value": "Example2 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example2 :-\n"
     },
     {
         "component": "code",
@@ -63,24 +48,15 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "false\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "false\n"
     },
     {
         "component": "text", 
-        "value": "Not Equal (!=) :-",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Not Equal (!=) :-</b>"
     },  
     {
         "component": "text",
@@ -88,10 +64,7 @@
     },
     {
         "component": "text", 
-        "value": "Example1 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example1 :-\n"
     },
     {
         "component": "code",
@@ -100,17 +73,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "true\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "true\n"
     },
     {
         "component": "text",
@@ -118,10 +85,7 @@
     },
     {
         "component": "text", 
-        "value": "Example2 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example2 :-\n"
     },
     {
         "component": "code",
@@ -130,31 +94,19 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "false\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "false\n"
     },
     {
         "component": "text", 
-        "value": "Is question me dono value brabar hai lekin humne print me condition di hai ki values brabar nahi hai isliye condition wrong hai to output false hoga kyunki reality me 32 and 32 they both are equal.\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Is question me dono value brabar hai lekin humne print me condition di hai ki values brabar nahi hai isliye condition wrong hai to output false hoga kyunki reality me 32 and 32 they both are equal.\n"
     },
     {
         "component": "text", 
-        "value": "Greater than (>) :-",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Greater than (>) :-</b>"
     },  
     {
         "component": "text",
@@ -162,10 +114,7 @@
     },
     {
         "component": "text", 
-        "value": "Example1 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example1 :-\n"
     },
     {
         "component": "code",
@@ -174,17 +123,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "true\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "true\n"
     },
     {
         "component": "text",
@@ -192,10 +135,7 @@
     },
     {
         "component": "text", 
-        "value": "Example2 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example2 :-\n"
     },
     {
         "component": "code",
@@ -204,17 +144,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "false\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "false\n"
     },
     {
         "component": "text",
@@ -222,10 +156,7 @@
     },
     {
         "component": "text", 
-        "value": "Less than (<):-",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Less than (<):-</b>"
     },  
     {
         "component": "text",
@@ -233,10 +164,7 @@
     },
     {
         "component": "text", 
-        "value": "Example 1:-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example 1:-\n"
     },
     {
         "component": "code",
@@ -245,17 +173,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "true\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "true\n"
     },
     {
         "component": "text",
@@ -263,10 +185,7 @@
     },
     {
         "component": "text", 
-        "value": "Example2 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example2 :-\n"
     },
     {
         "component": "code",
@@ -275,17 +194,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "false\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "false\n"
     },
     {
         "component": "text",
@@ -293,10 +206,7 @@
     },
     {
         "component": "text", 
-        "value": "Greater than or  equal to (>=) :-",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Greater than or  equal to (>=) :-</b>"
     },  
     {
         "component": "text",
@@ -304,10 +214,7 @@
     },
     {
         "component": "text", 
-        "value": "Example 1 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example 1 :-\n"
     },
     {
         "component": "code",
@@ -316,17 +223,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "true\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "true\n"
     },
     {
         "component": "text",
@@ -334,10 +235,7 @@
     },
     {
         "component": "text", 
-        "value": "Example2 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example2 :-\n"
     },
     {
         "component": "code",
@@ -346,10 +244,7 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text",
@@ -361,10 +256,7 @@
     },
     {
         "component": "text", 
-        "value": "Less than or equal to (<=) :-",
-        "decoration":{
-          "type":["bold"]
-        }
+        "value": "<b>Less than or equal to (<=) :-</b>"
     },  
     {
         "component": "text",
@@ -372,10 +264,7 @@
     },
     {
         "component": "text", 
-        "value": "Example 1:-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example 1:-\n"
     },
     {
         "component": "code",
@@ -384,17 +273,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "true\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "true\n"
     },
     {
         "component": "text",
@@ -402,10 +285,7 @@
     },
     {
         "component": "text", 
-        "value": "Example2 :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Example2 :-\n"
     },
     {
         "component": "code",
@@ -414,17 +294,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "false\n",
-        "decoration":{
-          "type":["highlight"]
-        }
+        "value": "false\n"
     },
     {
         "component": "text",
