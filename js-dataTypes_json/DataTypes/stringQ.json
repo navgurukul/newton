@@ -1,10 +1,7 @@
 [
     {
         "component": "text", 
-        "value": "Exercises:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Exercises:</b>\n"
     },
     {
         "component": "text", 
@@ -18,7 +15,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var firsName=\"Nayak\";\n"
+        "title" : "will add later",
+        "value": "var firsName=\"Nayak\";\n"
     },
     {
         "component": "text", 
@@ -31,7 +29,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var b=\"Hello this is my ‘Dell Laptop’ \";\nconsole.log(b);\n"
+        "title" : "will add later",
+        "value": "var b=\"Hello this is my ‘Dell Laptop’ \";\nconsole.log(b);\n"
     },
     {
         "component": "text", 
@@ -48,7 +47,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var b=\"Hello this is my \"Dell Laptop\"\"console.log(b);\n"
+        "title" : "will add later",
+        "value": "var b=\"Hello this is my \"Dell Laptop\"\"console.log(b);\n"
     },
     {
         "component": "text", 

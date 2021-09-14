@@ -6,15 +6,13 @@
     },
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!"
+        "title" : "will add later",
+        "value": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!"
     },
     {
         "component": "text", 
@@ -30,10 +28,7 @@
     }, 
     {
         "component": "text", 
-        "value": "undefined\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>undefined</b>\n"
     },
     {
         "component": "text", 
@@ -41,10 +36,7 @@
     },
     {
         "component": "text", 
-        "value": "Exercises:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Exercises:</b>\n"
     },
     {
         "component": "text", 

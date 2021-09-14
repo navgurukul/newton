@@ -5,10 +5,7 @@
     },
     {
         "component": "text", 
-        "value": "Example\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example</b>\n"
     },
     {
         "component": "code ",
@@ -21,10 +18,7 @@
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "text",
@@ -32,15 +26,13 @@
     },
     {
         "component": "text", 
-        "value": "Example\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var num1= 10; \nvar num2 = 20; \n\nif(num1>num2){\n\tconnsole.log(\"num1 is greater than num2\");\n}\nelse{\n\tconsole.log(\"num2 is greater than num1\");\n}\n"
+        "title" : "will add later",
+        "value": "var num1= 10; \nvar num2 = 20; \n\nif(num1>num2){\n\tconnsole.log(\"num1 is greater than num2\");\n}\nelse{\n\tconsole.log(\"num2 is greater than num1\");\n}\n"
     },
     {
         "component": "text",
@@ -48,10 +40,7 @@
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "text",

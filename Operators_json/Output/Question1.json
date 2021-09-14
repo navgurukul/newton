@@ -1,0 +1,46 @@
+[
+    {
+        "component": "text",
+        "value": "Check the type of the data :-\n"
+    },
+    {
+        "component": "text", 
+        "value": "A.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "a=5\na = a * \"5\"\nprint(type(a))\n"
+    },
+    {
+        "component": "text", 
+        "value": "B.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "var1 = \"nav\"\nvar2 = \"gurukul\"\nprint(type(var1+var2))\n"
+    },
+    {
+        "component": "text", 
+        "value": "C.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "num1=\"7\"\nnum2=\"number\"\nprint(type(num1+num2))\n"
+    },
+    {
+        "component": "text", 
+        "value": "D.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "num=6.8\nnum1=5\nprint(type(num+num1))\n"
+    }
+]

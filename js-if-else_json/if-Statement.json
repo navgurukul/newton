@@ -2,7 +2,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "if (condition is true){\n\tstatement is executed \n}\n"
+        "title" : "will add later",
+        "value": "if (condition is true){\n\tstatement is executed \n}\n"
     },
     {
         "component": "blockquote",
@@ -10,10 +11,7 @@
     },
     {
         "component": "text", 
-        "value": "Note",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Note</b>"
     },
     {
         "component": "text",
@@ -29,15 +27,13 @@
     },
     {
         "component": "text ", 
-        "value": "Example\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = 10; \nvar b = 12; \nif(b > a){ \n\tconsole.log( b,\" is greater than  \", a  );\n}\n"
+        "title" : "will add later",
+        "value": "var a = 10; \nvar b = 12; \nif(b > a){ \n\tconsole.log( b,\" is greater than  \", a  );\n}\n"
     },
     {
         "component": "text",
@@ -45,10 +41,7 @@
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "image", 

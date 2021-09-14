@@ -1,0 +1,61 @@
+[
+    {
+        "component": "header",
+        "variant": "3",
+        "value": "Debug  Code\n"
+    },
+    {
+        "component": "text",
+        "value": "Ab hum dictionary se related code ko debug karenge.\n"
+    },
+    {
+        "component": "text", 
+        "value": "A.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "a = \"Megha\"\nprint a\n"
+    },
+    {
+        "component": "text", 
+        "value": "B.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "a=\"navgurukul\"\nb= 2016\nprint(a+\",\" + b + \"me shuru hua tha\")\n"
+    },
+    {
+        "component": "text", 
+        "value": "C.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "a=\"navgurukul\"\nb=13\nprint(a+b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "D.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "a=\"12\"\nb=13.1\nprint(a+b)\n"
+    },
+    {
+        "component": "text", 
+        "value": "E.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "a = boolean(\"\")\nb = boolean(\" \")\nprint(a+b)\n"
+    }
+]

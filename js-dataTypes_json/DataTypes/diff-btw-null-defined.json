@@ -6,22 +6,17 @@
     },
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var empty = null;\nconsole.log(empty); // Output: null\nconsole.log(typeof(empty)); // Output: object\n"
+        "title" : "will add later",
+        "value": "var empty = null;\nconsole.log(empty); // Output: null\nconsole.log(typeof(empty)); // Output: object\n"
     },
     {
         "component": "text", 
-        "value": "Explanation:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation:</b>\n"
     },
     {
         "component": "text",
@@ -33,22 +28,17 @@
     },
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var notDefined;\nconsole.log(notDefined); // Output: undefined\nconsole.log(typeof(notDefined)); // Output: undefined\n"
+        "title" : "will add later",
+        "value": "var notDefined;\nconsole.log(notDefined); // Output: undefined\nconsole.log(typeof(notDefined)); // Output: undefined\n"
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "text",

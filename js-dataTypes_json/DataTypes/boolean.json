@@ -11,7 +11,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var isStanding = true;   // this means -- yes, I'm standing \nvar isStudying = false; // this means -- no, I'm not studying\n"
+        "title" : "will add later",
+        "value": "var isStanding = true;   // this means -- yes, I'm standing \nvar isStudying = false; // this means -- no, I'm not studying\n"
     },
     {
         "component": "text",
@@ -20,7 +21,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = 2, b = 5, c = 10;\nconsole.log(b > a) // Output: true\nconsole.log(b > c) // Output: false\n"
+        "title" : "will add later",
+        "value": "var a = 2, b = 5, c = 10;\nconsole.log(b > a) // Output: true\nconsole.log(b > c) // Output: false\n"
     },
     {
         "component": "text",

@@ -18,7 +18,7 @@
   },
   {
     "component": "link", 
-    "text": "Things you can build with JavaScript?",
+    "value": "Things you can build with JavaScript?",
     "href": "https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/",
     "decoration":{
       "type":"bullet"
@@ -26,7 +26,7 @@
   },
   {
     "component": "link", 
-    "text": "What are some of the cool projects that I can build using Pure JavaScript?",
+    "value": "What are some of the cool projects that I can build using Pure JavaScript?",
     "href": "https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio",
     "decoration":{
       "type":"bullet"
@@ -61,7 +61,7 @@
   {
       "component": "image", 
       "value": "https://eyecandyfilmjournal.org/wp-content/uploads/2020/05/bojak-265x198.jpg",
-      "alt": "Bojack"
+      "alt": "Bojack",
       "decoration":{
         "type":"bullet"
       }

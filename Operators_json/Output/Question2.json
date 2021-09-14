@@ -1,0 +1,42 @@
+[
+    {
+        "component": "text", 
+        "value": "A.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "print(bool(False))\nprint(bool(None))\nprint(bool(0))\nprint(bool(\"\"))\nprint(bool(1))\n"
+    },
+    {
+        "component": "text", 
+        "value": "B.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "x = 20\ny = 5\nresult = x + True + y - False\nprint(result)\n"
+    },
+    {
+        "component": "text", 
+        "value": "C.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "str3='''Hello'''  \"\"\" \"\"\"+ \"\"\"World\"\"\"\nprint(str3)\n"
+    },
+    {
+        "component": "text", 
+        "value": "D.\n"
+    },
+    {
+        "component": "code",
+        "type": "python",
+        "title" : "will add later",
+        "value": "num=6.8\nprint(num)\nnum=12\nprint(num)\nprint(num + num)\nnum = num + 10\nprint(num)\n"
+    }
+]

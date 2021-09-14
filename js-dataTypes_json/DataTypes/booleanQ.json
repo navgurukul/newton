@@ -1,10 +1,7 @@
 [
     {
         "component": "text", 
-        "value": "Exercises:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Exercises:</b>\n"
     },
     {
         "component": "text", 
@@ -17,7 +14,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var num1=5;\nvar num2=6;\nconsole.log(num2>num1);\n"
+        "title" : "will add later",
+        "value": "var num1=5;\nvar num2=6;\nconsole.log(num2>num1);\n"
     },
     {
         "component": "text", 
@@ -30,7 +28,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = 3;\nvar b = 5;\nconsole.log(b<a);\n"
+        "title" : "will add later",
+        "value": "var a = 3;\nvar b = 5;\nconsole.log(b<a);\n"
     },
     {
         "component": "text", 
@@ -47,7 +46,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = 3;\nvar b = 5;\nconsole.log(!=a);\n"
+        "title" : "will add later",
+        "value": "var a = 3;\nvar b = 5;\nconsole.log(!=a);\n"
     },
     {
         "component": "text", 

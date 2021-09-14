@@ -6,15 +6,13 @@
     },  
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = 25;         // positive integer\nvar b = 80.5;       // floating-point number\nvar c = -2;         // negative number\n"
+        "title" : "will add later",
+        "value": "var a = 25;         // positive integer\nvar b = 80.5;       // floating-point number\nvar c = -2;         // negative number\n"
     },
     {
         "component": "text", 
@@ -26,15 +24,13 @@
     },
     {
         "component": "text", 
-        "value": "Example:\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example:</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "console.log(16 / 0);  // Output: Infinity\nconsole.log(-16 / 0); // Output: -Infinity\nconsole.log(16 / -0); // Output: -Infinity\n"
+        "title" : "will add later",
+        "value": "console.log(16 / 0);  // Output: Infinity\nconsole.log(-16 / 0); // Output: -Infinity\nconsole.log(16 / -0); // Output: -Infinity\n"
     },
     {
         "component": "text", 
@@ -43,6 +39,7 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "console.log(\"Nav Gurukul\" / 2);       // Output: NaN\nconsole.log(\"Dharamshala\" / 2 + 10);  // Output: NaN\nconsole.log(Math.sqrt(-1));         // Output: NaN\n"
+        "title" : "will add later",
+        "value": "console.log(\"Nav Gurukul\" / 2);       // Output: NaN\nconsole.log(\"Dharamshala\" / 2 + 10);  // Output: NaN\nconsole.log(Math.sqrt(-1));         // Output: NaN\n"
     }
 ]

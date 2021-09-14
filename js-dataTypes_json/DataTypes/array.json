@@ -27,7 +27,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var languages = [\"Telugu\", \"Tamil\", \"Kannada\"];\nvar cities = [\"Dharamshala\", \"Bangalore\", \"Pune\"];\nconsole.log(cities[0]);   // Output: Dharamshala\nconsole.log(cities[2]);   // Output: Pune\n"
+        "title" : "will add later",
+        "value": "var languages = [\"Telugu\", \"Tamil\", \"Kannada\"];\nvar cities = [\"Dharamshala\", \"Bangalore\", \"Pune\"];\nconsole.log(cities[0]);   // Output: Dharamshala\nconsole.log(cities[2]);   // Output: Pune\n"
     },
     {
         "component": "text",

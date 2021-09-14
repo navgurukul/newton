@@ -15,7 +15,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var emptyObject = {}; \nvar person = {\"name\": \"Nayak\", \"surname\": \"Kumar\", \"age\": \"24\"}; \n\n // For better reading \nvar scooty = {\"modal\": \"Ampere Rio\",\n\"color\": \"white\",\n\"Speed\": \"35 km\"\n}\n"
+        "title" : "will add later",
+        "value": "var emptyObject = {}; \nvar person = {\"name\": \"Nayak\", \"surname\": \"Kumar\", \"age\": \"24\"}; \n\n // For better reading \nvar scooty = {\"modal\": \"Ampere Rio\",\n\"color\": \"white\",\n\"Speed\": \"35 km\"\n}\n"
     },
     {
         "component": "text", 
@@ -28,7 +29,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var scooty = {modal: \"Ampere Rio\",\ncolour: \"white\",\nSpeed: \"35 km\"\n}\n"
+        "title" : "will add later",
+        "value": "var scooty = {modal: \"Ampere Rio\",\ncolour: \"white\",\nSpeed: \"35 km\"\n}\n"
     }
 
 ]

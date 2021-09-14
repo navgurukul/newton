@@ -1,5 +1,10 @@
 [
   {
+    "component": "banner",
+    "value": "javaScript",
+    "href": "https://res.cloudinary.com/practicaldev/image/fetch/s--sqXFkEvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png"
+  },
+  {
     "component": "text",
     "value": "Before we give you a formal definition of JavaScript, let us show you where JavaScript is used. Chances are, you have already used JavaScript before.\n"
   },
@@ -29,7 +34,7 @@
   },
   {
     "component": "link",
-    "text": "VSCode",
+    "value": "VSCode",
     "href": "https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/"
   },
   {

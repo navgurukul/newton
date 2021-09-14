@@ -1,10 +1,7 @@
 [
     {
         "component": "text", 
-        "value": "Exercises\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Exercises</b>\n"
     },
     {
         "component": "text", 
@@ -18,7 +15,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var arr1=[2,4,6,8];\nconsole.log(arr1);\n"
+        "title" : "will add later",
+        "value": "var arr1=[2,4,6,8];\nconsole.log(arr1);\n"
     },
     {
         "component": "text", 
@@ -31,7 +29,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var arr1= [1, 'HI', 3, 12.3];\narr1[1] =4;\nconsole.log(arr1);\n"
+        "title" : "will add later",
+        "value": "var arr1= [1, 'HI', 3, 12.3];\narr1[1] =4;\nconsole.log(arr1);\n"
     },
     {
         "component": "text", 
@@ -48,7 +47,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var arr1=var arr1= [\"kumar\", 24, \"Academic Associate\"];\narr1['0'] =\"Nayak\";\nconsole.log(arr1);\n"
+        "title" : "will add later",
+        "value": "var arr1=var arr1= [\"kumar\", 24, \"Academic Associate\"];\narr1['0'] =\"Nayak\";\nconsole.log(arr1);\n"
     },
     {
         "component": "text", 

@@ -1,15 +1,13 @@
 [
     {
         "component": "text", 
-        "value": "Example\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example</b>\n"
     },
     {
         "component": "code",
         "type": "javascript",
-        "text": "var course = \"Hindi\"; \nif (course == \"English\"){\n\tconsole.log(\"Tutorial is for English\")}\nelse if (course == \"Hindi\"){\n\tconsole.log(\"Tutorial is for Hindi\")}\nelse {\n\tconsole.log(\"Tutorial is for Javascript\")\n}\n"    
+        "title" : "will add later",
+        "value": "var course = \"Hindi\"; \nif (course == \"English\"){\n\tconsole.log(\"Tutorial is for English\")}\nelse if (course == \"Hindi\"){\n\tconsole.log(\"Tutorial is for Hindi\")}\nelse {\n\tconsole.log(\"Tutorial is for Javascript\")\n}\n"    
     },
     {
         "component": "text",
@@ -17,10 +15,7 @@
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "text",

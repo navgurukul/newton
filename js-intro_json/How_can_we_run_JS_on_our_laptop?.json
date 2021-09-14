@@ -13,7 +13,7 @@
   },
   {
     "component": "link",
-    "text": "Ubuntu",
+    "value": "Ubuntu",
     "href": "https://www.geeksforgeeks.org/installation-of-node-js-on-linux/"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "component": "link",
-    "text": "VSCode",
+    "value": "VSCode",
     "href": "https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/"
   },
   {
@@ -35,7 +35,7 @@
   },
   {
     "component": "link",
-    "text": "link",
+    "value": "link",
     "href": "https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04"
   },
   {
@@ -144,7 +144,7 @@
   },
   {
     "component":"link",
-    "text": "Click Here**",
+    "value": "Click Here**",
     "href": "https://www.merakilearn.org/course/136/exercise/3524",
     "decoration":{
        "type":"number",

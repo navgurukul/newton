@@ -6,14 +6,12 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "let condition = 'Raining'; \nif(condition == 'Raining'){\n\tconsole.log('I will not go to the park');\n}\nelse{\n\tconsole.log('I will go to the park')\n}\n"
+        "title" : "will add later",
+        "value": "let condition = 'Raining'; \nif(condition == 'Raining'){\n\tconsole.log('I will not go to the park');\n}\nelse{\n\tconsole.log('I will go to the park')\n}\n"
     },
     {
         "component": "text", 
-        "value": "Example\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Example</b>\n"
     },
     {
         "component": "text",
@@ -21,10 +19,7 @@
     },
     {
         "component": "text", 
-        "value": "Explanation\n",
-        "decoration":{
-          "type":"bold"
-        }
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "text",
