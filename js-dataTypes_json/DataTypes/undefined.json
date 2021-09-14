@@ -47,7 +47,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var z;\nconsole.log(z);\n"
     },
@@ -60,7 +60,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var n;\nconsole.log(n);\n"
     },
@@ -77,7 +77,7 @@
         }
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var x=3;\nconsole.log(X);\n"
     },
