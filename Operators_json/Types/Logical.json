@@ -143,5 +143,10 @@
     {
         "component": "text", 
         "value": "True\n"
+    },
+    {
+        "component": "image",
+        "value": "https://eycandyfilmjournal.org/wp-content/uploads/200/05/bojak-265x198.jpg",
+        "text": "Help me I'm broken"
     }
 ]

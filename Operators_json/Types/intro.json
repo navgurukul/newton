@@ -1,5 +1,10 @@
 [
     {
+        "component": "banner",
+        "value": "Banner Text",
+        "href": "https://namekdev.net/uploads/2017/04/operators-in-programming-languages.png"
+    },
+    {
         "component": "header",
         "variant": "3",
         "value": "TYPE OF OPERATORS\n"
@@ -59,5 +64,13 @@
             "type":"number",
             "value": 7
         }
+    },
+    {
+        "component": "text",
+        "value": "if you want to know more about operators, you can go throw this video.\n"
+    },
+    {
+        "component": "youtube",
+        "value": "v5MR5JnKcZI"
     }
 ]

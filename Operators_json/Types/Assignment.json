@@ -103,5 +103,10 @@
     {
         "component": "text",
         "value": "Floor division divides the value found in the left hand side with the value of right hand operands. The integer value becomes the left hand operand value.(floor division left hand me milne wali value ko right hand ki value se divide karta hai or decimal ko hata kar us se pehle wali value print karta hai.)\n"
+    },
+    {
+        "component": "image",
+        "value": "https://i.ytimg.com/vi/zIQKbpmdKa4/maxresdefault.jpg",
+        "text": "Assignment operator"
     }
 ]

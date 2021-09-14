@@ -57,5 +57,9 @@
     {
         "component": "text",
         "value": "Primitive data types can hold only one value at a time, whereas composite data types can hold collections of values and more complex entities. Let's discuss each one of them in detail.\n"
+    },
+    {
+        "component": "youtube", 
+        "value": "oKuUSBqv4rg"
     }
 ]
