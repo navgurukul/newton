@@ -19,7 +19,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null"    
+        "title" : "will add later",
+        "value": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null"    
     },
     {
         "component": "text", 
@@ -36,7 +37,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var y= null;\nconsole.log(y);\n"
+        "title" : "will add later",
+        "value": "var y= null;\nconsole.log(y);\n"
     },
     {
         "component": "text", 
@@ -49,7 +51,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var val = null;\nconsole.log(val);\n"
+        "title" : "will add later",
+        "value": "var val = null;\nconsole.log(val);\n"
     },
     {
         "component": "text", 

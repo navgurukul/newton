@@ -27,7 +27,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a = True\nb=False\nprint(a and b and a)\n"
+        "title" : "will add later",
+        "value": "a = True\nb=False\nprint(a and b and a)\n"
     },
     {
         "component": "text", 
@@ -44,7 +45,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "number = int(input(\"enter the number\"))\nprint(number and 1)\n"
+        "title" : "will add later",
+        "value": "number = int(input(\"enter the number\"))\nprint(number and 1)\n"
     },
     {
         "component": "text", 
@@ -69,7 +71,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a = 4 > 5\na = 899 < 887\nprint(a or a or 7 < 8) \n"
+        "title" : "will add later",
+        "value": "a = 4 > 5\na = 899 < 887\nprint(a or a or 7 < 8) \n"
     },
     {
         "component": "text", 
@@ -86,7 +89,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "x = \"apple\"\ny = \"mango\"\nprint(x or y )\n"
+        "title" : "will add later",
+        "value": "x = \"apple\"\ny = \"mango\"\nprint(x or y )\n"
     },
     {
         "component": "text", 
@@ -111,7 +115,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a = 19\nb = 34\nc = 56\nprint(not c>b)\n"
+        "title" : "will add later",
+        "value": "a = 19\nb = 34\nc = 56\nprint(not c>b)\n"
     },
     {
         "component": "text", 
@@ -128,7 +133,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "var1 =True\nprint(not var1)\na =True\nb= False\nprint( a and b or a or not b)\n"
+        "title" : "will add later",
+        "value": "var1 =True\nprint(not var1)\na =True\nb= False\nprint( a and b or a or not b)\n"
     },
     {
         "component": "text", 

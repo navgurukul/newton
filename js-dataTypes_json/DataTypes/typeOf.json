@@ -7,7 +7,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": " typeof 15;  // Returns: \"number\"\ntypeof (42.7);  // Returns: \"number\"\ntypeof “Nayak”;  // Returns: \"string\"\n"    
+        "title" : "will add later",
+        "value": " typeof 15;  // Returns: \"number\"\ntypeof (42.7);  // Returns: \"number\"\ntypeof “Nayak”;  // Returns: \"string\"\n"    
     },
     {
         "component": "text",
@@ -28,7 +29,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof Null;  // Output: \"object\"\n"    
+        "title" : "will add later",
+        "value": "typeof Null;  // Output: \"object\"\n"    
     },
     {
         "component": "text", 
@@ -49,7 +51,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof 15;  // Output: \"number\"\ntypeof 42.7;  // Output: \"number\"\ntypeof 5.5e-6;  // Output: \"number\"\ntypeof Infinity;  // Output: \"number\"\ntypeof NaN;  // Output: \"number\". Despite being \"Not-A-Number\"\n"    
+        "title" : "will add later",
+        "value": "typeof 15;  // Output: \"number\"\ntypeof 42.7;  // Output: \"number\"\ntypeof 5.5e-6;  // Output: \"number\"\ntypeof Infinity;  // Output: \"number\"\ntypeof NaN;  // Output: \"number\". Despite being \"Not-A-Number\"\n"    
     }, 
     {
         "component": "text",
@@ -58,7 +61,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof '';  // Output: \"string\"\ntypeof 'hello';  // Output: \"string\"\ntypeof '12';  // Output: \"string\". Number within quotes is typeof string\n"    
+        "title" : "will add later",
+        "value": "typeof '';  // Output: \"string\"\ntypeof 'hello';  // Output: \"string\"\ntypeof '12';  // Output: \"string\". Number within quotes is typeof string\n"    
     }, 
     {
         "component": "text",
@@ -67,7 +71,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof true;  // Output: \"boolean\"\ntypeof false;  // Output: \"boolean\"\n"    
+        "title" : "will add later",
+        "value": "typeof true;  // Output: \"boolean\"\ntypeof false;  // Output: \"boolean\"\n"    
     }, 
     {
         "component": "text",
@@ -76,7 +81,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof undefined;  // Output: \"undefined\"\ntypeof undeclaredVariable; // Output: \"undefined\"\n"    
+        "title" : "will add later",
+        "value": "typeof undefined;  // Output: \"undefined\"\ntypeof undeclaredVariable; // Output: \"undefined\"\n"    
     },
     {
         "component": "text",
@@ -85,7 +91,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof {name: \"John\", age: 18};  // Output: \"object\"\n"    
+        "title" : "will add later",
+        "value": "typeof {name: \"John\", age: 18};  // Output: \"object\"\n"    
     },
     {
         "component": "text",
@@ -94,7 +101,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof [1, 2, 4];  // Output: \"object\"\n"    
+        "title" : "will add later",
+        "value": "typeof [1, 2, 4];  // Output: \"object\"\n"    
     },
     {
         "component": "text",
@@ -103,6 +111,7 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "typeof addNumbers(){};  // Output: \"function\";\n"    
+        "title" : "will add later",
+        "value": "typeof addNumbers(){};  // Output: \"function\";\n"    
     }
 ]

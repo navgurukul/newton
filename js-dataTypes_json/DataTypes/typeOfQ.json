@@ -14,7 +14,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "console.log(typeof “Navgurukul”); \nconsole.log(typeof {name: \"Shweta\", age: 118});\nconsole.log(typeof [1, 2, 4]); console.log(typeof function(){});\n"
+        "title" : "will add later",
+        "value": "console.log(typeof “Navgurukul”); \nconsole.log(typeof {name: \"Shweta\", age: 118});\nconsole.log(typeof [1, 2, 4]); console.log(typeof function(){});\n"
     },
     {
         "component": "text", 
@@ -31,7 +32,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "console.log(typeOf {name: \"Shweta\", age: 18});\n"
+        "title" : "will add later",
+        "value": "console.log(typeOf {name: \"Shweta\", age: 18});\n"
     },
     {
         "component": "text", 

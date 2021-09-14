@@ -2,7 +2,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "if (condition is true){\n\tstatement is executed \n}\n"
+        "title" : "will add later",
+        "value": "if (condition is true){\n\tstatement is executed \n}\n"
     },
     {
         "component": "blockquote",
@@ -31,7 +32,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var a = 10; \nvar b = 12; \nif(b > a){ \n\tconsole.log( b,\" is greater than  \", a  );\n}\n"
+        "title" : "will add later",
+        "value": "var a = 10; \nvar b = 12; \nif(b > a){ \n\tconsole.log( b,\" is greater than  \", a  );\n}\n"
     },
     {
         "component": "text",

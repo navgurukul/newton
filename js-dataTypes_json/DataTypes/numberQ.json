@@ -15,7 +15,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var num1=19.3;\n"
+        "title" : "will add later",
+        "value": "var num1=19.3;\n"
     },
     {
         "component": "text", 
@@ -28,7 +29,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "console.log(300/2);\n"
+        "title" : "will add later",
+        "value": "console.log(300/2);\n"
     },
     {
         "component": "text", 
@@ -45,7 +47,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "console.lo('2')\n"
+        "title" : "will add later",
+        "value": "console.lo('2')\n"
     },
     {
         "component": "text", 

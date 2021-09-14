@@ -10,7 +10,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=5\na = a * \"5\"\nprint(type(a))\n"
+        "title" : "will add later",
+        "value": "a=5\na = a * \"5\"\nprint(type(a))\n"
     },
     {
         "component": "text", 
@@ -19,7 +20,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "var1 = \"nav\"\nvar2 = \"gurukul\"\nprint(type(var1+var2))\n"
+        "title" : "will add later",
+        "value": "var1 = \"nav\"\nvar2 = \"gurukul\"\nprint(type(var1+var2))\n"
     },
     {
         "component": "text", 
@@ -28,7 +30,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "num1=\"7\"\nnum2=\"number\"\nprint(type(num1+num2))\n"
+        "title" : "will add later",
+        "value": "num1=\"7\"\nnum2=\"number\"\nprint(type(num1+num2))\n"
     },
     {
         "component": "text", 
@@ -37,6 +40,7 @@
     {
         "component": "code",
         "type": "python",
-        "text": "num=6.8\nnum1=5\nprint(type(num+num1))\n"
+        "title" : "will add later",
+        "value": "num=6.8\nnum1=5\nprint(type(num+num1))\n"
     }
 ]

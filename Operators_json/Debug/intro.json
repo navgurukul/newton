@@ -15,7 +15,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a = \"Megha\"\nprint a\n"
+        "title" : "will add later",
+        "value": "a = \"Megha\"\nprint a\n"
     },
     {
         "component": "text", 
@@ -24,7 +25,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=\"navgurukul\"\nb= 2016\nprint(a+\",\" + b + \"me shuru hua tha\")\n"
+        "title" : "will add later",
+        "value": "a=\"navgurukul\"\nb= 2016\nprint(a+\",\" + b + \"me shuru hua tha\")\n"
     },
     {
         "component": "text", 
@@ -33,7 +35,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=\"navgurukul\"\nb=13\nprint(a+b)\n"
+        "title" : "will add later",
+        "value": "a=\"navgurukul\"\nb=13\nprint(a+b)\n"
     },
     {
         "component": "text", 
@@ -42,7 +45,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=\"12\"\nb=13.1\nprint(a+b)\n"
+        "title" : "will add later",
+        "value": "a=\"12\"\nb=13.1\nprint(a+b)\n"
     },
     {
         "component": "text", 
@@ -51,6 +55,7 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a = boolean(\"\")\nb = boolean(\" \")\nprint(a+b)\n"
+        "title" : "will add later",
+        "value": "a = boolean(\"\")\nb = boolean(\" \")\nprint(a+b)\n"
     }
 ]

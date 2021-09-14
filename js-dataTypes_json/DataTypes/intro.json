@@ -30,7 +30,8 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var my_name = 'Shweta';\n"    
+        "title" : "will add later",
+        "value": "var my_name = 'Shweta';\n"    
     },
     {
         "component": "text",

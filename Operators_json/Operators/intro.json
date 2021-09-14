@@ -10,7 +10,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=6\nb=5\nprint(a+b)\n"
+        "title" : "will add later",
+        "value": "a=6\nb=5\nprint(a+b)\n"
     },
     {
         "component": "text", 

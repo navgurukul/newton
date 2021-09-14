@@ -9,8 +9,42 @@
         "value": "Comparison operators ka use hum do values me tulna krne ke liye use krte hai.\n"
     },
     {
-      "component": "text",
-      "value": "| OPERATORS |           NAME            |  EXAMPLE |\n| :-------- | :-----------------------: | -------: |\n| ==        |           Equal           | 10 == 10 |\n| !=        |         Not Equal         | 10 != 13 |\n| >         |       Greater than        |    2 < 5 |\n| <         |         Less than         |    2 < 5 |\n| >=        | Greater than or  equal to |   2 <= 5 |\n| <=        |   Less than or equal to   |   2 <= 5 |\n\n"
+        "type":"table",
+        "value":[
+           {
+              "header":"OPERATORS",
+              "items":[
+                 "==",
+                 "!=",
+                 ">",
+                 "<",
+                 ">=",
+                 "<="
+              ]
+           },
+           {
+              "header":"NAME",
+              "items":[
+                 "Equal",
+                 "Not Equal",
+                 "Greater than",
+                 "Less than",
+                 "Greater than or  equal to",
+                 "Less than or equal to"
+              ]
+           },
+           {
+              "header":"EXAMPLE",
+              "items":[
+                 "10 == 10",
+                 "10 != 13",
+                 "2 < 5",
+                 "2 < 5",
+                 "2 <= 5",
+                 "2 <= 5"
+              ]
+           }
+        ]
     },
     {
         "component": "text", 
@@ -27,7 +61,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=5\nb=5\nprint(a==b)\n"
+        "title" : "will add later",
+        "value": "a=5\nb=5\nprint(a==b)\n"
     },
     {
         "component": "text", 
@@ -44,7 +79,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=6\nb=9\nprint(a==b)\n"
+        "title" : "will add later",
+        "value": "a=6\nb=9\nprint(a==b)\n"
     },
     {
         "component": "text", 
@@ -69,7 +105,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "x=10\ny=13\nprint(x!=y)\n"
+        "title" : "will add later",
+        "value": "x=10\ny=13\nprint(x!=y)\n"
     },
     {
         "component": "text", 
@@ -90,7 +127,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=32\nb=32\nprint(a!=b)\n"
+        "title" : "will add later",
+        "value": "a=32\nb=32\nprint(a!=b)\n"
     },
     {
         "component": "text", 
@@ -119,7 +157,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=6\nb=4\nprint(a>b) \n"
+        "title" : "will add later",
+        "value": "a=6\nb=4\nprint(a>b) \n"
     },
     {
         "component": "text", 
@@ -140,7 +179,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "x=7\ny=9\nprint(x>y)\n"
+        "title" : "will add later",
+        "value": "x=7\ny=9\nprint(x>y)\n"
     },
     {
         "component": "text", 
@@ -169,7 +209,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "x=6\ny=9\nprint(x<y)\n"
+        "title" : "will add later",
+        "value": "x=6\ny=9\nprint(x<y)\n"
     },
     {
         "component": "text", 
@@ -190,7 +231,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=13\nb=10\nprint(a<b)\n"
+        "title" : "will add later",
+        "value": "a=13\nb=10\nprint(a<b)\n"
     },
     {
         "component": "text", 
@@ -219,7 +261,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=23\nb=15\nprint(a>=b)\n"
+        "title" : "will add later",
+        "value": "a=23\nb=15\nprint(a>=b)\n"
     },
     {
         "component": "text", 
@@ -240,7 +283,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "a=12\nb=35\nprint(a>=b)\n"
+        "title" : "will add later",
+        "value": "a=12\nb=35\nprint(a>=b)\n"
     },
     {
         "component": "text", 
@@ -269,7 +313,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "x=6\ny=9\nprint(x<=y)\n"
+        "title" : "will add later",
+        "value": "x=6\ny=9\nprint(x<=y)\n"
     },
     {
         "component": "text", 
@@ -290,7 +335,8 @@
     {
         "component": "code",
         "type": "python",
-        "text": "x=8\ny=6\nprint(x<=y)\n"
+        "title" : "will add later",
+        "value": "x=8\ny=6\nprint(x<=y)\n"
     },
     {
         "component": "text", 
