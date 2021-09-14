@@ -9,7 +9,7 @@
         "value": "Comparison operators ka use hum do values me tulna krne ke liye use krte hai.\n"
     },
     {
-        "type":"table",
+        "component":"table",
         "value":[
            {
               "header":"OPERATORS",
