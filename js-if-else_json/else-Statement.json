@@ -8,7 +8,7 @@
         "value": "<b>Example</b>\n"
     },
     {
-        "component": "code ",
+        "component": "code",
         "type": "javascript",
         "text": "var a = 10; \nvar b = 12; \nif(a > b){ \n\tconsole.log(a,\" is greater than \",b);\n}\nelse {\n\tconsole.log(b,\" is greater than \" ,a);\n}\n"    
     },
