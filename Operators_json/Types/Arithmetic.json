@@ -10,7 +10,7 @@
         "value": "Arithmetic operators ka use numeric value  ke sath common mathematical  operation karne ke liye use karte hai.\n"
     },
     {
-        "type":"table",
+        "component":"table",
         "value":[
            {
               "header":"OPERATORS",
