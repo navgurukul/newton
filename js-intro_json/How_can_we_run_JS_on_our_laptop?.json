@@ -1,86 +1,86 @@
 [
   {
     "component": "text",
-    "value": "You will need to install Node to run JS on your laptop. Without Node we can not run our js code on our laptop. Node js is an environment to run javascript code outside a web browser. Like in our laptops. Here are instruction on how to install Node in Windows."
+    "value": "You will need to install Node to run JS on your laptop. Without Node we can not run our js code on our laptop. Node js is an environment to run javascript code outside a web browser. Like in our laptops. Here are instruction on how to install Node in Windows.\n"
   },
   {
     "component": "youtube",
-    "value": "gHuIKptS0Qg"
+    "value": "gHuIKptS0Qg\n"
   },
   {
     "component": "text",
-    "value": "Here are the instructions on how to install Node in"
+    "value": "Here are the instructions on how to install Node in\n"
   },
   {
     "component": "link",
     "value": "Ubuntu",
-    "href": "https://www.geeksforgeeks.org/installation-of-node-js-on-linux/"
+    "href": "https://www.geeksforgeeks.org/installation-of-node-js-on-linux/\n"
   },
   {
     "component": "text",
-    "value": "You probably already have Visual Studio installed.If not installed please install you can follow these instructions given here.  "
+    "value": "You probably already have Visual Studio installed.If not installed please install you can follow these instructions given here.\n"
   },
   {
     "component": "text",
-    "value": "Please follow this link"
+    "value": "Please follow this link\n"
   },
   {
     "component": "link",
     "value": "VSCode",
-    "href": "https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/"
+    "href": "https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/\n"
   },
   {
     "component": "text",
-    "value": "To run javascript in vscode you need to install a node to do that. Follow this "
+    "value": "To run javascript in vscode you need to install a node to do that. Follow this\n"
   },
   {
     "component": "link",
     "value": "link",
-    "href": "https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04"
+    "href": "https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04\n"
   },
   {
     "component": "text",
-    "value": "  node follow option1 in the file."
+    "value": "  node follow option1 in the file.\n"
   },
   {
     "component":"text",
-    "value": "sudo apt update",
+    "value": "sudo apt update\n",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "sudo apt install nodejs",
+    "value": "sudo apt install nodejs\n",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "nodejs -v",
+    "value": "nodejs -v\n",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "sudo apt install npm",
+    "value": "sudo apt install npm\n",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component": "text",
-    "value": "After installing these commands you will get a node in your laptop and npm in your laptop."
+    "value": "After installing these commands you will get a node in your laptop and npm in your laptop.\n"
   },
   {
     "component": "text",
-    "value": "  Steps to write in code in vs code :"
+    "value": "  Steps to write in code in vs code :\n"
   },
   {
     "component":"text",
-    "value": "Open vs code editor.",
+    "value": "Open vs code editor.\n",
     "decoration":{
        "type":"number",
        "value": 1
@@ -88,7 +88,7 @@
   },
   {
     "component":"text",
-    "value": "Make hello.js file.",
+    "value": "Make hello.js file.\n",
     "decoration":{
        "type":"number",
        "value": 2
@@ -96,7 +96,7 @@
   },
   {
     "component":"text",
-    "value": "nodejs -v",
+    "value": "nodejs -v\n",
     "decoration":{
        "type":"number",
        "value": 3
@@ -104,7 +104,7 @@
   },
   {
     "component":"text",
-    "value": "paste the below code in hello.js `console.log('Hello JS')`",
+    "value": "paste the below code in hello.js `console.log('Hello JS')\n",
     "decoration":{
       "type":"number",
        "value": 4
@@ -112,7 +112,7 @@
   },
   {
     "component":"text",
-    "value": "Press 'control' + 'shift'+ 'tilt'(~) on your keyboard. It will show the terminal in vs code.",
+    "value": "Press 'control' + 'shift'+ 'tilt'(~) on your keyboard. It will show the terminal in vs code.\n",
     "decoration":{
        "type":"number",
        "value": 5
@@ -120,7 +120,7 @@
   },
   {
     "component":"text",
-    "value": "Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** on the screen.",
+    "value": "Execute this file (js file) by typing **node hello.js** and you will see **Hello JS** on the screen.\n",
     "decoration":{
        "type":"number",
        "value": 6
@@ -128,7 +128,7 @@
   },
   {
     "component":"text",
-    "value": "Successfully you created a file and ran it, happy coding.",
+    "value": "Successfully you created a file and ran it, happy coding.\n",
     "decoration":{
        "type":"number",
        "value": 7
@@ -136,7 +136,7 @@
   },
   {
     "component":"text",
-    "value": "**For the next course ",
+    "value": "**For the next course \n",
     "decoration":{
        "type":"number",
        "value": 8
@@ -144,7 +144,7 @@
   },
   {
     "component":"link",
-    "value": "Click Here**",
+    "value": "Click Here**\n",
     "href": "https://www.merakilearn.org/course/136/exercise/3524",
     "decoration":{
        "type":"number",

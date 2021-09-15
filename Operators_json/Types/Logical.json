@@ -32,11 +32,11 @@
     },
     {
         "component": "text", 
-        "value": "Output :-"
+        "value": "Output :-\n"
     },
     {
         "component": "text", 
-        "value": "False"
+        "value": "False\n"
     },
     {
         "component": "text", 
@@ -124,7 +124,7 @@
     },
     {
         "component": "text", 
-        "value": "False"
+        "value": "False\n"
     },
     {
         "component": "text", 
