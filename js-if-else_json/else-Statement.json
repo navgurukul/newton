@@ -10,6 +10,7 @@
     {
         "component": "code",
         "type": "javascript",
+        "title" : "will add later",
         "text": "var a = 10; \nvar b = 12; \nif(a > b){ \n\tconsole.log(a,\" is greater than \",b);\n}\nelse {\n\tconsole.log(b,\" is greater than \" ,a);\n}\n"    
     },
     {
@@ -40,7 +41,7 @@
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b>"
+        "value": "<b>Explanation</b>\n"
     },
     {
         "component": "text",

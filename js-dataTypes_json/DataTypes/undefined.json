@@ -12,7 +12,7 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!"
+        "value": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!\n"
     },
     {
         "component": "text", 

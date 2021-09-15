@@ -31,11 +31,11 @@
   },
   {
     "component": "text",
-    "value": "Please follow this link"
+    "value": "Please follow this link\n"
   },
   {
     "component": "link",
-    "value": "VSCode",
+    "value": "VSCode\n",
     "href": "https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/"
   },
   {
@@ -44,21 +44,21 @@
   },
   {
     "component":"text",
-    "value": "High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.",
+    "value": "High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.\n",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also.",
+    "value": "Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also.\n",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it.",
+    "value": "Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it.\n",
     "decoration":{
        "type":"bullet"
     }

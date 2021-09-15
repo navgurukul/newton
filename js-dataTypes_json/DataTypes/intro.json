@@ -39,7 +39,7 @@
     },
     {
         "component": "image",
-        "value": "https://eycandyfilmjournal.org/wp-content/uploads/200/05/bojak-265x198.jpg",
+        "value": "https://eycandyfilmjournal.org/wp-content/uploads/200/05/bojak-265x198.jpg\n",
         "alt": "Help me I'm broken"
     },
     {
@@ -53,6 +53,161 @@
     {
         "component": "text",
         "value": "in JavaScript which can be divided into three main categories: primitive (or primary), composite, and special data types. String, Number, and Boolean are primitive data types. Object, Array, and Function (which are all types of objects) are composite data types. Whereas Undefined and Null are special data types.\n"
+    },
+    {
+        "component":"table",
+        "value":[
+            {
+                "header":"Name",
+                "items":[
+                    "Muskan",
+                    "Manisha",
+                    "Sarika",
+                    "Roshni",
+                    "Saquib",
+                    "Krithiv",
+                    "Anand",
+                    "Komal",
+                    "Tannu",
+                    "Rohit"
+                ]
+            },
+            {
+                "header":"Company",
+                "items":[
+                    "SwipeWire",
+                    "SecureSmarter.",
+                    "Dwellsmith",
+                    "SalePush",
+                    "Formonix",
+                    "Brandiing",
+                    "Cloudrevel",
+                    "Seekingon",
+                    "Medicing",
+                    "Crowdstage"
+                ]
+            },
+            {
+                "header":"Richest People",
+                "items":[
+                    "Jeff Bezos",
+                    "Elon Musk",
+                    "Bernard Arnault",
+                    "Bill Gates",
+                    "Mark Zuckerberg",
+                    "Warren Buffett",
+                    "Larry Ellison",
+                    "Larry Page",
+                    "Sergey Brin",
+                    "Mukesh Ambani"
+                ]
+            },
+            {
+                "header":"Best Programmers",
+                "items":[
+                    "Dennis Ritchie",
+                    "Bjarne Stroustrup",
+                    "James Gosling",
+                    "Linus Torvalds",
+                    "Anders Hejlsberg",
+                    "Tim Berners-Lee",
+                    "Brian Kernighan",
+                    "Ken Thompson",
+                    "Guido van Rossum",
+                    "Donald Knuth"
+                ]
+            },
+            {
+                "header":"Scientists",
+                "items":[
+                    "Albert Einstein",
+                    "Marie Curie",
+                    "Isaac Newton",
+                    "Charles Darwin",
+                    "Nikola Tesla",
+                    "Galileo Galilei",
+                    "Ada Lovelace",
+                    "Carl Linnaeus",
+                    "Rosalind Franklin",
+                    "Pythagoras"
+                ]
+            },
+            {
+                "header":"Sports",
+                "items":[
+                    "Soccer / Association football",
+                    "Cricket",
+                    "Field Hockey",
+                    "Tennis",
+                    "Volleyball",
+                    "Table Tennis",
+                    "Baseball",
+                    "Golf",
+                    "Basketball",
+                    "NFL"
+                ]
+            },
+            {
+                "header":"Notable revolutionaries",
+                "items":[
+                    "Surya Sen",
+                    "Ananta Singh",
+                    "Sri Aurobindo Ghosh",
+                    "Rash Behari Bose",
+                    "Barindra Kumar Ghosh",
+                    "Bhupendranath Datta",
+                    "Bhagwati Charan Vohra",
+                    "Chandra Shekhar Azad",
+                    "Roshan Singh",
+                    "Rajendra Lahiri"
+                ]
+            },
+            {
+                "header":"Novels",
+                "items":[
+                    "Anna Karenina",
+                    "To Kill a Mockingbird",
+                    "The Great Gatsby",
+                    "One Hundred Years of Solitude",
+                    "A Passage to India",
+                    "",
+                    "Don Quixote",
+                    "Beloved",
+                    "Scotland Street",
+                    "Early in Orcadia"
+                ]
+            },
+            {
+                "header":"Fruits Name",
+                "items":[
+                    "Apple",
+                    "Mango",
+                    "Banana",
+                    "Papaya",
+                    "Guava",
+                    "Orange",
+                    "Pineapple",
+                    "Watermelon",
+                    "Mango",
+                    "Pear"
+                ]
+            },
+            {
+                "header":"Animals name",
+                "items":[
+                    "Lion",
+                    "Ox",
+                    "",
+                    "Monkey",
+                    "Tiger",
+                    "Cow",
+                    "Fox",
+                    "Cat",
+                    "Dog",
+                    "Horse"
+                ]
+           }
+        ]
     },
     {
         "component": "text",

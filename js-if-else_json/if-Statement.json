@@ -26,7 +26,7 @@
         "value": "Let us see some more examples.\n"
     },
     {
-        "component": "text ", 
+        "component": "text", 
         "value": "<b>Example</b>\n"
     },
     {
@@ -45,7 +45,7 @@
     },
     {
         "component": "image", 
-        "value": "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2011.28.25%20AM.png",
+        "value": "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2011.28.25%20AM.png\n",
         "alt": "Haha Gotcha"
     },
     {

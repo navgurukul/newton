@@ -20,7 +20,7 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null"    
+        "value": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null\n"    
     },
     {
         "component": "text", 
