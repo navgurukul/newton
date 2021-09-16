@@ -7,7 +7,7 @@
     },
     {
         "component":"banner",
-        "title(optional)":"Do you have an external keyboad",
+        "title":"Do you have an external keyboad",
         "text":"You can start practicing now",
         "actions":[
            {
