@@ -4,6 +4,18 @@
         "value": "Consider the following:\n"
     },
     {
+        "component":"banner",
+        "title":"I dont have an external keyboad",
+        "text":"You can start practicing now",
+        "actions":[
+           {
+              "url":"https://merakilearn.org/typing",
+              "label":"Some Label",
+              "data":"{\"content\":[\"s\",\"l\"],\"code\":\"trytyping\"}"
+           }
+        ]
+    },
+    {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",

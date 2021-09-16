@@ -18,6 +18,17 @@
         "value": "<b>Explanation</b>\n"
     },
     {
+        "component":"banner",
+        "text":"hey! are you good?",
+        "actions":[
+           {
+              "url":"https://merakilearn.org/typing",
+              "label":"Some Label",
+              "data":"{\"content\":[\"s\",\"l\"],\"code\":\"trytyping\"}"
+           }
+        ]
+    },
+    {
         "component": "text",
         "value": "\tif the course is equal to English, output “Tutorial is for English”.else if the \n\tcourse is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above \n\tcondition is true, then output “Tutorial is forJavascript”\n"
     },
