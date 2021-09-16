@@ -26,17 +26,6 @@
         "value": "\tIn this example if a condition is false. So, else statement will execute \n"
     },
     {
-        "component":"banner",
-        "text":"I wannna start practicing now",
-        "actions":[
-           {
-              "url":"https://merakilearn.org/typing",
-              "label":"Some Label",
-              "data":"{\"content\":[\"s\",\"l\"],\"code\":\"trytyping\"}"
-           }
-        ]
-    },
-    {
         "component": "text", 
         "value": "<b>Example</b>\n"
     },
