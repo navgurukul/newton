@@ -6,8 +6,20 @@
         "value": "if (condition is true){\n\tstatement is executed \n}\n"
     },
     {
+        "component":"banner",
+        "title":"Do you have an external keyboad",
+        "text":"You can start practicing now",
+        "actions":[
+           {
+              "url":"https://merakilearn.org/typing",
+              "label":"Some Label",
+              "data":"{\"content\":[\"s\",\"l\"],\"code\":\"trytyping\"}"
+           }
+        ]
+    }, 
+    {
         "component": "blockquote",
-        "value": " If you want to run a piece of code, based on a certain condition, then you should use the if statement.The keyword if tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses ().\n"
+        "value": "\nIf you want to run a piece of code, based on a certain condition, then you should use the if statement.The keyword if tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses ().\n"
     },
     {
         "component": "text", 
