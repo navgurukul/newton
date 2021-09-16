@@ -1,5 +1,16 @@
 [
     {
+        "component":"banner",
+        "title":"I dont have an external keyboad",
+        "text":"You can start practicing now",
+        "actions":[
+           {
+              "url":"https://merakilearn.org/typing",
+              "label":"Some Label"
+           }
+        ]
+    },
+    {
         "component": "text", 
         "value": "<b>Example</b>\n"
     },
