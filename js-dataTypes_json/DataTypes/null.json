@@ -2,33 +2,33 @@
     {
         "component": "header",
         "variant": "2",
-        "value": "Null\n"
+        "value": "Null<br>"
     },  
     {
         "component": "text",
-        "value": "This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string (\"\") or 0, it is simply nothing.\n\n"
+        "value": "This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty string (\"\") or 0, it is simply nothing.<br><br>"
     },
     {
         "component": "text",
-        "value": "A variable can be explicitly emptied of its current contents by assigning it the null value.\n"
+        "value": "A variable can be explicitly emptied of its current contents by assigning it the null value.<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example:</b>\n"
+        "value": "<b>Example:</b><br>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var a = null;\nconsole.log(a); // Output: null\nvar b = \"Hello World!\"\nconsole.log(b); // Output: Hello World!\nb = null;\nconsole.log(b) // Output: null\n"    
+        "value": "var a = null;<br>console.log(a); // Output: null<br>var b = \"Hello World!\"<br>console.log(b); // Output: Hello World!<br>b = null;<br>console.log(b) // Output: null<br>"    
     },
     {
         "component": "text", 
-        "value": "<b>Exercises:</b>\n"
+        "value": "<b>Exercises:</b><br>"
     },
     {
         "component": "text", 
-        "value": "Write a program to print null when I console a variable name is y\n",
+        "value": "Write a program to print null when I console a variable name is y<br>",
         "decoration":{
             "type":"number",
             "value": 1
@@ -38,11 +38,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var y= null;\nconsole.log(y);\n"
+        "value": "var y= null;<br>console.log(y);<br>"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following code?\n",
+        "value": "What is the output of the following code?<br>",
         "decoration":{
             "type":"number",
             "value": 2
@@ -52,10 +52,10 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var val = null;\nconsole.log(val);\n"
+        "value": "var val = null;<br>console.log(val);<br>"
     },
     {
         "component": "text", 
-        "value": "Output: Null\n"
+        "value": "Output: Null<br>"
     }
 ]

@@ -3,7 +3,7 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var x = 10; \nvar y = 12 \nvar z = 90 \n\nif (x > y){\n\tif (x < z){\n\t\tx = y\n\t}\n\telse{\n\t\tm = z\n\t}\n}\nelse {\n\tif(y > z){\n\t\tm = y\n\t}\n\telse {\n\t\tm = x\n\t}\n}\nconsole.log(m)\n"    
+        "value": "var x = 10; <br>var y = 12 <br>var z = 90 <br><br>if (x > y){<br>&emsp;if (x < z){<br>&emsp;&emsp;x = y<br>&emsp;}<br>&emsp;else{<br>&emsp;&emsp;m = z<br>&emsp;}<br>}<br>else {<br>&emsp;if(y > z){<br>&emsp;&emsp;m = y<br>&emsp;}<br>&emsp;else {<br>&emsp;&emsp;m = x<br>&emsp;}<br>}<br>console.log(m)<br>"    
     },
     {
         "component": "text",

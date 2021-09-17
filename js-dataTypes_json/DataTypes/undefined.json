@@ -2,45 +2,45 @@
     {
         "component": "header",
         "variant": "2",
-        "value": "Undefined\n"
+        "value": "Undefined<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example:</b>\n"
+        "value": "<b>Example:</b><br>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var a;\nvar b = \"Hello World!\"\nconsole.log(a) // Output: undefined\nconsole.log(b) // Output: Hello World!\n"
+        "value": "var a;<br>var b = \"Hello World!\"<br>console.log(a) // Output: undefined<br>console.log(b) // Output: Hello World!<br>"
     },
     {
         "component": "text", 
-        "value": "variable a is just declared and not assigned any value in it, whenever you will try to print before assigning a vlaue you will get undefined.\n"
+        "value": "variable a is just declared and not assigned any value in it, whenever you will try to print before assigning a vlaue you will get undefined.<br>"
     }, 
     {
         "component": "text", 
-        "value": "variable b is declared and assigned a value i.e., Hello World!\n"
+        "value": "variable b is declared and assigned a value i.e., Hello World!<br>"
     }, 
     {
         "component": "text", 
-        "value": "The\n"
+        "value": "The<br>"
     }, 
     {
         "component": "text", 
-        "value": "<b>undefined</b>\n"
+        "value": "<b>undefined</b><br>"
     },
     {
         "component": "text", 
-        "value": "data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, has the value undefined.\n"
+        "value": "data type can only have one value-the special value undefined. If a variable has been declared, but has not been assigned a value, has the value undefined.<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Exercises:</b>\n"
+        "value": "<b>Exercises:</b><br>"
     },
     {
         "component": "text", 
-        "value": "Write a program that prints undefined when I print with its variable name?\n",
+        "value": "Write a program that prints undefined when I print with its variable name?<br>",
         "decoration":{
             "type":"number",
             "value": 1
@@ -49,11 +49,11 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var z;\nconsole.log(z);\n"
+        "text": "var z;<br>console.log(z);<br>"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following code?\n",
+        "value": "What is the output of the following code?<br>",
         "decoration":{
             "type":"number",
             "value": 2
@@ -62,15 +62,15 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var n;\nconsole.log(n);\n"
+        "text": "var n;<br>console.log(n);<br>"
     },
     {
         "component": "text", 
-        "value": "output:undefined\n"
+        "value": "output:undefined<br>"
     },
     {
         "component": "text", 
-        "value": "What is the error in the following code?\n",
+        "value": "What is the error in the following code?<br>",
         "decoration":{
             "type":"number",
             "value": 3
@@ -79,14 +79,14 @@
     {
         "component": "code",
         "type": "javascript",
-        "text": "var x=3;\nconsole.log(X);\n"
+        "text": "var x=3;<br>console.log(X);<br>"
     },
     {
         "component": "text", 
-        "value": "output: ReferenceError: X is not defined\n"
+        "value": "output: ReferenceError: X is not defined<br>"
     }, 
     {
         "component": "text", 
-        "value": "Because X is not defined here, JS is case sensitive so that's this x and this X is different.\n"
+        "value": "Because X is not defined here, JS is case sensitive so that's this x and this X is different.<br>"
     }  
 ]

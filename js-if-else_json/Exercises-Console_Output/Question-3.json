@@ -3,11 +3,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var choice =\"overcast\";\nif (choice === 'sunny') {\n\tmessage = 'It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.'\n} else if (choice === 'rainy') {\n\tmessage = 'Rain is falling outside; take a rain coat and an umbrella, and don't stay out for too long.'\n} else if (choice === 'snowing') {\n\tmessage = 'The snow is coming down — it is freezing! Best to stay in with a cup of hot chocolate, or go build a snowman.'\n} \nelse if (choice === 'overcast') {\n\tmessage = 'It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.'\n} else {\n\tmessage = 'Nothing'\n}\nconsole.log(message)\n"
+        "value": "var choice =\"overcast\";<br>if (choice === 'sunny') {<br>&emsp;message = 'It is nice and sunny outside today. Wear shorts! Go to the beach, or the park, and get an ice cream.'<br>} else if (choice === 'rainy') {<br>&emsp;message = 'Rain is falling outside; take a rain coat and an umbrella, and don't stay out for too long.'<br>} else if (choice === 'snowing') {<br>&emsp;message = 'The snow is coming down — it is freezing! Best to stay in with a cup of hot chocolate, or go build a snowman.'<br>} <br>else if (choice === 'overcast') {<br>&emsp;message = 'It isn't raining, but the sky is grey and gloomy; it could turn any minute, so take a rain coat just in case.'<br>} else {<br>&emsp;message = 'Nothing'<br>}<br>console.log(message)<br>"
     },
     {
         "component": "text",
-        "value": "output:\n"
+        "value": "output:<br>"
     },
     {
         "component": "text",

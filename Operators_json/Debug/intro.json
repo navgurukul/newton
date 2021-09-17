@@ -2,60 +2,60 @@
     {
         "component": "header",
         "variant": "3",
-        "value": "Debug  Code\n"
+        "value": "Debug  Code<br>"
     },
     {
         "component": "text",
-        "value": "Ab hum dictionary se related code ko debug karenge.\n"
+        "value": "Ab hum dictionary se related code ko debug karenge.<br>"
     },
     {
         "component": "text", 
-        "value": "A.\n"
+        "value": "A.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = \"Megha\"\nprint a\n"
+        "value": "a = \"Megha\"<br>print a<br>"
     },
     {
         "component": "text", 
-        "value": "B.\n"
+        "value": "B.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=\"navgurukul\"\nb= 2016\nprint(a+\",\" + b + \"me shuru hua tha\")\n"
+        "value": "a=\"navgurukul\"<br>b= 2016<br>print(a+\",\" + b + \"me shuru hua tha\")<br>"
     },
     {
         "component": "text", 
-        "value": "C.\n"
+        "value": "C.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=\"navgurukul\"\nb=13\nprint(a+b)\n"
+        "value": "a=\"navgurukul\"<br>b=13<br>print(a+b)<br>"
     },
     {
         "component": "text", 
-        "value": "D.\n"
+        "value": "D.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=\"12\"\nb=13.1\nprint(a+b)\n"
+        "value": "a=\"12\"<br>b=13.1<br>print(a+b)<br>"
     },
     {
         "component": "text", 
-        "value": "E.\n"
+        "value": "E.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = boolean(\"\")\nb = boolean(\" \")\nprint(a+b)\n"
+        "value": "a = boolean(\"\")<br>b = boolean(\" \")<br>print(a+b)<br>"
     }
 ]

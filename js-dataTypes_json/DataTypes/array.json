@@ -2,36 +2,36 @@
     {
         "component": "header",
         "variant": "2",
-        "value": "The Array Data Type\n"
+        "value": "The Array Data Type<br>"
     },
     {
         "component": "text",
-        "value": "Think about a list of your favourite things. For example,\n\n"
+        "value": "Think about a list of your favourite things. For example,<br><br>"
     },
     {
         "component": "text",
-        "value": "your mother’s name, Ramani\nYour favourite colour, Black\nYour favourite number, 1\nYour birthdate, Jan 2, 1996\n"
+        "value": "your mother’s name, Ramani<br>Your favourite colour, Black<br>Your favourite number, 1<br>Your birthdate, Jan 2, 1996<br>"
     },
     {
         "component": "text",
-        "value": "Now imagine you had to store them together as myFavourtiThings in JS. To do this you will use an Array Data Type.\n"
+        "value": "Now imagine you had to store them together as myFavourtiThings in JS. To do this you will use an Array Data Type.<br>"
     },
     {
         "component": "text",
-        "value": "An array is a type of object used for storing multiple values in a single variable.\n"
+        "value": "An array is a type of object used for storing multiple values in a single variable.<br>"
     },
     {
         "component": "text",
-        "value": "The simplest way to create an array is by specifying the array elements as a comma-separated list enclosed by square brackets, as shown in the example below:\n"
+        "value": "The simplest way to create an array is by specifying the array elements as a comma-separated list enclosed by square brackets, as shown in the example below:<br>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var languages = [\"Telugu\", \"Tamil\", \"Kannada\"];\nvar cities = [\"Dharamshala\", \"Bangalore\", \"Pune\"];\nconsole.log(cities[0]);   // Output: Dharamshala\nconsole.log(cities[2]);   // Output: Pune\n"
+        "value": "var languages = [\"Telugu\", \"Tamil\", \"Kannada\"];<br>var cities = [\"Dharamshala\", \"Bangalore\", \"Pune\"];<br>console.log(cities[0]);   // Output: Dharamshala<br>console.log(cities[2]);   // Output: Pune<br>"
     },
     {
         "component": "text",
-        "value": "Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, strings, booleans, functions, objects, and even other arrays. The array index starts from 0, so that the first array element is arr[0] not arr[1]. For the example above, colours[0] refers to Red.\n"
+        "value": "Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, strings, booleans, functions, objects, and even other arrays. The array index starts from 0, so that the first array element is arr[0] not arr[1]. For the example above, colours[0] refers to Red.<br>"
     }
 ]

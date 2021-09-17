@@ -1,28 +1,28 @@
 [
     {
         "component": "blockquote",
-        "value": "Consider the following:\n"
+        "value": "Consider the following:<br>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "let condition = 'Raining'; \nif(condition == 'Raining'){\n\tconsole.log('I will not go to the park');\n}\nelse{\n\tconsole.log('I will go to the park')\n}\n"
+        "value": "let condition = 'Raining'; <br>if(condition == 'Raining'){<br>&emsp;console.log('I will not go to the park');<br>}<br>else{<br>&emsp;console.log('I will go to the park')<br>}<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example</b>\n"
+        "value": "<b>Example</b><br>"
     },
     {
         "component": "text",
-        "value": "\tIf it rains tomorrow I will not go to play in the park, and if it does not rain then I will go to play in the park\n"
+        "value": "&emsp;If it rains tomorrow I will not go to play in the park, and if it does not rain then I will go to play in the park<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b>\n"
+        "value": "<b>Explanation</b><br>"
     },
     {
         "component": "text",
-        "value": "\nIn this example, there are two outputs (play in the park, and not play in the park), which depends on a condition which is the rainfall.\n"
+        "value": "<br>In this example, there are two outputs (play in the park, and not play in the park), which depends on a condition which is the rainfall.<br>"
     }
 ]
