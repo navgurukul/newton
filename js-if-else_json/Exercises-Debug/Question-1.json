@@ -3,10 +3,10 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "let isTrue = \"True\";\nif(isTrue){\n\tconsole.log(\"Output should show\")\n}\nif(isTrue === \"False\"){\n\tconsole.log(\"Both are same\")\n}\nelse {\n\tconsole.log(\"Please run it. if all conditions false\")\n}\n}\n"
+        "value": "let isTrue = \"True\";<br>if(isTrue){<br>&emsp;console.log(\"Output should show\")<br>}<br>if(isTrue === \"False\"){<br>&emsp;console.log(\"Both are same\")<br>}<br>else {<br>&emsp;console.log(\"Please run it. if all conditions false\")<br>}<br>}<br>"
     },
     {
         "component": "text",
-        "value": "Output should show \nPlease run it. if all conditions false\n"
+        "value": "Output should show <br>Please run it. if all conditions false<br>"
     }
 ]

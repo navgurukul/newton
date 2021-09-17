@@ -1,18 +1,18 @@
 [
     {
         "component": "banner",
-        "value": "Arithmetic  Operator\n",
+        "value": "Arithmetic  Operator<br>",
         "title" : "will add later",
         "url": "https://namekdev.net/uploads/2017/04/operators-in-programming-languages.png"
     },
     {
         "component": "header",
         "variant": "3",
-        "value": "TYPE OF OPERATORS\n"
+        "value": "TYPE OF OPERATORS<br>"
     },
     {
         "component": "text", 
-        "value": "Arithmetic  Operator\n",
+        "value": "Arithmetic  Operator<br>",
         "decoration":{
             "type":"number",
             "value": 1
@@ -20,7 +20,7 @@
     },
     {
         "component": "text", 
-        "value": "Assignment Operators\n",
+        "value": "Assignment Operators<br>",
         "decoration":{
             "type":"number",
             "value": 2
@@ -28,7 +28,7 @@
     },
     {
         "component": "text", 
-        "value": "Comparison Operators\n",
+        "value": "Comparison Operators<br>",
         "decoration":{
             "type":"number",
             "value": 3
@@ -36,7 +36,7 @@
     },
     {
         "component": "text", 
-        "value": "Logical Operators\n",
+        "value": "Logical Operators<br>",
         "decoration":{
             "type":"number",
             "value": 4
@@ -44,7 +44,7 @@
     },
     {
         "component": "text", 
-        "value": "Identity Operators(will learn later)\n",
+        "value": "Identity Operators(will learn later)<br>",
         "decoration":{
             "type":"number",
             "value": 5
@@ -52,7 +52,7 @@
     },
     {
         "component": "text", 
-        "value": "Membership Operators(will learn later)\n",
+        "value": "Membership Operators(will learn later)<br>",
         "decoration":{
             "type":"number",
             "value": 6
@@ -60,7 +60,7 @@
     },
     {
         "component": "text", 
-        "value": "Bitwise Operators(will learn later)\n",
+        "value": "Bitwise Operators(will learn later)<br>",
         "decoration":{
             "type":"number",
             "value": 7
@@ -68,7 +68,7 @@
     },
     {
         "component": "text",
-        "value": "if you want to know more about operators, you can go throw this video.\n"
+        "value": "if you want to know more about operators, you can go throw this video.<br>"
     },
     {
         "component": "youtube",

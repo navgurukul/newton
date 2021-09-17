@@ -21,25 +21,25 @@
     },
     {
         "component": "text",
-        "value": ". Let’s understand this one by one. Data means information and type means what kind of information. Data types basically specify what kind of data can be stored and manipulated within a program.\n"
+        "value": ". Let’s understand this one by one. Data means information and type means what kind of information. Data types basically specify what kind of data can be stored and manipulated within a program.<br>"
     },
     {
         "component": "text",
-        "value": "For example, when we write the following line in JS,\n"
+        "value": "For example, when we write the following line in JS,<br>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var my_name = 'Shweta';\n"    
+        "value": "var my_name = 'Shweta';<br>"    
     },
     {
         "component": "text",
-        "value": "The variable my_name can store some information. And the type of that information is a String, like ‘Shweta’ in this case.\n"
+        "value": "The variable my_name can store some information. And the type of that information is a String, like ‘Shweta’ in this case.<br>"
     },
     {
         "component": "image",
-        "value": "https://eycandyfilmjournal.org/wp-content/uploads/200/05/bojak-265x198.jpg\n",
+        "value": "https://eycandyfilmjournal.org/wp-content/uploads/200/05/bojak-265x198.jpg<br>",
         "alt": "Help me I'm broken"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
         "component": "text",
-        "value": "in JavaScript which can be divided into three main categories: primitive (or primary), composite, and special data types. String, Number, and Boolean are primitive data types. Object, Array, and Function (which are all types of objects) are composite data types. Whereas Undefined and Null are special data types.\n"
+        "value": "in JavaScript which can be divided into three main categories: primitive (or primary), composite, and special data types. String, Number, and Boolean are primitive data types. Object, Array, and Function (which are all types of objects) are composite data types. Whereas Undefined and Null are special data types.<br>"
     },
     {
         "component":"table",
@@ -211,7 +211,7 @@
     },
     {
         "component": "text",
-        "value": "Primitive data types can hold only one value at a time, whereas composite data types can hold collections of values and more complex entities. Let's discuss each one of them in detail.\n"
+        "value": "Primitive data types can hold only one value at a time, whereas composite data types can hold collections of values and more complex entities. Let's discuss each one of them in detail.<br>"
     },
     {
         "component": "youtube", 

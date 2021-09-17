@@ -1,42 +1,42 @@
 [
     {
         "component": "text", 
-        "value": "A.\n"
+        "value": "A.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "print(bool(False))\nprint(bool(None))\nprint(bool(0))\nprint(bool(\"\"))\nprint(bool(1))\n"
+        "value": "print(bool(False))<br>print(bool(None))<br>print(bool(0))<br>print(bool(\"\"))<br>print(bool(1))<br>"
     },
     {
         "component": "text", 
-        "value": "B.\n"
+        "value": "B.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x = 20\ny = 5\nresult = x + True + y - False\nprint(result)\n"
+        "value": "x = 20<br>y = 5<br>result = x + True + y - False<br>print(result)<br>"
     },
     {
         "component": "text", 
-        "value": "C.\n"
+        "value": "C.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "str3='''Hello'''  \"\"\" \"\"\"+ \"\"\"World\"\"\"\nprint(str3)\n"
+        "value": "str3='''Hello'''  \"\"\" \"\"\"+ \"\"\"World\"\"\"<br>print(str3)<br>"
     },
     {
         "component": "text", 
-        "value": "D.\n"
+        "value": "D.<br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "num=6.8\nprint(num)\nnum=12\nprint(num)\nprint(num + num)\nnum = num + 10\nprint(num)\n"
+        "value": "num=6.8<br>print(num)<br>num=12<br>print(num)<br>print(num + num)<br>num = num + 10<br>print(num)<br>"
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
         "component": "text", 
-        "value": "<b>Exercises:</b>\n"
+        "value": "<b>Exercises:</b><br>"
     },
     {
         "component": "text", 
-        "value": "Write a program that contains a variable name as firstName and assign the value of your first name??\n",
+        "value": "Write a program that contains a variable name as firstName and assign the value of your first name??<br>",
         "decoration":{
             "type":"number",
             "value": 1
@@ -16,11 +16,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var firsName=\"Nayak\";\n"
+        "value": "var firsName=\"Nayak\";<br>"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following code?\n",
+        "value": "What is the output of the following code?<br>",
         "decoration":{
             "type":"number",
             "value": 2
@@ -30,15 +30,15 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var b=\"Hello this is my ‘Dell Laptop’ \";\nconsole.log(b);\n"
+        "value": "var b=\"Hello this is my ‘Dell Laptop’ \";<br>console.log(b);<br>"
     },
     {
         "component": "text", 
-        "value":"output: Hello this is my ‘Dell Laptop’;\n"
+        "value":"output: Hello this is my ‘Dell Laptop’;<br>"
     },
     {
         "component": "text", 
-        "value": " What is the error in this code?\n",
+        "value": " What is the error in this code?<br>",
         "decoration":{
             "type":"number",
             "value": 3
@@ -48,14 +48,14 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var b=\"Hello this is my \"Dell Laptop\"\"console.log(b);\n"
+        "value": "var b=\"Hello this is my \"Dell Laptop\"\"console.log(b);<br>"
     },
     {
         "component": "text", 
-        "value": "Here you will get \nSyntaxError: Unexpected identifier\n"
+        "value": "Here you will get <br>SyntaxError: Unexpected identifier<br>"
     }, 
     {
         "component": "text", 
-        "value": "Because we used the same double quotes inside to say Dell Laptop…\n"
+        "value": "Because we used the same double quotes inside to say Dell Laptop…<br>"
     }
 ]

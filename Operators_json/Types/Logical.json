@@ -2,15 +2,15 @@
     {
         "component": "header",
         "variant": "3",
-        "value": "Logical Operator(and ,or ,not ) :- \n"
+        "value": "Logical Operator(and ,or ,not ) :- <br>"
     },
     {
         "component": "text",
-        "value": "Logical operators are used to combine conditional statements.\nLogical operators are used in any programming language to make decision based on multiple conditions.in python ,we used logical operators to determine whether a condition is True or False by taking operand values as base.let's consider different logical operators that are used in python programming.\n"
+        "value": "Logical operators are used to combine conditional statements.<br>Logical operators are used in any programming language to make decision based on multiple conditions.in python ,we used logical operators to determine whether a condition is True or False by taking operand values as base.let's consider different logical operators that are used in python programming.<br>"
     },
     {
         "component": "text",
-        "value": "(logical operators ka use sabhi programmo me kayi condition me decision lene ke liye use kiya jata hai python me hum decision lene ke liye logical operator ka use karte hai ki kya humare operand me lagayi gayi condition True hai ya Fasle hai.)\n"
+        "value": "(logical operators ka use sabhi programmo me kayi condition me decision lene ke liye use kiya jata hai python me hum decision lene ke liye logical operator ka use karte hai ki kya humare operand me lagayi gayi condition True hai ya Fasle hai.)<br>"
     },
     {
         "component": "text", 
@@ -18,43 +18,43 @@
     },
     {
         "component": "text",
-        "value": " and operator ka istemal hum tab karte hai jab dono condition ko check krwani ho agar dono condition true hogi to output true ayega agr dono me se koi ek bhi condition galat hui to false aayega . kyunki and me dono condition true hone par hi output True aata hai.\n"
+        "value": " and operator ka istemal hum tab karte hai jab dono condition ko check krwani ho agar dono condition true hogi to output true ayega agr dono me se koi ek bhi condition galat hui to false aayega . kyunki and me dono condition true hone par hi output True aata hai.<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example :-</b>\n"
+        "value": "<b>Example :-</b><br>"
     }, 
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = True\nb=False\nprint(a and b and a)\n"
+        "value": "a = True<br>b=False<br>print(a and b and a)<br>"
     },
     {
         "component": "text", 
-        "value": "Output :-\n"
+        "value": "Output :-<br>"
     },
     {
         "component": "text", 
-        "value": "False\n"
+        "value": "False<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example :-</b>\n"
+        "value": "<b>Example :-</b><br>"
     }, 
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "number = int(input(\"enter the number\"))\nprint(number and 1)\n"
+        "value": "number = int(input(\"enter the number\"))<br>print(number and 1)<br>"
     },
     {
         "component": "text", 
-        "value": "Iss example mai input mai 1 deti hu toh output 1 hoga kuki dono values True hoga\n"
+        "value": "Iss example mai input mai 1 deti hu toh output 1 hoga kuki dono values True hoga<br>"
     },
     {
         "component": "text", 
-        "value": "Iss example mai input mai 0 deti hu toh output 0 hoga kuki ek  value False hoga\n"
+        "value": "Iss example mai input mai 0 deti hu toh output 0 hoga kuki ek  value False hoga<br>"
     },
     {
         "component": "text", 
@@ -62,43 +62,43 @@
     },
     {
         "component": "text",
-        "value": "or operator me koi bhi ek condition true hoti hai to output true milta hai isme jaruri nahi hai ki dono conditon sahi ho, isme agar dono condition false ho tabhi output False aati hai.\n"
+        "value": "or operator me koi bhi ek condition true hoti hai to output true milta hai isme jaruri nahi hai ki dono conditon sahi ho, isme agar dono condition false ho tabhi output False aati hai.<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example :-</b>\n"
+        "value": "<b>Example :-</b><br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = 4 > 5\na = 899 < 887\nprint(a or a or 7 < 8) \n"
+        "value": "a = 4 > 5<br>a = 899 < 887<br>print(a or a or 7 < 8) <br>"
     },
     {
         "component": "text", 
-        "value": "Output :-\n"
+        "value": "Output :-<br>"
     },
     {
         "component": "text", 
-        "value": "True\n"
+        "value": "True<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example :-</b>\n"
+        "value": "<b>Example :-</b><br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x = \"apple\"\ny = \"mango\"\nprint(x or y )\n"
+        "value": "x = \"apple\"<br>y = \"mango\"<br>print(x or y )<br>"
     },
     {
         "component": "text", 
-        "value": "Output :-\n"
+        "value": "Output :-<br>"
     },
     {
         "component": "text", 
-        "value": "apple\n"
+        "value": "apple<br>"
     },
     {
         "component": "text", 
@@ -106,43 +106,43 @@
     },
     {
         "component": "text",
-        "value": "not operator ka jab use karte hai tb wo condition ke opposite output dega ,agar condition true hogi to output false ayega or agr false hogi to output true deta hai.\n"
+        "value": "not operator ka jab use karte hai tb wo condition ke opposite output dega ,agar condition true hogi to output false ayega or agr false hogi to output true deta hai.<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example :-</b>\n"
+        "value": "<b>Example :-</b><br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = 19\nb = 34\nc = 56\nprint(not c>b)\n"
+        "value": "a = 19<br>b = 34<br>c = 56<br>print(not c>b)<br>"
     },
     {
         "component": "text", 
-        "value": "Output :-\n"
+        "value": "Output :-<br>"
     },
     {
         "component": "text", 
-        "value": "False\n"
+        "value": "False<br>"
     },
     {
         "component": "text", 
-        "value": "<b>Example :-</b>\n"
+        "value": "<b>Example :-</b><br>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "var1 =True\nprint(not var1)\na =True\nb= False\nprint( a and b or a or not b)\n"
+        "value": "var1 =True<br>print(not var1)<br>a =True<br>b= False<br>print( a and b or a or not b)<br>"
     },
     {
         "component": "text", 
-        "value": "Output :-\n"
+        "value": "Output :-<br>"
     },
     {
         "component": "text", 
-        "value": "True\n"
+        "value": "True<br>"
     },
     {
         "component": "image",

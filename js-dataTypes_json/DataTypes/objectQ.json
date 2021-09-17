@@ -1,11 +1,11 @@
 [
     {
         "component": "text", 
-        "value": "<b>Exercises:</b>\n"
+        "value": "<b>Exercises:</b><br>"
     },
     {
         "component": "text", 
-        "value": "Write a program where a variable contains an object related to you with the properties of firstName, lastName, Phone Number, and isHealthy (true or false), and print it on console?\n",
+        "value": "Write a program where a variable contains an object related to you with the properties of firstName, lastName, Phone Number, and isHealthy (true or false), and print it on console?<br>",
         "decoration":{
             "type":"number",
             "value": 1
@@ -16,11 +16,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var myDetails={\nfirstName:\"kumar\",\nlastName:\"Nayak\",\nphoneNumber:\"123456789\",\nisHealthy:false\n}\nconsole.log(myDetails);\n"
+        "value": "var myDetails={<br>firstName:\"kumar\",<br>lastName:\"Nayak\",<br>phoneNumber:\"123456789\",<br>isHealthy:false<br>}<br>console.log(myDetails);<br>"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following code?\n",
+        "value": "What is the output of the following code?<br>",
         "decoration":{
             "type":"number",
             "value": 2
@@ -30,15 +30,15 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var obj1 = { a: 5, b: 6 };\nobj1[\"a\"] =7;\nconsole.log(obj1)\n"
+        "value": "var obj1 = { a: 5, b: 6 };<br>obj1[\"a\"] =7;<br>console.log(obj1)<br>"
     },
     {
         "component": "text", 
-        "value":"Output: { a: 7, b: 6 }\n"
+        "value":"Output: { a: 7, b: 6 }<br>"
     },
     {
         "component": "text", 
-        "value": "What is the error of the following code?\n",
+        "value": "What is the error of the following code?<br>",
         "decoration":{
             "type":"number",
             "value": 3
@@ -48,14 +48,14 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var myObj = { name: \"kumar\", height: 5.4 };\nmyObj[name] =7;\nconsole.log(myObj)\n"
+        "value": "var myObj = { name: \"kumar\", height: 5.4 };<br>myObj[name] =7;<br>console.log(myObj)<br>"
     },
     {
         "component": "text", 
-        "value": "Output:ReferenceError: name is not defined\n"
+        "value": "Output:ReferenceError: name is not defined<br>"
     }, 
     {
         "component": "text", 
-        "value": "Because the name key we need to give it in strings, otherwise it feels that it is a variable.\n"
+        "value": "Because the name key we need to give it in strings, otherwise it feels that it is a variable.<br>"
     }
 ]
