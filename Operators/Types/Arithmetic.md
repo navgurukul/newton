@@ -6,7 +6,6 @@ submission_type: url
 
 ## ARITHMETIC OPERATORS
 
-We use `arithmetic operators` just like we do in mathematics, to perform common calculations with numeric values (numbers).
 
 | OPERATORS     | NAME | EXAMPLE    |
 | :---        |    :----:   |          ---: |
