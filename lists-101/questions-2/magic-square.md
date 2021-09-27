@@ -1,4 +1,5 @@
 ```ngMeta
+name: magic-square
 submission_type: url
 ```
 

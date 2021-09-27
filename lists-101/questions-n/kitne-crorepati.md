@@ -1,5 +1,6 @@
 ```ngMeta
-submission_type: How many Crorepati?
+name: How many Crorepati?
+submission_type: url
 ```
 ## How many Crorepati?
 

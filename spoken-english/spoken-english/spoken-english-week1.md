@@ -36,10 +36,16 @@ below accordingly. Also at any point if the child doesn’t understand the meani
 
 ### Short Story -
 
-This story is about a Critically endangered parrot called kākāpō - also the word’s fattest parrot !
-Who doesn't love a cute fat parrot ? The kākāpō is a flightless species of parrot native to New Zealand. Though it once was one of New Zealand's most abundant animals, heavy hunting reduced it numbers to just 147 living adults today. The nocturnal, flightless parrot is one of New Zealanders' favourite birds, and is known for its charismatic nature and owl-like face.
+Short Story -
 
-This year, however, the kākāpō had a record breaking breeding season with 60 more chicks expected to make it to adulthood, nearly double the previous record!  The chicks will be raised in predator-free sanctuaries to give them the best chance of survival. Species like these make protecting our forests so rewarding. Healthier habitats means more chubby parrots!
+Ram and Sham were in a fight. Both of them said they owned the same mango tree.They went up to Birbal and asked him to decide the matter, once and for all.  Who was the true owner of the mango tree? 
+Birbal said, "There is only one way to settle the matter. First, you must take all of the fruit off the tree.  Each of you should take half the mangos.  Then you must cut down the tree and divide the trunk in half.  Each of you should take half the wood, too.  Then everything will be fair.  That is what I say.”
+
+Who really owned the mango tree?
+
+Ram thought it was all a good idea, and he said so. 
+But Sham said, “Your Honor! I have tended that tree for seven years. If you must, give the mango tree to Ram.  But do not make us cut it down!"
+"What you have said to me is all I need to know," said Birbal.  Then he said that Sham was the true owner of the mango tree.
 
 
 3) At the end of every session let’s teach them one word and their homework would be to try to use the word in a sentence when they talk to their friends/teachers in the school and make a note of how many times did they use it.
