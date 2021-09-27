@@ -45,5 +45,5 @@ name: Nodejs_Curriculum
                                         4.Turing e-commerce API (12-15 days)
                                         
                                         
-                     Interview preparation
+Interview preparation
 

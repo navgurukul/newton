@@ -73,5 +73,5 @@ name: Reactjs_Curriculum
                       4.Users should be able to see all posts.
                       5.Other users should be able to like, comment on the post.
                       6.User authentication means other users should not be able to edit anyone’s post. Only they should have comments, like and access.
-                      Interview Preparations
+Interview Preparations
 

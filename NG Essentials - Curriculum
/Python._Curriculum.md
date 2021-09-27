@@ -3,8 +3,9 @@ name: Python_Curriculum
 ```     
 
 ## Python 
-                               2.Variables: 3 Days
-                               3.Conversion: 2 Days
+                1.Introduction to python + Definitions: 3 Days
+				2.Variables: 3 Days
+                3.Conversion: 2 Days
 				4.Operators: 5 Days
 				5.If Else: 15 Days
 				6.Loop: 15 Days
@@ -19,5 +20,5 @@ name: Python_Curriculum
 				15.Hangman: 3 Days
 				16.Request: 1 Week
 				17.Web Scraping: 15 Days
-				18.Interview on Python
+Interview on Python
 
