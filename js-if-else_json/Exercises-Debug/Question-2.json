@@ -3,10 +3,10 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "code": "var number = 12;<br><br>if(Number%3 === 0){<br>&emsp;console.log(\"choco\")<br>}<br>elif(number % 7){<br>&emsp;console.log(\"late\")<br>}<br>elif(a%3==0 and a%7==0) {<br>&emsp;console.log(\"Chocolate\")<br>}<br>else {<br>console.log(\"Not divisible by 3 , 7\")<br>}<br>"
+        "code": "var number = 12;<br><br>if(Number%3 === 0){<br>&emsp;console.log(\"choco\")<br>}<br>elif(number % 7){<br>&emsp;console.log(\"late\")<br>}<br>elif(a%3==0 and a%7==0) {<br>&emsp;console.log(\"Chocolate\")<br>}<br>else {<br>console.log(\"Not divisible by 3 , 7\")<br>}"
     },
     {
         "component": "text",
-        "value": "Output should show chocolate only when it is divisible by both 3 and 7 and it should not show choco and late to the same number.<br>"
+        "value": "Output should show chocolate only when it is divisible by both 3 and 7 and it should not show choco and late to the same number."
     }
 ]

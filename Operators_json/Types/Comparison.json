@@ -2,11 +2,11 @@
     {
         "component": "header",
         "variant": "3",
-        "value": "Comparison operators:-<br>"
+        "value": "Comparison operators:-"
     },
     {
         "component": "text",
-        "value": "Comparison operators ka use hum do values me tulna krne ke liye use krte hai.<br>"
+        "value": "Comparison operators ka use hum do values me tulna krne ke liye use krte hai."
     },
     {
         "component":"table",
@@ -48,306 +48,282 @@
     },
     {
         "component": "text", 
-        "value": "<b>Equal(==):-</b>"
+        "value": "<b>Equal(==):-</b> Agar hume do values check krna hota hai ki woh equal tab hum `==` operator ka use krte hai."
     },  
     {
-        "component": "text",
-        "value": "Agar hume do values check krna hota hai ki woh equal tab hum `==` operator ka use krte hai.<br>"
-    },
-    {
         "component": "text", 
-        "value": "Example-1 :-<br>"
+        "value": "Example-1 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=5<br>b=5<br>print(a==b)<br>"
+        "value": "a=5<br>b=5<br>print(a==b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "true<br>"
+        "value": "true"
     },
     {
         "component": "text", 
-        "value": "Example2 :-<br>"
+        "value": "Example2 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=6<br>b=9<br>print(a==b)<br>"
+        "value": "a=6<br>b=9<br>print(a==b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "false<br>"
+        "value": "false"
     },
     {
         "component": "text", 
-        "value": "<b>Not Equal (!=) :-</b>"
+        "value": "<b>Not Equal (!=) :-</b> Jab hume do values ko check karna hai ki woh ek dusre ke equal nahi hai toh hum `Not Equal`operator ka use krt hai."
     },  
     {
-        "component": "text",
-        "value": " Jab hume do values ko check karna hai ki woh ek dusre ke equal nahi hai toh hum `Not Equal`operator ka use krt hai.<br>"
-    },
-    {
         "component": "text", 
-        "value": "Example1 :-<br>"
+        "value": "Example1 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=10<br>y=13<br>print(x!=y)<br>"
+        "value": "x=10<br>y=13<br>print(x!=y)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "true<br>"
+        "value": "true"
     },
     {
         "component": "text",
-        "value": "Means ki  x(10) me jo value hai wo y(13) ke barabar nahi hai.isliye jo output hoga wo true print hoga.<br>"
+        "value": "Means ki  x(10) me jo value hai wo y(13) ke barabar nahi hai.isliye jo output hoga wo true print hoga."
     },
     {
         "component": "text", 
-        "value": "Example2 :-<br>"
+        "value": "Example2 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=32<br>b=32<br>print(a!=b)<br>"
+        "value": "a=32<br>b=32<br>print(a!=b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "false<br>"
+        "value": "false"
     },
     {
         "component": "text", 
-        "value": "Is question me dono value brabar hai lekin humne print me condition di hai ki values brabar nahi hai isliye condition wrong hai to output false hoga kyunki reality me 32 and 32 they both are equal.<br>"
+        "value": "Is question me dono value brabar hai lekin humne print me condition di hai ki values brabar nahi hai isliye condition wrong hai to output false hoga kyunki reality me 32 and 32 they both are equal."
     },
     {
         "component": "text", 
-        "value": "<b>Greater than (>) :-</b>"
+        "value": "<b>Greater than (>) :-</b> Agar hamari left value, right value se badi hogi to condition true hogi otherwise false hogi."
     },  
     {
-        "component": "text",
-        "value": "Agar hamari left value, right value se badi hogi to condition true hogi otherwise false hogi.<br>"
-    },
-    {
         "component": "text", 
-        "value": "Example1 :-<br>"
+        "value": "Example1 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=6<br>b=4<br>print(a>b) <br>"
+        "value": "a=6<br>b=4<br>print(a>b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "true<br>"
+        "value": "true"
     },
     {
         "component": "text",
-        "value": "Means ki jo a(6) value hai wo b(4) se badi hai to output true hoga.<br>"
+        "value": "Means ki jo a(6) value hai wo b(4) se badi hai to output true hoga."
     },
     {
         "component": "text", 
-        "value": "Example2 :-<br>"
+        "value": "Example2 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=7<br>y=9<br>print(x>y)<br>"
+        "value": "x=7<br>y=9<br>print(x>y)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "false<br>"
+        "value": "false"
     },
     {
         "component": "text",
-        "value": "Is example me hum x ki value ko bada keh rhe hai y ki value se jo wrong hai isliye output false hai.<br>"
+        "value": "Is example me hum x ki value ko bada keh rhe hai y ki value se jo wrong hai isliye output false hai."
     },
     {
         "component": "text", 
-        "value": "<b>Less than (<):-</b>"
+        "value": "<b>Less than (<):-</b> Matlab ki left value small hoga right value se to condition true ho jayegi to true hoga.otherwise false hoga."
     },  
     {
-        "component": "text",
-        "value": "Matlab ki left value small hoga right value se to condition true ho jayegi to true hoga.otherwise false hoga.<br>"
-    },
-    {
         "component": "text", 
-        "value": "Example 1:-<br>"
+        "value": "Example 1:-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=6<br>y=9<br>print(x<y)<br>"
+        "value": "x=6<br>y=9<br>print(x<y)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "true<br>"
+        "value": "true"
     },
     {
         "component": "text",
-        "value": "Is example me x me jo value hai wo y se chota hai to condition true ho rhi hai isliye output true hoga.<br>"
+        "value": "Is example me x me jo value hai wo y se chota hai to condition true ho rhi hai isliye output true hoga."
     },
     {
         "component": "text", 
-        "value": "Example2 :-<br>"
+        "value": "Example2 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=13<br>b=10<br>print(a<b)<br>"
+        "value": "a=13<br>b=10<br>print(a<b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "false<br>"
+        "value": "false"
     },
     {
         "component": "text",
-        "value": "Is example me a ki value b ki value se bdi hai,value ke according condition wrong hai isliye output false hoga.<br>"
+        "value": "Is example me a ki value b ki value se bdi hai,value ke according condition wrong hai isliye output false hoga."
     },
     {
         "component": "text", 
-        "value": "<b>Greater than or  equal to (>=) :-</b>"
+        "value": "<b>Greater than or  equal to (>=) :-</b>  Means ki jo left value hai wo right value se bada hai ya barabar hai to condition true hoga."
     },  
     {
-        "component": "text",
-        "value": " Means ki jo left value hai wo right value se bada hai ya barabar hai to condition true hoga.<br>"
-    },
-    {
         "component": "text", 
-        "value": "Example 1 :-<br>"
+        "value": "Example 1 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=23<br>b=15<br>print(a>=b)<br>"
+        "value": "a=23<br>b=15<br>print(a>=b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "true<br>"
+        "value": "true"
     },
     {
         "component": "text",
-        "value": "Is example me a value, b ki value se badi hai isliye output true hoga.<br>"
+        "value": "Is example me a value, b ki value se badi hai isliye output true hoga."
     },
     {
         "component": "text", 
-        "value": "Example2 :-<br>"
+        "value": "Example2 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=12<br>b=35<br>print(a>=b)<br>"
+        "value": "a=12<br>b=35<br>print(a>=b)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text",
-        "value": "false<br>"
+        "value": "false"
     },
     {
         "component": "text",
-        "value": "Is question me a value, b ki value se choti hai but condition hai ki a bda hai ya brabar hai b se,yha condition wrong hai isliye ouptut false hoga.<br>"
+        "value": "Is question me a value, b ki value se choti hai but condition hai ki a bda hai ya brabar hai b se,yha condition wrong hai isliye ouptut false hoga."
     },
     {
         "component": "text", 
-        "value": "<b>Less than or equal to (<=) :-</b>"
+        "value": "<b>Less than or equal to (<=) :-</b> Is operator ka use hum tb krte hai jb left value right value se chhota hoga ya barabar hoga."
     },  
     {
-        "component": "text",
-        "value": "Is operator ka use hum tb krte hai jb left value right value se chhota hoga ya barabar hoga.<br>"
-    },
-    {
         "component": "text", 
-        "value": "Example 1:-<br>"
+        "value": "Example 1:-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=6<br>y=9<br>print(x<=y)<br>"
+        "value": "x=6<br>y=9<br>print(x<=y)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "true<br>"
+        "value": "true"
     },
     {
         "component": "text",
-        "value": "Yha x(6) ki value y(9) ki value se small hai isliye condition true hai or output true hoga.<br>"
+        "value": "Yha x(6) ki value y(9) ki value se small hai isliye condition true hai or output true hoga."
     },
     {
         "component": "text", 
-        "value": "Example2 :-<br>"
+        "value": "Example2 :-"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=8<br>y=6<br>print(x<=y)<br>"
+        "value": "x=8<br>y=6<br>print(x<=y)"
     },
     {
         "component": "text", 
-        "value": "Output :-<br>"
+        "value": "Output :-"
     },
     {
         "component": "text", 
-        "value": "false<br>"
+        "value": "false"
     },
     {
         "component": "text",
-        "value": "Yha x ki value badi hai but yha condition wrong hai isliye output false hai.<br>"
+        "value": "Yha x ki value badi hai but yha condition wrong hai isliye output false hai."
     }
 ]

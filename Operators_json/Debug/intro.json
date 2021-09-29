@@ -2,60 +2,60 @@
     {
         "component": "header",
         "variant": "3",
-        "value": "Debug  Code<br>"
+        "value": "Debug  Code"
     },
     {
         "component": "text",
-        "value": "Ab hum dictionary se related code ko debug karenge.<br>"
+        "value": "Ab hum dictionary se related code ko debug karenge."
     },
     {
         "component": "text", 
-        "value": "A.<br>"
+        "value": "A."
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = \"Megha\"<br>print a<br>"
+        "value": "a = \"Megha\"<br>print a"
     },
     {
         "component": "text", 
-        "value": "B.<br>"
+        "value": "B."
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=\"navgurukul\"<br>b= 2016<br>print(a+\",\" + b + \"me shuru hua tha\")<br>"
+        "value": "a=\"navgurukul\"<br>b= 2016<br>print(a+\",\" + b + \"me shuru hua tha\")"
     },
     {
         "component": "text", 
-        "value": "C.<br>"
+        "value": "C."
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=\"navgurukul\"<br>b=13<br>print(a+b)<br>"
+        "value": "a=\"navgurukul\"<br>b=13<br>print(a+b)"
     },
     {
         "component": "text", 
-        "value": "D.<br>"
+        "value": "D."
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=\"12\"<br>b=13.1<br>print(a+b)<br>"
+        "value": "a=\"12\"<br>b=13.1<br>print(a+b)"
     },
     {
         "component": "text", 
-        "value": "E.<br>"
+        "value": "E."
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a = boolean(\"\")<br>b = boolean(\" \")<br>print(a+b)<br>"
+        "value": "a = boolean(\"\")<br>b = boolean(\" \")<br>print(a+b)"
     }
 ]

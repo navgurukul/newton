@@ -1,11 +1,11 @@
 [
     {
         "component": "text", 
-        "value": "<b>Exercises</b><br>"
+        "value": "<b>Exercises</b>"
     },
     {
         "component": "text", 
-        "value": "Write a program to print an array that will show you output [2,4,6,8] ?<br>",
+        "value": "Write a program to print an array that will show you output [2,4,6,8] ?",
         "decoration":{
             "type":"number",
             "value": 1
@@ -16,11 +16,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var arr1=[2,4,6,8];<br>console.log(arr1);<br>"
+        "value": "var arr1=[2,4,6,8];<br>console.log(arr1);"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following code?<br>",
+        "value": "What is the output of the following code?",
         "decoration":{
             "type":"number",
             "value": 2
@@ -30,15 +30,15 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var arr1= [1, 'HI', 3, 12.3];<br>arr1[1] =4;<br>console.log(arr1);<br>"
+        "value": "var arr1= [1, 'HI', 3, 12.3];<br>arr1[1] =4;<br>console.log(arr1);"
     },
     {
         "component": "text", 
-        "value": "Output: [ 1, 4, 3, 12.3 ]<br>"
+        "value": "Output: [ 1, 4, 3, 12.3 ]"
     },
     {
         "component": "text", 
-        "value": "What is the error in the following code?<br>",
+        "value": "What is the error in the following code?",
         "decoration":{
             "type":"number",
             "value": 3
@@ -48,10 +48,10 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var arr1=var arr1= [\"kumar\", 24, \"Academic Associate\"];<br>arr1['0'] =\"Nayak\";<br>console.log(arr1);<br>"
+        "value": "var arr1=var arr1= [\"kumar\", 24, \"Academic Associate\"];<br>arr1['0'] =\"Nayak\";<br>console.log(arr1);"
     },
     {
         "component": "text", 
-        "value": "Output: There is no error.<br>"
+        "value": "Output: There is no error."
     } 
 ]

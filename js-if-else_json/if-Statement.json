@@ -15,53 +15,49 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "if (condition is true){<br>&emsp;statement is executed <br>}<br>"
+        "value": "if (condition is true){<br>&emsp;statement is executed <br>}"
     },
     {
         "component": "blockquote",
-        "value": "<br>If you want to run a piece of code, based on a certain condition, then you should use the if statement.The keyword if tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses ().<br>"
+        "value": "If you want to run a piece of code, based on a certain condition, then you should use the if statement.The keyword if tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses ()."
     },
     {
         "component": "text", 
-        "value": "<b>Note</b>"
-    },
-    {
-        "component": "text",
-        "value": ": These conditions are known as Boolean conditions and they are only be true or false.<br>"
+        "value": "<b>Note</b> : These conditions are known as Boolean conditions and they are only be true or false."
     },
     {
         "component": "blockquote",
-        "value": " When the condition evaluates to true, the program executes the statement inside the curly braces. When the Boolean condition evaluates to false, the statement inside the curly braces will not execute.<br>"
+        "value": " When the condition evaluates to true, the program executes the statement inside the curly braces. When the Boolean condition evaluates to false, the statement inside the curly braces will not execute."
     },
     {
         "component": "blockquote",
-        "value": "Let us see some more examples.<br>"
+        "value": "Let us see some more examples."
     },
     {
         "component": "text", 
-        "value": "<b>Example</b><br>"
+        "value": "<b>Example</b>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var a = 10; <br>var b = 12; <br>if(b > a){ <br>&emsp;console.log( b,\" is greater than  \", a  );<br>}<br>"
+        "value": "var a = 10; <br>var b = 12; <br>if(b > a){ <br>&emsp;console.log( b,\" is greater than  \", a  );<br>}"
     },
     {
         "component": "text",
-        "value": "Output :- 12, is greater than, 10<br>"
+        "value": "Output :- 12, is greater than, 10"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b><br>"
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "image", 
-        "value": "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2011.28.25%20AM.png<br>",
+        "value": "https://static.stacker.com/s3fs-public/styles/slide_desktop/s3/2019-03/Screen%20Shot%202019-03-14%20at%2011.28.25%20AM.png",
         "alt": "Haha Gotcha"
     },
     {
         "component": "text",
-        "value": "<br>&emsp;Here 12 is greater than 10. So, the console will show us the output as 12.<br>"
+        "value": "&emsp;Here 12 is greater than 10. So, the console will show us the output as 12."
     }
 ]

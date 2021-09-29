@@ -12,37 +12,32 @@
     },
     {
         "component": "text", 
-        "value": "<br><b>Example</b><br>"
+        "value": "<b>Example</b>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var course = \"Hindi\"; <br>if (course == \"English\"){<br>&emsp;console.log(\"Tutorial is for English\")}<br>else if (course == \"Hindi\"){<br>&emsp;console.log(\"Tutorial is for Hindi\")}<br>else {<br>&emsp;console.log(\"Tutorial is for Javascript\")<br>}<br>"    
+        "value": "var course = \"Hindi\"; <br>if (course == \"English\"){<br>&emsp;console.log(\"Tutorial is for English\")}<br>else if (course == \"Hindi\"){<br>&emsp;console.log(\"Tutorial is for Hindi\")}<br>else {<br>&emsp;console.log(\"Tutorial is for Javascript\")<br>}"    
     },
     {
         "component": "text",
-        "value": "Output :- Tutorial is for Hindi<br>"
+        "value": "Output :- Tutorial is for Hindi"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b><br>"
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "text",
-        "value": "&emsp;if the course is equal to English, output “Tutorial is for English”.else if the <br>&emsp;course is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above <br>&emsp;condition is true, then output “Tutorial is forJavascript”<br>"
+        "value": "&emsp;if the course is equal to English, output “Tutorial is for English”.else if the <br>&emsp;course is equal to Hindi, output “Tutorial is for Hindi”.if nothing of the above <br>&emsp;condition is true, then output “Tutorial is forJavascript”"
     },
     {
         "component": "blockquote",
-        "value": " else If condition specifies a new condition if the first condition will be  false then it checks other conditions. When we have many conditions and we want a condition to be true then we use an else-if statement.<br><br>"
+        "value": " else If condition specifies a new condition if the first condition will be  false then it checks other conditions. When we have many conditions and we want a condition to be true then we use an else-if statement."
     },
     {
         "component": "blockquote",
-        "value": "We have done a lot of questions related to if statements in python. To understand the syntax of Javascript. Please do these questions in js. <br><br>"
-    },
-    {
-        "component": "link", 
-        "text": "If else questions",
-        "href": "https://merakilearn.org/course/93/exercise/2169 "
+        "value": "We have done a lot of questions related to if statements in python. To understand the syntax of Javascript. Please do these questions in js.  <a href=\"https://merakilearn.org/course/93/exercise/2169\">If else questions</a>"
     }
 ]

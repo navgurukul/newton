@@ -1,24 +1,24 @@
 [
   {
     "component": "text",
-    "value": "In 1995, JavaScript was created by a developer named Brendan Eich. First, it was called Mocha that later was renamed to LiveScript and then Javascript. Some more Information about browser and importance of Javascript from this video.<br>"
+    "value": "In 1995, JavaScript was created by a developer named Brendan Eich. First, it was called Mocha that later was renamed to LiveScript and then Javascript. Some more Information about browser and importance of Javascript from this video."
   },
   {
     "component": "youtube",
-    "value": "9WfPJKiKs_I<br>"
+    "value": "9WfPJKiKs_I"
   },
   {
     "component": "header",
     "variant": 1,
-    "value": "What You Can Do with JavaScript<br>"
+    "value": "What You Can Do with JavaScript"
   },
   {
     "component": "youtube",
-    "value": "VePxnvFBZAs<br>"
+    "value": "VePxnvFBZAs"
   },
   {
     "component": "link", 
-    "value": "Things you can build with JavaScript?<br>",
+    "value": "Things you can build with JavaScript?",
     "href": "https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/",
     "decoration":{
       "type":"bullet"
@@ -26,7 +26,7 @@
   },
   {
     "component": "link", 
-    "value": "What are some of the cool projects that I can build using Pure JavaScript?<br>",
+    "value": "What are some of the cool projects that I can build using Pure JavaScript?",
     "href": "https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio",
     "decoration":{
       "type":"bullet"
@@ -35,18 +35,18 @@
   {
     "component": "header",
     "variant": 2,
-    "value": "Some more companies which is using JS<br>",
+    "value": "Some more companies which is using JS",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text",
-    "value": "Nowadays, in the world so many are using javascript. The best companies in the world use javascript somewhere in their company. Javascripts speciality they can run on any platform.<br>"
+    "value": "Nowadays, in the world so many are using javascript. The best companies in the world use javascript somewhere in their company. Javascripts speciality they can run on any platform."
   },
   {
     "component": "text", 
-    "value": "Javascript run on browsers<br>",
+    "value": "Javascript run on browsers",
     "decoration":{
       "type":"bullet"
     }
@@ -60,7 +60,7 @@
   },
   {
       "component": "image", 
-      "value": "https://eyecandyfilmjournal.org/wp-content/uploads/2020/05/bojak-265x198.jpg<br>",
+      "value": "https://eyecandyfilmjournal.org/wp-content/uploads/2020/05/bojak-265x198.jpg",
       "alt": "Bojack",
       "decoration":{
         "type":"bullet"
@@ -68,74 +68,74 @@
   },
   {
     "component": "text", 
-    "value": "for making backend code on server<br>",
+    "value": "for making backend code on server",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "We can run JS applications on Digital smart watches<br>",
+    "value": "We can run JS applications on Digital smart watches",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "In Drones also we will use JS<br>",
+    "value": "In Drones also we will use JS",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text",
-    "value": "So many companies using Javascript in that some company names are:<br>"
+    "value": "So many companies using Javascript in that some company names are:"
   },
   {
     "component": "text", 
-    "value": "Flipkart<br>",
+    "value": "Flipkart",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "Myntra<br>",
+    "value": "Myntra",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "PayTM and Freecharge<br>",
+    "value": "PayTM and Freecharge",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "IRCTC (Indian Railways website)<br>",
+    "value": "IRCTC (Indian Railways website)",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "Instagram's mobile app is made on JS<br>",
+    "value": "Instagram's mobile app is made on JS",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "Google<br>",
+    "value": "Google",
     "decoration":{
       "type":"bullet"
     }
   },
   {
     "component": "text", 
-    "value": "Facebook's so many apps made on JS<br>",
+    "value": "Facebook's so many apps made on JS",
     "decoration":{
       "type":"bullet"
     }

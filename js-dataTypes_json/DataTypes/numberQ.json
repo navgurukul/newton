@@ -1,11 +1,11 @@
 [
     {
         "component": "text", 
-        "value": "<b>Exercises:<br></b>"
+        "value": "<b>Exercises:</b>"
     },
     {
         "component": "text", 
-        "value": "Write the program that has the variable name as num1 and assign a float value to it ?<br>",
+        "value": "Write the program that has the variable name as num1 and assign a float value to it ?",
         "decoration":{
             "type":"number",
             "value": 1
@@ -16,11 +16,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var num1=19.3;<br>"
+        "value": "var num1=19.3;"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following program? <br>",
+        "value": "What is the output of the following program? ",
         "decoration":{
             "type":"number",
             "value": 2
@@ -30,15 +30,15 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "console.log(300/2);<br>"
+        "value": "console.log(300/2);"
     },
     {
         "component": "text", 
-        "value": "output: 150;<br>"
+        "value": "output: 150;"
     },
     {
         "component": "text", 
-        "value": " What is the error in the following program?<br>",
+        "value": " What is the error in the following program?",
         "decoration":{
             "type":"number",
             "value": 3
@@ -48,14 +48,14 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "console.lo('2')<br>"
+        "value": "console.lo('2')"
     },
     {
         "component": "text", 
-        "value": "Output: TypeError: console.lo is not a function<br>"
+        "value": "Output: TypeError: console.lo is not a function"
     }, 
     {
         "component": "text", 
-        "value": "Here our function name is log but we wrote lo. So, it gave an error TypeError.<br>"
+        "value": "Here our function name is log but we wrote lo. So, it gave an error TypeError."
     }
 ]

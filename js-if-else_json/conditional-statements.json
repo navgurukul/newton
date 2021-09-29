@@ -1,28 +1,28 @@
 [
     {
         "component": "blockquote",
-        "value": "Consider the following:<br>"
+        "value": "Consider the following:"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "let condition = 'Raining'; <br>if(condition == 'Raining'){<br>&emsp;console.log('I will not go to the park');<br>}<br>else{<br>&emsp;console.log('I will go to the park')<br>}<br>"
+        "value": "let condition = 'Raining'; <br>if(condition == 'Raining'){<br>&emsp;console.log('I will not go to the park');<br>}<br>else{<br>&emsp;console.log('I will go to the park')<br>}"
     },
     {
         "component": "text", 
-        "value": "<b>Example</b><br>"
+        "value": "<b>Example</b>"
     },
     {
         "component": "text",
-        "value": "&emsp;If it rains tomorrow I will not go to play in the park, and if it does not rain then I will go to play in the park<br>"
+        "value": "&emsp;If it rains tomorrow I will not go to play in the park, and if it does not rain then I will go to play in the park"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b><br>"
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "text",
-        "value": "<br>In this example, there are two outputs (play in the park, and not play in the park), which depends on a condition which is the rainfall.<br>"
+        "value": "In this example, there are two outputs (play in the park, and not play in the park), which depends on a condition which is the rainfall."
     }
 ]
