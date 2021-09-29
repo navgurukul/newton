@@ -1,0 +1,39 @@
+[
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "What's next?<br>"
+	},
+	{
+		"component": "text",
+		"value": "Yeh bahut basic sa introduction tha API and JSON ka. Par iss mei kaafi\nsaare fundamentals covered the. Aap acche se samjhe kaise <span style=\"background-color: #f3f402;\">server</span>, <span style=\"background-color: #f3f402;\">API</span>,\n<span style=\"background-color: #f3f402;\">JSON</span> jaisi saari cheezein aapas mei interlinked hai.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Jab aap login karte hai, toh aap ko server **<span style=\"background-color: #f3f402;\">authenticate</span>** karta hai.\nPhir jab aap koi bhi request karte hai, toh aap batate hai, aap wohi ho\njisne thodi der pehle login kiya tha. Yeh sab karne ke liye aap headers\nka use karte ho. Unn sab cheezo ka hum <span style=\"background-color: #f3f402;\">API - Part 2</span> mei focus karenge.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Aise hi humne abhi bahut simple <span style=\"background-color: #f3f402;\">get</span> requests use ki hai, aage hum <span style=\"background-color: #f3f402;\">post</span>\nrequest use bhi karenge, aur sahi se dono tarah ki requests mei difference\nbhi pata karenge.<br>"
+	},
+	{
+		"component": "text",
+		"value": "<span class='highlight-this'>Tab</span> tak aap yeh features integrate kar sakte ho, apne <span class='highlight-this'>code</span> mei, jisse ki\nwoh aur behetar ho jaye:<br>"
+	},
+	{
+		"component": "text",
+		"value": "1 - <b>Up Navigation</b>\nJaise hi user <span style=\"background-color: #f3f402;\">up</span> likhe, toh aap usko peechli wali menu par le jao. Matlab\nagar woh <span style=\"background-color: #f3f402;\">exercises</span> ki list par hai, toh <span style=\"background-color: #f3f402;\">courses</span> ki list dikha kar, usse\nwaha se proceed karao, etc.<br>"
+	},
+	{
+		"component": "text",
+		"value": "2 - <b>Previous Navigation</b>\nJaise hi user 'p' likhe, toh usse next exercise ka content dikhao<br>"
+	},
+	{
+		"component": "text",
+		"value": "3 - <b>Next Navigation</b>\nJaise hi user 'n' likhe, toh usse next exercise ka content dikhao<br>"
+	},
+	{
+		"component": "text",
+		"value": "4 - **DRY - Don't repeat yourself**\nDekho kaha kaha aap apne <span class='highlight-this'>code</span> ko aap repeat kar rahe ho. Kya aap repetitions\navoid kar sakte ho - functions, etc. use kar kar?<br>"
+	}
+]

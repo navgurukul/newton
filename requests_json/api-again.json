@@ -1,0 +1,167 @@
+[
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "It's me - API - again ;)<br>"
+	},
+	{
+		"component": "text",
+		"value": "Ab aap yeh link - "
+	},
+	{
+		"component": "link",
+		"value": "http://saral.navgurukul.org/api/courses/74/exercises<br>",
+		"href": "http://saral.navgurukul.org/api/courses/74/exercises<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>open karein. Iss link mei, iss particular course ki saari<br>exercises ki list hai. Aur "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"background-color: #f3f402;\">"
+	},
+	{
+		"component": "text",
+		"value": "slug"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"background-color: #f3f402;\">"
+	},
+	{
+		"component": "text",
+		"value": "parentExerciseId"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"background-color: #f3f402;\">"
+	},
+	{
+		"component": "text",
+		"value": "githubLink"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": " jaisi<br>kuch aur bhi information hai. Iss information ko bhi hum aage use karenge."
+	},
+	{
+		"component": "text",
+		"value": "Jo <span style=\"background-color: #f3f402;\">course_id</span> user ne select ki hai, uske corresponding aapko yeh API\ncall karni hai. Phir jab aap yeh API call kar lenge, toh aapko kuch\nuss tarah ka data milega jaisa uppar wale link se mila tha. Ab aapko\nyeh exercise print karni hai <span class='highlight-this'>terminal</span> par. Kuch baatein jo important hai:<br>"
+	},
+	{
+		"component": "text",
+		"value": "1 - Agar <span style=\"background-color: #f3f402;\">childExercises</span> hai kisi bhi exercise ki toh, unko bhi print karni\nhai. Kyuki woh childExercise hai, toh woh thoda sa side mei print karo, spaces\ndekara. Unki numbering ke liye, socho kaise kar sakte ho.<br>"
+	},
+	{
+		"component": "text",
+		"value": "2 - Jaise aapne pehle <span style=\"background-color: #f3f402;\">id</span> nikali thi, user_choice ke vajah se, aise hi iss baar bhi\naapko, exercise ka <span style=\"background-color: #f3f402;\">slug</span> nikal kar rakhna hai. Toh aapki numbering aisa karna, ki\njo user <span class='highlight-this'>input</span> karein, usse aap guess kar payo, ki kaunsi <span style=\"background-color: #f3f402;\">exercise</span> user ne select ki\nhai, aur uska corresponding <span style=\"background-color: #f3f402;\">slug</span> kya hai.<br>"
+	},
+	{
+		"component": "text",
+		"value": "3 - Jab bhi <span style=\"background-color: #f3f402;\">parentExerciseId</span> null hoga json mei, toh <span style=\"background-color: #f3f402;\">json.loads</span> function usse <span style=\"background-color: #f3f402;\">Non\nki tarah read karega, and jab </span>childExercises<span style=\"background-color: #f3f402;\">, khaali list hoga, toh [] ki tarah hi\n<span class='highlight-this'>python</span> mei </span>json.loads<span style=\"background-color: #f3f402;\"> function aapko return karega.<br>"
+	},
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "Debug Mei Help Ke Liye<br>"
+	},
+	{
+		"component": "text",
+		"value": "Debug mei help karne ke liye, jab bhi aap yeh wala endpoint call karein, toh aap\napna result exercises_</span>id<span style=\"background-color: #f3f402;\">.json mei <span class='highlight-this'>save</span> kar le. Jaise agar aapne course_id 74,\nke liye endpoint call kiya hai to uska reply - exercises_74.json mei <span class='highlight-this'>save</span> kar le.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Kisi bhi </span>course_id<span style=\"background-color: #f3f402;\"> ke liye API call karne se pehle dekhe ki uski corresponding\nexercises_</span>id<span style=\"background-color: #f3f402;\">.json <span class='highlight-this'>file</span> exist karti hai ya nahi. Agar karti hai, toh ussi <span class='highlight-this'>file</span>\nko read kar le, nahi toh API call kar kar, uss <span class='highlight-this'>file</span> ko create kar le.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Isse jab aap baar baar, yeh <span class='highlight-this'>code</span> run karoge, toh API requests nahi hongi, aur\naap aasaani se debug kar paoge.<br>"
+	},
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "Bonus Task<br>"
+	},
+	{
+		"component": "text",
+		"value": "Ab aapka <span class='highlight-this'>code</span> <span class='highlight-this'>file</span> mei aapki ki gayi </span>request<span style=\"background-color: #f3f402;\"> ka <span class='highlight-this'>output</span> <span class='highlight-this'>save</span> karega.\nIsse aap agar har baar apna <span class='highlight-this'>code</span> <span class='highlight-this'>execute</span> karoge, toh har baar ek nayi API call nahi \nhogi.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Isse maan lo - agar aapka internet nahi bhi chal raha hai, toh stored <span class='highlight-this'>files</span> se user ko\n<span class='highlight-this'>output</span> dikhaya jaa sakta hai.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Jaise, agar aap kuch chote-mote changes kar rahe hoge, toh jab aap <span class='highlight-this'>code</span> doobara doobara\nchala rahe hoge, toh baar baar server par request nahi jayegi, jisse aap ka <span class='highlight-this'>code</span> quickly aapko\nresults de dega, jisse aap ko kuch debug karna asaan ho sakta hai.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Iss concept ko </span>caching<span style=\"background-color: #f3f402;\"> bolte hai, jab hum hamesha server se response maangne ke jagah\nusko locally <span class='highlight-this'>save</span> kar lete hai, jisse ki baar baar server ko pareshaan na karne padha.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Ek </span>ifCache<span style=\"background-color: #f3f402;\"> naam ka <span class='highlight-this'>variable</span> banao, jiski default value </span><span class='highlight-this'>True</span><span style=\"background-color: #f3f402;\"> ho. Yaani uss <span class='highlight-this'>variable</span> ko </span><span class='highlight-this'>True</span><span style=\"background-color: #f3f402;\"> value se initialise karo.<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Jab </span>ifCache<span style=\"background-color: #f3f402;\"> </span><span class='highlight-this'>True</span>' ho toh API call karne ke baad, jaise humne <span class='highlight-this'>file</span> mei uska <span class='highlight-this'>output</span> store kar liya tha, waise store kar payein. Iska matlab jab ifCache <span class='highlight-this'>True</span> hai, <span class='highlight-this'>tab</span> hum caching kar rahe hai, yaani response ko locally <span class='highlight-this'>save</span> kar rahe hai, jisse ki server ko baar baar pareshaan na karna padein.<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Otherwise jab <span style=\"background-color: #f3f402;\">ifCache</span> <span class='highlight-this'>variable</span> <span style=\"background-color: #f3f402;\"><span class='highlight-this'>False</span></span> ho toh hamesha API calls karo, chahe <span class='highlight-this'>files</span> exist karti ho ya nahi. Iska matlab humne caching disable yaani <span class='highlight-this'>False</span> kar di hai.<br><br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"background-color: #f3f402;\">ifCache</span> jaise <span class='highlight-this'>variables</span> ko kabhi kabhi **<span style=\"background-color: #f3f402;\">configuration <span class='highlight-this'>variables</span></span>** bhi bolte hai. Inn <span class='highlight-this'>variables</span> ko hum usually alag <span class='highlight-this'>files</span> mei, ya <span class='highlight-this'>file</span> ki beginning mei define karte hai, aur depending on humei <span class='highlight-this'>code</span> kis condition mei chalana hai, hum inn configuration <span class='highlight-this'>variables</span> ki value set kar dete hai. Toh jaise - aap <span class='highlight-this'>code</span> jab debug kar rahe hoge, toh aap<br>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "ifCaching=True<br>"
+	},
+	{
+		"component": "text",
+		"value": "set kar sakte ho. Aise hi jab aap ka <span class='highlight-this'>code</span>, kabhi koi live use kar raha hoga, toh aap apne <span class='highlight-this'>code</span> ko <br>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "ifCaching=False<br>"
+	},
+	{
+		"component": "text",
+		"value": "set kar kar chala sakte ho. Isse hamara <span class='highlight-this'>code</span> hamesha server se response maang kar hi user ko display karega.<br>"
+	}
+]

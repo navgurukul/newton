@@ -2,12 +2,12 @@
     {
         "component": "header",
         "variant": "3",
-        "value": "ARITHMETIC OPERATORS<br>"
+        "value": "ARITHMETIC OPERATORS"
     },
 
     {
         "component": "text",
-        "value": "Arithmetic operators ka use numeric value  ke sath common mathematical  operation karne ke liye use karte hai.<br>"
+        "value": "Arithmetic operators ka use numeric value  ke sath common mathematical  operation karne ke liye use karte hai."
     },
     {
         "component":"table",
@@ -52,185 +52,157 @@
     },
     {
         "component": "text", 
-        "value": "<b>Addition :-</b>"
+        "value": "<b>Addition :-</b> Additional operate kissi bhi value ko add krne ke liye use hota hai."
     },  
     {
-        "component": "text",
-        "value": "Additional operate kissi bhi value ko add krne ke liye use hota hai.<br>"
-    },
-    {
         "component": "text", 
-        "value": "<i>Example</i><br>"
+        "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=25<br>y=10<br>print(x+y)<br>"
+        "value": "x=25<br>y=10<br>print(x+y)"
     },
     {
         "component": "text", 
-        "value": "<i>Output :-</i><br>"
+        "value": "<i>Output :-</i>"
     },
     {
         "component": "text", 
-        "value": "35<br>"
+        "value": "35"
     },
     {
         "component": "text", 
-        "value": "<b>Subtraction :-</b>"
+        "value": "<b>Subtraction :-</b> Subtraction operator ek value ko dusri value se gatane  ke liye use krte hai."
     },  
     {
-        "component": "text",
-        "value": "Subtraction operator ek value ko dusri value se gatane  ke liye use krte hai.<br>"
-    },
-    {
         "component": "text", 
-        "value": "<i>Example</i><br>"
+        "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "var1=5<br>var2=3<br>print(var1-var2)<br>"
+        "value": "var1=5<br>var2=3<br>print(var1-var2)"
     },
     {
         "component": "text", 
-        "value": "<i>Output :-</i><br>"
+        "value": "<i>Output :-</i>"
     },
     {
         "component": "text", 
-        "value": "2<br>"
+        "value": "2"
     },
     {
         "component": "text", 
-        "value": "<i>Multiply :-</i>"
+        "value": "<i>Multiply :-</i> Multiply operate kiss bhi value ko guna krne ke kaam aata hai."
     },  
     {
-        "component": "text",
-        "value": "Multiply operate kiss bhi value ko guna krne ke kaam aata hai.<br>"
-    },
-    {
         "component": "text", 
-        "value": "<i>Example</i><br>"
+        "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=2<br>b=3<br>print(a*b)<br>"
+        "value": "a=2<br>b=3<br>print(a*b)"
     },
     {
         "component": "text", 
-        "value": "<i>Output :-</i><br>"
+        "value": "<i>Output :-</i>"
     },
     {
         "component": "text", 
-        "value": "6<br>"
+        "value": "6"
     },
     {
         "component": "text", 
-        "value": "<b>Division :-</b>"
+        "value": "<b>Division :-</b> Divsion operator kissi bhi ek value ko dursi value se divide krne ke kaam aata hai."
     },  
     {
-        "component": "text",
-        "value": "Divsion operator kissi bhi ek value ko dursi value se divide krne ke kaam aata hai.<br>"
-    },
-    {
       "component": "text", 
-      "value": "<i>Example</i><br>"
+      "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=5<br>y=2<br>print(x/y)<br>"
+        "value": "x=5<br>y=2<br>print(x/y)"
     },
     {
       "component": "text", 
-      "value": "<i>Output :-</i><br>"
+      "value": "<i>Output :-</i>"
     },
     {
         "component": "text", 
-        "value": "2.5<br>"
+        "value": "2.5"
     },
     {
         "component": "text", 
-        "value": "<b>Division :-</b>"
+        "value": "<b>Division :-</b> Divsion operator kissi bhi ek value ko dursi value se divide krne ke kaam aata hai."
     },  
     {
-        "component": "text",
-        "value": "Divsion operator kissi bhi ek value ko dursi value se divide krne ke kaam aata hai.<br>"
-    },
-    {
       "component": "text", 
-      "value": "<i>Example</i><br>"
+      "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=5<br>y=2<br>print(x/y)<br>"
+        "value": "x=5<br>y=2<br>print(x/y)"
     },
     {
       "component": "text", 
-      "value": "<i>Output :-</i><br>"
+      "value": "<i>Output :-</i>"
     },
     {
         "component": "text", 
-        "value": "2.5<br>"
+        "value": "2.5"
     },
     {
         "component": "text", 
-        "value": "<b>Modulus :-</b>"
+        "value": "<b>Modulus :-</b> Modulus operate kissi bhi ek value ko durse se divide krne ke baad jo reminder aata hai woh result mai deta hai."
     },  
     {
-        "component": "text",
-        "value": "Modulus operate kissi bhi ek value ko durse se divide krne ke baad jo reminder aata hai woh result mai deta hai.<br>"
-    },
-    {
       "component": "text", 
-      "value": "<i>Example</i><br>"
+      "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "num=5<br>num1=2<br>print(num%num1)<br>"
+        "value": "num=5<br>num1=2<br>print(num%num1)"
     },
     {
       "component": "text", 
-      "value": "<i>Output :-</i><br>"
+      "value": "<i>Output :-</i>"
     },
     {
         "component": "text", 
-        "value": "1<br>"
+        "value": "1"
     },
     {
         "component": "text", 
-        "value": "<b>Exponents :-</b>"
+        "value": "<b>Exponents :-</b> Exponents operate kissi bhi ek value ko dusri value ko multiple krta hai."
     },  
     {
-        "component": "text",
-        "value": "Exponents operate kissi bhi ek value ko dusri value ko multiple krta hai.<br>"
-    },
-    {
       "component": "text", 
-      "value": "<i>Example</i><br>"
+      "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "x=2<br>y=5<br>print(x**y)<br>"
+        "value": "x=2<br>y=5<br>print(x**y)"
     },
     {
       "component": "text", 
-      "value": "<i>Output :-</i><br>"
+      "value": "<i>Output :-</i>"
     },
     {
         "component": "text",
-        "value": "32<br>"
+        "value": "32"
     },
     {
         "component": "text", 
@@ -238,20 +210,20 @@
     },  
     {
       "component": "text", 
-      "value": "<i>Example</i><br>"
+      "value": "<i>Example</i>"
     },
     {
         "component": "code",
         "type": "python",
         "title" : "will add later",
-        "value": "a=15<br>b=2<br>print(a//b)<br>"
+        "value": "a=15<br>b=2<br>print(a//b)"
     },
     {
       "component": "text", 
-      "value": "<i>Output :-</i><br>"
+      "value": "<i>Output :-</i>"
     },
     {
         "component": "text",
-        "value": "7<br>"
+        "value": "7"
     }
 ]

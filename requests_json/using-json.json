@@ -1,0 +1,47 @@
+[
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "Using JSON<br>"
+	},
+	{
+		"component": "text",
+		"value": "Jo <span class='highlight-this'>code</span> humne likha tha, requests library kar kar, courses download karne ke liye, uss <span class='highlight-this'>code</span> mei yeh changes karo.<br>"
+	},
+	{
+		"component": "text",
+		"variant": 3,
+		"value": "Abhi tak woh code kya karta hai?<br>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"background-color: #f3f402;\">requests</span> module use kar kar, courses ka <span style=\"background-color: #f3f402;\">API Endpoint</span> ya <span style=\"background-color: #f3f402;\">URL</span> call kar kar, data <span style=\"background-color: #f3f402;\">courses.json</span> <span class='highlight-this'>file</span> mei store karta hai.<br>"
+	},
+	{
+		"component": "text",
+		"variant": 3,
+		"value": "Ab aapko kya karna hai?<br>"
+	},
+	{
+		"component": "text",
+		"value": "- <span style=\"background-color: #f3f402;\">courses.json</span> file padh kar<br>- aapko iss object ko ek json argument mei load karna hai<br>- uss json object ko parse kar kar<br>- aapko saare courses ki list print karni hai, jaise<br><br><br>- 1. Introduction to Javascript<br>- 2. Getting Started<br>- 3. Implementing PickleDB - DB - Part I<br>- ...<br>- ...<br>- n. Web Scraping 101<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yeh karne se pehle aap apne <span class='highlight-this'>code</span> mei ek chota sa change karo, ki<br>"
+	},
+	{
+		"component": "text",
+		"value": "check karo ki agar (if) <span style=\"background-color: #f3f402;\">courses.json</span> pehle se exist karti hai,<br>toh aap dobara API call mat karo. isse aap debugging fast kar<br>paoge. API call sirf tab karo, jab <span style=\"background-color: #f3f402;\">courses.json</span> file exist nahi<br>karti<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "isse aap fast debugging kar paoge, nahi toh baar baar\naapko API call khatam hone ka wait karna padega.<br>"
+	}
+]

@@ -1,0 +1,6 @@
+{
+	"passing-command-line-arguments-to-open()_key1": "# Passing Command Line Arguments to Popen()\n\n",
+	"passing-command-line-arguments-to-open()_key2": "You can pass command line arguments to processes you create with Popen(). To do so, you pass a list as the sole argument to Popen(). The first `string` in this list will be the execu`tab`le `file`name of the program you want to launch; all the subsequent `strings` will be the command line arguments to pass to the program when it starts. In effect, this list will be the value of sys.argv for the launched program.\n",
+	"passing-command-line-arguments-to-open()_key3": "Most `applications` with a graphical user interface (GUI) don’t use command line arguments as extensively as command line–based or `terminal`-based programs do. But most GUI `applications` will accept a single argument for a `file` that the `applications` will immediately open when they start. For example, if you’re using Windows, create a simple text `file` called C:\\hello.txt and then enter the following into the interactive `shell`:\n",
+	"passing-command-line-arguments-to-open()_key4": "<subprocess.Popen object at 0x00000000032DCEB8>\nThis will not only launch the Notepad `application` but also have it immediately open the C:\\hello.txt `file`.\n"
+}

@@ -2,46 +2,46 @@
     {
         "component": "header",
         "variant": "2",
-        "value": " Difference between null and undefined<br>"
+        "value": " Difference between null and undefined"
     },
     {
         "component": "text", 
-        "value": "<b>Example:</b><br>"
+        "value": "<b>Example:</b>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var empty = null;<br>console.log(empty); // Output: null<br>console.log(typeof(empty)); // Output: object<br>"
+        "value": "var empty = null;<br>console.log(empty); // Output: null<br>console.log(typeof(empty)); // Output: object"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation:</b><br>"
+        "value": "<b>Explanation:</b>"
     },
     {
         "component": "text",
-        "value": "Null is the value which we can assign to a variable and it means nothing. As you can see in the above example we have assigned a value “null” to a variable named “empty”. when we check the type of it, It will show us its type as object, which is the by default error in javascript which should not be there, but it can’t be changed also.<br>"
+        "value": "Null is the value which we can assign to a variable and it means nothing. As you can see in the above example we have assigned a value “null” to a variable named “empty”. when we check the type of it, It will show us its type as object, which is the by default error in javascript which should not be there, but it can’t be changed also."
     },
     {
         "component": "text",
-        "value": "Where as,<br>"
+        "value": "Where as,"
     },
     {
         "component": "text", 
-        "value": "<b>Example:</b><br>"
+        "value": "<b>Example:</b>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var notDefined;<br>console.log(notDefined); // Output: undefined<br>console.log(typeof(notDefined)); // Output: undefined<br>"
+        "value": "var notDefined;<br>console.log(notDefined); // Output: undefined<br>console.log(typeof(notDefined)); // Output: undefined"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b><br>"
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "text",
-        "value": "Here in Undefined we have declared a variable but didn’t assign a value to it which means the variable is there but nothing is stored in it, so when we try to console it the output will be “undefined” as it is not defined yet. The type of undefined is also the same, here the value of a variable is not defined so it shows the type also as undefined.<br>"
+        "value": "Here in Undefined we have declared a variable but didn’t assign a value to it which means the variable is there but nothing is stored in it, so when we try to console it the output will be “undefined” as it is not defined yet. The type of undefined is also the same, here the value of a variable is not defined so it shows the type also as undefined."
     }
 ]

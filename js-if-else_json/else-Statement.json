@@ -1,51 +1,51 @@
 [
     {
         "component": "text",
-        "value": " If any “ if ”  condition is false then an “else” statement comes into the picture.<br>"
+        "value": " If any “ if ”  condition is false then an “else” statement comes into the picture."
     },
     {
         "component": "text", 
-        "value": "<b>Example</b><br>"
+        "value": "<b>Example</b>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "text": "var a = 10; <br>var b = 12; <br>if(a > b){ <br>&emsp;console.log(a,\" is greater than \",b);<br>}<br>else {<br>&emsp;console.log(b,\" is greater than \" ,a);<br>}<br>"    
+        "text": "var a = 10; <br>var b = 12; <br>if(a > b){ <br>&emsp;console.log(a,\" is greater than \",b);<br>}<br>else {<br>&emsp;console.log(b,\" is greater than \" ,a);<br>}"    
     },
     {
         "component": "text",
-        "value": "Output :- 12 is greater than 10<br>"
+        "value": "Output :- 12 is greater than 10"
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b><br>"
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "text",
-        "value": "&emsp;In this example if a condition is false. So, else statement will execute <br>"
+        "value": "&emsp;In this example if a condition is false. So, else statement will execute"
     },
     {
         "component": "text", 
-        "value": "<b>Example</b><br>"
+        "value": "<b>Example</b>"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var num1= 10; <br>var num2 = 20; <br><br>if(num1>num2){<br>&emsp;connsole.log(\"num1 is greater than num2\");<br>}<br>else{<br>&emsp;console.log(\"num2 is greater than num1\");<br>}<br>"
+        "value": "var num1= 10; <br>var num2 = 20; <br><br>if(num1>num2){<br>&emsp;connsole.log(\"num1 is greater than num2\");<br>}<br>else{<br>&emsp;console.log(\"num2 is greater than num1\");<br>}"
     },
     {
         "component": "text",
-        "value": "output: \"num2 is greater than num1 \"<br>"
+        "value": "output: \"num2 is greater than num1 \""
     },
     {
         "component": "text", 
-        "value": "<b>Explanation</b><br>"
+        "value": "<b>Explanation</b>"
     },
     {
         "component": "text",
-        "value": "&emsp;The condition that we given num1> num2  is false because num1 (10) is not <br>&emsp;greater than num2(20), So, if condition is false it will go to else condition <br>&emsp;and print the <br>&emsp;num2 is greater than num1.<br>"
+        "value": "&emsp;The condition that we given num1> num2  is false because num1 (10) is not <br>&emsp;greater than num2(20), So, if condition is false it will go to else condition <br>&emsp;and print the <br>&emsp;num2 is greater than num1."
     }
 ]
 

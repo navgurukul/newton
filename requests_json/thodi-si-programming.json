@@ -1,0 +1,31 @@
+[
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "Thodi si Programming!<br>"
+	},
+	{
+		"component": "text",
+		"variant": 3,
+		"value": "What we have done so far<br>"
+	},
+	{
+		"component": "text",
+		"value": "requests use kar ke courses download kar liye<br>aur user ko aapne ek list of courses bhi dikha di<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"variant": 3,
+		"value": "Aage kya karna hai?<br>"
+	},
+	{
+		"component": "text",
+		"value": "user koi bhi ek course select karega iske liye user,<br>uss course ke saamne likha hua number input karega<br><br>agar aap dhyaan se dekhenge toh, yeh number<br>course ki jo list aapko json se milegi<br>uss list ke <span style=\"background-color: #f3f402;\">index</span> ki tarah hoga, jaise aapne<br>KBC game mei shayad kiya hoga<br><br>ussi json ko use kar kar, ab aap, uss course ke<br>corresponding jo <span style=\"background-color: #f3f402;\">id</span> stored hai, <span style=\"background-color: #f3f402;\">json</span> mei,<br>woh aap dhoondh sakte hai<br><br>yeh <span style=\"background-color: #f3f402;\">id</span> print karo. yehi <span style=\"background-color: #f3f402;\">id</span> hum agle part mei use karenge.<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

@@ -7,19 +7,19 @@
   },
   {
     "component": "text",
-    "value": "Before we give you a formal definition of JavaScript, let us show you where JavaScript is used. Chances are, you have already used JavaScript before.<br>"
+    "value": "Before we give you a formal definition of JavaScript, let us show you where JavaScript is used. Chances are, you have already used JavaScript before."
   },
   {
     "component": "text",
-    "value": "Every time you Play audio and video on youtube, you are likely using JavaScript.<br>"
+    "value": "Every time you Play audio and video on youtube, you are likely using JavaScript."
   },
   {
     "component": "text",
-    "value": "Every time you click a button on a browser, chances are there that you are using javascript.<br>"
+    "value": "Every time you click a button on a browser, chances are there that you are using javascript."
   },
   {
     "component": "text",
-    "value": "  You can go through this video first to understand the features of Javascript.<br>"
+    "value": "  You can go through this video first to understand the features of Javascript."
   },
   {
     "component": "youtube",
@@ -27,38 +27,33 @@
   },
   {
     "component": "text",
-    "value": "Javascript is a high-level scripting and interpreted programming language. Now, there are three important phrases to understand here. High level, Scripting, and Interpreted.<br>"
+    "value": "Javascript is a high-level scripting and interpreted programming language. Now, there are three important phrases to understand here. High level, Scripting, and Interpreted."
   },
   {
     "component": "text",
-    "value": "Please follow this link<br>"
-  },
-  {
-    "component": "link",
-    "value": "VSCode<br>",
-    "href": "https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/"
+    "value": "Please follow this link <a href=\"https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/\">VSCode</a>"
   },
   {
     "component": "text",
-    "value": "To run javascript in vscode you need to install a node to do that. Follow this<br>"
+    "value": "To run javascript in vscode you need to install a node to do that. Follow this"
   },
   {
     "component":"text",
-    "value": "High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.<br>",
+    "value": "High Level Language :- High-Level Language is a language which humans can understand and write easily. For example, English can be read by us easily. And JavaScript code also can be read by us humans easily.",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also.<br>",
+    "value": "Scripting Language :- Scripting language is a language which converts our human-readable code into machine code. Machine code, as you may know, exists as 1s and 0s  and we will call it a low level language also.",
     "decoration":{
        "type":"bullet"
     }
   },
   {
     "component":"text",
-    "value": "Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it.<br>",
+    "value": "Interpreted Programming Language :- An Interpreter read over the JavaScript code, one line at a time, and runs it. Javascript is run by Interpreter. Some other languages, like Java, for instance, are run by something called a Compiler. A compiler does not run the code line by line. Instead, it reads the entire code and then runs it.",
     "decoration":{
        "type":"bullet"
     }

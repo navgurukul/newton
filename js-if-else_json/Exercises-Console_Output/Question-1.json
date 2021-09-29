@@ -1,16 +1,16 @@
 [
     {
         "component": "text",
-        "value": "Print  the students\" names according to day?<br>"
+        "value": "Print  the students\" names according to day?"
     },
     {
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "var day = \"TUeSday\".toLowerCase();<br>if (day == \"monday\") {<br>&emsp;console.log(\"Dhanwantari<br>SiddhiKritika<br>Salon<br>Mayuri<br>Gauri\");<br>}<br>else if (day == \"tuesday\") {<br>&emsp;console.log(\"Keemaya<br>Roshni<br>Pooja<br>Priyanka<br>nalini<br>Manisha\");<br>}<br>else if (day == \"wednesday\") {<br>&emsp;console.log(\"Shrusti<br>Karuna<br>Parveen<br>Sandhya<br>Leena<br>Karishma\");<br>}<br>else if (day == \"thursday\") {<br>&emsp;console.log(\"Nikita<br>Mona<br>Priyanka<br>Tejashree<br>Lovely<br>Mehzebin\");<br>}<br>else if (day == \"friday\") {<br>&emsp;console.log(\"Pihu<br>Sejal<br>Chaya<br>Shrestha<br>Monali<br>Aardhangya\");<br>}<br>else if (day == \"saturday\") {<br>&emsp;console.log(\"Gunjan<br>Shweta<br>Rani<br>Isha<br>Kusu<br>Madhu<br>\");<br>}<br>else if (day == \"sunday\") {<br>&emsp;console.log(\"Swati<br>Khusboo<br>idhi<br>Preeti<br>Dipti<br>Anamika\");<br>}<br>else {<br>console.log(\"Please enter valid week day\")<br>}<br>"
+        "value": "var day = \"TUeSday\".toLowerCase();<br>if (day == \"monday\") {<br>&emsp;console.log(\"Dhanwantari<br>SiddhiKritika<br>Salon<br>Mayuri<br>Gauri\");<br>}<br>else if (day == \"tuesday\") {<br>&emsp;console.log(\"Keemaya<br>Roshni<br>Pooja<br>Priyanka<br>nalini<br>Manisha\");<br>}<br>else if (day == \"wednesday\") {<br>&emsp;console.log(\"Shrusti<br>Karuna<br>Parveen<br>Sandhya<br>Leena<br>Karishma\");<br>}<br>else if (day == \"thursday\") {<br>&emsp;console.log(\"Nikita<br>Mona<br>Priyanka<br>Tejashree<br>Lovely<br>Mehzebin\");<br>}<br>else if (day == \"friday\") {<br>&emsp;console.log(\"Pihu<br>Sejal<br>Chaya<br>Shrestha<br>Monali<br>Aardhangya\");<br>}<br>else if (day == \"saturday\") {<br>&emsp;console.log(\"Gunjan<br>Shweta<br>Rani<br>Isha<br>Kusu<br>Madhu<br>\");<br>}<br>else if (day == \"sunday\") {<br>&emsp;console.log(\"Swati<br>Khusboo<br>idhi<br>Preeti<br>Dipti<br>Anamika\");<br>}<br>else {<br>console.log(\"Please enter valid week day\")<br>}"
     },
     {
         "component": "text",
-        "value": "Output: <br>keemaya <br>roshni <br>pooja <br>priyanka <br>nalini <br>Manisha<br>"
+        "value": "Output: <br>keemaya <br>roshni <br>pooja <br>priyanka <br>nalini <br>Manisha"
     }
 ]

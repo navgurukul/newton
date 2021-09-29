@@ -1,0 +1,56 @@
+[
+	{
+		"component": "text",
+		"variant": 2,
+		"value": "Dekho, Dekho - Slug aaya hai!<br>"
+	},
+	{
+		"component": "text",
+		"value": "Ab aap yeh link -<br>"
+	},
+	{
+		"component": "link",
+		"value": "http://saral.navgurukul.org/api/courses/75/exercise/getBySlug?slug=requests__using-json<br>",
+		"href": "http://saral.navgurukul.org/api/courses/75/exercise/getBySlug?slug=requests__using-json<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>open karein. Aise link ko use kar kar, aap kisi particular exercise ka content<br>nikal sakte hai."
+	},
+	{
+		"component": "text",
+		"value": "Yeh karne ke liye teen steps honge:<br>"
+	},
+	{
+		"component": "text",
+		"value": "1 - Sabse pehle aap user se <span class='highlight-this'>input</span> loge, ki user kaunsi exercise ka content dekhna chahta hai\n2 - User se <span class='highlight-this'>input</span> lekar, aap corresponding exercise ka <span style=\"background-color: #f3f402;\">slug</span> nikaloge\n3 - Yeh <span style=\"background-color: #f3f402;\">slug</span> aur purana <span style=\"background-color: #f3f402;\">course_id</span> use kar kar, aap uppar wale jaisa URL call karoge<br>"
+	},
+	{
+		"component": "text",
+		"variant": 3,
+		"value": "Slug Nikalne ke liye hints<br>"
+	},
+	{
+		"component": "text",
+		"value": "Pehle toh aap yeh samjhiye, slug nikalna normal programming hai,\niska requests se kuch khaas lena dena nahi hai.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Jaise hi user <span class='highlight-this'>input</span> karega, toh aap ko dekhna padega, ki woh parent\nexercise hai, child exercise.<br>"
+	},
+	{
+		"component": "text",
+		"value": "Phir aap yeh process repeat karna:<br>"
+	},
+	{
+		"component": "text",
+		"value": "- Aap kuch select karna, aur manually list mei se uski <span style=\"background-color: #f3f402;\">slug</span> dhoondhna.<br>- Yeh aap 5 se 10 baar karo.<br>- Yeh karte karte observe karo, ki aap slug kaise nikal rahe ho.<br>- Aap ussi karne ke tareeke ki - ek user story likho.<br>- Uss user story ko code mei badalne ki koshish karo<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aise kar kar shayad aap soch pao, ki kaise user ki selection ke basis par aap usse\nkoi slug recommend kar sakte ho.<br>"
+	}
+]

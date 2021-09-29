@@ -1,11 +1,11 @@
 [    
     {
         "component": "text", 
-        "value": "<b>Exercises</b><br>"
+        "value": "<b>Exercises</b>"
     },
     {
         "component": "text", 
-        "value": "What is the output of the following code? <br>",
+        "value": "What is the output of the following code? ",
         "decoration":{
             "type":"number",
             "value": 1
@@ -15,15 +15,15 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "console.log(typeof “Navgurukul”); <br>console.log(typeof {name: \"Shweta\", age: 118});<br>console.log(typeof [1, 2, 4]); console.log(typeof function(){});<br>"
+        "value": "console.log(typeof “Navgurukul”); <br>console.log(typeof {name: \"Shweta\", age: 118});<br>console.log(typeof [1, 2, 4]); console.log(typeof function(){});"
     },
     {
         "component": "text", 
-        "value": "Output:<br>&emsp;string<br>&emsp;object<br>&emsp;object<br>&emsp;function<br>"
+        "value": "Output:<br>&emsp;string<br>&emsp;object<br>&emsp;object<br>&emsp;function"
     },
     {
         "component": "text", 
-        "value": "What is the error in the following code?<br>",
+        "value": "What is the error in the following code?",
         "decoration":{
             "type":"number",
             "value": 2
@@ -33,11 +33,11 @@
         "component": "code",
         "type": "javascript",
         "title" : "will add later",
-        "value": "console.log(typeOf {name: \"Shweta\", age: 18});<br>"
+        "value": "console.log(typeOf {name: \"Shweta\", age: 18});"
     },
     {
         "component": "text", 
-        "value": "Output: SyntaxError: missing ) after argument list.<br>"
+        "value": "Output: SyntaxError: missing ) after argument list."
     },
     {
         "component": "text", 

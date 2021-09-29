@@ -1,0 +1,10 @@
+{
+	"getting-individual-values-in-a-list-with-indexes_key1": "# Getting Individual Values in a List with Indexes\n\n",
+	"getting-individual-values-in-a-list-with-indexes_key2": "Say you have the list ['cat', 'bat', 'rat', 'elephant'] stored in a `variable` named spam. The `Python` `code` spam[0] would evaluate to 'cat', and spam[1] would evaluate to 'bat', and so on. The `integer` inside the square brackets that follows the list is called an index. The first value in the list is at index 0, the second value is at index 1, the third value is at index 2, and so on. Figure 4-1 shows a list value assigned to spam, along with what the index expressions would evaluate to.\n",
+	"getting-individual-values-in-a-list-with-indexes_key3": " A list value stored in the `variable` spam, showing which value each index refers to\nFigure 4-1. A list value stored in the `variable` spam, showing which value each index refers to\n",
+	"getting-individual-values-in-a-list-with-indexes_key4": "For example, type the following expressions into the interactive `shell`. Start by assigning a list to the `variable` spam.\n",
+	"getting-individual-values-in-a-list-with-indexes_key5": "Notice that the expression 'Hello ' + spam[0] ❶ evaluates to 'Hello ' + 'cat' because spam[0] evaluates to the `string` 'cat'. This expression in turn evaluates to the `string` value 'Hello cat' ❷.\n",
+	"getting-individual-values-in-a-list-with-indexes_key6": "`Python` will give you an Index`Error` `error` message if you use an index that exceeds the number of values in your list value.\n",
+	"getting-individual-values-in-a-list-with-indexes_key7": "Indexes can be only `integer` values, not `floats`. The following example will cause a Type`Error` `error`:\n",
+	"getting-individual-values-in-a-list-with-indexes_key8": "The first index dictates which list value to use, and the second indicates the value within the list value. For example, spam[0][1] prints 'bat', the second value in the first list. If you only use one index, the program will print the full list value at that index.\n"
+}
