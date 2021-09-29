@@ -17,17 +17,15 @@
     "value": "VePxnvFBZAs"
   },
   {
-    "component": "link", 
-    "value": "Things you can build with JavaScript?",
-    "href": "https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/",
+    "component": "text", 
+    "value": "<a href=\"https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/\">Things you can build with JavaScript?</a>",
     "decoration":{
       "type":"bullet"
     }
   },
   {
-    "component": "link", 
-    "value": "What are some of the cool projects that I can build using Pure JavaScript?",
-    "href": "https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio",
+    "component": "text", 
+    "value": "<a href=\"https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio\">What are some of the cool projects that I can build using Pure JavaScript?</a>",
     "decoration":{
       "type":"bullet"
     }
