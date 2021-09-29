@@ -1,9 +1,0 @@
-{
-	"the-current-working-directory_key1": "# The Current Working Directory\n\n",
-	"the-current-working-directory_key2": "Every program that runs on your computer has a current working directory, or cwd. Any `file`names or paths that do not begin with the root folder are assumed to be under the current working directory. You can get the current working directory as a `string` value with the os.getcwd() function and change it with os.chdir(). Enter the following into the interactive `shell`:\n",
-	"the-current-working-directory_key3": "Here, the current working directory is set to C:\\`Python3`4, so the `file`name project.docx refers to C:\\`Python3`4\\project.docx. When we change the current working directory to C:\\Windows, project.docx is interpreted as C:\\ Windows\\project.docx.\n",
-	"the-current-working-directory_key4": "`Python` will display an `error` if you try to change to a directory that does not exist.\n",
-	"the-current-working-directory_key5": "Traceback (most recent call last):\n  `File` \"<py`shell`#18>\", line 1, in <module>\n    os.chdir('C:\\\\ThisFolderDoesNotExist')\n`File`NotFound`Error`: [Win`Error` 2] The system cannot find the `file` specified:\n'C:\\\\ThisFolderDoesNotExist'\n",
-	"the-current-working-directory_key6": "# Note\n\n",
-	"the-current-working-directory_key7": "While folder is the more modern name for directory, note that current working directory (or just working directory) is the standard term, not current working folder.\n"
-}

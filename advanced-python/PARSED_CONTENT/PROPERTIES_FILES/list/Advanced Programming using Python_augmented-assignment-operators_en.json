@@ -1,7 +1,0 @@
-{
-	"augmented-assignment-operators_key1": "# Augmented Assignment `Operators`\n\n",
-	"augmented-assignment-operators_key2": "When assigning a value to a `variable`, you will frequently use the `variable` itself. For example, after assigning 42 to the `variable` spam, you would increase the value in spam by 1 with the following `code`:\n",
-	"augmented-assignment-operators_key3": "As a shortcut, you can use the augmented assignment `operator` += to do the same thing:\n",
-	"augmented-assignment-operators_key4": "There are augmented assignment `operators` for the +, -, *, /, and % `operators`, described in `Tab`le 4-1.\n`Tab`le 4-1. The Augmented Assignment `Operators`\nAugmented assignment `statement`\nEquivalent assignment `statement`\n",
-	"augmented-assignment-operators_key5": "The += `operator` can also do `string` and list concatenation, and the *= `operator` can do `string` and list replication. Enter the following into the interactive `shell`:\n"
-}

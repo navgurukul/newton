@@ -1,6 +1,0 @@
-{
-	"matching-newlines-with-the-dot-character_key1": "# Matching Newlines with the Dot Character\n\n",
-	"matching-newlines-with-the-dot-character_key2": "The dot-star will match everything except a newline. By passing re.DOTALL as the second argument to re.compile(), you can make the dot character match all characters, including the newline character.\n",
-	"matching-newlines-with-the-dot-character_key3": "Enter the following into the interactive `shell`:\n",
-	"matching-newlines-with-the-dot-character_key4": "The regex noNewlineRegex, which did not have re.DOTALL passed to the re.compile() call that created it, will match everything only up to the first newline character, whereas newlineRegex, which did have re.DOTALL passed to re.compile(), matches everything. This is why the newlineRegex.search() call matches the full `string`, including its newline characters.\n"
-}

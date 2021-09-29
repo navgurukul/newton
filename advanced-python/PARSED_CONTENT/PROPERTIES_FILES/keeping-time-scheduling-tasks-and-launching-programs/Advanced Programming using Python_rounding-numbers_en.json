@@ -1,8 +1,0 @@
-{
-	"rounding-numbers_key1": "# Rounding Numbers\n\n",
-	"rounding-numbers_key2": "When working with times, you’ll often encounter `float` values with many digits after the decimal. To make these values easier to work with, you can shorten them with `Python`’s built-in round() function, which rounds a `float` to the precision you specify. Just pass in the number you want to round, plus an optional second argument representing how many digits after the decimal point you want to round it to. If you omit the second argument, round() rounds your number to the nearest whole `integer`. Enter the following into the interactive `shell`:\n",
-	"rounding-numbers_key3": "1425064108.017826\n",
-	"rounding-numbers_key4": "1425064108.02\n",
-	"rounding-numbers_key5": "1425064108.0178\n",
-	"rounding-numbers_key6": "1425064108\nAfter importing time and storing time.time() in now, we call round(now, 2) to round now to two digits after the decimal, round(now, 4) to round to four digits after the decimal, and round(now) to round to the nearest `integer`.\n"
-}
