@@ -43,6 +43,7 @@ name: Nodejs_Curriculum
                                         2.Meraki Learn API with express and MySQL db. (4-5 days)
                                         3.Blog App with express and MySQL (7-9 days)
                                         4.Turing e-commerce API (12-15 days)
-  Interview Preparations                                      
                                         
+                                        
+                     Interview preparation
 
