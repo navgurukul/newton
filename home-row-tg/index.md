@@ -12,3 +12,4 @@
 - keys_a_s_g_j.md
 - keys_a_s_k_l.md
 - keys_d_f_h_;.md
+- Words-from-homerow.md
