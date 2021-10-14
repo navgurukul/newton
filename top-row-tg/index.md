@@ -8,3 +8,4 @@
 - keys_w_o_spacebar.md
 - keys_w_r_o.md
 - keys_w_r_y_o.md
+- keys_xyz.md
