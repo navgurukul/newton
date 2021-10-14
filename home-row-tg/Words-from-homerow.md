@@ -1,0 +1,32 @@
+ as
+ ask
+ asks
+ all
+  dad
+   salad 
+flask
+  lass 
+falls
+ dash 
+ glad
+ lad's 
+ ash
+  gash
+ hash 
+ lash
+  flash’s
+ glass  
+fall 
+hall 
+flag 
+sag 
+gag’s 
+flag’s 
+half 
+had 
+has 
+saga 
+sash  
+gaff  
+hald
+
