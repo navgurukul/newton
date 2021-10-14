@@ -19,10 +19,12 @@ falls
  dash 
  glad
  lad's 
+ lad
  ash
   gash
  hash 
  lash
+ flash
   flash’s
  glass  
 fall 
@@ -30,6 +32,8 @@ hall
 flag 
 sag 
 gag’s 
+gag
+fkag
 flag’s 
 half 
 had 
@@ -38,4 +42,28 @@ saga
 sash  
 gaff  
 hald
-
+dahl
+salsa
+shads
+shags
+skalds
+algal
+lakhs
+adds
+hadal
+daffs
+alga
+gala
+dal
+alaska
+haaf
+dhak
+gags
+kasha
+shall
+alfalfa
+sass
+sall
+jagg
+kaf
+kaj
