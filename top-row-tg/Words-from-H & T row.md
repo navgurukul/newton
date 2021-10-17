@@ -1,0 +1,365 @@
+
+
+ ## Words from keys present in the Top & Home Row
+
+Well done! You have completed all the key drills in the Top Row Chapter. 
+It is time to test your muscle memory by typing words that we use in the everyday life from the Top & Home Row. 
+Remember, use your index finger of both of your hands to feel the bump on the key and type the key with the assigned finger only.
+Never forget the golden rule of touch typing, you must look at the screen and not at the keyboard while typing the words. No need to rush, take your time and type the right key
+
+
+he 
+she 
+will
+they
+sutter 
+shake 
+flake 
+flies 
+fish 
+fell 
+slid 
+ high 
+saddle  
+alligator
+goat
+leopard
+shephard
+elk 
+eagle
+frog
+ferret
+hawk
+giraffe
+gorilla
+grasshopper
+goose
+harrier
+horse
+squid
+spider
+hedgehog
+hoopoe
+house
+whale
+seahorse
+hagfish
+huskador
+hare
+jellyfish
+doddle
+sheepdog
+terrier
+squirrel
+jaguar
+kangaroo
+kangal
+kakapo
+kiwi
+koala
+kodkod
+deer
+oyster
+okapi
+parrot
+peagle
+peekapoo
+pitador
+platypus
+poodle
+porpoise
+potoroo
+pyredoodle
+wolf
+roggle
+saluki
+saola
+sawfish
+seaotter
+slug
+seal
+husky
+sloth
+sparrow
+squid
+stoat
+sugar glider
+tapir
+tarsier
+tetra
+thrush
+tiger
+white tiger
+toadfish
+torkie
+tuatara
+turkey
+uakari
+uguisu
+walleye fish
+warthog
+wasp
+weasel
+westiepoo
+whippet
+whoddle
+wolffish
+pugshire
+puggle
+pugapoo
+pyrador
+wolf eel
+sells 
+sea 
+shells  
+he 
+sails 
+high 
+seas 
+ likes 
+idle  
+life  
+he 
+hides 
+his 
+head 
+shell 
+ red address
+ dragged 
+dare 
+feared 
+degree 
+reads 
+rage
+  are
+ seeds 
+ garage 
+surf  
+suit
+  sweet 
+hide 
+her
+  killer
+ heels 
+rid 
+ old 
+oil 
+shard 
+road 
+dog 
+graft 
+fast
+ raja 
+shark 
+gard 
+high 
+higher
+highest
+ heard 
+ hugh 
+sigh 
+judge
+woodlouse
+wrasse
+yak
+fair 
+skinned 
+dog 
+fur
+hard 
+fried 
+eggs
+fudge 
+ lush 
+easier 
+glug
+ sure
+ rug
+udaipur 
+dispur 
+jayapura 
+jaipur 
+raipur 
+jodhpur 
+erode
+hot  
+too 
+ sit 
+ oat 
+ hit 
+start 
+flat 
+loot 
+tapestry 
+eat 
+fruit 
+fastest 
+further 
+farther 
+set 
+light
+art 
+tad 
+sat 
+tar
+ hat 
+rat 
+tat 
+ghat 
+fat 
+halt 
+salt 
+raft 
+draft 
+grass 
+hart 
+heart 
+haft 
+dark
+three 
+thirty
+follow  
+fellow
+ dude
+shy 
+dry 
+lightly 
+eight 
+thirty 
+yesterday 
+ray 
+stuff 
+shark 
+hurry 
+fairy 
+dairy 
+fly 
+float 
+fledge 
+goat 
+gloat 
+jay
+lady
+yard 
+fray 
+flay 
+just 
+dust 
+shut 
+lush 
+fur 
+hut 
+surf
+feel
+hype 
+learn
+ type
+away
+always 
+what 
+will 
+who
+we 
+wish 
+whether 
+weather 
+why 
+whatsapp 
+wright 
+waist 
+wrist 
+walk 
+streets 
+work 
+out
+
+outside 
+oysters 
+rode 
+gold 
+goose
+lasso 
+ostrich 
+owl 
+outstanding
+off 
+sheep
+you 
+go 
+yield;
+yourself 
+yours
+were 
+watered  
+fed
+saiga
+saluki
+float 
+ keys
+yellow 
+grass
+trees
+Welly
+gharial
+gate
+ top 
+row 
+ tortoise
+turtle
+together 
+through 
+here
+start
+show
+quarrelled 
+quietly 
+hall
+quoll
+quail
+quagga
+quokka
+rottsky
+rottweiler
+earthquake
+ huge 
+shift
+ soil 
+usually 
+playful 
+puppies 
+kept 
+path
+ soapy 
+whippet
+walrus
+squid 
+sprayed  
+purple 
+jet
+eighty 
+puppies 
+ate 
+squishy 
+supper
+ pigs
+ kept 
+path 
+quite 
+well
+pirates 
+partied 
+quiet 
+pool
+suresh
+ surya 
+sarthak 
+seraiyu 
+jatayu 
+gopal 
+kartik
+ kartikeya
+ isha
+ usha 
+tathagat
+ rohtak 
+diu
