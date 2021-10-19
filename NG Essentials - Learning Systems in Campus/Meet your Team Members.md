@@ -12,7 +12,7 @@ name: Meet your Team Members
 
 **Academic Associate :** Looks after the Academics, each student’s study progress and guide the coaches on  how to treat students. Maintains the academics of the whole Campus.
 
-**CIF (Code India Fellow):** Oncampus Duties + off Campus duties ,introduce new learning Pedagogies.
+**CIF (Code India Fellow):** Oncampus Duties + off Campus duties, introduce new learning Pedagogies.
 
 **Apprentice :** These are the bright students of Navgurukul who have excelled are selected and then trained by Academic Associates.
 
