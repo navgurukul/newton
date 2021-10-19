@@ -1,8 +1,8 @@
 ```ngMeta
-name: Who is a good Coach ?
+name: Who is a Good Coach?
 ```
 
-## Who is a Good Coach ?
+## Who is a Good Coach?
 
 1. She should know how to manage a group of students.
 2. Take a class for students who need help with a particular topic.
