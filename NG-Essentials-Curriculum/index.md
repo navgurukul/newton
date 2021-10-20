@@ -1,4 +1,4 @@
-- Where to start?.md
+- Where_to_start?.md
 - Quarantine_Study_Schedule.md
 - Python_Curriculum.md
 - Javascript_Curriculum.md
