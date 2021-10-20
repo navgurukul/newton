@@ -1,5 +1,5 @@
 ```ngMeta
-name: Concept of Peer Learning
+name: Concept_Of_Peer_Learning
 ```
 
 ## Mentor : Mentee System
