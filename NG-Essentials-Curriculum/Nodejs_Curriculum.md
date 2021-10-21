@@ -1,5 +1,5 @@
 ```ngMeta
-name: Nodejs_Curriculum
+name: Nodejs Curriculum
 ```   
 |    Backend - NodeJS                                                                             |
 |--------------------------------------------------------------------------------------------------|

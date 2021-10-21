@@ -1,5 +1,5 @@
 ```ngMeta
-name: Who_Are_Coaches_And_How_Can_You_Become_One? 
+name: Who Are Coaches And How Can You Become One? 
 
 ```
 

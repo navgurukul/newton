@@ -1,5 +1,5 @@
 ```ngMeta
-name: Coach_Mentor_Mentee_Meetings
+name: Coach-Mentor-Mentee Meetings
 ```
 
 ## Coach Meetings:-

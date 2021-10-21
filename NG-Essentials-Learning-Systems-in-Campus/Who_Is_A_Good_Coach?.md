@@ -1,5 +1,5 @@
 ```ngMeta
-name: Who_Is_A_Good_Coach?
+name: Who Is A Good Coach?
 ```
 
 ## Who is a Good Coach?

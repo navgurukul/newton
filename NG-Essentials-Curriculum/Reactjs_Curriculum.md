@@ -1,5 +1,5 @@
 ```ngMeta
-name: Reactjs_Curriculum
+name: Reactjs Curriculum
 ```     
        
 | Frontend - React JS                                                                                                                |

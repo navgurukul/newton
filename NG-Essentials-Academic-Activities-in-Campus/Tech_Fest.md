@@ -1,5 +1,5 @@
 ```ngMeta
-name: Tech_Fest
+name: Tech-Fest
 ```
 ## Tech-Fest 
 

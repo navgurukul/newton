@@ -1,5 +1,5 @@
 ```ngMeta
-name: Javascript_Curriculum
+name: Javascript Curriculum
 ```     
  Javascript                                                    |
 |---------------------------------------------------------------|

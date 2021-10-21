@@ -1,5 +1,5 @@
 ```ngMeta
-name: Concept_Of_Peer_Learning
+name: Concept Of Peer Learning
 ```
 ## Concept of Peer Learning
 

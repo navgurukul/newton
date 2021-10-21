@@ -1,5 +1,5 @@
 ```ngMeta
-name: Who_Is_A_Good_Mentor?
+name: Who Is A Good Mentor?
 ```
 
 

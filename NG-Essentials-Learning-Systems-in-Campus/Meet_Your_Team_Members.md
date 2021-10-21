@@ -1,5 +1,5 @@
 ```ngMeta
-name: Meet_Your_Team_Members
+name: Meet Your Team Members
 ```
 
 ## Meet your Team Members

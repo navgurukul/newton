@@ -1,5 +1,5 @@
 ```ngMeta
-name: Python_Curriculum
+name: Python Curriculum
 ```     
 | Python:                                     |
 |---------------------------------------------|

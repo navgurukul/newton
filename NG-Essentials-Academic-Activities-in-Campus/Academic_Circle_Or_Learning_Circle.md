@@ -1,5 +1,5 @@
 ```ngMeta
-name: Academic_Circle_Or_Learning_Circle
+name: Academic Circle Or Learning Circle
 ```
 ## Academic Circle or Learning Circle
 

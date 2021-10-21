@@ -1,5 +1,5 @@
 ```ngMeta
-name: Quaratine_Study_Schedule
+name: Quaratine Study Schedule
 ```
 ## Quarantine Study Schedule:-
    - The Students must have to complete Variables in the quarantine itself.
