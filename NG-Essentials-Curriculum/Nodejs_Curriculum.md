@@ -1,4 +1,6 @@
-
+```ngMeta
+name: Nodejs Curriculum
+```   
 |    Backend - NodeJS                                                                             |
 |--------------------------------------------------------------------------------------------------|
 | 1.Core Concepts of NodeJS (7-9 days)                                                             |

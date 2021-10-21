@@ -1,9 +1,9 @@
 ```ngMeta
-name: Python_Curriculum
+name: Python Curriculum
 ```     
 | Python:                                     |
 |---------------------------------------------|
-| Introduction to python + Definitions: 3 Day |
+| Introduction to python + Definitions:3 Days |
 | Variables: 3 Days                           |
 | Conversion: 2 Days                          |
 | Operators: 5 Days                           |

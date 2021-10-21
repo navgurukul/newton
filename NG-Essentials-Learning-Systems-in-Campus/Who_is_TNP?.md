@@ -1,5 +1,5 @@
 ```ngMeta
-name: Who is TNP?
+name: Who Is TNP?
 ```
 ## Who is TNP?
 
