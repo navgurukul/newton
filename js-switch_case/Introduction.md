@@ -18,6 +18,7 @@ switch (day) {
        console.log("Normal working day")
   	  break;
  }
+ 
  ```
  ### Explanation
  
