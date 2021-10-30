@@ -1,6 +1,8 @@
 ```ngMeta
 name:Question 3
 ```
+### Question 3
+
 #### write a code for these cases
 	If the month is 1, 3,5, 7, 8, 10, or 12, the number of days in a month is 31.
     If the month is 4, 6, 9, or 11, the number of days in that month is 30.
