@@ -16,6 +16,7 @@ Every student who is joining Navgurukul will be in the probation period for the 
 
 
 - Based on the review of Coaches and Academic Associate, if it is found that a student is not serious about their academics
+    - And is not cleear with their previous concepts
     - Making unnecessary excuses to avoid coding continuously for 15 days,
     - Not giving 7 hours at least for coding in a day.
 - If a student is failing to maintain 70% of their engagement in academic activities such as
