@@ -1,0 +1,5 @@
+{
+	"Question1_key1": "Debug the `code` as per the given sample `input` and `output`\n",
+	"Question1_key2": "Sample `Input`: if i give `input` 2 it needs to give characters a and b because 95 is the ascii character of a, and 96 is the ascii character of b. `Loop` needs to run from 95 to those many times that user entered.\n",
+	"Question1_key3": "`Input` 3\n`Output`: a b c\n"
+}

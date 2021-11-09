@@ -1,0 +1,6 @@
+{
+	"Question-5_key1": "In a `variable` named number, take the `input` from the user and convert it to int.\n",
+	"Question-5_key2": "If this number is less than 10 then print **\"number is less than 10\"**. If it is greater than 10 and less than 20 then print **\"number is less than 20\"**. Else if it is greater than 20 then print \"**greater than 20\"**.\n",
+	"Question-5_key3": "For knowing how to take inputs please go through this\n",
+	"Question-5_key4": "page\n"
+}

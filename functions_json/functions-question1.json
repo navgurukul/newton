@@ -1,0 +1,39 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question 1 (Part 1)"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> naam ka Ek function likhiye jo yeh text ko \"ek baar\" print kare."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Who is the founder of Facebook?<br><br>- Mark Zuckerberg<br>- Bill Gates<br>- Steve Jobs<br>- Larry Page"
+	},
+	{
+		"component": "text",
+		"value": "Fir iss function ko 5 baar call kar ke yeh text 5 baar print karvao."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question 1 (Part 2)"
+	},
+	{
+		"component": "text",
+		"value": "Fir while <span style=\"\">loop</span> ka use kar ke iss function ko 100 baar call karne ka <span style=\"\">code</span> likho."
+	},
+	{
+		"component": "text",
+		"value": "Dono parts ka <span style=\"\">code</span> ek hi <span style=\"\">file</span> mein likh ke <span style=\"\">upload</span> karo!"
+	}
+]

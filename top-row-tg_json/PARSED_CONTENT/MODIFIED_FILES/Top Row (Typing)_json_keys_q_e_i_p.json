@@ -1,0 +1,23 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "keys_q_e_i_p_key1"
+  },
+  {
+    "component": "text",
+    "value": "keys_q_e_i_p_key2"
+  },
+  {
+    "component": "banner",
+    "title": "Top Row, keys q,e,i,p",
+    "value": "",
+    "actions": [
+      {
+        "url": "https://merakilearn.org/typing",
+        "label": "Go to typing app",
+        "data": "{\"content\":[\"q\",\"e\",\"i\",\"p\"],\"code\":\"trytyping\"}"
+      }
+    ]
+  }
+]

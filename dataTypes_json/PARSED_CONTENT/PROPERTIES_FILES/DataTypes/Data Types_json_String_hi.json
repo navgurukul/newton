@@ -1,0 +1,13 @@
+{
+    "String_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Data Type</span>",
+    "String_key2": "एक <span style=\"\">Python</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">characters or text</span> का क्रम है। यह टेक्स्ट डेटा को हैंडल करता है। जो कुछ भी हम एकल या डबल उद्धरण के अंदर लिखने <span style=\"\">python</span> में एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> है।",
+    "String_key3": "उदाहरण :-",
+    "String_key4": "<span style=\"\">Output</span> :-",
+    "String_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello python</span>",
+    "String_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello world</span>",
+    "String_key7": "इस उदाहरण में, हमने दो अलग-अलग <span style=\"\">variables</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�\u0006double (\" \") quotes or single (' ') quotes.</span> अंदर लिखा गया है",
+    "String_key8": "उदाहरण :-",
+    "String_key9": "<span style=\"\">Output</span> :-",
+    "String_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">str</span>",
+    "String_key11": "(मतलब <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> , डेटा प्रकार की जाँच के लिए हम <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type()</span> उपयोग करते हैं)।"
+}

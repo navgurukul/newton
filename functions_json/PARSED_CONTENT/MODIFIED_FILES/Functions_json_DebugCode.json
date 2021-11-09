@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DebugCode_key1"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key2"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def sum()<br>    print(12+13)<br>sum()"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "daf welcome():<br>    print(\"Welcome to function\")<br>welcome()"
+  },
+  {
+    "component": "text",
+    "value": "DebugCode_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>isEven()<br><br>def isEven():<br>    if(12%2==0):<br>        print(\"Even Number\")<br>    else:<br>        print(\"Old Number\")"
+  }
+]

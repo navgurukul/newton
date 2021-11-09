@@ -1,0 +1,12 @@
+[
+  {
+    "component": "text",
+    "value": "Question4_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// take n as 2 and tell the output<br>let n=require(\"readline-sync\");<br>let num=parseInt(n.question(\"enter number: \"));<br>for (let i=1;i<=10;i++) {<br>       multi=num*i;<br>       console.log(num + \" *\" + i + \"=\" + multi)<br>   }"
+  }
+]

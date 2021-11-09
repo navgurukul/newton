@@ -1,0 +1,16 @@
+[
+  {
+    "component": "text",
+    "value": "second-max-element_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "numbers = [50, 40, 23, 70, 56, 12, 5, 10, 7]"
+  },
+  {
+    "component": "text",
+    "value": "second-max-element_key2"
+  }
+]

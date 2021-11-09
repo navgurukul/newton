@@ -1,6 +1,3 @@
-﻿```ngMeta
-name: Learn to write Comments
-```
 ## Comments
 
 We can write `comments` in any program . When we *run* the *program* these comments do not get *executed*.

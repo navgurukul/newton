@@ -1,0 +1,156 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Now we will learn about <span style=\"\">iPython</span>"
+	},
+	{
+		"component": "text",
+		"value": "Here we will learn about, what is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ipython</span> and why do we use it?"
+	},
+	{
+		"component": "text",
+		"value": "When you write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span> on the <span style=\"\">Terminal</span>, then <i><span style=\"\">python</span> <span style=\"\">shell</span></i> opens on the <span style=\"\">Terminal</span>. You write your <span style=\"\">python</span> <span style=\"\">code</span> on the <i><span style=\"\">python</span> <span style=\"\">shell</span></i> to run it.<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">iPython</span> also does the same work but it provides some extra features. Some of those features we will study below:"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Difference between <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">iPython</span>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "First with <span style=\"\">iPython</span>"
+	},
+	{
+		"component": "text",
+		"value": "First, on the <span style=\"\">Terminal</span> write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ipython</span> and press <i>Enter</i>.<br>Now, write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">cd Downloads</span> in it and press <i>Enter</i>.<br>Then write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ls</span> and press <i>Enter</i>.<br>You will be able to see all the <b>folder and <span style=\"\">files</span></b> that you kept under the Downloads folder.<br>Now to come outside the <span style=\"\">iPython</span> <span style=\"\">shell</span> write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">quit</span> inside the <span style=\"\">shell</span> and press <b>Enter</b>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Now we will do the same thing with <span style=\"\">python</span>"
+	},
+	{
+		"component": "text",
+		"value": "Write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ipython</span> on the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Terminal</span> and press <b>Enter</b>"
+	},
+	{
+		"component": "text",
+		"value": "Now write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">cd Downloads</span> and press <b>Enter</b>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> cd Downloads<br>  File \"<stdin>\", line 1<br>    cd Downloads<br>               ^<br>SyntaxError: invalid syntax<br>>>>"
+	},
+	{
+		"component": "text",
+		"value": "You will be able to see something like this on the <span style=\"\">Terminal</span>?<br>This means you cannot go to the <b>Downloads</b> folder with the help of  <b><span style=\"\">python</span> <span style=\"\">shell</span></b>."
+	},
+	{
+		"component": "text",
+		"value": "For this, you need to come out of the <b><span style=\"\">python</span> <span style=\"\">shell</span></b> and for that, you need to type <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">quit</span> on the  <b><span style=\"\">python</span> <span style=\"\">shell</span></b>."
+	},
+	{
+		"component": "text",
+		"value": "Now after coming outside type <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">cd Downloads</span> and then type  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ls</span> you will be able to see whatever is present in the Downloads."
+	},
+	{
+		"component": "text",
+		"value": "You cannot change your <b>folder</b> by using a normal <b><span style=\"\">python</span> <span style=\"\">shell</span></b>. For that, you need to come out of the  <b><span style=\"\">python</span> <span style=\"\">shell</span></b>. But you can easily change the <b>folder</b> inside this <span style=\"\">python</span> <span style=\"\">shell</span> so that you don't need to come out of the <b><span style=\"\">iPython</span> <span style=\"\">shell</span></b>."
+	},
+	{
+		"component": "text",
+		"value": "And when you will type in <b><span style=\"\">python</span> <span style=\"\">shell</span></b>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> if True:<br>..."
+	},
+	{
+		"component": "text",
+		"value": "Then note that the cursor <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(**|**)</span>comes without any space after this <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">...</span> .<br>But if you will type it in <b><span style=\"\">iPython</span> <span style=\"\">shell</span></b> then it will show like this."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "In [1]: if True:<br>   ...:     |"
+	},
+	{
+		"component": "text",
+		"value": "Then you will see that the cursor <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span>(<b>|</b>)` comes after some spaces.<br>We call this <b><span style=\"\">Indentation</span></b>. When you will write the <span style=\"\">code</span> for the first time <b>50% <span style=\"\">error</span></b> will be there because of lack of <b><span style=\"\">Indentation</span></b>.<br>Hence, <span style=\"\">iPython</span> makes the life of an engineer very easy by providing extra features."
+	},
+	{
+		"component": "text",
+		"value": "When <span style=\"\">iPython</span> opens you can write <span style=\"\">code</span> in it. If you are copy-pasting the <span style=\"\">code</span> from somewhere then press <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Ctrl + C</span> to copy-paste and open <span style=\"\">iPython</span> and type <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">%paste</span> for pasting the <span style=\"\">code</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Very Important Rules"
+	},
+	{
+		"component": "text",
+		"value": "Run every example on <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">iPython shell</span>. If you don't do this you will make a fool of yourself.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "To copy-paste and run the code will not help you in understanding the code. You have to run every code by yourself.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Words written in UPPER CASE or <b>bold letters</b> are very important. Learn them, you will come across them many times. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "During the course You need to answer some questions at times. To answer those questions you can always upload a file.<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Some <span style=\"\">Code</span> Samples"
+	},
+	{
+		"component": "text",
+		"value": "In this section, some <span style=\"\">code</span> samples are given. To get comfor<span style=\"\">tab</span>le with <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">iPython</span>, you can run them on <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ipython</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1 :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print (\"It will print this.\")<br>print (\"Cool Stuff \"*10)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 2 :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "time = input(\"Is it morning or evening? (morning/evening) \")<br>if time == \"morning\":<br>    print (\"Let's go for a run!\")<br>elif time == \"evening\":<br>    print (\"Let's go out for a coffee.\")<br>else:<br>    print (\"I did not understand what input you put?\")"
+	}
+]

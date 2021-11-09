@@ -1,0 +1,161 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "type-conversion-intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "type-conversion-intro_key3"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key4"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "type-conversion-intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# integer<br>age = 27<br>total_apples = 100<br><br># float<br>weight = 10.5<br>area = 120.56<br><br># string<br>day = \"Wednesday\"<br>name = \"Mahatma Gandhi\"<br>a = \"Y\""
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key9"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "type-conversion-intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "type-conversion-intro_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = '12'<br>var_b = int(var_a)<br>print (type(var_a))<br>print (type(var_b))<br>print (var_a + var_a)<br>print (var_b + var_b)"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = '12houses'<br>var_b = int(var_a)<br>print (type(var_a))<br>print (type(var_b))"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key14"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = '12.2'<br>var_b = int(var_a)<br>print (type(var_a))<br>print (type(var_b))"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "type-conversion-intro_key16"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key17"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "type-conversion-intro_key18"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = 12.2<br>var_b = int(var_a)<br>print (type(var_a))<br>print (type(var_b))<br>print (var_b)"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key19"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = '12'<br>var_b = float(var_a)<br>print (type(var_a))<br>print (type(var_b))<br>print (var_a + var_a)<br>print (var_b + var_b)"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = '12.2'<br>var_b = float(var_a)<br>print (type(var_a))<br>print (type(var_b))"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = '12houses'<br>var_b = float(var_a)<br>print (type(var_a))<br>print (type(var_b))"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "type-conversion-intro_key21"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key22"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "type-conversion-intro_key23"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var_a = 12<br>var_b = float(var_a)<br>print (type(var_a))<br>print (type(var_b))<br>print (var_b)"
+  },
+  {
+    "component": "text",
+    "value": "type-conversion-intro_key24"
+  }
+]

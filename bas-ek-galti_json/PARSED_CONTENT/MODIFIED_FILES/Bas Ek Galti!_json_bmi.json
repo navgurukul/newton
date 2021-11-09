@@ -1,0 +1,29 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "bmi_key1"
+  },
+  {
+    "component": "text",
+    "value": "bmi_key2"
+  },
+  {
+    "component": "text",
+    "value": "bmi_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "patients = [[70, 1.8], [80, 1.9], [150, 1.7]]<br><br>def calculate_bmi(weight, height):<br>    return weight / (height ** 2)<br><br>for patient in patients:<br>    weight, height = patients[0]<br>    bmi = calculate_bmi(height, weight)<br>    print(\"Patient's BMI is: %f\" % bmi)"
+  },
+  {
+    "component": "text",
+    "value": "bmi_key4"
+  },
+  {
+    "component": "text",
+    "value": "bmi_key5"
+  }
+]

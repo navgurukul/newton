@@ -1,6 +1,3 @@
-```ngMeta
-name: What Do Computers Do?
-```
 ## What Do Computers Do?
 In our human history, there have been some great inventions that have brought progress in the lives of humans and have also provided direction to it. Ex:**WHEEL**
 

@@ -5,37 +5,38 @@ question5_key2
 question5_key3
 
 
-```
-Kitni baar input lein? ' 6
-Ek number daalo> 10
-Ek number daalo> 1
-Ek number daalo> 56
-Ek number daalo> 89
-Ek number daalo> 11
-Ek number daalo> 12
-Sum: 179
-```
 question5_key4
 
 
+```
+Number of inputs to be taken?  6
+Enter a number > 10
+Enter a number > 1
+Enter a number > 56
+Enter a number > 89
+Enter a number > 11
+Enter a number > 12
+Sum: 179
+```
 question5_key5
 
 
 question5_key6
 
 
+question5_key7
 ```
-Kitni baar input lein? ' 10
-Ek number daalo> 11
-Ek number daalo> 7
-Ek number daalo> 14
-Ek number daalo> 76
-Ek number daalo> 21
-Ek number daalo> 34
-Ek number daalo> 86
-Ek number daalo> 5
-Ek number daalo> 78
-Ek number daalo> 64
+Number of inputs to be taken?' 10
+Enter a number > 11
+Enter a number > 7
+Enter a number > 14
+Enter a number > 76
+Enter a number > 21
+Enter a number > 34
+Enter a number > 86
+Enter a number > 5
+Enter a number > 78
+Enter a number > 64
 Sum: 396
 ```
-question5_key7
+question5_key8

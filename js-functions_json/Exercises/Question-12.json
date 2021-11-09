@@ -1,0 +1,50 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named add<i>numbers</i>list which takes two lists as arguments and adds the same position numbers and prints the sum of them."
+	},
+	{
+		"component": "text",
+		"value": "You can use the add_numbers function to add two numbers."
+	},
+	{
+		"component": "text",
+		"value": "If we have  [50, 60, 10] and [10, 20, 13] and prints <span style=\"\">output</span> like this."
+	},
+	{
+		"component": "text",
+		"value": "60"
+	},
+	{
+		"component": "text",
+		"value": "<hr>"
+	},
+	{
+		"component": "text",
+		"value": "80"
+	},
+	{
+		"component": "text",
+		"value": "<hr>"
+	},
+	{
+		"component": "text",
+		"value": "23"
+	},
+	{
+		"component": "text",
+		"value": "<hr>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "function add_numbers(num1,num2){<br>   console.log(num1+num2);<br>   console.log(\"------------\");<br>}<br> <br>function add_numbers_list(list1,list2){<br>   for(var i=0;i<3;i++){<br>       add_numbers(list1[i],list2[i]);<br>   }<br>}<br> <br>add_numbers_list([50, 60, 10],[10, 20, 13])"
+	}
+]

@@ -1,0 +1,242 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"Taking &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">Input</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"In the world everyone has emotions and everyone will interact with each other. So in javascript also if we want to interact we can use different methods. One of them is readline-sync. \"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"To download “readline-sync” in your laptop run this command line:\"<br>    },<br>    {<br>        \"component\": \"blockquote\",<br>        \"value\": \"npm install readline-sync\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"To know more about “readline-sync” you can read this doc as well:\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"&lt;a href="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "https://launchschool.com/books/javascript/read/input_output\\\"&gt;Follow"
+	},
+	{
+		"component": "text",
+		"value": "this link"
+	},
+	{
+		"component": "text",
+		"value": "</a>"
+	},
+	{
+		"component": "text",
+		"value": "\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 4,<br>        \"value\": \"Note :\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Before using “readline-sync” make sure that it is downloaded in your laptop then only you will be able to take the &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">input</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "from the user.\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 3,<br>        \"value\": \"Example:\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"let readlineSync = require("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "readline-sync"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "var yourName= readlineSync.question("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "What is your name: "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ")"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log(yourName);\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 3,<br>        \"value\": \"Explaination:\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"readlineSync we imported by installation using npm install readline-sync. In readlineSync we have so many functions one function is question by this you will take &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">input</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "whatever that you entered here it will come as a &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">string</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "only.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"If you want to use only &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">Integer</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": ", then the question will give but its type is &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">string</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "not a number that we want.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"For that , we have questionInt..\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"let readlineSync = require("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "readline-sync"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "var age= readlineSync.questionInt("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "What is your age: "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ")"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log(age);\"<br>    }<br>]"
+	}
+]

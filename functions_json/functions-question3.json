@@ -1,0 +1,57 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Yeh question 2 parts mein hai. Dono pa\u0005rts ka <span style=\"\">code</span> same <span style=\"\">file</span> mein likh ke submit karein."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question (Part 1)"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> naam ka function likhiye jo do numbers ko arguments ke tarah le aur fir unka sum print karta hai. Arguments ka naam <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> hona chaiye."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input :-</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num1 = 56<br>num2 = 12<br>add_numbers(num1,num2)"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b><br>68"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question (Part 2)"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> naam ka function likhiye jo do <span style=\"\">integers</span> ki 2 lists leta ho aur fir same position wale <span style=\"\">integers</span> ka sum print karta ho."
+	},
+	{
+		"component": "text",
+		"value": "Same position waale 2 <span style=\"\">integers</span> ka sum karne ke liye Part 1 mein di gayi add_numbers waale function ka use karo."
+	},
+	{
+		"component": "text",
+		"value": "Jaise agar hum iss function ko [50, 60, 10] aur [10, 20, 13] denge ko woh yeh print karega"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "60<br>---------------<br>80<br>---------------<br>23<br>---------------"
+	}
+]

@@ -1,0 +1,13 @@
+{
+	"list_sum_key1": "A program to calculate the sum of elements in a list\n",
+	"list_sum_key2": "`Python` calculator sum of a list\n",
+	"list_sum_key3": "Is program mai hum calculator ka ek function likhenge jo ki 2 number and ek `operator` dega and uska result return karega\n",
+	"list_sum_key4": "ye program list `arr` ka sum calculate karta hai\n",
+	"list_sum_key5": "Task\n",
+	"list_sum_key6": "kya ye program sahi hai?\n  - agar nahi to kya galat hai?\n",
+	"list_sum_key7": "kya is program ka `output` sahi hai?\n",
+	"list_sum_key8": "agar hum is program mai `arr` ki value `[45, 1, 5]` rakhenge to kya `output` aayega?\n  - kya ye `output` sahi hai?\n  - sahi `output` kya hoga\n  - sahi `output` laane ke liye hum program mai kya change karenge?\n\n\n\n",
+	"list_sum_key9": "In saare jawabo ke baad hi aap answer dekhiyega\n",
+	"list_sum_key10": "Solution\n",
+	"list_sum_key11": "humara `loop` array ke pehle element ko count nahi kar raha hai, uske liye hum `i` ko `0` se starte karenge\n"
+}

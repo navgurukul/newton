@@ -1,0 +1,650 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"Project1\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Have you ever played a game called Rock Paper Scissors? We are going to create that game now.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"You can see a video on how to play Rock paper scissors.\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"AnRYS02tvRA\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Let’s play it online and see how it works :\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"&lt;a href="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "https://www.crazygames.com/game/rock-paper-scissors\\\"&gt;Play"
+	},
+	{
+		"component": "text",
+		"value": "Online Game"
+	},
+	{
+		"component": "text",
+		"value": "</a>"
+	},
+	{
+		"component": "text",
+		"value": "\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"// please write <span style=\"\">code</span> here\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"solution\",<br>        \"value\": \"let readlineSync = require("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "readline-sync"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "var computerMoves = ['rock', 'paper', 'scissors'];"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "var randomMoveOfComputer = computerMoves[Math.floor(Math.random() * computerMoves.length)];"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "var playerName= readlineSync.question("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "What is your name: "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ")"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "hi "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<ul>\n<li>playerName )</li>\n</ul>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "choose any move in rock paper scissors"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ")"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "var playerMove = readlineSync.question("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Which move you want to do? "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "if (playerMove == randomMoveOfComputer){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Match Draw"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "else if(playerMove =="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "rock"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&amp;&amp; randomMoveOfComputer == "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "paper"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "computer won the match"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "else if(playerMove=="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "rock"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&amp;&amp; randomMoveOfComputer == "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "scissors"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log(playerName+"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Won the match"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "else if(playerMove=="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "scissors"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&amp;&amp; randomMoveOfComputer == "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "rock"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "computer won the match"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "else if(playerMove=="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "scissors"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&amp;&amp; randomMoveOfComputer == "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "paper"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log(playerName+"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Won the match"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "else if(playerMove=="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "paper"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&amp;&amp; randomMoveOfComputer == "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "rock"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log(playerName+"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Won the match"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "else if(playerMove=="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "paper"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&amp;&amp; randomMoveOfComputer == "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "scissors"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "){"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "console.log("
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "computer won the match"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}\"<br>    }<br>]"
+	}
+]

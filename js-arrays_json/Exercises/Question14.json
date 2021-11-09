@@ -1,0 +1,38 @@
+[
+	{
+		"component": "text",
+		"value": "How to find all pairs in an array of <span style=\"\">integers</span> whose sum is equal to the given number?"
+	},
+	{
+		"component": "text",
+		"value": "Sample <span style=\"\">Input</span>:"
+	},
+	{
+		"component": "text",
+		"value": "var number = 30"
+	},
+	{
+		"component": "text",
+		"value": "var n = [10, 11, 12, 13, 14, 17, 18, 19]"
+	},
+	{
+		"component": "text",
+		"value": "Sample <span style=\"\">Output</span>:"
+	},
+	{
+		"component": "text",
+		"value": "[<br>  [ 11, 19 ],<br>  [ 12, 18 ],<br>  [ 13, 17 ],<br>  [ 17, 13 ],<br>  [ 18, 12 ],<br>  [ 19, 11 ]<br>]"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var n = [10, 11, 12, 13, 14, 17, 18, 19]<br>var number =30;<br>output=[]<br>for(var i of n){<br>   for(var j of n){<br>       if (i+j === number){<br>           output.push([i,j])<br>       }<br>  }<br>}<br>console.log(output);"
+	}
+]

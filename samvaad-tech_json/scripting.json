@@ -1,0 +1,178 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Scripting Language:-"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What is Scripting Language?"
+	},
+	{
+		"component": "text",
+		"value": "yah ek aisi programming bhasha hai. Jiska prayog karke kisi dusre software application(e.g:- Firefox) par control kiya ja skta hai, aur script ke sahare us application se adhik kam liya ja skata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "example ke liye Firefox ek browser hai jo \"c/c++\" language me likha hua hai iske upar \"javascript\" me kuchh line ka program likhakar bade-bade kam kraye jate hai.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "'Javascript,Python,Ruby,Perl,Php' yah kuchh main scripting languages hai.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Advantage/Disadvantage of Scripting Language :-"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Advantage"
+	},
+	{
+		"component": "text",
+		"value": "No complex build necessary.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Dynamic.changing code at runtime is completely normal.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Disadvantage"
+	},
+	{
+		"component": "text",
+		"value": "It is requires the Scripting software to be installed  on the server.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Many scripis and CMS tools required database in order to store dynamic data.              <br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Main feature of Scripting Language."
+	},
+	{
+		"component": "text",
+		"value": "Yeh often compile nahi kiya  jati hai, balki interpret kiya  jati hai.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yeh language often shikhne me aasan hoti hai, aur utni hi aasani se ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "pryog ki ja sakti hai.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Inme typing ke niyam sakth nahi hote hai.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Editing and running code is fast.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Allow complex tasks to be performed in relatively few steps."
+	},
+	{
+		"component": "text",
+		"value": "<h1 id=\"umidkrtehaiyevideosaapkoscriptinglanguagesmjhnememadadkregi\">Umid krte hai ye videos aapko scripting language smjhne me madad kregi.</h1>"
+	},
+	{
+		"component": "youtube",
+		"value": "9lN5vB9sKsk"
+	},
+	{
+		"component": "youtube",
+		"value": "XnsOTv7SUR4"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "In ouestion ko krte hue aap internet ka use kr sakte hai aur Friends help le skte hai:-"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Questions :-"
+	},
+	{
+		"component": "text",
+		"value": "Script language ko aur jaane k liye peer learning kre?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is scripting language?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why we use Scripting language?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	}
+]

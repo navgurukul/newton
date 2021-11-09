@@ -1,0 +1,70 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "How-to-take-input_key1"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key2"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key3"
+  },
+  {
+    "component": "blockquote",
+    "value": "How-to-take-input_key4"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key5"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "How-to-take-input_key7"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key8"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "How-to-take-input_key9"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let readlineSync = require(\"readline-sync\");<br>var yourName= readlineSync.question(\"What is your name: \")<br>console.log(yourName);"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "How-to-take-input_key10"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key11"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key12"
+  },
+  {
+    "component": "text",
+    "value": "How-to-take-input_key13"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let readlineSync = require(\"readline-sync\");<br>var age= readlineSync.questionInt(\"What is your age: \")<br>console.log(age);"
+  }
+]

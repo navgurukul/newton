@@ -1,11 +1,10 @@
 {
-	"intro_key1": "name: Types \nsubmission_type: url\n",
-	"intro_key2": "### TYPE OF `OPERATORS`\n\n\n",
-	"intro_key3": "Arithmetic  `Operator`\n\n",
-	"intro_key4": "Assignment `Operators`\n\n",
-	"intro_key5": "Comparison `Operators`\n\n",
-	"intro_key6": "Logical `Operators`\n\n",
-	"intro_key7": "Identity `Operators`(will learn later)\n\n",
-	"intro_key8": "Membership `Operators`(will learn later)\n\n",
-	"intro_key9": "Bitwise `Operators`(will learn later)\n"
+	"intro_key1": "TYPE OF `OPERATORS`\n",
+	"intro_key2": "`Arithmetic  `Operator``\n\n",
+	"intro_key3": "`Assignment `Operators``\n\n",
+	"intro_key4": "`Comparison `Operators``\n\n",
+	"intro_key5": "`Logical `Operators``\n\n",
+	"intro_key6": "`Identity `Operators``(will learn later)\n\n",
+	"intro_key7": "`Membership `Operators``(will learn later)\n\n",
+	"intro_key8": "`Bitwise `Operators``(will learn later)\n"
 }

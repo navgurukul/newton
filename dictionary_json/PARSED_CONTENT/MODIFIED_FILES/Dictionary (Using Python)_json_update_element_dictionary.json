@@ -1,0 +1,80 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "update_element_dictionary_key1"
+  },
+  {
+    "component": "text",
+    "value": "update_element_dictionary_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "update_element_dictionary_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "person= {'1': 'RAM', '2': 17,}<br>person[3] = 'male'<br>print(person)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "update_element_dictionary_key4"
+  },
+  {
+    "component": "text",
+    "value": "update_element_dictionary_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "update_element_dictionary_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "details={<br>    'Name': 'RAM',<br>     'Age': 17, <br>     'student': {<br>      'id': 22,<br>      'place': 'dharamsala'<br>      }<br>     } <br>details['student']['id']=35<br>print(details);"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "update_element_dictionary_key7"
+  },
+  {
+    "component": "text",
+    "value": "update_element_dictionary_key8"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "update_element_dictionary_key9"
+  },
+  {
+    "component": "text",
+    "value": "update_element_dictionary_key10"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "update_element_dictionary_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "classes ={<br>    \"room1\":  \"6th\",<br>    \"room2\":  \"7th\",<br>    \"room3\":  \"8th\"<br>        }<br>mydict=classes.copy()<br>print(mydict)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "update_element_dictionary_key12"
+  },
+  {
+    "component": "text",
+    "value": "update_element_dictionary_key13"
+  }
+]

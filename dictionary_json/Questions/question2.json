@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "Write  a program to print 'exists' if entered <span style=\"\">key</span> already exists in the dictionary and print 'not exists' if the entered <span style=\"\">key</span> does not exist."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dict={“name”:”Raju”, “marks”:56}"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "If <span style=\"\">input</span> is “name” then <span style=\"\">output</span> will be “exist”"
+	},
+	{
+		"component": "text",
+		"value": "If <span style=\"\">input</span> is “class” then <span style=\"\">output</span> will be “not exists”."
+	}
+]

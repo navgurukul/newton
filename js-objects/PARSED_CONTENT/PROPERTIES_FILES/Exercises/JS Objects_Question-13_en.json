@@ -1,0 +1,8 @@
+{
+	"Question-13_key1": "Write a programme to find the 3 maximum values of an object and print them.\n",
+	"Question-13_key2": "`Input` :-\n",
+	"Question-13_key3": "var my_dict = {\n    'a':50, \n    'b':58, \n    'c':56,\n    'd':40, \n    'e':100, \n    'f':20\n    }\n",
+	"Question-13_key4": "`Output` :-\n",
+	"Question-13_key5": "[58,56,100]\n",
+	"Question-13_key6": "**For the next course [clickHere](https://www.merakilearn.org/course/138/exercise/3529)**\n"
+}

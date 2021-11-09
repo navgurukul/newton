@@ -1,4 +1,4 @@
 {
-	"break_key1": "# break\n\n\n",
-	"break_key2": "break  `python` mai ek *`key`word* hai. Jo humko `loop` se bahar nikalne mai help karta hai aur new line mai chala jata hai jo `loop` se bahar hai.\n"
+	"break_key1": "`break`\n",
+	"break_key2": "`break` is a **`key`word** in `python`. That helps us in coming out of the `loop` and goes to new line which is out of the `loop`.\n"
 }

@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question5_key1"
+  },
+  {
+    "component": "text",
+    "value": "question5_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def distance(kms):<br>        if kms < 20:<br>            print(\"close\")<br>        elif kms < 50:<br>            print(median)<br>        else:<br>            Print(far)<br>    distance(20,30)"
+  }
+]

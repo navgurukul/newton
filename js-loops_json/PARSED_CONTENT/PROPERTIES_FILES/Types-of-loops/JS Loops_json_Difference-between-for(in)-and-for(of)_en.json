@@ -1,0 +1,11 @@
+{
+	"Difference-between-for(in)-and-for(of)_key1": "Example:",
+	"Difference-between-for(in)-and-for(of)_key2": "Explanation:",
+	"Difference-between-for(in)-and-for(of)_key3": "for (let cmp<span style=\"\">Key</span> in Navgurukul) here cmp<span style=\"\">Key</span> is the <span style=\"\">variable</span> because of for in <span style=\"\">loop</span> in cmp<span style=\"\">Key</span> we will get index numbers only as 0, 1, 2 respectively.",
+	"Difference-between-for(in)-and-for(of)_key4": "for (let cmpValue of Navgurukul) here cmpValue is the <span style=\"\">variable</span> because of for of in cmpValue we will get elements as values directly as Pune, Bangalore, Sarjapur.",
+	"Difference-between-for(in)-and-for(of)_key5": "Note:",
+	"Difference-between-for(in)-and-for(of)_key6": "For in <span style=\"\">loop</span> iterates on the <span style=\"\">keys</span> or indexes that are there in the list but for of <span style=\"\">loop</span> will run on the values. And for in will work on objects too but for of can’t.",
+	"Difference-between-for(in)-and-for(of)_key7": "Explanation",
+	"Difference-between-for(in)-and-for(of)_key8": "for(let pro in campus) in this <span style=\"\">code</span> for in can iterate on objects and in the <span style=\"\">variable</span> pro we will get <span style=\"\">keys</span> directly as camp<i>name, es<span style=\"\">tab</span>lish, election and used those <span style=\"\">keys</span> and got the values as Bangalore</i>campus, 2016, three_months respectively.",
+	"Difference-between-for(in)-and-for(of)_key9": "for(let pro of campus) it will give <span style=\"\">error</span> because for of can't run <span style=\"\">loop</span> on objects,"
+}

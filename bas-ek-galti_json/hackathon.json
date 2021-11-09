@@ -1,0 +1,20 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Bas Ek Aur Galti"
+	},
+	{
+		"component": "text",
+		"value": "Coding karoge, toh <span style=\"\">errors</span> to aayenge hi. Aur <span style=\"\">errors</span> ko samajh kar, ussse theek karna ek bahut important programming skill hai. Aapko iss hack-a-thon mei aise hi kuch <span style=\"\">errors</span> ko solve karna hai."
+	},
+	{
+		"component": "text",
+		"value": "Good luck!"
+	},
+	{
+		"component": "image",
+		"value": "assets/error.png",
+		"alt": "Errors"
+	}
+]

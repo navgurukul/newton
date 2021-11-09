@@ -1,0 +1,7 @@
+{
+    "if-code-question2_key1": "प्रश्न 2",
+    "if-code-question2_key2": "आपके पास एक <span style=\"\">variable</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�gf\u0017'�</span> कहा जाता है, मान के साथ दिखाया गया है: -",
+    "if-code-question2_key3": "उपयोगकर्ता से <span style=\"\">input</span> रूप में कोई संख्या लेने के लिए एक फ़्लोचार्ट बनाएं। इस <span style=\"\">input</span> को <span style=\"\">integer</span> बदलें। जांचें कि क्या यह <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> बराबर है।",
+    "if-code-question2_key4": "यदि संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> बराबर है, तो <b>&quot;बराबर&quot;</b> प्रिंट करें अन्यथा <b>&quot;बराबर नहीं&quot;</b> प्रिंट करें।",
+    "if-code-question2_key5": "<span style=\"\">Upload</span> फ़्लोचार्ट के साथ-साथ <span style=\"\">python</span> <span style=\"\">file</span> ।"
+}

@@ -1,0 +1,148 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "operating_system_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "pTdSs8kQqSA"
+  },
+  {
+    "component": "youtube",
+    "value": "JtepGNJyvyM"
+  },
+  {
+    "component": "youtube",
+    "value": "AkFi90lZmXA"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "operating_system_key2"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key3"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key4"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key5"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key11",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key12",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key13",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key14",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key15",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key16",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key17"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key18"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key19"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key20"
+  },
+  {
+    "component": "youtube",
+    "value": "26QPDBe-NB8"
+  },
+  {
+    "component": "text",
+    "value": "operating_system_key21"
+  }
+]

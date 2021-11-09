@@ -1,7 +1,4 @@
-```ngMeta
 debugging-question6_key1
-```
-
 ```python
 # Aapke paas ek variable mein raw_input se gaadi ki speed ka ek integer hai
 speed = int(input("Gaadi ki speed daalo > "))

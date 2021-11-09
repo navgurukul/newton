@@ -1,0 +1,13 @@
+{
+	"calculator_key1": "A program to make a calculator\n",
+	"calculator_key2": "`Python` calculator function\n",
+	"calculator_key3": "Is program mai hum calculator ka ek function likhenge jo ki 2 number and ek `operator` dega and uska result return karega\n",
+	"calculator_key4": "is function ko agar hum call karta huun aise `calc(5, 10, '*')` to kya `output` hoga\n",
+	"calculator_key5": "and agar is function ko aise call kare `calc(5, 10, '%')` to kya putput hoga\n",
+	"calculator_key6": "Hum aise cases ke liye kya kar sakte hai?\n",
+	"calculator_key7": "Hamesha hum sirf ek limited no of cases ko hi handle kar sakte hai and isilye humme baki `input` ke liye `Not supported` wala case banana chahiye\n",
+	"calculator_key8": "Task\n",
+	"calculator_key9": "Is program mai aap ek aisa case ya `if` `statement` dijeye jo ki saare unwanted `operators` ko handle kare\n",
+	"calculator_key10": "Solution\n",
+	"calculator_key11": "Hum yahan pe ye keh rahe hai ki ye program ` +, -, /, * ` ke alawa kisi aur `operator` ko nahi support karta hai\n"
+}

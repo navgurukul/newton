@@ -1,7 +1,3 @@
-﻿```ngMeta
-name: Booleans
-```
-
 ## What are Booleans ?
 
 `Booleans` are  special type of constants, (till now we have studied about `Strings`, `Integers` and `Floats` ).

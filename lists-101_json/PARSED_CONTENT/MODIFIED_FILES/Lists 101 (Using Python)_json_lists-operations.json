@@ -1,0 +1,323 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-operations_key1"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print names_list[1]"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key3"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key4"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key5"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key11"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "lists-operations_key12",
+        "items": [
+          "lists-operations_key13"
+        ]
+      },
+      {
+        "header": "lists-operations_key14",
+        "items": [
+          "lists-operations_key15"
+        ]
+      },
+      {
+        "header": "lists-operations_key16",
+        "items": [
+          "lists-operations_key17"
+        ]
+      },
+      {
+        "header": "lists-operations_key18",
+        "items": [
+          "lists-operations_key19"
+        ]
+      },
+      {
+        "header": "lists-operations_key20",
+        "items": [
+          "lists-operations_key21"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br><br>print names_list[0] # se \"annu\" print hoga<br><br>print names_list[4] # se \"rupa\" print hoga<br><br>print names_list[5]"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key22"
+  },
+  {
+    "component": "blockquote",
+    "value": "lists-operations_key23"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key24"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-operations_key25"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key26"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-operations_key27"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key28"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key29"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "lists-operations_key30"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key31"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list[0] = \"abhishek\"<br>print names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list[3]=\"rishabh\"<br>print names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key33"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list[5]=\"dhruv\""
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key34"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "lists-operations_key35"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key36"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print len(names_list)"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key37"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print names_list<br>names_list.append(\"dhruv\")<br>print \"length of the list is \", len(names_list)<br>print names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key38"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key39"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list.append(\"alok\")<br>print \"length of the list is \", len(names_list)<br>print names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key40"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "lists-operations_key41"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key42"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print \"length of the list is \", len(names_list)<br>print names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key43"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list.pop()<br>print \"length of the list is \", len(names_list)<br>print names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key44"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-operations_key45"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print \"length of the list is \", len(names_list), names_list<br>names_list.pop(2)<br>print \"length of the list is \", len(names_list), names_list<br>names_list.pop(2)<br>print \"length of the list is \", len(names_list), names_list"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "lists-operations_key46"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key47"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-operations_key48"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "\"shivam\" in names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key49"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "\"imtiyaz\" in names_list"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key50"
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key51"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-operations_key52"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "if \"shivam\" in names_list:<br>    print \"Shivam ka naam names_list mei hai\"<br>else:<br>    print \"Shivam ka naam names_list mei nahi hai.\""
+  },
+  {
+    "component": "text",
+    "value": "lists-operations_key53"
+  }
+]

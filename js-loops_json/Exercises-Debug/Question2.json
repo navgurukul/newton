@@ -1,0 +1,20 @@
+[
+	{
+		"component": "text",
+		"value": "Print the maximum number in between the numbers given by user?"
+	},
+	{
+		"component": "text",
+		"value": "if <span style=\"\">loop</span>_time <span style=\"\">input</span> is given 3, 3 times <span style=\"\">input</span> need to give for making a list with 3 elements and need to find max from the list."
+	},
+	{
+		"component": "text",
+		"value": "Debug the <span style=\"\">code</span> if anythinng wrong is there?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let c=require(\"readline-sync\");<br>let loop_time=c.question(\"enter loop time: \");<br> <br>var maxi=0;<br>let lis=[ ]<br>for (let i=1;i<=loop_time;i++) {<br>   let num=c.question(\"enter number: \")<br>   lis.append(num)<br>}<br>var maxi=lis[0];<br>for (let j=0;j<lis:length;j==) {<br>   if (maxi<lis[j]) {<br>       [maxi=lis[j]]<br>   }<br> <br>}<br>console.log(maxi)<br>"
+	}
+]

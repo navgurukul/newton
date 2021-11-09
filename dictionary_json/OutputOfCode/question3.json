@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 3"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "<br>fruit = {}<br><br>def addone(index):<br>    if index in fruit:<br>        fruit[index] += 1<br>    else:<br>        fruit[index] = 1<br>        <br>addone('Apple')<br>addone('Banana')<br>addone('apple')<br>addone('Apple')<br><br>print (len(fruit))<br>print(fruit)"
+	}
+]

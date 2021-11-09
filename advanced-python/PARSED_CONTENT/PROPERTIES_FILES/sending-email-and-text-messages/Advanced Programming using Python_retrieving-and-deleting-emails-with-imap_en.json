@@ -1,0 +1,15 @@
+{
+	"retrieving-and-deleting-emails-with-imap_key1": "Retrieving and Deleting Emails with IMAP\n",
+	"retrieving-and-deleting-emails-with-imap_key2": "Finding and retrieving an email in `Python` is a multistep process that requires both the imapclient and pyzmail third-party modules. Just to give you an overview, here’s a full example of logging in to an IMAP server, searching for emails, fetching them, and then extracting the text of the email messages from them.\n",
+	"retrieving-and-deleting-emails-with-imap_key3": "[40032, 40033, 40034, 40035, 40036, 40037, 40038, 40039, 40040, 40041]\n",
+	"retrieving-and-deleting-emails-with-imap_key4": "'Hello!'\n",
+	"retrieving-and-deleting-emails-with-imap_key5": "[('Edward Snowden', 'esnowden@nsa.gov')]\n",
+	"retrieving-and-deleting-emails-with-imap_key6": "[(Jane Doe', 'jdoe@example.com')]\n",
+	"retrieving-and-deleting-emails-with-imap_key7": "[]\n",
+	"retrieving-and-deleting-emails-with-imap_key8": "[]\n",
+	"retrieving-and-deleting-emails-with-imap_key9": "`True`\n",
+	"retrieving-and-deleting-emails-with-imap_key10": "'Follow the money.\\r\\n\\r\\n-Ed\\r\\n'\n",
+	"retrieving-and-deleting-emails-with-imap_key11": "`True`\n",
+	"retrieving-and-deleting-emails-with-imap_key12": "'<div dir=\"ltr\"><div>So long, and thanks for all the fish!<br><br></div>-\nAl<br></div>\\r\\n'\n",
+	"retrieving-and-deleting-emails-with-imap_key13": "You don’t have to memorize these steps. After we go through each step in detail, you can come back to this overview to refresh your memory.\n"
+}

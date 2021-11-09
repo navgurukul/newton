@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question-11_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "let readlineaSync = require(\"readline-sync\");<br>var number1=readlineaSync.questionInt(\"enter a number\");<br>var number2=readlineaSync.questionInt(\"enter a number\");<br>if(number1>number2){<br>   console.log(\"number1 is greater\");<br>}<br>else{<br>   console.log(\"number2 is greater\");<br>}"
+  }
+]

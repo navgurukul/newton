@@ -1,0 +1,32 @@
+[
+	{
+		"component": "text",
+		"value": "You can check whether property exists or not in an object. "
+	},
+	{
+		"component": "text",
+		"value": "We can use the .hasOwnProperty(propname) method of objects to determine if that object has the given property name. "
+	},
+	{
+		"component": "text",
+		"value": "<b>.hasOwnProperty()</b> returns <span style=\"\">true</span> or <span style=\"\">false</span> if the property is found or not."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>var myDetails={<br>   \"name\":\"kumar\",<br>   \"age\":24<br>}<br>console.log(myDetails.hasOwnProperty(\"name\"));<br>// output <br>// true<br>"
+	},
+	{
+		"component": "text",
+		"value": "For checking property is there or not,"
+	},
+	{
+		"component": "text",
+		"value": "<b>objectName.hasOwnProperty(PropertyName);</b> will gives either <span style=\"\">true</span> or <span style=\"\">false</span>."
+	},
+	{
+		"component": "text",
+		"value": "<b>myDetails.hasOwnProperty(\"name\");</b> this will returns <span style=\"\">true</span> because property name is there object named myDetails."
+	}
+]

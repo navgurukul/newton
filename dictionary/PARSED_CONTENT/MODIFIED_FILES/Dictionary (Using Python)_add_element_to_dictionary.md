@@ -2,6 +2,7 @@ add_element_to_dictionary_key1
 add_element_to_dictionary_key2
 
 
+
 add_element_to_dictionary_key3
 ```python
 dic= {
@@ -16,14 +17,11 @@ dic['place'] = 'dharamsala'
 print(dic)
  ```
 add_element_to_dictionary_key4
-
-
 add_element_to_dictionary_key5
 
 
 
 add_element_to_dictionary_key6
-
         
  ```python   
 dic= {
@@ -38,14 +36,14 @@ print(dic)
  ```
     
 add_element_to_dictionary_key7
-
-
 add_element_to_dictionary_key8
 
         
 
 add_element_to_dictionary_key9
 add_element_to_dictionary_key10
+
+
 
 
 ```python
@@ -62,6 +60,4 @@ else:
  ```
 
 add_element_to_dictionary_key11
-
-
 add_element_to_dictionary_key12

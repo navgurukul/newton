@@ -1,0 +1,16 @@
+{
+	"magic-square_key1": "Is Magic Square?",
+	"magic-square_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Magic Square</span> is that kind of square in which sum of each row, sum of each column and sum of both the diagonals is equal.   ",
+	"magic-square_key3": "You have to write this program that takes a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> as <span style=\"\">input</span> and checks whether it is a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square</span> or not? ",
+	"magic-square_key4": "This is a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square</span> because, ",
+	"magic-square_key5": "To visualize this sqaure, see it like a square. All the rows have same number of elements. Number of elements in row should be equal to number of elements in a column.",
+	"magic-square_key6": "This is not a magic square :",
+	"magic-square_key7": "Because the sum of elements of the second row is not 15 nahi hai, therefore this is not a magic square.",
+	"magic-square_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case 1</span>",
+	"magic-square_key9": "Pls see that the program that you wrote works for only 3x3 square or it works for any size of square.",
+	"magic-square_key10": "Write this program for square of any size, square of any size so that if a user enters square of any size, your program should give the correct <span style=\"\">output</span>.",
+	"magic-square_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case 2</span>",
+	"magic-square_key12": "For this <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span>, what will be your answer - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> or <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>. ",
+	"magic-square_key13": "Hint :",
+	"magic-square_key14": "If the given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> is not a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square</span>, then return <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>, on the first go."
+}

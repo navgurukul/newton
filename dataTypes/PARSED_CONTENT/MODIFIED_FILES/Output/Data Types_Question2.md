@@ -1,7 +1,4 @@
-```ngMeta
 Question2_key1
-```
-
 Question2_key2
 
 
@@ -12,6 +9,7 @@ print(bool(0))
 print(bool(""))
 print(bool(1))
 ```
+
 Question2_key3
 
 
@@ -21,6 +19,7 @@ y = 5
 result = x + True + y - False
 print(result)
 ```
+
 Question2_key4
 
 
@@ -28,6 +27,7 @@ Question2_key4
 str3='''Hello'''  """ """+ """World"""
 print(str3)
 ```
+
 Question2_key5
 
 

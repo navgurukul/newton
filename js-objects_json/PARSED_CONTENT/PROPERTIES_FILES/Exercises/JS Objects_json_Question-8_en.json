@@ -1,0 +1,9 @@
+{
+	"Question-8_key1": "Take two lists and make an object, 1st list elements be as <span style=\"\">keys</span>, and 2nd lists elements as values.",
+	"Question-8_key2": "Example :-",
+	"Question-8_key3": "<span style=\"\">Input</span> :-",
+	"Question-8_key4": "var list1=[“one”,”two”,”three”,”four”,”five”]",
+	"Question-8_key5": "var list2=[1,2,3,4,5,]",
+	"Question-8_key6": "<span style=\"\">Output</span> :-",
+	"Question-8_key7": "{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}"
+}

@@ -1,0 +1,8 @@
+{
+	"dump_key1": "Dump and Dumps",
+	"dump_key2": "<b>Dump():-</b>  Dump() method <span style=\"\">python</span> objects ko json <span style=\"\">file</span> mai store karane ke liye use hota  hai. Dump() method json <span style=\"\">files</span> par hi kaam karta hai aur <span style=\"\">python</span> objects ko ek argument ki tarah store karta hai.",
+	"dump_key3": "<i>Example:-</i><span style=\"\">python</span> object(dictionary) ko hum json <span style=\"\">file</span> mai dump.",
+	"dump_key4": "<i>my<span style=\"\">file</span>.json ek json <span style=\"\">file</span> hai jisme hum uper wala <span style=\"\">python</span> object dump or store kerayge.</i>",
+	"dump_key5": "<b>Dumps() :-</b> Dumps() method <span style=\"\">python</span> objects ko json <span style=\"\">file</span> mai <span style=\"\">string</span> ke format mai store karene ki liye use hota hai. <span style=\"\">String</span> format mai hum <span style=\"\">python</span> objects(dictionary) ko <span style=\"\">tab</span> store karate hai jab hume bo objects print karane ho ya phir parse karene ho.",
+	"dump_key6": "<i>Example:-</i> "
+}

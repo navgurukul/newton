@@ -1,9 +1,9 @@
 {
-	"count-occurences_key1": "## Count Occurences\n\n\n",
-	"count-occurences_key2": "**Occurences** - is made from the word `occur` which means that how many times a certain character or a word appears.\n",
+	"count-occurences_key1": "Count Occurences\n",
+	"count-occurences_key2": "**Occurences** - is made from the word `occur` which means that how many times a certain character or word appears.\n",
 	"count-occurences_key3": "**Sample List**\n",
 	"count-occurences_key4": "**`Output` of the Sample List**\n",
-	"count-occurences_key5": "We have to count the `occurrences` of characters present in the `char_list` and we have to `save` in the `nested list`, then we have to use that nested list to print the `output`.\n",
-	"count-occurences_key6": "### `Edge Case`\n\n",
-	"count-occurences_key7": "#### Solution\n\n"
+	"count-occurences_key5": "We have to count the `occurences` of characters present in the `char_list` and we have to `save` in the `nested list`, then we have to use that nested list to print the `output`.\n",
+	"count-occurences_key6": "`Edge Case`\n",
+	"count-occurences_key7": "Solution\n"
 }

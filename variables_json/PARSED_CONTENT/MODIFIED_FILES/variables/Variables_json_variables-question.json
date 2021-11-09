@@ -1,0 +1,64 @@
+[
+  {
+    "component": "text",
+    "value": "variables-question_key1"
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key2"
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key3"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables-question_key4"
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key5",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key6",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables-question_key7"
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key8",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key9",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables-question_key10",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  }
+]

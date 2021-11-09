@@ -1,0 +1,34 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Becoming A Programmer"
+	},
+	{
+		"component": "text",
+		"value": "Iss Task mai apko function ke bare mai six new concepts padne hai."
+	},
+	{
+		"component": "text",
+		"value": "Phele apko function ke three new concepts <span style=\"\">python</span> ki website se padna hai."
+	},
+	{
+		"component": "text",
+		"value": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Fir aap function ke three new concepts <b>Stackoverflow</b> se padh hai."
+	},
+	{
+		"component": "text",
+		"value": "App ek google doc par apni understand likh kar apne mentor se share karenge aur concepts se related kuch questions bhi karenge."
+	},
+	{
+		"component": "text",
+		"value": "App ek class lenge jisme apne jo new concepts sikhe hai woh explain karenge."
+	}
+]

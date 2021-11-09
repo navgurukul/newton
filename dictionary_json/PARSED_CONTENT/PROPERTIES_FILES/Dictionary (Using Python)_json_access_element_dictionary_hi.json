@@ -1,0 +1,11 @@
+{
+    "access_element_dictionary_key1": "एक शब्दकोश से <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Accessing3�</span>",
+    "access_element_dictionary_key2": "हम वर्ग कोष्ठकों के उपयोग से शब्दकोश मानों <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">)�����</span> कर सकते हैं। समझने के लिए नीचे दिए गए उदाहरण को देखें।",
+    "access_element_dictionary_key3": "उदाहरण :-",
+    "access_element_dictionary_key4": "<span style=\"\">Output</span> :-",
+    "access_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">organisation male 20</span>",
+    "access_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get()</span> : -",
+    "access_element_dictionary_key7": "हम शब्दकोश मूल्यों तक पहुँचने के लिए <b>get ()</b> फ़ंक्शन का भी उपयोग कर सकते हैं।",
+    "access_element_dictionary_key8": "उदाहरण :-",
+    "access_element_dictionary_key9": "<span style=\"\">Output</span> :-"
+}

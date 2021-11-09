@@ -1,0 +1,13 @@
+{
+	"loops-code-question7_key1": "Question 7",
+	"loops-code-question7_key2": "Now, we will make a game using <span style=\"\">loops</span>. We will call this game a <b>guessing game</b>.",
+	"loops-code-question7_key3": "In this game we take any number, let us suppose this number is <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number 5</span></b>.<br>",
+	"loops-code-question7_key4": "After this we take any number as an input from the user between <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 10</span></b>. The user tries to guess this number.<br>",
+	"loops-code-question7_key5": "Suppose the user gives <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span>as an input. We will then check if <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span> is equal to 5 or not?",
+	"loops-code-question7_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3 is not equal to 5</span> so we will ask the user for another input.",
+	"loops-code-question7_key7": "Now, we will check if that number is equal to 5 or not.",
+	"loops-code-question7_key8": "User will get <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5 chances</span></b> to guess.<br><br>",
+	"loops-code-question7_key9": "If he guessed right within the 5 chances he wins and if he guesses wrong then loses the game.",
+	"loops-code-question7_key10": "Hint :",
+	"loops-code-question7_key11": "Study about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break statement</span> in <span style=\"\">python</span>."
+}

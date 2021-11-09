@@ -1,7 +1,6 @@
 question2_key1
 
 
-
 ```python
 a = {'a':1,'b':2,'c':3}
 

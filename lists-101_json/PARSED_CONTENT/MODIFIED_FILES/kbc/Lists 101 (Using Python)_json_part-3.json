@@ -1,0 +1,15 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "part-3_key1"
+  },
+  {
+    "component": "text",
+    "value": "part-3_key2"
+  },
+  {
+    "component": "text",
+    "value": "part-3_key3"
+  }
+]

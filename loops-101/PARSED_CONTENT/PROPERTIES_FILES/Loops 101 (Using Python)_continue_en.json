@@ -1,6 +1,7 @@
 {
-	"continue_key1": "# continue\n\n\n",
-	"continue_key2": "continue `python` ka ek `key`word hai.continue `statement` se `loop` mein iterate ho rahe kuchh `statement` ko skip karake agale `statement` ko `execute` karata hai.\n",
-	"continue_key3": "`Output`\n1\n2\n3\n4\nSkipped Element: 5\n6\n7\n8\n9\n10\n",
-	"continue_key4": "Iss `code` ko hum video ke through samjhege.\n"
+	"continue_key1": "`continue`\n",
+	"continue_key2": "`continue` is also a `python` **`key`word**. `continue statement` skips some of the `statements` of the `loop` and `executes` the other `statements`.\n",
+	"continue_key3": "`Output` :-\n",
+	"continue_key4": "1\n2\n3\n4\nSkipped Element: 5\n6\n7\n8\n9\n10\n",
+	"continue_key5": "Please, watch this video to understand this `code`.\n"
 }

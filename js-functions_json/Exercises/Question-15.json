@@ -1,0 +1,44 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named eligible<i>for</i>vote which takes age as a parameter and prints if he/she is eligible to vote or not. ( Consider minimum age of voting to be 18. )"
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "If a user given age as less than 18 prints  “not eligible “ or else if a user enters 18 or more than 18 prints “you are eligible”."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span>:"
+	},
+	{
+		"component": "text",
+		"value": "18"
+	},
+	{
+		"component": "text",
+		"value": "16"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :"
+	},
+	{
+		"component": "text",
+		"value": "“you are eligible”"
+	},
+	{
+		"component": "text",
+		"value": "“not eligible”"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	}
+]

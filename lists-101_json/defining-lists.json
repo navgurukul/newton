@@ -1,0 +1,124 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Defining Lists"
+	},
+	{
+		"component": "text",
+		"value": "To define lists we can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square brackets</span> - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[]</span>."
+	},
+	{
+		"component": "text",
+		"value": "Whenever you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[</span>, then think that list definition has started, and when you see <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">]</span>, then think that list definition is ending."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Some Examples"
+	},
+	{
+		"component": "text",
+		"value": "In this example, we will store the names of students in a list."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list = [\"rahul\", \"shivam\", \"kavay\", \"ashish\", \"rohit\"]<br>print names_list<br>print type(names_list)"
+	},
+	{
+		"component": "text",
+		"value": "In the last line we have used <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type</span>. By using this function we will come to know that what is its data type."
+	},
+	{
+		"component": "text",
+		"value": "This is the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list of strings</span> because all of its values contain <span style=\"\">strings</span>."
+	},
+	{
+		"component": "text",
+		"value": "<b>Please note that in order to start a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> ,<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[</span> is used and in order to close <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">]</span> is used. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[]</span> looks like a square shape, that is why these are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SQUARE BRACKETS</span>.</b>"
+	},
+	{
+		"component": "text",
+		"value": "We can put any object inside a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span>. This can be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string, integer</span> or any other data type."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF STRINGS</span>"
+	},
+	{
+		"component": "text",
+		"value": "Yeh kuch banks ke naam ki list hai"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "banks_list = [\"Kotak\", \"HDFC\", \"RBL\", \"SBI\", \"Bank of Baroda\"]<br>print banks_list<br>print type(banks_list)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF INTEGERS</span>"
+	},
+	{
+		"component": "text",
+		"value": "This is the list of students marks."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "marks_list = [70, 80, 75, 65, 68]<br>print marks_list   <br>print type(marks_list)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF FLOATS</span>"
+	},
+	{
+		"component": "text",
+		"value": "This is the list of temperatures of last seven days."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]<br>print temperature_list"
+	},
+	{
+		"component": "text",
+		"value": "But if we will use type function on a list <span style=\"\">variable</span>, it will always show the type as list.But we the data iside a list can be of any type."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Exercises"
+	},
+	{
+		"component": "text",
+		"value": "Make a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> of your friends.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Make a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> of all the countries that you want to visit.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Make a list of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">total expenses</span> of last 5 months (suppose , your last month expenses were 58750 and so on.)",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	}
+]

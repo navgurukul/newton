@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 0<br>while(i<5):<br>    j = 0<br>    while(j<5): #loop2<br>        if (j > 3): <br>            break <br>        else:<br>            print \"*\", <br>        j = j + 1    <br>    print ''<br>    i = i + 1<br>"
+	}
+]

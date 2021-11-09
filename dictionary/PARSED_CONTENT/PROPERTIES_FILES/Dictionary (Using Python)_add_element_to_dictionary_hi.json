@@ -1,0 +1,14 @@
+{
+    "add_element_to_dictionary_key1": "## शब्दकोश में तत्वों को जोड़ना:-\n\n\n",
+    "add_element_to_dictionary_key2": "एक `python` शब्दकोश में हम एक बार में केवल एक `key` मान युग्म जोड़ सकते हैं। एक शब्दकोश में जोड़ने के लिए हम `square brackets \"[ ]\"` के अंदर `key` का उल्लेख करते हैं और `equal to \"=\" ` ऑपरेटर`` से `assign` एक मान का उपयोग करते हैं।\n",
+    "add_element_to_dictionary_key3": "#### उदाहरण :-\n\n",
+    "add_element_to_dictionary_key4": "#### `Output`: -\n\n\n",
+    "add_element_to_dictionary_key5": "`{'Name': 'RAM', 'Age': 17,'ORGANIZATION': 'NAVGURUKUL', 'place':'dharamsala}`\n",
+    "add_element_to_dictionary_key6": "#### उदाहरण :-\n\n",
+    "add_element_to_dictionary_key7": "#### `Output`: -\n\n\n",
+    "add_element_to_dictionary_key8": "`{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}`\n",
+    "add_element_to_dictionary_key9": "### `Key` मौजूद है या नहीं\n\n\n",
+    "add_element_to_dictionary_key10": "हम `in` `key` शब्द का उपयोग यह जांचने के लिए करते हैं कि दिया गया `key` किसी शब्दकोष में मौजूद है या नहीं।\n",
+    "add_element_to_dictionary_key11": "#### `Output`: -\n\n\n",
+    "add_element_to_dictionary_key12": "`Yes, 'model' is one of the `कुंजी` in the this dict dictionary.`\n"
+}

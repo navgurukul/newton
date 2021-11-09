@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "question4_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def voter(age):<br>if age < 18:<br>    print(\"eligible\")<br>else:<br>    print(\"not eligible\")<br>    voter(20)<br>"
+  }
+]

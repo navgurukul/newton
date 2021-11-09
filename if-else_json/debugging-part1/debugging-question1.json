@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "In further questions, you will see pre-written <span style=\"\">code</span>. You have to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> the incorrect <span style=\"\">code</span> and submit the correct <span style=\"\">code</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print (\"We will learn debugging by removing all the errors from this python file.\")"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
+	}
+]

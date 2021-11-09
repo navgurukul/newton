@@ -1,0 +1,54 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Difference-between-for(in)-and-for(of)_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>let Navgurukul = ['Pune', 'Bangalore', 'Sarjapur'];<br><br>// cmpKey are the property keys<br>for (let cmpKey in Navgurukul) {<br> console.log(cmpKey);<br>}<br>console.log(“------------------”)<br>// cmpValue are the property values<br>for (let cmpValue of Navgurukul) {<br> console.log(cmpValue)<br>}<br><br>// Output:<br><br>// 0<br>// 1<br>// 2<br>// ------------------------<br>// Pune<br>// Bangalore<br>// Sarjapur<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Difference-between-for(in)-and-for(of)_key2"
+  },
+  {
+    "component": "text",
+    "value": "Difference-between-for(in)-and-for(of)_key3"
+  },
+  {
+    "component": "text",
+    "value": "Difference-between-for(in)-and-for(of)_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Difference-between-for(in)-and-for(of)_key5"
+  },
+  {
+    "component": "text",
+    "value": "Difference-between-for(in)-and-for(of)_key6"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "const campus={\"camp_name\":\"Bangalore_campus\",\"establish\":2016,\"election\":\"three_months\"}<br>for(let pro in campus){<br> console.log(campus[pro])<br>}<br><br>console.log(\"--------------\");<br> <br>for(let pro of campus){<br> console.log(pro)<br>}<br> <br>// Output:<br>// Bangalore_campus<br>// 2016<br>// three_months<br>// --------------<br>// It will throw an error because for of can’t iterate through objects.<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Difference-between-for(in)-and-for(of)_key7"
+  },
+  {
+    "component": "text",
+    "value": "Difference-between-for(in)-and-for(of)_key8"
+  },
+  {
+    "component": "text",
+    "value": "Difference-between-for(in)-and-for(of)_key9"
+  }
+]

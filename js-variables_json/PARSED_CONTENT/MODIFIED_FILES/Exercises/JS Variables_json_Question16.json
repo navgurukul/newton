@@ -1,0 +1,12 @@
+[
+  {
+    "component": "text",
+    "value": "Question16_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "solution",
+    "value": "(“”);"
+  }
+]

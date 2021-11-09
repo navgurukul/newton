@@ -1,0 +1,350 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "What is Cloud Computing ?"
+	},
+	{
+		"component": "text",
+		"value": "cloud storage ke baare mein ham aaye din news aur internet par padhate rahate hain,<br>cloud storage ek bahut hee usefull facility hai, isse aap apanee sabhi jarooree <span style=\"\">files</span> ko jaise documents, photos, music, videos etc.<br>ko computer ke saath saath internet par bhi <span style=\"\">save</span> karke rakh sakate ho,<br>yah <span style=\"\">file</span> doo prakaar se <span style=\"\">save</span> kee jaatee hai, personal and shared. Personal <span style=\"\">save</span> kee gayee <span style=\"\">files</span> ko aapke alaava koee na to koee edit kar sakata hai aur na hee chhedachhaadi kar sakata hai,<br>kin‍tu shared <span style=\"\">files</span> ko aap apane friends aur kisee group mein convert karane kee facility hotee jisase yah advantage  hota hai ki yadi aap koee project par work kar rahe ho to use aap apane group mein Easily shared kar sakate ho apanee suvidhaanusaar use dekh sakate ho aur use convert kar sakate ho ek aur facility hamen cloud storage se milata ki hamaaree <span style=\"\">files</span> online aur offline <span style=\"\">save</span> kar surikshat rakh sakate hain. saath hee computer kharaab hone par ya uplabhdh na hone par aap kisee bhee jagah, Cyber cafe se ya kisee bhee smart phone se apanee <span style=\"\">files</span> ko dekh sakate hai aur un par kaam kar sakate hain."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Iss topic ko or beheter samajney kee leye iss video ko dekho :-"
+	},
+	{
+		"component": "youtube",
+		"value": "2rcnB5GyEpo"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "How To Use Cloud Computing"
+	},
+	{
+		"component": "text",
+		"value": "Cloud computing use karane ke liye aapko keval sam‍bandhit Cloud Storage Service upalab‍dh karaane wali website par keval Account banaana hoga aur bas aap kuchh hee minutes mein cloud storage services ka laabh utha sakate hain."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Name of websites that provide cloud storage service"
+	},
+	{
+		"component": "text",
+		"value": "Google Drive",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Microsoft Sky Drive",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yandex.Disk Claudsrvis",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sync",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Drop Box<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "youtube",
+		"value": "Pgwxxfoy2_Y"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Benefits of Cloud Computing :-"
+	},
+	{
+		"component": "text",
+		"value": "Sabhi files ka online and offline backup rahata hai .",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Files ko kisee bhee place par open karake kaam kiya ja sakata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Files ko ek saath kaie places par share kiya ja sakata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Computer kharaab hone kee dasha mein kisee bhee new computer mein files ko easily se backup kiya ja sakata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Files ko ek saath Mobile, Computer, Laptop, Tablet mein access kiya ja sakata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Iss facility ka laabh aap easily le sakate hain.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Koi Additional hardware  nahi lagaana padta hai.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "use karana bahut hee aasaan hai yah ek Computer / Windows Explorer kee tarah hee <br> dikhaee deta hai.Files ko online bhee edit kiya ja sakata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yahna sabase bada phaayada yah hai ki kisee bhee size kee files ko online share karaaya ja sakata hai,koi files size limit nahi hoti hain, jaisa ki aapako pata hoga ki email ke karne ke dauraan file attachment 10MB se j‍yaada ka accept nahi hota hai, kin‍tu isamen aap kisee bhi size kee file ko online share kara sakate ho.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Kisee bhi jagaha aur kisee bhi samay apanee Document ko use kiya ja sakata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yaha 5GB se lekar 25GB tak ka data online store kiya ja sakata hain.<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Advantages Of Cloud Computing :-"
+	},
+	{
+		"component": "text",
+		"value": "Cloud Computing oorja kee bachat karane ke saath hee kaarban utsarjan kam kar paryaavaran ko bachaane mein sahaayata karatee hai.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aapka data aapkee kaie devices par ek hee samay mein edit kiya ja saktaa hai.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ek survey ke anusaar 2020 tak Cloud Computing ka business 270 arab dollar ko paar kar jaega.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Duniyaan mein 70% professionals Cloud Computing ka use karte hain.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Indian Government dvaara digilocker naam kee application jaaree kee gayi hai, jismain user apne Birth Certificate, Paasport,<br>Educational Certificate jaise aham documents ko online store kar sakte hain. yah bhee Colud Computing ka ek udaaharan hai.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Cloud Computing ke history mein Salesforce.com ko meel ka pat‍thar maana jaata hai, yah 1999 mein lunch huee thee.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Har 600 s‍martphone aur 120 tablet ke liye ek Cloud server joda jaata hai.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aaj duniya bhar mein kaee saaree application keval cloud par hee abilable hain.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yaha tak ki ab operating system bhee cloud par abilable hain SilveOS, ZeroPC inake ek udaaharan hain.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Cloud computing jis prakaar pragati kar rahee hai ho sakata hai jal‍d hee computor aur laptop keval cloud storage ke saath abilable hon aur harddisk ka astit‍va samaap‍ta haae jaaye.<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What Are The Different Deployment Models?"
+	},
+	{
+		"component": "text",
+		"value": "Cloud computing supports many deployment models and they are as follows:"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Private Cloud"
+	},
+	{
+		"component": "text",
+		"value": "Organizations choose to build there private cloud as to keep the strategic, operation and other reasons to themselves and they feel more secure to do it. It is a complete platform which is fully functional and can be owned, operated and restricted to only an organization or an industry. More organizations have moved to private clouds due to security concerns. Virtual private cloud is being used that operate by a hosting company."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Public Cloud"
+	},
+	{
+		"component": "text",
+		"value": "These are the platforms which are public means open to the people for use and deployment. For example, google, amazon etc. They focus on a few layers like cloud <span style=\"\">application</span>, infrastructure providing and providing platform markets."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hybrid Clouds"
+	},
+	{
+		"component": "text",
+		"value": "It is the combination of public and private cloud. It is the most robust approach to implement cloud architecture as it includes the functionalities and features of both the worlds. It allows organizations to create their own cloud and allow them to give the control over to someone else as well."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai."
+	},
+	{
+		"component": "text",
+		"value": "Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "How Many Types Of Deployment Models Are Used In Cloud?<br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What Are The Advantages Of Cloud Services?<br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Mention The Basic Components Of A Server Computer In Cloud Computing? <br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Explain Benefits Of Cloud Computing?<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why Cloud Is Necessary?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	}
+]

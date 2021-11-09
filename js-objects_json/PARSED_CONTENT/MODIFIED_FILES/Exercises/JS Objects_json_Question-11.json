@@ -1,0 +1,30 @@
+[
+  {
+    "component": "text",
+    "value": "Question-11_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key4"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "const list1=[]<br>const word=\"MISSISSIPPI\"<br>let output={}<br>for (var i of word) {<br>      if(list1.includes(i)){<br>       output[i]=output[i]+1<br>    <br>  }else{<br>       list1.push(i);<br>       output[i]=1;<br>  }<br>}<br>console.log(output);"
+  }
+]

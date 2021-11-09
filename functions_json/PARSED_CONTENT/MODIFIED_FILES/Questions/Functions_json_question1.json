@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "question1_key3"
+  },
+  {
+    "component": "text",
+    "value": "question1_key4"
+  },
+  {
+    "component": "text",
+    "value": "question1_key5"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "18<br>16"
+  },
+  {
+    "component": "text",
+    "value": "question1_key6"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "“you are eligible”<br>“not eligible”"
+  }
+]

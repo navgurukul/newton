@@ -1,0 +1,145 @@
+[
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Loop-over-an-object_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var cars = [\"Maruti\", \"Mercedes\", \"BMW\"];<br>for (car in cars){<br>console.log(cars[car]),<br>}<br>// Output:<br>// Maruti<br>// Mercedes<br>// BMW"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Loop-over-an-object_key3"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key4"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key5"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key6"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Loop-over-an-object_key8"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>const campus_list=[\"Bangalore\",\"Dharamshala\",\"Pune\",\"Bangalore_another\"]<br>for(let campus in campus_list){<br>   console.log(campus)<br>}<br><br>// Output: <br>// 0<br>// 1<br>// 2<br>// 3<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Loop-over-an-object_key9"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key10"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key11"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Loop-over-an-object_key12"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>var person={\"name\":\"gouri\",\"surname\":\"maity\",\"age\":37}<br> <br>for (person_details in person){<br>console.log(person_details+ \"= \"+person[person_details]);<br>}<br><br>// Output: <br>// name= gouri<br>// surname= maity<br>// age= 37<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Loop-over-an-object_key13"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key14"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key15"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key16"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key17"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key18"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key19"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key20"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key21"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key22"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key23"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Loop-over-an-object_key24"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "const campus={\"camp_name\":\"Bangalore_campus\",\"establish\":2016,\"election\":\"three_months\"}<br>for(let eachKey in campus){<br>  console.log(campus[pro])<br>}<br>// Output: <br>// Bangalore_campus<br>// 2016<br>// three_months<br>"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key25"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key26"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key27"
+  },
+  {
+    "component": "text",
+    "value": "Loop-over-an-object_key28"
+  }
+]

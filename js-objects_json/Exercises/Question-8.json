@@ -1,0 +1,42 @@
+[
+	{
+		"component": "text",
+		"value": "Take two lists and make an object, 1st list elements be as <span style=\"\">keys</span>, and 2nd lists elements as values."
+	},
+	{
+		"component": "text",
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "var list1=[“one”,”two”,”three”,”four”,”five”]"
+	},
+	{
+		"component": "text",
+		"value": "var list2=[1,2,3,4,5,]"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "let list1=['one','two','three','four','five']<br>let list2=[1,2,3,4,5]<br>var n={}<br>for (i in list2){<br>   n[list1[i]]=list2[i]<br>}<br>console.log(n);"
+	}
+]

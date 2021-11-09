@@ -1,0 +1,22 @@
+[
+  {
+    "component": "text",
+    "value": "Question21_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question21_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var number_list = [19, 17, 12, 17, 17, 18, 10, 17, 14, 12, 19, 17, 12, 13, 11]<br>uniques=[]<br>duplicates=[]<br>for(var i of number_list){<br>  if(!uniques.includes(i)){<br>      uniques.push(i)<br>  }<br>}<br> <br>for(var j of uniques){<br>  count=0<br>  for(var k of number_list){<br>      if (j === k){<br>          count+=1<br>      }<br>  }<br> if(count >1){<br>   duplicates.push(j);<br> };<br>}<br> <br>console.log(duplicates);"
+  }
+]

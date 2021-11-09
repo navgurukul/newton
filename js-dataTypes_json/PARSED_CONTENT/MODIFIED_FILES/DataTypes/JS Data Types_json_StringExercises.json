@@ -1,0 +1,101 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "StringExercises_key1"
+  },
+  {
+    "component": "text",
+    "value": "StringExercises_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "//please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var firsName=\"Nayak\";"
+  },
+  {
+    "component": "text",
+    "value": "StringExercises_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var b=\"Hello this is my ‘Dell Laptop’ \";<br>console.log(b);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "Hello this is my ‘Dell Laptop’;"
+  },
+  {
+    "component": "text",
+    "value": "StringExercises_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var b=\"Hello this is my \"Dell Laptop\"\"<br>console.log(b);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "Here you will get <br>SyntaxError: Unexpected identifier<br>Because we used the same double quotes inside to say Dell Laptop"
+  },
+  {
+    "component": "text",
+    "value": "StringExercises_key5",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "//please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var city;<br>city = \"Gazipur\";"
+  },
+  {
+    "component": "text",
+    "value": "StringExercises_key6",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "solution",
+    "value": "string"
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "indentation_key1"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 10<br>if a * 2 == 20:<br>print (\"Variable a when multiplied by 2 gives 20.\")<br>else:<br>print (\"Variable a when multiplied by 2 does not give 20.\")"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key3"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 10<br>if a * 2 == 20:<br>    print ( )<br>else:<br>    print (\"Variable a when multiplied by 2 does not give 20.\")"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key8"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key9",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key10",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key11",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key12",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "File \"<ipython-input-5-9eaf99c4383b>\", line 3<br>    print (\"a variable ko 2 se multiply kar ke 20 aata hai\")<br>        ^<br>IndentationError: expected an indented block"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "indentation_key14"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key15"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "indentation_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "counter = 1<br>while counter < 10:<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>    print ('--------')"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key17"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key18",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key19",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "indentation_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "counter = 1<br>while counter < 10:<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>print ('--------')"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "indentation_key21"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key22"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "indentation_key23"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key24"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "indentation_key25"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key26"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "counter = 1<br>while counter < 10:<br>    if counter % 2 == 0:<br>        print (\"Counter is an even number.\")<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>print ('--------')"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key27"
+  },
+  {
+    "component": "text",
+    "value": "indentation_key28",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key29",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "indentation_key30"
+  }
+]

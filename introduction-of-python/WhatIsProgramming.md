@@ -1,7 +1,3 @@
-﻿```ngMeta
-name: What is Programming?
-```
-
 By giving **instructions** to the computer,we can make the computers solve complex problems.
 
 A set of **instructions** given to the computer is called a **program**.

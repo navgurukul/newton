@@ -1,10 +1,10 @@
 {
-	"question4_key1": "# Question 4\n\n\n",
-	"question4_key2": "`Loop` ka use kar ke yeh pattern print karo.\n",
+	"question4_key1": "Question 4\n",
+	"question4_key2": "Print this pattern using `Loops`. \n",
 	"question4_key3": "**1, -2, 3, -4, 5, -6 ..99, -100**\n",
-	"question4_key4": "### Hint\n\n\n",
-	"question4_key5": "Notice karo ki kaise pehla nuber positive, dusra number negative, fir firse positive number aur uske baad negative number. Pattern mein ek tareeke se `Positive (+) Number`, `Negative (-) Number`, `Positive (+) Number`, `Negative (-) Number` and so on.\n",
-	"question4_key6": "Aur yeh yaad karo ki kisi bhi number ki koi bhi number ko hum negative bana sakte hain by multiplying it by -1.\n",
-	"question4_key7": "Example:\n",
-	"question4_key8": "Kya aap iss hint ka use kar ke yeh program likh sakte ho?\n"
+	"question4_key4": "Hint :\n",
+	"question4_key5": "Notice that first number is `positive`, and the second number is `negative`, then again a positive and then negative number and so on should be printed. Pattern looks similar to this `Positive (+) Number`, `Negative (-) Number`, `Positive (+) Number`, `Negative (-) Number` and so on.\n",
+	"question4_key6": "We can make any number negative by mutiplying it by `-1`.\n",
+	"question4_key7": "Example :-\n",
+	"question4_key8": "You can use the above `Hint` to write the program.\n"
 }

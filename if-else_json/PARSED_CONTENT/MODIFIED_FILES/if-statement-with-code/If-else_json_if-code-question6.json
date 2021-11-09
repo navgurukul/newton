@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-code-question6_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question6_key2"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question6_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-code-question6_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-code-question6_key5"
+  }
+]

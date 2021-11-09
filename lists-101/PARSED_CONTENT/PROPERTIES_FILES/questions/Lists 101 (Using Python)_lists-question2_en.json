@@ -1,7 +1,7 @@
 {
-	"lists-question2_key1": "Write a `code` that reverses the order of the items means in the opposite order.\n",
+	"lists-question2_key1": "Write a `code` that the reverses the order of the items means in opposite order.\n",
 	"lists-question2_key2": "Your `code` `output` should be here :\n",
-	"lists-question2_key3": "## Hints\n\n",
+	"lists-question2_key3": "Hints\n",
 	"lists-question2_key4": "When `index i` is there, then what will be at index `length - i -1`.\n",
 	"lists-question2_key5": "`places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]`\n",
 	"lists-question2_key6": "i",

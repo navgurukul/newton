@@ -1,0 +1,62 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Accessing</span> Elements from a Dictionary:-"
+	},
+	{
+		"component": "text",
+		"value": "We can <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">access</span> dictionary values with the use of square brackets. Look at the example below to understand."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "person={<br>    'name':'jack',<br>    'age':20,<br>    'gender':'male',<br>    4:'organisation'}<br><br>result = person['age'] <br>x = person.get(\"gender\")<br>print(person[4])<br>print(x)<br>print(result)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">organisation male 20</span> "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get()</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "We can also make use of the <b>get()</b> function to access dictionary values."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "person={<br>    'name':'jack',<br>    'age':20,<br>    'gender':'male',<br>    4:{<br>        'organisation':'navgurukul','place':'dharamsala'<br>        }<br>    }<br>print(person['gender'])<br><br>print(person[4])<br><br>result = person[4]['place']<br><br>print(result)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "male <br>{'organisation': 'navgurukul', 'place': 'dharamsala'}<br> dharamsala"
+	}
+]

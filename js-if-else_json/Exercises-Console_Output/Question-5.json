@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "In a <span style=\"\">variable</span> named number, take the <span style=\"\">input</span> from the user and convert it to int."
+	},
+	{
+		"component": "text",
+		"value": "If this number is less than 10 then print <b>\"number is less than 10\"</b>. If it is greater than 10 and less than 20 then print <b>\"number is less than 20\"</b>. Else if it is greater than 20 then print \"<b>greater than 20\"</b>."
+	},
+	{
+		"component": "text",
+		"value": "For knowing how to take inputs please go through this <a href=\"https://www.merakilearn.org/course/153/exercise/3738\">page</a>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "let readlineSync = require(\"readline-sync\");<br>var number=readlineSync.questionInt(\"enter a number\");<br>if (number<10){<br>   console.log(\"num is less than 10\");<br>}<br>else if(number>10 && number<20){<br>   console.log(\"num is less than 20\");<br>}<br>else{<br>   console.log(\"greater than 20\");<br>}"
+	}
+]

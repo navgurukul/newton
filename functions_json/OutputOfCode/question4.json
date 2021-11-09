@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Niche diye gye <span style=\"\">code</span> snippet ki <span style=\"\">output</span> kya hoga?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def sumofdigits(number):<br>    sum = 0<br>    modulus = 0<br>    while number!=0 :<br>        modulus = number%10<br>        sum+=modulus<br>        number/=10<br>    return sum<br><br>print(sumofdigits(123))<br>"
+	}
+]

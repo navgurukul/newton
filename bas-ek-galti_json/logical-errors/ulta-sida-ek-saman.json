@@ -1,0 +1,35 @@
+[
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "name = ['N', 'I', 'T', 'I', 'N']<br>fevicol = ''<br>i = 0<br>name_length = len(name)<br>while i <= name_length:<br>  fevicol = name[i]<br><br>print(fevicol)"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: NITIN"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "name = ['N', 'I', 'T', 'I', 'N']<br>fevicol = ''<br>i = 0<br>name_length = len(name)<br>while i < name_length:<br>  fevicol = name[i]<br><br>print(fevicol)"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: NITIN"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "name = ['N', 'I', 'T', 'I', 'N']<br>fevicol = ''<br>i = 0<br>name_length = name<br>while i < name_length:<br>    fevicol = name[i]<br><br>print(fevicol)"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: NITIN"
+	}
+]

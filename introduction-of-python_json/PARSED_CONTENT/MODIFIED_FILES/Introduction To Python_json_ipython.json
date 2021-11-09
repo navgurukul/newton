@@ -1,0 +1,156 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "ipython_key1"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key2"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key3"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "ipython_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "ipython_key5"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "ipython_key7"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key8"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> cd Downloads<br>  File \"<stdin>\", line 1<br>    cd Downloads<br>               ^<br>SyntaxError: invalid syntax<br>>>>"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key10"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key11"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key12"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key13"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> if True:<br>..."
+  },
+  {
+    "component": "text",
+    "value": "ipython_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "In [1]: if True:<br>   ...:     |"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key16"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key17"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "ipython_key18"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key19",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ipython_key20",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ipython_key21",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ipython_key22",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "ipython_key23"
+  },
+  {
+    "component": "text",
+    "value": "ipython_key24"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "ipython_key25"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print (\"It will print this.\")<br>print (\"Cool Stuff \"*10)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "ipython_key26"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "time = input(\"Is it morning or evening? (morning/evening) \")<br>if time == \"morning\":<br>    print (\"Let's go for a run!\")<br>elif time == \"evening\":<br>    print (\"Let's go out for a coffee.\")<br>else:<br>    print (\"I did not understand what input you put?\")"
+  }
+]

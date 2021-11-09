@@ -1,0 +1,35 @@
+[
+  {
+    "component": "text",
+    "value": "Question-10_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-10_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-10_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "let readlineaSync = require(\"readline-sync\");<br>var varX=readlineaSync.questionInt(\"enter a number\");<br>var vary=readlineSync.questionInt(\"enter a number\");<br>if(varX%vary===0){<br>   console.log(\"Divisible\");<br>}<br>else{<br>   console.log(\"Not divisible\");<br>}"
+  }
+]

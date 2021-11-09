@@ -1,0 +1,11 @@
+{
+	"Task-4_key1": "Reading Material\n",
+	"Task-4_key2": "**Fibonacci Sequence** ese number hai joh pichle *2 number* ko *add* karke bante hai aur suruwat ke 2 number `0` aur `1` hote hai.\n",
+	"Task-4_key3": "`0 1 1 2 3 5 8 13 21 34`\nYahan app dekh sakte hai `3rd` position ke baad ane wale sare number uske pichle *2 number* ka **sum** hi hai.\n",
+	"Task-4_key4": "Question\n",
+	"Task-4_key5": "Apko ek postion di jayegi jish position tak ke sare Fibonacci series meh se jitne bi even number wale ha element hai uneh print karwana hai apko.\n",
+	"Task-4_key6": "Test\n",
+	"Task-4_key7": "Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n",
+	"Task-4_key8": "Hint\n",
+	"Task-4_key9": "No Hints\n"
+}

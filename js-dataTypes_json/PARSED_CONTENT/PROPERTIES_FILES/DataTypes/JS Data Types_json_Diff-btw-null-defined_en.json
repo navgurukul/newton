@@ -1,0 +1,9 @@
+{
+	"Diff-btw-null-defined_key1": "Example:",
+	"Diff-btw-null-defined_key2": "Explanation:",
+	"Diff-btw-null-defined_key3": "Null is the value which we can assign to a <span style=\"\">variable</span> and it means nothing. As you can see in the above example we have assigned a value “null” to a <span style=\"\">variable</span> named “empty”. when we check the type of it, It will show us its type as object, which is the by default <span style=\"\">error</span> in javascript which should not be there, but it can’t be changed also. ",
+	"Diff-btw-null-defined_key4": "Where as,",
+	"Diff-btw-null-defined_key5": "Example:",
+	"Diff-btw-null-defined_key6": "Explanation:",
+	"Diff-btw-null-defined_key7": "Here in notDefined <span style=\"\">variable</span> we have declared a <span style=\"\">variable</span> but didn’t assign a value to it which means the <span style=\"\">variable</span> is there but nothing is stored in it, so when we try to console it the <span style=\"\">output</span> will be “undefined” as it is not defined yet. Here the value of a <span style=\"\">variable</span> is not defined so it shows the type also as undefined."
+}

@@ -1,5 +1,5 @@
 {
-	"if-code-question8_key1": "name: Question 8\nsubmission_type: url\n",
+	"if-code-question8_key1": "Question 6\n",
 	"if-code-question8_key2": "Create a flowchart that takes a `number` as user `input`. Check if this number is divisible by **5 and 15 both**.\n",
 	"if-code-question8_key3": "*Hint: You will need to use nested if-else for this question.*\n",
 	"if-code-question8_key4": "Submit flowchart as well as `code`.\n"

@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "Think that we have decided if it rains tomorrow I will not go to play in the park, and if it does not rain then I will go to play in the park. How to write this in <span style=\"\">code</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Consider the following example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let condition = 'Raining';<br>if(condition == 'Raining'){<br>  console.log('I will not go to the park');<br>    }    <br>else{<br>  console.log('I will go to the park')<br>    }"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "In this example, there are two <span style=\"\">outputs</span> (play in the park, and not play in the park), which depends on a condition which is the rainfall."
+	}
+]

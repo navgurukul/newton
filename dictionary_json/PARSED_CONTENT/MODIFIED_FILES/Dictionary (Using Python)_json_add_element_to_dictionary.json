@@ -1,0 +1,75 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "add_element_to_dictionary_key1"
+  },
+  {
+    "component": "text",
+    "value": "add_element_to_dictionary_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "add_element_to_dictionary_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dic= {<br>    'Name': 'RAM', <br>    'Age': 17,<br>    }<br>    <br>dic['ORGANIZATION'] = \"NAV GURUKUL\"<br><br>dic['place'] = 'dharamsala'<br><br>print(dic)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "add_element_to_dictionary_key4"
+  },
+  {
+    "component": "text",
+    "value": "add_element_to_dictionary_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "add_element_to_dictionary_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dic= {<br>   'Name': 'RAM',<br>   'Age': 17,<br>    }<br>dic['student']={<br>       'id':22, <br>       'place':'dharamsala'<br>   }<br>print(dic)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "add_element_to_dictionary_key7"
+  },
+  {
+    "component": "text",
+    "value": "add_element_to_dictionary_key8"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "add_element_to_dictionary_key9"
+  },
+  {
+    "component": "text",
+    "value": "add_element_to_dictionary_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "car ={<br>    \"brand\":  \"ford\",<br>    \"model\":  \"mustang\",<br>    \"year\":  1964<br>}<br>if \"model\" in car:<br>    print(\"Yes, 'model' is one of the keys in the car dictionary.\")<br><br>else:<br>    print(\"No, 'model' key dictionary mai nahi hai.\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "add_element_to_dictionary_key11"
+  },
+  {
+    "component": "text",
+    "value": "add_element_to_dictionary_key12"
+  }
+]

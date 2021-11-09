@@ -1,0 +1,30 @@
+[
+  {
+    "component": "text",
+    "value": "Question-9_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-9_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-9_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question-9_key4"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "<br>function function_print_lines(str1,str2){<br>   console.log(str1);<br>   console.log(str2);<br>}<br>function_print_lines(\"Mera naam Nayak hai.\", \"Main NavGurukul ka Academic Associate hun.\")"
+  }
+]

@@ -1,0 +1,8 @@
+{
+	"Question9_key1": "Create a <span style=\"\">loop</span> that takes 10 numbers as <span style=\"\">input</span> from the user. ",
+	"Question9_key2": "After taking the <span style=\"\">input</span> console the sum of all those numbers. ",
+	"Question9_key3": "This program will go like this. Each time using readline-sync will take a number <span style=\"\">input</span> from the user.  ",
+	"Question9_key4": "Sample : <span style=\"\">input</span> 10",
+	"Question9_key5": "Then for example 10+16+9+10+56+78+98+43+21+76.. Total sum of number 417 ",
+	"Question9_key6": "Sample : <span style=\"\">output</span>  417"
+}

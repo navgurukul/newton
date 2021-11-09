@@ -1,0 +1,65 @@
+[
+	{
+		"component": "text",
+		"value": "Do log ko mil kar sabse pehle yeh videos dekhni hai"
+	},
+	{
+		"component": "youtube",
+		"value": "Um63OQz3bjo&t=1s"
+	},
+	{
+		"component": "youtube",
+		"value": "Um63OQz3bjo&t=1s"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai."
+	},
+	{
+		"component": "text",
+		"value": "Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "1.What are bitcoins?"
+	},
+	{
+		"component": "text",
+		"value": "2.Where are bitcoins stored?"
+	},
+	{
+		"component": "text",
+		"value": "3.Mention the advantages of bitcoins?"
+	},
+	{
+		"component": "text",
+		"value": "4.How do bitcoins work?"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Agar aap ko aur thoda samajhna hai, toh yeh dekhiye"
+	},
+	{
+		"component": "text",
+		"value": "<b>Tips</b>:"
+	},
+	{
+		"component": "text",
+		"value": "1 .Aap subtitles/captions on kar sakte hai, <span style=\"\">YouTube</span> Video dekhte hue"
+	},
+	{
+		"component": "text",
+		"value": "2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein"
+	}
+]

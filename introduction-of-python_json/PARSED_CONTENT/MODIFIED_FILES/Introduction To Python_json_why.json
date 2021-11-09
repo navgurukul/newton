@@ -1,0 +1,121 @@
+[
+  {
+    "component": "text",
+    "value": "why_key1"
+  },
+  {
+    "component": "text",
+    "value": "why_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "why_key3"
+  },
+  {
+    "component": "text",
+    "value": "why_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "Print \"Hello World\""
+  },
+  {
+    "component": "text",
+    "value": "why_key5",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "why_key6",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "why_key7",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "why_key8",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "age= int(raw_input(\"enter your age\"))"
+  },
+  {
+    "component": "text",
+    "value": "why_key9",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "why_key10"
+  },
+  {
+    "component": "text",
+    "value": "why_key11",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "why_key12",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "why_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print(\"Hello World\")"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "why_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "age=int(input(\"please enter your age\"))"
+  },
+  {
+    "component": "text",
+    "value": "why_key15",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  }
+]

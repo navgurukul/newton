@@ -1,0 +1,138 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-loop_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "for(var i = 0; i < 3; i++){<br>   console.log(i)<br>}<br>// Output :-<br>// 0<br>// 1<br>// 2    <br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-loop_key2"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key3"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key4"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key5"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key6"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-loop_key8"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "for(var n=9;n>0;n--){<br>   console.log(n)<br>}<br><br>// Output:-<br>// 9<br>// 8<br>// 7<br>// 6<br>// 5<br>// 4<br>// 3<br>// 2<br>// 1<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-loop_key9"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key10"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key11"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key12"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key13"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key14"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key15"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key16"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key17"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key18"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key19"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-loop_key20"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "for (var s=25;s<=30;s++){<br>   console.log(s)<br>}<br><br><br>// Output:-<br>// 25<br>// 26<br>// 27<br>// 28<br>// 29<br>// 30"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-loop_key21"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key22"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key23"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key24"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key25"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key26"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key27"
+  },
+  {
+    "component": "text",
+    "value": "For-loop_key28"
+  }
+]

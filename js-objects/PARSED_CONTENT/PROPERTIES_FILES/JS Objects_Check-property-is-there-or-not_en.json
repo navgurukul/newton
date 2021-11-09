@@ -1,0 +1,8 @@
+{
+	"Check-property-is-there-or-not_key1": "You can check whether property exists or not in an object. \n",
+	"Check-property-is-there-or-not_key2": "We can use the .hasOwnProperty(propname) method of objects to determine if that object has the given property name. \n",
+	"Check-property-is-there-or-not_key3": "**.hasOwnProperty()** returns `true` or `false` if the property is found or not.\n",
+	"Check-property-is-there-or-not_key4": "For checking property is there or not,\n",
+	"Check-property-is-there-or-not_key5": "**objectName.hasOwnProperty(PropertyName);** will gives either `true` or `false`.\n",
+	"Check-property-is-there-or-not_key6": "**myDetails.hasOwnProperty(\"name\");** this will returns `true` because property name is there object named myDetails.\n"
+}

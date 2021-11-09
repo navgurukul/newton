@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "What is the <span style=\"\">error</span> in the following <span style=\"\">code</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var str1 = \"Welcome \\tto my campus\";<br>var str2 = \"Welcome to\\n my \\tcampus\";<br>console.log(Str1);"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "ReferenceError: Str1 is not defined<br><br>### Explanation<br>Because str1 is in small letters but we tried to console Str1 so it didn’t get Feedback after submitting that, it threw a reference error."
+	}
+]

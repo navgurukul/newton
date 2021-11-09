@@ -1,0 +1,6 @@
+{
+	"Question-11_key1": "You need to count the number of occurrences of each unique character of a word \"MISSISSIPPI\" and store them in an object in `key`, value pairs.\n",
+	"Question-11_key2": "Example:-\n",
+	"Question-11_key3": "`Output` :-\n",
+	"Question-11_key4": "{M:1,I:4,S:4,P:2}\n"
+}

@@ -1,7 +1,4 @@
-```ngMeta
 if-code-question5_key1
-```
-
 1. if-code-question5_key2
 2. if-code-question5_key3
 3. if-code-question5_key4

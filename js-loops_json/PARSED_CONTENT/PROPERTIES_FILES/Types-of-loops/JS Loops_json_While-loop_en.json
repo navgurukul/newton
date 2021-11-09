@@ -1,0 +1,23 @@
+{
+	"While-loop_key1": "Example:",
+	"While-loop_key2": "Explanation:",
+	"While-loop_key3": "count +=2 really just means count = count + 2.",
+	"While-loop_key4": "When this <span style=\"\">loop</span> runs the first time, the value of count is 1, therefore count is printed",
+	"While-loop_key5": "When this <span style=\"\">loop</span> runs the second time, the value of count is 3, therefore count is printed",
+	"While-loop_key6": "When this <span style=\"\">loop</span> runs the third time, the value of count is 5, therefore count is printed",
+	"While-loop_key7": "When this <span style=\"\">loop</span> runs the fourth time, the value of count is 7, therefore count is printed",
+	"While-loop_key8": "When this <span style=\"\">loop</span> runs the fifth time, the value of count is 9, therefore count is printed",
+	"While-loop_key9": "When this <span style=\"\">loop</span> runs the sixth time, the value of count is 11. Clearly, 11&gt;10, so the while <span style=\"\">loop</span> will stop.",
+	"While-loop_key10": "Note",
+	"While-loop_key11": "While <span style=\"\">loop</span> helps us to <span style=\"\">execute</span> a block of <span style=\"\">code</span>. While runs upto a specified condition is <span style=\"\">true</span> and stops once that condition is no longer <span style=\"\">true</span>.",
+	"While-loop_key12": "Example:",
+	"While-loop_key13": "Explanation:",
+	"While-loop_key14": "When this <span style=\"\">loop</span> runs the first time, the value of i is 0, 0&lt; 7 is <span style=\"\">true</span>, 0%2 ==0 <span style=\"\">true</span> ,therefore i is printed, and incremented i to 1",
+	"While-loop_key15": "When this <span style=\"\">loop</span> runs the second time, the value of i is 1, 1&lt;7 <span style=\"\">true</span>, 1%2 ==0 <span style=\"\">false</span>, therefore i is not printed, and directly incremented to 2",
+	"While-loop_key16": "When this <span style=\"\">loop</span> runs the third time, the value of i is 2, 2&lt; 7 is <span style=\"\">true</span>, 2%2 ==0 <span style=\"\">true</span> ,therefore i is printed, and incremented i to 3",
+	"While-loop_key17": "When this <span style=\"\">loop</span> runs the fourth time, the value of i is 3, 3&lt;7 <span style=\"\">true</span>, 3%2 ==0 <span style=\"\">false</span>, therefore i is not printed, and directly incremented to 4",
+	"While-loop_key18": "When this <span style=\"\">loop</span> runs the fifth time, the value of i is 4, 4&lt; 7 is <span style=\"\">true</span>, 4%2 ==0 <span style=\"\">true</span> ,therefore i is printed, and incremented i to 5",
+	"While-loop_key19": "When this <span style=\"\">loop</span> runs the sixth time,the value of i is 5, 5&lt;7 <span style=\"\">true</span>, 5%2 ==0 <span style=\"\">false</span>, therefore i is not printed, and directly incremented to 6",
+	"While-loop_key20": "When this <span style=\"\">loop</span> runs the seventh time, the value of i is 6, 6&lt; 7 is <span style=\"\">true</span>, 6%2 ==0 <span style=\"\">true</span> ,therefore i is printed, and incremented i to 7",
+	"While-loop_key21": "When this <span style=\"\">loop</span> runs the eighth time, the value of i is 7, clearly 7&lt;7 is <span style=\"\">false</span> so the <span style=\"\">loop</span> breaks here."
+}

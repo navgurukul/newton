@@ -1,0 +1,44 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Remove Sub<span style=\"\">string</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "mainStr = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"<br>subStr = \"over\""
+	},
+	{
+		"component": "text",
+		"value": "You have to write a program in such a way that should remove all the occurences of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subStr</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span>. Means the <span style=\"\">output</span> of the above program is given below."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "the quick brown fox jumped the lazy dog. the dog slept the verandah."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Bonus Part"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "mainStr = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"<br>subStr = \"over\"<br>replacementStr = \"on\""
+	},
+	{
+		"component": "text",
+		"value": "Replace the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subStr</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mainStr</span> using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">replacementStr</span> and then print it."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "the quick brown fox jumped on the lazy dog. the dog slept on the verandah."
+	}
+]

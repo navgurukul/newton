@@ -1,7 +1,4 @@
-```ngMeta
 Question1_key1
-```
-
 Question1_key2
 
 
@@ -13,7 +10,8 @@ Question1_key3
 a=5
 a = a * "5"
 print(type(a))
-```
+ ```
+
 Question1_key4
 
 
@@ -21,7 +19,8 @@ Question1_key4
 var1 = "nav"
 var2 = "gurukul"
 print(type(var1+var2))
-```
+ ```
+
 Question1_key5
 
 
@@ -29,7 +28,8 @@ Question1_key5
 num1="7"
 num2="number"
 print(type(num1+num2))
-```
+ ```
+
 Question1_key6
 
 
@@ -37,4 +37,4 @@ Question1_key6
 num=6.8
 num1=5
 print(type(num+num1))
-```
+ ```

@@ -1,0 +1,8 @@
+{
+	"Question-16_key1": "Write a function named perfect() which takes 1 parameter and checks that given parameter is a perfect number or not. Perfect number means we will count the factors of a given number including 1 but you need to exclude the own number as its factor.",
+	"Question-16_key2": "If it is a perfect number prints num is a perfect number hai or else prints num is not a perfect number hain.",
+	"Question-16_key3": "Example:",
+	"Question-16_key4": "6 ek perfect number hai 6=1+2+3.",
+	"Question-16_key5": "<span style=\"\">Output</span>:",
+	"Question-16_key6": "6 is a perfect number hain."
+}

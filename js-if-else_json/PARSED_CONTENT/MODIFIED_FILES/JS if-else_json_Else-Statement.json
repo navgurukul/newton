@@ -1,0 +1,50 @@
+[
+  {
+    "component": "text",
+    "value": "Else-Statement_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Else-Statement_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 10;<br>var b = 12;<br>if(a > b){<br>console.log(a,\" is greater than \",b);<br>}<br>else {<br>console.log(b,\" is greater than \" ,a);<br>}<br><br>// Output :- 12 is greater than 10<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Else-Statement_key3"
+  },
+  {
+    "component": "text",
+    "value": "Else-Statement_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Else-Statement_key5"
+  },
+  {
+    "component": "text",
+    "value": "Else-Statement_key6"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var num1= 10;<br>var num2 = 20;<br> <br>if(num1>num2){<br>   connsole.log(\"num1 is greater than num2\");<br>}<br>else{<br>   console.log(\"num2 is greater than num1\");;<br>}<br><br>// output: \"num2 is greater than num1\"<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Else-Statement_key7"
+  },
+  {
+    "component": "text",
+    "value": "Else-Statement_key8"
+  }
+]

@@ -1,0 +1,21 @@
+{
+	"bubble-sort_key1": "Sorting",
+	"bubble-sort_key2": "<b>Sorting</b> is a very important process, you will come across it quite often. Sorting (Sort is the <b>root word</b>) means to arrange in some order like arranging any sequence by height, weight, by name, by marks, etc.",
+	"bubble-sort_key3": "Example :-",
+	"bubble-sort_key4": "Arrange marks from lesser to higher (<b>Ascending Sort</b>).",
+	"bubble-sort_key5": "To sort names alphabetically (<b>Chronological Ascending Sort</b>).",
+	"bubble-sort_key6": "Arranging height from lesser to higher(<b>Ascending Sort</b>).",
+	"bubble-sort_key7": "Arranging weight from higher to lesser(<b>Descending Sort</b>).<br>Bubble sort is a way of sorting, that arranges a sequence of numbers, in <b>ascending</b> or <b>descending</b> order.<br><br>",
+	"bubble-sort_key8": "Understanding Bubble Sort",
+	"bubble-sort_key9": "Look at this diagram. You can read about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Bubble Sort</span> from here also <a href=\"https://medium.com/karuna-sehgal/an-introduction-to-bubble-sort-d85273acfcd8\">yahan</a>.",
+	"bubble-sort_key10": "bubble sort",
+	"bubble-sort_key11": "Compare 1st and 2nd elements.",
+	"bubble-sort_key12": "If the bigger element is afterward, then don't do anything.",
+	"bubble-sort_key13": "If the bigger element is before only, then swap it.<br>(<b>swap</b> means - <b>interchange</b> - replace the first element with the second one, and the second element with the first one).",
+	"bubble-sort_key14": "Now, do the same with 2nd and 3rd i.e.compare the elements and swap them.",
+	"bubble-sort_key15": "Repeat the same process.",
+	"bubble-sort_key16": "The largest number after one <b>iteration</b> will reach the extreme right.",
+	"bubble-sort_key17": "These iterations will run as many times as there are number of elements present - by this, the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">array</span> will be sorted.<br><br>",
+	"bubble-sort_key18": "First, do this with the help of <b>notebook and pen</b>, this will improve your understanding.",
+	"bubble-sort_key19": "Then, implement this <b>algorithm</b> with the help of a <span style=\"\">code</span>. This is a difficult question, if it takes 4 to 5 hours to do this, then also okay."
+}

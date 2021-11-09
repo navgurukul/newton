@@ -1,0 +1,16 @@
+[
+  {
+    "component": "text",
+    "value": "Question19_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key2"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "solution",
+    "value": "var punchline = “The accountant.”;"
+  }
+]

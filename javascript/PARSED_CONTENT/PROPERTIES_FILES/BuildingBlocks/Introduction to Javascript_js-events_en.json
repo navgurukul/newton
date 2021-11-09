@@ -1,0 +1,6 @@
+{
+	"js-events_key1": "Javascript Events\n",
+	"js-events_key2": "Aapne onClick event ke baarein mei padha hoga. Aise hi bahut saare events hote hai jaise **onchange**, **onclick**, **onmouseover**, **onmouseout**, **on`key`down**, **onload**. \n\n",
+	"js-events_key3": "**onclick** ko badle\n  - **onmouseover** se\n  - **onmouseout** se\n  - **on`key`down** se\n\n",
+	"js-events_key4": "Har event kisi HTML element se **bind** hota (yaani attach ya judta) hai. Jaise yeh events \nbutton se **bind** hue hai. Toh **on`key`down** ko check karne se pehle, button par click karo\nand phir koi bhi `key` press karke dekho, usse yeh event **trigger** (yaani start/shuru) honge.\n"
+}

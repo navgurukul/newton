@@ -1,0 +1,229 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Basics of Functions"
+	},
+	{
+		"component": "text",
+		"value": "Function ek block of <span style=\"\">code</span> hota hai jo ki run hota hai jab hum use call karte hai. Function mei hum data pass kar sekhte hai jise hum parameter kahete hai. Function data return karta hai. Functions ka use kar ke hum ek baar kuch <span style=\"\">code</span> likh kar usko bahot baar use kar sakte hai. Isse humara kaam bahot aasan ho jata hai."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print (\"NavGurukul\")<br><br>def say_hello():<br>    print (\"Hello!\")<br>    print (\"Aap kaise ho?\")<br><br>say_hello()<br>print (\"Python is awesome\")<br>say_hello()<br>print (\"Hello…\")<br>say_hello()"
+	},
+	{
+		"component": "text",
+		"value": "Isko chala ke dekho. Iski <span style=\"\">output</span> kuch aisi aayegi:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "NavGurukul<br>Hello!<br>Aap kaise ho?<br>Python is awesome<br>Hello!<br>Aap kaise ho?<br>Hello…<br>Hello!<br>Aap kaise ho?"
+	},
+	{
+		"component": "text",
+		"value": "Dhayn se dekho ki <span style=\"\">code</span> mein jahan bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello()</span> likha hai, wahan <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello!</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Aap kaise ho?</span> waali lines print ho gayi hain. Yeh isliye hua hai kyunki humne ek baar doosri line mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def say_hello()</span> ka use kar ke ek function likh diya. Ab jab bhi yeh function call hoga toh iske andar waala <span style=\"\">code</span> chal jayega. Iss tareeke se hum baar baar ek <span style=\"\">code</span> ko user kar sakte hain."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction to Functions"
+	},
+	{
+		"component": "text",
+		"value": "Functions ka use karke hum kuch <span style=\"\">code</span> ek baar likh ke usse baar baar wahi kaam karva sakte hain. Aap abhi tak bahot functions ka use kar chuke ho. Iss <span style=\"\">code</span> ko padho:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list = [\"Fiza\", \"Shivam\", \"Imtiyaz\", \"Deepanshu\", \"Rahman\"]<br>print (len(names_list))"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Ouput:-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5</span>"
+	},
+	{
+		"component": "text",
+		"value": "Yahan <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len(names_list)</span> ka use kar ke humne jana ki list mein kitne item hai. Ab hum apne <span style=\"\">code</span> mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len</span> ka use kar kisi bhi list ke items ki ginti kar sakte hain. Yahan <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len</span> ek function hai. Functions ke bina humein list ki items ki ginti nikalne ke liye baar baar <span style=\"\">code</span> likhna padega. Isko behtar samajhne hum aage wale examples mein iska <span style=\"\">code</span> khud likhenge."
+	},
+	{
+		"component": "text",
+		"value": "Hum ek function likhenge. Iss <span style=\"\">code</span> ko pehle chala ke dekho, aur fir neeche padiye iske baare mein samajhne ke liye."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def definition_say_hello():<br>    print (\"NavGurukul\")<br>    print (\"NavGurukul mei humein apni learning ki responsibility leni padti hai.\")<br><br>definition_say_hello()<br><br>print (\"NavGurukul mei hum sab logo ko ek tarah se treat karte hai.\")<br><br>definition_say_hello()"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "NavGurukul<br><br>NavGurukul mei humein apni learning ki responsibility leni padti hai.<br><br>NavGurukul mei hum sab logo ko ek tarah se treat karte hai.<br><br>NavGurukul<br><br>NavGurukul mei humein apni learning ki responsibility leni padti hai."
+	},
+	{
+		"component": "text",
+		"value": "Ek aur example FUNCTIONS samajhne ke liye. Iss <span style=\"\">code</span> ko padh ke <span style=\"\">output</span> socho. Chala ke dekhne ke baad dhyan se padho."
+	},
+	{
+		"component": "text",
+		"value": "Shuruat mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span> ka use kar ke hum python ko bata rahe ki humne ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello</span> naam ka function likha hai.<br><img src=\"assets/function_defn_inst_1.png\" alt=\"\" />",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Iss function ka code (do print karne ki lines) kuch indent (space) deke <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def definition_say_hello()</span> ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.<br><img src=\"assets/function_defn_inst_2.png\" alt=\"\" />",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Fir agli line, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello()</span> mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko <b>FUNCTION CALL</b> karna kehte hain.<br><img src=\"assets/function_defn_inst_3.png\" alt=\"\" />",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Iske baad print statement use kar ke humne ek string print kiya hai.<br><img src=\"assets/function_defn_inst_4.png\" alt=\"\" />",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aakhir mein humne firse <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello()</span> likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - <i>2 print</i> command chal jati hai.<br><img src=\"assets/function_defn_inst_5.png\" alt=\"\" /><br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def function_say_bye():<br>    print (\"Aapko mil ke maza aaya. \")<br>    print (\"Bye bye\")<br>function_say_bye()<br>function_say_bye()<br>print (\"Python ka istamaal bahot jagah hota hai.\")<br>function_say_bye()<br>function_say_bye()"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "Aapko mil ke maza aaya. <br>Bye bye<br>Aapko mil ke maza aaya. <br>Bye bye<br>Python ka istamaal bahot jagah hota hai.<br>Aapko mil ke maza aaya. <br>Bye bye<br>Aapko mil ke maza aaya. <br>Bye bye"
+	},
+	{
+		"component": "text",
+		"value": "Hum python mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span> keyword ka use kar ke function banate hain. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span> ke baad function ka naam, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">function_say_bye</span> likha hain. Naam ke baad hum do bracket <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">)</span> lagate hain.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Bracket ke baad ek colon, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">:</span> lagate hain. Python semicolon se samajh jaati hai ki function ka code shuru ho raha hai.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Dekhiye ki sara function ka code indent (space) deke likha hua hai. Isse python ko samajh aata hai ki yeh function ke andar ka code hai.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print (\"Bye bye\")</span> ke baad code space diye bina likha hua hai. Isse python ko samajh aati hai ki function ka code kahatam ho gaya hai",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Function Call ko samajhna"
+	},
+	{
+		"component": "text",
+		"value": "Neeche diye gaye <span style=\"\">code</span> ko likhiye aur dekhiye ki iska koi <span style=\"\">output</span> aa raha hai ya nahi. Nahi aa raha toh kyun nahi aa rahi?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def definition_hello_again():<br>    print (\"Firse Hello :)\")<br>    print (\"Aap kaise ho?\")"
+	},
+	{
+		"component": "text",
+		"value": "Ab apne <span style=\"\">code</span> mein yeh line add karein aur dekhein ki koi <span style=\"\">output</span> aati hai."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "definition_hello_again()"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "Firse Hello :)<br>Aap kaise ho?"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Python</span> mein sirf function likh dene se function ka <span style=\"\">code</span> chalta nahi hai. Yahan pehle humne def <span style=\"\">key</span>word ka use karke <span style=\"\">python</span> ko function ka <span style=\"\">code</span> bataya. Isko <b>\"FUNCTION DEFINITION\"</b> kehte hain."
+	},
+	{
+		"component": "text",
+		"value": "Fir humne baad mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_hello_again()</span> likh ke function ko bulaya aur usme likha hua <span style=\"\">code</span> chalwaya. Isko <b>\"FUNCTION CALL\"</b> karna kehte hain. <b>\"FUNCTION CALL\"</b> mein hum function ke naam ke baad 2 bracket <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">)</span> lagate hain. Isse <span style=\"\">python</span> ko pata chalta hai ki function ke andar ka <span style=\"\">code</span> chalana hai."
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=WkC7ktXM_8k"
+	},
+	{
+		"component": "youtube",
+		"value": "https://youtu.be/AJJpGImQWLc"
+	}
+]

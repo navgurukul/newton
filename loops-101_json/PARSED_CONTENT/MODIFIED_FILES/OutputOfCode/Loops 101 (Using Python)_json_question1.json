@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "question1_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "c = 0<br>d = 1<br><br>while c < 3:<br>    c = c + 1<br>    d = d * c<br>    print \"Loop Ke Andar\", c, d<br>else:<br>    print \"Loop Ke Bahar\", c, d"
+  }
+]

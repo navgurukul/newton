@@ -1,0 +1,23 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "keys_b_n_key1"
+  },
+  {
+    "component": "text",
+    "value": "keys_b_n_key2"
+  },
+  {
+    "component": "banner",
+    "title": "Bottom Row keys b and n",
+    "value": "",
+    "actions": [
+      {
+        "url": "https://merakilearn.org/typing",
+        "label": "Go to typing app",
+        "data": "{\"content\":[\"b\",\"n\"],\"code\":\"trytyping\"}"
+      }
+    ]
+  }
+]

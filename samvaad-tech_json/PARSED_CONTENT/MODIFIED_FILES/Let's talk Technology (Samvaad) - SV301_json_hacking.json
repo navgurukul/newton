@@ -1,0 +1,102 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hacking_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "mOiMU9fIEwk"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "hacking_key2"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key3"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key4"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key5"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "hacking_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "hacking_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "hacking_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "hacking_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "hacking_key11",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "hacking_key12"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key13",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hacking_key14"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key15"
+  },
+  {
+    "component": "text",
+    "value": "hacking_key16"
+  }
+]

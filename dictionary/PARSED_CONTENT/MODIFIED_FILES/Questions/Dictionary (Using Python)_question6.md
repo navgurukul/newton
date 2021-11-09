@@ -1,11 +1,9 @@
 question6_key1
-
-
 question6_key2
 
 
-
 question6_key3
+question6_key4
 ```python
 dic={
     “ball”:”red”,
@@ -16,7 +14,7 @@ dic={
     }
  ```
 
-question6_key4
+question6_key5
 ```
  {“ball”:”red”,”bat”:4,”wickets”:8}
 ```

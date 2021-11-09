@@ -1,0 +1,72 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">50 50 Lifeline</span>"
+	},
+	{
+		"component": "text",
+		"value": "Now, you have to implement <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">50 50 lifeline</span> when the user answers, you can also give 50 50 together with 1,2,3,4 as an option in the answers. If the user goes for 50 50, then you need to do the below things for the user :-"
+	},
+	{
+		"component": "text",
+		"value": "only for that specific question",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "you have to show two options again",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "you have to take user inputs again",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "and whatever code you were running that only you will run."
+	},
+	{
+		"component": "text",
+		"value": "if the answer is correct - then tell - that the answer is right.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "if the answer is wrong - tell the user - that the answer is wrong<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "The two options that you will give - (out of the two one should be correct).<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Bonus Task"
+	},
+	{
+		"component": "text",
+		"value": "Write your <span style=\"\">code</span> in such a way that users can use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">50 50 lifeline</span> once only. If the user tries to use that lifeline again then we have to tell them the lifeline has already been used."
+	}
+]

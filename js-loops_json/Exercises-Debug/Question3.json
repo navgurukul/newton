@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Third"
+	},
+	{
+		"component": "text",
+		"value": "Debug the <span style=\"\">code</span> as per the given <span style=\"\">output</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> should be "
+	},
+	{
+		"component": "text",
+		"value": "max-length"
+	},
+	{
+		"component": "text",
+		"value": "no-amd"
+	},
+	{
+		"component": "text",
+		"value": "prefer-arrow-functions"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const result = {<br>   success: [\"max-length\", \"no-amd\" “prefer-arrow-functions”],<br>   failure: [\"no-var\", \"var-on-top\", \"linebreak\"]:<br>   skipped: [\"no-extra-semi\", \"no-dup-keys\"]<br> };<br><br><br>const success=result.success<br>const store=success,length<br>for(const value in success){<br>  console.log(store[value])<br>}"
+	}
+]

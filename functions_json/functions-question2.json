@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">function_print_lines</span> naam ka ek function likho jo 2 <span style=\"\">strings</span> leta ho, aur unko neeche diye hue dhang se print karta ho."
+	},
+	{
+		"component": "text",
+		"value": "Jaise agar hum usko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Mera naam Rishabh hai.\"</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Main NavGurukul ka co-Founder hun.\"</span> denge toh woh yeh print karega"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Mera naam Rishabh hai.<br>Main NavGurukul ka co-founder hun."
+	}
+]

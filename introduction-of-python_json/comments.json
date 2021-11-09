@@ -1,0 +1,30 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Comments"
+	},
+	{
+		"component": "text",
+		"value": "We can write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">comments</span> in any program . When we <i>run</i> the <i>program</i> these comments do not get <i><span style=\"\">execute</span>d</i>."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Comments</span> are written for our understanding, and for the people who are working on that <span style=\"\">code</span> with us or people with whom we will work later etc. For the understanding of all these people, comments are used."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print (\"This will be printed.\")<br>print (\"This line will also be printed\")<br># This is a comment.<br># You can write it for your ease.<br># Any line that starts with \"#\" (hash) is called a  comment.<br># We write these lines as programmers, for our own ease. Computer ignores them.<br>print (\"Computer will not be able to read above comments,but will print this line.\")"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "What does your <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">program</span>do, is very important to write in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">comments</span>in a given technical language?"
+	},
+	{
+		"component": "text",
+		"value": "<i>Many times we have seen that the students who don't write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">comments</span> properly during  interviews, they get a very negative feedback in interviews.</i><br><i>If you make this as a habit then your own  understanding will improve and in future you will not face any problem.</i>"
+	}
+]

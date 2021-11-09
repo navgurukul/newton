@@ -1,0 +1,16 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 3"
+	},
+	{
+		"component": "text",
+		"value": "Check whether <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1000</span> is equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1000</span>. If yes, print <b>\"barabar hai\"</b>, else print <b>\"barabar nahi hai\"</b>. Complete the if <span style=\"\">statement</span> as well as the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> <span style=\"\">statements</span> in this question."
+	},
+	{
+		"component": "image",
+		"value": "assets/question_images/question3-image1.png",
+		"alt": "flowchart image"
+	}
+]

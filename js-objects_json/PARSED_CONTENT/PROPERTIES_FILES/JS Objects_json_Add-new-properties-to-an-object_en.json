@@ -1,0 +1,8 @@
+{
+	"Add-new-properties-to-an-object_key1": "Here's how we would add a isGood property to myHome:",
+	"Add-new-properties-to-an-object_key2": "If you see, the new property isGood is added in the object.",
+	"Add-new-properties-to-an-object_key3": "For adding:",
+	"Add-new-properties-to-an-object_key4": "objectName.NewPropertyName = value;",
+	"Add-new-properties-to-an-object_key5": "myHome.isGood= <span style=\"\">true</span>;",
+	"Add-new-properties-to-an-object_key6": "Then in myHome object we are going to set a new property named isGood and we are giving value as <span style=\"\">true</span>."
+}

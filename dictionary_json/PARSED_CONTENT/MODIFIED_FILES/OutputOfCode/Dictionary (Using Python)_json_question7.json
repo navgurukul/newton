@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question7_key1"
+  },
+  {
+    "component": "text",
+    "value": "question7_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "rec = {<br>\"Name\" : \"Python\", <br>\"Age\":\"20\",<br>\"Addr\" : \"NJ\", <br>\"Country\" :\"USA\"<br>}<br>id1 = id(rec)<br>del rec<br><br>rec = {<br>    \"Name\" : \"Python\", <br>    \"Age\":\"20\", <br>    \"Addr\" : \"NJ\", <br>    \"Country\" : \"USA\"<br>    }<br>id2 = id(rec)<br>print(id1 == id2)<br>"
+  }
+]

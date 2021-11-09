@@ -1,7 +1,4 @@
-```ngMeta
 WhatDoComputersDo_key1
-```
-
 WhatDoComputersDo_key2
 
 

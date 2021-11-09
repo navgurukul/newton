@@ -1,0 +1,5 @@
+{
+	"Question-2_key1": "Write a programme to generate and print a dictionary that contains a number (between 1 and n) in the form (x, x*x).",
+	"Question-2_key2": "Sample <span style=\"\">input</span> (n = 5) :",
+	"Question-2_key3": "<span style=\"\">Output</span> : {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}."
+}

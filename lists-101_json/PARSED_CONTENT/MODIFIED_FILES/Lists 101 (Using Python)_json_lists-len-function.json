@@ -1,0 +1,35 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-len-function_key1"
+  },
+  {
+    "component": "text",
+    "value": "lists-len-function_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']<br>marks = [10, 20, 56, 45, 36, 20]<br><br>print len(students)<br>print len(marks)"
+  },
+  {
+    "component": "text",
+    "value": "lists-len-function_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "length = len(students) # kyunki dono ki same length hai toh jiski bhi length le sakte ho<br>counter = 0<br>while counter < length:<br>    print students[counter] + str(marks[counter])"
+  },
+  {
+    "component": "text",
+    "value": "lists-len-function_key4"
+  },
+  {
+    "component": "text",
+    "value": "lists-len-function_key5"
+  }
+]

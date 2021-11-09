@@ -1,0 +1,16 @@
+{
+	"chapter-10_key1": "Chapter 10\n",
+	"chapter-10_key2": "assert spam >= 10, 'The spam `variable` is less than 10.'\n",
+	"chapter-10_key3": "assert eggs.lower() != bacon.lower(), 'The eggs and bacon `variables` are the same!' or assert eggs.upper() != bacon.upper(), 'The eggs and bacon `variables` are the same!'\n",
+	"chapter-10_key4": "assert `False`, 'This assertion always triggers.'\n",
+	"chapter-10_key5": "To be able to call logging.debug(), you must have these two lines at the start of your program:\n",
+	"chapter-10_key6": "import logging\nlogging.basicConfig(level=logging.DEBUG, format=' %(asctime)s -\n%(levelname)s -  %(message)s')\nTo be able to send logging messages to a `file` named programLog.txt with logging.debug(), you must have these two lines at the start of your program:\n",
+	"chapter-10_key7": "import logging\n",
+	"chapter-10_key8": "logging.basicConfig(filename='programLog.txt', level=logging.DEBUG,\nformat=' %(asctime)s -  %(levelname)s -  %(message)s')\nDEBUG, INFO, WARNING, ERROR, and CRITICAL\n",
+	"chapter-10_key9": "logging.disable(logging.CRITICAL)\n",
+	"chapter-10_key10": "You can disable logging messages without removing the logging function calls. You can selectively disable lower-level logging messages. You can create logging messages. Logging messages provides a timestamp.\n",
+	"chapter-10_key11": "The Step button will move the debugger into a function call. The Over button will quickly `execute` the function call without stepping into it. The Out button will quickly `execute` the rest of the `code` until it steps out of the function it currently is in.\n",
+	"chapter-10_key12": "After you click Go, the debugger will stop when it has reached the end of the program or a line with a breakpoint.\n",
+	"chapter-10_key13": "A breakpoint is a setting on a line of `code` that causes the debugger to pause when the program execution reaches the line.\n",
+	"chapter-10_key14": "To set a breakpoint in IDLE, right-click the line and select Set Breakpoint from the context menu.\n"
+}

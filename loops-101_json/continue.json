@@ -1,0 +1,41 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">continue</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">continue</span> is also a <span style=\"\">python</span> <b><span style=\"\">key</span>word</b>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">continue statement</span> skips some of the <span style=\"\">statements</span> of the <span style=\"\">loop</span> and <span style=\"\">executes</span> the other <span style=\"\">statements</span>."
+	},
+	{
+		"component": "image",
+		"value": "assets/how-continue-statement-works.jpg",
+		"alt": "Mobile Video Recorder"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 1<br>while(i <= 10):<br>    if(i == 5):<br>         print(\"Skipped Element :\", i)<br>      continue<br>    print(i)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "1<br>2<br>3<br>4<br>Skipped Element: 5<br>6<br>7<br>8<br>9<br>10"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 0<br>string = \"navgurukul\"<br>while (counter < len(string)):<br>    counter += 1<br><br>    if string[counter] == \"a\":<br>        continue<br><br>    if string[counter] == \"u\":<br>        continue<br>    <br>    print(string[counter])<br><br>print(\"The end\", string[counter])"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=rOfNF7gj5t0"
+	}
+]

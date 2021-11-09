@@ -1,0 +1,77 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-intro_key1"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/if-else_json/debugging-part1/assets/debugging-intro.jpg",
+    "alt": "debugging-intro_key2"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number1 = 234<br>    print (numer1)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<ipython-input-1-2a33fa4e8a92> in <module>()<br>      1 number1 = 234<br>----> 2 print (numer1)<br><br>NameError: name 'numer1' is not defined"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key5"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "debugging-intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number1 = 234<br>number2 = \"1\"<br>print (number1 + number2)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<ipython-input-2-56b79ffda8bc> in <module>()<br>      1 cnumber1 = 234<br>      2 number2 = \"1\"<br>----> 3 print (number1 + number2)<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key11"
+  },
+  {
+    "component": "text",
+    "value": "debugging-intro_key12"
+  }
+]

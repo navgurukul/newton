@@ -1,0 +1,51 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a=5<br>a = a * \"5\"<br>print(type(a))"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var1 = \"nav\"<br>var2 = \"gurukul\"<br>print(type(var1+var2))"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num1=\"7\"<br>num2=\"number\"<br>print(type(num1+num2))"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num=6.8<br>num1=5<br>print(type(num+num1))"
+  }
+]

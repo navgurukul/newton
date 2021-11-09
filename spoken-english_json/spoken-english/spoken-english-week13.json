@@ -1,0 +1,304 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Class 13 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Pair and Share:"
+	},
+	{
+		"component": "text",
+		"value": "Explain to them the concept of giving"
+	},
+	{
+		"component": "text",
+		"value": "When was the last time you helped someone you know and how?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "How did you feel after helping someone",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why is it important to give<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time:"
+	},
+	{
+		"component": "text",
+		"value": "Finish the Story Game:<br>The Finish the story game is a fun group activity which develops students storytelling, communication skill, sentence making and grammar. The aim of the game is to create a complete story as a team. Going around in a circle each player will contribute one sentence to the story."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>Volunteer: As the rain poured, I walked to…"
+	},
+	{
+		"component": "text",
+		"value": "Student: School. Here I saw…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: An alien. He was…"
+	},
+	{
+		"component": "text",
+		"value": "Student: Dancing. So I asked him…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: What are you doing here? He replied…"
+	},
+	{
+		"component": "text",
+		"value": "Student: I’m here to eat you all! I ran…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: To my mom’s house. And shouted…"
+	},
+	{
+		"component": "text",
+		"value": "Student: Mom, where’s my lunch? She said…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: Your lunch is at school. So I walked…"
+	},
+	{
+		"component": "text",
+		"value": "Student: To school. And found…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: The alien had my lunch. However…"
+	},
+	{
+		"component": "text",
+		"value": "Student: That alien was my dad. And then…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: We laughed. My dad called me a…"
+	},
+	{
+		"component": "text",
+		"value": "Student: Silly snail. And he…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: hugged me. The end. "
+	},
+	{
+		"component": "text",
+		"value": "Topic suggestion for Volunteers:"
+	},
+	{
+		"component": "text",
+		"value": "Once upon a time , the prince",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "While I was walking home, I saw",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The young child",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "As I was leaving the house,<br>Word of the Week<br>Empower (verb): make (someone) stronger and more confident,<br>especially in controlling their life and claiming their rights.<br>Eg. My passion lies in empowering and uplifting others.<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: (For each question - first volunteer shares, then student)<br>Explain to them the concept of giving"
+	},
+	{
+		"component": "text",
+		"value": "When was the last time you helped someone you know and how?<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "How did you feel after helping someone<br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why is it important to give<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "Finish the Story Game:<br>The Finish the story game is a fun group activity which develops students storytelling, communication skill, sentence making and grammar. The aim of the game is to create a complete story as a team. Going around in a circle each player will contribute one sentence to the story. "
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>Volunteer: As the rain poured, I walked to…"
+	},
+	{
+		"component": "text",
+		"value": "Student: School. Here I saw…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: An alien. He was…"
+	},
+	{
+		"component": "text",
+		"value": "Student: Dancing. So I asked him…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: What are you doing here? He replied…"
+	},
+	{
+		"component": "text",
+		"value": "Student: I’m here to eat you all! I ran…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: To my mom’s house. And shouted…"
+	},
+	{
+		"component": "text",
+		"value": "Student: Mom, where’s my lunch? She said…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: Your lunch is at school. So I walked…"
+	},
+	{
+		"component": "text",
+		"value": "Student: To school. And found…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: The alien had my lunch. However…"
+	},
+	{
+		"component": "text",
+		"value": "Student: That alien was my dad. And then…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: We laughed. My dad called me a…"
+	},
+	{
+		"component": "text",
+		"value": "Student: Silly snail. And he…"
+	},
+	{
+		"component": "text",
+		"value": "Volunteer: hugged me. The end."
+	},
+	{
+		"component": "text",
+		"value": "Topic suggestion for Volunteers:"
+	},
+	{
+		"component": "text",
+		"value": "Once upon a time , the kingdom…",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "While I was walking home, I saw a bright light…",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The young child had….",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "While reading a book, I realised…. <br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Empathy (noun): the ability to understand and share the feelings of another."
+	},
+	{
+		"component": "text",
+		"value": "Example: I have empathy for my mother’s difficulties"
+	},
+	{
+		"component": "text",
+		"value": "Empathy vs. Sympathy: Sympathy means pity or feeling sorrow forsomeone else (from a distance); Empathy is actually allowing<br>yourself to fully feel the other person’s feelings by putting yourself in the other person’s shoes"
+	}
+]

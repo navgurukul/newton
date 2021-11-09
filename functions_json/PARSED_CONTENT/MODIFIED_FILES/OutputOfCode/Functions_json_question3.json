@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question3_key1"
+  },
+  {
+    "component": "text",
+    "value": "question3_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>def greet(*names):<br>    for name in names:<br>               print(\"Hello\", name)<br>greet(\"sonu\", \"kartik\", \"umesh\", \"bijender\")<br>"
+  }
+]

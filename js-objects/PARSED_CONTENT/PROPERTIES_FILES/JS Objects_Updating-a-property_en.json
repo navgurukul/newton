@@ -1,0 +1,11 @@
+{
+	"Updating-a-property_key1": "For example,\n",
+	"Updating-a-property_key2": "let's look at myHome:\n",
+	"Updating-a-property_key3": "let's change object's property name to the `string` my Villa. \n",
+	"Updating-a-property_key4": "Here's how we update his object's name property: \n",
+	"Updating-a-property_key5": "myHome.name = \"my Villa\"; \n",
+	"Updating-a-property_key6": "or \n",
+	"Updating-a-property_key7": "myHome[\"name\"] = \"my Villa\"; \n",
+	"Updating-a-property_key8": "Now when we evaluate myHome.name, instead of getting Mannat, we'll get his new name, myVilla.\n",
+	"Updating-a-property_key9": "After you've created a JavaScript object, you can update its properties at any time just like you would update any other `variable`. You can use either dot or bracket notation to update.\n"
+}

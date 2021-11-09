@@ -1,0 +1,24 @@
+[
+	{
+		"component": "text",
+		"value": "Given a <span style=\"\">string</span>, write a program to check if it is palindrome or not. "
+	},
+	{
+		"component": "text",
+		"value": "A <span style=\"\">string</span> is said to be palindrome if the reverse of the <span style=\"\">string</span> is the same as the <span style=\"\">string</span>. "
+	},
+	{
+		"component": "text",
+		"value": "For example :"
+	},
+	{
+		"component": "text",
+		"value": "“RADAR” is a palindrome, but “RADIX” is not a palindrome"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	}
+]

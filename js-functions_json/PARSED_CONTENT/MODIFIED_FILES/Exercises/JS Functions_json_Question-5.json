@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question-5_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>function getFullName(firstName,lastName){<br> console.log(firstName+\" \"+lastName)<br>}<br> <br>GetFullName(\"kumar\",\"nayak\");<br>"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "GetFullName is not defined,<br>it will give error because the function we defined is different that what we called"
+  }
+]

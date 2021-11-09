@@ -1,0 +1,35 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "question4_key3"
+  },
+  {
+    "component": "text",
+    "value": "question4_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "3"
+  },
+  {
+    "component": "text",
+    "value": "question4_key5"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "0 EVEN<br>1 ODD<br>2 EVEN<br>3 ODD"
+  }
+]

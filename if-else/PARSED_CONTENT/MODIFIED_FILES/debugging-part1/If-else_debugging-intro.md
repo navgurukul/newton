@@ -1,19 +1,16 @@
-```ngMeta
 debugging-intro_key1
-```
-
-debugging-intro_key2
 ![debugging-intro](assets/debugging-intro.jpg)
 
 
-debugging-intro_key3
+debugging-intro_key2
 
 
 ```python
-    number1 = 234
-    print (numer1)
+	number1 = 234
+	print (numer1)
 ```
-debugging-intro_key4
+
+debugging-intro_key3
 
 
 ```python
@@ -23,6 +20,10 @@ debugging-intro_key4
 
 NameError: name 'numer1' is not defined
 ```
+
+debugging-intro_key4
+
+
 debugging-intro_key5
 
 
@@ -30,10 +31,7 @@ debugging-intro_key6
 
 
 debugging-intro_key7
-
-
 debugging-intro_key8
-debugging-intro_key9
 
 
 ```python
@@ -41,7 +39,8 @@ number1 = 234
 number2 = "1"
 print (number1 + number2)
 ```
-debugging-intro_key10
+
+debugging-intro_key9
 
 
 ```python
@@ -52,7 +51,8 @@ debugging-intro_key10
 
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 ```
+
+debugging-intro_key10
+
+
 debugging-intro_key11
-
-
-debugging-intro_key12

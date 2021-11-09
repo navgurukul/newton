@@ -1,0 +1,118 @@
+[
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key1"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "spoken-english-week3_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week3_key3"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key7",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key8",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key9"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week3_key10"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key11"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key12"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "spoken-english-week3_key13"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key14"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week3_key15"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key16"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "spoken-english-week3_key17"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key18"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week3_key19"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key20"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week3_key21"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week3_key22"
+  }
+]

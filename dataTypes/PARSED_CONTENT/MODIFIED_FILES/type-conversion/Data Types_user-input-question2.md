@@ -1,7 +1,4 @@
-```ngMeta
 user-input-question2_key1
-```
-
 user-input-question2_key2
 
 

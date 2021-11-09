@@ -1,0 +1,54 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "report-card_key1"
+  },
+  {
+    "component": "text",
+    "value": "report-card_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65, 76],<br>    [95, 45, 78, 52, 49]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "report-card_key3"
+  },
+  {
+    "component": "text",
+    "value": "report-card_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "report-card_key5"
+  },
+  {
+    "component": "text",
+    "value": "report-card_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65],<br>    [95, 45, 78]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "report-card_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65],<br>    [95, 45, 78],<br>    [87, 67, 49, 68, 88]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "report-card_key8"
+  }
+]

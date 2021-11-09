@@ -1,0 +1,11 @@
+{
+	"nested-lists_key1": "Nested Lists\n",
+	"nested-lists_key2": "Aise sochiye ki aapke paas ek list hai, jismei numbers bhi ho sakte hai, aur lists bhi, aur jo lists uss list mei hai, uske andar bhi numbers ya list ho sakte hai, aur aapko nahi pata ki kab list hai kab numbers, aur kitne levels deep tak aisa hai.\n",
+	"nested-lists_key3": "Kya aap aisa `code` likh sakte hai jo aisi `nested list` ko ek `flat list` mei convert karega, yaani saare elements chahe woh kitne bhi deep ho, woh ek nayi list mei directly accessible honge.\n",
+	"nested-lists_key4": "Jaise:\n",
+	"nested-lists_key5": "Yeh aapko recursion ka use kar kar, karna hai.\n",
+	"nested-lists_key6": "Hints\n",
+	"nested-lists_key7": "Agar aapke paas andar ki saari lists flat hai, toh kya aap yeh recursion soch paa rahe hai?\n\n",
+	"nested-lists_key8": "Yeh check karne ke liye ki element `integer` hai ya list, aap aisa kar sakte hai:\n\n\n",
+	"nested-lists_key9": "Solution\n"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "question4_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def sumofdigits(number):<br>    sum = 0<br>    modulus = 0<br>    while number!=0 :<br>        modulus = number%10<br>        sum+=modulus<br>        number/=10<br>    return sum<br><br>print(sumofdigits(123))<br>"
+  }
+]

@@ -1,0 +1,117 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Aap yeh videos dekhein:"
+	},
+	{
+		"component": "youtube",
+		"value": "IslerGR3Ptc"
+	},
+	{
+		"component": "youtube",
+		"value": "xRX6ZI_P-LA&vl=en"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai."
+	},
+	{
+		"component": "text",
+		"value": "Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "text",
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "Agr hum navgurukul ke members or students ke bich diffrentciate kare to kon unix or kon linux hoga?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Linux mai or kon se functionality add krna chahiy or uske basis mai agr navgurukul linux hai to yaha kya or add kr skte hai?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Linux or unix ek dusre se kaise relate krte hai?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Linux ko linux kiu kaha jata hai? ",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Open source license kya hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Linux or window os mai differentiate karo?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Linux kiu use kerte hai?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Linux kernal kya hota hai?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Tips:"
+	},
+	{
+		"component": "text",
+		"value": "Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	}
+]

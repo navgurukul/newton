@@ -4,8 +4,6 @@ intro_dictionary_key3
 
 
 intro_dictionary_key4
-
-
 ```python 
 city_population = {
     "NewYorkCity":8550405,
@@ -25,9 +23,7 @@ print(type(city_population))
  ```
 
 intro_dictionary_key5
-
-
-```
+```python
 8550405
 
 {
@@ -43,14 +39,13 @@ intro_dictionary_key5
 }
 
 <type 'dict'>
-```
+ ```
+
 intro_dictionary_key6
 intro_dictionary_key7
 
 
 intro_dictionary_key8
-
-
 ```python
 
  Dict = {
@@ -67,11 +62,9 @@ green
 red
 KeyError: bat
 
-// KeyError occurs when a key is not present in a dictionary.
+// KeyError tab aati hai jab key dictionay mai nahi hoti hai.
 ```
- 
 intro_dictionary_key9
-
 
 
 intro_dictionary_key10
@@ -79,16 +72,12 @@ intro_dictionary_key11
 
 
 intro_dictionary_key12
-
-
 ```python
 student=dict(name= "Ravina",age= 20)
 print(student)
  ```
 
 intro_dictionary_key13
-
-
 intro_dictionary_key14
 
 
@@ -97,9 +86,8 @@ intro_dictionary_key15
 intro_dictionary_key16
 
 
+
 intro_dictionary_key17
-
-
 intro_dictionary_key18
 
 
@@ -140,8 +128,6 @@ Dic= {
 print(Dic)
  ```
 intro_dictionary_key21
-
-
 intro_dictionary_key22
 
 

@@ -1,0 +1,92 @@
+[
+  {
+    "component": "text",
+    "value": "Comparison-operators_key1"
+  },
+  {
+    "component": "text",
+    "value": "Comparison-operators_key2"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Comparison-operators_key3",
+        "items": [
+          "Comparison-operators_key4",
+          "Comparison-operators_key5",
+          "Comparison-operators_key6",
+          "Comparison-operators_key7",
+          "Comparison-operators_key8",
+          "Comparison-operators_key9",
+          "Comparison-operators_key10"
+        ]
+      },
+      {
+        "header": "Comparison-operators_key11",
+        "items": [
+          "Comparison-operators_key12",
+          "Comparison-operators_key13",
+          "Comparison-operators_key14",
+          "Comparison-operators_key15",
+          "Comparison-operators_key16",
+          "Comparison-operators_key17",
+          "Comparison-operators_key18"
+        ]
+      },
+      {
+        "header": "Comparison-operators_key19",
+        "items": [
+          "Comparison-operators_key20",
+          "Comparison-operators_key21",
+          "Comparison-operators_key22",
+          "Comparison-operators_key23",
+          "Comparison-operators_key24",
+          "Comparison-operators_key25",
+          "Comparison-operators_key26"
+        ]
+      },
+      {
+        "header": "Comparison-operators_key27",
+        "items": [
+          "Comparison-operators_key28",
+          "Comparison-operators_key29",
+          "Comparison-operators_key30",
+          "Comparison-operators_key31",
+          "Comparison-operators_key32",
+          "Comparison-operators_key33",
+          "Comparison-operators_key34"
+        ]
+      },
+      {
+        "header": "Comparison-operators_key35",
+        "items": [
+          "Comparison-operators_key36",
+          "Comparison-operators_key37",
+          "Comparison-operators_key38",
+          "Comparison-operators_key39",
+          "Comparison-operators_key40",
+          "Comparison-operators_key41",
+          "Comparison-operators_key42"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Comparison-operators_key43"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 5, b = 10, c = \"5\";<br>var x = a;<br>console.log(a === c);<br>console.log(a == c);<br>console.log(a == x);<br>console.log(a != b);<br>console.log(a > b);<br>console.log(a < b);<br>console.log(a >= b);<br>console.log(a <= b);<br>console.log(a >= c);<br>console.log(a <= c);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "false<br>true<br>true<br>true<br>false<br>true<br>false<br>true<br>true<br>true"
+  }
+]

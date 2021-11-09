@@ -1,9 +1,9 @@
 {
-	"intro_key1": "## Interview Questions\n\n\n\n",
-	"intro_key2": "Write a program to find the greatest common divisor (GCD) or highest common factor (HCF) of given two numbers.\n\n",
-	"intro_key3": "What is the `syntax` of while `loop` in the `python`?.\n\n",
-	"intro_key4": "Difference between while `loop` and for `loop` in `python`?.\n\n",
-	"intro_key5": "What is the workflow of while `loop` in the `python`?.\n\n",
-	"intro_key6": "What is the work of the counter in the while `loop`?.\n\n",
-	"intro_key7": "Why are we using a while `loop` or what is the benefit  of while `loop`?.\n"
+	"intro_key1": "Interview Questions\n",
+	"intro_key2": "Write a program to find the `greatest common divisor (GCD)` or `highest common factor (HCF)` of given two numbers.\n\n",
+	"intro_key3": "What is the `syntax of while `loop`` in `python`?.\n\n",
+	"intro_key4": "Difference between `while `loop`` and `for `loop`` in `python`?.\n\n",
+	"intro_key5": "What is the workflow of `while `loop`` in `python`?.\n\n",
+	"intro_key6": "What is the work of `counter` in the while `loop`?.\n\n",
+	"intro_key7": "Why are we using a `while `loop`` or what is the benefit of `while `loop``?.\n"
 }

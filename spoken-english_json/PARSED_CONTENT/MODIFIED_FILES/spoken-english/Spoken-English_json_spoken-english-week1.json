@@ -1,0 +1,94 @@
+[
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key1"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "spoken-english-week1_key2"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "spoken-english-week1_key3",
+        "items": [
+          "spoken-english-week1_key4",
+          "spoken-english-week1_key5",
+          "spoken-english-week1_key6",
+          "spoken-english-week1_key7",
+          "spoken-english-week1_key8",
+          "spoken-english-week1_key9",
+          "spoken-english-week1_key10"
+        ]
+      },
+      {
+        "header": "spoken-english-week1_key11",
+        "items": [
+          "spoken-english-week1_key12",
+          "spoken-english-week1_key13",
+          "spoken-english-week1_key14",
+          "spoken-english-week1_key15",
+          "spoken-english-week1_key16",
+          "spoken-english-week1_key17",
+          "spoken-english-week1_key18"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week1_key19"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key20",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key21",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week1_key22"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key23"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key24"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key25"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key26"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key27",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week1_key28"
+  }
+]

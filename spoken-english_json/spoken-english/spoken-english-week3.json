@@ -1,0 +1,118 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Class 3 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Pair and Share"
+	},
+	{
+		"component": "text",
+		"value": "What indoor or outdoor game do you like to play?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why do you like this game?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "When did you start playing this game?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Who do you play this game with?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Where do you play this game?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Objective</b> - The aim of this Level 1 pair share is to encourage comprehension<br>and the difference between who-what-when-where-why. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game Time:"
+	},
+	{
+		"component": "text",
+		"value": "The Similar game is to figure out why the first pair of words go together so that you can finish the second word pair.<br>Example :<br>..Banana is to Tree as milk is to Cow.<br>..Up is to Down as Over is to Under<br>..Rock is to Heavy as Feather is to Light<br>..Big is to small as Full is to empty"
+	},
+	{
+		"component": "text",
+		"value": "Reference : <a href=\"https://www.youtube.com/watch?v=bbXR43hMSV8\">Link</a>"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Word of the Week -"
+	},
+	{
+		"component": "text",
+		"value": "<b>Protect</b><br>(verb)<br>Definition - Keep safe from harm or injury, <span style=\"\">save</span>, take care of, look after<br>Usage - I will protect my friends and family"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Homework:"
+	},
+	{
+		"component": "text",
+		"value": "Use the word protect when talking to teachers/friends/others this week and<br>make a note of how many times you used it. "
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share:<br>What is your favorite game or sport? Describe this game/sport, and why you<br>like it.<br>Objective - The aim of this Level 2 pair share is to use one's vocabulary to describe logistical/practical aspects of the game/sport, as well as to use reasoning to describe their interest in the game/sport."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game Time:"
+	},
+	{
+		"component": "text",
+		"value": "Analogy/ Similar Game - An analogy shows comparison between things that<br>have similar features, often used to help explain a principle or idea. The Game<br>is to figure out why the first pair of words go together so that you can finish the second word pair."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "Nurse is to Patient as Teacher is to Student<br>Allow is to Permit as Find is to Locate<br>Fatigue is to yawning as itching is to Scratching"
+	}
+]

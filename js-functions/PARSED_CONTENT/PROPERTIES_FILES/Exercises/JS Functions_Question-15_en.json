@@ -1,0 +1,11 @@
+{
+	"Question-15_key1": "Write a function named eligible_for_vote which takes age as a parameter and prints if he/she is eligible to vote or not. ( Consider minimum age of voting to be 18. )\n",
+	"Question-15_key2": "Example:\n",
+	"Question-15_key3": "If a user given age as less than 18 prints  “not eligible “ or else if a user enters 18 or more than 18 prints “you are eligible”.\n",
+	"Question-15_key4": "`Input`:\n",
+	"Question-15_key5": "18\n",
+	"Question-15_key6": "16\n",
+	"Question-15_key7": "`Output` :\n",
+	"Question-15_key8": "“you are eligible”\n",
+	"Question-15_key9": "“not eligible”\n"
+}

@@ -1,0 +1,17 @@
+{
+	"why_key1": "<a href=\"https://www.youtube.com/watch?v=UlpurGz1-TU&t=9s\">Introduction of Python in English<br></a>",
+	"why_key2": "<a href=\"https://www.youtube.com/watch?v=iWNpVTYSt74\">Introduction of Python in Hindi<br></a>",
+	"why_key3": "Difference Between <span style=\"\">Python2</span> and <span style=\"\">Python3</span>",
+	"why_key4": "<b><span style=\"\">Python2</span></b>",
+	"why_key5": "This is old version of python .",
+	"why_key6": "Python2 has one print statement.",
+	"why_key7": "In Python2 while printing we write like this ,<br><br><br>",
+	"why_key8": "In Python2 we use raw_input ka use for user input.<br><br>",
+	"why_key9": "Python2 has 31 keywords .<br><br><br><br>",
+	"why_key10": "<b><span style=\"\">Python3</span></b>",
+	"why_key11": "This is the new version of python .",
+	"why_key12": "Python3 has one print() .",
+	"why_key13": "In Python3 me while  printing  we use parentheses () .",
+	"why_key14": "In Python3 we use input for user's input .",
+	"why_key15": "Python3 has 35 keywords ."
+}

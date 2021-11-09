@@ -1,0 +1,34 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question14_key1"
+  },
+  {
+    "component": "text",
+    "value": "question14_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question14_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>{'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Expected result in Ascending Order:<br><br>{'param':20,'anjili':30,'bijender':45,'roshini':50,'deepak':60}"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Expected result in Descending Order:<br><br>{'deepak':60,'roshini':50,'bijender':45,'anjili':30,'param':20}"
+  }
+]

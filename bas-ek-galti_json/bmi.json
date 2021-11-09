@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Body Mass Index"
+	},
+	{
+		"component": "text",
+		"value": "You are assisting a researcher with <span style=\"\">Python</span> <span style=\"\">code</span> that computes the Body Mass Index (BMI) of patients. The researcher is concerned because all patients seemingly have unusual and identical BMIs, despite having different physiques. BMI is calculated as weight in kilograms divided by the square of height in metres."
+	},
+	{
+		"component": "text",
+		"value": "Use the debugging principles in this exercise and locate problems with the <span style=\"\">code</span>. What suggestions would you give the researcher for ensuring any later changes they make work correctly?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "patients = [[70, 1.8], [80, 1.9], [150, 1.7]]<br><br>def calculate_bmi(weight, height):<br>    return weight / (height ** 2)<br><br>for patient in patients:<br>    weight, height = patients[0]<br>    bmi = calculate_bmi(height, weight)<br>    print(\"Patient's BMI is: %f\" % bmi)"
+	},
+	{
+		"component": "text",
+		"value": "Jab aapka program theek ho jayega, toh uska <span style=\"\">output</span> yeh hoga:"
+	},
+	{
+		"component": "text",
+		"value": "Patient's BMI is: 21.604938<br>Patient's BMI is: 22.160665<br>Patient's BMI is: 51.903114"
+	}
+]

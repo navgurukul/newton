@@ -1,5 +1,5 @@
 {
-	"debugging-question2_key1": "## Question 2\n\n\n",
-	"debugging-question2_key2": "In this `code`, the name of the user should be printed but the `code` is not running properly and not giving the correct `output`.\n",
+	"debugging-question2_key1": "Question 2\n",
+	"debugging-question2_key2": "In this `code`, name of the user should be printed but the `code` is not running properly and not giving the correct `output`.\n",
 	"debugging-question2_key3": "Correct this `code` and `upload` it.\n"
 }

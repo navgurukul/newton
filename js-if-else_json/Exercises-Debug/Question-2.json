@@ -1,0 +1,36 @@
+[
+	{
+		"component": "text",
+		"value": "<span style=\"\">code</span> the change like if I give number as 21, 21 is divisible by both 3 and 7 so it should give Chacolate as answer to me."
+	},
+	{
+		"component": "text",
+		"value": "sample <span style=\"\">inputs</span> and <span style=\"\">outputs</span>:"
+	},
+	{
+		"component": "text",
+		"value": "for 21 answer Chacolate"
+	},
+	{
+		"component": "text",
+		"value": "for 15 answer choco"
+	},
+	{
+		"component": "text",
+		"value": "for 14 answer late"
+	},
+	{
+		"component": "text",
+		"value": "for 13 answer Not divisible by 3 , 7"
+	},
+	{
+		"component": "text",
+		"value": "Debug the <span style=\"\">code</span> and try to get exact solutions with different <span style=\"\">inputs</span>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var number = 12;<br> <br>if(Number%3 === 0){<br>   console.log(\"choco\")<br>}<br>elif(number % 7){<br>   console.log(\"late\")<br>}<br>elif(a%3==0 and a%7==0) {<br>   console.log(\"Chocolate\")<br>}<br>else {<br>   console.log(\"Not divisible by 3 , 7\")<br>}<br>"
+	}
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "comments_key1"
+  },
+  {
+    "component": "text",
+    "value": "comments_key2"
+  },
+  {
+    "component": "text",
+    "value": "comments_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print (\"This will be printed.\")<br>print (\"This line will also be printed\")<br># This is a comment.<br># You can write it for your ease.<br># Any line that starts with \"#\" (hash) is called a  comment.<br># We write these lines as programmers, for our own ease. Computer ignores them.<br>print (\"Computer will not be able to read above comments,but will print this line.\")"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "comments_key4"
+  },
+  {
+    "component": "text",
+    "value": "comments_key5"
+  }
+]

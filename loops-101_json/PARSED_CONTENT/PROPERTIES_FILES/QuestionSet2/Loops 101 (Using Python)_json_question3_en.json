@@ -1,0 +1,6 @@
+{
+	"question3_key1": "Question 3",
+	"question3_key2": "Make a <span style=\"\">loop</span> that <span style=\"\">inputs</span> 10 numbers. After taking the <span style=\"\">input</span> prints the sum of all those numbers.",
+	"question3_key3": "This program will run like this. Everytime  use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input()</span> to take the numbers as an <span style=\"\">input</span>.",
+	"question3_key4": "In the final line, <b>Total Sum: 417</b> will be printed. This will be printed because <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum of **10+16+9+10+56+78+98+43+21+76**</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">417</span>."
+}

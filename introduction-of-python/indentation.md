@@ -1,7 +1,3 @@
-﻿```ngMeta
-name: Indentation
-```
-
 ## What is `Indentation`?
 
 Please have a look at the code given below. Now think about the output of this code without running.

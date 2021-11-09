@@ -1,0 +1,17 @@
+{
+	"GitWorkingDirectory_key1": "Git humare working directory ke `files` mein kiye hue changes ko track karta hai. \n",
+	"GitWorkingDirectory_key2": "Lekin...\n",
+	"GitWorkingDirectory_key3": "abhi git koi bhi `files` track nahi kar raha hai. Hume git ko batana hoga ki usey kaun si `files` track karni hai.\n",
+	"GitWorkingDirectory_key4": "`Terminal` khol kar apne **stories** directory mein navigate kijiye\n",
+	"GitWorkingDirectory_key5": "**ls** command use karke aap apne directory ke saare `files` ko dekh sakte hain.\nIss directory mein \"git status\" command run kijiye.\n",
+	"GitWorkingDirectory_key6": "\"git status\" command use karke aap apne directory ke saare *tracked* aur *untracked `files`* ko dekh sakte hain.\n",
+	"GitWorkingDirectory_key7": "Directory ke kisi bhi `file` ko track karne ke liye\n",
+	"GitWorkingDirectory_key8": " ka use kar sakte hain.\n",
+	"GitWorkingDirectory_key9": "\"git add \\*\" directory ke saare `files` ko track kar sakte hain.\n",
+	"GitWorkingDirectory_key10": "**Assignment**\n",
+	"GitWorkingDirectory_key11": "Apne Story ki `file` ko \"git add\" use karke git ke through track hone dijiye.\n",
+	"GitWorkingDirectory_key12": "\"git add\" ka documentation padhiye aur uska use samajhiye\nhttps://git-scm.com/docs/git-add\n\n",
+	"GitWorkingDirectory_key14": "&quot;git add&quot; use karke hum untracked `files` ko track karte hain. \nTracked `files` ko wapas se untracked banane ke liye git kya use karta hoga. Pehle Sochiye!!\nFir git ka ",
+	"GitWorkingDirectory_key15": "documentation",
+	"GitWorkingDirectory_key16": " khol kar pata lagane ki koiis kijiye."
+}

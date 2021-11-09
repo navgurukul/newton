@@ -1,0 +1,29 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-code-question3_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question3_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = 44 * 30"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question3_key3"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question3_key4"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question3_key5"
+  }
+]

@@ -1,8 +1,7 @@
 {
-	"variables-naming-question1_key1": "name: Variable Naming Exercise 1\nsubmission_type: url\n",
-	"variables-naming-question1_key2": "## Question\n\n\n",
-	"variables-naming-question1_key3": "Assign `FLOAT` value to a `VARIABLE` named as `var_12`.  \n",
-	"variables-naming-question1_key4": "Assign `STRING` value to a `VARIABLE` named as`_var`.  \n",
-	"variables-naming-question1_key5": "Assign `INTEGER` value to a `VARIABLE` named as`_12`.  \n",
-	"variables-naming-question1_key6": "After doing the above 3 steps, `print` those three `variables`.\n"
+	"variables-naming-question1_key1": "Question\n",
+	"variables-naming-question1_key2": "Assign `FLOAT` value to a `VARIABLE` named as `var_12`.  \n",
+	"variables-naming-question1_key3": "Assign `STRING` value to a `VARIABLE` named as`_var`.  \n",
+	"variables-naming-question1_key4": "Assign `INTEGER` value to a `VARIABLE` named as`_12`.  \n",
+	"variables-naming-question1_key5": "After doing the above 3 steps, `print` those three `variables`.\n"
 }

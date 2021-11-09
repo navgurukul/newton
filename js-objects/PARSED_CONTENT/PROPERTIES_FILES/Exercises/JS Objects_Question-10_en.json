@@ -1,0 +1,5 @@
+{
+	"Question-10_key1": "Take 10 student `inputs` and marks and `save` them in an object.\n",
+	"Question-10_key2": "`Output` :-\n",
+	"Question-10_key3": "{\n    'sonu':85,\n    'Kartik':90,\n    'Deepak':96,\n    'Aman':76,\n    'Somesh':60,\n    'Umesh':85,\n    'Amarpal':70,\n    'Roshan':57,\n    'Riyaz':98,\n    'Shabid':56\n}\n"
+}

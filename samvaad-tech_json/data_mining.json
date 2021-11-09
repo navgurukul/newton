@@ -1,0 +1,64 @@
+[
+	{
+		"component": "text",
+		"value": "```ngMeta<br>name: Data Mining"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Do log ko mil kar sabse pehle yeh videos dekhni ha"
+	},
+	{
+		"component": "youtube",
+		"value": "dvRZ1VYXMJ0"
+	},
+	{
+		"component": "text",
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.<br>Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "Data mining kya hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Data mining game mai kaise use hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "hHam konsa data use karte hai?<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar aap ko aur thoda samajhna hai, toh yeh dekhiye"
+	},
+	{
+		"component": "text",
+		"value": "<b>Tips</b>:"
+	},
+	{
+		"component": "text",
+		"value": "1 . Aap subtitles/captions on kar sakte hai, <span style=\"\">YouTube</span> Video dekhte hue<br>2 . Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein"
+	}
+]

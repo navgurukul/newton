@@ -1,0 +1,21 @@
+{
+	"project-intro_key1": "Project Introduction\n",
+	"project-intro_key2": "Yahan hun apne project ke baare mein ache se samjhenge ki hum kya bana rahe hain.\n",
+	"project-intro_key3": "**Created by Vishal Gaddam (vishal18@navgurukul.org)**\n",
+	"project-intro_key4": "Upar waali video mein maine ache se explain kia hai ki hum kya `applications` bana rahe hain.\n",
+	"project-intro_key5": "Isko aur ache se samajhne ke liye aap\n",
+	"project-intro_key6": "IMDB.com\n",
+	"project-intro_key7": "pe jaake ek baar uss website ko ache se dekh sakte hain. IMDB se hum\n",
+	"project-intro_key8": "**Top 250 Indian Movies**\n",
+	"project-intro_key9": "ki list to scrape karenge. Uske baad hum movies ki details ko analyse karenge. Iss list ko aap\n",
+	"project-intro_key10": "iss link\n",
+	"project-intro_key11": "pe dekh sakte hain.\n",
+	"project-intro_key12": "Iss project hum yeh sab tasks karenge:\n",
+	"project-intro_key13": "**Top 250 Indian Movies** waali list mein se saari movies ki detail apne `python` ke `code` mein nikalenge.\n",
+	"project-intro_key14": "Movies ko unki **release date ke hisaab se** group karenge.\n",
+	"project-intro_key15": "Movies ko **decade of release ke hisaab se** group karenge. Jaise saari 1960s ki movies ek saath print karenge, 1970s ki alag se etc.\n",
+	"project-intro_key16": "Movies ko unke **Directors** aur **Actors** ke hisaab se group karenge.\n",
+	"project-intro_key17": "Yeh dekhenge ki kaunse kaunse actors ek dusre ke saath zyada kaam karte hain. Kya `Rajesh Khanna` aur `Ami`tab`h Bachan` ki ek saaath zyada movies hain ya `Rajesh Khanna` aur `Dev Anand`. \n",
+	"project-intro_key18": "Aur bhi bahot saari interesting tasks karenge. Aap apne aap bhi bahot saari interesting cheezein soch sakte ho.\n\n\n",
+	"project-intro_key19": "Happy Learning !!\n"
+}

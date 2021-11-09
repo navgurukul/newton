@@ -1,0 +1,110 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "basics-booleans_key1"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key2"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key3"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key6"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key7"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key8"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "basics-booleans_key9"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key10"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "basics-booleans_key11",
+        "items": [
+          "basics-booleans_key12",
+          "basics-booleans_key13",
+          "basics-booleans_key14",
+          "basics-booleans_key15",
+          "basics-booleans_key16",
+          "basics-booleans_key17"
+        ]
+      },
+      {
+        "header": "basics-booleans_key18",
+        "items": [
+          "basics-booleans_key19",
+          "basics-booleans_key20",
+          "basics-booleans_key21",
+          "basics-booleans_key22",
+          "basics-booleans_key23",
+          "basics-booleans_key24"
+        ]
+      },
+      {
+        "header": "basics-booleans_key25",
+        "items": [
+          "basics-booleans_key26",
+          "basics-booleans_key27",
+          "basics-booleans_key28",
+          "basics-booleans_key29",
+          "basics-booleans_key30",
+          "basics-booleans_key31"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "4 < 5 # True"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "56 == 45 # False"
+  },
+  {
+    "component": "text",
+    "value": "basics-booleans_key33"
+  }
+]

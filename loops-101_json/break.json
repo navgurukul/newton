@@ -1,0 +1,22 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break</span>"
+	},
+	{
+		"component": "text",
+		"value": "is a  <b>keyword</b> in python. That helps us in coming out of the and goes to new line which is out of the ."
+	},
+	{
+		"component": "image",
+		"value": "assets/how-break-statement-works.jpg",
+		"alt": "Mobile Video Recorder"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "index = 0;  <br>while 1:  <br>    print(index,\" \",end = \"\"),  <br>    index=index+1;  <br>    if index == 10:  <br>        break;  <br>print(\"Found at\",index,\"location\")"
+	}
+]

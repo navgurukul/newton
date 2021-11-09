@@ -1,0 +1,103 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "String_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var greet1 = 'Hi Nayak!';  <br>// using single quotes"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var greet2 = \"Hi Nayak!\";  <br>// using double quotes"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "String_key2"
+  },
+  {
+    "component": "text",
+    "value": "String_key3"
+  },
+  {
+    "component": "text",
+    "value": "String_key4"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var name='kumar'<br>console.log(name);<br>// output : kumar"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var name=\"kumar\"<br>console.log(name);<br>// output : kumar"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "String_key5"
+  },
+  {
+    "component": "text",
+    "value": "String_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "String_key7"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = \"I’m going to the classroom\"; <br>// single quote inside double quotes"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "String_key8"
+  },
+  {
+    "component": "text",
+    "value": "String_key9"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var b = 'He said \"bye\" and went out.';  <br>// double quotes inside single quotes"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "String_key10"
+  },
+  {
+    "component": "text",
+    "value": "String_key11"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var c = 'We\\'ll never leave you.';     <br>// escaping single quote with backslash"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "String_key12"
+  },
+  {
+    "component": "text",
+    "value": "String_key13"
+  }
+]

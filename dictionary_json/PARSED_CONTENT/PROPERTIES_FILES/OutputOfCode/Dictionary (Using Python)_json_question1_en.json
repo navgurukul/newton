@@ -1,0 +1,8 @@
+{
+	"question1_key1": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?",
+	"question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Options :-</span>",
+	"question1_key3": "A.     <span style=\"\">Key</span> <span style=\"\">Error</span>",
+	"question1_key4": "B.     1",
+	"question1_key5": "C.     {(2,3):2}",
+	"question1_key6": "D.     {(1,2):1}"
+}

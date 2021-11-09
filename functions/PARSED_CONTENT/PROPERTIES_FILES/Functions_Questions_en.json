@@ -1,0 +1,22 @@
+{
+	"Questions_key1": "Pre-defined Functions Questions\n",
+	"Questions_key2": "Ab aapko kuchh questions solve krna hai pre-define function ka use kr ke.\n",
+	"Questions_key3": "**Q1 .**  Aapko `max` function ka use krke di hue list me se sbse bada value print krvani hai.\n",
+	"Questions_key4": "`Input`\n",
+	"Questions_key5": "**`Output` :-**\n89\n",
+	"Questions_key6": "**Q2.**  Aapko `sum` function ka use krke di hue list ke element ka sum  print krvana hai.\n",
+	"Questions_key7": "`Input`\n",
+	"Questions_key8": "**`Output` :-**\n15\n",
+	"Questions_key9": "**Q3.** Aapko `sort` function ka use kr ke di hue list ko sort krna hai.\n",
+	"Questions_key10": "`Input:-`\n",
+	"Questions_key11": "**`Output` :-**\n",
+	"Questions_key12": "`unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]`\n",
+	"Questions_key13": "**Q4.** `reverse` function ka use kr ke aapko di hue list ka revrse print krna hai.\n",
+	"Questions_key14": "`Input:-`\n",
+	"Questions_key15": "**`Output` :-**\n",
+	"Questions_key16": "`reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]`\n",
+	"Questions_key17": "**Q5.** Aapko `min` function ka use krke di hue list me se sbse chhoti value print krvani hai.\n",
+	"Questions_key18": "`Input:-`\n",
+	"Questions_key19": "**`Output` :-**\n",
+	"Questions_key20": "2\n"
+}

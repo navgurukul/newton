@@ -1,0 +1,87 @@
+[
+	{
+		"component": "text",
+		"value": "Think of a dictionary. "
+	},
+	{
+		"component": "text",
+		"value": "It has people’s names and their phone numbers. If we have to store this type of data, i.e. people’s names and phone numbers, then we will use something called the Object data type."
+	},
+	{
+		"component": "text",
+		"value": "The following example will show you the simplest way to create an object in JavaScript. you access the data in objects through what are called properties or <span style=\"\">keys</span>."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>var emptyObject = {};<br>var myContacts= {\"kumar\": 9000000000, \"shwetha\": 9876543211, \"komal\": \"0909990999\"};<br>// For better reading<br>var campusCityState = {<br>   \"Sarjapur\": \"Karnataka\",<br>   \"Pune\": \"Maharashtra\",<br>   \"Dharmashala\": \"Himachal Pradesh\"<br>}<br>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myDetails={\"name\":\"kumar\",\"surname\":\"nayak\",\"age\":24}"
+	},
+	{
+		"component": "text",
+		"value": "An object contains properties, defined as a <span style=\"\">key</span>-value pair. "
+	},
+	{
+		"component": "text",
+		"value": "In the example above, name, surname and age are <span style=\"\">keys</span>, and Nayak, Kumar and 24 and their corresponding values."
+	},
+	{
+		"component": "text",
+		"value": "The object is a complex data type that allows you to store collections of data."
+	},
+	{
+		"component": "text",
+		"value": "You can omit the quotes around <span style=\"\">key</span> names like shown in the example below."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myDetails= {<br>   name:\"kumar\",<br>   surname:\"nayak\",<br>   age:24<br>}"
+	},
+	{
+		"component": "text",
+		"value": "But, be aware that the following example will throw an <span style=\"\">error</span>."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myDetails= {<br>   first-name:\"kumar\",<br>   surname:\"nayak\",<br>   age:24<br>}"
+	},
+	{
+		"component": "text",
+		"value": "To make the above to work, we will have to put quotes and quotes are required around first-name."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myDetails= {<br>   \"first-name\":\"kumar\",<br>   surname:\"nayak\",<br>   age:24<br>}"
+	},
+	{
+		"component": "text",
+		"value": "If the <span style=\"\">key</span> value is one word, like name, or like firstName, that will work. But if it contains any dashes or spaces (like “first-name” or “first name”) then you have to put the inside quotes."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "You can also use numbers as properties."
+	},
+	{
+		"component": "text",
+		"value": "See the below example."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var students ={<br>   1:\"shwetha\",<br>   2:\"kumar\",<br>   3:\"komal\"<br>}"
+	}
+]

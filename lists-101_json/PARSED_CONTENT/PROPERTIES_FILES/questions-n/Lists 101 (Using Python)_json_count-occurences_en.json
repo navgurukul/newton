@@ -1,0 +1,9 @@
+{
+	"count-occurences_key1": "Count Occurences",
+	"count-occurences_key2": "<b>Occurences</b> - is made from the word <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occur</span> which means that how many times a certain character or word appears.",
+	"count-occurences_key3": "<b>Sample List</b>",
+	"count-occurences_key4": "<b><span style=\"\">Output</span> of the Sample List</b>",
+	"count-occurences_key5": "We have to count the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> of characters present in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">char_list</span> and we have to <span style=\"\">save</span> in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span>, then we have to use that nested list to print the <span style=\"\">output</span>.",
+	"count-occurences_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+	"count-occurences_key7": "Solution"
+}

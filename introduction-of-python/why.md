@@ -1,8 +1,3 @@
-```ngMeta
-name: Why do I need to learn Python  ??
-```
-
-
 [Introduction of Python in English
 ](https://www.youtube.com/watch?v=UlpurGz1-TU&t=9s)
 

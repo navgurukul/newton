@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "Type the character that ends every <span style=\"\">statement</span>."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "solution",
+		"value": ";"
+	}
+]

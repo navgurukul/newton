@@ -1,9 +1,9 @@
 question11_key1
-
-
-
 question11_key2
-```
+
+
+question11_key3
+```python
 my_dict = {
     'a':50, 
     'b':58, 
@@ -12,8 +12,9 @@ my_dict = {
     'e':100, 
     'f':20
     }
-```
-question11_key3
+ ```
+
+question11_key4
 ```
 [58,56,100]
 ```

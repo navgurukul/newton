@@ -1,0 +1,131 @@
+[
+	{
+		"component": "text",
+		"value": "Aap yeh videos dekhein:"
+	},
+	{
+		"component": "youtube",
+		"value": "ygajZOV5DXo"
+	},
+	{
+		"component": "youtube",
+		"value": "oEJMJuFD204"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Ab aapko 30 mins ke liye aapas mei <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">english</span> mei baat karni hai."
+	},
+	{
+		"component": "text",
+		"value": "Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "text",
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "Database kya hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Usme kya data store hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Database se fyada kya hota hai? Kyun hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Database aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">excel</span> mei kya difference hota hai?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar aap ko NG ka database bnana hoga to kaise bnayenge?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Kitchen ki information aap database mai kaise store karenge?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Council ki info aap database mei kaise store karenge?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Council 3 months pehle kaun tha, ye kaise pta karenge?",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sochiye facebook apne database mei kaise information store karta hoga?<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar aap ko aur thoda samajhna hai, toh yeh dekhiye<br> "
+	},
+	{
+		"component": "text",
+		"value": "https://searchsqlserver.techtarget.com/definition/database"
+	},
+	{
+		"component": "text",
+		"value": "<br> "
+	},
+	{
+		"component": "text",
+		"value": "https://www.guru99.com/introduction-to-database-sql.html"
+	},
+	{
+		"component": "youtube",
+		"value": "d8ByCh-BouQ"
+	},
+	{
+		"component": "youtube",
+		"value": "RZlHfbtO2C4"
+	},
+	{
+		"component": "text",
+		"value": "<b>Tips</b>:<br>1 - Aap subtitles/captions on kar sakte hai, <span style=\"\">YouTube</span> Video dekhte hue<br>2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein"
+	}
+]

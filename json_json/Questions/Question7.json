@@ -1,0 +1,30 @@
+[
+	{
+		"component": "text",
+		"value": "Q7.Text <span style=\"\">file</span> data ko json <span style=\"\">file</span> data mai convert karo,jaise ki neeche diya hai?"
+	},
+	{
+		"component": "text",
+		"value": "<b><i>Example:</i></b>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input :-</span>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "<br>Text.txt:-  <br> Name Abhishek<br> Designation CEO of navgurukul<br> Gender male<br> Age 29"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Output:-</span>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Json_file.json:-<br><br><br>{<br>    “Name”: “Abhishek”,<br>    “Designation”: “CEO of      navgurukul”,<br>    “Gender”:”male”,<br>    “Age”: “29”<br>    }"
+	}
+]

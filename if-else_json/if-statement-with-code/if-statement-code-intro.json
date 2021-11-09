@@ -1,0 +1,149 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction"
+	},
+	{
+		"component": "text",
+		"value": "We have learned how to create <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowcharts</span> for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if conditions</span>. But we cannot use these <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowcharts</span> unless we learn how to write a <span style=\"\">code</span> by looking at a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowchart</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "day = raw_input(\"Din enter karo\\n\")<br>if day == \"monday\": # Agar din Monday hai toh<br>    print \"Rajma Chawal\"<br>elif day == \"tuesday\": # Agar uppar wali conditions galat hai (Yaani day Monday nahi hai) aur day Tuesday hai toh<br>    print \"Pao Bhaji\"<br>elif day == \"wednesday\": # Agar uppar wali conditions galat hai (Yaani day Monday aur Tuesday nahi hai) aur day Wednesday hai toh<br>    print \"Chole Bhature\"<br>elif day == \"thursday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday aur Wednesday nahi hai) aur day Thursday hai toh<br>    print \"Dosa\"<br>elif day == \"friday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh<br>    print \"Litti Chokha\"<br>elif day == \"saturday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh<br>    print \"Thukpa\"<br>else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)<br>    print \"Poha\""
+	},
+	{
+		"component": "text",
+		"value": "In the above example, we take the day as <span style=\"\">input</span> from the user. According to the day entered, we print the food item for that particular day. Read the comments carefully to understand how the <span style=\"\">code</span> is <span style=\"\">execute</span>d at every step."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "While entering the <span style=\"\">input</span> for the day, you'll have to enter it exactly as it is used in the if conditions. Since <span style=\"\">Python</span> is case-sensitive, it will treat <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Monday</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">monday</span> differently."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "More examples"
+	},
+	{
+		"component": "text",
+		"value": "We have only used <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">==</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">comparison operator</span> in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statements</span>. In the booleans exercise, we had seen other comparison <span style=\"\">operators</span> as well. For example: "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&gt;</span>  : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Greater than</span>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;</span>  : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Less than</span> ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&gt;=</span> : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Greater than equal to</span> ",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;=</span> : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Less than equal to</span> ",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span> : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not equal to</span> <br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "The following examples use these above mentioned comparison <span style=\"\">operators</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1 :-"
+	},
+	{
+		"component": "text",
+		"value": "In this program, you have set the value of the <span style=\"\">variable</span>. The user will have to guess the <span style=\"\">string</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "value = \"delhi\"<br>guess = raw_input(\"Sheher ka naam guess karo> \")<br>if guess != value:<br>    print \"Aapka guess galat hai\"<br>else:<br>    print \"Aapka guess sahi hai\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 2 :-"
+	},
+	{
+		"component": "text",
+		"value": "Let's assume a rule that if the speed of our vehicle is less than or equal to 60, it will not be considered as overspeeding. Otherwise, it will be considered as overspeeding. We can write the program for it as shown below:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "speed = raw_input(\"Gaadi ki kya speed thi?\")<br>speed = int(speed)<br>if speed <= 60:<br>    print \"Gaadi speed limit ke andar thi.\"<br>else:<br>    print \"Gaadi speed limit ke bahar thi.\""
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "Notice we have converted the value in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">speed</span> <span style=\"\">variable</span> to an <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">int</span> before using in if condition. This is because the <span style=\"\">output</span> of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> function is always a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> and we cannot compare a <span style=\"\">string</span> with a number correctly using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;=</span> <span style=\"\">operator</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Nested If Condition</span>"
+	},
+	{
+		"component": "text",
+		"value": "We can easily use an if <span style=\"\">statement</span> inside another if <span style=\"\">statement</span>."
+	},
+	{
+		"component": "text",
+		"value": "Consider the example where we want to display the food menu based on the day and time. For example on monday, \"Poha\" in breakfast, \"Rajma Chawal\" for lunch and \"Roti Sabzi\" for dinner. Similary on tuesday, \"Poori Sabzi\" for breakfast, \"Thukpa\" for lunch and \"Chicken Chawal\" for dinner. We can write a program for this question as shown below:-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">TODO: We need to add a flowchart here somehow. #studentsShouldIgnore</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "day = raw_input(\"Din enter karo> \")<br>meal = raw_input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\"<br>    # code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>    if meal == \"breafast\":<br>        print \"Poha\"<br>    elif meal == \"lunch\":<br>        print \"Rajma Chawal\"<br>    else:<br>        print \"Roti Sabzi\"<br>elif day == \"tuesday\":<br>    if meal == \"breakfast\":<br>        print \"Poori Sabzi\"<br>    elif meal == \"lunch\":<br>        print \"Thukpa\"<br>    else:<br>        print \"Chicken Chawal\"<br>else:<br>    print \"Aur kisi bhi din hum daal roti sabzi khaynege.\""
+	},
+	{
+		"component": "text",
+		"value": "Observe how we have used if <span style=\"\">statement</span> inside another if <span style=\"\">statement</span>. The if <span style=\"\">statement</span> inside will only be checked if the outer <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if condition</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>."
+	}
+]

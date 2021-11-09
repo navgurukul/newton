@@ -1,0 +1,41 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Debug <span style=\"\">Code</span>"
+	},
+	{
+		"component": "text",
+		"value": "Ab hum function se related <span style=\"\">code</span> ko debug karenge."
+	},
+	{
+		"component": "text",
+		"value": "<b>Question 1</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def sum()<br>    print(12+13)<br>sum()"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question 2</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "daf welcome():<br>    print(\"Welcome to function\")<br>welcome()"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question 3</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "<br>isEven()<br><br>def isEven():<br>    if(12%2==0):<br>        print(\"Even Number\")<br>    else:<br>        print(\"Old Number\")"
+	}
+]

@@ -1,0 +1,98 @@
+[
+	{
+		"component": "text",
+		"value": "<h3 id=\"introduction\">Introduction</h3>"
+	},
+	{
+		"component": "text",
+		"value": "Localhost ko jaanne se pehle hum hostname ke baare me jaanenge ki aakhir hostname kya hota hai ?"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"hostname\">Hostname</h2>"
+	},
+	{
+		"component": "text",
+		"value": "Computer networking me, hostname ek aisa naam ya label hota hai jise ek computer ya device ko diya jaata hai jo kisi computer network se connect hota hai.<br>Ise alag alag type ki electronic communication ki madad se pehchana ja sakta hai jaise ki World Wide Web."
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"localhostkyahotahai\">Localhost kya hota hai ?</h2>"
+	},
+	{
+		"component": "text",
+		"value": "<span><img src=\"https://kinsta.com/wp-content/<span style=\"\">uploads</span>/2017/11/what-is-localhost.png\"&gt;</span>"
+	},
+	{
+		"component": "text",
+		"value": "Localhost ek hostname hota hai jiska matlab hai aapka computer ya aapka device, jis par aap kaam kar rahe hain.<br>Ise network services ko access karne ke liye use kiya jaata hai jo ek host par <span style=\"\">LOOP</span> Network Interface ke dwaara chalta hai.<br>Aap <span style=\"\">Loop</span> Network Interface ke baare me aage padhenge.<br>Dusri bhaasha me hum ye keh sakte hain ki Localhost aapka local server hota hai jo aapki <span style=\"\">file</span> http (hyper-text-transfer-protocol) ya anya protocols par show karta hai.<br>For example, maan lijiye ki aap apne computer pe ek web browser chala rahe hain, to aapka computer ek “localhost” ka kaam kar raha hai.<br>Local machine ko hi localhost kaha jaata hai jiska IP address 127.0.0.1 hota hai.<br>Yeh IP address kafi important hai, isko jyada samajhne or iske setup ke liye iss video ko dekhein."
+	},
+	{
+		"component": "youtube",
+		"value": "07cFX4rCeJg"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"spanstyleloopspanbacknetworkinterfacekyahotahai\"><span style=\"\">Loop</span>back Network Interface kya hota hai ?</h2>"
+	},
+	{
+		"component": "text",
+		"value": "Ye ek aisa virtual network interface hota hai jiski help se aapka computer ya aapka device khud se communicate karta hai.<br>Ise <span style=\"\">loop</span>back process isliye kaha jaata hai kyoki hum jo bhi command ise dete hain wo ise run karke waapas local machine pe bhejta hai."
+	},
+	{
+		"component": "text",
+		"value": "<span><img src=\"https://i.stack.imgur.com/TLEFV.png\"></span>"
+	},
+	{
+		"component": "text",
+		"value": "Iska adhiktar use diagnostics ya troubleshooting purpose ke liye kiya jaata hai, iske saath hi iska use computer ko local machine ke server se connect krna hota hai."
+	},
+	{
+		"component": "text",
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.<br>Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein"
+	},
+	{
+		"component": "text",
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "Hosting kya hoti hai?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "DNS kya hota hai?<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Tips</b>:"
+	},
+	{
+		"component": "text",
+		"value": "Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	}
+]

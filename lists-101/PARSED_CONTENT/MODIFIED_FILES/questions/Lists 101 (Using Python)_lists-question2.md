@@ -9,7 +9,7 @@ lists-question2_key2
 
 
 ```
-kerala
+kerela
 punjab
 rajasthan
 gujrat

@@ -1,0 +1,52 @@
+[
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key1"
+  },
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>var vegetables ={<br>   veg1:\"potato\",<br>   veg2:\"brinjal\",<br>   veg3:\"bottle gourd\"<br>}<br> <br>var vegetable1= vegetables.veg1;<br>var vegetable2= vegetables.veg2;<br>var vegetable3= vegetables.veg3;<br><br><br>console.log(vegetable1);<br>console.log(vegetable2);<br>console.log(vegetable3);<br> <br>//output:<br>// potato<br>// brinjal<br>// bottle gourd<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Accessing-Object-Properties_key3"
+  },
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key4"
+  },
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key5"
+  },
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key6"
+  },
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key7"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var myDetails={<br>   \"first name\":\"kumar\",<br>   \"last name\": \"vadthya\",<br>   \"middle name\":\"nayak\"<br>}<br> <br>console.log(myDetails[\"first name\"]);<br>console.log(myDetails[\"last name\"]);<br>console.log(myDetails[\"middle name\"]);<br> <br>// output<br>// kumar<br>// vadthya<br>// nayak<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Accessing-Object-Properties_key8"
+  },
+  {
+    "component": "text",
+    "value": "Accessing-Object-Properties_key9"
+  }
+]

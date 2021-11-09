@@ -1,0 +1,45 @@
+[
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "if (condition is true) {<br>  statement is executed<br>}"
+	},
+	{
+		"component": "text",
+		"value": "If you want to run a piece of <span style=\"\">code</span>, based on a certain condition, then you should use the if <span style=\"\">statement</span>. The <span style=\"\">key</span>word if tells JavaScript to <span style=\"\">execute</span> the <span style=\"\">code</span> in the curly braces under certain conditions, that defined in the parentheses (). "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note: These conditions are known as Boolean conditions and they are only be <span style=\"\">true</span> or <span style=\"\">false</span>."
+	},
+	{
+		"component": "text",
+		"value": "When the condition evaluates to <span style=\"\">true</span>, the program <span style=\"\">executes</span> the <span style=\"\">statement</span> inside the curly braces. When the Boolean condition evaluates to <span style=\"\">false</span>, the <span style=\"\">statement</span> inside the curly braces will not <span style=\"\">execute</span>."
+	},
+	{
+		"component": "text",
+		"value": "Let us see some more examples."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var a = 10;<br>var b = 12;<br>if(b > a){<br>  console.log( b,\" is greater than  \", a  );<br>}<br>// Output :- 12, is greater than, 10"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "Here 12 is greater than 10. So, the console will show us the <span style=\"\">output</span> as 12, is greater than, 10."
+	}
+]

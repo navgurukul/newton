@@ -1,0 +1,26 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Project2"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Guessing game"
+	},
+	{
+		"component": "text",
+		"value": "The game is about guessing a number between 1 to 10, you can choose how many times you want to guess and guess those many times, if you are able to guess the secret number you won the game, or if your chances are completed means you completely lost the game. Are you ready to play the game?"
+	},
+	{
+		"component": "text",
+		"value": "Let’s play the game and understand with fun:<a href=\"https://www.funbrain.com/games/guess-the-number\">online game</a>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	}
+]

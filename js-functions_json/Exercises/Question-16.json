@@ -1,0 +1,38 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named perfect() which takes 1 parameter and checks that given parameter is a perfect number or not. Perfect number means we will count the factors of a given number including 1 but you need to exclude the own number as its factor."
+	},
+	{
+		"component": "text",
+		"value": "If it is a perfect number prints num is a perfect number hai or else prints num is not a perfect number hain."
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "6 ek perfect number hai 6=1+2+3."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span>:"
+	},
+	{
+		"component": "text",
+		"value": "6 is a perfect number hain."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "function perfect(num){<br>   sum=0<br>   for(var i=1;i<num;i++){<br>       if(num%i === 0){<br>           sum+=i<br>       }<br>   }<br>   if(sum === num){<br>       console.log(num,\" is a perfect number\");<br>   }<br>   else{<br>       console.log(num,\" is not a perfect number\");<br>   }<br>}<br>perfect(6);"
+	}
+]

@@ -1,0 +1,158 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Programming &amp; If Statements</span>"
+	},
+	{
+		"component": "text",
+		"value": "By learning programming, we can make the computer do anything that we want. For example, we can write a program that shows the food menu for each day. We can use conditions to display the food item depending on what day it is."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "On Monday, \"Rajma Chawal\" will be made.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "On Tuesday, \"Mutton Kosha\" will be made.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "On Wednesday, \"Pizza\" will be made.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "On Thursday, \"Dal - Roti\" will be made.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "To do this in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">programming</span>, we use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statements</span>. You can observe the <span style=\"\">applications</span> of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statements</span> in your daily life around you. For example, <i>Whatsapp</i> shows two <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">grey ticks</span> when the message is not yet read by the receiver and shows <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">blue ticks</span> when the message is read."
+	},
+	{
+		"component": "image",
+		"value": "assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg",
+		"alt": "whatsapp-ticks"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Flowcharts</span>"
+	},
+	{
+		"component": "text",
+		"value": "Before writing the <span style=\"\">code</span>, we make <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowchart</span>. This is done so that we understand how the program will work at each step."
+	},
+	{
+		"component": "text",
+		"value": "Let's take an example that we want to check whether 4 is greater than 5. If yes, then we print <b>\"bada hai\"</b>. Else, we print <b>\"chota hai\"</b>. For this example, we can create the flowchart shown below:"
+	},
+	{
+		"component": "image",
+		"value": "assets/theory_images/if-statement-intro_flowchart1.png",
+		"alt": "intro-png"
+	},
+	{
+		"component": "text",
+		"value": "To read a flowchart, move from the top to the bottom in the direction of the arrows. Whenever an if <span style=\"\">statement</span> occurs, check what the <span style=\"\">output</span> of the condition will be. If it will be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>, then move to the path indiciated by the arrow labelled \"<span style=\"\">True</span>\", else follow the other path labelled \"<span style=\"\">False</span>\"."
+	},
+	{
+		"component": "text",
+		"value": "Flowchart is made up from two words"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Flow</span>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Chart</span><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Flowchart simply indicates the direction in which the program will run. In the next few sections, we will learn how to create flowcharts. Once we are able to create the flowcharts, writing <span style=\"\">code</span> will become much easier."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Components of Flowchart"
+	},
+	{
+		"component": "text",
+		"value": "All the flowcharts are made up of these components:"
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "<b>Name</b>",
+				"items": [
+					"Process / Input",
+					"Start",
+					"Condition",
+					"Arrow"
+				]
+			},
+			{
+				"header": "<b>Image</b>",
+				"items": [
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-process.png\" alt=\"Process Box\" />",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-start.png\" alt=\"Flowchart Start Box\" />",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-if-box.png\" alt=\"Condition Box\" />",
+					"<img src=\"assets/theory_images/if-statement-intro_flowchart-arrow.png\" alt=\"Condition Box\" />"
+				]
+			},
+			{
+				"header": "<b>What is it?</b>",
+				"items": [
+					"Any output (print statement), user input or process in the program can be represented using this box.",
+					"This component indicates the start of the flowchart.",
+					"Any condition can be represented using this shape. Since an if statement can have only two outputs (<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> or <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>), two arrows go out from this shape.",
+					"Arrows are used to indicate the flow of the program at every step."
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Another example of a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Flowchart</span>"
+	},
+	{
+		"component": "text",
+		"value": "The flowchart below shows the process of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Facebook login</span>. Follow the flowchart carefully, this example will clarify how flowchart works. "
+	},
+	{
+		"component": "image",
+		"value": "assets/theory_images/if-statement-intro_fb-login-flowchart.png",
+		"alt": "Facebook Login Flowchart"
+	}
+]

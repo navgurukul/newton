@@ -1,7 +1,4 @@
-```ngMeta
 debugging-question7_key1
-```
-
 ```python
 # raw_input ka use kar ke user se din aur abhi ka samay (lunch, dinner) input
 # leke uss samay ka menu print karvana hai. Abhi hum sirf monday aur tuesday ke

@@ -1,0 +1,159 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "intro_dictionary_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "intro_dictionary_key2"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "city_population = {<br>    \"NewYorkCity\":8550405,<br>    \"LosAngeles\":3971883, <br>    \"Toronto\":2731571, <br>    \"Chicago\":2720546, <br>    \"Houston\":2296224, <br>    \"Montreal\":1704694, <br>    \"Calgary\":1239220, <br>    \"Vancouver\":631486, <br>    \"Boston\":667137<br>}<br><br>print(city_population[\"NewYorkCity\"])<br>print(city_population)<br>print(type(city_population))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "8550405<br><br>{<br>   \"NewYorkCity\":8550405,<br>    \"LosAngeles\":3971883, <br>    \"Toronto\":2731571, <br>    \"Chicago\":2720546, <br>    \"Houston\":2296224, <br>    \"Montreal\":1704694, <br>    \"Calgary\":1239220, <br>    \"Vancouver\":631486, <br>    \"Boston\":667137<br>}<br><br><type 'dict'>"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "intro_dictionary_key6"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br> Dict = {<br>       'ball' : 'green',<br>       'Ball': 'red'<br>     }<br>print(Dict['ball'])<br>print(Dict['Ball'])<br>print(Dict['bat'])"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "green<br>red<br>KeyError: bat<br><br>// KeyError tab aati hai jab key dictionay mai nahi hoti hai."
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key9"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "intro_dictionary_key10"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "student=dict(name= \"Ravina\",age= 20)<br>print(student)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key13"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key14"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "intro_dictionary_key15"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key16"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key17"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key18"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "my_dict = {<br>    1: 'apple', <br>    2: 'ball'<br>    }<br>"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key19"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "my_dict = {<br>    'name': 'John',<br>     1: [2, 4, 3]<br>    }"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "intro_dictionary_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "Dic= {<br> 1: 'NAVGURUKUL',<br> 2: 'IN',  <br> 3:{<br>     'A' : 'WELCOME',<br>     'B' : 'To', <br>     'C' : 'DHARAMSALA'<br>     }<br>}<br>print(Dic)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "intro_dictionary_key21"
+  },
+  {
+    "component": "text",
+    "value": "intro_dictionary_key22"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=daefaLgNkw0"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=0g1ogNP5doA"
+  }
+]

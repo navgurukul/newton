@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "question1_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "details={<br>    \"name\":\"Shanti\",<br>    \"age\":12,<br>    \"email\":\"shanti@navgurukul.org\",<br>    }<br><br>print(details[\"name\"])<br>print(details[\"lastname\"])<br>print(details[age])<br>"
+  }
+]

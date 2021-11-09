@@ -1,0 +1,83 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "remove_element_dictionary_key1"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "remove_element_dictionary_key3"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "CAR_DETAILS={<br>    \"brand\": \"Ford\",<br>    \"model\": \"jason\",<br>    \"year\": 1964<br>}<br>CAR_DETAILS.pop(\"model\")<br>print(CAR_DETAILS)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "remove_element_dictionary_key5"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "remove_element_dictionary_key7"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "person={<br>    'name':'jack',<br>    'id':22,<br>    'place':'dharamsala'<br>}<br>person.popitem()<br>print(person)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "remove_element_dictionary_key9"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key10"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "remove_element_dictionary_key11"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "person={<br>    'name':'jack',<br>    'id':22,<br>    'place':'dharamsala'<br>}<br><br>del person('place')<br>print(person)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "remove_element_dictionary_key13"
+  },
+  {
+    "component": "text",
+    "value": "remove_element_dictionary_key14"
+  }
+]

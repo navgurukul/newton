@@ -1,0 +1,23 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "keys_e_i_key1"
+  },
+  {
+    "component": "text",
+    "value": "keys_e_i_key2"
+  },
+  {
+    "component": "banner",
+    "title": "Top Row, keys e and i",
+    "value": "",
+    "actions": [
+      {
+        "url": "https://merakilearn.org/typing",
+        "label": "Go to typing app",
+        "data": "{\"content\":[\"e\",\"i\"],\"code\":\"trytyping\"}"
+      }
+    ]
+  }
+]

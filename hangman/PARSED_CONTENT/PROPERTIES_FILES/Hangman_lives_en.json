@@ -1,13 +1,12 @@
 {
-	"lives_key1": "submission_type:url\n",
-	"lives_key2": "Ab aapko ek feature implement karna hai, jisse ki user ke paas limited chances ho.\nMaan lete hai ki user ke paas sirf 8 chances hai - aur aapko apne `loop` ko aise modify karna hai ki user ke paas 8 chances ho.\n",
-	"lives_key3": "Inn 8 chances ke baad, user ka game over ho jaye.\nAur jab bhi user ka koi bhi galat guess ho toh - aap uska ek chance kam kar de.\nJab bhi user ka guess theek ho, toh aap uski number of lives ko kam na karein.\n",
-	"lives_key4": "## Hint\n\n",
-	"lives_key5": "Iske liye aapko ek temporary `variable` ki jaroorat padegi - jis mei aap remaining lives store kareinge. Chale iss `variable` ko `remaining_lives` hi bol lete hai.\n",
-	"lives_key6": "Aap ko iss `variable` ko 8 se initialise karna hoga.\n",
-	"lives_key7": "Aap ko sahi se samajhna hoga ki kab kab yeh `variable` ko change karna hai.\n",
-	"lives_key8": "Aap ko sahi se samajhna hoga ki jab yeh `variable` zero ho jaye, toh aap\n  - kaha par check karoge ki yeh `variable` ab zero ho gaya hai\n  - jab yeh zero ho jayega toh aap kya karenge uss condition ko handle karne ke liye\n\n\n",
-	"lives_key9": "## Solution\n\n\n",
-	"lives_key10": "## Possible Solution\n\n",
-	"lives_key11": "Aap yeh kaam alag tarah se bhi kar sakte hai, yeh sirf ek possible solution hai. Koshish karein ki hint mei pooche hue saare questions par aap ko clarity ho.\n"
+	"lives_key1": "Ab aapko ek feature implement karna hai, jisse ki user ke paas limited chances ho.\nMaan lete hai ki user ke paas sirf 8 chances hai - aur aapko apne `loop` ko aise modify karna hai ki user ke paas 8 chances ho.\n",
+	"lives_key2": "Inn 8 chances ke baad, user ka game over ho jaye.\nAur jab bhi user ka koi bhi galat guess ho toh - aap uska ek chance kam kar de.\nJab bhi user ka guess theek ho, toh aap uski number of lives ko kam na karein.\n",
+	"lives_key3": "Hint\n",
+	"lives_key4": "Iske liye aapko ek temporary `variable` ki jaroorat padegi - jis mei aap remaining lives store kareinge. Chale iss `variable` ko `remaining_lives` hi bol lete hai.\n",
+	"lives_key5": "Aap ko iss `variable` ko 8 se initialise karna hoga.\n",
+	"lives_key6": "Aap ko sahi se samajhna hoga ki kab kab yeh `variable` ko change karna hai.\n",
+	"lives_key7": "Aap ko sahi se samajhna hoga ki jab yeh `variable` zero ho jaye, toh aap\n  - kaha par check karoge ki yeh `variable` ab zero ho gaya hai\n  - jab yeh zero ho jayega toh aap kya karenge uss condition ko handle karne ke liye\n\n\n",
+	"lives_key8": "Solution\n",
+	"lives_key9": "Possible Solution\n",
+	"lives_key10": "Aap yeh kaam alag tarah se bhi kar sakte hai, yeh sirf ek possible solution hai. Koshish karein ki hint mei pooche hue saare questions par aap ko clarity ho.\n"
 }

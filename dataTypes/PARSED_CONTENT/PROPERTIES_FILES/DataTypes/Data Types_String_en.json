@@ -1,13 +1,13 @@
 {
-	"String_key1": "name: String Data Type\nsubmission_type: url\n",
-	"String_key2": "### `String data type`\n\n",
-	"String_key3": "A `Python` `string` is a sequence of `characters` or text. It handles text data. Whatever we write inside of single or double quotes is a `string` in `python`.\n",
-	"String_key4": "**Example :-**\n",
-	"String_key5": "**`Output` :-**\n",
-	"String_key6": "`Hello `python``\n",
-	"String_key7": "`Hello world`\n",
-	"String_key8": "In this example, we have taken two different `variables` in which the value is written inside double (\" \") quotes or single (' ') quotes.\n",
-	"String_key9": "**Example :-**\n",
-	"String_key10": "**`Output` :-**\n`str`\n",
+	"String_key1": "`String Data Type`\n",
+	"String_key2": "A `Python` `string` is a sequence of `characters or text`. It handles text data. Whatever we write inside of single or double quotes is a `string` in `python`.\n",
+	"String_key3": "Example :-\n",
+	"String_key4": "`Output` :-\n",
+	"String_key5": "`Hello python`\n",
+	"String_key6": "`Hello world`\n",
+	"String_key7": "In this example, we have taken two different `variables` in which the value is written inside `double (\" \") quotes or single (' ') quotes.`\n",
+	"String_key8": "Example :-\n",
+	"String_key9": "`Output` :-\n",
+	"String_key10": "`str`\n",
 	"String_key11": "( means `string`, for checking the data type we use `type()`).\n"
 }

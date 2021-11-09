@@ -1,0 +1,30 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "Make a program that prints all those numbers from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> which are <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">loop</span> that you will write will start from 556."
+	},
+	{
+		"component": "text",
+		"value": "Your <span style=\"\">output</span> should be as follows."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "7<br>14<br>21<br>28<br>35<br>42<br>49<br>56<br>63<br>70<br>77<br>84<br>91<br>98"
+	}
+]

@@ -1,22 +1,18 @@
-```ngMeta
 lives_key1
-```
+
 
 lives_key2
 
 
 lives_key3
-
-
-lives_key4
+- lives_key4
 - lives_key5
 - lives_key6
 - lives_key7
-- lives_key8
-lives_key9
-@[`youtube`](https://www.`youtube`.com/watch?v=FPXBIGZGjoQ)
+lives_key8
+@[youtube](https://www.youtube.com/watch?v=FPXBIGZGjoQ)
 
-lives_key10
+lives_key9
 ```python
 def hangman(secret_word):
     '''
@@ -72,4 +68,5 @@ def hangman(secret_word):
         print "Sorry, you ran out of guesses. The word was " + str(secret_word) + "."
 
 ```
-lives_key11
+
+lives_key10

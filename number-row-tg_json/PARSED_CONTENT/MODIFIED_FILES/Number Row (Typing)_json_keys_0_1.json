@@ -1,0 +1,27 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "keys_0_1_key1"
+  },
+  {
+    "component": "text",
+    "value": "keys_0_1_key2"
+  },
+  {
+    "component": "text",
+    "value": "keys_0_1_key3"
+  },
+  {
+    "component": "banner",
+    "title": "Numpad keys, keys 0 and 1",
+    "value": "",
+    "actions": [
+      {
+        "url": "https://merakilearn.org/typing",
+        "label": "Go to typing app",
+        "data": "{\"content\":[\"0\",\"1\"],\"code\":\"trytyping\"}"
+      }
+    ]
+  }
+]

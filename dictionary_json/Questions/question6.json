@@ -1,0 +1,38 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 6"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to remove <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">duplicate keys</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dic={<br>    “ball”:”red”,<br>    ”bat”:4,<br>    ”wickets”:8,<br>    ”ball”green,<br>    ”bat”:3<br>    }"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{“ball”:”red”,”bat”:4,”wickets”:8}"
+	}
+]

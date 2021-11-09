@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 5"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#Tumhare paas 5 mangoes hai<br>mangoes = 5<br># Kisi ne humhe 5 aur mangoes de diye<br>manGoes = mangoes + 5<br># Ab tumne unn mangoes ko 5 logo mei baant diya<br>print (mangoes / 5)<br># Par isse toh 1 mango hi mila. Par milne 2 chahiye the. Code ko sahi karo jisse ki sabko sahi mangoes mile."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
+	}
+]

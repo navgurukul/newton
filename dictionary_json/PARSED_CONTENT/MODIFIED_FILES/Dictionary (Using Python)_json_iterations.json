@@ -1,0 +1,120 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "iterations_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "states_capitals = {<br>  'Gujarat' : 'Gandhinagar',<br>  'Maharashtra' : 'Mumbai',<br>  'Rajasthan' : 'Jaipur',<br>  'Bihar' : 'Patna'<br>  }<br>for state in states_capitals:<br>      print(state)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key2"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key3"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "iterations_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "states_capitals = {<br>    'Gujarat' : 'Gandhinagar',<br>    'Maharashtra' : 'Mumbai',<br>    'Rajasthan' : 'Jaipur',<br>    'Bihar' : 'Patna'<br>    }<br>    <br>for state in states_capitals:<br>    print(states_capitals[state])"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key6"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "details ={<br>    \"name\":  \"Bijender\",<br>    \"age\":  17,<br>    \"class\":  \"10th\"<br>    }<br>for x in details.values():<br>    print(x)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key9"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key10"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key11"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "movie ={<br>    \"name\":  \"Puli\",<br>    \"hero\":  \"Vijay\",<br>    \"rating\":  7.5<br>    }<br>for x,y in movie.items():<br>    print(x,y)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key13"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key14"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "iterations_key15"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key16"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "meal ={<br>    \"monday\":  \"Chole chawal\",<br>    \"sunday\":  \"Fried rice\",<br>    \"wednesday\":  \"dosa\"<br>    }<br>print(len(meal))"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "iterations_key18"
+  },
+  {
+    "component": "text",
+    "value": "iterations_key19"
+  }
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "Q8.Tumhare pass four employes ki details hai list mai:-"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "[“neelam”,”programer”,”24”,”2400”,]<br>[“komal”,”trainer”,”24”,”20000”]<br>[“anuradha”,”HR”,”25”,”40000”]<br>[“Abhishek”,”manager”,”29”,”63000”]"
+	},
+	{
+		"component": "text",
+		"value": "ab aapko 4  dictionaries create karni hai jaise ki emp1 emp2 emp3 and emp4.<br>har ek employee ka dictionary main name,designation,age and salary honi chahiye.<br>aur ye sab dictionary ki <span style=\"\">keys</span> hai jismai maine list main value di hai. Iska use kar ke aapko ek json <span style=\"\">file</span> create karni hai? Jaise ki niche diya hai."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Output:-</span>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{ <br>     \"emp1\":{ \"name\":\"nilam\",<br>       \"Designation\":\"programmer\",<br>       \"Age\":\"34\",<br>       \"salary\":\"24000\",<br>         }<br><br>    \"emp2\":<br>      { \"name\":\"komal\",<br>        \"Designation\":\"Trainee\",<br>        \"Age\":\"24\",<br>        \"salary\":\"20000\" ,<br>        }<br><br> <br>    \"emp3\":<br>       { \"name\":\"anuradha\",<br>         \"Designation\":\"HR\",<br>         \"Age\":\"25\",<br>         \"salary\":\"40000\",<br>         }<br><br><br>    \"emp4\":<br>       { \"name\":\"Abhishek\",<br>         \"Designation\":\"Manager\",<br>         \"Age\":\"29\",<br>       }<br> }<br>"
+	}
+]

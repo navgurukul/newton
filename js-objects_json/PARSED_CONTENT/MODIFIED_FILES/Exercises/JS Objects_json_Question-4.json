@@ -1,0 +1,46 @@
+[
+  {
+    "component": "text",
+    "value": "Question-4_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key5"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key6"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key7"
+  },
+  {
+    "component": "text",
+    "value": "Question-4_key8"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var dic1={1:10, 2:20};<br>var dic2={3:30,2:40};<br>var dic3={5:50,6:60};<br>for (i in dic1){<br>  for (j in dic2){<br>    if (i==j){<br>        dic3[i]=dic1[i]+dic2[j]<br>        break<br>    }<br>     else{<br>        dic3[i]=dic1[i]<br>        dic3[j]=dic2[j]<br>     }<br>  } <br>}<br>console.log(dic3);"
+  }
+]

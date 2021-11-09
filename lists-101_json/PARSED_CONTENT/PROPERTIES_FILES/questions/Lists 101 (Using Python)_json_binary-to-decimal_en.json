@@ -1,0 +1,13 @@
+{
+	"binary-to-decimal_key1": "Binary to Decimal",
+	"binary-to-decimal_key2": "In this program, if we are given any number in <b>binary form</b>, then we will learn to convert that number in <b>decimal form</b>.",
+	"binary-to-decimal_key3": "binary",
+	"binary-to-decimal_key4": "Please see this diagram.",
+	"binary-to-decimal_key5": "To convert this number in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form</span>:-",
+	"binary-to-decimal_key6": "After doing the above steps, you will get <b>155</b> as an answer.",
+	"binary-to-decimal_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+	"binary-to-decimal_key8": "What will be the <span style=\"\">output</span> of this program? If your progrsm is <b>robust</b> then it will give invalid <span style=\"\">output</span>, otherwise it will throw an <span style=\"\">error</span>.",
+	"binary-to-decimal_key9": "If your program is <b>robust</b> :",
+	"binary-to-decimal_key10": "- then it will give invalid output, or<br>- it will consider \"1\" as 1 ki and solve the question.",
+	"binary-to-decimal_key11": "But, if it will not be <b>robust</b>, then it will throw <span style=\"\">error</span>."
+}

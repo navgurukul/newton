@@ -1,0 +1,6 @@
+{
+    "question3_key1": "प्रश्न 3",
+    "question3_key2": "नीचे एक कार्यक्रम में <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 15</span> के बीच <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> हैं और मूल्यों <span style=\"\">keys</span> के वर्गों रहे हैं।",
+    "question3_key3": "<span style=\"\">\u0007utput</span> कुछ इस तरह होना चाहिए:-<br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\u0003\u00131��ș������İ���а���䰀���ذ����԰����ذ����䰀���а����ș������İ����</span>",
+    "question3_key4": "अब, आपको <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> यह करना होगा:-"
+}

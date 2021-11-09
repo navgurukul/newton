@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 13"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to print the top 3 highest values of a given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "my_dict = {<br>    'a':50, <br>    'b':58,<br>    'c': 56,<br>    'd':40,<br>    'e':100, <br>    'f':20<br>    }"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "expect result:-['e','b','c']"
+	}
+]

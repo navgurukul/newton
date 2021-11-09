@@ -1,0 +1,7 @@
+{
+	"question1_key1": "Question 1",
+	"question1_key2": "Make a program that prints all those numbers from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> which are <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span>.",
+	"question1_key3": "Note :",
+	"question1_key4": "The <span style=\"\">loop</span> that you will write will start from 556.",
+	"question1_key5": "Your <span style=\"\">output</span> should be as follows."
+}

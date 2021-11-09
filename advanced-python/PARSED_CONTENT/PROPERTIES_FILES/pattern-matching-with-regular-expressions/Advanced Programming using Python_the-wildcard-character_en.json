@@ -1,0 +1,10 @@
+{
+	"the-wildcard-character_key1": "The Wildcard Character\n",
+	"the-wildcard-character_key2": "The . (or dot) character in a regular expression is called a wildcard and will match any character except for a newline. For example, enter the following into the interactive `shell`:\n",
+	"the-wildcard-character_key3": "Remember that the dot character will match just one character, which is why the match for the text flat in the previous example matched only lat. To match an actual dot, escape the dot with a backslash: \\..\n",
+	"the-wildcard-character_key4": "Matching Everything with Dot-Star\n",
+	"the-wildcard-character_key5": "Sometimes you will want to match everything and anything. For example, say you want to match the `string` 'First Name:', followed by any and all text, followed by 'Last Name:', and then followed by anything again. You can use the dot-star (.*) to stand in for that “anything.” Remember that the dot character means “any single character except the newline,” and the star character means “zero or more of the preceding character.”\nEnter the following into the interactive `shell`:\n",
+	"the-wildcard-character_key6": "The dot-star uses greedy mode: It will always try to match as much text as possible. To match any and all text in a nongreedy fashion, use the dot, star, and question mark (.*?). Like with curly brackets, the question mark tells `Python` to match in a nongreedy way.\n",
+	"the-wildcard-character_key7": "Enter the following into the interactive `shell` to see the difference between the greedy and nongreedy versions:\n",
+	"the-wildcard-character_key8": "Both regexes roughly translate to “Match an opening angle bracket, followed by anything, followed by a closing angle bracket.” But the `string` '<To serve man> for dinner.>' has two possible matches for the closing angle bracket. In the nongreedy version of the regex, `Python` matches the shortest possible `string`: '<To serve man>'. In the greedy version, `Python` matches the longest possible `string`: '<To serve man> for dinner.>'.\n"
+}

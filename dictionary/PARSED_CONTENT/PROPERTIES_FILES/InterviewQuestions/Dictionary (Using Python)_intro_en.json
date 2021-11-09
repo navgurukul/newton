@@ -1,13 +1,13 @@
 {
-	"intro_key1": "## Interview Questions\n\n",
-	"intro_key2": "Q1. Difference between dict.items() and dict.iteritems() in `Python`?\n",
-	"intro_key3": "Q2. `Python` program to print the dictionary in a `tab`le format?\n",
-	"intro_key4": "Q3. How to find length of dictionary values?\n",
-	"intro_key5": "Q4. Find `keys` with duplicate values in the dictionary?\n",
-	"intro_key6": "Q5. Sum list of dictionaries with the same `key`?\n",
-	"intro_key7": "Q6. Split dictionary `keys` and values into separate lists?\n",
-	"intro_key8": "Q7. Convert a set into a dictionary?\n",
-	"intro_key9": "Q8. Get `key` with maximum value in Dictionary?\n",
-	"intro_key10": "Q9. Sort the list alphabetically in a dictionary?\n",
-	"intro_key11": "Q10.  Remove spaces from dictionary `keys`?\n"
+	"intro_key1": "Interview Questions\n",
+	"intro_key2": "Q1. Difference between `dict.items()` and `dict.iteritems()` in `Python`?\n",
+	"intro_key3": "Q2. Write a `Python` program to print the `dictionary` in a `tab`le format?\n",
+	"intro_key4": "Q3. How to find `length of dictionary values`?\n",
+	"intro_key5": "Q4. Find `keys` with duplicate values in the `dictionary`?\n",
+	"intro_key6": "Q5. Sum `list of dictionaries` with the same `key`?\n",
+	"intro_key7": "Q6. Split `dictionary` `keys` and values into separate lists?\n",
+	"intro_key8": "Q7. Convert a `set into a dictionary`?\n",
+	"intro_key9": "Q8. Get `key` with maximum value in `dictionary`?\n",
+	"intro_key10": "Q9. Sort the list alphabetically in a `dictionary`?\n",
+	"intro_key11": "Q10. Remove spaces from `dictionary keys`?\n"
 }

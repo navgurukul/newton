@@ -1,0 +1,11 @@
+{
+	"html_key1": "#HTML\nBefore you pick apart web pages, you’ll learn some HTML basics. You’ll also see how to access your web browser’s powerful developer tools, which will make scraping information from the Web much easier.\n",
+	"html_key2": "#Resources for Learning HTML\nHypertext Markup Language (HTML) is the format that web pages are written in. This chapter assumes you have some basic experience with HTML, but if you need a beginner tutorial, I suggest one of the following sites:\n",
+	"html_key3": "<span><a href=\"http://htmldog.com/guides/html/beginner/\">http://htmldog.com/guides/html/beginner/</a></span>\n",
+	"html_key4": "<span><a href=\"http://www.`code`cademy.com/tracks/web/\">http://www.`code`cademy.com/tracks/web/</a></span>\n",
+	"html_key5": "<span><a href=\"https://developer.mozilla.org/en-US/learn/html/\">https://developer.mozilla.org/en-US/learn/html/</a></span>\n",
+	"html_key6": "#A Quick Refresher\nIn case it’s been a while since you’ve looked at any HTML, here’s a quick overview of the basics. An HTML `file` is a plaintext `file` with the .html `file` extension. The text in these `files` is surrounded by tags, which are words enclosed in angle brackets. The tags tell the browser how to format the web page. A starting tag and closing tag can enclose some text to form an element. The text (or inner HTML) is the content between the starting and closing tags. For example, the following HTML will display Hello world! in the browser, with Hello in bold:\n",
+	"html_key7": "<strong>Hello</strong> world!\nThis HTML will look like Figure 11-1 in a browser.\n",
+	"html_key8": " -->\nViewing the source of a web page\n",
+	"html_key9": "I highly recommend viewing the source HTML of some of your favorite sites. It’s fine if you don’t fully understand what you are seeing when you look at the source. You won’t need HTML mastery to write simple web scraping programs—after all, you won’t be writing your own websites. You just need enough knowledge to pick out data from an existing site.\n"
+}

@@ -1,0 +1,44 @@
+[
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def string_both_ends(str):<br>    if len(str) => 2:<br>      return ''<br>    return str[0:2] + str[-2:]<br><br>Print (string_both_ends(w3resource))<br>Print (string_both_ends(w3)<br>Print (string_both_ends(w)"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: w3ce"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: w3w3"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: empty"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "string_both_ends(str):<br>    if len(str) => 2<br>      return \"<br>    return str[0:2] + str(-2:)<br><br>Print (string_both_ends(w3resource))<br>Print (string_both_ends(w3)<br>Print (string_both_ends(w)"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: w3ce"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: w3w3"
+	},
+	{
+		"component": "header",
+		"variant": 6,
+		"value": "<span style=\"\">OUTPUT</span>: empty"
+	}
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "functions-question2_key2"
+  },
+  {
+    "component": "text",
+    "value": "functions-question2_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Mera naam Rishabh hai.<br>Main NavGurukul ka co-founder hun."
+  }
+]

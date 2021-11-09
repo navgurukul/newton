@@ -1,0 +1,79 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Variables_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var myName;"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Variables_key2"
+  },
+  {
+    "component": "text",
+    "value": "Variables_key3"
+  },
+  {
+    "component": "text",
+    "value": "Variables_key4"
+  },
+  {
+    "component": "text",
+    "value": "Variables_key5"
+  },
+  {
+    "component": "text",
+    "value": "Variables_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Variables_key7"
+  },
+  {
+    "component": "text",
+    "value": "Variables_key8",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var ourCampusName;"
+  },
+  {
+    "component": "text",
+    "value": "Variables_key9",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var myVillage;"
+  }
+]

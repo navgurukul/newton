@@ -1,0 +1,80 @@
+[
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span> that the reverses the order of the items means in opposite order."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]"
+	},
+	{
+		"component": "text",
+		"value": "Your <span style=\"\">code</span> <span style=\"\">output</span> should be here :"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "kerela<br>punjab<br>rajasthan<br>gujrat<br>delhi"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hints"
+	},
+	{
+		"component": "text",
+		"value": "When <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index i</span> is there, then what will be at index <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">length - i -1</span>."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">places=[\"delhi\", \"gujrat\", \"rajasthan\", \"punjab\", \"kerala\"]</span>"
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "i",
+				"items": [
+					"0",
+					"1",
+					"2",
+					"3",
+					"4"
+				]
+			},
+			{
+				"header": "places[i]",
+				"items": [
+					"\"delhi\"",
+					"\"gujrat\"",
+					"\"rajasthan\"",
+					"\"punjab\"",
+					"\"kerala\""
+				]
+			},
+			{
+				"header": "length - i",
+				"items": [
+					"4",
+					"3",
+					"2",
+					"1",
+					"0"
+				]
+			},
+			{
+				"header": "places[length - i]",
+				"items": [
+					"\"kerala\"",
+					"\"punjab\"",
+					"\"rajasthan\"",
+					"\"gujrat\"",
+					"\"delhi\""
+				]
+			}
+		]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function displayMultiply() and pass 3 parameters and in runtime take the arguments with the names num1, num2, num3 and multiply them and return the result?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "<br>function displayMultiply(num1, num2, num3) {<br>   return num1*num2*num3<br>  }<br>  <br>console.log(displayMultiply(2, 3, 4));<br>"
+	}
+]

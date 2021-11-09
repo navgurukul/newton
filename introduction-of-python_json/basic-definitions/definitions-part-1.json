@@ -1,0 +1,273 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Basic Definitions"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Program"
+	},
+	{
+		"component": "text",
+		"value": "<b>A set of instructions is called a program.</b>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=5<br>b=9<br>print(a+b)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">14</span> "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Real Life Example :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "For example if we want to make tea ,we will first collect all the ingredients required to make tea like sugar, tea leaves, milk, these are all the instructions that tell what is needed to make tea."
+	},
+	{
+		"component": "text",
+		"value": "Another example, if we want to go to the market, this is a program and the way/ route we follow to go to  the market is called programming."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "To know more about Program in detail, please visit this link."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://youtu.be/SDxPjsRksw0\">Program</a>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Programming"
+	},
+	{
+		"component": "text",
+		"value": "The process of doing any work is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">programming</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "In the process of making tea."
+	},
+	{
+		"component": "text",
+		"value": "Like first we take a bowl ,add water, sugar, tea leaves and milk then boil it, hence the tea is prepared. Similarly to do computer programming we need to follow some rules which we will study today."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=5<br>b=7<br>print(a+b)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">12</span>"
+	},
+	{
+		"component": "text",
+		"value": "In this example we are adding a and b, here to add  is a process and this process is called programming. Whatever work we do, the process of doing that work is called programming."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "To know about Programming in detail you can go to this link.\n<a href=\"https://youtu.be/ZMMVf4Qv\">Programming</a>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">High Level Language</span>"
+	},
+	{
+		"component": "text",
+		"value": "High level language is that language that humans can easily understand but computers cannot."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example</span>"
+	},
+	{
+		"component": "text",
+		"value": "Just as we can understand English but computers cannot understand English. Computer understands  0 and 1 ."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Low Level Language</span>"
+	},
+	{
+		"component": "text",
+		"value": "Low level language is also called  machine language which is made of 1 or 0, humans cannot understand low level language but computers can easily understand."
+	},
+	{
+		"component": "text",
+		"value": "Note- Study in detail about High level and low level language. <a href=\"https://youtu.be/bqyVOEgDSj8\">High or low level language</a> "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax</span> is just like <span style=\"\">python</span> grammar. It is a set of rules that tells how to write and run a <span style=\"\">python</span> <span style=\"\">code</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "Suppose you have written (<span style=\"\">Python</span> awesome) in English , do you think that it is grammatically correct or is there anything missing?<br>Yes, you are correct, this sentence is grammatically wrong  (<span style=\"\">python</span> is awesome ) this sentence is correct , just as in English, there are certain rules of grammar similarly to write some  <span style=\"\">python</span> <span style=\"\">code</span> some <span style=\"\">syntax</span> rule  are there ,like while writing <span style=\"\">code</span>  if we forget to put any symbol, Colón(:) or parenthesis  () etc, then it will display a message of <span style=\"\">syntax</span> <span style=\"\">error</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num=5<br>print(num"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax Error: unexpected EOF while parsing</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num=5<br>print \"a\""
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Syntax Error: invalid syntax</span>"
+	},
+	{
+		"component": "text",
+		"value": "In this example you saw that while printing I forgot to put one parenthesis, as a result of this it is showing <span style=\"\">syntax</span> <span style=\"\">error</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Algorithm</span>"
+	},
+	{
+		"component": "text",
+		"value": "Algorithm is a step by step process to solve any problem. With the help of this we break the problem into smaller parts and then solve it. It can also be defined as a procedure or formula to solve any problem or task."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "If we want to make cookies ,so first we collect all the ingredients and then we will make it step by step, if we miss any step then cookies would not be tasty or good.<br><br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "To make tea first of all we will take<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "a bowl ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "then water",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sugar and tea leaf",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "milk<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "As you saw above that we have made a list of ingredients required to make tea i.e. we have collected all the things to make tea. This is called algorithm, here we have taken things step by step."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "To study Algorithm in detail please click this link.  <a href=\"https://youtu.be/MvayENwOCNM\">Algorithm</a>"
+	}
+]

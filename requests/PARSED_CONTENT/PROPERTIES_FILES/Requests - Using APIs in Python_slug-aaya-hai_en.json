@@ -1,0 +1,13 @@
+{
+	"slug-aaya-hai_key1": "Dekho, Dekho - Slug aaya hai!\n",
+	"slug-aaya-hai_key2": "Ab aap yeh link -\n",
+	"slug-aaya-hai_key3": "http://saral.navgurukul.org/api/courses/75/exercise/getBySlug?slug=requests__using-json\n",
+	"slug-aaya-hai_key4": "open karein. Aise link ko use kar kar, aap kisi particular exercise ka content\nnikal sakte hai.\n",
+	"slug-aaya-hai_key5": "Yeh karne ke liye teen steps honge:\n",
+	"slug-aaya-hai_key6": "1 - Sabse pehle aap user se `input` loge, ki user kaunsi exercise ka content dekhna chahta hai\n2 - User se `input` lekar, aap corresponding exercise ka `slug` nikaloge\n3 - Yeh `slug` aur purana `course_id` use kar kar, aap uppar wale jaisa URL call karoge\n",
+	"slug-aaya-hai_key7": "Slug Nikalne ke liye hints\n",
+	"slug-aaya-hai_key8": "Pehle toh aap yeh samjhiye, slug nikalna normal programming hai,\niska requests se kuch khaas lena dena nahi hai.\n",
+	"slug-aaya-hai_key9": "Jaise hi user `input` karega, toh aap ko dekhna padega, ki woh parent\nexercise hai, child exercise.\n",
+	"slug-aaya-hai_key10": "Phir aap yeh process repeat karna:\n",
+	"slug-aaya-hai_key11": "Aise kar kar shayad aap soch pao, ki kaise user ki selection ke basis par aap usse\nkoi slug recommend kar sakte ho.\n"
+}

@@ -1,0 +1,61 @@
+[
+	{
+		"component": "text",
+		"value": "Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them like below given example."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "console.log(1+2); // output: 3"
+	},
+	{
+		"component": "text",
+		"value": "An <span style=\"\">operator</span> performs some operation on operands (data value on which operation is being performed) and produces a result. "
+	},
+	{
+		"component": "text",
+		"value": "For example 1 + 2, where + sign is an <span style=\"\">operator</span> and 1 is left operand and 2 is right operand. + <span style=\"\">operator</span> adds two numeric values and produces a result which is 3 in this case."
+	},
+	{
+		"component": "text",
+		"value": "In JavaScript, an <span style=\"\">operator</span> is a special symbol used to perform operations on operands (values and <span style=\"\">variables</span> on which operation is being performed). "
+	},
+	{
+		"component": "text",
+		"value": "Here is a list of different <span style=\"\">operators</span> you will learn in this tutorial."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "JavaScript Operator Types"
+	},
+	{
+		"component": "text",
+		"value": "Arithmetic Operators",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Comparison Operators",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Assignment Operators",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Logical Operators",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

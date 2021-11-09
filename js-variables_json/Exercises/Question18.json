@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "What is the <span style=\"\">key</span>word that declares a <span style=\"\">variable</span>?"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "solution",
+		"value": "var"
+	}
+]

@@ -1,0 +1,38 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named multiplesOfNumbers which takes an argument as limit, and runs a <span style=\"\">loop</span> from o to that limit and prints the multiples of 3 and 5. Like the below."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span>:"
+	},
+	{
+		"component": "text",
+		"value": "10"
+	},
+	{
+		"component": "text",
+		"value": "3 and 5  multiples =&gt; 3, 5, 6, 9, 10"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :"
+	},
+	{
+		"component": "text",
+		"value": "33"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "function multiplesOfNumbers(limit){<br>   var sum=0<br>   for(i=0;i<=limit;i++){<br>       if(i%3 ===0){<br>           sum+=i;<br>       }<br>       if(i%5 ==0){<br>           sum+=i;<br>       }<br>   }<br>   console.log(sum);<br>}<br>multiplesOfNumbers(10);"
+	}
+]

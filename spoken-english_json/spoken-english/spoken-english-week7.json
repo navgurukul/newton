@@ -1,0 +1,452 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Class 7 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1 - Easy level"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: <br>Topic: My Friend<br>Who is one of your friends?<br>What does he/she look like?<br>How and when did you meet?<br>What do you do together with your friend?"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "Volunteers may explain to students that pronouns are substitutes for nouns.Let's concentrate today on Personal Pronouns. Personal pronouns are used as an object or a subject. Below is a list of pronouns that will be used in the game and examples to help the student understand how to use it."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "Used as Subject",
+				"items": [
+					"I",
+					"You",
+					"He",
+					"She",
+					"It",
+					"We",
+					"They"
+				]
+			},
+			{
+				"header": "Used as an Object",
+				"items": [
+					"Me",
+					"You",
+					"Him",
+					"Her",
+					"It",
+					"Us",
+					"Them"
+				]
+			},
+			{
+				"header": "Example",
+				"items": [
+					"<i>I</i> wanted an apple.Mom, can you please give <i>me</i> an apple",
+					"If you have any questions, you canask either Divya or me",
+					"He played with his toys in the playground",
+					"She bent down to tie her shoe lace",
+					"It is my favorite book.Divya wants to borrow it",
+					"We were delighted when the teacher called and told us that tomorrow is a Holiday",
+					"Both of them were surprised to see their dad at home when they returned"
+				]
+			}
+		]
+	},
+	{
+		"component": "text",
+		"value": "Choose the nouns and replace with the right Pronoun"
+	},
+	{
+		"component": "text",
+		"value": "Anna, Divya and David went to the market. ( They went to the<br>market)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Anand said Anand would clean Anand ’s room. ( Anand said he<br>would clean his room)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Pranav and I ate the ice cream.( He and I ate the ice cream)",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "You and Hari are invited to the game.( You and him are invited<br>to the game)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Select the right pronoun from I , me, we , us</b>"
+	},
+	{
+		"component": "text",
+		"value": "John uis several inches taller than <b>_</b> (me)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>_</b> cannot go to the park today.(I/We)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Please show <b>_</b> your new pen?(me)",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Jack has a better pen than<b>_</b> (me)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "David and John can’t sing as well as <b>_</b> (us).<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "<b>Flexible</b> (adjective)<br>Meaning: (1) capable of bending easily without breaking"
+	},
+	{
+		"component": "text",
+		"value": "Usage: Giraffes have very flexible necks."
+	},
+	{
+		"component": "text",
+		"value": "(2- When referring to a person) ready and able to change so as to adapt to different circumstances."
+	},
+	{
+		"component": "text",
+		"value": "Usage: (of a person) Tara’s schedule was flexible"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2 - Intermediate level"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: <b>Topic: My Friend</b>"
+	},
+	{
+		"component": "text",
+		"value": "Who is one of your friends?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What does he/she look like?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "How and when did you meet?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "What do you do together with your friend?<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Level 2: Why is a friend important in life?"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "Pronouns are substitutes for nouns . Let's concentrate today on Personal and Reflexive Pronouns.<br>Personal pronouns are used as an object or a subject. Below is a list of pronouns that will be used in the game and examples to help the student understand how to use it."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "Used as Subject",
+				"items": [
+					"I",
+					"You",
+					"He",
+					"She",
+					"It",
+					"We",
+					"They"
+				]
+			},
+			{
+				"header": "Used as an Object",
+				"items": [
+					"Me",
+					"You",
+					"Him",
+					"Her",
+					"It",
+					"Us",
+					"Them"
+				]
+			},
+			{
+				"header": "Example",
+				"items": [
+					"<i>I</i> wanted an apple.Mom, can you please give <i>me</i> an apple",
+					"If you have any questions, you can ask either Divya or me",
+					"He played with his toys in the playground",
+					"She bent down to tie her shoe lace",
+					"It is my favorite book.Divya wants to borrow it",
+					"We were delighted when the teacher called and told us that tomorrow is a Holiday",
+					"Both of them were surprised to see their dad at home when they returned"
+				]
+			}
+		]
+	},
+	{
+		"component": "text",
+		"value": "Reflexive pronouns are used to specify that the subject is doing something by or to itself. Instead of acting upon another object, the subject is acting upon itself, either literally or figuratively."
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "I taught myself to play the guitar.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "You know yourself better than anyone else.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "We have been preparing ourselves for the monsoon.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "They amused themselves<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "Used as Subject",
+				"items": [
+					"I",
+					"You",
+					"He",
+					"She",
+					"It",
+					"We",
+					"They"
+				]
+			},
+			{
+				"header": "Used as an Object",
+				"items": [
+					"Me",
+					"You",
+					"Him",
+					"Her",
+					"It",
+					"Us",
+					"Them"
+				]
+			},
+			{
+				"header": "Example",
+				"items": [
+					"Myself",
+					"Yourself",
+					"Himself",
+					"Herself",
+					"Itself",
+					"Ourselves",
+					"Themselves"
+				]
+			}
+		]
+	},
+	{
+		"component": "text",
+		"value": "Correct the <span style=\"\">errors</span> in the following sentences."
+	},
+	{
+		"component": "text",
+		"value": "Most of we boys attend the meetings.(us)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I and Jane were nominated for office.( We)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The team members they are quite thrilled about their success.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Them are my kind of people. ( they)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The dog is always scratching it .(itself)",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Mark and Mike,please read quietly to you. (yourselves)",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Our neighbors were nice enough to deliver the papers for we. (us)",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Us girls are planning to defeat the boys in our school<br>sports this year.(We)",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "The kitten it wouldn’t harm anyone.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Are them too large? (they)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Them are the shoes to buy if you are looking for comfortable shoes.(These)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I see me in the mirror. (myself)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Anxious (adjective)<br>Meaning: (1) experiencing worry, or nervousness, typically about an<br>imminent event or something with an uncertain outcome<br>Usage: She was anxious about her exam results<br>(2) wanting something very much, typically with a feeling of unease.<br>Usage: He anxiously waited for India to win the cricket match"
+	}
+]

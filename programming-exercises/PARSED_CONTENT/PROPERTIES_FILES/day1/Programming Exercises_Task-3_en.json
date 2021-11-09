@@ -1,0 +1,15 @@
+{
+	"Task-3_key1": "Reading Material\n",
+	"Task-3_key2": "**Armstrong** Number\nEk number **Armstrong** Number `tab` khelata hai jab uske har ek digit khudse 3 bar guna karke agar\nhum add kare toh hume wapas wahi number mil jata hai.\n",
+	"Task-3_key3": "Jese 153 **Armstrong** Number hai.\nKyunki\n**1 * 1 * 1 = 1**\n**5 * 5 * 5 = 125**\n**3 * 3 * 3 = 27**\n",
+	"Task-3_key4": "aur agar ineh add kare toh wapas **153** hi ahta hai.\n",
+	"Task-3_key5": "Question\n",
+	"Task-3_key6": "Apko ish sawal me ek program likhna hai jishme ek value di jayegi manlo `1000` toh apko jitne bi number **Armstrong** Number hai `0` se `1000` ke bich me ushe *print* karna ha.\n",
+	"Task-3_key7": "Test\n",
+	"Task-3_key8": "Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n",
+	"Task-3_key9": "Hint\n",
+	"Task-3_key10": "Digit app ese nikal sakte hai.\n",
+	"Task-3_key11": "**123%10 = 3** dega\n**123/10 = 12** dega\n",
+	"Task-3_key12": "**12%10 = 2** dega\n**12/10 = 1** dega\n",
+	"Task-3_key13": "**1%10 = 1** dega\n**1/10 = 0** dega\n"
+}

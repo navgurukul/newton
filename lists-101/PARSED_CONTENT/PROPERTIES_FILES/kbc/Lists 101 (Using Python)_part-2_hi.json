@@ -1,0 +1,13 @@
+{
+    "part-2_key1": "## आपका प्रश्न\n\n\n",
+    "part-2_key2": "### भाग ---- पहला\n\n",
+    "part-2_key3": "हमें इस जानकारी को प्रिंट करने के लिए उन सूचियों का उपयोग करना होगा:\n",
+    "part-2_key4": "`question_list` `variable` प्रिंट `doosra question` का उपयोग करके। `options_list` का उपयोग करके, के चार विकल्प प्रिंट करें\n",
+    "part-2_key5": "`question_list` `variable` ko use kar kar `doosra question` print karo\n`options_list` ka use kar kar `doosre question` ke chaaron options ko print karo `doosre question`.\n",
+    "part-2_key6": "आपका `output` इस तरह दिखना चाहिए:\n",
+    "part-2_key7": "#### याद रखो :\n\n\n",
+    "part-2_key8": "प्रत्येक विकल्प के साथ, हमें उसका `number` भी प्रिंट करना चाहिए।\n",
+    "part-2_key9": "#### संकेत:\n\n",
+    "part-2_key10": "याद रखें कि इंडेक्स के बारे में क्या सीखा।\n",
+    "part-2_key11": "विकल्पों को प्रिंट करने के लिए `loop` का प्रयोग करें।\n"
+}

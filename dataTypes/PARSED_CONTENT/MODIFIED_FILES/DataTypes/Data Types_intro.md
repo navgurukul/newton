@@ -1,7 +1,4 @@
-```ngMeta
 intro_key1
-```
-
 intro_key2
 
 
@@ -20,8 +17,6 @@ intro_key6
 
 
 intro_key7
-
-
 ```
 Numeric type - (Integer, Float, complex)
 

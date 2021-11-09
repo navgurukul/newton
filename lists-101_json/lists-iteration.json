@@ -1,0 +1,224 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "To iterate over the list"
+	},
+	{
+		"component": "text",
+		"value": "In a class, the teacher marks attendance by calling out their names one by one, from a list of students. This process is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Iteration</span>."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ITERATE</span> is a very important word, which you should bring in your vocabulary."
+	},
+	{
+		"component": "text",
+		"value": "Repeat the same action with each element means <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">iterate over the list</span>. There could be many examples of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Iteration</span> like:"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Iterate on your own contact list"
+	},
+	{
+		"component": "text",
+		"value": "one by one to all your friends ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "send SMS .",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "To iterate over the names of students list"
+	},
+	{
+		"component": "text",
+		"value": "See their report cards one by one ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "calculate their marks one by one",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "assign grades to them.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Now iterate over the names of your friends list"
+	},
+	{
+		"component": "text",
+		"value": "Giving tea one by one to your friends",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Out of them, the friend sitting nearest to you"
+	},
+	{
+		"component": "text",
+		"value": "you give them biscuit together with tea.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Basically, the work that we do repeatedly is called as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Iteration</span> . Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loops</span>, we have learned how to do iteration. But , we don't know how to <b>iterate over a list</b>. Now we will learn how to run <span style=\"\">loop</span> on any list."
+	},
+	{
+		"component": "text",
+		"value": "In this example, we will understand that <b>how to iterate over the list.</b><br>Please see the example given below:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]"
+	},
+	{
+		"component": "text",
+		"value": "In this list all the elements have specific <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span>."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"robin\"</span> - 0",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"anamika\"</span> - 1",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"faisal\"</span> - 2",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"valmiki\"</span> - 3",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"waseem\"</span> - 4",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"amara\"</span> - 5<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Now, we will use while <span style=\"\">loop</span>, increase the counter one by one and we can access the elements of the  list one by one."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>    print students_list[index]<br>    index = index + 1"
+	},
+	{
+		"component": "text",
+		"value": "Here we have to check in the while <span style=\"\">loop</span> that the value of the index should be less than the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_length</span>. The <span style=\"\">loop</span> will stop working at the moment when the index value will become equal to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_length</span>."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "One More Example"
+	},
+	{
+		"component": "text",
+		"value": "To calculate the total marks of a student from the student's marks list we will use the following <span style=\"\">code</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "student_marks = [23, 45, 89, 90, 56, 80] <br>length = len(student_marks)<br>index = 0<br>total_marks = 0<br>while index < len(student_marks):<br>    total_marks = student_marks[index] + total_marks<br>    index = index + 1<br>print \"Total Marks: \" + str(total_marks)"
+	},
+	{
+		"component": "text",
+		"value": "Think about what will happen and try to <span style=\"\">execute</span> to see what will happen. Did you understand something?"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "One Final Example"
+	},
+	{
+		"component": "text",
+		"value": "Suppose we have a list of marks and we have to find that how many students have marks less than 50. For doing this we write the <span style=\"\">code</span> given below."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "student_marks = [23, 45, 67, 89, 90, 54, 34, 21, 34, 23, 19, 28, 10, 45, 86, 87, 9]<br>list_length = len(student_marks)<br>index = 0<br>less_than50 = 0<br>more_than50 = 0<br>while index < list_length:<br>    marks = student_marks[index]<br>    if marks < 50:<br>        less_than50 = less_than50 + 1<br>    else:<br>        more_than50 = more_than50 + 1<br>    index = index + 1<br>print \"Marks more than 50: \" + str(more_than50)<br>print \"Marks less than 50: \" + str(less_than50)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "If we will add <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">less_than50</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">more_than50</span> then what is its relation with <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_length</span>? "
+	},
+	{
+		"component": "text",
+		"value": "You will come to know whether your understanding level is good or not? If you are wrong then discuss it with your peers and understand it :)."
+	},
+	{
+		"component": "text",
+		"value": "<i>If you will clearly understand this example then your concepts will become more clear.</i>"
+	}
+]

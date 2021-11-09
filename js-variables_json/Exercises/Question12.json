@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "A <b><i><i></i></b></i>__ ends in a semicolon."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "solution",
+		"value": "statement"
+	}
+]

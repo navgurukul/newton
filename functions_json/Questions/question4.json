@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Ek showNumbers() naam ka function define kijiye jo ki ek limit naam ka parameter lega aur 0 se limit tak ke beech ke sabhi even aur odd numbers ko label ke saath print karega jaisa ki niche dikhaya gaya hai."
+	},
+	{
+		"component": "text",
+		"value": "<b><i>For example :-</i></b> "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> "
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "3"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "0 EVEN<br>1 ODD<br>2 EVEN<br>3 ODD"
+	}
+]

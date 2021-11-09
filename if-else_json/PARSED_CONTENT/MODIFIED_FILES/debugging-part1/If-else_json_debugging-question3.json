@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-question3_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "price_milk = raw_input(\"1L milk ka price daalo?\")<br>print (\"10L milk \" + price_milk*10 + \" rupees ka aata hai.\")"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key2"
+  }
+]

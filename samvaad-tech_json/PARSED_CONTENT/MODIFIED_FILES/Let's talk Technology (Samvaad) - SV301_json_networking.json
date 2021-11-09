@@ -1,0 +1,129 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "networking_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "L1i8RiqHakU"
+  },
+  {
+    "component": "youtube",
+    "value": "Dxcc6ycZ73M"
+  },
+  {
+    "component": "youtube",
+    "value": "ZhEf7e4kopM"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "networking_key2"
+  },
+  {
+    "component": "text",
+    "value": "networking_key3"
+  },
+  {
+    "component": "text",
+    "value": "networking_key4"
+  },
+  {
+    "component": "text",
+    "value": "networking_key5"
+  },
+  {
+    "component": "text",
+    "value": "networking_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "5o8CwafCxnU"
+  },
+  {
+    "component": "text",
+    "value": "networking_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key11",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key12",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key13",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key14",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "networking_key15"
+  },
+  {
+    "component": "text",
+    "value": "networking_key16",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "networking_key17"
+  }
+]

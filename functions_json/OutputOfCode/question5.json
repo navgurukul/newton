@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 5"
+	},
+	{
+		"component": "text",
+		"value": "Niche diye gye <span style=\"\">code</span> snippet ki <span style=\"\">output</span> kya hogi?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def  meal(day,time):<br>    if day==\"sunday\":<br>        if time==\"breakfast\":<br>            return \"dosa\"<br>        elif time==\"lunch\":<br>            return \"dal rice\"<br>        elif time==\"dinner\":<br>            return \"paneer and  chapati\"<br>        else :<br>            return \"time not found\"<br>    elif day==\"monday\":<br>        if time==\"breakfast\":<br>            return \"fried rice\"<br>        elif time==\"lunch\":<br>            return \"aloo rice\"<br>        elif time==\"dinner\":<br>            return \"chhole bhature\"<br>        else :<br>            return \"time not found\"<br>    elif day==\"other\":<br>        if time==\"breakfast\":<br>            return \"aloo\"<br>        elif time==\"lunch\":<br>            return \"rajma rice\"<br>        elif time==\"dinner\"    :<br>            return \"veg-chapati\"<br>        else :<br>            return \"time not found\"<br>            <br>print(meal(\"sunday\",\"lunch\"))<br>print(meal(\"monday\",\"dinner\"))"
+	}
+]

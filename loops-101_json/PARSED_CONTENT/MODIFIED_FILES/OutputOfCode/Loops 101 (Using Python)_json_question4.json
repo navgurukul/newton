@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "question4_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 0<br>while(i<5):<br>    j = 0<br>    while(j<5): #loop2<br>        if (j > 3): <br>            break <br>        else:<br>            print \"*\", <br>        j = j + 1    <br>    print ''<br>    i = i + 1<br>"
+  }
+]

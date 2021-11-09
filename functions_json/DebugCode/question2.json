@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "Neeche diye huye <span style=\"\">codes</span> mai kuch bugs hai. Ab aapko <span style=\"\">error</span> find kar ke unhe solve karne hai.(number of bugs)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "function multi(a,b):<br>    multiply=a*b<br>    return multiply<br>print(multi(3,4))"
+	}
+]

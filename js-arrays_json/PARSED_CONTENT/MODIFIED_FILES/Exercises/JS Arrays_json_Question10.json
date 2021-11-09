@@ -1,0 +1,43 @@
+[
+  {
+    "component": "text",
+    "value": "Question10_key1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Question10_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question10_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question10_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question10_key5"
+  },
+  {
+    "component": "text",
+    "value": "Question10_key6"
+  },
+  {
+    "component": "text",
+    "value": "Question10_key7"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7];<br>var reversedArray=[]<br>for(var i=numbers.length-1; i>=0;i--){<br>   reversedArray.push(numbers[i])<br>}<br>console.log(reversedArray);"
+  }
+]

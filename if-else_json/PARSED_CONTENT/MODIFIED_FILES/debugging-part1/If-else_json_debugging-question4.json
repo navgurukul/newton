@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-question4_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = input(\"please enter a decimal number\")<br>print (\"your number divided by 2 is equal to = \" + number/2)"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key2"
+  }
+]

@@ -1,0 +1,42 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "<i><span style=\"\">Save</span> your <span style=\"\">code</span> as a <span style=\"\">python</span> <span style=\"\">file</span> (with <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py extension</span>) and submit.</i>"
+	},
+	{
+		"component": "text",
+		"value": "This question is divided into different parts. All the <span style=\"\">code</span> has to be written and <span style=\"\">uploade</span>d in a single <span style=\"\">python</span> <span style=\"\">file</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Part 1"
+	},
+	{
+		"component": "text",
+		"value": "Take a number <span style=\"\">input</span> using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> and don't forget to convert it to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Part 2"
+	},
+	{
+		"component": "text",
+		"value": "Take a number <span style=\"\">input</span> using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span> and don't forget to convert it to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Part 3"
+	},
+	{
+		"component": "text",
+		"value": "Print the sum of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_a</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_b</span>."
+	}
+]

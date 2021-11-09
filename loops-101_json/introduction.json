@@ -1,0 +1,273 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What are <span style=\"\">loops</span>?"
+	},
+	{
+		"component": "text",
+		"value": "If we want to do a task again and again, so computers can help us with that task."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Not Translated"
+	},
+	{
+		"component": "text",
+		"value": "If I want to send mail to my 100 friends to inform about certain event. If I send the mails one by one it will be a very tedious task for me and I might commit a mistake also. With the help of <span style=\"\">loops</span> we can do this work very easily and efficiently."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Writing <span style=\"\">code</span> for <span style=\"\">loops</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 0<br>while counter < 5:<br>    print \"NavGurukul\"<br>    counter = counter + 1"
+	},
+	{
+		"component": "text",
+		"value": "In this <span style=\"\">code</span> :"
+	},
+	{
+		"component": "text",
+		"value": "Take a variable named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter</span> whose value is 0. Same thing is happening in the flowchart.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Then a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> loop statement is written with the condition <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter &lt; 5</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">While</span> statement means (till). So,<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> loop tells python that till the given condition <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>, you can run the loop.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "When the loop finishes, the code outside the while loop will run. To understand the run the code given below.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 0 <br>while counter < 5:<br>    print \"NavGurukul\"<br>    counter = counter + 1<br>print \"Yeh sirf ek baar print hoga\""
+	},
+	{
+		"component": "text",
+		"value": "If you run this <span style=\"\">code</span> so<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"NavGurukul\"</span>will be printed 5 times and last line is printed one time."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "One more example"
+	},
+	{
+		"component": "text",
+		"value": "Suppose we need to write a <span style=\"\">code</span> where we need to print the numbers divisible by 2 between 1 to 100."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 1<br>while counter < 100:<br>      if counter % 2 == 0:<br>            print counter<br>      counter = counter + 1"
+	},
+	{
+		"component": "image",
+		"value": "assets/example3.jpeg",
+		"alt": "Mobile Video Recorder"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "Here, we have taken the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter</span> as 1  as we have to print from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> and not from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0 to 99</span>."
+	},
+	{
+		"component": "text",
+		"value": "In this video, we will understand <span style=\"\">loops</span> and learn how to write their <span style=\"\">code</span>."
+	},
+	{
+		"component": "text",
+		"value": "Loops help us do the same things again and again. The same work can be done again and again.<br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Take an example of getting laptops from a car to the house. If there are 50 laptops in the car.<br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Explain this from the concept of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(till / until)</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Until</span> the laptops inside the home becomes 0 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">till</span> then take the laptops and keep them in the car."
+	},
+	{
+		"component": "text",
+		"value": "Do this work again and again.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "But till when we will do this work? This is decided by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">until</span>.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Whatever condition we put inside  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">until</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">till then</span> the loop runs.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Here, under the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">until</span> condition, we will write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">laptops &gt;= 10</span>.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Means when laptops become 10 or greater than 10 then stop doing the work.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is the work inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">until</span>?<br>The work inside until is to bring a laptop from home and keep it in the car.<br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "The moment this work is done one time, one laptop becomes less.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "We will write this in python.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Take the example of teaching this in python."
+	},
+	{
+		"component": "text",
+		"value": "Let's say the total number of laptops is 10. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Laptops = 0</span>, this variable will maintain the number of laptops.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Until the number of laptops becomes 10, till then bring the laptops from the home and keep it in the car.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while laptops &lt;= 10</span> means this work happens 10 times.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Our work is to keep the laptops in the car? print( \"One laptop kept in the car.\")",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Then how we will track that we have kept the laptop or done our work?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "or that we will add +1 to laptop variable means that much laptop we kept in the car.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Let's do the dry run of the same program to see if this works fine.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Second we will write the same program in the python visualizer to see if it works the same way as we thought it would. And now explain how the visualizer would run this code.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Similarly take another example of printing numbers from 1 to 20.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Take another example of how to print the even numbers from 20 to 40.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20 to 40</span> example talk about where to add the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statements</span>. Adding the<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statement outside and adding the if statement inside.</span> (This also needs to be shown on how writing if statements inside and outside will create a difference.). <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">i+1 and %</span>should be used.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Take the same example to print the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> between <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20 to 40</span>. But here do <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">i+2</span> to do it.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	}
+]

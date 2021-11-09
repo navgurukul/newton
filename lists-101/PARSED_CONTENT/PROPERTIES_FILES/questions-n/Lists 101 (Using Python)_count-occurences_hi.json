@@ -1,0 +1,9 @@
+{
+    "count-occurences_key1": "## अवसरों की गणना करें\n\n\n",
+    "count-occurences_key2": "**अवसर** - `occur` शब्द से बना है जिसका अर्थ है कि एक निश्चित वर्ण या शब्द कितनी बार प्रकट होता है।\n",
+    "count-occurences_key3": "**नमूना सूची**\n",
+    "count-occurences_key4": "**नमूना सूची के `Output`**\n",
+    "count-occurences_key5": "हमें `char_list` में मौजूद वर्णों के `occurences` की गणना करनी है और हमें `nested list` में `save` करना है, फिर हमें `output` को प्रिंट करने के लिए उस नेस्टेड सूची का उपयोग करना होगा।\n",
+    "count-occurences_key6": "### `Edge Case`\n\n",
+    "count-occurences_key7": "#### समाधान\n\n"
+}

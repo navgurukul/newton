@@ -1,0 +1,38 @@
+[
+  {
+    "component": "text",
+    "value": "Question14_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question14_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question14_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question14_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question14_key5"
+  },
+  {
+    "component": "text",
+    "value": "Question14_key6"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var n = [10, 11, 12, 13, 14, 17, 18, 19]<br>var number =30;<br>output=[]<br>for(var i of n){<br>   for(var j of n){<br>       if (i+j === number){<br>           output.push([i,j])<br>       }<br>  }<br>}<br>console.log(output);"
+  }
+]

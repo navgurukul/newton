@@ -1,0 +1,61 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Debug Code</span>"
+	},
+	{
+		"component": "text",
+		"value": "Let us <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> a few examples."
+	},
+	{
+		"component": "text",
+		"value": "A."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = \"Megha\"<br>print a"
+	},
+	{
+		"component": "text",
+		"value": "B. "
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=\"navgurukul\"<br>b= 2016<br>print(a+\",\" + b + \"me shuru hua tha\")"
+	},
+	{
+		"component": "text",
+		"value": "C. "
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=\"navgurukul\"<br>b=13<br>print(a+b)"
+	},
+	{
+		"component": "text",
+		"value": "D."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=\"12\"<br>b=13.1<br>print(a+b)"
+	},
+	{
+		"component": "text",
+		"value": "E."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = boolean(\"\")<br>b = boolean(\" \")<br>print(a+b)"
+	}
+]

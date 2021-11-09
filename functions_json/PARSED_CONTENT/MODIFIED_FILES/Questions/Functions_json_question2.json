@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "question2_key2"
+  },
+  {
+    "component": "text",
+    "value": "question2_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "6 ek perfect number hai 6=1+2+3."
+  },
+  {
+    "component": "text",
+    "value": "question2_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "6,28,496"
+  }
+]

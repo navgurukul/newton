@@ -1,0 +1,9 @@
+{
+	"Question-6_key1": "Write a program that calculates the sum of the values of an object.",
+	"Question-6_key2": "Example :",
+	"Question-6_key3": "<span style=\"\">Input</span> :",
+	"Question-6_key4": "my_dict = {",
+	"Question-6_key5": "'data1':100,<br><br>'data2': -54,<br><br>'data3': 247<br><br>}",
+	"Question-6_key6": "<span style=\"\">Output</span> :-",
+	"Question-6_key7": "293"
+}

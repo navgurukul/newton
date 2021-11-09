@@ -1,0 +1,25 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 3"
+	},
+	{
+		"component": "text",
+		"value": "Below is a program in which the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> are between <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 15</span> and the values ​​are the squares of the <span style=\"\">keys</span>."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">output</span> should be something like this:-<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;br&gt;{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64,&lt;br&gt;9: 81, 10: 100, 11: 121, 12: 144, 13: 169, 14: 196, 15: 225}</span>"
+	},
+	{
+		"component": "text",
+		"value": "Now, you have to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> this :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "c=dict()<br>for i in range(1,16):<br>    c=i*i<br>print(c)"
+	}
+]

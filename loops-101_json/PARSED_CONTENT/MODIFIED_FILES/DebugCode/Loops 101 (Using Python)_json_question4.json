@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "question4_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 0<br>num = int(input(\"Enter your number:- \"))<br>while(i <= num):<br>    if(num > 0):<br>        print(it is positive)<br>    elif(num < 0):<br>        print(it is negetive)<br>    else :<br>        print(zero)<br>    i = i + 1<br>"
+  }
+]

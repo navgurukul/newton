@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 3"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 2<br>while (i<num):<br>    if (num%i == 0):<br>        print(num, 'is not a prime number')<br>        break<br>    i = i + 1<br>else:<br>    print(num, 'is a prime number')<br>"
+	}
+]

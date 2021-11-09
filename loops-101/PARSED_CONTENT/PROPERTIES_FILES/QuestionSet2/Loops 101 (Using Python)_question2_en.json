@@ -1,9 +1,9 @@
 {
-	"question2_key1": "# Question 2\n\n\n",
-	"question2_key2": "Ek program banao jo 1 se 100 tak ke numbers ke saath yeh kare:\n",
-	"question2_key3": "Jo `3` se divisible hain unki jagah \"Nav\" print kare\n",
-	"question2_key4": "Jo `7` se divisible hain unki jagah \"Gurukul\" print kare\n",
-	"question2_key5": "Jo `3` aur `7` dono se divisible hain, unki jagah \"NavGurukul\" print karein\n",
-	"question2_key6": "Jo upar wale teen cases mein nahi aate, unki jagah sirf number print karvao.\n\n\n",
-	"question2_key7": "Aapki `output` mein kuch aisa aana chaiye.\n"
+	"question2_key1": "Question 2\n",
+	"question2_key2": "Make a program that should do the following thing from `1 to 100`.\n",
+	"question2_key3": "Numbers that are divisible by `3`, you have to print \"`Nav\"`. \n\n",
+	"question2_key4": "Numbers that are divisible by `7` so that `\"Gurukul\"` is printed.\n",
+	"question2_key5": "Numbers that are divisible by both `3` and `7`, print `\"NavGurukul\"` there.\n\n",
+	"question2_key6": "If the number does not come in the above three cases then print the number only.\n\n\n",
+	"question2_key7": "Your `output` should look like this.\n"
 }

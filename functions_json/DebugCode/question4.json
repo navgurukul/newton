@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Neeche diye huye <span style=\"\">codes</span> mai kuch bugs hai. Ab aapko <span style=\"\">error</span> find kar ke unhe solve karne hai.(number of bugs)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def voter(age):<br>if age < 18:<br>    print(\"eligible\")<br>else:<br>    print(\"not eligible\")<br>    voter(20)<br>"
+	}
+]

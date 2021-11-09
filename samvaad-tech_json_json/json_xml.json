@@ -1,0 +1,1714 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"JSON\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Json ek aasaan text-based open source data-interchange ka format hai . yah pooree tarah se independent language hai aur is ka jyadatar hisaa modern programming languages ke saath use kiya ja sakata hai .\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"json javascript object notation par sthir hai . json object server aur client ke beech data ko transfer karane ke lie upayog kiya jaata hai ."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "json xml par kaee phaayade hain haalaanki xml ek hee purpose ke lie work karata hai ."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "json &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">file</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "ko .json extension se banaya jaata hai . json ka internet media type "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">application</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "/json"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "hai ."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "json array,object, &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">string</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": ", number aur values ko supports karata hai\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"bMqevPKAPD4\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 2,<br>        \"value\": \"JSON Example\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"aapako is example se maloom hoga ki apane topic aur edition ke aadhaar par books se sambandhit jaanakaaree store karane ke lie json ka upayog kaise karate hai.\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"other\",<br>        \"title\": \"\",<br>        \"value\": \"{"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "book"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": ["
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "id"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "01"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ","
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "language"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Java"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ","
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "edition"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "First"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ","
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "author"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "‎James Gosling"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">  },\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">  {\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "id"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "07"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ","
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "language"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "C++"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ","
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "edition"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "second"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ","
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "author"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "E.Balagurusamy"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">  }\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "]"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "}\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"uparokt example dekhane ke baad aap neeche ek aur example dekh sakate hai jisko json.htm ke roop mein &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">save</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "kiya gaya hai .\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"other\",<br>        \"title\": \"\",<br>        \"value\": \""
+	},
+	{
+		"component": "text",
+		"value": "<html>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<head>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<title>"
+	},
+	{
+		"component": "text",
+		"value": "JSON Example"
+	},
+	{
+		"component": "text",
+		"value": "</title>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">  &lt;script language = \n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "javascript"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "&gt;"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     var object1 = { \n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "language"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Java"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "author"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "James Gosling"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "};"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<h1>"
+	},
+	{
+		"component": "text",
+		"value": "JSON with JavaScript example"
+	},
+	{
+		"component": "text",
+		"value": "</h1>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<h3>"
+	},
+	{
+		"component": "text",
+		"value": "Language = "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<ul>\n<li>object1.language+</li>\n</ul>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "</h3>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<h3>"
+	},
+	{
+		"component": "text",
+		"value": "Author = "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<ul>\n<li>object1.author+</li>\n</ul>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "</h3>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");   "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     var object2 = { \n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "language"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "C++"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "author"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ": "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "E-Balagurusamy"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "};"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<h3>"
+	},
+	{
+		"component": "text",
+		"value": "Language = "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<ul>\n<li>object2.language+</li>\n</ul>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "</h3>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<h3>"
+	},
+	{
+		"component": "text",
+		"value": "Author = "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<ul>\n<li>object2.author+</li>\n</ul>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "</h3>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");   "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<hr />"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ");"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(object2.language + \n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "programing language will be studied "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">        + \n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "from book written by "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<ul>\n<li>object2.author);</li>\n</ul>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">     document.write(\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<hr />"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ")  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "</script>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "</head>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<body>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "</body>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "</html>"
+	},
+	{
+		"component": "text",
+		"value": "\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"XML\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"xml ka upayog vyaapak roop se data-interchange pattarn ke roop mein bhi kiya jaata hai. isalie ham un donon ke beech compare karane kee koshish karenge .\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"hamaara compare karane ka purpose yah nahin hai ki kaun nishchit roop se us line mein nahin hai balki ham yah samajhane kee koshish karenge ki kaun sa specefic data store karane ke lie upyukt hai .\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"xml json ke compare mein bahut adhik complex hai .\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 1<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"xml ke lie schhaim(metadata) ko discribe karane ke lie kai characteristics hain.\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 2<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"xml mein xml data se query karane ke lie Xquery specify hai.lekin json maano JAQL, JSONiq aadi shaamil hote hai lekin ye general roop se upayog nahin hote hai.\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 3<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"xml mein XSLT ko specification kiya gaya hai.jo kisee bhee xml document mein ek style ko laagoo karane ke lie upayog kiya ja sakata hai. haalaanki json mein kuchh nahin hai."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 4<br>        }<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"Do log ko mil kar sabse pehle yeh videos dekhni hai\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"F7a_6r575RQ\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 2,<br>        \"value\": \"JSON Example\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"other\",<br>        \"title\": \"\",<br>        \"value\": \"{"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "employees"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":[  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "name"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Alia"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "email"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "alia050@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "},  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "name"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Kareena"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "email"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "kareenal12@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "},  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<pre><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{\n</span></pre>"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "name"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "Salman"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ", "
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "email"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "salman0202@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "}  "
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "]}\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 2,<br>        \"value\": \"XML Example\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"other\",<br>        \"title\": \"\",<br>        \"value\": \""
+	},
+	{
+		"component": "text",
+		"value": "<employees>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<employee>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<name>"
+	},
+	{
+		"component": "text",
+		"value": "Alia"
+	},
+	{
+		"component": "text",
+		"value": "</name>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<email>"
+	},
+	{
+		"component": "text",
+		"value": "alia050@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "</email>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "</employee>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<employee>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<name>"
+	},
+	{
+		"component": "text",
+		"value": "Kareena"
+	},
+	{
+		"component": "text",
+		"value": "</name>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<email>"
+	},
+	{
+		"component": "text",
+		"value": "kareenal12@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "</email>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "</employee>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<employee>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<name>"
+	},
+	{
+		"component": "text",
+		"value": "Salman"
+	},
+	{
+		"component": "text",
+		"value": "</name>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<email>"
+	},
+	{
+		"component": "text",
+		"value": "salman0202@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "</email>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "</employee>"
+	},
+	{
+		"component": "text",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "</employees>"
+	},
+	{
+		"component": "text",
+		"value": "\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 1,<br>        \"value\": \"Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"What is Json?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 1<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"What is XML?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 2<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Json aur XML mai antar kya hain?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 3<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Xml Html se kaise alag hain?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 4<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"XML ke benifits kya hain?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 5<br>        }<br>    }<br>]"
+	}
+]

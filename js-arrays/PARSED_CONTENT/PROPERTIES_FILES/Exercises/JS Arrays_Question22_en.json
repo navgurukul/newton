@@ -1,0 +1,7 @@
+{
+	"Question22_key1": "var mainStr = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"\n",
+	"Question22_key2": "subStr = \"over\"\n",
+	"Question22_key3": "You need to remove the all occurrences of subStr in mainStr and give the `output`\n",
+	"Question22_key4": "`Output`: the quick brown fox jumped the lazy dog. The dog slept on the verandah.\n",
+	"Question22_key5": "**For the next course [clickHere](https://www.merakilearn.org/course/150/exercise/3635)**\n"
+}

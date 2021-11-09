@@ -1,0 +1,680 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Class 11 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: "
+	},
+	{
+		"component": "text",
+		"value": "What is your favorite festival ?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why is it your favorite festival ?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "What do you do during the festival ?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is the importance of that festival ?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "The objective of this activity is to introduce or revisit tenses SIMPLE TENSES.<br>You can start with explaining what is a tense, and the difference between the simple tenses - Past, Present, Future.<br>What is a tense: A tense is a verb that helps us<br>understand time in grammar.<br>Past Tense - Things that already happened<br>Present Tense - Things that are happening now<br>Future Tense - Things that are going to happen."
+	},
+	{
+		"component": "text",
+		"value": "The main function of a verb is to indicate when the action happens. There are three main verb tenses; <br>past, present and future. Each tense is divided into; simple, continuous, perfect and perfect continuous. In this lesson, we will only focus on the simple tenses in the past, present and future.<br>The present tense of a verb is the 'original' form. The past tense can have different patterns. The future simple is formed with 'will'.<br>You can use the following <span style=\"\">statements</span> to practice with the student. Point out how a correct word or phrase can be used to show the time of the action along with<br>the verb. Example: yesterday, today, later, tomorrow, a year from now etc."
+	},
+	{
+		"component": "text",
+		"value": "Verb: Have"
+	},
+	{
+		"component": "text",
+		"value": "I had a shower yesterday. (Past simple)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I have a shower every day. (Present simple)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "I will have a shower later. (Future simple)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Verb: Run"
+	},
+	{
+		"component": "text",
+		"value": "I ran five kilometres yesterday. (Past simple)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I run very fast. (Present simple)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "I will run tomorrow morning. (Future simple)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "*It is important to remember that in the Present simple with ‘he’, ‘she’, and ‘it’ add an ‘s’ to the verb."
+	},
+	{
+		"component": "text",
+		"value": "Verb: Like"
+	},
+	{
+		"component": "text",
+		"value": "He liked the film. (Past simple)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "He likes swimming (Present simple)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "He will like the party. (Future simple)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercise 1: Identify the verb followed by the tense."
+	},
+	{
+		"component": "text",
+		"value": "They searched far and wide. (searched – simple past tense)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I will rescue the child. (will rescue – simple future tense)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The children chased the dogs. (chased – simple past tense)",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "The sun will get hotter and hotter at the center. (will get – simple future tense)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "She recognized him at once. (recognized – simple past)",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I have a dog and a cat. (have -simple present)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercise 2: Fill in the blanks with correct tense:"
+	},
+	{
+		"component": "text",
+		"value": "Verb: see"
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> Chris yesterday.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I ____ Chris at work everyday.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> Chris at the party this evening. <br>Verb: Eat",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "She ____ her lunch outside. (eats/ate)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "She ____ lunch at the restaurant near her office everyday. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "She <b>_</b> with me tomorrow.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Verb: Know (Give the student the tense and ask<br>for the correct form of the verb)"
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> her when I was a child. (Past simple -<br>Knew)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> your Father. (Present simple - know)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b><i></b></i> what to do later. (Future simple- will know)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Verb: Cook (Give the student the tense and ask for<br>the correct form of the verb)"
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> dinner. (Past simple- cooked)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I ____ dinner. (Present simple- cook)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> dinner tomorrow. (Future simple: will cook)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Create (verb)<br>Meaning : to make something new, or invent something:"
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "He created a wonderful meal from very few<br>ingredients.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The new business will create hundreds of jobs in the<br>area.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share:<br>5. What is your favorite festival ?<br>6. Why is it your favorite festival ?<br>7. What do you do during the festival ?<br>8. What is the importance of that festival ?"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "The objective of this activity is to introduce or revisit tenses SIMPLE TENSES.<br>What is a tense, and the difference between the simple tenses - Past, Present, Future."
+	},
+	{
+		"component": "text",
+		"value": "What is a tense: A tense is a verb that helps us understand time in grammar."
+	},
+	{
+		"component": "text",
+		"value": "Past Tense - Things that already happened"
+	},
+	{
+		"component": "text",
+		"value": "Present Tense - Things that are happening now"
+	},
+	{
+		"component": "text",
+		"value": "Future Tense - Things that are going to happen."
+	},
+	{
+		"component": "text",
+		"value": "The main function of a verb is to indicate when the action happens. There are three main verb tenses;past, present and future. Each tense is divided into; simple, continuous, perfect and perfect continuous. In this lesson, we will only focus on the simple tenses in the past, present and future. The present tense of a verb is the 'original' form. The past tense can have different patterns. The future simple is formed with 'will'."
+	},
+	{
+		"component": "text",
+		"value": "You can use the following <span style=\"\">statements</span> to practice with the student. Point out how a correct word or phrase can be used to show the time of the action along with the verb. "
+	},
+	{
+		"component": "text",
+		"value": "Example: yesterday, today, later, tomorrow, a year from now etc."
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: Have</b>"
+	},
+	{
+		"component": "text",
+		"value": "I had a shower yesterday. (Past simple)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "I have a shower every day. (Present simple)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I will have a shower later. (Future simple)<br><br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: Run</b>"
+	},
+	{
+		"component": "text",
+		"value": "I ran five kilometres yesterday. (Past simple)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "I run very fast. (Present simple)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I will run tomorrow morning. (Future simple)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "*It is important to remember that in the Present simple with ‘he’, ‘she’, and ‘it’ add an ‘s’ to the verb."
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: Like</b>"
+	},
+	{
+		"component": "text",
+		"value": "He liked the film. (Past simple)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "He likes swimming (Present simple)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "He will like the party. (Future simple)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercise 1: Ask the student to identify the verb followed by the tense."
+	},
+	{
+		"component": "text",
+		"value": "They searched far and wide. (searched – simple past tense)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I will rescue the child. (will rescue – simple future tense)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The children chased the dogs. (chased – simple past tense)",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "The sun will get hotter and hotter at the center. (will get – simple future tense)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "She recognized him at once. (recognized – simple past)",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I have a dog and a cat. (have -simple present)<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercise 2: Fill in the blanks with correct tense:"
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: see</b>"
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> Chris yesterday. <br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "I ____ Chris at work everyday. <br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> Chris at the party this evening. <br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: Eat</b>"
+	},
+	{
+		"component": "text",
+		"value": "She ____ her lunch outside. (eats/ate)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "She ____ lunch at the restaurant near her office everyday. <br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "She <b>_</b> with me tomorrow.<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: Know</b> (Give the student the tense and ask for the correct form of the verb)"
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> her when I was a child. (Past simple - Knew)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> your Father. (Present simple - know)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b><i></b></i> what to do later. (Future simple- will know)<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Verb: Cook</b> (Give the student the tense and ask for the correct form of the verb)"
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> dinner. (Past simple- cooked)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "I ____ dinner. (Present simple- cook)<br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b>_</b> dinner tomorrow. (Future simple: will cook)<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "<b>Thrive(verb)</b><br>Definition : to grow vigorously"
+	},
+	{
+		"component": "text",
+		"value": "Examples:<br>These plants thrive with relatively little sunlight"
+	},
+	{
+		"component": "text",
+		"value": "<b>Thriving ( adjective)</b>"
+	},
+	{
+		"component": "text",
+		"value": "very healthy or successful",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "very successful and developing well<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>The dog is thriving in its new home.<br>Our new business selling soap is thriving due to the<br>current situation."
+	}
+]

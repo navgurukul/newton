@@ -1,0 +1,149 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-code-intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "day = raw_input(\"Din enter karo\\n\")<br>if day == \"monday\": # Agar din Monday hai toh<br>    print \"Rajma Chawal\"<br>elif day == \"tuesday\": # Agar uppar wali conditions galat hai (Yaani day Monday nahi hai) aur day Tuesday hai toh<br>    print \"Pao Bhaji\"<br>elif day == \"wednesday\": # Agar uppar wali conditions galat hai (Yaani day Monday aur Tuesday nahi hai) aur day Wednesday hai toh<br>    print \"Chole Bhature\"<br>elif day == \"thursday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday aur Wednesday nahi hai) aur day Thursday hai toh<br>    print \"Dosa\"<br>elif day == \"friday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh<br>    print \"Litti Chokha\"<br>elif day == \"saturday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh<br>    print \"Thukpa\"<br>else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)<br>    print \"Poha\""
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-code-intro_key4"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-code-intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key7"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key8",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key9",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key10",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key11",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key12",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key13"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-code-intro_key14"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "value = \"delhi\"<br>guess = raw_input(\"Sheher ka naam guess karo> \")<br>if guess != value:<br>    print \"Aapka guess galat hai\"<br>else:<br>    print \"Aapka guess sahi hai\""
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-code-intro_key16"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "speed = raw_input(\"Gaadi ki kya speed thi?\")<br>speed = int(speed)<br>if speed <= 60:<br>    print \"Gaadi speed limit ke andar thi.\"<br>else:<br>    print \"Gaadi speed limit ke bahar thi.\""
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-code-intro_key18"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key19"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-code-intro_key20"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key21"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key22"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key23"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "day = raw_input(\"Din enter karo> \")<br>meal = raw_input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\"<br>    # code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>    if meal == \"breafast\":<br>        print \"Poha\"<br>    elif meal == \"lunch\":<br>        print \"Rajma Chawal\"<br>    else:<br>        print \"Roti Sabzi\"<br>elif day == \"tuesday\":<br>    if meal == \"breakfast\":<br>        print \"Poori Sabzi\"<br>    elif meal == \"lunch\":<br>        print \"Thukpa\"<br>    else:<br>        print \"Chicken Chawal\"<br>else:<br>    print \"Aur kisi bhi din hum daal roti sabzi khaynege.\""
+  },
+  {
+    "component": "text",
+    "value": "if-statement-code-intro_key24"
+  }
+]

@@ -1,8 +1,8 @@
 {
-	"intro_key1": "name: Operators \nsubmission_type: url\n",
+	"intro_key1": "What are `Operators`?\n",
 	"intro_key2": "We use `operators` to perform some operation (calculation or change in the value of) between `variables`. Just like '+' in maths is an addition `operator`, similarly there are `operators` in `Python`.\n",
-	"intro_key3": "**Example**\n",
-	"intro_key4": "**`Output`**\n",
+	"intro_key3": "Example :-\n",
+	"intro_key4": "`Output` :-\n",
 	"intro_key5": "`11`\n",
-	"intro_key6": "In the above example, we have added the values of the `variables` a and b with the help of '+' that is addition `operator`.\nHere, a and b are the operands while `+` is the `operator`, so the `variables` that are used with an `operator` are called `operands`.\n"
+	"intro_key6": "In the above example, we have added the values of the `variables` `a` and `b` with the help of `+` that is `addition operator`.\nHere, a and b are the operands while `+` is the `operator`, so the `variables` that are used with an `operator` are called `operands`.\n"
 }

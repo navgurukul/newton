@@ -13,6 +13,7 @@ while(i <= 10):
     print(i)
 ```
 continue_key3
+continue_key4
 
 
 
@@ -33,7 +34,5 @@ while (counter < len(string)):
 
 print("The end", string[counter])
  ```
-continue_key4
-
-
+continue_key5
 @[youtube](https://www.youtube.com/watch?v=rOfNF7gj5t0)

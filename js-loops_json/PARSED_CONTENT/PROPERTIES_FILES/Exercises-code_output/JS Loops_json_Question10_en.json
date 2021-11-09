@@ -1,0 +1,6 @@
+{
+	"Question10_key1": "console this pattern using a <span style=\"\">loop</span>. 1, -2, 3, -4, 5, -6 ..99, -100",
+	"Question10_key2": "Hint",
+	"Question10_key3": "Notice how the first number is positive, the second number negative, then the positive number and then the negative number. Pattern means positive (+) number, negative (-) number, positive (+) number, negative (-) number etc. And remember that we can make any number negative of any number by multiplying it by -1. ",
+	"Question10_key4": "Can you write this program using this hint?"
+}

@@ -1,7 +1,3 @@
-﻿```ngMeta
-name: Introduction
-```
-
 **Introduction of Python in English :-**
 
 @[youtube](UlpurGz1-TU) 

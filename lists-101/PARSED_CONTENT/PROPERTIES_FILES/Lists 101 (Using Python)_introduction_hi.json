@@ -1,0 +1,17 @@
+{
+    "introduction_key1": "## सूचियों से हमारा क्या तात्पर्य है?\n\n\n",
+    "introduction_key2": "आपने शायद `string`, `integer`, `float` और `booleans` डेटा प्रकारों के बारे में पढ़ा होगा। इन्हें `primitive data types` कहा जाता है जहां `primitive` का अर्थ है `simple` डेटा प्रकार। हम `�omplex data types` बनाने के लिए `primitive data types` का उपयोग कर सकते हैं। `List` `complex data type` में से एक है।\n",
+    "introduction_key3": "### व्यायाम\n\n\n",
+    "introduction_key4": "आप अपने जीवन में कौन से 10 काम करना चाहते हैं, इसकी सूची बनाएं।\n",
+    "introduction_key5": "अब, इसे एक `python `variable`` में स्टोर करें।\n\n\n",
+    "introduction_key6": "इस तरह आपको काफी `information in the form of a list` मिलेगा। उदाहरण :-\n",
+    "introduction_key7": "किराने के सामान की एक सूची बनाएं जिसे आप खरीदना चाहते हैं।\n",
+    "introduction_key8": "उन पाठ्यक्रमों की सूची बनाएं जो आप नवगुरुकुल में कर सकते हैं।\n",
+    "introduction_key9": "उन प्रश्नों की सूची बनाएं जो आपको दिए गए पाठ्यक्रम में करना है।\n",
+    "introduction_key10": "उन सभी अच्छी आदतों की सूची बनाएं जो आपके पास हैं।\n",
+    "introduction_key11": "उन कंपनियों की सूची जहां आप काम करना चाहते हैं।\n",
+    "introduction_key12": "परिसर में उपस्थित छात्रों की सूची।\n",
+    "introduction_key13": "परिषद के सदस्यों की सूची\n\n\n",
+    "introduction_key14": "आदि।\n",
+    "introduction_key15": "हम देखेंगे कि हमारे लिए `List Data Type and List Data Structure` का अध्ययन करना कितना महत्वपूर्ण है।\n"
+}

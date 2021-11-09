@@ -5,6 +5,7 @@ examples_key2
 examples_key3
 
 
+
 examples_key4
 examples_key5
 
@@ -65,26 +66,28 @@ while i >= 350:
 ```
 examples_key15
 examples_key16
+
+
 examples_key17
 ```python
 a = -1
 while a >= (-10):
-	print (-a)
-	a = a -1
+  print (-a)
+  a = a -1
 ```
 
 examples_key18
 ```python
 a = 1 
 while a <= 10:
-	print (a)
-	a = a-(-1)
+  print (a)
+  a = a-(-1)
 ```
 
 examples_key19
 ```python
 a = 1
 while a !=11:
-	print (a)
-	a-=-1
+  print (a)
+  a-=-1
 ```

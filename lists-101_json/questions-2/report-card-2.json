@@ -1,0 +1,62 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Report Card - Part II"
+	},
+	{
+		"component": "text",
+		"value": "Please see this list :"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65, 76],<br>    [95, 45, 78, 52, 49]<br>]"
+	},
+	{
+		"component": "text",
+		"value": "This is the list of marks of a student for the last three years. You have to calculate the average marks for each year.<br>Like, for the above list, the <span style=\"\">output</span> should be as follows:- <br>   Average of 1 year  - 84<br>   Average of 2 year  - 80<br>   Average of 3 year  - 63"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Cases</span>"
+	},
+	{
+		"component": "text",
+		"value": "Check your program for following <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested lists</span> as well ( the <span style=\"\">code</span> should run without changing the <span style=\"\">code</span>, if it does not runs properly thatt means you have not written the <span style=\"\">code</span> properly :"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65],<br>    [95, 45, 78]<br>]"
+	},
+	{
+		"component": "text",
+		"value": "Through your <span style=\"\">code</span> the <span style=\"\">output</span> of the above list should be as follows :"
+	},
+	{
+		"component": "text",
+		"value": "Average of 1 year - 84<br>Average of 2 year - 81<br>Average of 3 year - 72"
+	},
+	{
+		"component": "text",
+		"value": "This list should run without any <span style=\"\">error</span>, if your program is <b>robust</b> :"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65],<br>    [95, 45, 78],<br>    [87, 67, 49, 68, 88]<br>]"
+	},
+	{
+		"component": "text",
+		"value": "Through your <span style=\"\">code</span> the solution of the above <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> should be as follows :"
+	},
+	{
+		"component": "text",
+		"value": "Average of 1 year - 84<br>Average of 2 year - 81<br>Average of 3 year - 72<br>Average of 4 year - 71"
+	}
+]

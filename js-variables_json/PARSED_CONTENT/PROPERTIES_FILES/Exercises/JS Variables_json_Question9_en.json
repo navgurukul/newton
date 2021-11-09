@@ -1,0 +1,4 @@
+{
+	"Question9_key1": "Use backslashes to assign a <span style=\"\">string</span> to the myStr <span style=\"\">variable</span> so that if you were to print it to the console, you would see:",
+	"Question9_key2": "I am a ‘single quoted’ <span style=\"\">string</span> inside ‘single quotes’."
+}

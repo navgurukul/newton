@@ -1,7 +1,4 @@
-```ngMeta
 comments_key1
-```
-
 comments_key2
 
 
@@ -15,5 +12,6 @@ print ("This line will also be printed")
 # We write these lines as programmers, for our own ease. Computer ignores them.
 print ("Computer will not be able to read above comments,but will print this line.")
 ```
+
 comments_key4
 comments_key5

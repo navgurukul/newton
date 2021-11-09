@@ -1,7 +1,3 @@
-﻿```ngMeta
-name: How to begin?
-```
-
 # How to begin this course?
 
 How to use Python? Please see this video to understand.

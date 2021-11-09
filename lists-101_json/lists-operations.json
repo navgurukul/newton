@@ -1,0 +1,323 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What can we do with Lists?"
+	},
+	{
+		"component": "text",
+		"value": "In this exercise, we will try to understand how do we use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LISTS</span>. Just as we saw that a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> contains a collection of values. So we need to find a way, that how can we access these values."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print names_list[1]"
+	},
+	{
+		"component": "text",
+		"value": "What happened when we wrote <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nameslist[1]</span>? Did \"shivam\" got printed? "
+	},
+	{
+		"component": "text",
+		"value": "Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[1]</span> is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INDEX</span>. To access any item of a list, we use the INDEX of that item. Let us see what is the index of all the items in the given list."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">annu</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 0",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">shivam</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 1",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">deepa</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 2",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pooja</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 3",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">rupa</span> has <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> 4<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "If you see carefully, then you will notice that the INDEX of that ITEM is one less than its position. The counting of the INDEX starts from 0, not from 1."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "[\"annu\",",
+				"items": [
+					"0"
+				]
+			},
+			{
+				"header": "\"shivam\",",
+				"items": [
+					"1"
+				]
+			},
+			{
+				"header": "\"deepa\",",
+				"items": [
+					"2"
+				]
+			},
+			{
+				"header": "\"pooja\",",
+				"items": [
+					"3"
+				]
+			},
+			{
+				"header": "\"rupa\"]",
+				"items": [
+					"4"
+				]
+			}
+		]
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br><br>print names_list[0] # se \"annu\" print hoga<br><br>print names_list[4] # se \"rupa\" print hoga<br><br>print names_list[5]"
+	},
+	{
+		"component": "text",
+		"value": "Does the last line gives you <span style=\"\">error</span> ? "
+	},
+	{
+		"component": "blockquote",
+		"value": "list index out of range"
+	},
+	{
+		"component": "text",
+		"value": "Simply means - whatever <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INDEX</span> you have given, that INDEX is out of range of the given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indices</span> of list. (indices - plural of index)."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "What is the maximum INDEX that we can put? "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Answer"
+	},
+	{
+		"component": "text",
+		"value": "1 less than the length of the INDEX. If we will put more value than the range of the index, then <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index out of range</span> <span style=\"\">error</span> will come."
+	},
+	{
+		"component": "text",
+		"value": "Try to google this <span style=\"\">error</span> and understand about it. This <span style=\"\">error</span> will not leave you ;), its better that you understand it now only."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Changing List Items"
+	},
+	{
+		"component": "text",
+		"value": "In the same way we can update/change the ITEMS in a given LIST."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list[0] = \"abhishek\"<br>print names_list"
+	},
+	{
+		"component": "text",
+		"value": "Did you notice anything? The ITEM present at 0 INDEX has now been changed to \"abhishek\". Similarly, run this <span style=\"\">code</span> now."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list[3]=\"rishabh\"<br>print names_list"
+	},
+	{
+		"component": "text",
+		"value": "The ITEM that was present at  INDEX 3 has now changed to \"rishabh\". Keep in mind that INDEX is 1 less than the position of the item. Similarly, if you write something as given below :"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list[5]=\"dhruv\""
+	},
+	{
+		"component": "text",
+		"value": "So, you will get a list index out of range <span style=\"\">error</span>, because at the 5th index no item exists. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Length of List and Adding values of the List"
+	},
+	{
+		"component": "text",
+		"value": "If we want to see the length of the list then we use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len ()</span> (length function)."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\"]<br>print len(names_list)"
+	},
+	{
+		"component": "text",
+		"value": "If we want to add one new value to a list then we will use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append</span> function. By using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append()</span>, we can add an element at the end of the list."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print names_list<br>names_list.append(\"dhruv\")<br>print \"length of the list is \", len(names_list)<br>print names_list"
+	},
+	{
+		"component": "text",
+		"value": "Here, you can see that previously the list length was <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5</span> but after using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">append()</span>, the length of the list became <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6</span>. When you printed <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span> then the value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dhruv</span> was added in the last."
+	},
+	{
+		"component": "text",
+		"value": "Let's append once again."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list.append(\"alok\")<br>print \"length of the list is \", len(names_list)<br>print names_list"
+	},
+	{
+		"component": "text",
+		"value": "In this way, you can add as many elements as you want."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Removing Elements from a List"
+	},
+	{
+		"component": "text",
+		"value": "Just as we can add elements to the list, similarly we can remove elements from the list we can use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop()</span>. To remove the last element from the list we can use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop</span> function."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list = [\"annu\", \"shivam\", \"deepa\", \"pooja\", \"rupa\", \"dhruv\", \"alok\"]<br>names_list.pop()<br>print \"length of the list is \", len(names_list)<br>print names_list"
+	},
+	{
+		"component": "text",
+		"value": "Try to print it and see if the last element is removed or not. Let's try to one more element from the list."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "names_list.pop()<br>print \"length of the list is \", len(names_list)<br>print names_list"
+	},
+	{
+		"component": "text",
+		"value": "You can use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop</span> function with an argument also on a given list. That means you can also add <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">index</span> to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop function</span>, which will remove the desired element of the given index from the list. "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print \"length of the list is \", len(names_list), names_list<br>names_list.pop(2)<br>print \"length of the list is \", len(names_list), names_list<br>names_list.pop(2)<br>print \"length of the list is \", len(names_list), names_list"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Check if Element exists in List"
+	},
+	{
+		"component": "text",
+		"value": "We can do a lot of interesting operations on the list. One of the important operations of lists is to check whether a particular element is present in the given ITEM LIST or not."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "\"shivam\" in names_list"
+	},
+	{
+		"component": "text",
+		"value": "Its result will come as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> because \"shivam\" element exists in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "\"imtiyaz\" in names_list"
+	},
+	{
+		"component": "text",
+		"value": "Its result will come as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> because \"imtiyaz\" element does not exist in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">names_list</span>."
+	},
+	{
+		"component": "text",
+		"value": "As this is a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean value</span>, it will return (<span style=\"\">True</span>/<span style=\"\">False</span>), we can also use it with the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statement</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "if \"shivam\" in names_list:<br>    print \"Shivam ka naam names_list mei hai\"<br>else:<br>    print \"Shivam ka naam names_list mei nahi hai.\""
+	},
+	{
+		"component": "text",
+		"value": "<i>Do you still remember what all we studied in the last Boolean lesson?</i>"
+	}
+]

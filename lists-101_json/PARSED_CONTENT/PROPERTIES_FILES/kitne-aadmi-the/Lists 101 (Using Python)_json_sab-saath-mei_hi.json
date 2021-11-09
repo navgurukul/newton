@@ -1,0 +1,11 @@
+{
+    "sab-saath-mei_key1": "सभी एक साथ",
+    "sab-saath-mei_key2": "<span style=\"\">code</span> लिखें जो सभी सूचियों के लिए काम करता है। यह सब <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> के लिए की तरह निम्नलिखित <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> और सभी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> और दी गई सूची में सभी नंबरों के लिए, यह निम्न गणना चाहिए के रूप में <span style=\"\">output</span> मुद्रित करना चाहिए:",
+    "sab-saath-mei_key3": "गिनती",
+    "sab-saath-mei_key4": "योग",
+    "sab-saath-mei_key5": "औसत<br><br>",
+    "sab-saath-mei_key6": "और फिर इसे प्रिंट करें।",
+    "sab-saath-mei_key7": "नमूना <span style=\"\">Input</span>",
+    "sab-saath-mei_key8": "नमूना <span style=\"\">Output</span>",
+    "sab-saath-mei_key9": "विषम संख्याओं की गिनती….<br> सम संख्याओं की गिनती….<br> सभी नंबरों की गिनती….<br> विषम संख्याओं का योग....<br> सम संख्याओं का योग....<br> सभी संख्याओं का योग....<br> विषम संख्याओं का औसत….<br> सम संख्याओं का औसत….<br> सभी संख्याओं का औसत ka…."
+}

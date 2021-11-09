@@ -1,7 +1,8 @@
 question13_key1
-
-
 question13_key2
+
+
+question13_key3
 ```python
 my_dict = {
     'a':50, 
@@ -12,5 +13,7 @@ my_dict = {
     'f':20
     }
  ```
-
-question13_key3
+question13_key4
+```
+expect result:-['e','b','c']
+```

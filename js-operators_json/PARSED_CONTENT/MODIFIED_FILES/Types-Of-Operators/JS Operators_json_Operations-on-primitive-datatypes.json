@@ -1,0 +1,183 @@
+[
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Operations-on-primitive-datatypes_key2"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key5"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let browserType = 'mozi lla';<br>console.log(browserType.length); // output 8"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key6"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key7"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key8"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key9"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key11"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let browserType = 'mozilla';<br>browserType[0]; // output ‘m’"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key12"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key13"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key14"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let browserType = 'mozilla';<br>browserType[browserType.length-1]; // output ‘a’"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key15"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key16"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key17"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key18"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let browserType = 'mozilla is a company';<br>browserType.indexOf(‘company’); // output 13"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key19"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key20"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key21"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let browserType = 'mozilla is a company';<br>browserType.indexOf(‘are’); // output -1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key22"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key23"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key24"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key25"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let radData = 'My NaMe Is MuD';<br>radData.toLowerCase();  // output ‘my name is mud’<br>radData.toUpperCase();  // output ‘MY NAME IS MUD’"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key26"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key27"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key28",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let browserType = 'mozilla';<br>browserType.replace(‘moz’, ’van’); // output ‘vanilla’"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Operations-on-primitive-datatypes_key29"
+  },
+  {
+    "component": "text",
+    "value": "Operations-on-primitive-datatypes_key30"
+  }
+]

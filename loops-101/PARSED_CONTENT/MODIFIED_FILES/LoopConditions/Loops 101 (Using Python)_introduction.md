@@ -8,7 +8,6 @@ while i < 100:
   print(i)
   i = i + 1
 ```
-
 introduction_key3
 
 
@@ -36,3 +35,36 @@ while i != 10:
   i = i + 1
 ```
 introduction_key13
+introduction_key14
+```python
+i = 1
+while i < 100:
+  print(i)
+  i = i + 1
+```
+introduction_key15
+
+
+1. introduction_key16
+2. introduction_key17
+3. introduction_key18
+4. introduction_key19
+introduction_key20
+
+
+introduction_key21
+1. introduction_key22
+```python
+i = 1
+while i <= 10:
+  print(i)
+  i = i + 1
+```
+2. introduction_key23
+3. introduction_key24
+```python
+i = 1
+while i != 10:
+  print(i)
+  i = i + 1
+```

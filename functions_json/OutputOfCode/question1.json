@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "Niche diye gye <span style=\"\">code</span> snippet ki <span style=\"\">output</span> kya hogi?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def employee(name,salary=20000):<br>        print(name,\"your salary is:-\",salary)<br><br>employee(\"kartik\",30000)<br>employee(\"deepak\")"
+	}
+]

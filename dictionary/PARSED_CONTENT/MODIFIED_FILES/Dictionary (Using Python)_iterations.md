@@ -12,13 +12,12 @@ for state in states_capitals:
  ```
 
 iterations_key2
-
-
-
 iterations_key3
+
+
+
 iterations_key4
-
-
+iterations_key5
 ```python 
 states_capitals = {
     'Gujarat' : 'Gandhinagar',
@@ -31,13 +30,11 @@ for state in states_capitals:
     print(states_capitals[state])
  ```
 
-iterations_key5
-
-
 iterations_key6
+iterations_key7
 
 
-
+iterations_key8
 ```python
 details ={
 	"name":  "Bijender",
@@ -49,18 +46,13 @@ for x in details.values():
  ```
 
 
-iterations_key7
-
-
-
-iterations_key8
-
-
-
 iterations_key9
-
-
 iterations_key10
+
+
+
+iterations_key11
+iterations_key12
 
 
 
@@ -74,21 +66,17 @@ for x,y in movie.items():
 	print(x,y)
  ```
 
-iterations_key11
-
-
-iterations_key12
-
-   
-
 iterations_key13
 iterations_key14
 
+   
 
 iterations_key15
+iterations_key16
 
 
 
+iterations_key17
 ```python
 meal ={
 	"monday":  "Chole chawal",
@@ -98,4 +86,5 @@ meal ={
 print(len(meal))
  ```
 
-iterations_key16
+iterations_key18
+iterations_key19

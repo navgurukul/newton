@@ -1,0 +1,79 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName;"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "In the above example it creates a <span style=\"\">variable</span> called myName."
+	},
+	{
+		"component": "text",
+		"value": "We tell JavaScript to create or declare a <span style=\"\">variable</span> by putting the <span style=\"\">key</span>word var. Some other <span style=\"\">key</span>words are also there to declare <span style=\"\">variables</span> like let and const, about them we will learn in later of this document."
+	},
+	{
+		"component": "text",
+		"value": "In javascript <span style=\"\">statements</span> end with semicolons(;). <span style=\"\">Variable</span> names can be made up of numbers, letters, and $ or _, but may not contain spaces or start with a number."
+	},
+	{
+		"component": "text",
+		"value": "In the computer world data is everything which is meaningful to computers. We have so many different types of data types which are <span style=\"\">string</span>, number, boolean, object , undefined , null etc.,<br>We tell JavaScript to create or declare a <span style=\"\">variable</span> by putting the <span style=\"\">key</span>word var."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Some Exercises:"
+	},
+	{
+		"component": "text",
+		"value": "Use the var keyword to create a variable called ourCampusName?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var ourCampusName;"
+	},
+	{
+		"component": "text",
+		"value": "Use the var keyword to create a variable called myVillage?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var myVillage;"
+	}
+]

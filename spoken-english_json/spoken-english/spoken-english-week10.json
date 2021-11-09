@@ -1,0 +1,454 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Class 10 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share:"
+	},
+	{
+		"component": "text",
+		"value": "1.What are the different seasons in a year?"
+	},
+	{
+		"component": "text",
+		"value": "2.Which season is your favorite season? Why?"
+	},
+	{
+		"component": "text",
+		"value": "3.What do you typically do during this season?"
+	},
+	{
+		"component": "text",
+		"value": "4.Which is your least favorite season? Why?"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "<i>Subject - Predicate</i>: All sentences are about something or someone. The something or someone that the sentence is about is called the <i>subject</i> of the sentence.The <i>predicate</i> contains information about the someone or something that is the subject."
+	},
+	{
+		"component": "text",
+		"value": "Example (The subject is in bold and rest is predicate)"
+	},
+	{
+		"component": "text",
+		"value": "<b>John</b> often comes late to class.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sitting in a tree at the bottom of the garden was <b>a huge black bird with long blue tail feathers.</b>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Pongal</b> was served for breakfast.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>The kind woman</b> offered food to the beggar<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Identify the subject and predicate in the below sentences :"
+	},
+	{
+		"component": "text",
+		"value": "The monkey was sitting on the branch.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The lions chased and killed the bull.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The children were writing their exams.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "The smart girl solved the puzzle easily.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The girl and her little brother were waiting outside.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I have made a cake.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "You are my best friend.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Father is working in the garage.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Parents take care of their children.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Raju and Radha are my best friends.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Creative Sentence Building :"
+	},
+	{
+		"component": "text",
+		"value": "Let the students choose three numbers from 1 to 6 in an order .<br>Match the numbers to the words and instruct students to make a proper structure of sentence with the words they chose. The student can make up crazy sentences as long as they are structured and grammatically right. You can do this multiple times depending on the student's interest and time."
+	},
+	{
+		"component": "text",
+		"value": "Example : the student chooses 4,5,1. The words would be Dog, Drive, School."
+	},
+	{
+		"component": "text",
+		"value": "The Dog drove himself to school<br>I saw a Dog while I was driving to School"
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "Word 1",
+				"items": [
+					"Brother",
+					"bike",
+					"I",
+					"Dog",
+					"Book",
+					"Teacher"
+				]
+			},
+			{
+				"header": "Word 2",
+				"items": [
+					"Run",
+					"Talk",
+					"Read",
+					"white",
+					"Drive",
+					"Walk"
+				]
+			},
+			{
+				"header": "Word 3",
+				"items": [
+					"School",
+					"House",
+					"Ocean",
+					"Jungle",
+					"Car",
+					"Castle"
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Grateful (adjective)<br>Meaning: feeling or showing an appreciation of kindness; thankful.<br>Usage: I am grateful for your help"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: "
+	},
+	{
+		"component": "text",
+		"value": "• What are the different seasons in a year?"
+	},
+	{
+		"component": "text",
+		"value": "• Which season is your favorite season? Why?"
+	},
+	{
+		"component": "text",
+		"value": "• What do you typically do during this season?"
+	},
+	{
+		"component": "text",
+		"value": "• Which is your least favorite season? Why?"
+	},
+	{
+		"component": "text",
+		"value": "• Describe today’s weather and compare it with a day from your favorite season? "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "Subject - Predicate: All sentences are about something or someone.<br>The something or someone that the sentence is about is called the subject of the sentence.The predicate contains information about the someone or something that is the subject."
+	},
+	{
+		"component": "text",
+		"value": "Example (The subject is in bold and rest is predicate)"
+	},
+	{
+		"component": "text",
+		"value": "<b>John</b> often comes late to class",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sitting in a tree at the bottom of the garden was <b>a huge black bird with long blue tail feathers.</b><br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Identify the subject and predicate in the below sentences :"
+	},
+	{
+		"component": "text",
+		"value": "The horse appeared at the starting line.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The student arrived late to class because he woke up late.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "John looked out of the window to check the sky.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "The audience grew very restless waiting for the play to start.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The air in the classroom smelled fresh.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "I felt exhausted from the anticipation.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "The owners grew flowers all around their house.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "The race track looks very wet because it has been in the rain<br>many hours.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "The horse tastes the hay and oats without hesitation.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Birds fly often in the blue sky.<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Creative Sentence Building :"
+	},
+	{
+		"component": "text",
+		"value": "Let the students choose three numbers from 1 to 6 in an order .<br>Match the numbers to the words and instruct students to make a proper structure of sentence with the words they chose. The student<br>can make up crazy sentences as long as they are structured and grammatically right. You can do this multiple times depending on the<br>student's interest and time."
+	},
+	{
+		"component": "text",
+		"value": "Example : The student chooses 4,5,6. The words would be Dog, Like, Castle.<br>The Dog like to sleep in the castle<br>I saw a Dog on the Castle and I think he likes to fly"
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "Word 1",
+				"items": [
+					"Brother",
+					"bike",
+					"I",
+					"Dog",
+					"Book",
+					"Teacher"
+				]
+			},
+			{
+				"header": "Word 2",
+				"items": [
+					"Run",
+					"Talk",
+					"Read",
+					"white",
+					"Drive",
+					"Walk"
+				]
+			},
+			{
+				"header": "Word 3",
+				"items": [
+					"School",
+					"House",
+					"Ocean",
+					"Jungle",
+					"Car",
+					"Castle"
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "<i>Marvel</i> (verb) <br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Meaning: be filled with wonder or astonishment; to be amazed"
+	},
+	{
+		"component": "text",
+		"value": "Usage: She marveled at the beautiful painting."
+	},
+	{
+		"component": "text",
+		"value": "<i>Marvel</i> (noun)<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Meaning: a wonderful or astonishing person or thing; amazing thing"
+	},
+	{
+		"component": "text",
+		"value": "Usage: This building is an architectural marvel."
+	}
+]

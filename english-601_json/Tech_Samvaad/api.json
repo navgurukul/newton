@@ -1,0 +1,82 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "WHAT IS API"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"spanstyleapplicationspanprograminterfacebrapikebaaremaihumsabhinesunahogalekinhummaiselogaisehongejonahijantehongekiapikyahaiaurapikakyafullformhaibriskohumspanstyleapplicationspanprograminterfacebhikahsaktehaiagaraapcomputerkebaaremaijaannemairuchirakhtehotoaapkoaisakrnaachalgtahaitoaapkoapikebaaremaijarrurjannachahiye\"><span style=\"\">Application</span> program interface:<br>API ke baare mai hum sabhi ne suna hoga lekin hum mai se log aise honge jo nahi jante honge ki API kya hai aur API ka kya full form hai? <br>Isko hum <span style=\"\">application</span> program interface bhi kah sakte hai. agar aap computer ke baare mai jaanne mai  ruchi rakhte ho to aapko aisa krna acha lgta hai to aapko API ke baare mai jarrur janna chahiye.</h2>"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Aap yeh videos dekhein:"
+	},
+	{
+		"component": "youtube",
+		"value": "cDU1Q2JJWFY"
+	},
+	{
+		"component": "text",
+		"value": "API  ke used ka aadhar teen broad category me devide kiya ja sakta hai: <br>1-Internal- Internal API exclusively ek company or organisation me used kiya jata hai.<br>2-External- External API jyadatar company ke bahar kisi custmor ke liye banayi jati hai.<br>3- Partner- Partner API kisi specific purpose ke liye desine ki jati hai jisase ki partner aapas me busness function ko acces kar sake."
+	},
+	{
+		"component": "text",
+		"value": "Types of API:<br>1-Hardware APIs- ye APIs hardware level pe kam karti hai aur device se hardware level ki information capture karane ke kam me aati hai. Jaise ki device ki Sr no. aur model no.<br>2-Web services APIs- ye API www ki help se service provide karti hai. Jaise ki REST, SOAP, XML, RPC and JSON-RPC.<br>3-Source <span style=\"\">code</span> APIs<br>4-Library based APIs<br>5-Class based APIs<br>6-Object remoting APIs"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei baat karni hai."
+	},
+	{
+		"component": "text",
+		"value": "Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "text",
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "What is API ? ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "what are the types of API?  ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "what are the basic parts of API? <br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Tips:"
+	},
+	{
+		"component": "text",
+		"value": "1.Aap subtitles/captions on kar sakte hai, <span style=\"\">YouTube</span> Video dekhte hue."
+	},
+	{
+		"component": "text",
+		"value": "2.Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein"
+	}
+]

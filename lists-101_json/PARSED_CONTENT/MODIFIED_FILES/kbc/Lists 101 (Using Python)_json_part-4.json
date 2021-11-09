@@ -1,0 +1,19 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "part-4_key1"
+  },
+  {
+    "component": "text",
+    "value": "part-4_key2"
+  },
+  {
+    "component": "text",
+    "value": "part-4_key3"
+  },
+  {
+    "component": "text",
+    "value": "part-4_key4"
+  }
+]

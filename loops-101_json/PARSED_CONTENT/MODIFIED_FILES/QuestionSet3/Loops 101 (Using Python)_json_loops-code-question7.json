@@ -1,0 +1,72 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "loops-code-question7_key1"
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key2"
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key7",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key8",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key9"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "loops-code-question7_key10"
+  },
+  {
+    "component": "text",
+    "value": "loops-code-question7_key11"
+  }
+]

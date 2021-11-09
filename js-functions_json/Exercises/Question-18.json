@@ -1,0 +1,50 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named showNumbers() which takes 1 argument named limit and program starts from o to limit and checks the numbers in between 0 to limit and prints whether the number is Even or odd like the below."
+	},
+	{
+		"component": "text",
+		"value": "For example :"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "3"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :"
+	},
+	{
+		"component": "text",
+		"value": "0 EVEN"
+	},
+	{
+		"component": "text",
+		"value": "1 ODD"
+	},
+	{
+		"component": "text",
+		"value": "2 EVEN"
+	},
+	{
+		"component": "text",
+		"value": "3 ODD"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "function showNumbers(limit){<br>   for(i=0;i<=limit;i++){<br>       if(i%2 ===0){<br>           console.log(i,\" - Even\");<br>       }<br>       else{<br>           console.log(i,\" - Odd\");<br>       }<br>   }<br>}<br>showNumbers(3);"
+	}
+]

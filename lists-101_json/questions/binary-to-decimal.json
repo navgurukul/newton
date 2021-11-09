@@ -1,0 +1,73 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Binary to Decimal"
+	},
+	{
+		"component": "text",
+		"value": "In this program, if we are given any number in <b>binary form</b>, then we will learn to convert that number in <b>decimal form</b>."
+	},
+	{
+		"component": "image",
+		"value": "../assets/binary.jpg",
+		"alt": "binary"
+	},
+	{
+		"component": "text",
+		"value": "Please see this diagram."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "binary_number = [1, 0, 0, 1, 1, 0, 1, 1]"
+	},
+	{
+		"component": "text",
+		"value": "To convert this number in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form</span>:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# last element ko 2^0 yaani 1 se<br># second last element ko 2^1 yaani 2 se<br># third last element ko 2^2 yaani 4 se<br># fourth last element ko 2^3 yaani 8 se<br># ...<br># ...<br># <br># multiply kar kar<br># add karna hai"
+	},
+	{
+		"component": "text",
+		"value": "After doing the above steps, you will get <b>155</b> as an answer."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "binary_number = [1, 0, 0, 2, 1]"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of this program? If your progrsm is <b>robust</b> then it will give invalid <span style=\"\">output</span>, otherwise it will throw an <span style=\"\">error</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "binary_number = [1, 0, 0, \"1\", 1]"
+	},
+	{
+		"component": "text",
+		"value": "If your program is <b>robust</b> :"
+	},
+	{
+		"component": "text",
+		"value": "- then it will give invalid output, or<br>- it will consider \"1\" as 1 ki and solve the question."
+	},
+	{
+		"component": "text",
+		"value": "But, if it will not be <b>robust</b>, then it will throw <span style=\"\">error</span>."
+	}
+]

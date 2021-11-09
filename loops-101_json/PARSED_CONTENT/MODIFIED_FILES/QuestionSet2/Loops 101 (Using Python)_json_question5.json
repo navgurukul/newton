@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question5_key1"
+  },
+  {
+    "component": "text",
+    "value": "question5_key2"
+  },
+  {
+    "component": "text",
+    "value": "question5_key3"
+  },
+  {
+    "component": "text",
+    "value": "question5_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Number of inputs to be taken?  6<br>Enter a number > 10<br>Enter a number > 1<br>Enter a number > 56<br>Enter a number > 89<br>Enter a number > 11<br>Enter a number > 12<br>Sum: 179"
+  },
+  {
+    "component": "text",
+    "value": "question5_key5"
+  },
+  {
+    "component": "text",
+    "value": "question5_key6"
+  },
+  {
+    "component": "text",
+    "value": "question5_key7"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Number of inputs to be taken?' 10<br>Enter a number > 11<br>Enter a number > 7<br>Enter a number > 14<br>Enter a number > 76<br>Enter a number > 21<br>Enter a number > 34<br>Enter a number > 86<br>Enter a number > 5<br>Enter a number > 78<br>Enter a number > 64<br>Sum: 396"
+  },
+  {
+    "component": "text",
+    "value": "question5_key8"
+  }
+]

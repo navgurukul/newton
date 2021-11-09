@@ -1,0 +1,103 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var name = \"navgurukul\";<br>var num = 29;<br>var result = name + num;<br>console.log(result);<br>// Output :  navgurukul29 <br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key2"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key3"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key5"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key7"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var measure = \"height\";<br>var val = 16.5;<br>var result = measure + val;<br>console.log(result);<br><br>// Output :- height16.5<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key8"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key9"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key10"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key11"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key12"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key13"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Type-Coercion_key14"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "console.log(true + false)<br>"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key15"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "### Explanation:<br><br>1 is considered to be true because it is non-zero. Thus the reason true  value is 1, False value is 0. It will compute true+false as 1+0 and prints 1.<br><br><br>2. What is the error in this program?<br>javascript<br>var num=24<br>var a=\"kumar\"<br>console.log(24/\"kumar\")<br>// Output : NaN<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Type-Coercion_key16"
+  },
+  {
+    "component": "text",
+    "value": "Type-Coercion_key17"
+  }
+]

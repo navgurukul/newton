@@ -1,0 +1,66 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Null_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = null;<br>console.log(a); // Output: null<br>var b = \"Hello World!\"<br>console.log(b); // Output: Hello World!<br>b = null;<br>console.log(b) // Output: null"
+  },
+  {
+    "component": "text",
+    "value": "Null_key2"
+  },
+  {
+    "component": "text",
+    "value": "Null_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Null_key4"
+  },
+  {
+    "component": "text",
+    "value": "Null_key5",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "//please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var y= null;<br>console.log(y);"
+  },
+  {
+    "component": "text",
+    "value": "Null_key6",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var val = null;<br>console.log(val);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "null"
+  }
+]

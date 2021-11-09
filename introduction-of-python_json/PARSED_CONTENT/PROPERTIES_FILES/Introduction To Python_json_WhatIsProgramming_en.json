@@ -1,0 +1,14 @@
+{
+	"WhatIsProgramming_key1": "By giving <b>instructions</b> to the computer,we can make the computers solve complex problems.",
+	"WhatIsProgramming_key2": "A set of <b>instructions</b> given to the computer is called a <b>program</b>.<br>The Process of giving instructions to the computer is called <b>programming</b>.",
+	"WhatIsProgramming_key3": "Doesn't it sound simple that we give instructions(program) to the computer and the computer follows these instructions to solve a complex problem? Giving instructions to the computer is called programming. :)",
+	"WhatIsProgramming_key4": "But there is a small problem.",
+	"WhatIsProgramming_key5": "Computers cannot understand our language like (Hindi, Tamil,  Kannada). Computers can only understand the machine language which is made of 0 and 1. So, it becomes difficult for us to communicate with the computer in machine language.",
+	"WhatIsProgramming_key6": "Then how can we give instructions to the computer?",
+	"WhatIsProgramming_key7": "Therefore, to solve this problem we made some languages like(Java, <span style=\"\">Python</span>, JavaScript) so that we can easily give instructions to the computer. Computers can easily convert these languages into machine language with the help of “another program called a <span style=\"\">compiler</span>.”",
+	"WhatIsProgramming_key8": "To give instructions to the computer we need to learn any of these given languages. In this course, we are going to learn the <span style=\"\">python</span> language.",
+	"WhatIsProgramming_key9": "We will use <span style=\"\">python</span> language to give instructions to the computer.",
+	"WhatIsProgramming_key10": "<b>Assignment</b>",
+	"WhatIsProgramming_key11": "Have you ever given instructions to anybody or taken instructions from anybody. Can we call that a <b>program</b>?",
+	"WhatIsProgramming_key12": "Search for Python language and its applications? How many people in the world use Java?"
+}

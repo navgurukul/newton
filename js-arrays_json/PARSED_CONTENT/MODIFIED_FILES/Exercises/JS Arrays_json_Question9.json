@@ -1,0 +1,34 @@
+[
+  {
+    "component": "text",
+    "value": "Question9_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question9_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question9_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question9_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question9_key5"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7]<br>var max=0;<br>var second_max=0;<br>for (var i =0;i<numbers.length;i++){<br> if (max<numbers[i]){<br>   if (second_max<max){<br>     second_max=max;<br>   }<br>   max=numbers[i];<br> }<br> else{<br>     if (second_max<numbers[i]){<br>     second_max=numbers[i];<br>   }<br> }<br>}<br> <br>console.log(second_max);"
+  }
+]

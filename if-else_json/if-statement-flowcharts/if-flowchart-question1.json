@@ -1,0 +1,24 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>In the next few questions, complete the flowchart based on the instructions given. Do not focus on the colors of the flowchart.</b>"
+	},
+	{
+		"component": "text",
+		"value": "Check whether 100 is greater than 99? If yes, print <b>\"Bada hai\"</b>, else print <b>\"Chota hai\"</b>. Complete the if <span style=\"\">statement</span> in this question."
+	},
+	{
+		"component": "image",
+		"value": "assets/question_images/question1-image1.png",
+		"alt": "flowchart image"
+	},
+	{
+		"component": "text",
+		"value": "You will need to create this entire flowchart in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">draw.io</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">upload</span> the final <span style=\"\">file</span> here."
+	}
+]

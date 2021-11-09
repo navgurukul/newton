@@ -1,16 +1,15 @@
 {
-	"magic-square_key1": "## Is `Magic Square`?\n\n",
-	"magic-square_key2": "`Magic Square` is that kind of square in which the sum of each row, the sum of each column, and the sum of both the diagonals are equal.\n",
+	"magic-square_key1": "Is Magic Square?\n",
+	"magic-square_key2": "`Magic Square` is that kind of square in which sum of each row, sum of each column and sum of both the diagonals is equal.   \n",
 	"magic-square_key3": "You have to write this program that takes a `nested list` as `input` and checks whether it is a `magic square` or not? \n",
-	"magic-square_key4": "This is a `magic square` because, \n",
-	"magic-square_key5": "To visualize this square, see it as a square. All the rows have the same number of elements. The number of elements in each row should be equal to the number of elements in each column.\n",
-	"magic-square_key6": "This is not a `magic square ` :-\n",
-	"magic-square_key7": "Because the sum of elements of the second row is not 15, therefore this is not a `magic square`.\n",
-	"magic-square_key8": "### Edge Case 1\n\n\n",
-	"magic-square_key9": "Please, see that the program that you wrote works for only 3x3 square or it works for any size of the square.\n",
-	"magic-square_key10": "Write this program for a square of any size, so that if a user enters a square of any size, your program should give the correct `output`.\n",
-	"magic-square_key11": "### Edge Case 2\n\n",
-	"magic-square_key12": "For this `nested list`, what will be your answer - `True` or `False`. What should be your answer?\n",
-	"magic-square_key13": "#### Hint\n\n\n",
-	"magic-square_key14": "If the given `nested list` is not a `square`, then return `False`, on the first go.\n"
+	"magic-square_key4": " This is a `magic square` because, \n",
+	"magic-square_key5": "This is not a magic square :\n",
+	"magic-square_key6": "Because the sum of elements of the second row is not 15 nahi hai, therefore this is not a magic square.\n",
+	"magic-square_key7": "`Edge Case 1`\n",
+	"magic-square_key8": "Pls see that the program that you wrote works for only 3x3 square or it works for any size of square.\n",
+	"magic-square_key9": "Write this program for square of any size, square of any size so that if a user enters square of any size, your program should give the correct `output`.\n",
+	"magic-square_key10": "`Edge Case 2`\n",
+	"magic-square_key11": "For this `nested list`, what will be your answer - `True` or `False`. \n",
+	"magic-square_key12": "Hint :\n",
+	"magic-square_key13": "If the given `nested list` is not a `square`, then return `False`, on the first go.\n"
 }

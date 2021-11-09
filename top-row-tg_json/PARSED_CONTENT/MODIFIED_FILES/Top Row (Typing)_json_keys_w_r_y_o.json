@@ -1,0 +1,23 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "keys_w_r_y_o_key1"
+  },
+  {
+    "component": "text",
+    "value": "keys_w_r_y_o_key2"
+  },
+  {
+    "component": "banner",
+    "title": "Top Row, keys w, r, y and o",
+    "value": "",
+    "actions": [
+      {
+        "url": "https://merakilearn.org/typing",
+        "label": "Go to typing app",
+        "data": "{\"content\":[\"w\",\"r\",\"y\",\"o\"],\"code\":\"trytyping\"}"
+      }
+    ]
+  }
+]

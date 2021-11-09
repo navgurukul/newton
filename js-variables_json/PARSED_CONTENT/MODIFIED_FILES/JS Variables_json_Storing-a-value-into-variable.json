@@ -1,0 +1,131 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var myLuckyNumber= 3;"
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var myResult= 2+3;<br>console.log(myResult);<br>// output: 5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key3"
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key5"
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key7"
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key8",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var isHealthy = true;<br><br>### Explanation:<br><br>In the above question we stored true a boolean value in a variable named as isHealthy, by this you can get to know we can store any data type as a value to a variable."
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key9",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var multiplyTwoNumbers =3*3;<br>console.log(multiplyTwoNumbers);<br>// output: 9<br><br>### Explanation:<br><br>9 is the output because first it will compute 3*3 and assign it to a variable named multiplyTwoNumbers and print 9."
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key10"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var myName;<br>myName = \"kumar\";<br>var myFullName;<br>myFullName = myName;<br>console.log(myFullName);<br>// output: kumar"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key11"
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key12"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Storing-a-value-into-variable_key13"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key14"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var myName;<br>myName = \"kumar\";<br>var myFullName;<br>myFullName=\"nayak Vadthya\";<br>var FullName = myName+\" \"+myFullName;<br>console.log(FullName);<br>// output: kumar nayak Vadthya"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Storing-a-value-into-variable_key15"
+  },
+  {
+    "component": "text",
+    "value": "Storing-a-value-into-variable_key16"
+  }
+]

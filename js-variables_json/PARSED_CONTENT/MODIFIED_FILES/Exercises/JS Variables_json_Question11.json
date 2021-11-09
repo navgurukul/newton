@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question11_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "console.log\"You're learning JavaScript!\";"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "console.log(\"You're learning JavaScript!\");"
+  }
+]

@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 10"
+	},
+	{
+		"component": "text",
+		"value": "Count the total number of items from the values of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> which are in the form of a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dict =  {<br>   'Alex': ['subj1', 'subj2', 'subj3'], <br>   'David': ['subj1', 'subj2']}"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "total count:5"
+	}
+]

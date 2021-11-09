@@ -1,0 +1,103 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "While-loop_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var count = 1;<br>while (count < 10) {<br>   console.log(count);<br>   count +=2;<br>}<br><br>// Output :<br><br>// 1<br>// 3<br>// 5<br>// 7<br>// 9<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "While-loop_key2"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key3"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key4"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key5"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key6"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key7"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key8"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key9"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "While-loop_key10"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key11"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "While-loop_key12"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>var i=0;<br>while (i<7){<br>    if(i%2==0){<br>console.log(i)<br>    }<br>    i++;<br>}<br> <br><br>// Output:<br>// 0<br>// 2<br>// 4<br>// 6<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "While-loop_key13"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key14"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key15"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key16"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key17"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key18"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key19"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key20"
+  },
+  {
+    "component": "text",
+    "value": "While-loop_key21"
+  }
+]

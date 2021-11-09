@@ -1,0 +1,17 @@
+{
+	"Question7_key1": "Write a program to console numbers between 1 to 100 which are divisible by 7.\n",
+	"Question7_key2": "Sample :  `input`  100\n",
+	"Question7_key3": "Sample  `output` : \n7 \n",
+	"Question7_key4": "14 \n",
+	"Question7_key5": "21 \n",
+	"Question7_key6": "28 Write a program to console numbers between 1 to 100 which are divisible by 7.\nSample :  `input`  100\nSample :  `output`  7 14 21 28 35 42 56 63 70 77 84 91 98\n",
+	"Question7_key7": "35 \n",
+	"Question7_key8": "42 \n",
+	"Question7_key9": "56 \n",
+	"Question7_key10": "63 \n",
+	"Question7_key11": "70 \n",
+	"Question7_key12": "77 \n",
+	"Question7_key13": "84 \n",
+	"Question7_key14": "91 \n",
+	"Question7_key15": "98\n"
+}

@@ -1,0 +1,23 @@
+{
+	"How-can-we-run-JS-on-our-laptop?_key1": "You will need to install Node to run JS on your laptop. Without Node we can not run our js <span style=\"\">code</span> on our laptop.  ",
+	"How-can-we-run-JS-on-our-laptop?_key2": "Node js is an environment to run javascript <span style=\"\">code</span> outside a web browser. Like in our laptops.  ",
+	"How-can-we-run-JS-on-our-laptop?_key3": "Here are instruction on how to install Node in Windows.",
+	"How-can-we-run-JS-on-our-laptop?_key4": "Here are the instructions on how to install Node in Ubuntu",
+	"How-can-we-run-JS-on-our-laptop?_key5": "Follow this link for installing node in Ubuntu .<a href=\"https://www.geeksforgeeks.org/installation-of-node-js-on-linux/\">Click here</a>  ",
+	"How-can-we-run-JS-on-our-laptop?_key6": "Installing VS <span style=\"\">Code</span>",
+	"How-can-we-run-JS-on-our-laptop?_key7": "Please follow this link for <a href=\"https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/\">Vscode</a>.  ",
+	"How-can-we-run-JS-on-our-laptop?_key8": "You can directly open your <span style=\"\">terminal</span> by pressing ctrl+Alt+T and run these below given command for installing node in your Ubuntu installed laptops.   ",
+	"How-can-we-run-JS-on-our-laptop?_key9": "sudo apt update<br>",
+	"How-can-we-run-JS-on-our-laptop?_key10": "sudo apt install nodejs<br>",
+	"How-can-we-run-JS-on-our-laptop?_key11": "nodejs -v<br>",
+	"How-can-we-run-JS-on-our-laptop?_key12": "sudo apt install npm<br><br>",
+	"How-can-we-run-JS-on-our-laptop?_key13": "After installing these commands you will get installed by node in your laptop and also npm in your laptop.",
+	"How-can-we-run-JS-on-our-laptop?_key14": "Steps to write <span style=\"\">code</span> in VS <span style=\"\">code</span> :",
+	"How-can-we-run-JS-on-our-laptop?_key15": "Open vs code editor.",
+	"How-can-we-run-JS-on-our-laptop?_key16": "Make hello.js file.",
+	"How-can-we-run-JS-on-our-laptop?_key17": "paste the below code in hello.js  <br><br>",
+	"How-can-we-run-JS-on-our-laptop?_key18": "console.log(\"Hello JS\")",
+	"How-can-we-run-JS-on-our-laptop?_key19": "Press \"control\" + \"shift\"+ \"tilt\"(~) on your keyboard. It will show the terminal in vs code.",
+	"How-can-we-run-JS-on-our-laptop?_key20": "Execute this file (js file) by typing <b>node hello.js</b> and you will see <b>Hello JS</b> on the screen.<br><br>",
+	"How-can-we-run-JS-on-our-laptop?_key21": "Successfully you created a <span style=\"\">file</span> and ran it, happy coding. ……."
+}

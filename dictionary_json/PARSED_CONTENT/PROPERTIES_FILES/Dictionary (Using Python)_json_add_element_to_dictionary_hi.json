@@ -1,0 +1,14 @@
+{
+    "add_element_to_dictionary_key1": "शब्दकोश में तत्वों को जोड़ना:-",
+    "add_element_to_dictionary_key2": "<span style=\"\">python</span> शब्दकोश में हम एक बार में <span style=\"\">\u001b���^\u0000¼\u001b��</span> शब्दकोश में जोड़ने के लिए हम <span style=\"\">square brackets \"[ ]\"</span> अंदर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">key</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�͆�oGѕ�Յ��Ѽ��􈁽��Ʌѽ</span> से <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">assign</span> मान का उपयोग करते हैं।",
+    "add_element_to_dictionary_key3": "उदाहरण :-",
+    "add_element_to_dictionary_key4": "<span style=\"\">Output</span> :-",
+    "add_element_to_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'Name': 'RAM', 'Age': 17,'ORGANIZATION': 'NAVGURUKUL', 'place':'dharamsala}</span>",
+    "add_element_to_dictionary_key6": "उदाहरण :-",
+    "add_element_to_dictionary_key7": "<span style=\"\">Output</span> :-",
+    "add_element_to_dictionary_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}</span>",
+    "add_element_to_dictionary_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Key</span> मौजूद है या नहीं",
+    "add_element_to_dictionary_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">��F</span> <span style=\"\">٥�</span> शब्द का उपयोग करते हैं कि दिया गया <span style=\"\">key�\n�</span> मौजूद है या नहीं।",
+    "add_element_to_dictionary_key11": "<span style=\"\">Output</span> :-",
+    "add_element_to_dictionary_key12": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Yes, 'model' is one of the keys in the this dict dictionary.</span>"
+}

@@ -1,7 +1,4 @@
-```ngMeta
 if-flowchart-question2_key1
-```
-
 if-flowchart-question2_key2
 
 

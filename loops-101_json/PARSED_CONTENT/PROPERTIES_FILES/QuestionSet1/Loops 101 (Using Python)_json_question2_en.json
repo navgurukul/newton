@@ -1,0 +1,7 @@
+{
+	"question2_key1": "Question 2",
+	"question2_key2": "Write a program that uses <span style=\"\">loops</span> to print the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> of all the numbers from 1 to 100.",
+	"question2_key3": "For that you have to calculate the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> of all numbers from 1 to 100.",
+	"question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1+2+3+4 +5+6+7....+95+96+97+98+99+100</span> ",
+	"question2_key5": "Then print the sum."
+}

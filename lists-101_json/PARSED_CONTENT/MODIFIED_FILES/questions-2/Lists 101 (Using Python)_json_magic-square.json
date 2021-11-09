@@ -1,0 +1,92 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "magic-square_key1"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key2"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key3"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "magic_square = [<br>    [8, 3, 4],<br>    [1, 5, 9],<br>    [6, 7, 2]<br>]"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Rows<br>8 + 3 + 4 = 15<br>1 + 5 + 9 = 15<br>6 + 7 + 2 = 15<br><br># Columns<br>8 + 1 + 6 = 15<br>3 + 5 + 7 = 15<br>4 + 9 + 2 = 15<br><br># Diagonals<br>8 + 5 + 2 = 15<br>4 + 5 + 6 = 15"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key5"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "magic_square = [<br>    [5, 3, 7],<br>    [1, 8, 9],<br>    [6, 4, 2]<br>]"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "Rows<br>5 + 3 + 7 = 15<br>1 + 8 + 9 = 18"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "magic-square_key8"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key9"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key10"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "magic-square_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "magic_square = [<br>    [8, 3, 4, 0],<br>    [1, 5, 9],<br>    [6, 7, 2]<br>]"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key12"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "magic-square_key13"
+  },
+  {
+    "component": "text",
+    "value": "magic-square_key14"
+  }
+]

@@ -1,0 +1,182 @@
+[
+	{
+		"component": "text",
+		"value": "<h3> Name Function</h3>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Earlier in this tutorial, you learned that functions are declared with the following <span style=\"\">syntax</span>:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "function addNumbers(parameter1, parameter2) {<br> // code to be executed<br>}<br><br>addNumbers(argument1 , argument2);"
+	},
+	{
+		"component": "text",
+		"value": "We can call a function with a name, like addNumbers above, any time we need it by referencing its name and passing some arguments to it. This function has a name."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "Named functions are useful if we need to call a function many times to pass different values to it or run it several times."
+	},
+	{
+		"component": "text",
+		"value": "<h3> Function Expressions ( Anonymous function )</h3>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Syntax</span> for Function Declaration"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>// Function Declaration<br><br>function getSum(num1, num2) {<br> var total = num1 + num2;<br> return total;<br>}<br>"
+	},
+	{
+		"component": "text",
+		"value": "Here we have just declared the function getSum. We haven’t called it yet. Declared functions are not <span style=\"\">execute</span>d immediately. They are \"<span style=\"\">save</span>d for later use\", and will be <span style=\"\">execute</span>d later, when they are invoked (called upon)."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Syntax</span> for Function Expression"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>// Function Expression<br><br>var getSum = function(num1, num2) {<br> var total = num1 + num2;<br> return total;<br>};<br>"
+	},
+	{
+		"component": "text",
+		"value": "Notice how in the function declaration above we will declare function by writing a function and do the tasks, but in function expressions we will assign to it a <span style=\"\">variable</span> and perform tasks."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">syntax</span> that we've used before to create functions is called function declaration. There is another <span style=\"\">syntax</span> for creating a function that is called a function expression. A function expression can be stored in a <span style=\"\">variable</span>:"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "Functions stored in <span style=\"\">variables</span> do not need function names. They are always invoked (called) using the <span style=\"\">variable</span> name."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>var getSum = function(num1, num2) {<br> var total = num1 + num2;<br> return total;<br>};<br> <br>console.log(getSum(5, 10)); // 0utputs: 15<br> <br>var sum = getSum(7, 25);<br>console.log(sum); // 0utputs: 32<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "The function above is actually an anonymous function (a function without a name)."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Exercises:"
+	},
+	{
+		"component": "text",
+		"value": "Define an Anonymous function and call it by taking two arguments to whether they are equal or not?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var isEqual = function(str1,str2){<br>   console.log(str1===str2)<br>}<br>isEqual(\"kumar\",\"nayak\");<br>"
+	},
+	{
+		"component": "text",
+		"value": "<h3> Self-Invoking Functions ( Immediately invoked function expression)</h3>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "You have to add parentheses around the function to indicate that it is a function expression:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>(function myName () {<br> var x = \"Hello!! Nayak\";  // I will invoke myself<br> console.log(x);<br>})();<br> <br>// Output :<br>// Hello!! Nayak<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "As we see in the example, we are not giving names and not storing the function in any <span style=\"\">variable</span>. We are declaring it after that we are accessing it using parentheses. So, <span style=\"\">output</span> is showing <b>Hello!! Nayak</b>"
+	},
+	{
+		"component": "text",
+		"value": "A self-invoking expression is invoked (started) automatically, without being called."
+	},
+	{
+		"component": "text",
+		"value": "Function expressions will <span style=\"\">execute</span> automatically if the expression is followed by ()."
+	},
+	{
+		"component": "text",
+		"value": "You cannot self-invoke a function declaration."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Exercises:"
+	},
+	{
+		"component": "text",
+		"value": "1.Define an Self invoking function and call it by taking two arguments to whether they are  equal or not?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// write code here.."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "(function(str1,str2){<br>   console.log(str1===str2)<br>})(\"kumar\",\"kumar\");"
+	}
+]

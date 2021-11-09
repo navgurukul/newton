@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "You can easily decrement or add one to a <span style=\"\">variable</span> with the -- <span style=\"\">operator</span>."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "i--;<br>// Or it is equivalent to <br>i=i-1<br>"
+	}
+]

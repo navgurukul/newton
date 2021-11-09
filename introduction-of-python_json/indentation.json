@@ -1,0 +1,209 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Indentation</span>?"
+	},
+	{
+		"component": "text",
+		"value": "Please have a look at the <span style=\"\">code</span> given below. Now think about the <span style=\"\">output</span> of this <span style=\"\">code</span> without running."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = 10<br>if a * 2 == 20:<br>print (\"Variable a when multiplied by 2 gives 20.\")<br>else:<br>print (\"Variable a when multiplied by 2 does not give 20.\")"
+	},
+	{
+		"component": "text",
+		"value": "What answer did you think? Please copy-paste this <span style=\"\">code</span>, <span style=\"\">save</span> this in a <span style=\"\">file</span> and run this <span style=\"\">code</span>. You will notice that this <span style=\"\">code</span> will not print any <span style=\"\">output</span>, but gives an <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">error</span>. To understand this <span style=\"\">error</span> we need to think from the point of view of <span style=\"\">python</span>. <span style=\"\">Python</span> will run this program as follows:-"
+	},
+	{
+		"component": "text",
+		"value": "In the first line it will put the value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">10</span> in \"a\".",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the second line python will check that whether multiplying <b>a</b> by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> gives a result equal to 20 or not.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Till the third line python will be able to know that on multiplying <b>a</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> by we will get <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20</span>. But python gets confused at this place, it does not understand that whether it should only print  \"Variable a when multiplied by 2 gives 20.\" or it needs to run the code given below also or not. Humans can easily understand this, but the computer gets mad and gives errors.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "We will write this program correctly as follows,"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = 10<br>if a * 2 == 20:<br>    print ( )<br>else:<br>    print (\"Variable a when multiplied by 2 does not give 20.\")"
+	},
+	{
+		"component": "text",
+		"value": "When <span style=\"\">python</span> will run this correct <span style=\"\">code</span>, then its brain will work like this. "
+	},
+	{
+		"component": "text",
+		"value": "In the first line it will put the value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">10</span> in \"a\".",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the second line python will check that whether multiplying <b>a</b> by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> gives a result equal to 20 or not.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the third line , python will print \"Variable a when multiplied by 2 gives 20\". Now, you will think that python prints this line in this code then why it did not print in the previous example. But, see a little care that the third line has started after some space. These <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">spaces</span> are called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indent</span> in python. Now, python understands that on multiplying  <b>a</b> by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> we get <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20</span>, if this condition is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>, then we will run the lines which are <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indented</span> below <b>if</b>.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the 4th line python finds something else but it does not run else part because if the part already ran. So, how to use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if statement</span>, try to learn about this.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "This spacing in <span style=\"\">python</span> is called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indentation</span>. Whenever there is a problem related to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indentation</span>, <span style=\"\">Python</span> calls it an <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Indentation Error</span> This <span style=\"\">error</span> looks like this:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "File \"<ipython-input-5-9eaf99c4383b>\", line 3<br>    print (\"a variable ko 2 se multiply kar ke 20 aata hai\")<br>        ^<br>IndentationError: expected an indented block"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "One more example"
+	},
+	{
+		"component": "text",
+		"value": "We will take more examples and understand them clearly. First, run the <span style=\"\">code</span> given below. After that read the text given below."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 1<br>while counter < 10:<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>    print ('--------')"
+	},
+	{
+		"component": "text",
+		"value": "In this program, in the last 3 lines <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(‘print \"The counter is\" + str(counter)’, ‘counter = counter + 1’, ‘print \"--------\"’)</span> if there is no <span style=\"\">indentation</span> then <span style=\"\">python</span> will not be able to understand that after <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while loop</span> what it has to run? <span style=\"\">Python</span> will get confused and will give an <span style=\"\">error</span>. To <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indent</span> a <span style=\"\">python</span> <span style=\"\">code</span> is very important. If you see the program, you will realize that the <span style=\"\">code</span> is divided into different parts:-"
+	},
+	{
+		"component": "text",
+		"value": "In the first part, the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter</span> variable is defined and we write the line <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while countering &lt; 10</span>.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the second part, we have written that code which will run after for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loop</span> again and again till the for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loop</span> is running. <br>The different parts of code are called code blocks and in python to indent these blocks we use a tab. <br>To understand this, save the given code in a new file and see what output comes and how that output is different from the output of the code given above. After this discussion about what happened?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 1<br>while counter < 10:<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>print ('--------')"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "Whenever you write the <span style=\"\">code</span>, then your <span style=\"\">editor</span> should <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indent</span> the <span style=\"\">code</span>, but if it does not do that, then you can use the <span style=\"\">Tab</span> <span style=\"\">key</span> for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indenting</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :-"
+	},
+	{
+		"component": "text",
+		"value": "You can also use the Space <span style=\"\">key</span> for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indentation</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Space key</span>  is difficult to use, as many <span style=\"\">errors</span> occur due to its use, just because of this many <span style=\"\">errors</span> occur, that is why many Developers(Software Engineer) use <span style=\"\">Tab</span> so that minor <span style=\"\">errors</span> do not occur."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Multiple Levels of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Indentation</span>"
+	},
+	{
+		"component": "text",
+		"value": "In a given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">indented code block</span> there can be another indented <span style=\"\">code</span> block. Study this <span style=\"\">code</span> and understand and tell how the <span style=\"\">output</span> comes? Try to run this <span style=\"\">code</span> and see if you thought correctly about the <span style=\"\">output</span> or not. If not then use your brain to think about it more."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 1<br>while counter < 10:<br>    if counter % 2 == 0:<br>        print (\"Counter is an even number.\")<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>print ('--------')"
+	},
+	{
+		"component": "text",
+		"value": "Please see here that in this <span style=\"\">code</span>,  2 levels of indented <span style=\"\">code</span> blocks exist.  "
+	},
+	{
+		"component": "text",
+		"value": "After the first level <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if counter % 2 == 0’ is present.</span>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "In the second level <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print (\"Counter is an even number.\")</span> is present.<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Here, <span style=\"\">python</span> will run if under while <span style=\"\">loop</span>  and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print (\"Counter is an even number.\")</span>only when inside the <span style=\"\">loop</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter</span> value is an even number."
+	}
+]

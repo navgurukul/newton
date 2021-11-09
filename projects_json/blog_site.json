@@ -1,0 +1,128 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Intro"
+	},
+	{
+		"component": "text",
+		"value": "Iss project mei hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Medium</span> jaisi ek blog website ka basic version banana sikhenge."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "NOTE"
+	},
+	{
+		"component": "text",
+		"value": "Iss project ki suruvat karne se pehele aap ko blog website ko visit karke samjho ki vo kaise kaam karti hain.\nye kuch examples hain….\n<a href=\"https://medium.com/\">MEDIUM</a>"
+	},
+	{
+		"component": "text",
+		"value": "Aur kuch app bhi dhondoo hum kitni help kare.."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Iss project ko shuru karne se phele ye cheeze dhyan deni jaruri hain."
+	},
+	{
+		"component": "text",
+		"value": "Ye project hum JavaScript ka use karke banayenge issleye humne enough JavaScript aani jaruri hain.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Iss project main hum database ka aache tarike se use karna bhi sikhenge.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aur front-end ke leye Html, Css, Bootstrap jaisi languages ka isstemal karnge.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aur Database ke leye hum MySql use karnege.<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Step 1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Create da<span style=\"\">tab</span>ase"
+	},
+	{
+		"component": "text",
+		"value": "Phele apne project ke da<span style=\"\">tab</span>ase structure ke bare main group main disscuss karein.<br>aur apne da<span style=\"\">tab</span>ase ko banane ke leye ek script lekhe.<br>Iss da<span style=\"\">tab</span>ase ka hum apne projet main use karnge."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Create endpoints"
+	},
+	{
+		"component": "text",
+		"value": "Kuch jaruri endpoints aapko apne group members ke sath disscuss karke banane hain.<br>Example :"
+	},
+	{
+		"component": "text",
+		"value": "signup/",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "login/",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "addBlog/<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aur kuch aap bhi dimag lagaoo ki aur kitne endpoints banane honge."
+	},
+	{
+		"component": "text",
+		"value": "Aap apne sare endpoints ko database ke sath link karoge\naur login logout main aapko kuch authentication lagana hain <a href=\"https://jwt.io/\">JWT</a> ka use karke.\njaise ke user tabhi lgin kar sakta hain jab uske pass valid access token hoga.\nAur database ke query lekhne ke leye <a href=\"https://knexjs.org/\">Knex</a> ka use kare"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Step 2"
+	},
+	{
+		"component": "text",
+		"value": "Iss step main hum front end design karnege.<br>aap apne ichaa anusar isko design kar sakte ho.<br>par aapko sirf Html, CSS aur Bootstrap use karne ke anumati hain."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hai na useful? :)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Happy Coding!"
+	}
+]

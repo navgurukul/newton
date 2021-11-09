@@ -1,0 +1,139 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "examples_key1"
+  },
+  {
+    "component": "text",
+    "value": "examples_key2"
+  },
+  {
+    "component": "text",
+    "value": "examples_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "examples_key4"
+  },
+  {
+    "component": "text",
+    "value": "examples_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "examples_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 891<br>while i < 931:<br>  z = i - 890<br>  if z % 3 == 0:<br>    print(z)<br>  i = i + 1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "examples_key7"
+  },
+  {
+    "component": "text",
+    "value": "examples_key8"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "examples_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 0<br>while i <= 50:<br>  if i != 0:<br>    print(i)<br>  i = i + 5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "examples_key10"
+  },
+  {
+    "component": "text",
+    "value": "examples_key11"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "examples_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 49<br>while i <= 98:<br>  i = i + 2<br>  print(i)"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "examples_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 50<br>while i <= 100:<br>  if i % 2 != 0:<br>    print(i)<br>  i = i + 1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "examples_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 400<br>while i >= 350:<br>  z = i - 300<br>  if z % 2 != 0:<br>      print(z)<br>  i = i - 1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "examples_key15"
+  },
+  {
+    "component": "text",
+    "value": "examples_key16"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "examples_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = -1<br>while a >= (-10):<br>  print (-a)<br>  a = a -1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "examples_key18"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1 <br>while a <= 10:<br>  print (a)<br>  a = a-(-1)"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "examples_key19"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>while a !=11:<br>  print (a)<br>  a-=-1"
+  }
+]

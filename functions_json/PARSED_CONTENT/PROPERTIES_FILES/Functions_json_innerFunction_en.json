@@ -1,0 +1,12 @@
+{
+	"innerFunction_key1": "<span style=\"\">Python</span> Inner Functions",
+	"innerFunction_key2": "Ek function jo ki kisi dusre function ke andar likha jaata hai ya define kiya jaata hai use inner function ya nested function kehte hai. Inner functions, outer function ke scope ke <span style=\"\">variables</span><br>Ko access kar sakta hai lekin unn <span style=\"\">variables</span> ko change nahi kar sakta hai.",
+	"innerFunction_key3": "<b>EXAMPLE:-</b>",
+	"innerFunction_key4": "<b><span style=\"\">Output</span> :-</b>",
+	"innerFunction_key5": "Upar diye gaye example mein, f2() inner function hai aur f1()outer function. s f1()  ka scope <span style=\"\">variable</span> hai.",
+	"innerFunction_key6": "Scope of <span style=\"\">variable</span> in nested function",
+	"innerFunction_key7": "Aisi jagah jaha hum koi <span style=\"\">variable</span> find kar sake aur jarurat hone par hum use access bhi kar sake uss jagah ko <span style=\"\">variable</span> scope kehte hain.<br>Humne ye padh liya hai ki hum kaise ek function ke andar global <span style=\"\">variable</span> ko access kar sakte hain, lekin, hum outerFunction ke andar wale <span style=\"\">variable</span> ko kaise access karenge ? chaliye Example dekhte hain:",
+	"innerFunction_key8": "<b>Example :-</b>",
+	"innerFunction_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT:-</span>",
+	"innerFunction_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT:-</span>"
+}

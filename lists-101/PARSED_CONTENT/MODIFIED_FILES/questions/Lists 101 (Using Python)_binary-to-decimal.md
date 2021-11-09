@@ -45,6 +45,6 @@ binary-to-decimal_key8
 
 
     - then it will give invalid output, or
-    - it will consider "1" as 1  and solve the question.
+    - it will consider "1" as 1 ki and solve the question.
 
 binary-to-decimal_key9

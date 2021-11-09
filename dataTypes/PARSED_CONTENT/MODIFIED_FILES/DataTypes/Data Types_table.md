@@ -1,7 +1,4 @@
-```ngMeta
 table_key1
-```
-
 |table_key2|table_key3|table_key4|
 |-----------|-----------|-----------|
 |table_key5|table_key6|table_key7|

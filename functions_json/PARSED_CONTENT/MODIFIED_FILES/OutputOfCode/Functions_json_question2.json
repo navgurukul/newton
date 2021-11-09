@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "question2_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def primeorNot(num):     <br>    if num > 1:<br>        for i in range(2,num):<br>            if (num % i) == 0:<br>                print(num,\"is not a prime number\")<br>                print(i,\"times\",num//i,\"is\",num)<br>                break<br>            else:<br>                print(num,\"is a prime number\")<br><br>    else:<br>           print(num,\"is not a prime number\")<br>primeorNot(406)"
+  }
+]

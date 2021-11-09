@@ -1,0 +1,20 @@
+{
+	"introduction_key1": "JSON\n",
+	"introduction_key2": "**JSON** *( Javascript Object Notation)* mai hum data ko `keys` and values ki form mai likhtain hain. Ismain `keys` `string` hoti hai aur values kisi bhi data type main ho sakti hain. `Keys` and values  colon ( : ) se separated hoti hain. Curly braces ” { }” Json ko represent karta hain. Json `files` ka extension ( .json ) hota hain.\n",
+	"introduction_key3": "**Uses of Json**\n",
+	"introduction_key4": "Json Jyada tar  server se web `application` or web `application` se server  ke beech data transmit karne ke kaam aata hain.\n\n",
+	"introduction_key5": "Web services and APIs json format ka use  public data dene me use karte hain.\n\n",
+	"introduction_key6": "Aur ye modern programming mai bhi use hota hai etc.\n\n\n",
+	"introduction_key7": "**Characteristics of Json**\n",
+	"introduction_key8": "Json padhne aur likhne mai aasan hota hai.\n\n",
+	"introduction_key9": "Json language ek independent language hai. Ye kisi par nirbhar nahi hain.\n\n",
+	"introduction_key10": "Ye light weight and text-based interchange format hai.\n\n\n\n",
+	"introduction_key11": "**Json `Syntax`**\n",
+	"introduction_key12": "Data humesha `keys` and values ki form mai hona chahiye.\n\n",
+	"introduction_key13": "Data humesha comma se separated hona chahiye.\n\n",
+	"introduction_key14": "Data curly braces ({ }) mai hota hai.\n\n",
+	"introduction_key15": "Data jo square brackets ( [ ] ) mai hota hai usse Array kehte hai.\n\n",
+	"introduction_key16": "Hum kuch data ko `python` se json format mai kar sakte hai jaise(dict,list,tuple,`string`,int,`float`,`True`,`False`,None).\n\n\n",
+	"introduction_key17": "*Jum hum `python` se data json mai convert karte hai toh unka Data type change ho jata hai. Jaise ki neeche diya gaya hai:-*\n",
+	"introduction_key18": "| `Python`        | Json           | \n| ------------- |:-------------:| -----:|\n| Dict     | Object |\n| List      | Array    |   \n|Tuple | Array   |  \n| Str     | `String` |\n| int      | Number    |   \n|`True` | `true`   |   \n| `False`     | `false` | \n|None | null   |\n"
+}

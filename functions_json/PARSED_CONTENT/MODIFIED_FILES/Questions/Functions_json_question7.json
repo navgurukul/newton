@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question7_key1"
+  },
+  {
+    "component": "text",
+    "value": "question7_key2"
+  },
+  {
+    "component": "text",
+    "value": "question7_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "function_name(“hello”,”welcome”)<br>function_name(“sonu”,”monu”)"
+  },
+  {
+    "component": "text",
+    "value": "question7_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "welcome<br><br>sonu<br>monu"
+  }
+]

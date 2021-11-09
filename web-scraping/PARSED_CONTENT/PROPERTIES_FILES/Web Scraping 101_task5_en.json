@@ -1,0 +1,10 @@
+{
+	"task5_key1": "Task 5\n",
+	"task5_key2": "Pichli task mein humne ek function likh liya hai jo humein movie ke URL se uski saari details laake de deta hai. Iss function ka naam `scrape_movie_details`. Ab humein ek function likhna hai jisko hum movie ke URLs denge toh humein woh movies ki poori details ke saath ek list return karega. Function ka naam `get_movie_list_details` hona chaiye. Yeh function ko ek `movies_list` naam ka parameter lena hai jo ki list hogi. Iss list ka naam movies hoga. Movies ke naam ke saath saath kuch aur details bhi hongi.  \n",
+	"task5_key3": "Basically yeh function woh list parameter ki tara lega jo ki `scrape_top_list` return karta hai. Abhi ke liye aapko iss function ko sirf pehli 10 movies deni hain. Agar aap zyada movies ek baar mein scrape karoge toh IMDB aapko block kar dega. Iske baare mein detail mein hum aage waali kuch tasks mein baat karenge.\n",
+	"task5_key4": "`movies_list` parameter waali list ka kuch aisa structure hoga. Yeh woh same list hai jo aapka `scrape_top_list` function return karta hai.\n",
+	"task5_key5": "Movies wali list ko leke tumhara function neeche di hui list return karega.\n",
+	"task5_key6": "Aapka `code` kuch aisa dikhega:\n",
+	"task5_key7": "Hint\n",
+	"task5_key8": "Aapko `get_movie_list_details` details mein baar baar `scrape_movie_details` wala function call karna hai.\n"
+}

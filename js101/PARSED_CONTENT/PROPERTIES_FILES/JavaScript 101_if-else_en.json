@@ -1,0 +1,7 @@
+{
+	"if-else_key1": "Explain them the concept of if else and multiple if statments\n\n",
+	"if-else_key2": "Tell them how we would like the user to tell which operation he wants to do. That would result in writing this `code`:\n\n\n",
+	"if-else_key3": "//Conditionals\nvar operation = prompt('Kaunse operation karna chahenge', 'a:addition/s:subtraction/d:division/m:multiplication')\nvar a = Number(prompt('Pehle number likho', '12'))\nvar b = Number(prompt('Dusra number likho', '34'))\n",
+	"if-else_key4": "if (operation == 'a') {\n        console.log(a+b)\n} else if (operation == 's') {\n        console.log(a-b)\n} else if (operation == 'd') {\n        console.log(a/b)\n} else if (operation == 'm') {\n        console.log(a*b)\n}\n",
+	"if-else_key5": "Maybe take another example?\n"
+}

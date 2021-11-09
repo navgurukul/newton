@@ -1,0 +1,23 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "keys_g_h_key1"
+  },
+  {
+    "component": "text",
+    "value": "keys_g_h_key2"
+  },
+  {
+    "component": "banner",
+    "title": "Home Row, keys f and j",
+    "value": "",
+    "actions": [
+      {
+        "url": "https://merakilearn.org/typing",
+        "label": "Go to typing app",
+        "data": "{\"content\":[\"g\",\"h\"],\"code\":\"trytyping\"}"
+      }
+    ]
+  }
+]

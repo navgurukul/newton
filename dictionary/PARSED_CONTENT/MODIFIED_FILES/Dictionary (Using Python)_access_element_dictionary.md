@@ -3,8 +3,6 @@ access_element_dictionary_key2
 
 
 access_element_dictionary_key3
-
-
 ```python
 person={
     'name':'jack',
@@ -20,15 +18,15 @@ print(result)
  ```
     
 access_element_dictionary_key4
-
-
 access_element_dictionary_key5
 
 
 access_element_dictionary_key6
-
-
 access_element_dictionary_key7
+
+ 
+
+access_element_dictionary_key8
 ```python
 person={
     'name':'jack',
@@ -47,4 +45,9 @@ result = person[4]['place']
 print(result)
  ```
    
-access_element_dictionary_key8
+access_element_dictionary_key9
+```
+male 
+{'organisation': 'navgurukul', 'place': 'dharamsala'}
+ dharamsala
+```

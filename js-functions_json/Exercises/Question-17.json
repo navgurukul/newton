@@ -1,0 +1,46 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named average which takes 3 numbers and prints the sum of 3 numbers and the average of 3 numbers."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "Enter first number : 3"
+	},
+	{
+		"component": "text",
+		"value": "Enter second number : 4"
+	},
+	{
+		"component": "text",
+		"value": "Enter third number: 5"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :"
+	},
+	{
+		"component": "text",
+		"value": "Sum of three numbers :-12"
+	},
+	{
+		"component": "text",
+		"value": "Average of three numbers :-4"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "function average(num1,num2,num3){<br>   console.log(\"sum of three numbers -\",num1+num2+num3);<br>   console.log(\"Average of three numbers -\",(num1+num2+num3)/3);<br>}<br> <br>const input = require('readline-sync');<br>let number1 = input.questionInt('Enter the number1 :- ');<br>let number2 = input.questionInt('Enter the number2 :- ');<br>let number3 = input.questionInt('Enter the number3 :- ');<br>average(number1,number2,number3);"
+	}
+]

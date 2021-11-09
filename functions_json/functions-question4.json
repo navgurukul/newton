@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 5"
+	},
+	{
+		"component": "text",
+		"value": "Yeh question 2 parts mein hai. Dono pa\u0005rts ka <span style=\"\">code</span> same <span style=\"\">file</span> mein likh ke submit karein."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question (Part 1)"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> naam ka ek function likhiye jo do numbers le aur fir print kare \"Dono even hain\" agar dono numbers even (2 se divide hote hain) nahi toh print kare \"Dono numbers even nahi hai\""
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question (Part 2)"
+	},
+	{
+		"component": "text",
+		"value": "Ab ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers_list</span> naam ka ek function likho jo inetgers ki list ko arguments ki tarah le aur fir check kare ki same index waale dono <span style=\"\">integers</span> even hain ya nahi."
+	},
+	{
+		"component": "text",
+		"value": "Yeh check karne ke liye pichle <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Part 1</span> mein likhe <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> function ka use karo."
+	},
+	{
+		"component": "text",
+		"value": "Agar aapne apne function ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> Toh usko yeh <span style=\"\">output</span> deni chaiye:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "dono even hain<br>---------------<br>dono even nahi hai<br>---------------<br>dono even hain<br>---------------<br>dono even hain<br>---------------<br>dono even nahi hain<br>---------------<br>dono even nahi hain"
+	}
+]

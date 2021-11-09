@@ -1,0 +1,45 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Updating-a-property_key1"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>var myHome = {<br>   \"name\": \"Mannat\",<br>   \"location\":\"Mumbai\",<br>   \"Colour\":\"black\",<br>   \"owner\":\"sharukh khan\",<br>   \"neighbours\": [\"everything!\"]<br> };<br> <br> <br>myHome.name=\"my Villa\";<br> <br>console.log(myHome);<br> <br>//  output<br><br>// {<br>//    name: ‘my Villa’,<br>//    location:\"Mumbai\",<br>//    Colour:\"black\",<br>//    Owner:”sharukh khan”,<br>//    neighbours: [\"everything!\"]<br>// }<br>"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key3"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key4"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key5"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key6"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key7"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key8"
+  },
+  {
+    "component": "text",
+    "value": "Updating-a-property_key9"
+  }
+]

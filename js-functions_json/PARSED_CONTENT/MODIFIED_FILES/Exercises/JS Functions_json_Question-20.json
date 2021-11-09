@@ -1,0 +1,67 @@
+[
+  {
+    "component": "text",
+    "value": "Question-20_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key6"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key7"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key8"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key9"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key10"
+  },
+  {
+    "component": "text",
+    "value": "Question-20_key11"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "function license_checker(speed){<br>   if(speed < 70){<br>       console.log(\"ok\");<br>   }<br>   if(speed > 70){<br>       points=0<br>       for(var i=70;i<speed;i+=5){<br>           points+=1<br>       }<br>       if(points>12){<br>           console.log(\"License suspended\");<br>       }<br>       else{<br>           console.log(points);<br>       }<br>   }<br>}<br> <br>license_checker(135);"
+  }
+]

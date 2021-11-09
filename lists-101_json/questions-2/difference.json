@@ -1,0 +1,26 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Difference"
+	},
+	{
+		"component": "text",
+		"value": "Q: Given two arrays, 1,2,3,4,5 and 2,3,1,0,5 find which numbers are not present in the second array."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list1 = [1,2,3,4,5,6]<br>list2 = [2,3,1,0,6,7]"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<b>[4, 5]</b>"
+	}
+]

@@ -13,8 +13,6 @@ question4_key6
 
 
 question4_key7
-
-
 ```
 10 * -1 = -10
 2 * -1 = 2

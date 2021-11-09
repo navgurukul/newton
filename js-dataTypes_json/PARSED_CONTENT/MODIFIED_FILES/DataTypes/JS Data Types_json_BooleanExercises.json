@@ -1,0 +1,107 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "BooleanExercises_key1"
+  },
+  {
+    "component": "text",
+    "value": "BooleanExercises_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "//please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var num1=5;<br>var num2=6;<br>console.log(num2>num1);"
+  },
+  {
+    "component": "text",
+    "value": "BooleanExercises_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 3;<br>var b = 5;<br>console.log(b<a);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "false"
+  },
+  {
+    "component": "text",
+    "value": "BooleanExercises_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 3;<br>var b = 5;<br>console.log(!=a);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "output:SyntaxError: Unexpected token '!=' <br><br>Because we need to compare here two variables that means b!=a should be there not !=a."
+  },
+  {
+    "component": "text",
+    "value": "BooleanExercises_key5",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var egg cost = 3.45;"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "A space is an illegal character in a variable name."
+  },
+  {
+    "component": "text",
+    "value": "BooleanExercises_key6",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var Nameofband;"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var nameOfBand;"
+  }
+]

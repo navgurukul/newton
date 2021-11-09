@@ -1,0 +1,16 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "Check whether 1000 is <b>greater than or equal</b> to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4000</span>. If yes, print <b>\"barabar ya bada hai\"</b>. Else print <b>\"nahi hai\"</b>. Complete the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> <span style=\"\">statements</span> in this question. "
+	},
+	{
+		"component": "image",
+		"value": "assets/question_images/question2-image1.png",
+		"alt": "flowchart image"
+	}
+]

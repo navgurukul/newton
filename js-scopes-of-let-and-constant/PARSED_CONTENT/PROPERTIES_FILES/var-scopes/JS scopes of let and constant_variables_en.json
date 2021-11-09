@@ -1,0 +1,6 @@
+{
+	"variables_key1": "What is `variable` scope?\n",
+	"variables_key2": "Scope essentially means upto where in our programme we can access these `variables` and are ready for use.\n",
+	"variables_key3": "In Javascript, the scope of a `variable` is handled or controlled by the location where the `variable` declaration has been declared.\n",
+	"variables_key4": "Scopings may differ from one language to another language. In Javascript, it has two scopes,\nLocal / Function and global scope.\n"
+}

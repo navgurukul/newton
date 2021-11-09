@@ -1,0 +1,66 @@
+[
+  {
+    "component": "text",
+    "value": "Question9_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "{<br>    \"shopping_list\":<br>        { <br>            \"chaco\":\"15\",<br>            \"Biscuits\":\"50\",<br>            \"Diary_milk\":\"30\",<br>            \"ice_cream\":\"20\",<br>        } <br>}"
+  },
+  {
+    "component": "text",
+    "value": "Question9_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question9_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question9_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question9_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question9_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question9_key7",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question9_key8"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "show shopping_list:- <br><br>{<br>    \"shopping_list\":{ <br>        \"chaco\":\"15\",<br>        \"Biscuits\":\"50\",<br>        \"Diary_milk\":\"30\",<br>        \"ice_cream\":\"20\",<br>         } <br>}"
+  }
+]

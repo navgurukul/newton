@@ -1,0 +1,6 @@
+{
+	"opening-excel-documents-with-openpyxl_key1": "Opening Excel Documents with OpenPyXL\n",
+	"opening-excel-documents-with-openpyxl_key2": "Once you’ve imported the openpyxl module, you’ll be able to use the openpyxl.load_workbook() function. Enter the following into the interactive `shell`:\n",
+	"opening-excel-documents-with-openpyxl_key3": "<class 'openpyxl.workbook.workbook.Workbook'>\nThe openpyxl.load_workbook() function takes in the `file`name and returns a value of the workbook data type. This Workbook object represents the Excel `file`, a bit like how a `File` object represents an opened text `file`.\n",
+	"opening-excel-documents-with-openpyxl_key4": "Remember that example.xlsx needs to be in the current working directory in order for you to work with it. You can find out what the current working directory is by importing os and using os.getcwd(), and you can change the current working directory using os.chdir().\n"
+}

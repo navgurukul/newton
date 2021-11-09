@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "question1_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def employee(name,salary=20000):<br>        print(name,\"your salary is:-\",salary)<br><br>employee(\"kartik\",30000)<br>employee(\"deepak\")"
+  }
+]

@@ -1,9 +1,10 @@
 {
-	"loops-code-question8_key1": "Ab hum pichli wali game ko thoda change karenge. Humne sirf yeh check kara the ki kya user ne jo number `input` kiya hai wo humare number ke barabar hai ya nahi. \n",
-	"loops-code-question8_key2": "Ab hum user ko yeh bhi batayenge ki jo usne number guess kiya hai, woh humare number se chota hai ya bada hai. \n",
-	"loops-code-question8_key3": "Jaise, agar user ne 4 `input` kiya. Hum check karenge ki kya 4 5 se chota hai? Haan 4 5 se chota hai. Hum print karenge ki \"aapka number chota hai! Ek aur baar try karo\".\n",
-	"loops-code-question8_key4": "Phir hum user se ek baar aur number `input` lenge. Socho iss baar user ne 7 daala. Ab hum check karenge ki kya 7 5 se chota hai. Iska jawab nahi hoga. Ab hum print karenge ki \"aapka number bada hai! Ek aur baar try karo\". \n",
-	"loops-code-question8_key5": "Ab socho user ne 5 `input` kar diya. Yeh number humare number ke barabar ho jayega. Ab hum print karenge ki \" waah! Aapne number guess kar liya\".\n",
-	"loops-code-question8_key6": "Hum aisa `tab` tak karte rahenge jab tak user humara number guess nahi kar leta. Ya uski chances (jo ki 10 hain) khatam nahi ho jaati.\n\n\n",
-	"loops-code-question8_key7": "User ko aise hint denge toh user ke liye guess karna asaaan ho jayega.\n"
+	"loops-code-question8_key1": "Question 8\n",
+	"loops-code-question8_key2": "Now, we will change the previous game a little. We only checked whether the `number` given by the user is equal to the `input number` or not.\n\n",
+	"loops-code-question8_key3": "Now, we will also tell the user if the `number` given by the user is greater or smaller than the `input` number.\n",
+	"loops-code-question8_key4": "If the user gives `4` as a number then we will check if `4 is less than 5` or not so it's `true` then we will print \"Number entered by you entered is small, try one more time \".\n\n",
+	"loops-code-question8_key5": "We will again take `input` from the user. If the user gives `7 `as a number then we will check if `7 is less than 5 or not` so it is `False` then we will print \"Number entered by you entered is greater, try one more time \".\n",
+	"loops-code-question8_key6": " If the user gives `5` as `input` then this `number` is equal to the `given number` then we will print \"Wow you guessed the correct number\".\n",
+	"loops-code-question8_key7": "User will keep on `guessing` `until` all the chances are finished.\n\n\n",
+	"loops-code-question8_key8": "If we will give such types of hints to the user, it will become easier for him to solve the question.\n"
 }

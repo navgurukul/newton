@@ -1,0 +1,218 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question5_key1"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "functions-question5_key3"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key4"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key9"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key10",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key11",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key12",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key13",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key14"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key15",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key16",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key17",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key18",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "functions-question5_key19"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key20"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key21"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key22"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key23",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key24",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key25",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key26",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key27"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key28"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "functions-question5_key29"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key30"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key31"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "multiple_list = list_change([5, 10, 50, 20], [2, 20, 3, 5])"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key33"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "[10, 200, 150, 100]"
+  },
+  {
+    "component": "text",
+    "value": "functions-question5_key34"
+  }
+]

@@ -2,7 +2,6 @@ ipython_key1
 ipython_key2
 
 
-
 ipython_key3
 
 
@@ -27,6 +26,7 @@ ipython_key9
 SyntaxError: invalid syntax
 >>> 
 ```
+
 ipython_key10
 
 
@@ -72,6 +72,7 @@ ipython_key25
 print ("It will print this.")
 print ("Cool Stuff "*10)
 ```
+
 ipython_key26
 ```python
 time = input("Is it morning or evening? (morning/evening) ")

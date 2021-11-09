@@ -1,0 +1,9 @@
+{
+	"functions-question1_key1": "Question 1",
+	"functions-question1_key2": "Question 1 (Part 1)",
+	"functions-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> naam ka Ek function likhiye jo yeh text ko \"ek baar\" print kare.",
+	"functions-question1_key4": "Fir iss function ko 5 baar call kar ke yeh text 5 baar print karvao.",
+	"functions-question1_key5": "Question 1 (Part 2)",
+	"functions-question1_key6": "Fir while <span style=\"\">loop</span> ka use kar ke iss function ko 100 baar call karne ka <span style=\"\">code</span> likho.",
+	"functions-question1_key7": "Dono parts ka <span style=\"\">code</span> ek hi <span style=\"\">file</span> mein likh ke <span style=\"\">upload</span> karo!"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question6_key1"
+  },
+  {
+    "component": "text",
+    "value": "question6_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question6_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question6_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dic={<br>    “ball”:”red”,<br>    ”bat”:4,<br>    ”wickets”:8,<br>    ”ball”green,<br>    ”bat”:3<br>    }"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question6_key5"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "{“ball”:”red”,”bat”:4,”wickets”:8}"
+  }
+]

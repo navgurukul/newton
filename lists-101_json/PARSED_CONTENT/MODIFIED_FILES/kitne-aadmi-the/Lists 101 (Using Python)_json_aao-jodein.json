@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "aao-jodein_key1"
+  },
+  {
+    "component": "text",
+    "value": "aao-jodein_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+  }
+]

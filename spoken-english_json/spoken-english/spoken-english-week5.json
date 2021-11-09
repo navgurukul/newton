@@ -1,0 +1,118 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Week 5 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1 ( Easy Level )"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: <br>Let’s talk about feelings! Some common feelings include happy, sad, excited, worried, overwhelmed, angry, hurt, frustrated, confident, confused, bored, surprised. "
+	},
+	{
+		"component": "text",
+		"value": "What are all the feelings you experienced today (or<br>yesterday)?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Tell me about a happy time in your life:",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "How old were you?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What happened during that day?<br><br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Available(adjective)<br>Meaning: present or ready for immediate use<br>Usage: The tutor is made available to the student once a<br>week."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Homework:"
+	},
+	{
+		"component": "text",
+		"value": "Use the word of the week when talking to teachers/friends/<br>others this week and make a note of how many times you<br>used it.  "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "Name- Place- Animal- Thing<br>Volunteer starts countdown from A-Z. Student says stop.<br>Whichever alphabet it stops at, a student has to form four sentences using a word starting with that alphabet and covering each of the categories in Name- Place- AnimalThing . For example: if it stopped at D; student could make the following sentences:<br>Name- My cousin’s name is Divya.<br>Place- Delhi is the capital of India.<br>Animal- My favorite animal is a dog.<br>Thing- I love to play with a doll.  "
+	},
+	{
+		"component": "text",
+		"value": "*Can play several rounds of this game."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2 ( Intermediate Level )"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: <br>Let’s talk about feelings! Some common feelings include amused, content, doubtful, embarrassed, confident, determined, frustrated, upset, motivated, inspired.<br>3. What are all the feelings you experienced today (or yesterday)?<br>4. Tell me about a happy time in your life, and describe<br>that day."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Confidence(noun)<br>Meaning: a feeling of trust and firm belief in yourself or<br>others.<br>Usage: I have confidence in your ability to learn English."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Homework:"
+	},
+	{
+		"component": "text",
+		"value": "Use the word of the week when talking to teachers/friends/<br>others this week and make a note of how many times you<br>used it.  "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game time"
+	},
+	{
+		"component": "text",
+		"value": "Name- Place- Animal- Thing<br>Volunteer starts countdown from A-Z. Student says stop.<br>Whichever alphabet it stops at, a student has to form four sentences using a word starting with that alphabet and covering each of the categories in Name- Place- AnimalThing . <br>For example: if it stopped at D; student could make the following sentences:<br>Name- My cousin’s name is Divya.<br>Place- Delhi is the capital of India.<br>Animal- My favorite animal is a dog.<br>Thing- I love to play with a doll."
+	},
+	{
+		"component": "text",
+		"value": "*Can play several rounds of this game.<br>Advance: Student makes additional follow up sentences<br>for each category. For example:<br>Name- My cousin’s name is Divya. She lives in Dehradun.<br>Place- Delhi is the capital of India. It is in the north of<br>India.<br>Animal- My favorite animal is a dog. There is a black dog<br>in my school.<br>Thing- I love to play with a doll. My doll’s name is barbie."
+	}
+]

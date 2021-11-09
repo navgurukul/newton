@@ -1,0 +1,43 @@
+[
+	{
+		"component": "text",
+		"value": "Write a program where it will console these 3 parameters for odd and even numbers."
+	},
+	{
+		"component": "text",
+		"value": "count",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sum",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "average<br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "var elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]<br>var count_odd_numbers=0;<br>var sum_odd_numbers=0;<br>var sum_even_numbers=0;<br>var count_even_numbers=0;<br>for(var i of elements){<br>   if(i%2 ===0){<br>       sum_even_numbers+=i;<br>       count_even_numbers+=1;<br>   }<br>   else{<br>       sum_odd_numbers+=i;<br>       count_odd_numbers+=1;<br>   }<br>}<br>console.log((sum_even_numbers+sum_odd_numbers)/2);<br>console.log(count_odd_numbers);<br>console.log(count_even_numbers);<br>console.log(sum_odd_numbers);<br>console.log(sum_even_numbers);"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "Niche diye gye <span style=\"\">code</span> snippet ki <span style=\"\">output</span> kya hogi?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def primeorNot(num):     <br>    if num > 1:<br>        for i in range(2,num):<br>            if (num % i) == 0:<br>                print(num,\"is not a prime number\")<br>                print(i,\"times\",num//i,\"is\",num)<br>                break<br>            else:<br>                print(num,\"is a prime number\")<br><br>    else:<br>           print(num,\"is not a prime number\")<br>primeorNot(406)"
+	}
+]

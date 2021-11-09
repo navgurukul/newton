@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Number_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 25;         // positive integer<br>var b = 80.5;       // floating-point number<br>var c = -2;         // negative number"
+  },
+  {
+    "component": "text",
+    "value": "Number_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Number_key3"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "console.log(16 / 0);  // Output: Infinity<br>console.log(-16 / 0); // Output: -Infinity<br>console.log(16 / -0); // Output: -Infinity"
+  },
+  {
+    "component": "text",
+    "value": "Number_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Number_key5"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "console.log(\"Nav Gurukul\" / 2);       // Output: NaN<br>console.log(\"Dharamshala\" / 2 + 10);  // Output: NaN<br>console.log(Math.sqrt(-1));         // Output: NaN"
+  },
+  {
+    "component": "text",
+    "value": "Number_key6"
+  }
+]

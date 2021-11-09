@@ -1,0 +1,5 @@
+{
+	"Question-10_key1": "Take two numbers as input from the user in variables varx and vary.",
+	"Question-10_key2": "Check whether varx is divisible by vary.",
+	"Question-10_key3": "If yes, console  <b>Divisible</b> else console <b>Not Divisible</b>.<br><br>"
+}
