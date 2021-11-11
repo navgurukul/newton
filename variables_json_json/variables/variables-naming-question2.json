@@ -1,6 +1,0 @@
-[
-	{
-		"component": "text",
-		"value": "[<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 2,<br>        \"value\": \"Question\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Assign <span style=\"\">INTEGER</span> value to a <span style=\"\">VARIABLE</span> named as <span style=\\\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\\\">123var</span>.  \",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 1<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"If your <span style=\"\">code</span> runs easily, then <span style=\\\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\\\"><span style=\"\">upload</span></span> it. If it does not run then put the reason in the comment and <span style=\"\">upload</span> the <span style=\"\">code</span>.\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 2<br>        }<br>    }<br>]"
-	}
-]
