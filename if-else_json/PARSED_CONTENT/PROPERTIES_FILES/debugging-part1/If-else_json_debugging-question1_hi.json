@@ -2,4 +2,5 @@
     "debugging-question1_key1": "प्रश्न 1",
     "debugging-question1_key2": "आगे के प्रश्नों में आपको पहले से लिखा हुआ <span style=\"\">code</span> दिखाई देगा। आपको <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> गलत <span style=\"\">code</span> करना होगा और सही <span style=\"\">code</span> ।",
     "debugging-question1_key3": "<span style=\"\">Save</span> सही <span style=\"\">code</span> एक नए <span style=\"\">file</span> और इसे सबमिट करें।"
+    
 }
