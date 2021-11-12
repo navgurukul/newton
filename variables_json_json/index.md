@@ -1,9 +1,0 @@
-- variables
-	- variables-intro.json	
-	- variables-question.json	
-	- variables-naming-rules.json	
-	- variables-naming-conventions.json	
-	- variables-naming-question1.json	
-	- variables-naming-question2.json	
-	- variables-naming-question3.json	
-	- variables-naming-question4.json	

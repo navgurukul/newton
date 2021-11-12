@@ -7,7 +7,7 @@
     "numbericQ_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> वैरिएबल को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Complex</span> मान असाइन करें।<br>",
     "numbericQ_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> प्रिंट करें।<br><br><br>",
     "numbericQ_key8": "प्रश्न 2",
-    "numbericQ_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\u0018�4INTEGER</span> साथ उपयोगकर्ता से 2 इनपुट लें।<br>",
+    "numbericQ_key9": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> साथ उपयोगकर्ता से 2 इनपुट लें।<br>",
     "numbericQ_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span> नाम के वेरिएबल में 2 उपयोगकर्ता इनपुट के योग को स्टोर करें।<br>",
     "numbericQ_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">SUM</span> प्रिंट करें।"
 }
