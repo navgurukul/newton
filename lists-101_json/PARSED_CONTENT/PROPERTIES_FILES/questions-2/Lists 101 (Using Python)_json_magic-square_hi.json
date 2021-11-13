@@ -1,8 +1,8 @@
 {
     "magic-square_key1": "मैजिक स्क्वायर है?",
     "magic-square_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Magic Square</span> वह वर्ग है जिसमें प्रत्येक पंक्ति का योग, प्रत्येक स्तंभ का योग और दोनों विकर्णों का योग बराबर होता है।",
-    "magic-square_key3": "आपको यह प्रोग्राम लिखना है जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> <span style=\"\">)�����</span> रूप में लेता है और जांचता है कि यह <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square�</span> या नहीं?",
-    "magic-square_key4": "यह एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square�</span> क्योंकि,",
+    "magic-square_key3": "आपको यह प्रोग्राम लिखना है जो एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> <span style=\"\">input</span> के रूप में और जांचता है कि क्या यह <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square</span> है या नहीं? ",
+    "magic-square_key4": "यह एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square</span> है क्योंकि ",
     "magic-square_key5": "इस वर्ग की कल्पना करने के लिए, इसे एक वर्ग की तरह देखें। सभी पंक्तियों में तत्वों की संख्या समान है। पंक्ति में तत्वों की संख्या एक स्तंभ में तत्वों की संख्या के बराबर होनी चाहिए।",
     "magic-square_key6": "यह कोई जादुई वर्ग नहीं है :",
     "magic-square_key7": "क्योंकि दूसरी पंक्ति के तत्वों का योग 15 नहीं है, इसलिए यह कोई जादुई वर्ग नहीं है।",

@@ -1,7 +1,7 @@
 {
     "lists-question4_key1": "एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">palindrome</span> एक शब्द, वाक्य, पद्य या यहां तक कि एक संख्या है जो एक ही पीछे या आगे पढ़ता है। नितिन की तरह। नितिन को बाएँ या दाएँ से पढ़ें, वही रहेगा। इसी प्रकार MOM भी एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">palindrome</span> ।",
     "lists-question4_key2": "एक <span style=\"\">code</span> लिखें जो जांचता है कि कोई सूची पैलिंड्रोम है या नहीं। और प्रिंट करें &quot;हान! पैलिंड्रोम है&quot; अगर यह एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pallindrome</span> और &quot;नहीं! पैलिंड्रोम नहीं है” अगर यह पैलिंड्रोम नहीं है।",
-    "lists-question4_key3": "<span style=\"\">�ovcode</span> लिखने के लिए नीचे दी गई सूची का उपयोग कर सकते हैं।",
+    "lists-question4_key3": "फिलहाल आप <span style=\"\">code</span> लिखने के लिए नीचे दी गई लिस्ट का उपयोग कर सकते हैं।",
     "lists-question4_key4": "अब, अपनी सूची बदलें, और विभिन्न मूल्यों के साथ इसका परीक्षण करें और फिर अंत में <span style=\"\">upload</span> सही <span style=\"\">code</span> ।",
     "lists-question4_key5": "आप इन मूल्यों के लिए परीक्षण कर सकते हैं।",
     "lists-question4_key6": "nayan =&gt; <span style=\"\">true</span><br>naina =&gt; <span style=\"\">false</span><br>anamana =&gt; <span style=\"\">true</span><br>ainaania =&gt; <span style=\"\">true</span><br>ainabnia =&gt; <span style=\"\">false</span>",
