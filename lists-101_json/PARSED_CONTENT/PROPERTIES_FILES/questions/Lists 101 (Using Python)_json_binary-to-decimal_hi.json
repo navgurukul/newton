@@ -3,7 +3,7 @@
     "binary-to-decimal_key2": "इस प्रोग्राम में यदि हमें कोई संख्या <b>बाइनरी रूप</b> में दी जाती है, तो हम उस संख्या को <b>दशमलव रूप</b> में बदलना सीखेंगे।",
     "binary-to-decimal_key3": "बायनरी",
     "binary-to-decimal_key4": "कृपया यह आरेख देखें।",
-    "binary-to-decimal_key5": "इस संख्या को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form</span> में कन्वर्ट करे:-",
+    "binary-to-decimal_key5": "इस नंबर को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form\u001ba�</span> :-",
     "binary-to-decimal_key6": "उपरोक्त चरणों को करने के बाद, आपको उत्तर के रूप में <b>155 मिलेंगे।</b>",
     "binary-to-decimal_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
     "binary-to-decimal_key8": "इस कार्यक्रम <span style=\"\">output</span> क्या होगा? यदि आपका कार्यक्रम <b>मजबूत है</b> तो यह अमान्य <span style=\"\">output</span> , अन्यथा यह एक <span style=\"\">error</span> फेंक देगा।",

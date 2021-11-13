@@ -1,5 +1,5 @@
 {
     "debugging-question1_key1": "प्रश्न 1",
-    "debugging-question1_key2": "मान लीजिए, आपके पास दी गई सूची में<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> हैं। हमने नीचे एक <span style=\"\">code</span> लिखा है जिसमें हमने कुल अंकों की गणना इस के अंक के योग के रूप में की है। लेकिन यह <span style=\"\">code</span> नहीं चलता है। इस  <span style=\"\">code</span> को डीबग करें और फिर इसे सबमिट करें।",
+    "debugging-question1_key2": "मान लीजिए, आपके पास दी गई सूची में <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> <span style=\"\">�a���\u0019</span> लिखा है जिसमें हमने कुल अंकों की गणना इस अंक के योग के रूप में की है। लेकिन यह <span style=\"\">code</span> नहीं चलता है। <span style=\"\">񍽑�</span> डीबग करें और फिर सबमिट करें।",
     "debugging-question1_key3": "<span style=\"\">Save</span> सही किया गया <span style=\"\">code</span> एक <span style=\"\">file</span> और फिर <span style=\"\">upload</span> इसे।"
 }
