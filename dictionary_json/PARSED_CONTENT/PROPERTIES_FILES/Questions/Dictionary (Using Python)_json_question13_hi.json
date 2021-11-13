@@ -1,6 +1,6 @@
 {
     "question13_key1": "प्रश्न 13",
-    "question13_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">񑥍ѥ�����</span> के शीर्ष 3 उच्चतम मूल्यों को मुद्रित करने के लिए एक प्रोग्राम लिखें।",
+    "question13_key2": "किसी दिए गए <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span>के शीर्ष 3 उच्चतम मूल्यों को मुद्रित करने के लिए एक प्रोग्राम लिखें।",
     "question13_key3": "उदाहरण :-",
     "question13_key4": "<span style=\"\">Output</span> :-"
 }

@@ -1,4 +1,4 @@
 {
     "aao-jodein_key1": "आइए जोड़ें",
-    "aao-jodein_key2": "<span style=\"\">code</span> लिखें जो किसी भी सूची के लिए काम करता है, इसे दो राशियाँ देनी चाहिए <span style=\"\">outputs</span> , एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�\u0011�\u0005�����յ����</span> का योग है और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\u0007�</span> सूची में मौजूद ZXZlbiBudW1iZXJz का योग है।"
+    "aao-jodein_key2": "एक <span style=\"\">code</span>  लिखें जो किसी भी सूची के लिए काम करता है, इसे <span style=\"\">outputs</span>के रूप में दो योग देना चाहिए, एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> सूची में मौजूद है और दूसरा <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span>  सूची में मौजूद है।"
 }
