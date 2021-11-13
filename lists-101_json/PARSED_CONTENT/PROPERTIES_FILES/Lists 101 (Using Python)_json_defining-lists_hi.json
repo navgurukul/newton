@@ -14,9 +14,9 @@
     "defining-lists_key13": "यह है छात्रों के अंकों की सूची।",
     "defining-lists_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">LIST OF FLOATS</span>",
     "defining-lists_key15": "यह पिछले सात दिनों के तापमान की सूची है।",
-    "defining-lists_key16": "लेकिन अगर हम किसी लिस्ट <span style=\"\">variable</span> पर टाइप फंक्शन का उपयोग करेंगे, तो यह हमेशा टाइप को लिस्ट के रूप में दिखाएगा। लेकिन लिस्ट के अंदर का डेटा निम्न का हो सकता है किसी भी तरह का।", 
+    "defining-lists_key16": "<span style=\"\">�m=��]�\\�XX�\u0019</span> पर टाइप फ़ंक्शन का उपयोग करेंगे, तो यह हमेशा प्रकार को सूची के रूप में दिखाएगा। लेकिन हम डेटा एक सूची के अलावा किसी भी प्रकार का हो सकता है।",
     "defining-lists_key17": "अभ्यास",
     "defining-lists_key18": "अपने दोस्तों का <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span> बनाएं।",
-    "defining-lists_key19": "एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list</span>बनाएं देशों की, जहां आप जाना चाहते हैं।",
-    "defining-lists_key20": "एक सूची बनाएं <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">total expenses</span>की बनायें पिचले 5 महीने की(मान लीजिए , आपके पिछले महीने के खर्च 58750 थे और इसी तरह।)"
+    "defining-lists_key19": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">��)����</span> बनाएं, जहां आप जाना चाहते हैं।",
+    "defining-lists_key20": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�n}(gF�F\u0016�\u0006W�\u0006V�6W</span> की एक सूची बनाएं (मान लीजिए, आपके पिछले महीने के खर्च 58750 थे और इसी तरह।)"
 }
