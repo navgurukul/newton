@@ -5,14 +5,14 @@ name: Python Class Structure
 ### Step 3 - Curriculum
 Browse through the Curriculum to teach **Basics of Python Programming** 
 
-* [Introduction to Python](https://www.merakilearn.org/course/101/exercise/3161)
-* [Variables](https://www.merakilearn.org/course/102/exercise/3335)
-* [Data Types](https://www.merakilearn.org/course/122/exercise/3143)
-* [Operators](https://www.merakilearn.org/course/121/exercise/3137)
-* [If-Else](https://www.merakilearn.org/course/93/exercise/2169)
-* [Loops](https://www.merakilearn.org/course/83/exercise/3372)
-* [Lists](https://www.merakilearn.org/course/80/exercise/1961)
-* [Dictionary](https://www.merakilearn.org/course/104/exercise/2344)
+* [Introduction to Python](https://www.merakilearn.org/course/199/exercise/5938)
+* [Variables](https://www.merakilearn.org/course/164/exercise/5918)
+* [Data Types](https://www.merakilearn.org/course/165/exercise/5675)
+* [Operators](https://www.merakilearn.org/course/166/exercise/5690)
+* [If-Else](https://www.merakilearn.org/course/167/exercise/5651)
+* [Loops](https://www.merakilearn.org/course/168/exercise/5791)
+* [Lists](https://www.merakilearn.org/course/169/exercise/5842)
+* [Dictionary](https://www.merakilearn.org/course/170/exercise/5883)
 
 The **_8 courses in Python_** are divided into [**_23 Workshop Classes_**](https://www.merakilearn.org/course/145/exercise/3523). We expect you to follow this Class division, to ensure that the sequence of learning is maintained, and a child has an opportunity to come back and attend only those specific classes she had doubts in, or had missed it for whatever reasons.
 
