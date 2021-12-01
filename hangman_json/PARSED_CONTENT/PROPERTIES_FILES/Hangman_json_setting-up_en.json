@@ -1,0 +1,11 @@
+{
+	"setting-up_key1": "Download the project files using the github repository - <a href=\"https://github.com/navgurukul/e-sreedharan\">https://github.com/navgurukul/e-sreedharan</a>",
+	"setting-up_key2": "Ab aap iss project ko thoda debugger use kar kar samjhein, ki yeh project kaise kaam kar raha hai. Hum iss project mei kaafi saarein chote chote features implement karenge. <span style=\"\">Terminal</span> par run kar kar bhi program ko samjhein.",
+	"setting-up_key3": "Important",
+	"setting-up_key4": "Observe karein ki <span style=\"\">code</span> kaisa likha hua hai, aur woh baat <span style=\"\">code</span> karte hue dhyaan rakhein.",
+	"setting-up_key5": "Jaise variables aur functions ka naam snake_case mei hai",
+	"setting-up_key6": "Variables ka naam kaafi descriptive hai",
+	"setting-up_key7": "Constants ka naam CAPS_CASE mei hai",
+	"setting-up_key8": "Functions ki documentation ki gayi hai - ki kya argument hai, aur kya return karta hai. Iss documentiation se python aapke liye hints bhi generate karta hai. Documentation ''' ''' tags ke andar hai.",
+	"setting-up_key9": "Aapko bhi yeh sab cheezein follow karni hai - iss <span style=\"\">code</span> mei, aur otherwise bhi. Isse aapka <span style=\"\">code</span> readable hota hai, aur aap usse acche se maintain aur develop kar paoge."
+}

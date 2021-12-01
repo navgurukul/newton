@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "childhood-memory_key1"
+  },
+  {
+    "component": "text",
+    "value": "childhood-memory_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "childhood-memory_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "childhood-memory_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "childhood-memory_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "childhood-memory_key6"
+  },
+  {
+    "component": "youtube",
+    "value": "StKVZsPCojY"
+  }
+]

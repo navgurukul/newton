@@ -1,0 +1,69 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key1"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key3"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "2! + 3! + 4! + 5!<br>2 + (3*2) + (4*3*2) + (5*4*3*2)<br>152"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Task-3_key6"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 2345<br>  Output: 14"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 2:<br>  Input:  234<br>  Output: 32"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 3:<br>  Input: 536<br>  Output: 846"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 4:<br>  Input: 99<br>  Output: 725760"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key7"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key8"
+  }
+]

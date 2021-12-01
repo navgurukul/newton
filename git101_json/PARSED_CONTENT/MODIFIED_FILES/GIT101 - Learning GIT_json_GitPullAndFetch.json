@@ -1,0 +1,36 @@
+[
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key1"
+  },
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key2"
+  },
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key3"
+  },
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key4"
+  },
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key5"
+  },
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "GitPullAndFetch_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "closing_key1"
+  },
+  {
+    "component": "text",
+    "value": "closing_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "closing_key8"
+  },
+  {
+    "component": "text",
+    "value": "closing_key9",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key10",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key11",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "closing_key12"
+  },
+  {
+    "component": "text",
+    "value": "closing_key13",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key14",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key15",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key16",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "closing_key17"
+  },
+  {
+    "component": "text",
+    "value": "closing_key18",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key19",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key20",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key21",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "closing_key22",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

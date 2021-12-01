@@ -1,0 +1,11 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "feedback-for-curriculum_key1"
+  },
+  {
+    "component": "text",
+    "value": "feedback-for-curriculum_key2"
+  }
+]

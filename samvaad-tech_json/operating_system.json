@@ -115,7 +115,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Sochiye pehla windows <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OS</span> kaisa dikhta hoga?<br><br>",
+		"value": "Sochiye pehla windows <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OS</span> kaisa dikhta hoga?",
 		"decoration": {
 			"type": "number",
 			"value": 1

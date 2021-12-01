@@ -1,0 +1,11 @@
+[
+  {
+    "component": "text",
+    "value": "DictionariesBonus_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "DictionariesBonus_key2"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "component": "text",
+    "value": "files-question3_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "banks_list = [\"Kotak\", \"HDFC\", \"RBL\", \"SBI\", \"Bank of Baroda\"]"
+  }
+]

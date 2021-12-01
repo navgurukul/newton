@@ -1,0 +1,13 @@
+{
+	"Task-5_key1": "Reading Material",
+	"Task-5_key2": "None",
+	"Task-5_key3": "Question",
+	"Task-5_key4": "Apko ek value di jayegi jese <b>10</b> toh apko <b>1-10</b> ke bich meh jitne bi number hai unke square ka sum nikalna hai aur uske baad <b>1-10</b> ke bich jitne number hai uske sum karke joh value aye uska square nikalna hai aur<br>dusri value meh se pheli value gatani hai.",
+	"Task-5_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1&lt;sup&gt;2&lt;/sup&gt;+2&lt;sup&gt;2&lt;/sup&gt;+3&lt;sup&gt;2&lt;/sup&gt;+4&lt;sup&gt;2&lt;/sup&gt;+.....+10&lt;sup&gt;2&lt;/sup&gt; = 385</span>",
+	"Task-5_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(1+2+3+4+...+10)&lt;sup&gt;2&lt;/sup&gt; = 3025</span>",
+	"Task-5_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3025 - 385 = 2640</span>",
+	"Task-5_key8": "Test",
+	"Task-5_key9": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare",
+	"Task-5_key10": "Hint",
+	"Task-5_key11": "No Hints"
+}

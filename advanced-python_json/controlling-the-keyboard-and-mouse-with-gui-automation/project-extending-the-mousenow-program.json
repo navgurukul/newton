@@ -1,0 +1,42 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project: Extending the mouseNow Program"
+	},
+	{
+		"component": "text",
+		"value": "You could extend the mouseNow.py project from earlier in this chapter so that it not only gives the x- and y-coordinates of the mouse cursor’s current position but also gives the RGB color of the pixel under the cursor. Modify the <span style=\"\">code</span> inside the while <span style=\"\">loop</span> of mouseNow.py to look like this:"
+	},
+	{
+		"component": "text",
+		"value": "<h1 id=\"spanstylepython3span\">! <span style=\"\">python3</span></h1>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "mouseNow.py - Displays the mouse cursor's current position."
+	},
+	{
+		"component": "text",
+		"value": "--snip--<br>        positionStr = 'X: ' + str(x).rjust(4) + ' Y: ' + str(y).rjust(4)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "pixelColor = pyautogui.screenshot().getpixel((x, y))<br>        positionStr += ' RGB: (' + str(pixelColor[0]).rjust(3)<br>        positionStr += ', ' + str(pixelColor[1]).rjust(3)<br>        positionStr += ', ' + str(pixelColor[2]).rjust(3) + ')'"
+	},
+	{
+		"component": "text",
+		"value": "print(positionStr, end='')"
+	},
+	{
+		"component": "text",
+		"value": "--snip--<br>Now, when you run mouseNow.py, the <span style=\"\">output</span> will include the RGB color value of the pixel under the mouse cursor."
+	},
+	{
+		"component": "text",
+		"value": "Press Ctrl-C to quit.<br>X:  406 Y:   17 RGB: (161, 50, 50)<br>This information, along with the pixelMatchesColor() function, should make it easy to add pixel color checks to your GUI automation scripts."
+	}
+]

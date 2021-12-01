@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "What would be the advantages of self-driving cars?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What would be the disadvantages of self-driving cars?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Would you like to ride in a self-driving car?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

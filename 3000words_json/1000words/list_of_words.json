@@ -1,0 +1,11 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "List of 1000 Words"
+	},
+	{
+		"component": "text",
+		"value": "Ab yeh tumhara dharam, yeh tumhara karam hai!"
+	}
+]

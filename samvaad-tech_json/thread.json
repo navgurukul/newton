@@ -47,7 +47,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Ek program process mai kitne thread hote hai<br><br>",
+		"value": "Ek program process mai kitne thread hote hai",
 		"decoration": {
 			"type": "number",
 			"value": 3

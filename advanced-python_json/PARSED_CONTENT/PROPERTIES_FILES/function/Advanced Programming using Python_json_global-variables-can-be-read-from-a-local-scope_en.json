@@ -1,0 +1,5 @@
+{
+	"global-variables-can-be-read-from-a-local-scope_key1": "Global <span style=\"\">Variables</span> Can Be Read from a Local Scope",
+	"global-variables-can-be-read-from-a-local-scope_key2": "Consider the following program:",
+	"global-variables-can-be-read-from-a-local-scope_key3": "def spam():<br>    print(eggs)<br>eggs = 42<br>spam()<br>print(eggs)<br>Since there is no parameter named eggs or any <span style=\"\">code</span> that assigns eggs a value in the spam() function, when eggs is used in spam(), <span style=\"\">Python</span> considers it a reference to the global <span style=\"\">variable</span> eggs. This is why 42 is printed when the previous program is run."
+}

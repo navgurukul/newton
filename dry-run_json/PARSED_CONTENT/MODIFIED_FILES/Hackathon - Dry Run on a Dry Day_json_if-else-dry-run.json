@@ -1,0 +1,114 @@
+[
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=5jlV9b1GB9k"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 15<br>y = 12<br><br>if x > y:<br>    print \"y se bada x hai\"<br>else:<br>    print \"x se bada y hai\"<br><br>x = 12<br>y = 15<br>z = 18<br><br>if x > y:<br>    print \"y se bada x hai\"<br>elif y > z:<br>    print \"z se bada y hai\"<br>else:<br>    print \"x se bada y hai, aur y se bada z hai\""
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 12<br>y = 17<br><br>if x>y:<br>    print True<br>print False"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 10<br>y = 5<br>if x > y:<br>    smaller = y<br>else:<br>    smaller = x"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 10<br>y = 5<br>smaller = x<br>if x > y:<br>    smaller = y"
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 34<br>y = 12<br>z = 90<br><br>if x > y:<br>    if x < z:<br>        m = y<br>    else:<br>        m = z<br>else: <br>    if y > z:<br>        m = y<br>    else:<br>        m = x<br>print m"
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = 53<br>if marks>25:<br>  print \"F\"<br>elif marks<=25 and marks>45:<br>  print \"E\"<br>elif marks<=45 and marks>50:<br>  print \"D\"<br>elif marks<=50 and marks>60:<br>  print \"C\"<br>elif marks<=60 and marks>80:<br>  print \"B\"<br>else:<br>  print \"A\""
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-else-dry-run_key4"
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "amount = 5500<br>if amount<= 2000:<br>    discount = (amount * .5)<br>    print (\"Paid Amount: \", amount-discount)<br>elif amount >=5000 and amount <=6000:<br>    discount = (amount * .25)<br>    print (\"Paid Amount: \", amount-discount)<br>if amount >= 10000:<br>    discount = (amount * .35)<br>    print (\"Paid Amount: \", amount-discount)<br>else:<br>    discount = (amount *.50)<br>    print (\"Paid Amount: \", amount-discount)"
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "amount = 2400<br>transaction_type = \"L\"<br>if transaction_type == \"L\":<br>    if amount <= 25000:<br>        discount = amount*.0<br>        print \"Net Amount:\", discount<br>    if amount <=57000:<br>        discount = amount*.5<br>        print \"Net Amount:\", discount<br>else:<br>    if amount <=100000:<br>        discount = amount*.075<br>        print \"Net Amount:\", discount<br>    if amount >= 100000:<br>        discount = amount*.10<br>        print \"Net Amount:\", discount"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "u1 = \"rock\"<br>u2 = \"paper\"<br>if u1==u2:<br>       print \"It's a tie!\"<br>elif u1 == 'scissors':<br>    if u2 ==’rock’:<br>        print \"Rock wins!\"<br>    else:<br>        print \"Paper wins!\"<br>elif u1 == 'paper':<br>    if u2 == 'scissors':<br>        print \"Scissors win!\"<br>    else:<br>        print \"Rock wins!\"<br>elif u1 == 'rock':<br>    if u2 == 'paper':<br>        print \"Paper wins!\"<br>    else:<br>        print \"Scissors win!\"<br>else:<br>    print \"Invalid input! You have not entered rock, paper or scissors, try again.\""
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key9"
+  },
+  {
+    "component": "text",
+    "value": "if-else-dry-run_key10"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=5v0Ie9ig0Qs"
+  }
+]

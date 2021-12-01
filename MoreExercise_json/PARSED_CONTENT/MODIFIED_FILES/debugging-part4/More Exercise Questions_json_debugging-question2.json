@@ -1,0 +1,64 @@
+[
+  {
+    "component": "text",
+    "value": "debugging-question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key2"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key6"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key7"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key9",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import random<br>def getSecretNum(numDigits):<br># Returns a string that is numDigits long, made up of unique random digits.<br>  numbers = list(range(10))<br>  random.shuffle(numbers)<br>  secretNum = ''<br>  for i in range(numDigits):<br>    secretNum += (numbers[i])<br>  print (secretNum)<br><br>def getClues(guess, secretNum):<br># Returns a string with the pico, fermi, None clues to the user.<br>  if guess == secretNum:<br>    return 'You got it!'<br>  clue = []<br>  for i in range(len(guess)):<br>    if guess[i] == secretNum[i]:<br>      clue.append('Fermi')<br>    elif guess[i] in secretNum:<br>      clue.append('Pico')<br>    if len(clue) == 0:<br>      return 'None'<br>  return ' '.join(clue)<br><br>def isOnlyDigits(num):<br># Returns True if num is a string made up only of digits. Otherwise returns False.<br>  if num = '':<br>    return False<br><br>  for i in num:<br>    if i not in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]:<br>      return False<br><br>def playAgain():<br># This function returns True if the player wants to play again, otherwise it returns False.<br>  play = input(\"Do you want to play again? Yes or No?\") <br>  return play.lower.startswith('y')<br><br>NUMDIGITS = 3<br>MAXGUESS = 10<br><br>print('I am thinking of a %s-digit number. Try to guess what it is.' % (NUMDIGITS))<br>print('Here are some clues:')<br>print('When I say:    That means:')<br>print('  Pico         One digit is correct but in the wrong position.')<br>print('  Fermi        One digit is correct and in the right position.')<br>print('  None       No digit is correct.')<br><br>while True:<br>  secretNum = getSecretNum(NUMDIGITS)<br>  print('I have thought up a number. You have %s guesses to get it.' % (MAXGUESS))<br>  numGuesses = 1<br>  while numGuesses <= MAXGUESS:<br>    while len(guess) != NUMDIGITS or not isOnlyDigits(guess):<br>      print 'Guess' + (numGuesses)<br>      guess = input(\"Guess Again\")<br><br>    clue = getClues(guess, secretNum)<br>    print(clue)<br>    numGuesses += 1<br>    if guess == secretNum:<br>      break<br>    if numGuesses < MAXGUESS:<br>      print ('You ran out of guesses. The answer was ' + secretNum)<br>  if not playAgain:<br>    break<br>"
+  }
+]

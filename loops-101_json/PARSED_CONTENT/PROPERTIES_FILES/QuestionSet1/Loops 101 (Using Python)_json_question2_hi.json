@@ -1,0 +1,7 @@
+{
+    "question2_key1": "प्रश्न 2",
+    "question2_key2": "1 से 100 तक की सभी संख्याओं <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\u0019��</span> को प्रिंट करने के लिए <span style=\"\">loops</span> का उपयोग करने वाला प्रोग्राम लिखें।",
+    "question2_key3": "उसके लिए आपको 1 से 100 तक के सभी नंबरों <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum\u001f`�����",
+    "question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1+2+3+4 +5+6+7....+95+96+97+98+99+100</span>",
+    "question2_key5": "फिर राशि प्रिंट करें।"
+}

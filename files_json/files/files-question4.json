@@ -1,0 +1,44 @@
+[
+	{
+		"component": "text",
+		"value": "Iss text ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">question3.txt</span> ke naam ki <span style=\"\">file</span> mein <span style=\"\">save</span> karo."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "rishabh - meerut<br>imtiyaz - delhi<br>nilima - cochin<br>rati - shimla<br>ayishah - delhi<br>raghu - shimla<br>naseer - kanpur<br>karthikeyan - delhi<br>salma - jaipur<br>pankaj - delhi<br>brijesh - delhi<br>govind - delhi<br>puneet - shimla<br>siddhi - delhi<br>suman - jaipur<br>rajeev - shimla<br>mohinder - delhi<br>rajendra - jaipur<br>priyanka - shimla<br>neela - delhi<br>sashi - jaipur<br>sarika - delhi<br>deepti - shimla<br>harshad - delhi<br>trishna - raipur<br>pradeep - jaipur<br>sekhar - delhi<br>nand - delhi<br>anoop - delhi<br>balwinder - tokyo"
+	},
+	{
+		"component": "text",
+		"value": "Iss <span style=\"\">file</span> mein dhyaan se dekhoge toh ek insaan ka naam aur ek sheher ka naam milegaYeh sheher woh sheher hai jisme woh insaaan rehta hai. Ab aapne ek aisa <span style=\"\">code</span> likhna hai jo:"
+	},
+	{
+		"component": "text",
+		"value": "Delhi mein rehne waale logon ko ek alag file mein daale. Delhi waali file ka naam \"delhi.txt\" hona chaiye.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Shimla mein rehne waale logon ko ek alag file mein daale. Shimla waali file na naam \"shimla.txt\" hona chaiye",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aur saare log jo delhi aur shimla mein nahi rehte, unko ek alag file mein daale. Iss file ka naam \"others.txt\" hona chaiye",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Aapko aisa <span style=\"\">code</span> likhna hai, jo aisi <span style=\"\">file</span> mein kitni bhi lines pe chal paye.</b>"
+	}
+]

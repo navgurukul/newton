@@ -1,0 +1,28 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-excel-spreadsheets_key1"
+  },
+  {
+    "component": "text",
+    "value": "working-with-excel-spreadsheets_key2"
+  },
+  {
+    "component": "text",
+    "value": "working-with-excel-spreadsheets_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-excel-spreadsheets_key4"
+  },
+  {
+    "component": "text",
+    "value": "working-with-excel-spreadsheets_key5"
+  },
+  {
+    "component": "text",
+    "value": "working-with-excel-spreadsheets_key6"
+  }
+]

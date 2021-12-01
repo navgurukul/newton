@@ -1,0 +1,104 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "more-pattern-matching-with-regular-expressions_key1"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key2"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "more-pattern-matching-with-regular-expressions_key3"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key4"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> phoneNumRegex = re.compile(r'(\\d\\d\\d)-(\\d\\d\\d-\\d\\d\\d\\d)')<br>>>> mo = phoneNumRegex.search('My number is 415-555-4242.')<br>>>> mo.group(1)<br>'415'<br>>>> mo.group(2)<br>'555-4242'<br>>>> mo.group(0)<br>'415-555-4242'<br>>>> mo.group()<br>'415-555-4242'"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> mo.groups()<br>('415', '555-4242')<br>>>> areaCode, mainNumber = mo.groups()<br>>>> print(areaCode)<br>415<br>>>> print(mainNumber)<br>555-4242"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key7"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> phoneNumRegex = re.compile(r'(\\(\\d\\d\\d\\)) (\\d\\d\\d-\\d\\d\\d\\d)')<br>>>> mo = phoneNumRegex.search('My phone number is (415) 555-4242.')<br>>>> mo.group(1)<br>'(415)'<br>>>> mo.group(2)<br>'555-4242'"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key9"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "more-pattern-matching-with-regular-expressions_key10"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key11"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> heroRegex = re.compile (r'Batman|Tina Fey')<br>>>> mo1 = heroRegex.search('Batman and Tina Fey.')<br>>>> mo1.group()<br>'Batman'<br><br>>>> mo2 = heroRegex.search('Tina Fey and Batman.')<br>>>> mo2.group()<br>'Tina Fey'"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "more-pattern-matching-with-regular-expressions_key13"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key14"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> batRegex = re.compile(r'Bat(man|mobile|copter|bat)')<br>>>> mo = batRegex.search('Batmobile lost a wheel')<br>>>> mo.group()<br>'Batmobile'<br>>>> mo.group(1)<br>'mobile'"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key16"
+  },
+  {
+    "component": "text",
+    "value": "more-pattern-matching-with-regular-expressions_key17"
+  }
+]

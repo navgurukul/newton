@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "problems_key1"
+  },
+  {
+    "component": "text",
+    "value": "problems_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "problems_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "problems_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "problems_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

@@ -1,0 +1,214 @@
+[
+	{
+		"component": "text",
+		"value": "Conjunctions are connectors. They join words of the same category, phrases, clauses or<br>sentences. "
+	},
+	{
+		"component": "youtube",
+		"value": "JJ4n0jr8qX8"
+	},
+	{
+		"component": "youtube",
+		"value": "taPqomJKIYE"
+	},
+	{
+		"component": "text",
+		"value": "EXAMPLE: "
+	},
+	{
+		"component": "text",
+		"value": "Red <b>and</b> green are the colours in traffic signals.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Pay your fee on time <b>or</b> you will have to give a fine.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "We must take the umbrella <b>because</b> it may rain today.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "EXERCISE: <br>Identify the conjunctions in the following sentences:"
+	},
+	{
+		"component": "text",
+		"value": "The children are playing but their parents want them to study now.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The lights should be switched on as it is getting dark.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Although we heard the news, we could not believe it.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Please tell me how this problem can be solved.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The manager called a meeting when there was a financial crisis.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "The office has both a computer and a photocopier.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "There is a canteen here but it does not sell vegetarian food.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "You can either use the classroom or the seminar room for your presentation.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "My brother is neither here nor at home.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "The boss will give you leave if you tell him it is an emergency.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Following are some the of the conjunctions:"
+	},
+	{
+		"component": "text",
+		"value": "and (aur)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "but (lekin)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "still (fir bhi)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "yet (abhi tak)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "while (jabki)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "since (jab se)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "unless (jab tak)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "because (kyunki, isliye)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "or (ya)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "though (halanki)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercise:<br>Make two sentences using each of the above conjunctions."
+	}
+]

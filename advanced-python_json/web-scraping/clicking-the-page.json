@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Clicking the Page"
+	},
+	{
+		"component": "text",
+		"value": "WebElement objects returned from the find<i>element</i>* and find<i>elements</i>* methods have a click() method that simulates a mouse click on that element. This method can be used to follow a link, make a selection on a radio button, click a Submit button, or trigger whatever else might happen when the element is clicked by the mouse. For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> from selenium import webdriver<br>>>> browser = webdriver.Firefox()<br>>>> browser.get('http://inventwithpython.com')<br>>>> linkElem = browser.find_element_by_link_text('Read It Online')<br>>>> type(linkElem)"
+	},
+	{
+		"component": "text",
+		"value": "<class 'selenium.webdriver.remote.webelement.WebElement'>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> linkElem.click() # follows the \"Read It Online\" link"
+	},
+	{
+		"component": "text",
+		"value": "This opens Firefox to <span><a href=\"http://inventwith<span style=\"\">python</span>.com/\"&gt;http://inventwith<span style=\"\">python</span>.com/</a></span>, gets the WebElement object for the <a> element with the text Read It Online, and then simulates clicking that <a> element. It’s just like if you clicked the link yourself; the browser then follows that link."
+	}
+]

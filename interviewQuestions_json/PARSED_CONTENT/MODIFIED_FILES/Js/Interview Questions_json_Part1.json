@@ -1,0 +1,66 @@
+[
+  {
+    "component": "text",
+    "value": "Part1_key1",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key2",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key3",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key4",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key5",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key6",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key7",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "Part1_key8",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  }
+]

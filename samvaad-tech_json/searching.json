@@ -23,7 +23,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Binary Search<br><br>",
+		"value": "Binary Search",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -70,7 +70,7 @@
 	},
 	{
 		"component": "text",
-		"value": "It does not require the data in the array to be stored in any particular order.<br><br>",
+		"value": "It does not require the data in the array to be stored in any particular order.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -134,7 +134,7 @@
 	},
 	{
 		"component": "text",
-		"value": "The binary search is much more efficient than the linear search.<br><br>",
+		"value": "The binary search is much more efficient than the linear search.",
 		"decoration": {
 			"type": "number",
 			"value": 2

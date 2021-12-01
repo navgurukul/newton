@@ -24,7 +24,7 @@ getting-email-addresses-from-a-raw-message_key6
 >>> message.get_addresses('to')
 ```
 getting-email-addresses-from-a-raw-message_key7
-[getting-email-addresses-from-a-raw-message_key8](mailto:&#x5f;&#101;&#109;&#97;&#105;&#x6c;&#x5f;&#97;&#x64;&#100;&#x72;&#x65;&#115;&#115;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#46;&#99;&#111;&#x6d;)
+[getting-email-addresses-from-a-raw-message_key8](mailto:&#95;&#101;&#109;&#x61;&#105;&#108;&#x5f;&#x61;&#x64;&#x64;&#114;&#x65;&#115;&#x73;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;)
 getting-email-addresses-from-a-raw-message_key9
 ```python
 >>> message.get_addresses('cc')

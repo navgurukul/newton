@@ -1,0 +1,218 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-fetching-current-weather-data_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key3"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key8"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key9"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key12"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key13"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-fetching-current-weather-data_key15"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key16"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key17"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key18"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key19"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key20"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key21"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key22"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key23"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-fetching-current-weather-data_key24"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key25"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key26"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key27"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key28"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key29"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key30"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key31"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-fetching-current-weather-data_key32"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key33"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key34"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key35"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key36"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-fetching-current-weather-data_key37"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key38"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Load JSON data into a Python variable.<br>   weatherData = json.loads(response.text)<br>   # Print weather descriptions.<br>❶ w = weatherData['list']<br>   print('Current weather in %s:' % (location))<br>   print(w[0]['weather'][0]['main'], '-', w[0]['weather'][0]['description'])<br>   print()<br>   print('Tomorrow:')<br>   print(w[1]['weather'][0]['main'], '-', w[1]['weather'][0]['description'])<br>   print()<br>   print('Day after tomorrow:')<br>   print(w[2]['weather'][0]['main'], '-', w[2]['weather'][0]['description'])"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key39"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key40"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key41"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key42"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key43"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key44"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key45"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key46"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key47"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-fetching-current-weather-data_key48"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key49"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key50"
+  },
+  {
+    "component": "text",
+    "value": "project-fetching-current-weather-data_key51"
+  }
+]

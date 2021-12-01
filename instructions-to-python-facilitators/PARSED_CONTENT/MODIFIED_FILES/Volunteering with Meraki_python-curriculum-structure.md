@@ -32,7 +32,7 @@ python-curriculum-structure_key75
 python-curriculum-structure_key76
 python-curriculum-structure_key77
 python-curriculum-structure_key78
-[python-curriculum-structure_key79](mailto:&#x76;&#111;&#108;&#117;&#x6e;&#116;&#x65;&#x65;&#114;&#x40;&#110;&#x61;&#x76;&#103;&#x75;&#x72;&#x75;&#107;&#117;&#x6c;&#x2e;&#x6f;&#x72;&#x67;)
+[python-curriculum-structure_key79](mailto:&#118;&#x6f;&#108;&#x75;&#x6e;&#116;&#101;&#x65;&#x72;&#x40;&#x6e;&#97;&#118;&#103;&#x75;&#114;&#117;&#107;&#117;&#x6c;&#x2e;&#111;&#114;&#x67;)
 python-curriculum-structure_key80
 
 

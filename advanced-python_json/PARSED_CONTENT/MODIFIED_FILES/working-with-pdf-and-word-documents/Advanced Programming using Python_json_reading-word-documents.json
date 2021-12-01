@@ -1,0 +1,99 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "reading-word-documents_key1"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import docx<br>❶ >>> doc = docx.Document('demo.docx')<br>❷ >>> len(doc.paragraphs)"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❸ >>> doc.paragraphs[0].text"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❹ >>> doc.paragraphs[1].text"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❺ >>> len(doc.paragraphs[1].runs)"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❻ >>> doc.paragraphs[1].runs[0].text"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❼ >>> doc.paragraphs[1].runs[1].text"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❽ >>> doc.paragraphs[1].runs[2].text"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "➒ >>> doc.paragraphs[1].runs[3].text"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key10"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key11"
+  },
+  {
+    "component": "text",
+    "value": "reading-word-documents_key12"
+  }
+]

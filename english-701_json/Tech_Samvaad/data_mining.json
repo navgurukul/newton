@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "hHam konsa data use karte hai?<br><br><br>",
+		"value": "hHam konsa data use karte hai?",
 		"decoration": {
 			"type": "number",
 			"value": 3

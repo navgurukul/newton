@@ -1,0 +1,96 @@
+[
+	{
+		"component": "text",
+		"value": "Yeh rock paper scissors game ka program hai. Iss game ko aap computer ke against kheloge. Iss game ke 3 rules hai"
+	},
+	{
+		"component": "text",
+		"value": "Rock Paper se haar jata hai",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Paper Scissors se haar jaata hai",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aur, Scissors Rock se.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Appko pehle rock,paper ya scissors mei se chose karna hoga. Aur uske baad computer randomly inme se ek option chose karega. Firr, upar diye gaye rules ke hisab se result aayega. Jaise:"
+	},
+	{
+		"component": "text",
+		"value": "Agar aapne \"Rock\" chose kiya aur computer ne \"Scissors\"",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "To aap jeet jaoge kyunki \"Rock\" \"Scissors\" ko hara deta hai. ( Rule 3 )",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aap iss game ke rules iss"
+	},
+	{
+		"component": "youtube",
+		"value": "d1ZduiNyvcM"
+	},
+	{
+		"component": "text",
+		"value": "se seekh sakte hai."
+	},
+	{
+		"component": "text",
+		"value": "Topics covered:"
+	},
+	{
+		"component": "text",
+		"value": "semantic/syntactic problems in if/else",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "semantic error in while conditions",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "errors in variable naming",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "from random import randint<br><br>def win():<br>    print ('You win!')<br><br>def lose():<br>    print ('You lose!')<br><br>while False:<br>    player_choice = input('What do you pick? (rock, paper, scissors)')<br>    player_choice.strip()<br>    random_move = randint(0, 2)<br>    moves = ['rock', 'paper', 'scissors']<br>    computer_choice = option[random_move]<br><br>    if player_choice = computer_choice:<br>        print ('Draw!')<br>    elif  == 'rock' and coMp == 'scissors':<br>        win()<br>    elif  == 'paper' and comp == 'scissors':<br>        lose()<br>    elif playe == 'scissors' and comp == 'paper':<br>        win()<br>    elif player == 'scissors' and Comp == 'rock':<br>        lose()<br>    elif payer == 'paper' and computer == 'rock':<br>        win()<br>    elif player ==  and comp == :<br>        lose()<br>    aGain = input('Do you want to play again? (y or n)').strip()<br>    if again == 'n':<br>        break"
+	}
+]

@@ -1,0 +1,28 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<ol><br><li><span style=\"\">Python</span> Volunteers</li><br></ol>"
+	},
+	{
+		"component": "text",
+		"value": "Please fill in the following sheet after every class: <a href=\"https://docs.google.com/spreadsheets/d/1A8M0DIBB-yhlJ7_JvLSgBKppq5498hxwDyyc9GNs2F4/edit?usp=sharing\">Python Programming - Class Log</a>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "2.Spoken-English Volunteers"
+	},
+	{
+		"component": "text",
+		"value": "Please fill in the following sheet: <a href=\"https://docs.google.com/spreadsheets/d/1jZYeO6412o1tFhmGVRjWETmotBMXZjK15CAiyy2Z0_c/edit#gid=0\">Spoken English - Class Log</a>"
+	},
+	{
+		"component": "text",
+		"value": "Please contact for any queries here: "
+	},
+	{
+		"component": "text",
+		"value": "volunteer@navgurukul.org"
+	}
+]

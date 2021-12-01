@@ -76,7 +76,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Name some more security software on any network?<br><br>",
+		"value": "Name some more security software on any network?",
 		"decoration": {
 			"type": "number",
 			"value": 6

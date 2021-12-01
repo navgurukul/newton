@@ -1,0 +1,69 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Reading Material"
+	},
+	{
+		"component": "text",
+		"value": "<b>Concatination</b><br>2 <span style=\"\">string</span> ko plus karne ko Concatination bolte hai"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "Pichle wale question meh app ek <span style=\"\">string</span> di ja rahi ti jiske akhir me agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ing'</span> hogi toh ushe aage apko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ly'</span> add karna ta ab apko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ing'</span> ko hata ke <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ly'</span> add karna hai aur baki sab wese hi honge."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Eg:<br>  Input: 'abc'<br>  Output: 'abcing'<br><br>  Input: 'string'<br>  Output: 'strly'"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Test"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 'smile'<br>  Output: 'smiling'"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 2:<br>  Input: 'being'<br>  Output: 'beily'"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 3:<br>  Input: 'ringing'<br>  Output: 'ringly'"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 4:<br>  Input: 'singly'<br>  Output: 'singly'"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "No Hints"
+	}
+]

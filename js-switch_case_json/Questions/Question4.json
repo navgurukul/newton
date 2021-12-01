@@ -1,0 +1,20 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Accept any city from the user and display the monument of that city."
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "City                         Monument"
+	},
+	{
+		"component": "text",
+		"value": "Delhi                        Red Fort<br>        Agra                         Taj Mahal<br>        Jaipur                       Jal Mahal"
+	}
+]

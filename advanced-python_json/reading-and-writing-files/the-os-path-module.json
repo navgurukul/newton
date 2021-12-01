@@ -1,0 +1,138 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The os.path Module"
+	},
+	{
+		"component": "text",
+		"value": "The os.path module contains many helpful functions related to <span style=\"\">file</span>names and <span style=\"\">file</span> paths. For instance, you’ve already used os.path.join() to build paths in a way that will work on any operating system. Since os.path is a module inside the os module, you can import it by simply running import os. Whenever your programs need to work with <span style=\"\">files</span>, folders, or <span style=\"\">file</span> paths, you can refer to the short examples in this section. The full documentation for the os.path module is on the <span style=\"\">Python</span> website at<span><a href=\" http://docs.<span style=\"\">python</span>.org/3/library/os.path.html.\"&gt; http://docs.<span style=\"\">python</span>.org/3/library/os.path.html.</a></span>"
+	},
+	{
+		"component": "text",
+		"value": "Note<br>Most of the examples that follow in this section will require the os module, so remember to import it at the beginning of any script you write and any time you restart IDLE. Otherwise, you’ll get a Name<span style=\"\">Error</span>: name 'os' is not defined <span style=\"\">error</span> message."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Handling Absolute and Relative Paths"
+	},
+	{
+		"component": "text",
+		"value": "The os.path module provides functions for returning the absolute path of a relative path and for checking whether a given path is an absolute path."
+	},
+	{
+		"component": "text",
+		"value": "Calling os.path.abspath(path) will return a <span style=\"\">string</span> of the absolute path of the argument. This is an easy way to convert a relative path into an absolute one."
+	},
+	{
+		"component": "text",
+		"value": "Calling os.path.isabs(path) will return <span style=\"\">True</span> if the argument is an absolute path and <span style=\"\">False</span> if it is a relative path."
+	},
+	{
+		"component": "text",
+		"value": "Calling os.path.relpath(path, start) will return a <span style=\"\">string</span> of a relative path from the start path to path. If start is not provided, the current working directory is used as the start path."
+	},
+	{
+		"component": "text",
+		"value": "Try these functions in the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> os.path.abspath('.')<br>'C:\\\\Python34'<br>>>> os.path.abspath('.\\\\Scripts')<br>'C:\\\\Python34\\\\Scripts'<br>>>> os.path.isabs('.')<br>False<br>>>> os.path.isabs(os.path.abspath('.'))<br>True"
+	},
+	{
+		"component": "text",
+		"value": "Since C:\\<span style=\"\">Python3</span>4 was the working directory when os.path.abspath() was called, the “single-dot” folder represents the absolute path 'C:\\<span style=\"\">Python3</span>4'."
+	},
+	{
+		"component": "text",
+		"value": "Note<br>Since your system probably has different <span style=\"\">files</span> and folders on it than mine, you won’t be able to follow every example in this chapter exactly. Still, try to follow along using folders that exist on your computer."
+	},
+	{
+		"component": "text",
+		"value": "Enter the following calls to os.path.relpath() into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> os.path.relpath('C:\\\\Windows', 'C:\\\\')<br>'Windows'<br>>>> os.path.relpath('C:\\\\Windows', 'C:\\\\spam\\\\eggs')<br>'..\\\\..\\\\Windows'<br>>>> os.getcwd() 'C:\\\\Python34'"
+	},
+	{
+		"component": "text",
+		"value": "Calling os.path.dirname(path) will return a <span style=\"\">string</span> of everything that comes before the last slash in the path argument. Calling os.path.basename(path) will return a <span style=\"\">string</span> of everything that comes after the last slash in the path argument. The dir name and base name of a path are outlined in Figure<br>"
+	},
+	{
+		"component": "text",
+		"value": "<img src=\"assets/000041.png\" alt=\"\" />"
+	},
+	{
+		"component": "text",
+		"value": "<br> The base name follows the last slash in a path and is the same as the <span style=\"\">file</span>name. The dir name is everything before the last slash."
+	},
+	{
+		"component": "text",
+		"value": "For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> path = 'C:\\\\Windows\\\\System32\\\\calc.exe'<br>>>> os.path.basename(path)<br>'calc.exe'<br>>>> os.path.dirname(path)<br>'C:\\\\Windows\\\\System32'"
+	},
+	{
+		"component": "text",
+		"value": "If you need a path’s dir name and base name together, you can just call os.path.split() to get a tuple value with these two <span style=\"\">strings</span>, like so:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> calcFilePath = 'C:\\\\Windows\\\\System32\\\\calc.exe'<br>>>> os.path.split(calcFilePath)"
+	},
+	{
+		"component": "text",
+		"value": "('C:\\Windows\\System32', 'calc.exe')<br>Notice that you could create the same tuple by calling os.path.dirname() and os.path.basename() and placing their return values in a tuple."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> (os.path.dirname(calcFilePath), os.path.basename(calcFilePath))"
+	},
+	{
+		"component": "text",
+		"value": "('C:\\Windows\\System32', 'calc.exe')<br>But os.path.split() is a nice shortcut if you need both values."
+	},
+	{
+		"component": "text",
+		"value": "Also, note that os.path.split() does not take a <span style=\"\">file</span> path and return a list of <span style=\"\">strings</span> of each folder. For that, use the split() <span style=\"\">string</span> method and split on the <span style=\"\">string</span> in os.sep. Recall from earlier that the os.sep <span style=\"\">variable</span> is set to the correct folder-separating slash for the computer running the program."
+	},
+	{
+		"component": "text",
+		"value": "For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> calcFilePath.split(os.path.sep)"
+	},
+	{
+		"component": "text",
+		"value": "['C:', 'Windows', 'System32', 'calc.exe']<br>On OS X and Linux systems, there will be a blank <span style=\"\">string</span> at the start of the returned list:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> '/usr/bin'.split(os.path.sep)"
+	},
+	{
+		"component": "text",
+		"value": "['', 'usr', 'bin']<br>The split() <span style=\"\">string</span> method will work to return a list of each part of the path. It will work on any operating system if you pass it os.path.sep."
+	}
+]

@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "def <span style=\"\">Statements</span> with Parameters"
+	},
+	{
+		"component": "text",
+		"value": "When you call the print() or len() function, you pass in values, called arguments in this context, by typing them between the parentheses. You can also define your own functions that accept arguments. Type this example into the <span style=\"\">file</span> <span style=\"\">editor</span> and <span style=\"\">save</span> it as helloFunc2.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "❶ def hello(name):<br>❷     print('Hello ' + name)<br><br>❸ hello('Alice')<br>  hello('Bob')"
+	},
+	{
+		"component": "text",
+		"value": "When you run this program, the <span style=\"\">output</span> looks like this:"
+	},
+	{
+		"component": "text",
+		"value": "Hello Alice<br>Hello Bob<br>The definition of the hello() function in this program has a parameter called name ❶. A parameter is a <span style=\"\">variable</span> that an argument is stored in when a function is called. The first time the hello() function is called, it’s with the argument 'Alice' ❸. The program execution enters the function, and the <span style=\"\">variable</span> name is automatically set to 'Alice', which is what gets printed by the print() <span style=\"\">statement</span> ❷."
+	},
+	{
+		"component": "text",
+		"value": "One special thing to note about parameters is that the value stored in a parameter is forgotten when the function returns. For example, if you added print(name) after hello('Bob') in the previous program, the program would give you a Name<span style=\"\">Error</span> because there is no <span style=\"\">variable</span> named name. This <span style=\"\">variable</span> was destroyed after the function call hello('Bob') had returned, so print(name) would refer to a name <span style=\"\">variable</span> that does not exist."
+	},
+	{
+		"component": "text",
+		"value": "This is similar to how a program’s <span style=\"\">variables</span> are forgotten when the program terminates. I’ll talk more about why that happens later in the chapter, when I discuss what a function’s local scope is."
+	}
+]

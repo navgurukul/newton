@@ -1,0 +1,55 @@
+[
+  {
+    "component": "text",
+    "value": "fibonacci-series_key1"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-series_key2"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-series_key3"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-series_key4"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-series_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "fibonacci-series_key6"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-series_key7"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "fibonacci-series_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def getFibNumber(number):<br>    if number == 1:<br>        return 0<br>    elif number == 2:<br>        return 1<br>    else:<br>        return getFibNumber(number-1) + getFibNumber(number-2)"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "fibonacci-series_key9"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-series_key10"
+  },
+  {
+    "component": "youtube",
+    "value": "koFsRrJgioA"
+  }
+]

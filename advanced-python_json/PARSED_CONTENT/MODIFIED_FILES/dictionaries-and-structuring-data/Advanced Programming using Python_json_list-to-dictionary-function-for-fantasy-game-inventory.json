@@ -1,0 +1,37 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key1"
+  },
+  {
+    "component": "text",
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key2"
+  },
+  {
+    "component": "text",
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key3"
+  },
+  {
+    "component": "text",
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "inv = {'gold coin': 42, 'rope': 1}<br>dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']<br>inv = addToInventory(inv, dragonLoot)<br>displayInventory(inv)"
+  },
+  {
+    "component": "text",
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key5"
+  },
+  {
+    "component": "text",
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key6"
+  },
+  {
+    "component": "text",
+    "value": "list-to-dictionary-function-for-fantasy-game-inventory_key7"
+  }
+]

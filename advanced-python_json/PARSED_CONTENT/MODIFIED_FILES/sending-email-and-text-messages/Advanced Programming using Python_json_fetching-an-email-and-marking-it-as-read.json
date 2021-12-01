@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "fetching-an-email-and-marking-it-as-read_key1"
+  },
+  {
+    "component": "text",
+    "value": "fetching-an-email-and-marking-it-as-read_key2"
+  },
+  {
+    "component": "text",
+    "value": "fetching-an-email-and-marking-it-as-read_key3"
+  },
+  {
+    "component": "text",
+    "value": "fetching-an-email-and-marking-it-as-read_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> rawMessages = imapObj.fetch(UIDs, ['BODY[]'])<br>>>> import pprint<br>>>> pprint.pprint(rawMessages)"
+  },
+  {
+    "component": "text",
+    "value": "fetching-an-email-and-marking-it-as-read_key5"
+  },
+  {
+    "component": "text",
+    "value": "fetching-an-email-and-marking-it-as-read_key6"
+  },
+  {
+    "component": "text",
+    "value": "fetching-an-email-and-marking-it-as-read_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> imapObj.select_folder('INBOX', readonly=False)"
+  }
+]

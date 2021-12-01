@@ -1,0 +1,131 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "sending-text-messages_key1"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key2"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> from twilio.rest import TwilioRestClient<br>   >>> accountSID = 'ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'<br>   >>> authToken = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'<br>❷ >>> twilioCli = TwilioRestClient(accountSID, authToken)<br>   >>> myTwilioNumber = '+14955551234'<br>   >>> myCellPhone = '+14955558888'<br>❸ >>> message = twilioCli.messages.create(body='Mr. Watson - Come here - I want to see you.', from_=myTwilioNumber, to=myCellPhone)"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key4"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key5"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.to"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.from_"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.body"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.status"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.date_created"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.date_sent == None"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.sid"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> updatedMessage = twilioCli.messages.get(message.sid)<br>   >>> updatedMessage.status"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> updatedMessage.date_sent"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key15"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key16"
+  },
+  {
+    "component": "text",
+    "value": "sending-text-messages_key17"
+  }
+]

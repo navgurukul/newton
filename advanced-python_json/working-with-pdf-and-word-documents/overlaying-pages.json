@@ -1,0 +1,37 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Overlaying Pages"
+	},
+	{
+		"component": "text",
+		"value": "PyPDF2 can also overlay the contents of one page over another, which is useful for adding a logo, timestamp, or watermark to a page. With <span style=\"\">Python</span>, it’s easy to add watermarks to multiple <span style=\"\">files</span> and only to pages your program specifies."
+	},
+	{
+		"component": "text",
+		"value": "Download watermark.pdf from <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span> and place the PDF in the current working directory along with meetingminutes.pdf. Then enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import PyPDF2<br>   >>> minutesFile = open('meetingminutes.pdf', 'rb')<br>❷ >>> pdfReader = PyPDF2.PdfFileReader(minutesFile)<br>❷ >>> minutesFirstPage = pdfReader.getPage(0)<br>❸ >>> pdfWatermarkReader = PyPDF2.PdfFileReader(open('watermark.pdf', 'rb'))<br>❹ >>> minutesFirstPage.mergePage(pdfWatermarkReader.getPage(0))<br>❺ >>> pdfWriter = PyPDF2.PdfFileWriter()<br>❻ >>> pdfWriter.addPage(minutesFirstPage)<br><br>❼ >>> for pageNum in range(1, pdfReader.numPages):<br>           pageObj = pdfReader.getPage(pageNum)<br>           pdfWriter.addPage(pageObj)<br>   >>> resultPdfFile = open('watermarkedCover.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdfFile)<br>   >>> minutesFile.close()<br>   >>> resultPdfFile.close()"
+	},
+	{
+		"component": "text",
+		"value": "Here we make a Pdf<span style=\"\">File</span>Reader object of meetingminutes.pdf ❶. We call getPage(0) to get a Page object for the first page and store this object in minutesFirstPage ❷. We then make a Pdf<span style=\"\">File</span>Reader object for watermark.pdf ❸ and call mergePage() on minutesFirstPage ❹. The argument we pass to mergePage() is a Page object for the first page of watermark.pdf."
+	},
+	{
+		"component": "text",
+		"value": "Now that we’ve called mergePage() on minutesFirstPage, minutesFirstPage represents the watermarked first page. We make a Pdf<span style=\"\">File</span>Writer object ❺ and add the watermarked first page ❻. Then we <span style=\"\">loop</span> through the rest of the pages in meetingminutes.pdf and add them to the Pdf<span style=\"\">File</span>Writer object ❼. Finally, we open a new PDF called watermarkedCover.pdf and write the contents of the Pdf<span style=\"\">File</span>Writer to the new PDF."
+	},
+	{
+		"component": "text",
+		"value": "Figure 13-3 shows the results. Our new PDF, watermarkedCover.pdf, has all the contents of the meetingminutes.pdf, and the first page is watermarked."
+	},
+	{
+		"component": "text",
+		"value": "Figure 13-3. The original PDF (left), the watermark PDF (center), and the merged PDF (right)"
+	}
+]

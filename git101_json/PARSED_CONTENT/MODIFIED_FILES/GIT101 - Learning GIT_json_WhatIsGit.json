@@ -1,0 +1,54 @@
+[
+  {
+    "component": "text",
+    "value": "WhatIsGit_key1"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key2"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Ubuntu version 12.04<br>Ubuntu version 16.04<br>...<br>...<br>Ubuntu version 17.01 etc."
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key3"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key4"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key5"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key6"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key7"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key8"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "WhatIsGit_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

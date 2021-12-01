@@ -1,0 +1,213 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Questions"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Why are functions advantageous to have in your programs?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "When does the code in a function execute: when the function is defined or when the function is called?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What statement creates a function?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between a function and a function call?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How many global scopes are there in a Python program? How many local scopes?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What happens to variables in a local scope when the function call returns?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is a return value? Can a return value be part of an expression?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If a function does not have a return statement, what is the return value of a call to that function?",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How can you force a variable in a function to refer to the global variable?",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the data type of None?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does the import areallyourpetsnamederic statement do?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If you had a function named bacon() in a module named spam, how would you call it after importing spam?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How can you prevent a program from crashing when it gets an error?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What goes in the try clause? What goes in the except clause?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Practice Projects"
+	},
+	{
+		"component": "text",
+		"value": "For practice, write programs to do the following tasks."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "The Collatz Sequence"
+	},
+	{
+		"component": "text",
+		"value": "Write a function named collatz() that has one parameter named number. If number is even, then collatz() should print number // 2 and return this value. If number is odd, then collatz() should print and return 3 * number + 1."
+	},
+	{
+		"component": "text",
+		"value": "Then write a program that lets the user type in an <span style=\"\">integer</span> and that keeps calling collatz() on that number until the function returns the value 1. (Amazingly enough, this sequence actually works for any <span style=\"\">integer</span>—sooner or later, using this sequence, you’ll arrive at 1! Even mathematicians aren’t sure why. Your program is exploring what’s called the Collatz sequence, sometimes called “the simplest impossible math problem.”)"
+	},
+	{
+		"component": "text",
+		"value": "Remember to convert the return value from <span style=\"\">input</span>() to an <span style=\"\">integer</span> with the int() function; otherwise, it will be a <span style=\"\">string</span> value."
+	},
+	{
+		"component": "text",
+		"value": "Hint: An <span style=\"\">integer</span> number is even if number % 2 == 0, and it’s odd if number % 2 == 1."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">output</span> of this program could look something like this:"
+	},
+	{
+		"component": "text",
+		"value": "Enter number:<br>3<br>10<br>5<br>16<br>8<br>4<br>2<br>1<br><span style=\"\">Input</span> Validation<br>Add try and except <span style=\"\">statements</span> to the previous project to detect whether the user types in a non<span style=\"\">integer</span> <span style=\"\">string</span>. Normally, the int() function will raise a Value<span style=\"\">Error</span> <span style=\"\">error</span> if it is passed a non<span style=\"\">integer</span> <span style=\"\">string</span>, as in int('puppy'). In the except clause, print a message to the user saying they must enter an <span style=\"\">integer</span>."
+	}
+]

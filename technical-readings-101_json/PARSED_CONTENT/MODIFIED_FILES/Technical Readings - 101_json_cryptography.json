@@ -1,0 +1,11 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "cryptography_key1"
+  },
+  {
+    "component": "text",
+    "value": "cryptography_key2"
+  }
+]

@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Local Scopes Cannot Use <span style=\"\">Variables</span> in Other Local Scopes"
+	},
+	{
+		"component": "text",
+		"value": "A new local scope is created whenever a function is called, including when a function is called from another function. Consider this program:"
+	},
+	{
+		"component": "text",
+		"value": "def spam():<br>❶    eggs = 99<br>❷    bacon()<br>❸    print(eggs)"
+	},
+	{
+		"component": "text",
+		"value": "def bacon():<br>      ham = 101<br>❹    eggs = 0"
+	},
+	{
+		"component": "text",
+		"value": "❺ spam()<br>When the program starts, the spam() function is called ❺, and a local scope is created. The local <span style=\"\">variable</span> eggs ❶ is set to 99. Then the bacon() function is called ❷, and a second local scope is created. Multiple local scopes can exist at the same time. In this new local scope, the local <span style=\"\">variable</span> ham is set to 101, and a local <span style=\"\">variable</span> eggs—which is different from the one in spam()’s local scope—is also created ❹ and set to 0."
+	},
+	{
+		"component": "text",
+		"value": "When bacon() returns, the local scope for that call is destroyed. The program execution continues in the spam() function to print the value of eggs ❸, and since the local scope for the call to spam() still exists here, the eggs <span style=\"\">variable</span> is set to 99. This is what the program prints."
+	},
+	{
+		"component": "text",
+		"value": "The upshot is that local <span style=\"\">variables</span> in one function are completely separate from the local <span style=\"\">variables</span> in another function."
+	}
+]

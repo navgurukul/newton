@@ -1,0 +1,15 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "global-variables-can-be-read-from-a-local-scope_key1"
+  },
+  {
+    "component": "text",
+    "value": "global-variables-can-be-read-from-a-local-scope_key2"
+  },
+  {
+    "component": "text",
+    "value": "global-variables-can-be-read-from-a-local-scope_key3"
+  }
+]

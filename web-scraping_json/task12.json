@@ -1,0 +1,104 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Task 12"
+	},
+	{
+		"component": "text",
+		"value": "Abhi humne har movie ki detail toh nikaal li hai. Lekin abhi humare paas har movie mein kaunse actors aur actresses ne act kia, uski details nahi hain. Dekho jaise Agar anand ke page pe neeche scroll karoge toh yeh saari cast ki details di hui hain:"
+	},
+	{
+		"component": "image",
+		"value": "images/anand_cast.png",
+		"alt": "Anand Cast"
+	},
+	{
+		"component": "text",
+		"value": "Lekin yahan poori details nahi di hui. Agar aap <i>See Full Cast</i> waale link pe click karoge toh aapko woh ek alag page pe leke jayega jahan saari cast ki details di hui hain. Uss page pe jaake humein poori cast ki details mil jayengi."
+	},
+	{
+		"component": "text",
+		"value": "Woh page kuch aisa dikhega."
+	},
+	{
+		"component": "image",
+		"value": "images/anand_cast_page.png",
+		"alt": "Anand Cast Page"
+	},
+	{
+		"component": "text",
+		"value": "Humein yahan se saari cast ki details nikaalni hai. Ek "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_cast</span>"
+	},
+	{
+		"component": "text",
+		"value": "naam ka ek function likho jo "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">movie_caste_url</span>"
+	},
+	{
+		"component": "text",
+		"value": "naam ka parameter le jismein kisi bhi movie ke caste waale page ka link hona chaiye. Jaise Anand ke caste wale page ka link yeh hai, "
+	},
+	{
+		"component": "text",
+		"value": "https://www.imdb.com/title/tt0066763/fullcredits?ref<i>=tt</i>cl_sm#cast"
+	},
+	{
+		"component": "text",
+		"value": "Aapke iss function ko caste ka data iss tareeke se return karna hai:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "[<br>  {<br>    \"imdb_id\": \"nm0004435\",<br>    \"name\": \"Rajesh Khanna\"<br>  },<br>  {<br>    \"imdb_id\": \"nm0000821\",<br>    \"name\": \"Amitabh Bachan\"<br>  },<br>  {},<br>  {},<br>  {},<br>  {}<br>]"
+	},
+	{
+		"component": "text",
+		"value": "Dekho ki kaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">imdb_id</span> mein uss actor ki ID hai IMDB ke hisaab se. Dekho ki actor ke naam pe ek link hai. Jaise <b>Rajesh Khanna</b> ka link hai <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">https://www.imdb.com/name/nm0004435/?ref_=ttfc_fc_cl_t1</span> Iss link mein uski ID <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nm0004435</span></b> hai. Wahan se <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">imdb_id</span> waali <span style=\"\">key</span> ki value aa rahi hai. Aapko thodi si <span style=\"\">string</span> manipulation kar ke woh ID nikaalni padegi."
+	},
+	{
+		"component": "text",
+		"value": "Aapko yeh bhi ensure karna hai ki yeh function caching ka use kare. Matlab ek baar jab yeh data le aaye toh uski JSON store kar le. Aur fir aage se data IMDB sa na mangwa ke directly aapki JSON mein se nikaal le. Jaise agar aap anand ki caste ki details nikaal rahe ho toh aapki cache waali <span style=\"\">file</span> ka naam "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"tt0066763_cast.json\"</span>"
+	},
+	{
+		"component": "text",
+		"value": "hona chaiye. Kyunki Anand ki ID "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">tt0066763</span>"
+	},
+	{
+		"component": "text",
+		"value": "hai. Yeh ID aapka function cast wale url se nikaal sakta hai. Anand ka caste wala URL yeh hai: "
+	},
+	{
+		"component": "text",
+		"value": "https://www.imdb.com/title/tt0066763/fullcredits?ref<i>=tt</i>cl_sm#cast"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Solution"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=08RigPuAxsA&feature=youtu.be"
+	},
+	{
+		"component": "text",
+		"value": "<b>Created by Akhil Rawat (akhil18@navgurukul.org)</b>"
+	}
+]

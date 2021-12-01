@@ -1,0 +1,27 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "sticky-header_key1"
+  },
+  {
+    "component": "text",
+    "value": "sticky-header_key2"
+  },
+  {
+    "component": "text",
+    "value": "sticky-header_key3"
+  },
+  {
+    "component": "text",
+    "value": "sticky-header_key4"
+  },
+  {
+    "component": "text",
+    "value": "sticky-header_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

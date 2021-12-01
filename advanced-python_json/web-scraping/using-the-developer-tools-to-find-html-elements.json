@@ -1,0 +1,48 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Using the Developer Tools to Find HTML Elements"
+	},
+	{
+		"component": "text",
+		"value": "Once your program has downloaded a web page using the requests module, you will have the page’s HTML content as a single <span style=\"\">string</span> value. Now you need to figure out which part of the HTML corresponds to the information on the web page you’re interested in."
+	},
+	{
+		"component": "text",
+		"value": "This is where the browser’s developer tools can help. Say you want to write a program to pull weather forecast data from <span><a href=\"http://weather.gov/.\">http://weather.gov/.</a></span> Before writing any <span style=\"\">code</span>, do a little research. If you visit the site and search for the 94105 ZIP <span style=\"\">code</span>, the site will take you to a page showing the forecast for that area."
+	},
+	{
+		"component": "text",
+		"value": "What if you’re interested in scraping the temperature information for that ZIP <span style=\"\">code</span>? Right-click where it is on the page (or CONTROL-click on OS X) and select Inspect Element from the context menu that appears. This will bring up the Developer Tools window, which shows you the HTML that produces this particular part of the web page. Figure 11-5 shows the developer tools open to the HTML of the temperature."
+	},
+	{
+		"component": "text",
+		"value": "Inspecting the element that holds the temperature text with the developer tools"
+	},
+	{
+		"component": "text",
+		"value": "From the developer tools, you can see that the HTML responsible for the temperature part of the web page is <p class=\"myforecast-current -lrg\">59°F. This is exactly what you were looking for! It seems that the temperature information is contained inside a  element with the myforecast-current-lrg class. Now that you know what you’re looking for, the BeautifulSoup module will help you find it in the <span style=\"\">string</span>."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Parsing HTML with the BeautifulSoup Module"
+	},
+	{
+		"component": "text",
+		"value": "Beautiful Soup is a module for extracting information from an HTML page (and is much better for this purpose than regular expressions). The BeautifulSoup module’s name is bs4 (for Beautiful Soup, version 4). To install it, you will need to run pip install beautifulsoup4 from the command line. (Check out Appendix A for instructions on installing third-party modules.) While beautifulsoup4 is the name used for installation, to import Beautiful Soup you run import bs4."
+	},
+	{
+		"component": "text",
+		"value": "For this chapter, the Beautiful Soup examples will parse (that is, analyze and identify the parts of) an HTML <span style=\"\">file</span> on the hard drive. Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window in IDLE, enter the following, and <span style=\"\">save</span> it as example.html. Alternatively, download it from "
+	},
+	{
+		"component": "text",
+		"value": "http://nostarch.com/automatestuff/"
+	},
+	{
+		"component": "text",
+		"value": "."
+	}
+]

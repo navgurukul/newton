@@ -1,0 +1,71 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "writer-objects_key1"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import csv<br>❶ >>> outputFile = open('output.csv', 'w', newline='')<br>❷ >>> outputWriter = csv.writer(outputFile)<br>   >>> outputWriter.writerow(['spam', 'eggs', 'bacon', 'ham'])"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> outputWriter.writerow(['Hello, world!', 'eggs', 'bacon', 'ham'])"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> outputWriter.writerow([1, 2, 3.141592, 4])"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> outputFile.close()"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key6"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key7"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key8"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key9"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key10"
+  },
+  {
+    "component": "text",
+    "value": "writer-objects_key11"
+  }
+]

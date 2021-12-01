@@ -1,0 +1,13 @@
+{
+	"practice-projects_key1": "Practice Projects",
+	"practice-projects_key2": "For practice, write programs that perform the following tasks.",
+	"practice-projects_key3": "Multiplication <span style=\"\">Tab</span>le Maker<br>Create a program multiplication<span style=\"\">Tab</span>le.py that takes a number N from the command line and creates an N×N multiplication <span style=\"\">tab</span>le in an Excel spreadsheet. For example, when the program is run like this:",
+	"practice-projects_key4": "py multiplication<span style=\"\">Tab</span>le.py 6<br>… it should create a spreadsheet that looks like Figure 12-11.",
+	"practice-projects_key5": "Figure 12-11. A multiplication <span style=\"\">tab</span>le generated in a spreadsheet",
+	"practice-projects_key6": "Row 1 and column A should be used for labels and should be in bold.",
+	"practice-projects_key7": "Blank Row Inserter",
+	"practice-projects_key8": "Create a program blankRowInserter.py that takes two <span style=\"\">integers</span> and a <span style=\"\">file</span>name <span style=\"\">string</span> as command line arguments. Let’s call the first <span style=\"\">integer</span> N and the second <span style=\"\">integer</span> M. Starting at row N, the program should insert M blank rows into the spreadsheet. For example, when the program is run like this:",
+	"practice-projects_key9": "<span style=\"\">python</span> blankRowInserter.py 3 2 myProduce.xlsx<br>… the “before” and “after” spreadsheets should look like Figure 12-12.",
+	"practice-projects_key10": "Figure 12-12. Before (left) and after (right) the two blank rows are inserted at row 3",
+	"practice-projects_key11": "You can write this program by reading in the contents of the spreadsheet. Then, when writing out the new spreadsheet, use a for <span style=\"\">loop</span> to copy the first N lines. For the remaining lines, add M to the row number in the <span style=\"\">output</span> spreadsheet."
+}

@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Absolute vs. Relative Paths"
+	},
+	{
+		"component": "text",
+		"value": "There are two ways to specify a <span style=\"\">file</span> path."
+	},
+	{
+		"component": "text",
+		"value": "An absolute path, which always begins with the root folder"
+	},
+	{
+		"component": "text",
+		"value": "A relative path, which is relative to the program’s current working directory"
+	},
+	{
+		"component": "text",
+		"value": "There are also the dot (.) and dot-dot (..) folders. These are not real folders but special names that can be used in a path. A single period (“dot”) for a folder name is shorthand for “this directory.” Two periods (“dot-dot”) means “the parent folder.”"
+	},
+	{
+		"component": "text",
+		"value": "Figure 8-2 is an example of some folders and <span style=\"\">files</span>. When the current working directory is set to C:\\bacon, the relative paths for the other folders and <span style=\"\">files</span> are set as they are in the figure."
+	},
+	{
+		"component": "text",
+		"value": "The relative paths for folders and <span style=\"\">files</span> in the working directory C:\\bacon"
+	},
+	{
+		"component": "text",
+		"value": "The .\\ at the start of a relative path is optional. For example, .\\spam.txt and spam.txt refer to the same <span style=\"\">file</span>."
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Negative Indexes"
+	},
+	{
+		"component": "text",
+		"value": "While indexes start at 0 and go up, you can also use negative <span style=\"\">integers</span> for the index. The <span style=\"\">integer</span> value -1 refers to the last index in a list, the value -2 refers to the second-to-last index in a list, and so on. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[-1]<br>'elephant'<br>>>> spam[-3]<br>'bat'<br>>>> 'The ' + spam[-1] + ' is afraid of the ' + spam[-3] + '.'<br>'The elephant is afraid of the bat.'"
+	}
+]

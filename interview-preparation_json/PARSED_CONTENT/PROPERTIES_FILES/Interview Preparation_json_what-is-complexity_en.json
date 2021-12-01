@@ -1,0 +1,6 @@
+{
+	"what-is-complexity_key1": "What is complexity?",
+	"what-is-complexity_key2": "The complexity of an algorithm is a function f (n) which measures the time and space used by an algorithm in terms of <span style=\"\">input</span> size n.<br>There are 2 types of complexities <b>Time Complexity</b> and <b>Space Complexity.</b>",
+	"what-is-complexity_key3": "Link to study more : ",
+	"what-is-complexity_key4": "https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/"
+}

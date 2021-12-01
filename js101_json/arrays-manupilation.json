@@ -1,0 +1,17 @@
+[
+	{
+		"component": "text",
+		"value": "Explain arrays operation such as push, pop, splicevar taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];//pushtaskList.push('Be honest');var listLength = taskList.length;var index = 0;while(index &lt; listLength)      console.log(taskList[i]);      index = index + 1;}",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "//pop<br>var task = taskList.pop();<br>console.log(task);"
+	},
+	{
+		"component": "text",
+		"value": "//delete say 3rd element<br>taskList.splice(0, 1)<br>listLength = taskList.length;<br>index = 0;<br>while(index < listLength)<br>        console.log(taskList[i]);<br>        index = index + 1;<br>}"
+	}
+]

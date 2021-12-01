@@ -1,0 +1,140 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Questions"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does the code for an empty dictionary look like?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does a dictionary value with a key 'foo' and a value 42 look like?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the main difference between a dictionary and a list?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What happens if you try to access spam['foo'] if spam is {'bar': 100}?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If a dictionary is stored in spam, what is the difference between the expressions 'cat' in spam and 'cat' in spam.keys()?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If a dictionary is stored in spam, what is the difference between the expressions 'cat' in spam and 'cat' in spam.values()?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is a shortcut for the following code?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "if 'color' not in spam:<br>    spam['color'] = 'black'<br>Q:"
+	},
+	{
+		"component": "text",
+		"value": "What module and function can be used to “pretty print” dictionary values?",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Projects"
+	},
+	{
+		"component": "text",
+		"value": "For practice, write programs to do the following tasks."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Fantasy Game Inventory"
+	},
+	{
+		"component": "text",
+		"value": "You are creating a fantasy video game. The data structure to model the player’s inventory will be a dictionary where the <span style=\"\">keys</span> are <span style=\"\">string</span> values describing the item in the inventory and the value is an <span style=\"\">integer</span> value detailing how many of that item the player has. For example, the dictionary value {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12} means the player has 1 rope, 6 torches, 42 gold coins, and so on."
+	},
+	{
+		"component": "text",
+		"value": "Write a function named displayInventory() that would take any possible “inventory” and display it like the following:"
+	},
+	{
+		"component": "text",
+		"value": "Inventory:<br>12 arrow<br>42 gold coin<br>1 rope<br>6 torch<br>1 dagger<br>Total number of items: 62<br>Hint: You can use a for <span style=\"\">loop</span> to <span style=\"\">loop</span> through all the <span style=\"\">keys</span> in a dictionary."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "inventory.py"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}<br><br>def displayInventory(inventory):<br>    print(\"Inventory:\")<br>    item_total = 0<br>    for k, v in inventory.items():<br>        # FILL IN THE CODE HERE<br>    print(\"Total number of items: \" + str(item_total))<br><br>displayInventory(stuff)"
+	}
+]

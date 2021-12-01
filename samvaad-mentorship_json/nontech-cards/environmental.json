@@ -1,0 +1,55 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Environmental Justice"
+	},
+	{
+		"component": "text",
+		"value": "Major environmental hazards",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Can humans justify their plundering the earth of everything good?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is my carbon footprint?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "How does my lifestyle help/worsen the environment?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Five changes I can do in my lifestyle to help the environment",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Environment friendly workplaces and institutions",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

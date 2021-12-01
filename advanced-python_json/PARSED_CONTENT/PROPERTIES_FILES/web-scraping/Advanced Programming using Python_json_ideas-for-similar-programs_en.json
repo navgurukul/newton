@@ -1,0 +1,20 @@
+{
+	"ideas-for-similar-programs_key1": "Ideas for Similar Programs",
+	"ideas-for-similar-programs_key2": "As long as you have a URL, the webbrowser module lets users cut out the step of opening the browser and directing themselves to a website. Other programs could use this functionality to do the following:",
+	"ideas-for-similar-programs_key3": "Open all links on a page in separate browser <span style=\"\">tabs</span>.",
+	"ideas-for-similar-programs_key4": "Open the browser to the URL for your local weather.",
+	"ideas-for-similar-programs_key5": "Open several social network sites that you regularly check.",
+	"ideas-for-similar-programs_key6": "Downloading <span style=\"\">Files</span> from the Web with the requests Module",
+	"ideas-for-similar-programs_key7": "The requests module lets you easily download <span style=\"\">files</span> from the Web without having to worry about complicated issues such as network <span style=\"\">errors</span>, connection problems, and data compression. The requests module doesn’t come with <span style=\"\">Python</span>, so you’ll have to install it first. From the command line, run pip install requests. (Appendix A has additional details on how to install third-party modules.)",
+	"ideas-for-similar-programs_key8": "The requests module was written because <span style=\"\">Python</span>’s urllib2 module is too complicated to use. In fact, take a permanent marker and black out this entire paragraph. Forget I ever mentioned urllib2. If you need to download things from the Web, just use the requests module.",
+	"ideas-for-similar-programs_key9": "Next, do a simple test to make sure the requests module installed itself correctly. Enter the following into the interactive <span style=\"\">shell</span>:",
+	"ideas-for-similar-programs_key10": "If no <span style=\"\">error</span> messages show up, then the requests module has been successfully installed.",
+	"ideas-for-similar-programs_key11": "Downloading a Web Page with the requests.get() Function",
+	"ideas-for-similar-programs_key12": "The requests.get() function takes a <span style=\"\">string</span> of a URL to download. By calling type() on requests.get()’s return value, you can see that it returns a Response object, which contains the response that the web server gave for your request. I’ll explain the Response object in more detail later, but for now, enter the following into the interactive <span style=\"\">shell</span> while your computer is connected to the Internet:",
+	"ideas-for-similar-programs_key13": "<class 'requests.models.Response'>",
+	"ideas-for-similar-programs_key14": "<span style=\"\">True</span>",
+	"ideas-for-similar-programs_key15": "178981",
+	"ideas-for-similar-programs_key16": "The Project Gutenberg EBook of Romeo and Juliet, by William Shakespeare",
+	"ideas-for-similar-programs_key17": "This eBook is for the use of anyone anywhere at no cost and with<br>   almost no restrictions whatsoever. You may copy it, give it away or<br>   re-use it under the terms of the Proje<br>The URL goes to a text web page for the entire play of Romeo and Juliet. You can tell that the request for this web page succeeded by checking the status_<span style=\"\">code</span> attribute of the Response object. If it is equal to the value of requests.<span style=\"\">codes</span>.ok, then everything went fine ❶. (Incidentally, the status <span style=\"\">code</span> for “OK” in the HTTP protocol is 200. You may already be familiar with the 404 status <span style=\"\">code</span> for “Not Found.”)",
+	"ideas-for-similar-programs_key18": "If the request succeeded, the downloaded web page is stored as a <span style=\"\">string</span> in the Response object’s text <span style=\"\">variable</span>. This <span style=\"\">variable</span> holds a large <span style=\"\">string</span> of the entire play; the call to len(res.text) shows you that it is more than 178,000 characters long. Finally, calling print(res.text[:250]) displays only the first 250 characters."
+}

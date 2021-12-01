@@ -1,0 +1,61 @@
+[
+	{
+		"component": "text",
+		"value": "Iss program mei hum ek aisa function banayenge jo fibonacci numbers ki list generate karta ho. Ek bahut asaan tareeka yeh hai ki, jo function humne pehle fibonacci numbers solve karne ke liye banaya tha, hum usi function ko use kar le."
+	},
+	{
+		"component": "text",
+		"value": "Yeh wala program bahut mushkil nahi hai - agar aap dhyaan se notebook par sochoge."
+	},
+	{
+		"component": "text",
+		"value": "Jaise:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def fib(number):<br>    if number == 1:<br>        return 0<br>    elif number == 2:<br>        return 1<br>    else:<br>        return fib(number-1) + fib(number-2)<br><br>def getFibList(number):<br>    fib_list = []<br>    key = 1<br>    while (key < number + 1):<br>        fib_list.append(fib(key))<br>        key += 1<br>    return fib_list<br><br>print(getFibList(10))"
+	},
+	{
+		"component": "text",
+		"value": "Iss <span style=\"\">code</span> ka dry run kar kar ya <span style=\"\">terminal</span> par run kar kar dekhiye, kaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">getFibList</span> ek list return karta hai, jismei fibonacci numbers hai. Ab yehi list humei recursion se banani hai. Kya aap yeh bana sakte hai?"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Yeh single recursion se ho jayega - iska matlab aap koi bhi fibonacci list sirf peechli wali fibonacci list ko use kar kar hi nikal sakte ho",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ab aapka base case, ek list return karega",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Kyuki aapka function ab ek list return kar raha hai, toh aapko yeh sochna padega ki aapki list mei kya function use karenge recursion karne ke liye.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def getFibList(number):<br>    if number == 1:<br>        return [1]<br><br>    elif number == 2:<br>        return [1, 1]<br><br>    else:<br>        get_previous_fib_list = getFibList(number-1)<br>        new_last_element = get_previous_fib_list[-1] + get_previous_fib_list[-2]<br><br>        # jab hum list mei kuch append karte hai toh, woh list update ho jaati hai<br>        get_previous_fib_list.append(new_last_element)<br><br>        # get_previous_fib_list ab update ho gayi hai, par kyuki ab yeh current list hai, previous nahi\\<br>        # toh confusion avoid karne ke liye hum ek nayi variable mei yeh list daal kar return karenge<br>        # jisse code padhne wala confuse na ho<br><br>        current_fib_list = get_previous_fib_list<br><br>        return current_fib_list"
+	}
+]

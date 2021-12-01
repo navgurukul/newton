@@ -1,0 +1,73 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Reading Material"
+	},
+	{
+		"component": "text",
+		"value": "<b>Leap Year</b> har 4 saal me ek baar ahta hai aur woh bi ush saal me joh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4 se divisible hota hai</span>. Lekin saat hi agar woh saal <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> toh ushe <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible hona padega</span> warna woh <b>Leap Year</b> nhi kehlayega."
+	},
+	{
+		"component": "text",
+		"value": "Eg:<br>  1800 <b>Leap Year</b> nhi hai kyunki yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> magar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible nhi hai</span><br>  2000 <b>Leap Year</b> hai kyunki yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible hai</span>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "Apko ek number diya jayega apko yeh batana hai ki yeh number leap year hai yeah nhi."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Eg:<br>  Jese manlo apko ek input mila 1000<br>  toh 1000 joh hai woh 4 se divisible hai aur woh 100 se bi divisible hai lekin 400 se nhi hai."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Test"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 1000<br>  Output: Nhi hai"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 2:<br>  Input: 1460<br>  Output: hai"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 3:<br>  Input: 1568<br>  Output: hai"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 2004<br>  Output: hai"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "1000 saal leap year nhi hai."
+	}
+]

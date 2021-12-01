@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "bashrc_key1"
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key2"
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "echo \"I am learning programming\""
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key4"
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key5"
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key6"
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key7"
+  },
+  {
+    "component": "text",
+    "value": "bashrc_key8"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "echo \"Aap 5 seconds ke liye, ek lambi saans le kar, relax mehsoos karein\"<br>echo \"5 Seconds\"<br>sleep 1<br>echo \"4 Seconds\"<br>sleep 1<br>echo \"3 Seconds\"<br>sleep 1<br>echo \"2 Seconds\"<br>sleep 1<br>echo \"1 Seconds\"<br>sleep 1<br>echo \"Now, you can continue your work!\""
+  }
+]

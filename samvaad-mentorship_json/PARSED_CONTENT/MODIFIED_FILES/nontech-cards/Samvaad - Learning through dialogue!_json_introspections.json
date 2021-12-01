@@ -1,0 +1,71 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "introspections_key1"
+  },
+  {
+    "component": "text",
+    "value": "introspections_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "introspections_key9",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

@@ -1,0 +1,14 @@
+{
+	"ram-vs-hard-disk_key1": "Inn questions ke baarein mei thoda socho",
+	"ram-vs-hard-disk_key2": "Variables kaha store hota hai - <b><a href=\"https://kids.kiddle.co/Random-access_memory\">RAM</a></b>* mei ya Hard Disk mei?",
+	"ram-vs-hard-disk_key3": "Database kaha store ho raha hai, hamare code mei? Database mei ya RAM mei?",
+	"ram-vs-hard-disk_key4": "<b>Hint:</b><br>Da<span style=\"\">tab</span>ase <span style=\"\">file</span> mei store ho raha hai. <span style=\"\">Files</span> kaha store hoti hai?",
+	"ram-vs-hard-disk_key5": "Toh hum jo get aur set jaise functions call kar rahe hai, woh kis database par ho rahe hai - jo hard disk par hai, ya jo memory mei loaded hai?",
+	"ram-vs-hard-disk_key6": "RAM <b>fast</b> hoti hai ya Hard Disk?",
+	"ram-vs-hard-disk_key7": "Aapke laptop mei kitni RAM hai, kitni Hard Disk?",
+	"ram-vs-hard-disk_key8": "Agar RAM, Hard Disk se faster hoti hai, toh hum hard disk kyu rakhte hai, hum sirf badi RAM se hi laptop kyu nahi bana sakte?",
+	"ram-vs-hard-disk_key9": "<b>Persistent</b> shabd ka kya matlab hota hai?",
+	"ram-vs-hard-disk_key10": "RAM persistent hoti hai kya?",
+	"ram-vs-hard-disk_key11": "Hard Disk persistent hoti hai kya?",
+	"ram-vs-hard-disk_key12": "Aap apne database ko persistent jagah par save karna chahoge, ya non-persistent jagah par?"
+}

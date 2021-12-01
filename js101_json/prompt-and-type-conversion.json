@@ -1,0 +1,37 @@
+[
+	{
+		"component": "text",
+		"value": "Use prompt to take in two numbers and logging them in the console.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Then use prompt to add two numbers. Here the student will realise that they cannot be added but are concatenated because they are strings.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Talk about data types and then come to data type conversion.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Come up with the complete example of taking input and then showing the output as the addition of numbers which were input.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Add link to alert() &amp; confirm() functions but do not explain about them.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

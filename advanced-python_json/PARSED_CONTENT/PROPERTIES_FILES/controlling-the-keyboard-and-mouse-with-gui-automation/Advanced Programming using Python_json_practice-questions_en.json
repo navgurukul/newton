@@ -1,0 +1,21 @@
+{
+	"practice-questions_key1": "Practice Questions",
+	"practice-questions_key2": "Q:",
+	"practice-questions_key3": "How can you trigger PyAutoGUI’s fail safe to stop a program?",
+	"practice-questions_key4": "Q:",
+	"practice-questions_key5": "What function returns the current resolution()?",
+	"practice-questions_key6": "Q:",
+	"practice-questions_key7": "What function returns the coordinates for the mouse cursor’s current position?",
+	"practice-questions_key8": "Q:",
+	"practice-questions_key9": "What is the difference between pyautogui.moveTo() and pyautogui.moveRel()?",
+	"practice-questions_key10": "Q:",
+	"practice-questions_key11": "What functions can be used to drag the mouse?",
+	"practice-questions_key12": "Q:",
+	"practice-questions_key13": "What function call will type out the characters of \"Hello world!\"?",
+	"practice-questions_key14": "Q:",
+	"practice-questions_key15": "How can you do keypresses for special keys such as the keyboard’s left arrow key?",
+	"practice-questions_key16": "Q:",
+	"practice-questions_key17": "How can you save the current contents of the screen to an image file named screenshot.png?",
+	"practice-questions_key18": "Q:",
+	"practice-questions_key19": "What code would set a two second pause after every PyAutoGUI function call?"
+}

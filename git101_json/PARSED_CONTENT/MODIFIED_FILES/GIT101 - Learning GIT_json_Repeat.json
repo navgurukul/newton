@@ -1,0 +1,25 @@
+[
+  {
+    "component": "text",
+    "value": "Repeat_key1"
+  },
+  {
+    "component": "text",
+    "value": "Repeat_key2"
+  },
+  {
+    "component": "text",
+    "value": "Repeat_key3"
+  },
+  {
+    "component": "text",
+    "value": "Repeat_key4"
+  },
+  {
+    "component": "text",
+    "value": "Repeat_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

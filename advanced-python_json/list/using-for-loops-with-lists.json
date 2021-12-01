@@ -1,0 +1,54 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Using for <span style=\"\">Loops</span> with Lists"
+	},
+	{
+		"component": "text",
+		"value": "In Chapter 2, you learned about using for <span style=\"\">loops</span> to <span style=\"\">execute</span> a block of <span style=\"\">code</span> a certain number of times. Technically, a for <span style=\"\">loop</span> repeats the <span style=\"\">code</span> block once for each value in a list or list-like value. For example, if you ran this <span style=\"\">code</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "for i in range(4):<br>    print(i)"
+	},
+	{
+		"component": "text",
+		"value": "the <span style=\"\">output</span> of this program would be as follows:"
+	},
+	{
+		"component": "text",
+		"value": "0<br>1<br>2<br>3<br>This is because the return value from range(4) is a list-like value that <span style=\"\">Python</span> considers similar to [0, 1, 2, 3]. The following program has the same <span style=\"\">output</span> as the previous one:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "for i in [0, 1, 2, 3]:<br>    print(i)<br>What the previous for loop actually does is loop through its clause with the variable i set to a successive value in the [0, 1, 2, 3] list in each iteration."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "In this book, I use the term list-like to refer to data types that are technically named sequences. You don’t need to know the technical definitions of this term, though."
+	},
+	{
+		"component": "text",
+		"value": "A common <span style=\"\">Python</span> technique is to use range(len(someList)) with a for <span style=\"\">loop</span> to iterate over the indexes of a list. For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> supplies = ['pens', 'staplers', 'flame-throwers', 'binders']<br>>>> for i in range(len(supplies)):<br>    print('Index ' + str(i) + ' in supplies is: ' + supplies[i])<br><br>Index 0 in supplies is: pens<br>Index 1 in supplies is: staplers<br>Index 2 in supplies is: flame-throwers<br>Index 3 in supplies is: binders"
+	},
+	{
+		"component": "text",
+		"value": "Using range(len(supplies)) in the previously shown for <span style=\"\">loop</span> is handy because the <span style=\"\">code</span> in the <span style=\"\">loop</span> can access the index (as the <span style=\"\">variable</span> i) and the value at that index (as supplies[i]). Best of all, range(len(supplies)) will iterate through all the indexes of supplies, no matter how many items it contains."
+	}
+]

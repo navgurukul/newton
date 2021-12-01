@@ -1,0 +1,104 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task12_key1"
+  },
+  {
+    "component": "text",
+    "value": "task12_key2"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/web-scraping_json/images/anand_cast.png",
+    "alt": "task12_key3"
+  },
+  {
+    "component": "text",
+    "value": "task12_key4"
+  },
+  {
+    "component": "text",
+    "value": "task12_key5"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/web-scraping_json/images/anand_cast_page.png",
+    "alt": "task12_key6"
+  },
+  {
+    "component": "text",
+    "value": "task12_key7"
+  },
+  {
+    "component": "text",
+    "value": "task12_key8"
+  },
+  {
+    "component": "text",
+    "value": "task12_key9"
+  },
+  {
+    "component": "text",
+    "value": "task12_key10"
+  },
+  {
+    "component": "text",
+    "value": "task12_key11"
+  },
+  {
+    "component": "text",
+    "value": "task12_key12"
+  },
+  {
+    "component": "text",
+    "value": "task12_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "[<br>  {<br>    \"imdb_id\": \"nm0004435\",<br>    \"name\": \"Rajesh Khanna\"<br>  },<br>  {<br>    \"imdb_id\": \"nm0000821\",<br>    \"name\": \"Amitabh Bachan\"<br>  },<br>  {},<br>  {},<br>  {},<br>  {}<br>]"
+  },
+  {
+    "component": "text",
+    "value": "task12_key14"
+  },
+  {
+    "component": "text",
+    "value": "task12_key15"
+  },
+  {
+    "component": "text",
+    "value": "task12_key16"
+  },
+  {
+    "component": "text",
+    "value": "task12_key17"
+  },
+  {
+    "component": "text",
+    "value": "task12_key18"
+  },
+  {
+    "component": "text",
+    "value": "task12_key19"
+  },
+  {
+    "component": "text",
+    "value": "task12_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task12_key21"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=08RigPuAxsA&feature=youtu.be"
+  },
+  {
+    "component": "text",
+    "value": "task12_key22"
+  }
+]

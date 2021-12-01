@@ -1,0 +1,46 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hackathon"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Dry Run on a Dry Day"
+	},
+	{
+		"component": "text",
+		"value": "Iss hackathon mei hum log <b>dry run</b> kar kar, hum <b>computer</b> ki tarah sochna seekhenge."
+	},
+	{
+		"component": "text",
+		"value": "Dry Run karne ke liye aap sab log ek doosre ki help lenge. Aap mei se kuch logo ko accha se karna aata hai, kuch ko kam acche se."
+	},
+	{
+		"component": "text",
+		"value": "Dry Run bahut <b>dheere dheere</b> karna hoga, jisse koi galti nahi hogi. Kuch programs <b>galat</b> honge toh aap ko yeh dekhna hoga, ki woh kaha par galat hai."
+	},
+	{
+		"component": "text",
+		"value": "Dhyaan rakhein ki - <b>galat program ka bhi dry run kiya jaa sakta hai</b>. Jaise hum agar <b>galat <span style=\"\">code</span></b> likhte hai, phir bhi computer usse samajh kar <span style=\"\">error</span> throw karta hai, waise bhi unn cases mei humein woh <b><span style=\"\">error</span> throw</b> karni padegi aur batana hoga, ki woh program galat hai."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Ek Twist"
+	},
+	{
+		"component": "text",
+		"value": "Aapko hackathons mei 30 problems solve karni hai, saath saaath, aapko at least 5 videos each bhi create kar kar <b><span style=\"\">youtube</span></b> par <span style=\"\">upload</span> karni hai. Videos can explain dry run kya hota hai, ya phir kisi bhi problem ki <b>solution video</b> ho sakti hai."
+	},
+	{
+		"component": "text",
+		"value": "<b>Solution video</b>, ek aisi video hoti hai, jo har ek problem <span style=\"\">statement</span> ke liye banayi jaati hai, jisse dekh kar koi aur reader samajh sakta hai ki uss question ko kaise solve kiya jaata hai. Aapko inn videos mei detail mei dry run karna hoga, aur acche se samjhana hoga ki aapne jo kiya hai woh kyu kiya hai."
+	},
+	{
+		"component": "image",
+		"value": "assets/mobile-stand-record-video.jpg",
+		"alt": "Mobile Video Recorder"
+	}
+]

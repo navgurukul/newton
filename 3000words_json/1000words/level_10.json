@@ -1,0 +1,707 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level Ten"
+	},
+	{
+		"component": "text",
+		"value": "company",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "radio",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "we’ll",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "action",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "capital",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "factories",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "settled",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "yellow",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "isn’t",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "southern",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "truck",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "fair",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "printed",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "wouldn’t",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "ahead",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "chance",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "born",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "level",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "triangle",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "molecules",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "France",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "repeated",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "column",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "western",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "church",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sister",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "oxygen",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "plural",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "various",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "agreed",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "opposite",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "wrong",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "chart",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "prepared",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "pretty",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "solution",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "fresh",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "shop",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "suffix",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "especially",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "shoes",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "actually",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "nose",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "afraid",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "dead",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sugar",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "adjective",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "fig",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "office",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "huge",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "gun",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "similar",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "death",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "score",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "forward",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "stretched",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "experience",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "rose",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "allow",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "fear",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "workers",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Washington",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Greek",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "women",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "bought",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "led",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "march",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "northern",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "create",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "British",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "difficult",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "match",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "win",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "doesn’t",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "steel",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "total",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "deal",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "determine",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "evening",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "hoe",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "rope",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "cotton",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "apple",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "details",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "entire",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "corn",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "substances",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "smell",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "tools",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "conditions",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "cows",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "track",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "arrived",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "located",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sir",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "seat",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "division",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "effect",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "underline",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "view",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Using .bashrc <span style=\"\">file</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.bashrc</span> naam se ek <span style=\"\">file</span> aapki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">home directory</span> mei hogi. Jab bhi aap <span style=\"\">terminal</span> ka naya session kholte ho, toh woh <span style=\"\">file</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">execute</span> ho jaati hai."
+	},
+	{
+		"component": "text",
+		"value": "Aap uss <span style=\"\">file</span> ko apne kisi bhi pasand ke <span style=\"\">editor</span> mei khol kar, yeh content paste karein."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "echo \"I am learning programming\""
+	},
+	{
+		"component": "text",
+		"value": "Ab aap <span style=\"\">file</span> ko <span style=\"\">save</span> kar kar, close kar sakte hai."
+	},
+	{
+		"component": "text",
+		"value": "Ab aap ek naya <span style=\"\">terminal</span> ka window khol kar dekhein."
+	},
+	{
+		"component": "text",
+		"value": "Agar aapne galti nahi ki hogi, toh aapko apne <span style=\"\">terminal</span> mei \"I am learning programming\" dikhega."
+	},
+	{
+		"component": "text",
+		"value": "Dhyaan rakhein kyuki <span style=\"\">file</span> <span style=\"\">tab</span> <span style=\"\">execute</span> hoti hai - jab naya <span style=\"\">terminal</span> khulta hai toh, isliye, purane <span style=\"\">terminal</span> mei koi change nahi dikhayi dega."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.bashrc</span> <span style=\"\">file</span> mei aap koi aur bhi program call kar sakte hai. Jaise, yeh contents <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.bashrc</span> <span style=\"\">file</span> mei daalein:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "echo \"Aap 5 seconds ke liye, ek lambi saans le kar, relax mehsoos karein\"<br>echo \"5 Seconds\"<br>sleep 1<br>echo \"4 Seconds\"<br>sleep 1<br>echo \"3 Seconds\"<br>sleep 1<br>echo \"2 Seconds\"<br>sleep 1<br>echo \"1 Seconds\"<br>sleep 1<br>echo \"Now, you can continue your work!\""
+	}
+]

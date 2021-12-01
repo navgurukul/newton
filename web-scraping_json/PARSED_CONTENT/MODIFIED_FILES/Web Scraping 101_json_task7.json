@@ -1,0 +1,50 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task7_key1"
+  },
+  {
+    "component": "text",
+    "value": "task7_key2"
+  },
+  {
+    "component": "text",
+    "value": "task7_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "[<br>    {<br>        \"name\": \"Anand\"<br>        \"director\": [\"Hrishikesh Mukherjee\"],<br>        \"country\": \"India\",<br>        \"language\": [\"Hindi\"],<br>        \"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>        \"bio\": \"The story of a terminally ill man who wishes to live life to the3 full before the inevitable occurs, as told by his best friend.\",<br>        \"runtime\": 183,<br>        \"genre\": [<br>            \"Drama\"<br>        ]<br>    },<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {}<br>]"
+  },
+  {
+    "component": "text",
+    "value": "task7_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "{<br>\"Ankita gole\": 2,<br>\"Hrishikesh Mukherjee\": 1,<br>\"Sanjay Leela Bansali\": 2<br>}"
+  },
+  {
+    "component": "text",
+    "value": "task7_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "task7_key6"
+  },
+  {
+    "component": "text",
+    "value": "task7_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "top_movies = scrape_top_list()<br>movies_detail_list = get_movie_list_details(top_movies[:10]) #  dekho kaise humne slicing ka use karke humne sirf pehli 10 movies input di. Yeh karna yaad rakhna :)<br>director_analysis = analyse_movies_directors(movies_detail_list) # dekho kaise get_movie_list_details ki return value humne analyse_movies_directors function mein de di"
+  }
+]

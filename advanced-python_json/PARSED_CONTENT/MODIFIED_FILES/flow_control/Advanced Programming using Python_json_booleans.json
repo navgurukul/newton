@@ -1,0 +1,217 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "booleans_key1"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key2"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "booleans_key3"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "booleans_key4",
+        "items": [
+          "booleans_key5",
+          "booleans_key6",
+          "booleans_key7",
+          "booleans_key8",
+          "booleans_key9",
+          "booleans_key10"
+        ]
+      },
+      {
+        "header": "booleans_key11",
+        "items": [
+          "booleans_key12",
+          "booleans_key13",
+          "booleans_key14",
+          "booleans_key15",
+          "booleans_key16",
+          "booleans_key17"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "text",
+    "value": "booleans_key18"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key19"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "booleans_key20"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key21"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key22",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "booleans_key23",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "booleans_key24"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "booleans_key25"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key26"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "booleans_key27"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key28"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key29"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "booleans_key30",
+        "items": [
+          "booleans_key31",
+          "booleans_key32",
+          "booleans_key33",
+          "booleans_key34"
+        ]
+      },
+      {
+        "header": "booleans_key35",
+        "items": [
+          "booleans_key36",
+          "booleans_key37",
+          "booleans_key38",
+          "booleans_key39"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "text",
+    "value": "booleans_key40"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key41"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key42"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "booleans_key43",
+        "items": [
+          "booleans_key44",
+          "booleans_key45",
+          "booleans_key46",
+          "booleans_key47"
+        ]
+      },
+      {
+        "header": "booleans_key48",
+        "items": [
+          "booleans_key49",
+          "booleans_key50",
+          "booleans_key51",
+          "booleans_key52"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "booleans_key53"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key54"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key55"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "booleans_key56",
+        "items": [
+          "booleans_key57",
+          "booleans_key58"
+        ]
+      },
+      {
+        "header": "booleans_key59",
+        "items": [
+          "booleans_key60",
+          "booleans_key61"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "booleans_key62"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key63"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key64"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key65"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key66"
+  },
+  {
+    "component": "text",
+    "value": "booleans_key67"
+  }
+]

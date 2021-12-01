@@ -1,0 +1,130 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "converting-datetime-objects-into-strings_key1"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key2"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key3"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key4"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "converting-datetime-objects-into-strings_key5",
+        "items": [
+          "converting-datetime-objects-into-strings_key6"
+        ]
+      },
+      {
+        "header": "converting-datetime-objects-into-strings_key7",
+        "items": [
+          "converting-datetime-objects-into-strings_key8"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key9"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key10"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key11"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key12"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key13"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key14"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key15"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key16"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key17"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key18"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key19"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key20"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key21"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key22"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key23"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key24"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> oct21st = datetime.datetime(2015, 10, 21, 16, 29, 0)<br>>>> oct21st.strftime('%Y/%m/%d %H:%M:%S')"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key25"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> oct21st.strftime('%I:%M %p')"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key26"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> oct21st.strftime(\"%B of '%y\")"
+  },
+  {
+    "component": "text",
+    "value": "converting-datetime-objects-into-strings_key27"
+  }
+]

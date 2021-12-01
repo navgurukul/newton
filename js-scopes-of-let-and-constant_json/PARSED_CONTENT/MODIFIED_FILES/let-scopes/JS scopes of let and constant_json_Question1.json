@@ -1,0 +1,13 @@
+[
+  {
+    "component": "header",
+    "variant": 5,
+    "value": "Question1_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let name = ‘rose’<br>{<br>Let name = ‘pihu’<br>console.log(name)<br>}<br>console.log(name)"
+  }
+]

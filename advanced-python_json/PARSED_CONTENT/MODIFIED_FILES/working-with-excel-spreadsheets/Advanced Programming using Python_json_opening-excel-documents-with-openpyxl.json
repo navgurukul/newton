@@ -1,0 +1,25 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "opening-excel-documents-with-openpyxl_key1"
+  },
+  {
+    "component": "text",
+    "value": "opening-excel-documents-with-openpyxl_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> type(wb)"
+  },
+  {
+    "component": "text",
+    "value": "opening-excel-documents-with-openpyxl_key3"
+  },
+  {
+    "component": "text",
+    "value": "opening-excel-documents-with-openpyxl_key4"
+  }
+]

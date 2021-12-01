@@ -1,0 +1,9 @@
+{
+    "question2_key1": "प्रश्न 2",
+    "question2_key2": "एक प्रोग्राम बनाएं जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> से निम्नलिखित कार्य करे।",
+    "question2_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span> विभाज्य संख्याएँ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">*���9�؈</span> &quot; प्रिंट करना होगा।<br>",
+    "question2_key4": "संख्याएँ जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">7</span> विभाज्य हैं ताकि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Gurukul\"</span> मुद्रित हो।",
+    "question2_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�o\f��0</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">7</span> दोनों से विभाज्य हैं, वहां <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"NavGurukul\"</span> प्रिंट करें।<br>",
+    "question2_key6": "अगर उपरोक्त तीन मामलों में नंबर नहीं आता है तो नंबर ही प्रिंट करें।<br><br>",
+    "question2_key7": "आपका <span style=\"\">output</span> इस तरह दिखना चाहिए।"
+}

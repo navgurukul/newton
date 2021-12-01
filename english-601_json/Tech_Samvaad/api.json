@@ -60,7 +60,7 @@
 	},
 	{
 		"component": "text",
-		"value": "what are the basic parts of API? <br><br><br>",
+		"value": "what are the basic parts of API? ",
 		"decoration": {
 			"type": "number",
 			"value": 3

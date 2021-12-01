@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "politics_key1"
+  },
+  {
+    "component": "text",
+    "value": "politics_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "politics_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "politics_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

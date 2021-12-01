@@ -1,0 +1,12 @@
+{
+	"chapter-8_key1": "Chapter 8",
+	"chapter-8_key2": "Relative paths are relative to the current working directory.",
+	"chapter-8_key3": "Absolute paths start with the root folder, such as / or C:.",
+	"chapter-8_key4": "The os.getcwd() function returns the current working directory. The os.chdir() function changes the current working directory.",
+	"chapter-8_key5": "The . folder is the current folder, and .. is the parent folder.",
+	"chapter-8_key6": "C:\\bacon\\eggs is the dir name, while spam.txt is the base name.",
+	"chapter-8_key7": "The <span style=\"\">string</span> 'r' for read mode, 'w' for write mode, and 'a' for append mode",
+	"chapter-8_key8": "An existing <span style=\"\">file</span> opened in write mode is erased and completely overwritten.",
+	"chapter-8_key9": "The read() method returns the <span style=\"\">file</span>’s entire contents as a single <span style=\"\">string</span> value. The readlines() method returns a list of <span style=\"\">strings</span>, where each <span style=\"\">string</span> is a line from the <span style=\"\">file</span>’s contents.",
+	"chapter-8_key10": "A shelf value resembles a dictionary value; it has <span style=\"\">keys</span> and values, along with <span style=\"\">keys</span>() and values() methods that work similarly to the dictionary methods of the same names."
+}

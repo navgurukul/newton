@@ -1,0 +1,79 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task8_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=n__c7xY1ZcI"
+  },
+  {
+    "component": "text",
+    "value": "task8_key2"
+  },
+  {
+    "component": "text",
+    "value": "task8_key3"
+  },
+  {
+    "component": "text",
+    "value": "task8_key4"
+  },
+  {
+    "component": "text",
+    "value": "task8_key5"
+  },
+  {
+    "component": "text",
+    "value": "task8_key6"
+  },
+  {
+    "component": "text",
+    "value": "task8_key7",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "task8_key8"
+  },
+  {
+    "component": "text",
+    "value": "task8_key9"
+  },
+  {
+    "component": "text",
+    "value": "task8_key10"
+  },
+  {
+    "component": "text",
+    "value": "task8_key11",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "https://youtu.be/cWGgsxmf3g8"
+  },
+  {
+    "component": "text",
+    "value": "task8_key12"
+  },
+  {
+    "component": "text",
+    "value": "task8_key13"
+  },
+  {
+    "component": "text",
+    "value": "task8_key14"
+  },
+  {
+    "component": "text",
+    "value": "task8_key15"
+  }
+]

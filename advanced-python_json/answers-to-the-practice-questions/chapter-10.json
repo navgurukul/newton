@@ -1,0 +1,59 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chapter 10"
+	},
+	{
+		"component": "text",
+		"value": "assert spam &gt;= 10, 'The spam <span style=\"\">variable</span> is less than 10.'"
+	},
+	{
+		"component": "text",
+		"value": "assert eggs.lower() != bacon.lower(), 'The eggs and bacon <span style=\"\">variables</span> are the same!' or assert eggs.upper() != bacon.upper(), 'The eggs and bacon <span style=\"\">variables</span> are the same!'"
+	},
+	{
+		"component": "text",
+		"value": "assert <span style=\"\">False</span>, 'This assertion always triggers.'"
+	},
+	{
+		"component": "text",
+		"value": "To be able to call logging.debug(), you must have these two lines at the start of your program:"
+	},
+	{
+		"component": "text",
+		"value": "import logging<br>logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s -<br>%(levelname)s -  %(message)s')<br>To be able to send logging messages to a <span style=\"\">file</span> named programLog.txt with logging.debug(), you must have these two lines at the start of your program:"
+	},
+	{
+		"component": "text",
+		"value": "import logging"
+	},
+	{
+		"component": "blockquote",
+		"value": "<blockquote>\n  logging.basicConfig(<span style=\"\">file</span>name='programLog.txt', level=logging.DEBUG,<br>format=' %(asctime)s -  %(levelname)s -  %(message)s')<br>DEBUG, INFO, WARNING, <span style=\"\">ERROR</span>, and CRITICAL<br>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "logging.disable(logging.CRITICAL)"
+	},
+	{
+		"component": "text",
+		"value": "You can disable logging messages without removing the logging function calls. You can selectively disable lower-level logging messages. You can create logging messages. Logging messages provides a timestamp."
+	},
+	{
+		"component": "text",
+		"value": "The Step button will move the debugger into a function call. The Over button will quickly <span style=\"\">execute</span> the function call without stepping into it. The Out button will quickly <span style=\"\">execute</span> the rest of the <span style=\"\">code</span> until it steps out of the function it currently is in."
+	},
+	{
+		"component": "text",
+		"value": "After you click Go, the debugger will stop when it has reached the end of the program or a line with a breakpoint."
+	},
+	{
+		"component": "text",
+		"value": "A breakpoint is a setting on a line of <span style=\"\">code</span> that causes the debugger to pause when the program execution reaches the line."
+	},
+	{
+		"component": "text",
+		"value": "To set a breakpoint in IDLE, right-click the line and select Set Breakpoint from the context menu."
+	}
+]

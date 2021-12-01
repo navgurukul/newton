@@ -30,7 +30,7 @@
 	},
 	{
 		"component": "text",
-		"value": "You can continue one round till 8 -10 sentences and then begin again.<br><br>",
+		"value": "You can continue one round till 8 -10 sentences and then begin again.",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -59,7 +59,7 @@
 	},
 	{
 		"component": "text",
-		"value": "You and your friend are both applying for the same job. Only one of you will get selected. Would you help them in the preparation or focus on your own preparation?<br><br>",
+		"value": "You and your friend are both applying for the same job. Only one of you will get selected. Would you help them in the preparation or focus on your own preparation?",
 		"decoration": {
 			"type": "number",
 			"value": null

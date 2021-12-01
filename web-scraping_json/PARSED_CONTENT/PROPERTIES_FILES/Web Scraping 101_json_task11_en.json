@@ -1,0 +1,18 @@
+{
+	"task11_key1": "Task 11",
+	"task11_key2": "Iss task mein humein ek aur chota sa anlysis run karna hai. Ab hum movies ko by genre analyse karenge.",
+	"task11_key3": "Anand IMDB",
+	"task11_key4": "Yahan dekho ki Anand ka Genre mein <b>Drama</b> likha hua hai. Bahot saari movies ke ek se zyada genres bhi hote hain.",
+	"task11_key5": "Ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">analyse_movies_genre</span> naam ka function likho. Yeh function ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">movies_list</span> naam ka parameter lega jisme mein woh list hogi jo <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get_movie_list_details</span> wala function return karta hai. Matlab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">movies_list</span> ka structure aisa hoga:",
+	"task11_key6": "Aapke function ko ek dictionary return karni hai jismein har genre ka naam <span style=\"\">keys</span> mein hoga aur genre ki number of movies uski value mein hoga.",
+	"task11_key7": "<b>Note: Yeh <span style=\"\">keys</span> aur values ko kaise refer kara hai ispe khaas dhyaan di jiye. Issi tareeke se dictionaries ki baat karte hain :)</b>",
+	"task11_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">analyse_movies_genre</span> wali return value ki dictionary ka neeche dia hua structure dia hua hai.",
+	"task11_key9": "Yeh function aapko saari 250 movies pe run karna hai.",
+	"task11_key10": "Hint",
+	"task11_key11": "Ab kya hint ki zaroorat hai? Bahot baar kar lia aapne yeh :)",
+	"task11_key12": "Solution Video :-",
+	"task11_key13": "<b>Creadted by Vishal Gaddam</b>",
+	"task11_key14": "(",
+	"task11_key15": "vishal18@navgurukul.org",
+	"task11_key16": ")"
+}

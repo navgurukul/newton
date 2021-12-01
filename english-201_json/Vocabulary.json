@@ -1,0 +1,714 @@
+[
+	{
+		"component": "text",
+		"value": "Words are coming!"
+	},
+	{
+		"component": "text",
+		"value": "over",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "new",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sound",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "take",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "only",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "little",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "work",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "know",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "place",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "years",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "live",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "me",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "back",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "give",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "most",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "very",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "after",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "things",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "our",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "just",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "name",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "good",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "sentence",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "man",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "think",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "say",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "great",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "where",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "help",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "through",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "much",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "before",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "line",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "right",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "too",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "means",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "old",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "any",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "same",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "tell",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "boy",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "follow",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "came",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "want",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "show",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "also",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "around",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "form",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "three",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "small",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "set",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "put",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "end",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "does",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "another",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "well",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "large",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "must",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "big",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "even",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "such",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "because",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "turn",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "here",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "why",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "ask",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "went",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "men",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "read",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "need",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "land",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "different",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "home",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "us",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "move",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "try",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "kind",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "hand",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "picture",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "again",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "change",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "off",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "play",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "spell",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "air",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "away",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "animal",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "house",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "point",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "page",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "letter",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "mother",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "answer",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "found",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "study",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "still",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "learn",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "should",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "America",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "world",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "You can learn these words using Tinycards."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://tiny.cards/decks/KLF2ZwHk/fry-list-three\">Deck One</a>"
+	}
+]

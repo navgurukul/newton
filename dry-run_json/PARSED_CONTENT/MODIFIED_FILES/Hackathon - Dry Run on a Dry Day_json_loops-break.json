@@ -1,0 +1,62 @@
+[
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "counter = 0<br>string = \"navgurukul\"<br>while (counter < len(string)):<br>    if string[counter] == \"g\":<br>        break<br>    <br>    print(string[counter])<br>    counter += 1<br><br>print(\"The end\", string[counter])"
+  },
+  {
+    "component": "text",
+    "value": "loops-break_key1"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/dry-run_json/assets/how-break-statement-works.jpg",
+    "alt": "loops-break_key2"
+  },
+  {
+    "component": "text",
+    "value": "loops-break_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var = 10<br>while var > 0:              <br>   print 'Current variable value :', var<br>   var = var - 1<br>   if var == 5:<br>      break<br><br>print \"Good bye!\""
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num = 407<br><br>i = 2<br>prime = True<br>first_divisor = -1<br>while (i<num):<br>    if (num%i == 0):<br>        prime = False<br>        first_divisor = i<br>        break<br>    i += 1<br><br>print prime<br>if not prime:<br>    print first_divisor"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "loops-break_key4"
+  },
+  {
+    "component": "text",
+    "value": "loops-break_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "i = 0<br>while(i<5):<br>    j = 0<br>    while(j<5): #loop2<br>        if (j > 3): <br>            break <br>        else:<br>            print \"*\", <br>        j = j + 1    <br>    print ''<br>    i = i + 1"
+  },
+  {
+    "component": "text",
+    "value": "loops-break_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 0<br>while(a<6):<br>    b = 0<br>    while(b<6):<br>        if (a == b):<br>            break<br>        print '*',<br>        b = b + 1<br>    print ''<br>    a = a + 1"
+  },
+  {
+    "component": "text",
+    "value": "loops-break_key7"
+  }
+]

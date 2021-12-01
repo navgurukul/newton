@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is URL?<br>",
+		"value": "What is URL?",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is HTTP?<br>",
+		"value": "What is HTTP?",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is FTP?<br>",
+		"value": "What is FTP?",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -51,7 +51,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is domain name?<br><br><br>",
+		"value": "What is domain name?",
 		"decoration": {
 			"type": "number",
 			"value": 4

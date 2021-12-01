@@ -1,0 +1,44 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "css-box-model_key1"
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key2"
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key3"
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key4"
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key5"
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-box-model_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

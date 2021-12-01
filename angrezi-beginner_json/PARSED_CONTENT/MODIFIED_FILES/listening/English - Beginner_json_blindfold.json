@@ -1,0 +1,43 @@
+[
+  {
+    "component": "blockquote",
+    "value": "blindfold_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "blindfold_key2"
+  },
+  {
+    "component": "text",
+    "value": "blindfold_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "blindfold_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "blindfold_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "blindfold_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  }
+]

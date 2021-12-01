@@ -1,0 +1,39 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Problems"
+	},
+	{
+		"component": "text",
+		"value": "What problems do you come across in your work or life?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Do you feel that problems are opportunities. Why or why not?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What was the last problem you solved and how did you do it?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "“Problems don’t matter. Solutions do.” Do you agree or disagree?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "component": "text",
+    "value": "setup_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "setup_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "setup_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "z-DeJIWWcLw"
+  },
+  {
+    "component": "text",
+    "value": "setup_key4"
+  }
+]

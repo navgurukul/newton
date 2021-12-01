@@ -1,0 +1,77 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "image-recognition_key1"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key2"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import pyautogui<br>>>> pyautogui.locateOnScreen('submit.png')"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key4"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key5"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> list(pyautogui.locateAllOnScreen('submit.png'))"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key7"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> pyautogui.locateOnScreen('submit.png')"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> pyautogui.center((643, 745, 70, 29))"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> pyautogui.click((678, 759))"
+  },
+  {
+    "component": "text",
+    "value": "image-recognition_key11"
+  }
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Sending the SMTP “Hello” Message"
+	},
+	{
+		"component": "text",
+		"value": "Once you have the SMTP object, call its oddly named ehlo() method to “say hello” to the SMTP email server. This greeting is the first step in SMTP and is important for es<span style=\"\">tab</span>lishing a connection to the server. You don’t need to know the specifics of these protocols. Just be sure to call the ehlo() method first thing after getting the SMTP object or else the later method calls will result in <span style=\"\">errors</span>. The following is an example of an ehlo() call and its return value:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.ehlo()"
+	},
+	{
+		"component": "text",
+		"value": "(250, b'mx.google.com at your service, [216.172.148.131]\\nSIZE 35882577\\<br>n8BITMIME\\nSTARTTLS\\nENHANCEDSTATUS<span style=\"\">CODES</span>\\nCHUNKING')<br>If the first item in the returned tuple is the <span style=\"\">integer</span> 250 (the <span style=\"\">code</span> for “success” in SMTP), then the greeting succeeded."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Starting TLS Encryption"
+	},
+	{
+		"component": "text",
+		"value": "If you are connecting to port 587 on the SMTP server (that is, you’re using TLS encryption), you’ll need to call the starttls() method next. This required step enables encryption for your connection. If you are connecting to port 465 (using SSL), then encryption is already set up, and you should skip this step."
+	},
+	{
+		"component": "text",
+		"value": "Here’s an example of the starttls() method call:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.starttls()"
+	},
+	{
+		"component": "text",
+		"value": "(220, b'2.0.0 Ready to start TLS')<br>starttls() puts your SMTP connection in TLS mode. The 220 in the return value tells you that the server is ready."
+	}
+]

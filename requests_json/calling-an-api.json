@@ -1,0 +1,58 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Calling an API"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">API</span> humne abhi samjha kya hote hai. Ab hum ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">API</span> ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">call</span> kar kar kuch data mangwayenge."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"http://saral.navgurukul.org/api/courses\">http://saral.navgurukul.org/api/courses</a> iss link ko open karo. SARAL ke server par yeh data hai, jo hum iss course mei use karenge."
+	},
+	{
+		"component": "text",
+		"value": "Abhi ke liye, humei ek bahut simple sa <span style=\"\">code</span> likhna hai. "
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Assignment"
+	},
+	{
+		"component": "text",
+		"value": "Ab aapko"
+	},
+	{
+		"component": "text",
+		"value": "- `requests` module use kar kar,<br>- [yeh](http://saral.navgurukul.org/api/courses) `API Endpoint` ya `URL` call kar kar<br>- yeh data `courses.json` file mei store karna hai."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Kuch Important Baatein"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">call</span> hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">functions</span> ke liye bhi use karte hai. functions ko hum karte hai, kuch <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">arguments</span> dete hai, aur kuch vapas lete hai (jo function <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">return</span> karta hai)",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">API</span> ko bhi aap aise function ki tarah soch sakte hai, jo server ne aapko diya hai, use karne ke liye. Aap usse <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">call</span> karoge, kuch <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">arguments</span> doge, aur woh aapko kuch <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">json</span> ya kisi aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">format</span> mei <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">data</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">return</span> kar dega",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">json</span> sabse commonly used data format hai, jismei server <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">data</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">return</span> karta hai. Pehle <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">xml</span> kaafi popular format tha, data exchange ka",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

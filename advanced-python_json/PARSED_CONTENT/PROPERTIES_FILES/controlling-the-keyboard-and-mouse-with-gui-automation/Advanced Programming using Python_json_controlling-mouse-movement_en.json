@@ -1,0 +1,10 @@
+{
+	"controlling-mouse-movement_key1": "Controlling Mouse Movement",
+	"controlling-mouse-movement_key2": "In this section, you’ll learn how to move the mouse and track its position on the screen using PyAutoGUI, but first you need to understand how PyAutoGUI works with coordinates.",
+	"controlling-mouse-movement_key3": "The mouse functions of PyAutoGUI use x- and y-coordinates. Figure 18-1 shows the coordinate system for the computer screen; it’s similar to the coordinate system used for images, discussed in Chapter 17. The origin, where x and y are both zero, is at the upper-left corner of the screen. The x-coordinates increase going to the right, and the y-coordinates increase going down. All coordinates are positive <span style=\"\">integers</span>; there are no negative coordinates.",
+	"controlling-mouse-movement_key4": "Figure 18-1. The coordinates of a computer screen with 1920×1080 resolution",
+	"controlling-mouse-movement_key5": "Your resolution is how many pixels wide and tall your screen is. If your screen’s resolution is set to 1920×1080, then the coordinate for the upper-left corner will be (0, 0), and the coordinate for the bottom-right corner will be (1919, 1079).",
+	"controlling-mouse-movement_key6": "The pyautogui.size() function returns a two-<span style=\"\">integer</span> tuple of the screen’s width and height in pixels. Enter the following into the interactive <span style=\"\">shell</span>:",
+	"controlling-mouse-movement_key7": "(1920, 1080)",
+	"controlling-mouse-movement_key8": "pyautogui.size() returns (1920, 1080) on a computer with a 1920×1080 resolution; depending on your screen’s resolution, your return value may be different. You can store the width and height from pyautogui.size() in <span style=\"\">variables</span> like width and height for better readability in your programs."
+}

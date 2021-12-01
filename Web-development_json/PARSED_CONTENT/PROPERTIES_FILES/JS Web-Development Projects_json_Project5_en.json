@@ -1,0 +1,19 @@
+{
+	"Project5_key1": "See this <a href=\"https://drive.google.com/file/d/1c4_-nPv7amB3cgLUSk-Y6ooH9U2RFJnU/view?usp=sharing\">video</a> to get to know about calculator.",
+	"Project5_key2": "We are going to do a calculator which we can use on the web.",
+	"Project5_key3": "This is where you will get <a href=\"https://github.com/vknayak/JS-projects/blob/main/Project5/index.html\">basic html code</a> for a calculator. We have to work on html elements to get the data.",
+	"Project5_key4": "Navgurukul calculator pic",
+	"Project5_key5": "Script <span style=\"\">file</span> that is to be used in a calculator where we have our functions to do the computations.",
+	"Project5_key6": "<a href=\"https://github.com/vknayak/JS-projects/blob/main/Project5/script.js\">https://github.com/vknayak/JS-projects/blob/main/Project5/script.js</a>",
+	"Project5_key7": "how to add script tag",
+	"Project5_key8": "function that display value",
+	"Project5_key9": "write a function name display which takes an argument value and display it to screen and get the element td which has the id of screen and add the",
+	"Project5_key10": "current value",
+	"Project5_key11": "take an argument value that user pressed",
+	"Project5_key12": "Add the value that came from function to screen value by assignment operatorfunction that evaluates the digit and return result after computing",
+	"Project5_key13": "write another function named solve which takes no argument which evaluates the expression …. ??<br>    - get the expression that came after pressing equal to and store it in a <span style=\"\">variable</span>",
+	"Project5_key14": "and use eval to compute the mathematical expression",
+	"Project5_key15": "and again the screen with the value that came after computingfunction that clear the display",
+	"Project5_key16": "write a another function name clear which takes no  argument which clears the expression that is there on screen<br>     - update the value of screen to empty <span style=\"\">string</span>",
+	"Project5_key17": "write clear function here"
+}

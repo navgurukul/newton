@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question 5"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">Python</span> program to accept a <span style=\"\">file</span>name from the user and print the extension of that. "
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Sample <span style=\"\">file</span>name : abc.java"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "<span style=\"\">Output</span> : java"
+	}
+]

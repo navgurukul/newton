@@ -1,0 +1,34 @@
+[
+	{
+		"component": "text",
+		"value": "In the last 100 years, has the growth in technology been helpful for human beings?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Has it been helpful for the environment?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Which resources are at the brink of exhaustion?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What harmful effects has it been causing?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

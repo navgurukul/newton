@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "game-won_key1"
+  },
+  {
+    "component": "text",
+    "value": "game-won_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "game-won_key3"
+  },
+  {
+    "component": "text",
+    "value": "game-won_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "game-won_key5"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=tBLsbWy1oSw"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "game-won_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def is_word_guessed(secret_word, letters_guessed):<br>    '''<br>    secret_word: ek string word jo ki user ko guess karna hai<br>    letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>    returns: return True kare agar saare letters jo ki user ne guess kiye hai wo secret_word mai hai, warna no<br>      False otherwise<br>    '''<br><br>    if secret_word === get_guessed_word(secret_word, letters_guessed):<br>        return True<br><br>    return False"
+  },
+  {
+    "component": "text",
+    "value": "game-won_key7"
+  }
+]

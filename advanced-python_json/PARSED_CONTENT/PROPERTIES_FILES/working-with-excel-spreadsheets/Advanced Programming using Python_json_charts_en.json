@@ -1,0 +1,23 @@
+{
+	"charts_key1": "Charts",
+	"charts_key2": "OpenPyXL supports creating bar, line, scatter, and pie charts using the data in a sheet’s cells. To make a chart, you need to do the following:",
+	"charts_key3": "Create a Reference object from a rectangular selection of cells.",
+	"charts_key4": "Create a Series object by passing in the Reference object.",
+	"charts_key5": "Create a Chart object.",
+	"charts_key6": "Append the Series object to the Chart object.",
+	"charts_key7": "Add the Chart object to the Worksheet object, optionally specifying which cell the top left corner of the chart should be positioned..",
+	"charts_key8": "The Reference object requires some explaining. Reference objects are created by calling the openpyxl.chart.Reference() function and passing three arguments:",
+	"charts_key9": "The Worksheet object containing your chart data.",
+	"charts_key10": "A tuple of two <span style=\"\">integers</span>, representing the top-left cell of the rectangular selection of cells containing your chart data: The first <span style=\"\">integer</span> in the tuple is the row, and the second is the column. Note that 1 is the first row, not 0.",
+	"charts_key11": "A tuple of two <span style=\"\">integers</span>, representing the bottom-right cell of the rectangular selection of cells containing your chart data: The first <span style=\"\">integer</span> in the tuple is the row, and the second is the column.",
+	"charts_key12": "Figure 12-9 shows some sample coordinate arguments.",
+	"charts_key13": "Figure 12-9. From left to right: (1, 1), (10, 1); (3, 2), (6, 4); (5, 3), (5, 3)",
+	"charts_key14": "Enter this interactive <span style=\"\">shell</span> example to create a bar chart and add it to the spreadsheet:",
+	"charts_key15": "Figure 12-10. A spreadsheet with a chart added",
+	"charts_key16": "We’ve created a bar chart by calling openpyxl.chart.BarChart(). You can also create line charts, scatter charts, and pie charts by calling openpyxl.chart.LineChart(), openpyxl.chart.ScatterChart(), and openpyxl.chart.PieChart().",
+	"charts_key17": "Unfortunately, in the current version of OpenPyXL (2.3.3), the load_workbook() function does not load charts in Excel <span style=\"\">files</span>. Even if the Excel <span style=\"\">file</span> has charts, the loaded Workbook object will not include them. If you load a Workbook object and immediately <span style=\"\">save</span> it to the same .xlsx <span style=\"\">file</span>name, you will effectively remove the charts from it.",
+	"charts_key18": "Summary",
+	"charts_key19": "Often the hard part of processing information isn’t the processing itself but simply getting the data in the right format for your program. But once you have your spreadsheet loaded into <span style=\"\">Python</span>, you can extract and manipulate its data much faster than you could by hand.",
+	"charts_key20": "You can also generate spreadsheets as <span style=\"\">output</span> from your programs. So if colleagues need your text <span style=\"\">file</span> or PDF of thousands of sales contacts transferred to a spreadsheet <span style=\"\">file</span>, you won’t have to tediously copy and paste it all into Excel.",
+	"charts_key21": "Equipped with the openpyxl module and some programming knowledge, you’ll find processing even the biggest spreadsheets a piece of cake."
+}

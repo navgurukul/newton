@@ -1,0 +1,10 @@
+[
+  {
+    "component": "text",
+    "value": "intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "intro_key2"
+  }
+]

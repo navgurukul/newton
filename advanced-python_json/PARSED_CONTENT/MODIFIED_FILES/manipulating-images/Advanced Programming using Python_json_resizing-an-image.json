@@ -1,0 +1,33 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "resizing-an-image_key1"
+  },
+  {
+    "component": "text",
+    "value": "resizing-an-image_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> width, height = catIm.size<br>❷ >>> quartersizedIm = catIm.resize((int(width / 2), int(height / 2)))<br>   >>> quartersizedIm.save('quartersized.png')<br>❸ >>> svelteIm = catIm.resize((width, height + 300))<br>   >>> svelteIm.save('svelte.png')"
+  },
+  {
+    "component": "text",
+    "value": "resizing-an-image_key3"
+  },
+  {
+    "component": "text",
+    "value": "resizing-an-image_key4"
+  },
+  {
+    "component": "text",
+    "value": "resizing-an-image_key5"
+  },
+  {
+    "component": "text",
+    "value": "resizing-an-image_key6"
+  }
+]

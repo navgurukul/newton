@@ -1,0 +1,28 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "word-documents_key1"
+  },
+  {
+    "component": "text",
+    "value": "word-documents_key2"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "word-documents_key3"
+  },
+  {
+    "component": "text",
+    "value": "word-documents_key4"
+  },
+  {
+    "component": "text",
+    "value": "word-documents_key5"
+  },
+  {
+    "component": "text",
+    "value": "word-documents_key6"
+  }
+]

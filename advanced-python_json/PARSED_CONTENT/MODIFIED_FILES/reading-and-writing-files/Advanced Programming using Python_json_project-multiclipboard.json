@@ -1,0 +1,237 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key3"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key8"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key9"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key12"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key13"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key14"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key15"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key16"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key17"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key18"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key19"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key21"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key22"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key23"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key24"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key25"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key26"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "mcbShelf.close()"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key27"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key28"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key29"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key30"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key31"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Save clipboard content.<br><br>❶ if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':<br>❷         mcbShelf[sys.argv[2]] = pyperclip.paste()<br>   elif len(sys.argv) == 2:"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key33"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key34"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key35"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key36"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key37"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key38"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key39"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key40"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key41"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key42"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# List keywords and load content.<br>❶     if sys.argv[1].lower() == 'list':<br>❷         pyperclip.copy(str(list(mcbShelf.keys())))<br>       elif sys.argv[1] in mcbShelf:<br>❸         pyperclip.copy(mcbShelf[sys.argv[1]])"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key43"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key44"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key45"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key46"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multiclipboard_key47"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key48"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key49"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key50"
+  },
+  {
+    "component": "text",
+    "value": "project-multiclipboard_key51"
+  }
+]

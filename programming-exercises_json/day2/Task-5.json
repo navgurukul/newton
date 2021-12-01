@@ -1,0 +1,81 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Reading Material"
+	},
+	{
+		"component": "text",
+		"value": "None"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "Apko ek value di jayegi jese <b>10</b> toh apko <b>1-10</b> ke bich meh jitne bi number hai unke square ka sum nikalna hai aur uske baad <b>1-10</b> ke bich jitne number hai uske sum karke joh value aye uska square nikalna hai aur<br>dusri value meh se pheli value gatani hai."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1&lt;sup&gt;2&lt;/sup&gt;+2&lt;sup&gt;2&lt;/sup&gt;+3&lt;sup&gt;2&lt;/sup&gt;+4&lt;sup&gt;2&lt;/sup&gt;+.....+10&lt;sup&gt;2&lt;/sup&gt; = 385</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(1+2+3+4+...+10)&lt;sup&gt;2&lt;/sup&gt; = 3025</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3025 - 385 = 2640</span>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Eg:<br>  Input: 10<br>  Output: 2640"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Test"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 7<br>  Output: 644"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 2:<br>  Input:  17<br>  Output: 21624"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 3:<br>  Input: 19<br>  Output: 33630"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 4:<br>  Input: 9<br>  Output: 1740"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "No Hints"
+	}
+]

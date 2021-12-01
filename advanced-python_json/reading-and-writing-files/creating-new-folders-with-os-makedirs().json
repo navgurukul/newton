@@ -1,0 +1,25 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Creating New Folders with os.makedirs()"
+	},
+	{
+		"component": "text",
+		"value": "Your programs can create new folders (directories) with the os.makedirs() function. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import os<br>>>> os.makedirs('C:\\\\delicious\\\\walnut\\\\waffles')"
+	},
+	{
+		"component": "text",
+		"value": "This will create not just the C:\\delicious folder but also a walnut folder inside C:\\delicious and a waffles folder inside C:\\delicious\\walnut. That is, os.makedirs() will create any necessary intermediate folders in order to ensure that the full path exists. Figure 8-3 shows this hierarchy of folders."
+	},
+	{
+		"component": "text",
+		"value": "The result of os.makedirs('C:\\delicious \\walnut\\waffles')"
+	}
+]

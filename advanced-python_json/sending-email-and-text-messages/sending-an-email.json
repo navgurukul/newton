@@ -1,0 +1,64 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Sending an Email"
+	},
+	{
+		"component": "text",
+		"value": "Once you are logged in to your email provider’s SMTP server, you can call the sendmail() method to actually send the email. The sendmail() method call looks like this:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.sendmail(' my_email_address@gmail.com ', ' recipient@example.com ','Subject: So long.\\nDear Alice,so long and thanks for all the fish. Sincerely,Bob')"
+	},
+	{
+		"component": "text",
+		"value": "{}<br>The sendmail() method requires three arguments."
+	},
+	{
+		"component": "text",
+		"value": "Your email address as a <span style=\"\">string</span> (for the email’s “from” address)"
+	},
+	{
+		"component": "text",
+		"value": "The recipient’s email address as a <span style=\"\">string</span> or a list of <span style=\"\">strings</span> for multiple recipients (for the “to” address)"
+	},
+	{
+		"component": "text",
+		"value": "The email body as a <span style=\"\">string</span>"
+	},
+	{
+		"component": "text",
+		"value": "The start of the email body <span style=\"\">string</span> must begin with 'Subject: \\n' for the subject line of the email. The '\\n' newline character separates the subject line from the main body of the email."
+	},
+	{
+		"component": "text",
+		"value": "The return value from sendmail() is a dictionary. There will be one <span style=\"\">key</span>-value pair in the dictionary for each recipient for whom email delivery failed. An empty dictionary means all recipients were successfully sent the email."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Disconnecting from the SMTP Server"
+	},
+	{
+		"component": "text",
+		"value": "Be sure to call the quit() method when you are done sending emails. This will disconnect your program from the SMTP server."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.quit()"
+	},
+	{
+		"component": "text",
+		"value": "(221, b'2.0.0 closing connection ko10sm23097611pbd.52 - gsmtp')<br>The 221 in the return value means the session is ending."
+	},
+	{
+		"component": "text",
+		"value": "To review all the steps for connecting and logging in to the server, sending email, and disconnection, see Sending Email."
+	}
+]

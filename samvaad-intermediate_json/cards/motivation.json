@@ -1,0 +1,52 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Motivation"
+	},
+	{
+		"component": "text",
+		"value": "What motivates you to work hard?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What do you do when you feel demotivated?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What can be a good way to motivate others?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Resources to study about motivation:"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://youtu.be/9hdSLiHaJz8\">https://youtu.be/9hdSLiHaJz8</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://youtu.be/WfWgThjXpXo\">https://youtu.be/WfWgThjXpXo</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

@@ -1,0 +1,2717 @@
+[
+	{
+		"component": "text",
+		"value": "100+ <span style=\"\">Python</span> challenging programming exercises"
+	},
+	{
+		"component": "text",
+		"value": "Level descriptionLevel    DescriptionLevel 1    Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks.Level 2    Intermediate means someone who has just learned Python, but already has a relatively strong programming background from before. He should be able to solve problems which may involve 3 or 3 Python classes or functions. The answers cannot be directly be found in the textbooks.Level 3    Advanced. He should use Python to solve more complex problem using more rich libraries functions and data structures and algorithms. He is supposed to solve the problem using several Python standard packages and advanced techniques.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Problem template",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Question<br>Hints<br>Solution"
+	},
+	{
+		"component": "text",
+		"value": "Questions",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Question 1<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,<br>between 2000 and 3200 (both included).<br>The numbers obtained should be printed in a comma-separated sequence on a single line."
+	},
+	{
+		"component": "text",
+		"value": "Hints: <br>Consider use range(#begin, #end) method"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "l=[]<br>for i in range(2000, 3201):<br>    if (i%7==0) and (i%5!=0):<br>        l.append(str(i))<br><br>print ','.join(l)"
+	},
+	{
+		"component": "text",
+		"value": "Question 2<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which can compute the factorial of a given numbers.<br>The results should be printed in a comma-separated sequence on a single line.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>8<br>Then, the <span style=\"\">output</span> should be:<br>40320"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def fact(x):<br>    if x == 0:<br>        return 1<br>    return x * fact(x - 1)<br><br>x=int(raw_input())<br>print fact(x)"
+	},
+	{
+		"component": "text",
+		"value": "Question 3<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>8<br>Then, the <span style=\"\">output</span> should be:<br>{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>.<br>Consider use dict()"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "n=int(raw_input())<br>d=dict()<br>for i in range(1,n+1):<br>    d[i]=i*i<br><br>print d"
+	},
+	{
+		"component": "text",
+		"value": "Question 4<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>34,67,55,33,12,98<br>Then, the <span style=\"\">output</span> should be:<br>['34', '67', '55', '33', '12', '98']<br>('34', '67', '55', '33', '12', '98')"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>.<br>tuple() method can convert list to tuple"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "values=raw_input()<br>l=values.split(\",\")<br>t=tuple(l)<br>print l<br>print t"
+	},
+	{
+		"component": "text",
+		"value": "Question 5<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a class which has at least two methods:<br>get<span style=\"\">String</span>: to get a <span style=\"\">string</span> from console <span style=\"\">input</span><br>print<span style=\"\">String</span>: to print the <span style=\"\">string</span> in upper case.<br>Also please include simple test function to test the class methods."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use <b>init</b> method to construct some parameters"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class InputOutString(object):<br>    def __init__(self):<br>        self.s = \"\"<br><br>    def getString(self):<br>        self.s = raw_input()<br><br>    def printString(self):<br>        print self.s.upper()<br><br>strObj = InputOutString()<br>strObj.getString()<br>strObj.printString()"
+	},
+	{
+		"component": "text",
+		"value": "Question 6<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that calculates and prints the value according to the given formula:"
+	},
+	{
+		"component": "blockquote",
+		"value": "Q = Square root of [(2 * C * D)/H]"
+	},
+	{
+		"component": "text",
+		"value": "Following are the fixed values of C and H:<br>C is 50. H is 30.<br>D is the <span style=\"\">variable</span> whose values should be <span style=\"\">input</span> to your program in a comma-separated sequence.<br>Example<br>Let us assume the following comma separated <span style=\"\">input</span> sequence is given to the program:<br>100,150,180<br>The <span style=\"\">output</span> of the program should be:<br>18,22,24"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>If the <span style=\"\">output</span> received is in decimal form, it should be rounded off to its nearest value (for example, if the <span style=\"\">output</span> received is 26.0, it should be printed as 26)<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>. "
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "!/usr/bin/env python<br>import math<br>c=50<br>h=30<br>value = []<br>items=[x for x in raw_input().split(',')]<br>for d in items:<br>    value.append(str(int(round(math.sqrt(2*c*float(d)/h)))))<br><br>print ','.join(value)"
+	},
+	{
+		"component": "text",
+		"value": "Question 7<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which takes 2 digits, X,Y as <span style=\"\">input</span> and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.<br>Note: i=0,1.., X-1; j=0,1,¡­Y-1.<br>Example<br>Suppose the following <span style=\"\">inputs</span> are given to the program:<br>3,5<br>Then, the <span style=\"\">output</span> of the program should be:<br>[[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]] "
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Note: In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span> in a comma-separated form."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "input_str = raw_input()<br>dimensions=[int(x) for x in input_str.split(',')]<br>rowNum=dimensions[0]<br>colNum=dimensions[1]<br>multilist = [[0 for col in range(colNum)] for row in range(rowNum)]<br><br>for row in range(rowNum):<br>    for col in range(colNum):<br>        multilist[row][col]= row*col<br><br>print multilist"
+	},
+	{
+		"component": "text",
+		"value": "Question 8<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that accepts a comma separated sequence of words as <span style=\"\">input</span> and prints the words in a comma-separated sequence after sorting them alphabetically.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>without,hello,bag,world<br>Then, the <span style=\"\">output</span> should be:<br>bag,hello,without,world"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "items=[x for x in raw_input().split(',')]<br>items.sort()<br>print ','.join(items)"
+	},
+	{
+		"component": "text",
+		"value": "Question 9<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "Question£º<br>Write a program that accepts sequence of lines as <span style=\"\">input</span> and prints the lines after making all characters in the sentence capitalized.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>Hello world<br>Practice makes perfect<br>Then, the <span style=\"\">output</span> should be:<br>HELLO WORLD<br>PRACTICE MAKES PERFECT"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "lines = []<br>while True:<br>    s = raw_input()<br>    if s:<br>        lines.append(s.upper())<br>    else:<br>        break;<br><br>for sentence in lines:<br>    print sentence"
+	},
+	{
+		"component": "text",
+		"value": "Question 10<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that accepts a sequence of whitespace separated words as <span style=\"\">input</span> and prints the words after removing all duplicate words and sorting them alphanumerically.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>hello world and practice makes perfect and hello world again<br>Then, the <span style=\"\">output</span> should be:<br>again and hello makes perfect practice world"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>.<br>We use set container to remove duplicated data automatically and then use sorted() to sort the data."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "s = raw_input()<br>words = [word for word in s.split(\" \")]<br>print \" \".join(sorted(list(set(words))))"
+	},
+	{
+		"component": "text",
+		"value": "Question 11<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which accepts a sequence of comma separated 4 digit binary numbers as its <span style=\"\">input</span> and then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma separated sequence.<br>Example:<br>0100,0011,1010,1001<br>Then the <span style=\"\">output</span> should be:<br>1010<br>Notes: Assume the data is <span style=\"\">input</span> by console."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "value = []<br>items=[x for x in raw_input().split(',')]<br>for p in items:<br>    intp = int(p, 2)<br>    if not intp%5:<br>        value.append(p)<br><br>print ','.join(value)"
+	},
+	{
+		"component": "text",
+		"value": "Question 12<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number.<br>The numbers obtained should be printed in a comma-separated sequence on a single line."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "values = []<br>for i in range(1000, 3001):<br>    s = str(i)<br>    if (int(s[0])%2==0) and (int(s[1])%2==0) and (int(s[2])%2==0) and (int(s[3])%2==0):<br>        values.append(s)<br>print \",\".join(values)"
+	},
+	{
+		"component": "text",
+		"value": "Question 13<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that accepts a sentence and calculate the number of letters and digits.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>hello world! 123<br>Then, the <span style=\"\">output</span> should be:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "LETTERS 10<br>DIGITS 3"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:<br>s = raw_<span style=\"\">input</span>()<br>d={\"DIGITS\":0, \"LETTERS\":0}<br>for c in s:<br>    if c.isdigit():<br>        d[\"DIGITS\"]+=1<br>    elif c.isalpha():<br>        d[\"LETTERS\"]+=1<br>    else:<br>        pass<br>print \"LETTERS\", d[\"LETTERS\"]<br>print \"DIGITS\", d[\"DIGITS\"]"
+	},
+	{
+		"component": "text",
+		"value": "Question 14<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that accepts a sentence and calculate the number of upper case letters and lower case letters.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>Hello world!<br>Then, the <span style=\"\">output</span> should be:<br>UPPER CASE 1<br>LOWER CASE 9"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "s = raw_input()<br>d={\"UPPER CASE\":0, \"LOWER CASE\":0}<br>for c in s:<br>    if c.isupper():<br>        d[\"UPPER CASE\"]+=1<br>    elif c.islower():<br>        d[\"LOWER CASE\"]+=1<br>    else:<br>        pass<br>print \"UPPER CASE\", d[\"UPPER CASE\"]<br>print \"LOWER CASE\", d[\"LOWER CASE\"]"
+	},
+	{
+		"component": "text",
+		"value": "Question 15<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>9<br>Then, the <span style=\"\">output</span> should be:<br>11106"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "a = raw_input()<br>n1 = int( \"%s\" % a )<br>n2 = int( \"%s%s\" % (a,a) )<br>n3 = int( \"%s%s%s\" % (a,a,a) )<br>n4 = int( \"%s%s%s%s\" % (a,a,a,a) )<br>print n1+n2+n3+n4"
+	},
+	{
+		"component": "text",
+		"value": "Question 16<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Use a list comprehension to square each odd number in a list. The list is <span style=\"\">input</span> by a sequence of comma-separated numbers.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "1,2,3,4,5,6,7,8,9"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> should be:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "1,3,5,7,9"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "values = raw_input()<br>numbers = [x for x in values.split(\",\") if int(x)%2!=0]<br>print \",\".join(numbers)"
+	},
+	{
+		"component": "text",
+		"value": "Question 17<br>Level 2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program that computes the net amount of a bank account based a transaction log from console <span style=\"\">input</span>. The transaction log format is shown as following:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "D 100<br>W 200"
+	},
+	{
+		"component": "text",
+		"value": "D means deposit while W means withdrawal.<br>Suppose the following <span style=\"\">input</span> is supplied to the program:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "D 300<br>D 300<br>W 200<br>D 100"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> should be:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "500"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "netAmount = 0<br>while True:<br>    s = raw_input()<br>    if not s:<br>        break<br>    values = s.split(\" \")<br>    operation = values[0]<br>    amount = int(values[1])<br>    if operation==\"D\":<br>        netAmount+=amount<br>    elif operation==\"W\":<br>        netAmount-=amount<br>    else:<br>        pass<br>print netAmount"
+	},
+	{
+		"component": "text",
+		"value": "Question 18<br>Level 3"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>A website requires the users to <span style=\"\">input</span> username and password to register. Write a program to check the validity of password <span style=\"\">input</span> by users.<br>Following are the criteria for checking the password:"
+	},
+	{
+		"component": "text",
+		"value": "At least 1 letter between [a-z]",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "At least 1 number between [0-9]",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "At least 1 letter between [A-Z]",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "At least 1 character from [$#@]",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Minimum length of transaction password: 6",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Maximum length of transaction password: 12\nYour program should accept a sequence of comma separated passwords and will check them according to the above criteria. Passwords that match the criteria are to be printed, each separated by a comma.\nExample\nIf the following passwords are given as input to the program:\nABd1234@1,a F1#,2w3E*,2We3345\nThen, the output of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "ABd1234@1"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solutions:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import re<br>value = []<br>items=[x for x in raw_input().split(',')]<br>for p in items:<br>    if len(p)<6 or len(p)>12:<br>        continue<br>    else:<br>        pass<br>    if not re.search(\"[a-z]\",p):<br>        continue<br>    elif not re.search(\"[0-9]\",p):<br>        continue<br>    elif not re.search(\"[A-Z]\",p):<br>        continue<br>    elif not re.search(\"[$#@]\",p):<br>        continue<br>    elif re.search(\"\\s\",p):<br>        continue<br>    else:<br>        pass<br>    value.append(p)<br>print \",\".join(value)"
+	},
+	{
+		"component": "text",
+		"value": "Question 19<br>Level 3"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>You are required to write a program to sort the (name, age, height) tuples by ascending order where name is <span style=\"\">string</span>, age and height are numbers. The tuples are <span style=\"\">input</span> by console. The sort criteria is:<br>1: Sort based on name;<br>2: Then sort based on age;<br>3: Then sort by score.<br>The priority is that name &gt; age &gt; score.<br>If the following tuples are given as <span style=\"\">input</span> to the program:<br>Tom,19,80<br>John,20,90<br>Jony,17,91<br>Jony,17,93<br>Json,21,85<br>Then, the <span style=\"\">output</span> of the program should be:<br>[('John', '20', '90'), ('Jony', '17', '91'), ('Jony', '17', '93'), ('Json', '21', '85'), ('Tom', '19', '80')]"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>.<br>We use itemgetter to enable multiple sort <span style=\"\">keys</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solutions:<br>from <span style=\"\">operator</span> import itemgetter, attrgetter"
+	},
+	{
+		"component": "text",
+		"value": "l = []<br>while <span style=\"\">True</span>:<br>    s = raw_<span style=\"\">input</span>()<br>    if not s:<br>        break<br>    l.append(tuple(s.split(\",\")))"
+	},
+	{
+		"component": "text",
+		"value": "print sorted(l, <span style=\"\">key</span>=itemgetter(0,1,2))"
+	},
+	{
+		"component": "text",
+		"value": "Question 20<br>Level 3"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Consider use yield"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def putNumbers(n):<br>    i = 0<br>    while i<n:<br>        j=i<br>        i=i+1<br>        if j%7==0:<br>            yield j<br><br>for i in reverse(100):<br>    print i"
+	},
+	{
+		"component": "text",
+		"value": "Question 21<br>Level 3"
+	},
+	{
+		"component": "text",
+		"value": "Question£º<br>A robot moves in a plane starting from the original point (0,0). The robot can move toward UP, DOWN, LEFT and RIGHT with a given steps. The trace of robot movement is shown as the following:<br>UP 5<br>DOWN 3<br>LEFT 3<br>RIGHT 2<br>¡­<br>The numbers after the direction are steps. Please write a program to compute the distance from current position after a sequence of movement and original point. If the distance is a <span style=\"\">float</span>, then just print the nearest <span style=\"\">integer</span>.<br>Example:<br>If the following tuples are given as <span style=\"\">input</span> to the program:<br>UP 5<br>DOWN 3<br>LEFT 3<br>RIGHT 2<br>Then, the <span style=\"\">output</span> of the program should be:<br>2"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import math<br>pos = [0,0]<br>while True:<br>    s = raw_input()<br>    if not s:<br>        break<br>    movement = s.split(\" \")<br>    direction = movement[0]<br>    steps = int(movement[1])<br>    if direction==\"UP\":<br>        pos[0]+=steps<br>    elif direction==\"DOWN\":<br>        pos[0]-=steps<br>    elif direction==\"LEFT\":<br>        pos[1]-=steps<br>    elif direction==\"RIGHT\":<br>        pos[1]+=steps<br>    else:<br>        pass<br><br>print int(round(math.sqrt(pos[1]**2+pos[0]**2)))"
+	},
+	{
+		"component": "text",
+		"value": "Question 22<br>Level 3"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program to compute the frequency of the words from the <span style=\"\">input</span>. The <span style=\"\">output</span> should <span style=\"\">output</span> after sorting the <span style=\"\">key</span> alphanumerically. <br>Suppose the following <span style=\"\">input</span> is supplied to the program:<br>New to <span style=\"\">Python</span> or choosing between <span style=\"\">Python</span> 2 and <span style=\"\">Python</span> 3? Read <span style=\"\">Python</span> 2 or <span style=\"\">Python</span> 3.<br>Then, the <span style=\"\">output</span> should be:<br>2:2<br>3.:1<br>3?:1<br>New:1<br><span style=\"\">Python</span>:5<br>Read:1<br>and:1<br>between:1<br>choosing:1<br>or:2<br>to:1"
+	},
+	{
+		"component": "text",
+		"value": "Hints<br>In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "freq = {}   # frequency of words in text<br>line = raw_input()<br>for word in line.split():<br>    freq[word] = freq.get(word,0)+1<br><br>words = freq.keys()<br>words.sort()<br><br>for w in words:<br>    print \"%s:%d\" % (w,freq[w])<br>"
+	},
+	{
+		"component": "text",
+		"value": "Question 23<br>level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>    Write a method which can calculate square value of number"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>    Using the ** <span style=\"\">operator</span>"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def square(num):<br>    return num ** 2<br><br>print square(2)<br>print square(3)"
+	},
+	{
+		"component": "text",
+		"value": "Question 24<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>    <span style=\"\">Python</span> has many built-in functions, and if you do not know how to use it, you can read document online or find some books. But <span style=\"\">Python</span> has a built-in document function for every built-in functions.<br>    Please write a program to print some <span style=\"\">Python</span> built-in functions documents, such as abs(), int(), raw_<span style=\"\">input</span>()<br>    And add document for your own function"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>    The built-in document method is <b>doc</b>"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "print abs.__doc__<br>print int.__doc__<br>print raw_input.__doc__<br><br>def square(num):<br>    '''Return the square value of the input number.<br>    <br>    The input number must be integer.<br>    '''<br>    return num ** 2<br><br>print square(2)<br>print square.__doc__"
+	},
+	{
+		"component": "text",
+		"value": "Question 25<br>Level 1"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>    Define a class, which have a class parameter and have a same instance parameter."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>    Define a instance parameter, need add it in <b>init</b> method<br>    You can init a object with construct parameter or set the value later"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class Person:<br>    # Define the class parameter \"name\"<br>    name = \"Person\"<br>    <br>    def __init__(self, name = None):<br>        # self.name is the instance parameter<br>        self.name = name<br><br>jeffrey = Person(\"Jeffrey\")<br>print \"%s name is %s\" % (Person.name, jeffrey.name)<br><br>nico = Person()<br>nico.name = \"Nico\"<br>print \"%s name is %s\" % (Person.name, nico.name)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can compute the sum of two numbers."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Define a function with two numbers as arguments. You can compute the sum in the function and return the value."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def SumFunction(number1, number2):<br>    return number1+number2<br><br>print SumFunction(1,2)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function that can convert a <span style=\"\">integer</span> into a <span style=\"\">string</span> and print it in console."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use str() to convert a number to <span style=\"\">string</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printValue(n):<br>    print str(n)<br><br>printValue(3)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function that can convert a <span style=\"\">integer</span> into a <span style=\"\">string</span> and print it in console."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use str() to convert a number to <span style=\"\">string</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printValue(n):<br>    print str(n)<br><br>printValue(3)"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function that can receive two integral numbers in <span style=\"\">string</span> form and compute their sum and then print it in console."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use int() to convert a <span style=\"\">string</span> to <span style=\"\">integer</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printValue(s1,s2):<br>    print int(s1)+int(s2)<br><br>printValue(\"3\",\"4\") #7"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function that can accept two <span style=\"\">strings</span> as <span style=\"\">input</span> and concatenate them and then print it in console."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use + to concatenate the <span style=\"\">strings</span>"
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printValue(s1,s2):<br>    print s1+s2<br><br>printValue(\"3\",\"4\") #34"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function that can accept two <span style=\"\">strings</span> as <span style=\"\">input</span> and print the <span style=\"\">string</span> with maximum length in console. If two <span style=\"\">strings</span> have the same length, then the function should print al l <span style=\"\">strings</span> line by line."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use len() function to get the length of a <span style=\"\">string</span>"
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printValue(s1,s2):<br>    len1 = len(s1)<br>    len2 = len(s2)<br>    if len1>len2:<br>        print s1<br>    elif len2>len1:<br>        print s2<br>    else:<br>        print s1<br>        print s2<br>        <br><br>printValue(\"one\",\"three\")"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function that can accept an <span style=\"\">integer</span> number as <span style=\"\">input</span> and print the \"It is an even number\" if the number is even, otherwise print \"It is an odd number\"."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use % <span style=\"\">operator</span> to check if a number is even or odd."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def checkValue(n):<br>    if n%2 == 0:<br>        print \"It is an even number\"<br>    else:<br>        print \"It is an odd number\"<br>        <br><br>checkValue(7)"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can print a dictionary where the <span style=\"\">keys</span> are numbers between 1 and 3 (both included) and the values are square of <span style=\"\">keys</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use dict[<span style=\"\">key</span>]=value pattern to put entry into a dictionary.<br>Use ** <span style=\"\">operator</span> to get power of a number."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printDict():<br>    d=dict()<br>    d[1]=1<br>    d[2]=2**2<br>    d[3]=3**2<br>    print d<br>        <br><br>printDict()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can print a dictionary where the <span style=\"\">keys</span> are numbers between 1 and 20 (both included) and the values are square of <span style=\"\">keys</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use dict[<span style=\"\">key</span>]=value pattern to put entry into a dictionary.<br>Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printDict():<br>    d=dict()<br>    for i in range(1,21):<br>        d[i]=i**2<br>    print d<br>        <br><br>printDict()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate a dictionary where the <span style=\"\">keys</span> are numbers between 1 and 20 (both included) and the values are square of <span style=\"\">keys</span>. The function should just print the values only."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use dict[<span style=\"\">key</span>]=value pattern to put entry into a dictionary.<br>Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use <span style=\"\">keys</span>() to iterate <span style=\"\">keys</span> in the dictionary. Also we can use item() to get <span style=\"\">key</span>/value pairs."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printDict():<br>    d=dict()<br>    for i in range(1,21):<br>        d[i]=i**2<br>    for (k,v) in d.items():    <br>        print v<br>        <br><br>printDict()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate a dictionary where the <span style=\"\">keys</span> are numbers between 1 and 20 (both included) and the values are square of <span style=\"\">keys</span>. The function should just print the <span style=\"\">keys</span> only."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use dict[<span style=\"\">key</span>]=value pattern to put entry into a dictionary.<br>Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use <span style=\"\">keys</span>() to iterate <span style=\"\">keys</span> in the dictionary. Also we can use item() to get <span style=\"\">key</span>/value pairs."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printDict():<br>    d=dict()<br>    for i in range(1,21):<br>        d[i]=i**2<br>    for k in d.keys():    <br>        print k<br>        <br><br>printDict()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate and print a list where the values are square of numbers between 1 and 20 (both included)."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use list.append() to add values into a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printList():<br>    li=list()<br>    for i in range(1,21):<br>        li.append(i**2)<br>    print li<br>        <br><br>printList()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the first 5 elements in the list."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use list.append() to add values into a list.<br>Use [n1:n2] to slice a list"
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printList():<br>    li=list()<br>    for i in range(1,21):<br>        li.append(i**2)<br>    print li[:5]<br>        <br><br>printList()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print the last 5 elements in the list."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use list.append() to add values into a list.<br>Use [n1:n2] to slice a list"
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printList():<br>    li=list()<br>    for i in range(1,21):<br>        li.append(i**2)<br>    print li[-5:]<br>        <br><br>printList()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate a list where the values are square of numbers between 1 and 20 (both included). Then the function needs to print all values except the first 5 elements in the list."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use list.append() to add values into a list.<br>Use [n1:n2] to slice a list"
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printList():<br>    li=list()<br>    for i in range(1,21):<br>        li.append(i**2)<br>    print li[5:]<br>        <br><br>printList()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a function which can generate and print a tuple where the value are square of numbers between 1 and 20 (both included). "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use ** <span style=\"\">operator</span> to get power of a number.<br>Use range() for <span style=\"\">loops</span>.<br>Use list.append() to add values into a list.<br>Use tuple() to get a tuple from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def printTuple():<br>    li=list()<br>    for i in range(1,21):<br>        li.append(i**2)<br>    print tuple(li)<br>        <br>printTuple()"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line and the last half values in one line. "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use [n1:n2] notation to get a slice from a tuple."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "tp=(1,2,3,4,5,6,7,8,9,10)<br>tp1=tp[:5]<br>tp2=tp[5:]<br>print tp1<br>print tp2"
+	},
+	{
+		"component": "text",
+		"value": "2.10"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program to generate and print another tuple whose values are even numbers in the given tuple (1,2,3,4,5,6,7,8,9,10). "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use \"for\" to iterate the tuple<br>Use tuple() to generate a tuple from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "tp=(1,2,3,4,5,6,7,8,9,10)<br>li=list()<br>for i in tp:<br>    if tp[i]%2==0:<br>        li.append(tp[i])<br><br>tp2=tuple(li)<br>print tp2"
+	},
+	{
+		"component": "text",
+		"value": "2.14"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which accepts a <span style=\"\">string</span> as <span style=\"\">input</span> to print \"Yes\" if the <span style=\"\">string</span> is \"yes\" or \"YES\" or \"Yes\", otherwise print \"No\". "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use if <span style=\"\">statement</span> to judge condition."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "s= raw_input()<br>if s==\"yes\" or s==\"YES\" or s==\"Yes\":<br>    print \"Yes\"<br>else:<br>    print \"No\""
+	},
+	{
+		"component": "text",
+		"value": "3.4"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which can filter even numbers in a list by using filter function. The list is: [1,2,3,4,5,6,7,8,9,10]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use filter() to filter some elements in a list.<br>Use lambda to define anonymous functions."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [1,2,3,4,5,6,7,8,9,10]<br>evenNumbers = filter(lambda x: x%2==0, li)<br>print evenNumbers"
+	},
+	{
+		"component": "text",
+		"value": "3.4"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which can map() to make a list whose elements are square of elements in [1,2,3,4,5,6,7,8,9,10]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use map() to generate a list.<br>Use lambda to define anonymous functions."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [1,2,3,4,5,6,7,8,9,10]<br>squaredNumbers = map(lambda x: x**2, li)<br>print squaredNumbers"
+	},
+	{
+		"component": "text",
+		"value": "3.5"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which can map() and filter() to make a list whose elements are square of even number in [1,2,3,4,5,6,7,8,9,10]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use map() to generate a list.<br>Use filter() to filter elements of a list.<br>Use lambda to define anonymous functions."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [1,2,3,4,5,6,7,8,9,10]<br>evenNumbers = map(lambda x: x**2, filter(lambda x: x%2==0, li))<br>print evenNumbers"
+	},
+	{
+		"component": "text",
+		"value": "3.5"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which can filter() to make a list whose elements are even number between 1 and 20 (both included)."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use filter() to filter elements of a list.<br>Use lambda to define anonymous functions."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "evenNumbers = filter(lambda x: x%2==0, range(1,21))<br>print evenNumbers"
+	},
+	{
+		"component": "text",
+		"value": "3.5"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Write a program which can map() to make a list whose elements are square of numbers between 1 and 20 (both included)."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use map() to generate a list.<br>Use lambda to define anonymous functions."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "squaredNumbers = map(lambda x: x**2, range(1,21))<br>print squaredNumbers"
+	},
+	{
+		"component": "text",
+		"value": "7.2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a class named American which has a static method called printNationality."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use @staticmethod decorator to define class static method."
+	},
+	{
+		"component": "text",
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class American(object):<br>    @staticmethod<br>    def printNationality():<br>        print \"America\"<br><br>anAmerican = American()<br>anAmerican.printNationality()<br>American.printNationality()"
+	},
+	{
+		"component": "text",
+		"value": "7.2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a class named American and its subclass NewYorker. "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use class Subclass(ParentClass) to define a subclass."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class American(object):<br>    pass<br><br>class NewYorker(American):<br>    pass<br><br>anAmerican = American()<br>aNewYorker = NewYorker()<br>print anAmerican<br>print aNewYorker"
+	},
+	{
+		"component": "text",
+		"value": "7.2"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b><br>Define a class named Circle which can be constructed by a radius. The Circle class has a method which can compute the area. "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use def methodName(self) to define a method."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class Circle(object):<br>    def __init__(self, r):<br>        self.radius = r<br><br>    def area(self):<br>        return self.radius**2*3.14<br><br>aCircle = Circle(2)<br>print aCircle.area()<br>"
+	},
+	{
+		"component": "text",
+		"value": "7.2"
+	},
+	{
+		"component": "text",
+		"value": "Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has a method which can compute the area. "
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use def methodName(self) to define a method."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class Rectangle(object):<br>    def __init__(self, l, w):<br>        self.length = l<br>        self.width  = w<br><br>    def area(self):<br>        return self.length*self.width<br><br>aRectangle = Rectangle(2,10)<br>print aRectangle.area()"
+	},
+	{
+		"component": "text",
+		"value": "7.2"
+	},
+	{
+		"component": "text",
+		"value": "Define a class named Shape and its subclass Square. The Square class has an init function which takes a length as argument. Both classes have a area function which can print the area of the shape where Shape's area is 0 by default."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "To override a method in super class, we can define a method with the same name in the super class."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class Shape(object):<br>    def __init__(self):<br>        pass<br><br>    def area(self):<br>        return 0<br><br>class Square(Shape):<br>    def __init__(self, l):<br>        Shape.__init__(self)<br>        self.length = l<br><br>    def area(self):<br>        return self.length*self.length<br><br>aSquare= Square(3)<br>print aSquare.area()"
+	},
+	{
+		"component": "text",
+		"value": "Please raise a Runtime<span style=\"\">Error</span> exception."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use raise() to raise an exception."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "raise RuntimeError('something wrong')"
+	},
+	{
+		"component": "text",
+		"value": "Write a function to compute 5/0 and use try/except to catch the exceptions."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Use try/except to catch exceptions.<br><br>Solution:<br><br>def throws():<br>    return 5/0<br><br>try:<br>    throws()<br>except ZeroDivisionError:<br>    print \"division by zero!\"<br>except Exception, err:<br>    print 'Caught an exception'<br>finally:<br>    print 'In finally block for cleanup'"
+	},
+	{
+		"component": "text",
+		"value": "Define a custom exception class which takes a <span style=\"\">string</span> message as attribute."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "To define a custom exception, we need to define a class inherited from Exception."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class MyError(Exception):<br>    \"\"\"My own exception class<br><br>    Attributes:<br>        msg  -- explanation of the error<br>    \"\"\"<br><br>    def __init__(self, msg):<br>        self.msg = msg<br><br>error = MyError(\"something wrong\")"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Assuming that we have some email addresses in the \""
+	},
+	{
+		"component": "text",
+		"value": "username@companyname.com"
+	},
+	{
+		"component": "text",
+		"value": "\" format, please write program to print the user name of a given email address. Both user names and company names are composed of letters only."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following email address is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "john@google.com"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "john"
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use \\w to match letters."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import re<br>emailAddress = raw_input()<br>pat2 = \"(\\w+)@((\\w+\\.)+(com))\"<br>r2 = re.match(pat2,emailAddress)<br>print r2.group(1)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Assuming that we have some email addresses in the \""
+	},
+	{
+		"component": "text",
+		"value": "username@companyname.com"
+	},
+	{
+		"component": "text",
+		"value": "\" format, please write program to print the company name of a given email address. Both user names and company names are composed of letters only."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following email address is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "john@google.com"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "google"
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use \\w to match letters."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import re<br>emailAddress = raw_input()<br>pat2 = \"(\\w+)@(\\w+)\\.(com)\"<br>r2 = re.match(pat2,emailAddress)<br>print r2.group(2)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Write a program which accepts a sequence of words separated by whitespace as <span style=\"\">input</span> to print the words composed of digits only."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following words is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "2 cats and 3 dogs."
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "['2', '3']"
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use re.findall() to find all sub<span style=\"\">string</span> using regex."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import re<br>s = raw_input()<br>print re.findall(\"\\d+\",s)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Print a uni<span style=\"\">code</span> <span style=\"\">string</span> \"hello world\"."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use u'<span style=\"\">strings</span>' format to define uni<span style=\"\">code</span> <span style=\"\">string</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "unicodeString = u\"hello world!\"<br>print unicodeString"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to read an ASCII <span style=\"\">string</span> and to convert it to a uni<span style=\"\">code</span> <span style=\"\">string</span> en<span style=\"\">code</span>d by utf-8."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Use uni<span style=\"\">code</span>() function to convert."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "s = raw_input()<br>u = unicode( s ,\"utf-8\")<br>print u"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Write a special comment to indicate a <span style=\"\">Python</span> source <span style=\"\">code</span> <span style=\"\">file</span> is in uni<span style=\"\">code</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"># -*- coding: utf-8 -*-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to compute 1/2+2/3+3/4+…+n/n+1 with a given n <span style=\"\">input</span> by console (n&gt;0)."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following n is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "3.55"
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use <span style=\"\">float</span>() to convert an <span style=\"\">integer</span> to a <span style=\"\">float</span>"
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "n=int(raw_input())<br>sum=0.0<br>for i in range(1,n+1):<br>    sum += float(float(i)/(i+1))<br>print sum"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to compute:"
+	},
+	{
+		"component": "text",
+		"value": "f(n)=f(n-1)+100 when n&gt;0<br>and f(0)=1"
+	},
+	{
+		"component": "text",
+		"value": "with a given n <span style=\"\">input</span> by console (n&gt;0)."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following n is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "500"
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>We can define recursive function in <span style=\"\">Python</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def f(n):<br>    if n==0:<br>        return 0<br>    else:<br>        return f(n-1)+100<br><br>n=int(raw_input())<br>print f(n)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "The Fibonacci Sequence is computed based on the following formula:"
+	},
+	{
+		"component": "text",
+		"value": "f(n)=0 if n=0<br>f(n)=1 if n=1<br>f(n)=f(n-1)+f(n-2) if n&gt;1"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to compute the value of f(n) with a given n <span style=\"\">input</span> by console."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following n is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "7"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "13"
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>We can define recursive function in <span style=\"\">Python</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def f(n):<br>    if n == 0: return 0<br>    elif n == 1: return 1<br>    else: return f(n-1)+f(n-2)<br><br>n=int(raw_input())<br>print f(n)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "The Fibonacci Sequence is computed based on the following formula:"
+	},
+	{
+		"component": "text",
+		"value": "f(n)=0 if n=0<br>f(n)=1 if n=1<br>f(n)=f(n-1)+f(n-2) if n&gt;1"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program using list comprehension to print the Fibonacci Sequence in comma separated form with a given n <span style=\"\">input</span> by console."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following n is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "7"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "0,1,1,2,3,5,8,13"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>We can define recursive function in <span style=\"\">Python</span>.<br>Use list comprehension to generate a list from an existing list.<br>Use <span style=\"\">string</span>.join() to join a list of <span style=\"\">strings</span>."
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def f(n):<br>    if n == 0: return 0<br>    elif n == 1: return 1<br>    else: return f(n-1)+f(n-2)<br><br>n=int(raw_input())<br>values = [str(f(x)) for x in range(0, n+1)]<br>print \",\".join(values)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program using generator to print the even numbers between 0 and n in comma separated form while n is <span style=\"\">input</span> by console."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following n is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "10"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "0,2,4,6,8,10"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use yield to produce the next value in generator."
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def EvenGenerator(n):<br>    i=0<br>    while i<=n:<br>        if i%2==0:<br>            yield i<br>        i+=1<br><br><br>n=int(raw_input())<br>values = []<br>for i in EvenGenerator(n):<br>    values.append(str(i))<br><br>print \",\".join(values)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0 and n in comma separated form while n is <span style=\"\">input</span> by console."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following n is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "100"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "0,35,70"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use yield to produce the next value in generator."
+	},
+	{
+		"component": "text",
+		"value": "In case of <span style=\"\">input</span> data being supplied to the question, it should be assumed to be a console <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def NumGenerator(n):<br>    for i in range(n+1):<br>        if i%5==0 and i%7==0:<br>            yield i<br><br>n=int(raw_input())<br>values = []<br>for i in NumGenerator(n):<br>    values.append(str(i))<br><br>print \",\".join(values)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write assert <span style=\"\">statements</span> to verify that every number in the list [2,4,6,8] is even."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use \"assert expression\" to make assertion."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [2,4,6,8]<br>for i in li:<br>    assert i%2==0"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program which accepts basic mathematic expression from console and print the evaluation result."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following <span style=\"\">string</span> is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "35+3"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "38"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use eval() to evaluate an expression."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "expression = raw_input()<br>print eval(expression)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use if/elif to deal with conditions."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import math<br>def bin_search(li, element):<br>    bottom = 0<br>    top = len(li)-1<br>    index = -1<br>    while top>=bottom and index==-1:<br>        mid = int(math.floor((top+bottom)/2.0))<br>        if li[mid]==element:<br>            index = mid<br>        elif li[mid]>element:<br>            top = mid-1<br>        else:<br>            bottom = mid+1<br><br>    return index<br><br>li=[2,5,7,9,11,17,222]<br>print bin_search(li,11)<br>print bin_search(li,12)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a binary search function which searches an item in a sorted list. The function should return the index of element to be searched in the list."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use if/elif to deal with conditions."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import math<br>def bin_search(li, element):<br>    bottom = 0<br>    top = len(li)-1<br>    index = -1<br>    while top>=bottom and index==-1:<br>        mid = int(math.floor((top+bottom)/2.0))<br>        if li[mid]==element:<br>            index = mid<br>        elif li[mid]>element:<br>            top = mid-1<br>        else:<br>            bottom = mid+1<br><br>    return index<br><br>li=[2,5,7,9,11,17,222]<br>print bin_search(li,11)<br>print bin_search(li,12)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please generate a random <span style=\"\">float</span> where the value is between 10 and 100 using <span style=\"\">Python</span> math module."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.random() to generate a random <span style=\"\">float</span> in [0,1]."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.random()*100"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please generate a random <span style=\"\">float</span> where the value is between 5 and 95 using <span style=\"\">Python</span> math module."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.random() to generate a random <span style=\"\">float</span> in [0,1]."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.random()*100-5"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to <span style=\"\">output</span> a random even number between 0 and 10 inclusive using random module and list comprehension."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.choice() to a random element from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.choice([i for i in range(11) if i%2==0])"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to <span style=\"\">output</span> a random number, which is divisible by 5 and 7, between 0 and 10 inclusive using random module and list comprehension."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.choice() to a random element from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.choice([i for i in range(201) if i%5==0 and i%7==0])"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to generate a list with 5 random numbers between 100 and 200 inclusive."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.sample() to generate a list of random values."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.sample(range(100), 5)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to randomly generate a list with 5 even numbers between 100 and 200 inclusive."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.sample() to generate a list of random values."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.sample([i for i in range(100,201) if i%2==0], 5)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to randomly generate a list with 5 numbers, which are divisible by 5 and 7 , between 1 and 1000 inclusive."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.sample() to generate a list of random values."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.sample([i for i in range(1,1001) if i%5==0 and i%7==0], 5)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to randomly print a <span style=\"\">integer</span> number between 7 and 15 inclusive."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use random.randrange() to a random <span style=\"\">integer</span> in a given range."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import random<br>print random.randrange(7,16)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to compress and decompress the <span style=\"\">string</span> \"hello world!hello world!hello world!hello world!\"."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use zlib.compress() and zlib.decompress() to compress and decompress a <span style=\"\">string</span>."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import zlib<br>s = 'hello world!hello world!hello world!hello world!'<br>t = zlib.compress(s)<br>print t<br>print zlib.decompress(t)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to print the running time of execution of \"1+1\" for 100 times."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use timeit() function to measure the running time."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "from timeit import Timer<br>t = Timer(\"for i in range(100):1+1\")<br>print t.timeit()"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to shuffle and print the list [3,6,7,8]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use shuffle() function to shuffle a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "from random import shuffle<br>li = [3,6,7,8]<br>shuffle(li)<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to shuffle and print the list [3,6,7,8]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use shuffle() function to shuffle a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "from random import shuffle<br>li = [3,6,7,8]<br>shuffle(li)<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to generate all sentences where subject is in [\"I\", \"You\"] and verb is in [\"Play\", \"Love\"] and the object is in [\"Hoc<span style=\"\">key</span>\",\"Football\"]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list[index] notation to get a element from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "subjects=[\"I\", \"You\"]<br>verbs=[\"Play\", \"Love\"]<br>objects=[\"Hockey\",\"Football\"]<br>for i in range(len(subjects)):<br>    for j in range(len(verbs)):<br>        for k in range(len(objects)):<br>            sentence = \"%s %s %s.\" % (subjects[i], verbs[j], objects[k])<br>            print sentence"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program to print the list after removing delete even numbers in [5,6,77,45,22,12,24]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list comprehension to delete a bunch of element from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [5,6,77,45,22,12,24]<br>li = [x for x in li if x%2!=0]<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "By using list comprehension, please write a program to print the list after removing delete numbers which are divisible by 5 and 7 in [12,24,35,70,88,120,155]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list comprehension to delete a bunch of element from a list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [12,24,35,70,88,120,155]<br>li = [x for x in li if x%5!=0 and x%7!=0]<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "By using list comprehension, please write a program to print the list after removing the 0th, 2nd, 4th,6th numbers in [12,24,35,70,88,120,155]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list comprehension to delete a bunch of element from a list.<br>Use enumerate() to get (index, value) tuple."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [12,24,35,70,88,120,155]<br>li = [x for (i,x) in enumerate(li) if i%2!=0]<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "By using list comprehension, please write a program generate a 3<i>5</i>8 3D array whose each element is 0."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list comprehension to make an array."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "array = [[ [0 for col in range(8)] for col in range(5)] for row in range(3)]<br>print array"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "By using list comprehension, please write a program to print the list after removing the 0th,4th,5th numbers in [12,24,35,70,88,120,155]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list comprehension to delete a bunch of element from a list.<br>Use enumerate() to get (index, value) tuple."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [12,24,35,70,88,120,155]<br>li = [x for (i,x) in enumerate(li) if i not in (0,4,5)]<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "By using list comprehension, please write a program to print the list after removing the value 24 in [12,24,35,24,88,120,155]."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list's remove method to delete a value."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "li = [12,24,35,24,88,120,155]<br>li = [x for x in li if x!=24]<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "With two given lists [1,3,6,78,35,55] and [12,24,35,24,88,120,155], write a program to make a list whose elements are intersection of the above given lists."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use set() and \"&amp;=\" to do set intersection operation."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "set1=set([1,3,6,78,35,55])<br>set2=set([12,24,35,24,88,120,155])<br>set1 &= set2<br>li=list(set1)<br>print li"
+	},
+	{
+		"component": "text",
+		"value": "With a given list [12,24,35,24,88,120,155,88,120,155], write a program to print this list after removing all duplicate values with original order reserved."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use set() to store a number of values without duplicate."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def removeDuplicate( li ):<br>    newli=[]<br>    seen = set()<br>    for item in li:<br>        if item not in seen:<br>            seen.add( item )<br>            newli.append(item)<br><br>    return newli<br><br>li=[12,24,35,24,88,120,155,88,120,155]<br>print removeDuplicate(li)"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Define a class Person and its two child classes: Male and Female. All classes have a method \"getGender\" which can print \"Male\" for Male class and \"Female\" for Female class."
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use Subclass(Parentclass) to define a child class."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "class Person(object):<br>    def getGender( self ):<br>        return \"Unknown\"<br><br>class Male( Person ):<br>    def getGender( self ):<br>        return \"Male\"<br><br>class Female( Person ):<br>    def getGender( self ):<br>        return \"Female\"<br><br>aMale = Male()<br>aFemale= Female()<br>print aMale.getGender()<br>print aFemale.getGender()"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program which count and print the numbers of each character in a <span style=\"\">string</span> <span style=\"\">input</span> by console."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following <span style=\"\">string</span> is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "abcdefgabc"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "a,2<br>c,2<br>b,2<br>e,1<br>d,1<br>g,1<br>f,1"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use dict to store <span style=\"\">key</span>/value pairs.<br>Use dict.get() method to lookup a <span style=\"\">key</span> with default value."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "dic = {}<br>s=raw_input()<br>for s in s:<br>    dic[s] = dic.get(s,0)+1<br>print '\\n'.join(['%s,%s' % (k, v) for k, v in dic.items()])"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program which accepts a <span style=\"\">string</span> from console and print it in reverse order."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following <span style=\"\">string</span> is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "rise to vote sir"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "ris etov ot esir"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list[::-1] to iterate a list in a reverse order."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "s=raw_input()<br>s = s[::-1]<br>print s"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program which accepts a <span style=\"\">string</span> from console and print the characters that have even indexes."
+	},
+	{
+		"component": "text",
+		"value": "Example:<br>If the following <span style=\"\">string</span> is given as <span style=\"\">input</span> to the program:"
+	},
+	{
+		"component": "text",
+		"value": "H1e2l3l4o5w6o7r8l9d"
+	},
+	{
+		"component": "text",
+		"value": "Then, the <span style=\"\">output</span> of the program should be:"
+	},
+	{
+		"component": "text",
+		"value": "Helloworld"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use list[::2] to iterate a list by step 2."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "s=raw_input()<br>s = s[::2]<br>print s"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Please write a program which prints all permutations of [1,2,3]"
+	},
+	{
+		"component": "text",
+		"value": "Hints:<br>Use itertools.permutations() to get permutations of list."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "import itertools<br>print list(itertools.permutations([1,2,3]))"
+	},
+	{
+		"component": "text",
+		"value": "<b>Question:</b>"
+	},
+	{
+		"component": "text",
+		"value": "Write a program to solve a classic ancient Chinese puzzle: <br>We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many chickens do we have?"
+	},
+	{
+		"component": "text",
+		"value": "Hint:<br>Use for <span style=\"\">loop</span> to iterate all possible solutions."
+	},
+	{
+		"component": "text",
+		"value": "Solution:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "def solve(numheads,numlegs):<br>    ns='No solutions!'<br>    for i in range(numheads+1):<br>        j=numheads-i<br>        if 2*i+4*j==numlegs:<br>            return i,j<br>    return ns,ns<br><br>numheads=35<br>numlegs=94<br>solutions=solve(numheads,numlegs)<br>print solutions"
+	}
+]

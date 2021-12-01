@@ -1,0 +1,180 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Using Data Structures to Model Real-World Things"
+	},
+	{
+		"component": "text",
+		"value": "Even before the Internet, it was possible to play a game of chess with someone on the other side of the world. Each player would set up a chessboard at their home and then take turns mailing a postcard to each other describing each move. To do this, the players needed a way to unambiguously describe the state of the board and their moves."
+	},
+	{
+		"component": "text",
+		"value": "In algebraic chess notation, the spaces on the chessboard are identified by a number and letter coordinate, as in Figure"
+	},
+	{
+		"component": "text",
+		"value": "The coordinates of a chessboard in algebraic chess notation"
+	},
+	{
+		"component": "text",
+		"value": "The chess pieces are identified by letters: K for king, Q for queen, R for rook, B for bishop, and N for knight. Describing a move uses the letter of the piece and the coordinates of its destination. A pair of these moves describes what happens in a single turn (with white going first); for instance, the notation 2. Nf3 Nc6 indicates that white moved a knight to f3 and black moved a knight to c6 on the second turn of the game."
+	},
+	{
+		"component": "text",
+		"value": "There’s a bit more to algebraic notation than this, but the point is that you can use it to unambiguously describe a game of chess without needing to be in front of a chessboard. Your opponent can even be on the other side of the world! In fact, you don’t even need a physical chess set if you have a good memory: You can just read the mailed chess moves and update boards you have in your imagination."
+	},
+	{
+		"component": "text",
+		"value": "Computers have good memories. A program on a modern computer can easily store billions of <span style=\"\">strings</span> like '2. Nf3 Nc6'. This is how computers can play chess without having a physical chessboard. They model data to represent a chessboard, and you can write <span style=\"\">code</span> to work with this model."
+	},
+	{
+		"component": "text",
+		"value": "This is where lists and dictionaries can come in. You can use them to model real-world things, like chessboards. For the first example, you’ll use a game that’s a little simpler than chess: tic-tac-toe."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "A Tic-Tac-Toe Board"
+	},
+	{
+		"component": "text",
+		"value": "A tic-tac-toe board looks like a large hash symbol (#) with nine slots that can each contain an X, an O, or a blank. To represent the board with a dictionary, you can assign each slot a <span style=\"\">string</span>-value <span style=\"\">key</span>, as shown in Figure 5-2."
+	},
+	{
+		"component": "text",
+		"value": "You can use <span style=\"\">string</span> values to represent what’s in each slot on the board: 'X', 'O', or ' ' (a space character). Thus, you’ll need to store nine <span style=\"\">strings</span>. You can use a dictionary of values for this. The <span style=\"\">string</span> value with the <span style=\"\">key</span> 'top-R' can represent the top-right corner, the <span style=\"\">string</span> value with the <span style=\"\">key</span> 'low-L' can represent the bottom-left corner, the <span style=\"\">string</span> value with the <span style=\"\">key</span> 'mid-M' can represent the middle, and so on."
+	},
+	{
+		"component": "text",
+		"value": "The slots of a tic-tactoe board with their corresponding <span style=\"\">keys</span>"
+	},
+	{
+		"component": "text",
+		"value": "This dictionary is a data structure that represents a tic-tac-toe board. Store this board-as-a-dictionary in a <span style=\"\">variable</span> named theBoard. Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window, and enter the following source <span style=\"\">code</span>, saving it as ticTacToe.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+	},
+	{
+		"component": "text",
+		"value": "The data structure stored in the theBoard <span style=\"\">variable</span> represents the tic-tactoe board in "
+	},
+	{
+		"component": "text",
+		"value": "An empty tic-tac-toe board"
+	},
+	{
+		"component": "text",
+		"value": "Since the value for every <span style=\"\">key</span> in theBoard is a single-space <span style=\"\">string</span>, this dictionary represents a completely clear board. If player X went first and chose the middle space, you could represent that board with this dictionary:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': 'X', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+	},
+	{
+		"component": "text",
+		"value": "The data structure in theBoard now represents the tic-tac-toe board in Figure"
+	},
+	{
+		"component": "text",
+		"value": "The first move"
+	},
+	{
+		"component": "text",
+		"value": "A board where player O has won by placing Os across the top might look like this:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O',<br>            'mid-L': 'X', 'mid-M': 'X', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}"
+	},
+	{
+		"component": "text",
+		"value": "The data structure in theBoard now represents the tic-tac-toe board in Figure"
+	},
+	{
+		"component": "text",
+		"value": "Player O wins."
+	},
+	{
+		"component": "text",
+		"value": "Of course, the player sees only what is printed to the screen, not the contents of <span style=\"\">variables</span>. Let’s create a function to print the board dictionary onto the screen. Make the following addition to ticTacToe.py (new <span style=\"\">code</span> is in bold):"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}<br>def printBoard(board):<br>    print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>    print('-+-+-')<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>    print('-+-+-')<br>    print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
+	},
+	{
+		"component": "text",
+		"value": "When you run this program, printBoard() will print out a blank tic-tactoe board."
+	},
+	{
+		"component": "text",
+		"value": "| |<br>-+-+-<br>| |<br>-+-+-<br>| |<br>The printBoard() function can handle any tic-tac-toe data structure you pass it. Try changing the <span style=\"\">code</span> to the following:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O', 'mid-L': 'X', 'mid-M':<br>'X', 'mid-R': ' ', 'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}<br><br>def printBoard(board):<br>    print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>    print('-+-+-')<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>    print('-+-+-')<br>    print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
+	},
+	{
+		"component": "text",
+		"value": "Now when you run this program, the new board will be printed to the screen."
+	},
+	{
+		"component": "text",
+		"value": "O|O|O<br>-+-+-<br>X|X|<br>-+-+-<br>| |X<br>Because you created a data structure to represent a tic-tac-toe board and wrote <span style=\"\">code</span> in printBoard() to interpret that data structure, you now have a program that “models” the tic-tac-toe board. You could have organized your data structure differently (for example, using <span style=\"\">keys</span> like 'TOP-LEFT' instead of 'top-L'), but as long as the <span style=\"\">code</span> works with your data structures, you will have a correctly working program."
+	},
+	{
+		"component": "text",
+		"value": "For example, the printBoard() function expects the tic-tac-toe data structure to be a dictionary with <span style=\"\">keys</span> for all nine slots. If the dictionary you passed was missing, say, the 'mid-L' <span style=\"\">key</span>, your program would no longer work."
+	},
+	{
+		"component": "text",
+		"value": "O|O|O<br>-+-+-<br>Traceback (most recent call last):<br>  <span style=\"\">File</span> \"ticTacToe.py\", line 10, in <module><br>    printBoard(theBoard)<br>  <span style=\"\">File</span> \"ticTacToe.py\", line 6, in printBoard<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br><span style=\"\">KeyE</span>rror: 'mid-L'<br>Now let’s add <span style=\"\">code</span> that allows the players to enter their moves. Modify the ticTacToe.py program to look like this:"
+	},
+	{
+		"component": "text",
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ', 'mid-L': ' ', 'mid-M': '<br>   ', 'mid-R': ' ', 'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def printBoard(board):<br>       print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>       print('-+-+-')<br>       print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>       print('-+-+-')<br>       print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>   turn = 'X'<br>   for i in range(9):<br>❶      printBoard(theBoard)<br>        print('Turn for ' + turn + '. Move on which space?')<br>❷      move = input()<br>❸      theBoard[move] = turn<br>❹      if turn == 'X':<br>            turn = 'O'<br>        else:<br>            turn = 'X'<br>   printBoard(theBoard)"
+	},
+	{
+		"component": "text",
+		"value": "The new <span style=\"\">code</span> prints out the board at the start of each new turn ❶, gets the active player’s move ❷, updates the game board accordingly ❸, and then swaps the active player ❹ before moving on to the next turn."
+	},
+	{
+		"component": "text",
+		"value": "When you run this program, it will look something like this:"
+	},
+	{
+		"component": "text",
+		"value": "| |<br>-+-+-<br> | |<br>-+-+-<br> | |<br>Turn for X. Move on which space?<br>mid-M<br> | |<br>-+-+-<br> |X|<br>-+-+-<br> | |<br>Turn for O. Move on which space?<br>low-L<br> | |<br>-+-+-<br> |X|<br>-+-+-<br>O| |"
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "text",
+		"value": "O|O|X<br>-+-+-<br>X|X|O<br>-+-+-<br>O| |X<br>Turn for X. Move on which space?<br>low-M<br>O|O|X<br>-+-+-<br>X|X|O<br>-+-+-<br>O|X|X<br>This isn’t a complete tic-tac-toe game—for instance, it doesn’t ever check whether a player has won—but it’s enough to see how data structures can be used in programs."
+	},
+	{
+		"component": "text",
+		"value": "Note<br>If you are curious, the source <span style=\"\">code</span> for a complete tic-tac-toe program is described in the resources available from<span><a href=\" http://nostarch.com/automatestuff/.\">automatestuff</a></span>"
+	}
+]

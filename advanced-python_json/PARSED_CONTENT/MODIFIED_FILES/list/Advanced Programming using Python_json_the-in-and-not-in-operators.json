@@ -1,0 +1,35 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-in-and-not-in-operators_key1"
+  },
+  {
+    "component": "text",
+    "value": "the-in-and-not-in-operators_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'howdy' in ['hello', 'hi', 'howdy', 'heyas']<br>True<br>>>> spam = ['hello', 'hi', 'howdy', 'heyas']<br>>>> 'cat' in spam<br>False<br>>>> 'howdy' not in spam<br>False<br>>>> 'cat' not in spam<br>True"
+  },
+  {
+    "component": "text",
+    "value": "the-in-and-not-in-operators_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "myPets = ['Zophie', 'Pooka', 'Fat-tail']<br>print('Enter a pet name:')<br>name = input()<br>if name not in myPets:<br>    print('I do not have a pet named ' + name)<br>else:<br>    print(name + ' is my pet.')"
+  },
+  {
+    "component": "text",
+    "value": "the-in-and-not-in-operators_key4"
+  },
+  {
+    "component": "text",
+    "value": "the-in-and-not-in-operators_key5"
+  }
+]

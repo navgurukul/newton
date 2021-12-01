@@ -1,0 +1,5 @@
+{
+	"objects-intro_key1": "introducing key, value concept and how to define an object and access its properties",
+	"objects-intro_key2": "//Concept of objects<br>var task = {<br>        'id' : 1,<br>        'task': 'Complete the JS course',<br>        'status': 'Pending'<br>}<br>console.log(task)<br>console.log(task['id'])",
+	"objects-intro_key3": "//Create a list of objects<br>taskList = [{<br>                'id' : 1,<br>                'task': 'Complete the JS course',<br>                'status': 'Pending'<br>        },<br>        {<br>                'id' : 2,<br>                'task': 'Complete the CSS course',<br>                'status': 'Pending'<br>        },<br>        {<br>                'id' : 3,<br>                'task': 'Cook the food',<br>                'status': 'Complete'<br>        }]<br>var listLength = taskList.length;<br>var index = 0;<br>while(index < listLength)<br>        console.log(taskList[i]);<br>        index = index + 1;<br>}"
+}

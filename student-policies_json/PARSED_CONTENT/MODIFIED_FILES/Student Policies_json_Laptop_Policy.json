@@ -1,0 +1,312 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "Laptop_Policy_key1"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key2"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key4"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key6"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key8"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key9"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key10",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key11",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key12",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key13",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key14",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key15",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key16",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key17",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key18",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key19",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key20",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key21",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key22",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key23",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key24",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key25",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key26",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key27"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key28",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key29",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key30",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key31",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key32",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key33",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key34",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key35"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key36",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key37"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key38",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key39"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key40",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key41",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key42"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key43",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Laptop_Policy_key44"
+  },
+  {
+    "component": "text",
+    "value": "Laptop_Policy_key45",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  }
+]

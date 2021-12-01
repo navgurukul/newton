@@ -1,0 +1,55 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "introduction_key1"
+  },
+  {
+    "component": "text",
+    "value": "introduction_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "introduction_key3"
+  },
+  {
+    "component": "youtube",
+    "value": "Nu-18s6EeM8"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "introduction_key4"
+  },
+  {
+    "component": "youtube",
+    "value": "s7wmiS2mSXY"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "introduction_key5"
+  },
+  {
+    "component": "youtube",
+    "value": "7YcW25PHnAA"
+  },
+  {
+    "component": "text",
+    "value": "introduction_key6"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "introduction_key7"
+  },
+  {
+    "component": "youtube",
+    "value": "7mj-p1Os6QA"
+  },
+  {
+    "component": "text",
+    "value": "introduction_key8"
+  }
+]

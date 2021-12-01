@@ -1,0 +1,164 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Festival"
+	},
+	{
+		"component": "text",
+		"value": "Which are the popular festivals celebrated in your state?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What preparations are done for the festival?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What do people do in the festival?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is special about the festival?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "(You can talk about multiple festivals too.)"
+	},
+	{
+		"component": "youtube",
+		"value": "hDPt6koZ9ks"
+	},
+	{
+		"component": "youtube",
+		"value": "vv2jgdeRFCE"
+	},
+	{
+		"component": "youtube",
+		"value": "ds9DWTBKg0c"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Vocabulary"
+	},
+	{
+		"component": "text",
+		"value": "Victory - विजय",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Disappoint - निराश",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Bounties - इनाम",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Bestowing - कन्यादान",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Dedicate- समर्पित करना",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Evil – बुराई",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Numerous –  बहुत",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Enormous - विशाल ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Decoratin -सजावट",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Religious Spirits - धार्मिक आस्था",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Celebration - उत्सव",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Happiness - ख़ुशी",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Burst -फोड़ने",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

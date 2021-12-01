@@ -1,0 +1,62 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "A program to make a calculator"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Python</span> calculator function"
+	},
+	{
+		"component": "text",
+		"value": "Is program mai hum calculator ka ek function likhenge jo ki 2 number and ek <span style=\"\">operator</span> dega and uska result return karega"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def calc(a, b, operator):<br>    if operator == '+':<br>        return a + b<br>    elif operator == '*':<br>        return a * b<br>    elif operator == '/':<br>        return a / b<br>    elif operator == '-':<br>        return a - b"
+	},
+	{
+		"component": "text",
+		"value": "is function ko agar hum call karta huun aise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calc(5, 10, '*')</span> to kya <span style=\"\">output</span> hoga"
+	},
+	{
+		"component": "text",
+		"value": "and agar is function ko aise call kare <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calc(5, 10, '%')</span> to kya putput hoga"
+	},
+	{
+		"component": "text",
+		"value": "Hum aise cases ke liye kya kar sakte hai?"
+	},
+	{
+		"component": "text",
+		"value": "Hamesha hum sirf ek limited no of cases ko hi handle kar sakte hai and isilye humme baki <span style=\"\">input</span> ke liye <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not supported</span> wala case banana chahiye"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Task"
+	},
+	{
+		"component": "text",
+		"value": "Is program mai aap ek aisa case ya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">if</span> <span style=\"\">statement</span> dijeye jo ki saare unwanted <span style=\"\">operators</span> ko handle kare"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution"
+	},
+	{
+		"component": "text",
+		"value": "Hum yahan pe ye keh rahe hai ki ye program <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">+, -, /, *</span> ke alawa kisi aur <span style=\"\">operator</span> ko nahi support karta hai"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def calc(a, b, operator):<br>    if operator == '+':<br>        return a + b<br>    elif operator == '*':<br>        return a * b<br>    elif operator == '/':<br>        return a / b<br>    elif operator == '-':<br>        return a - b<br>    else:<br>        print \"Unsupoorted operator\""
+	}
+]

@@ -1,0 +1,102 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The global <span style=\"\">Statement</span>"
+	},
+	{
+		"component": "text",
+		"value": "If you need to modify a global <span style=\"\">variable</span> from within a function, use the global <span style=\"\">statement</span>. If you have a line such as global eggs at the top of a function, it tells <span style=\"\">Python</span>, “In this function, eggs refers to the global <span style=\"\">variable</span>, so don’t create a local <span style=\"\">variable</span> with this name.” For example, type the following <span style=\"\">code</span> into the <span style=\"\">file</span> <span style=\"\">editor</span> and <span style=\"\">save</span> it as sameName2.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def spam():<br>❶    global eggs<br>❷    eggs = 'spam'<br><br>  eggs = 'global'<br>  spam()<br>  print(eggs)"
+	},
+	{
+		"component": "text",
+		"value": "When you run this program, the final print() call will <span style=\"\">output</span> this:"
+	},
+	{
+		"component": "text",
+		"value": "spam<br>Because eggs is declared global at the top of spam() ❶, when eggs is set to 'spam' ❷, this assignment is done to the globally scoped eggs. No local eggs <span style=\"\">variable</span> is created."
+	},
+	{
+		"component": "text",
+		"value": "There are four rules to tell whether a <span style=\"\">variable</span> is in a local scope or global scope:"
+	},
+	{
+		"component": "text",
+		"value": "If a <span style=\"\">variable</span> is being used in the global scope (that is, outside of all functions), then it is always a global <span style=\"\">variable</span>."
+	},
+	{
+		"component": "text",
+		"value": "If there is a global <span style=\"\">statement</span> for that <span style=\"\">variable</span> in a function, it is a global <span style=\"\">variable</span>."
+	},
+	{
+		"component": "text",
+		"value": "Otherwise, if the <span style=\"\">variable</span> is used in an assignment <span style=\"\">statement</span> in the function, it is a local <span style=\"\">variable</span>."
+	},
+	{
+		"component": "text",
+		"value": "But if the <span style=\"\">variable</span> is not used in an assignment <span style=\"\">statement</span>, it is a global <span style=\"\">variable</span>."
+	},
+	{
+		"component": "text",
+		"value": "To get a better feel for these rules, here’s an example program. Type the following <span style=\"\">code</span> into the <span style=\"\">file</span> <span style=\"\">editor</span> and <span style=\"\">save</span> it as sameName3.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def spam():<br>❶  global eggs<br>    eggs = 'spam' # this is the global<br><br>  def bacon():<br>❷  eggs = 'bacon' # this is a local<br>  def ham():<br>❸  print(eggs) # this is the global<br><br>  eggs = 42 # this is the global<br>  spam()<br>  print(eggs)"
+	},
+	{
+		"component": "text",
+		"value": "In the spam() function, eggs is the global eggs <span style=\"\">variable</span>, because there’s a global <span style=\"\">statement</span> for eggs at the beginning of the function ❶. In bacon(), eggs is a local <span style=\"\">variable</span>, because there’s an assignment <span style=\"\">statement</span> for it in that function ❷. In ham() ❸, eggs is the global <span style=\"\">variable</span>, because there is no assignment <span style=\"\">statement</span> or global <span style=\"\">statement</span> for it in that function. If you run sameName3.py, the <span style=\"\">output</span> will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "spam<br>In a function, a <span style=\"\">variable</span> will either always be global or always be local. There’s no way that the <span style=\"\">code</span> in a function can use a local <span style=\"\">variable</span> named eggs and then later in that same function use the global eggs <span style=\"\">variable</span>."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "If you ever want to modify the value stored in a global <span style=\"\">variable</span> from in a function, you must use a global <span style=\"\">statement</span> on that <span style=\"\">variable</span>."
+	},
+	{
+		"component": "text",
+		"value": "If you try to use a local <span style=\"\">variable</span> in a function before you assign a value to it, as in the following program, <span style=\"\">Python</span> will give you an <span style=\"\">error</span>. To see this, type the following into the <span style=\"\">file</span> <span style=\"\">editor</span> and <span style=\"\">save</span> it as sameName4.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def spam():<br>      print(eggs) # ERROR!<br>❶    eggs = 'spam local'<br><br>❷ eggs = 'global'<br>   spam()"
+	},
+	{
+		"component": "text",
+		"value": "If you run the previous program, it produces an <span style=\"\">error</span> message."
+	},
+	{
+		"component": "text",
+		"value": "Traceback (most recent call last):<br>  <span style=\"\">File</span> \"C:/test3784.py\", line 6, in <module><br>    spam()<br>  <span style=\"\">File</span> \"C:/test3784.py\", line 2, in spam<br>    print(eggs) # <span style=\"\">ERROR</span>!<br>UnboundLocal<span style=\"\">Error</span>: local <span style=\"\">variable</span> 'eggs' referenced before assignment<br>This <span style=\"\">error</span> happens because <span style=\"\">Python</span> sees that there is an assignment <span style=\"\">statement</span> for eggs in the spam() function ❶ and therefore considers eggs to be local. But because print(eggs) is <span style=\"\">execute</span>d before eggs is assigned anything, the local <span style=\"\">variable</span> eggs doesn’t exist. <span style=\"\">Python</span> will not fall back to using the global eggs <span style=\"\">variable</span> ❷."
+	},
+	{
+		"component": "text",
+		"value": "Functions as “Black Boxes”"
+	},
+	{
+		"component": "text",
+		"value": "Often, all you need to know about a function are its <span style=\"\">inputs</span> (the parameters) and <span style=\"\">output</span> value; you don’t always have to burden yourself with how the function’s <span style=\"\">code</span> actually works. When you think about functions in this high-level way, it’s common to say that you’re treating the function as a “black box.”"
+	},
+	{
+		"component": "text",
+		"value": "This idea is fundamental to modern programming. Later chapters in this book will show you several modules with functions that were written by other people. While you can take a peek at the source <span style=\"\">code</span> if you’re curious, you don’t need to know how these functions work in order to use them. And because writing functions without global <span style=\"\">variables</span> is encouraged, you usually don’t have to worry about the function’s <span style=\"\">code</span> interacting with the rest of your program."
+	}
+]

@@ -1,0 +1,123 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Task 4"
+	},
+	{
+		"component": "text",
+		"value": "Ab humne movies ki list se ek ache se structure mein unki details nikalne ka scraper toh likh liya hai <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_top_list()</span> waale function mein. Aap agar notice karoge toh har <b>Top Rated Indian Movies</b> waali list mein har movie ka ek alag link diya hua hai. Iss linked page pe uss movie ki saari details depth mein likhi hui hain. Iss task mein humne ek aur function likhna hai jo uss movie ke saari indivual details nikalega."
+	},
+	{
+		"component": "image",
+		"value": "images/anand_imdb.png",
+		"alt": "Anand IMDB"
+	},
+	{
+		"component": "text",
+		"value": "Iss function ka naam "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_details</span>"
+	},
+	{
+		"component": "text",
+		"value": "hoga. Yeh function ek parameter lega called "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">movie_url</span>"
+	},
+	{
+		"component": "text",
+		"value": "jismein uss movie ka URL hai jiski details nikalni hai. Iss function ko ek dictionary return karni hogi. Iss dictionary ka structure neeche diya hua hai. Agar aap yeh <span style=\"\">code</span> Anand movie ("
+	},
+	{
+		"component": "text",
+		"value": "https://www.imdb.com/title/tt0066763/"
+	},
+	{
+		"component": "text",
+		"value": ") ke liye chala rahe ho toh woh function neeche di hui dictionary return karega."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{<br>    \"name\": \"Anand\"<br>    \"director\": [\"Hrishikesh Mukherjee\"],<br>    \"country\": \"India\",<br>    \"language\": [\"Hindi\"],<br>    \"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>    \"bio\": \"The story of a terminally ill man who wishes to live life to the3 full before the inevitable occurs, as told by his best friend.\",<br>    \"runtime\": 183,<br>    \"genre\": [<br>        \"Drama\"<br>    ]<br>}"
+	},
+	{
+		"component": "text",
+		"value": "Kuch important cheezein aapko apne dimaag mein rakhni hai when writing the <span style=\"\">code</span> for this function."
+	},
+	{
+		"component": "text",
+		"value": "Upar waali dictionary mein har value ki data type ko gaur se dekho. Yahan dia hua data type aur aapki final dictionary ka output same hona chaiye.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Genre mein ek strings ki list hai. Kyunki Anand ki sirf ek hi Genre hai toh usme sirf ek string hai. Kuch movies ki multiple genre hoti hai aur woh comma se seperated diye hote hain. Toh uss case mein genre waali list mein alag alag strings hone chaiye. Aisi ek movie <b>Andhadhun</b> (https://www.imdb.com/title/tt8108198/) hai.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Anand ka toh ek hi director hai isliye uski <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"director\"</span> waali list mein sirf <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[\"Hrishikesh Mukherjee\"]</span> hai. Lekin kuch movies hoti hai jinme ek se zyada director hote hain. Unn movies mein saare directors ka naam comma seperated hona chaiye. <b>Taare Zameen Par</b> (https://www.imdb.com/title/tt0986264/) ek aisi movie hai jiske IMDB ke hisaab se 2 directors hain.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Directors aur Genre ki tarah ek movie mein multiple languages ka use bhi kia ho sakta hai. Isiliye <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">languages</span> waali dictionary key bhi list of strings ki honi chaiye. Nayakan ek aisi movie hai jismein multiple languages hain. (https://www.imdb.com/title/tt0093603/)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Notice karo <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"runtime\"</span> key mein bas ek integer hain. Waise runtime jo hai woh <b>2h 13m</b> jaise format mein dia hota hai. Aapko iss format ko sirf minutes mein convert karna hoga. Jaise <b>2h 13m</b> 133 minutes ban jayega kyunki <b>(2*60) + 13 = 133</b>. Isliye 133 minutes.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Submit karne se pehle apne <span style=\"\">code</span> ko at least 10 movies ke alag alag pages ke test karke dekho ki aapka <span style=\"\">code</span> sahi results return kar raha hai."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Solution"
+	},
+	{
+		"component": "youtube",
+		"value": "https://youtu.be/hpUASoRqA_Q"
+	},
+	{
+		"component": "text",
+		"value": "<b>Created by Vishal Gaddam</b>"
+	},
+	{
+		"component": "text",
+		"value": "("
+	},
+	{
+		"component": "text",
+		"value": "vishal18@navgurukul.org"
+	},
+	{
+		"component": "text",
+		"value": ")"
+	}
+]

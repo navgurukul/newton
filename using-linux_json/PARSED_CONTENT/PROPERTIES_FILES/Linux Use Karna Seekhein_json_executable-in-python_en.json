@@ -1,0 +1,10 @@
+{
+	"executable-in-python_key1": "Aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span> ka use kar kar bhi ek execu<span style=\"\">tab</span>le program bana sakte ho. Uske liye, aapko",
+	"executable-in-python_key2": "line ko apni <span style=\"\">file</span> mei sabse pehli line mei daalna hoga.",
+	"executable-in-python_key3": "Ek example ke through dekhte hai.",
+	"executable-in-python_key4": "Ab iss <span style=\"\">file</span> ko apni pasand ke <span style=\"\">editor</span> se khol kar, kuch content daalte hai",
+	"executable-in-python_key5": "Ab aap iss program ko <span style=\"\">execute</span> karne ki permissions de",
+	"executable-in-python_key6": "Ab iss program ko aap, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">/usr/bin</span> directory mei move kar de. Yaha move karne se, yeh program kahi se bhi aap <span style=\"\">execute</span> kar payenge.",
+	"executable-in-python_key7": "Ab aap apne program ko <span style=\"\">execute</span> kar sakte ho",
+	"executable-in-python_key8": "Aap apna program kahi se bhi <span style=\"\">execute</span> kar paoge."
+}

@@ -1,0 +1,46 @@
+[
+	{
+		"component": "text",
+		"value": "Iss program ko attempt karne ke liye pehle ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> naam ki <span style=\"\">file</span> mein neeche diye hue text ko <span style=\"\">save</span> karein."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{<br>    \"users\": [{<br>            \"firstName\": \"vidur\",<br>            \"lastName\": \"singla\",<br>            \"details\": {<br>                \"age\": 21,<br>                \"mobileNo\": 1234567890,<br>                \"City\": \"Delhi\"<br>            }<br>        },<br>        {<br>            \"firstName\": \"rishabh\",<br>            \"lastName\": \"verma\",<br>            \"details\": {<br>                \"age\": 22,<br>                \"mobileNo\": 12345678320,<br>                \"City\": \"Chandigarh\"<br>            }<br>        },<br>        {<br>            \"firstName\": \"abhishek\",<br>            \"lastName\": \"gupta\",<br>            \"details\": {<br>                \"age\": 25,<br>                \"mobileNo\": 12332567890,<br>                \"City\": \"Gurgaon\"<br>            }<br>        }<br>    ]<br>}"
+	},
+	{
+		"component": "text",
+		"value": "Uske baad aapne jiss directory mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> <span style=\"\">save</span> kiya hai, usse directory mein yeh <span style=\"\">python</span> ka <span style=\"\">code</span> <span style=\"\">save</span> kariye ek dusri <span style=\"\">file</span> mein."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "import json<br>with open('user.json') as data_file:    <br>    data = json.load(data_file)<br><br>users = data['users']<br><br>for user in data:<br>  counter = 0<br>  print (\"users full name is \" + user['firstName'] + ' ' + user['lastName'])<br>  while counter < len(user['details']):<br>    print (\"users mobile number is \" + user['details'][counter]['mobileNo'])<br>    print (\"users age  is \" + user['details'][counter]['age'])<br>    print (\"users city is \" + user['details'][counter]['city'])"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> <span style=\"\">file</span> mein users ka data padha hai. Yeh program <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> <span style=\"\">file</span> ko read kar kar usmein se users ka data print karega. Iss <span style=\"\">file</span> ko debug kar kar run karo."
+	},
+	{
+		"component": "text",
+		"value": "Topics covered:"
+	},
+	{
+		"component": "text",
+		"value": "Key error",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "loop iterates over the wrong list.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

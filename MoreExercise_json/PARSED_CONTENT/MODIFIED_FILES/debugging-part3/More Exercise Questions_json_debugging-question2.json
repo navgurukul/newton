@@ -1,0 +1,96 @@
+[
+  {
+    "component": "text",
+    "value": "debugging-question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key5"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key8"
+  },
+  {
+    "component": "youtube",
+    "value": "d1ZduiNyvcM"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key9"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key10"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key11",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key12",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question2_key13",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "from random import randint<br><br>def win():<br>    print ('You win!')<br><br>def lose():<br>    print ('You lose!')<br><br>while False:<br>    player_choice = input('What do you pick? (rock, paper, scissors)')<br>    player_choice.strip()<br>    random_move = randint(0, 2)<br>    moves = ['rock', 'paper', 'scissors']<br>    computer_choice = option[random_move]<br><br>    if player_choice = computer_choice:<br>        print ('Draw!')<br>    elif  == 'rock' and coMp == 'scissors':<br>        win()<br>    elif  == 'paper' and comp == 'scissors':<br>        lose()<br>    elif playe == 'scissors' and comp == 'paper':<br>        win()<br>    elif player == 'scissors' and Comp == 'rock':<br>        lose()<br>    elif payer == 'paper' and computer == 'rock':<br>        win()<br>    elif player ==  and comp == :<br>        lose()<br>    aGain = input('Do you want to play again? (y or n)').strip()<br>    if again == 'n':<br>        break"
+  }
+]

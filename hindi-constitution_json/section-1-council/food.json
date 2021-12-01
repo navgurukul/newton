@@ -1,0 +1,67 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Food and Kitchen Coordinator"
+	},
+	{
+		"component": "text",
+		"value": "Responsibilities:"
+	},
+	{
+		"component": "text",
+		"value": "Community ke members ke beech kitchen aur baaki kaamo ko equally aur impartially distribute karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Meals ke breaks ka time decide karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ye ensure karna ki break time me meals serve ho jaye",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Kitchen ki duty wale members ki help se khaane ka menu decide karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Grocery aur khaane ke liye baaki samaan khareedna aur khareedne ki responsibility ko distribute karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Community members ki khaane se related kisi bhi tareeke ki complaint ko address karna aur unhe resolve karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Kisi bhi aur kitchen aur food related issue ka solution",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Appropriate channels par aise sabhi decisions ko post karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

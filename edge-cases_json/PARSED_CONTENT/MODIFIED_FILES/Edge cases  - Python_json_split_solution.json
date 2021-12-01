@@ -1,0 +1,22 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "split_solution_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "split_solution_key2"
+  },
+  {
+    "component": "text",
+    "value": "split_solution_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def split(s, delim):<br>    a = []<br>    i = 0<br>    temp_s = ''<br>    while(i<len(s)):<br>        if s[i] != delim:<br>            temp_s += s[i]<br>        else:<br>            a.append(temp_s)<br>            temp_s = ''<br>        i += 1<br>    a.append(temp_s)<br>    return a"
+  }
+]

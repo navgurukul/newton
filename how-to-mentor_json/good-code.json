@@ -1,0 +1,79 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Good <span style=\"\">Code</span> / Good <span style=\"\">Code</span>r"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Follow Consistent <span style=\"\">Variable</span> Naming Rules"
+	},
+	{
+		"component": "text",
+		"value": "snake_case:We used this case on giving the variable name  writing the code.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "camelCaseOn writing the code on we define function than we use this case.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "CAPSCASETo define the name of the constants",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "for Booleans\nNames like"
+	},
+	{
+		"component": "text",
+		"value": "isValid",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "ifworking ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Code</span> runs in one or two times"
+	},
+	{
+		"component": "text",
+		"value": "Agar aapko <span style=\"\">code</span> chalane mei bahut saari attempts karni pad rahi hai, iska matlab aap <span style=\"\">code</span> ke saath struggle kar rahe hai."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Well Documented"
+	},
+	{
+		"component": "text",
+		"value": "Apne <span style=\"\">code</span> ko acche se document karna bahut jaroori hai. Agar aapka <span style=\"\">code</span> properly documented nahi hai toh, isse aapko kaafi problems aayengi. Interviews ke time par bhi yeh ek bahut important habit hai. Mentors should reject <span style=\"\">code</span> which isn't properly documented."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "DRY - Don't Repeat Yourself"
+	},
+	{
+		"component": "text",
+		"value": "Jo bhi aap <span style=\"\">code</span> likh rahe hai, woh repeat nahi karna chahiye."
+	}
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "need-to-serve_key1"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key2"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key3"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key4"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key5"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key8"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key9"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key10"
+  },
+  {
+    "component": "text",
+    "value": "need-to-serve_key11"
+  }
+]

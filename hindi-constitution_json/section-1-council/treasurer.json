@@ -1,0 +1,32 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Treasurer"
+	},
+	{
+		"component": "text",
+		"value": "Responsibilities:"
+	},
+	{
+		"component": "text",
+		"value": "Monthly basis par budget create karna ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sabhi kharchon ko monitor karna aur ensure karna ki kharche budget ke andar hi ho",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ensure karna ki sabhi kharchon ke liye ek record maintain kiya jaye aur use Board of Governenrs ko report kiya jaaye",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

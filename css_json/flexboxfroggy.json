@@ -1,0 +1,44 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "CSS3 Flexbox - Let's play a game"
+	},
+	{
+		"component": "text",
+		"value": "Game khelo aur 15 level tak iss ko finish karo <a href=\"http://flexboxfroggy.com\">http://flexboxfroggy.com.</a> Iss game ko khel kar aap seekh sakte hai ki flex kaise use karte hai.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Game ko game ki tarah nahi khelna hai, seekhne ke liye khelna hai. Yeh game se aap ne jin properties ke baarein mei abhi padha hai, unhe sahi se use karna seekh sakte hai. ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Isliye dhyaan rakhe, ki stage clear karne se jyada stage ko samajhna jyada important hai.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "BONUS Exercise"
+	},
+	{
+		"component": "text",
+		"value": "Jo aap Game khel rahe hai, aise hi HTML mei boxes banakar flex se move karne ki koshish karo.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

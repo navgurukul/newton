@@ -1,0 +1,46 @@
+[
+  {
+    "component": "text",
+    "value": "debugging-question3_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "{<br>    \"users\": [{<br>            \"firstName\": \"vidur\",<br>            \"lastName\": \"singla\",<br>            \"details\": {<br>                \"age\": 21,<br>                \"mobileNo\": 1234567890,<br>                \"City\": \"Delhi\"<br>            }<br>        },<br>        {<br>            \"firstName\": \"rishabh\",<br>            \"lastName\": \"verma\",<br>            \"details\": {<br>                \"age\": 22,<br>                \"mobileNo\": 12345678320,<br>                \"City\": \"Chandigarh\"<br>            }<br>        },<br>        {<br>            \"firstName\": \"abhishek\",<br>            \"lastName\": \"gupta\",<br>            \"details\": {<br>                \"age\": 25,<br>                \"mobileNo\": 12332567890,<br>                \"City\": \"Gurgaon\"<br>            }<br>        }<br>    ]<br>}"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import json<br>with open('user.json') as data_file:    <br>    data = json.load(data_file)<br><br>users = data['users']<br><br>for user in data:<br>  counter = 0<br>  print (\"users full name is \" + user['firstName'] + ' ' + user['lastName'])<br>  while counter < len(user['details']):<br>    print (\"users mobile number is \" + user['details'][counter]['mobileNo'])<br>    print (\"users age  is \" + user['details'][counter]['age'])<br>    print (\"users city is \" + user['details'][counter]['city'])"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key3"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key4"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

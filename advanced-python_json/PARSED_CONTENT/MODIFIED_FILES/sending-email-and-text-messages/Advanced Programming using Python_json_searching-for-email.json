@@ -1,0 +1,364 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "searching-for-email_key1"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "searching-for-email_key3"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import pprint<br>>>> pprint.pprint(imapObj.list_folders())"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key5"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key6"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key7"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key8"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> imapObj.select_folder('INBOX', readonly=True)"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key10"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key11"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "searching-for-email_key12"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key13"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key14"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key15"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key16"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key17"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key18"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key19"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key20"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key21"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key22"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key23"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key24"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key25"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key26"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key27"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key28"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key29"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key30"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key31"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key32"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key33"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key34"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key35"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key36"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key37"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key38"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key39"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key40"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key41"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key42"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key43"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key44"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key45"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key46"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key47"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key48"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key49"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key50"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key51"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key52"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key53"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key54"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key55"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key56"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key57"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key58"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key59"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key60"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key61"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key62"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key63"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key64"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key65"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key66"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key67"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key68"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key69"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key70"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key71"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key72"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> UIDs = imapObj.search(['SINCE 05-Jul-2015'])<br>>>> UIDs"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key73"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "searching-for-email_key74"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key75"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key76"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import imaplib<br>>>> imaplib._MAXLINE = 10000000"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key77"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key78"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key79"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key80"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key81"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> UIDs = imapObj.gmail_search('meaning of life')<br>>>> UIDs"
+  },
+  {
+    "component": "text",
+    "value": "searching-for-email_key82"
+  }
+]

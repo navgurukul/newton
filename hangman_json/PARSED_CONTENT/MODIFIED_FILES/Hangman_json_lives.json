@@ -1,0 +1,79 @@
+[
+  {
+    "component": "text",
+    "value": "lives_key1"
+  },
+  {
+    "component": "text",
+    "value": "lives_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lives_key3"
+  },
+  {
+    "component": "text",
+    "value": "lives_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lives_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lives_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lives_key7"
+  },
+  {
+    "component": "text",
+    "value": "lives_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lives_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lives_key10"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=FPXBIGZGjoQ"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lives_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def hangman(secret_word):<br>    '''<br>    secret_word: string, the secret word to guess.<br><br>    Hangman game yeh start karta hai:<br><br>    * Game ki shuruaat mei hi, user ko bata dete hai ki<br>      secret_word mei kitne letters hai<br><br>    * Har round mei user se ek letter guess karne ko bolte hai<br><br>    * Har guess ke baad user ko feedback do ki woh guess uss<br>      word mei hai ya nahi<br><br>    * Har round ke baar, user ko uska guess kiya hua partial word<br>      display karo, aur underscore use kar kar woh letters bhi dikhao<br>      jo user ne abhi tak guess nahi kiye hai<br><br>    '''<br>    print \"Welcome to the game, Hangman!\"<br>    print \"I am thinking of a word that is \" + str(len(secret_word)) + \" letters long.\"<br>    print \"\"<br><br>    letters_guessed = []<br>    remaining_lives = 8<br>    <br>    while (remaining_lives > 0):<br>        available_letters = get_available_letters(letters_guessed)<br>        print \"Available letters: \" + available_letters<br><br>        guess = raw_input(\"Please guess a letter: \")<br>        letter = guess.lower()<br><br>        if letter in secret_word:<br>            letters_guessed.append(letter)<br>            print \"Good guess: \" + get_guessed_word(secret_word, letters_guessed)<br>            print \"\"<br><br>            if is_word_guessed(secret_word, letters_guessed) == True:<br>                print \" * * Congratulations, you won! * * \"<br>                print \"\"<br>                break<br><br>        else:<br>            print \"Oops! That letter is not in my word: \" + get_guessed_word(secret_word, letters_guessed)<br>            print \"Remaining Lives : \", remaining_lives<br>            print \"\"<br>            letters_guessed.append(letter)<br>            remaining_lives -= 1<br>            <br>    else:<br>        print \"Sorry, you ran out of guesses. The word was \" + str(secret_word) + \".\"<br>"
+  },
+  {
+    "component": "text",
+    "value": "lives_key12"
+  }
+]

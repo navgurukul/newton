@@ -1,0 +1,136 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Introduction"
+	},
+	{
+		"component": "text",
+		"value": "How can we scrape in <span style=\"\">Python</span>?"
+	},
+	{
+		"component": "text",
+		"value": "HTML is rendered by browsers. But we can get the same HTML in Python using requests. Show how to install requests.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Print the same HTML in the Terminal which you got.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Install BeautifulSoup and show how we can get the title and a few other tags to give a basic glimpse into BeautifulSoup of a page using Beautiful Soup?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Packages need to Scrape Data and why we use them"
+	},
+	{
+		"component": "text",
+		"value": "What is pip?"
+	},
+	{
+		"component": "text",
+		"value": "Hum pip ko install iss liye krte hai because it is a package management system jisse ki help karta hai python ke Module ko - install karne main.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "pip is a package management system used to install and manage software packages written in Python.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why we use module requests?"
+	},
+	{
+		"component": "text",
+		"value": "Hum yha moduale requesta ka use is liye krte hai ki hum jis web page ko scrape kr rhe hai to requests humko ek sample data collect kr dega.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "we use import the Requests module so that we can collect a sample web page:",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why we use pip install beautifulsoup4?"
+	},
+	{
+		"component": "text",
+		"value": "Beautifulsoup4 yeh ek python package hai jo ki HTML and xml Document ko parse prta hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Beautiful Soup is a Python package for parsing HTML and XML documents.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "how to install these packages<br>Use only <span style=\"\">python3</span>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "$ sudo apt-get install python3-pip<br>   $ pip3 install requests Or pip3 --user requests<br>   $ pip3 install beautifulsoup4<br>"
+	},
+	{
+		"component": "youtube",
+		"value": "https://youtu.be/9sG87-w7wVQ"
+	},
+	{
+		"component": "text",
+		"value": "<b>Created by Naresh Kumar Gautam (naresh18@navgurukul.org)</b>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Let's start"
+	},
+	{
+		"component": "text",
+		"value": "Sabse phle humko <a href=\"https://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python\">some important things</a> ke bare main pata hona chahiye."
+	},
+	{
+		"component": "youtube",
+		"value": "https://youtu.be/3lPijXMLF6U"
+	},
+	{
+		"component": "text",
+		"value": "<b>Created by Naresh Kumar Gautam (naresh18@navgurukul.org)</b>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Step 1. import requests<br>Step 2. URL = \"Yha per apka url hoga jis bhi web page ko aap scrape karna chahte ho\"<br>Step 3. sample = requests.get(URL)<br>Step 4. from bs4 import BeautifulSoup<br>Step 5. soup = BeautifulSoup(sample.text,\"html.parser\") # iss object ke throw hum kahi bhi khel sakte hai<br>Step 6. Title = soup.title<br><br>print(Title)#ye apke web page ka title print karega"
+	},
+	{
+		"component": "text",
+		"value": "Ab aap yha se scraping start karenge ………….."
+	}
+]

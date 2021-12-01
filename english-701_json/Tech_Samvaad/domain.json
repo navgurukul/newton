@@ -39,7 +39,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar aap apni website banaoge toh uska domain name kya rakhoge?<br><br>",
+		"value": "Agar aap apni website banaoge toh uska domain name kya rakhoge?",
 		"decoration": {
 			"type": "number",
 			"value": 2

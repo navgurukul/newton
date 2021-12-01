@@ -1,0 +1,12 @@
+{
+	"chapter-15_key1": "Chapter 15",
+	"chapter-15_key2": "A reference moment that many date and time programs use. The moment is January 1st, 1970, UTC.",
+	"chapter-15_key3": "time.time()",
+	"chapter-15_key4": "time.sleep(5)",
+	"chapter-15_key5": "It returns the closest <span style=\"\">integer</span> to the argument passed. For example, round(2.4) returns 2.",
+	"chapter-15_key6": "A datetime object represents a specific moment in time. A timedelta object represents a duration of time.",
+	"chapter-15_key7": "threadObj = threading.Thread(target=spam)",
+	"chapter-15_key8": "threadObj.start()",
+	"chapter-15_key9": "Make sure that <span style=\"\">code</span> running in one thread does not read or write the same <span style=\"\">variables</span> as <span style=\"\">code</span> running in another thread.",
+	"chapter-15_key10": "subprocess.Popen('c:\\Windows\\System32\\calc.exe')"
+}

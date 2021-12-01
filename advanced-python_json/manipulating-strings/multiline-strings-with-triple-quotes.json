@@ -1,0 +1,68 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Multiline <span style=\"\">Strings</span> with Triple Quotes"
+	},
+	{
+		"component": "text",
+		"value": "While you can use the \\n escape character to put a newline into a <span style=\"\">string</span>, it is often easier to use multiline <span style=\"\">strings</span>. A multiline <span style=\"\">string</span> in <span style=\"\">Python</span> begins and ends with either three single quotes or three double quotes. Any quotes, <span style=\"\">tabs</span>, or newlines in between the “triple quotes” are considered part of the <span style=\"\">string</span>. <span style=\"\">Python</span>’s <span style=\"\">indentation</span> rules for blocks do not apply to lines inside a multiline <span style=\"\">string</span>."
+	},
+	{
+		"component": "text",
+		"value": "Open the <span style=\"\">file</span> <span style=\"\">editor</span> and write the following:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print('''Dear Alice,<br><br>Eve's cat has been arrested for catnapping, cat burglary, and extortion.<br><br>Sincerely,<br>Bob''')"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> this program as catnapping.py and run it. The <span style=\"\">output</span> will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "Dear Alice,"
+	},
+	{
+		"component": "text",
+		"value": "Eve's cat has been arrested for catnapping, cat burglary, and extortion."
+	},
+	{
+		"component": "text",
+		"value": "Sincerely,<br>Bob<br>Notice that the single quote character in Eve's does not need to be escaped. Escaping single and double quotes is optional in raw <span style=\"\">strings</span>. The following print() call would print identical text but doesn’t use a multiline <span style=\"\">string</span>:"
+	},
+	{
+		"component": "text",
+		"value": "print('Dear Alice,\\n\\nEve\\'s cat has been arrested for catnapping, cat<br>burglary, and extortion.\\n\\nSincerely,\\nBob')"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Multiline Comments"
+	},
+	{
+		"component": "text",
+		"value": "While the hash character (#) marks the beginning of a comment for the rest of the line, a multiline <span style=\"\">string</span> is often used for comments that span multiple lines. The following is perfectly valid <span style=\"\">Python</span> <span style=\"\">code</span>:"
+	},
+	{
+		"component": "text",
+		"value": "\"\"\"This is a test <span style=\"\">Python</span> program.<br>Written by Al Sweigart "
+	},
+	{
+		"component": "text",
+		"value": "al@inventwithpython.com"
+	},
+	{
+		"component": "text",
+		"value": "This program was designed for <span style=\"\">Python</span> 3, not <span style=\"\">Python</span> 2.<br>\"\"\""
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def spam():<br>    \"\"\"This is a multiline comment to help<br>    explain what the spam() function does.\"\"\"<br>    print('Hello!')"
+	}
+]

@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Lists"
+	},
+	{
+		"component": "text",
+		"value": "One more topic you’ll need to understand before you can begin writing programs in earnest is the list data type and its cousin, the tuple. Lists and tuples can contain multiple values, which makes it easier to write programs that handle large amounts of data. And since lists themselves can contain other lists, you can use them to arrange data into hierarchical structures."
+	},
+	{
+		"component": "text",
+		"value": "In this chapter, I’ll discuss the basics of lists. I’ll also teach you about methods, which are functions that are tied to values of a certain data type. Then I’ll briefly cover the list-like tuple and <span style=\"\">string</span> data types and how they compare to list values. In the next chapter, I’ll introduce you to the dictionary data type."
+	},
+	{
+		"component": "text",
+		"value": "The List Data Type<br>A list is a value that contains multiple values in an ordered sequence. The term list value refers to the list itself (which is a value that can be stored in a <span style=\"\">variable</span> or passed to a function like any other value), not the values inside the list value. A list value looks like this: ['cat', 'bat', 'rat', 'elephant']. Just as <span style=\"\">string</span> values are typed with quote characters to mark where the <span style=\"\">string</span> begins and ends, a list begins with an opening square bracket and ends with a closing square bracket, []. Values inside the list are also called items. Items are separated with commas (that is, they are comma-delimited). For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> [1, 2, 3]<br>   [1, 2, 3]<br>   >>> ['cat', 'bat', 'rat', 'elephant']<br>   ['cat', 'bat', 'rat', 'elephant']<br>   >>> ['hello', 3.1415, True, None, 42]<br>   ['hello', 3.1415, True, None, 42]<br>❶ >>> spam = ['cat', 'bat', 'rat', 'elephant']<br>   >>> spam<br>   ['cat', 'bat', 'rat', 'elephant']"
+	},
+	{
+		"component": "text",
+		"value": "The spam <span style=\"\">variable</span> ❶ is still assigned only one value: the list value. But the list value itself contains other values. The value [] is an empty list that contains no values, similar to '', the empty <span style=\"\">string</span>."
+	}
+]

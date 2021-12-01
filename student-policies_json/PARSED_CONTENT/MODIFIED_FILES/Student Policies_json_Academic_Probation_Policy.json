@@ -1,0 +1,323 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Academic_Probation_Policy_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key2"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key3"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key5"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key7"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key11"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key17",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key19",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key20"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key21"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key22",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key23",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key24",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key25"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key26",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key27",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key28",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key29",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key30",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key31"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key32"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key33"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key34"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key35"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key36",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key37",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key38",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key39",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key40",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key41",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key42",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key43"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key44"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key45",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key46",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key47"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key48"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Academic_Probation_Policy_key49"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key50",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key51",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Academic_Probation_Policy_key52"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key53"
+  },
+  {
+    "component": "text",
+    "value": "Academic_Probation_Policy_key54"
+  }
+]

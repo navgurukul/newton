@@ -1,0 +1,63 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chapter 13"
+	},
+	{
+		"component": "text",
+		"value": "A <span style=\"\">File</span> object returned from open()"
+	},
+	{
+		"component": "text",
+		"value": "Read-binary ('rb') for Pdf<span style=\"\">File</span>Reader() and write-binary ('wb') for Pdf<span style=\"\">File</span>Writer()"
+	},
+	{
+		"component": "text",
+		"value": "Calling getPage(4) will return a Page object for About This Book, since page 0 is the first page."
+	},
+	{
+		"component": "text",
+		"value": "The numPages <span style=\"\">variable</span> stores an <span style=\"\">integer</span> of the number of pages in the Pdf<span style=\"\">File</span>Reader object."
+	},
+	{
+		"component": "text",
+		"value": "Call decrypt('swordfish')."
+	},
+	{
+		"component": "text",
+		"value": "The rotateClockwise() and rotateCounterClockwise() methods. The degrees to rotate is passed as an <span style=\"\">integer</span> argument."
+	},
+	{
+		"component": "text",
+		"value": "docx.Document('demo.docx')"
+	},
+	{
+		"component": "text",
+		"value": "A document contains multiple paragraphs. A paragraph begins on a new line and contains multiple runs. Runs are contiguous groups of characters within a paragraph."
+	},
+	{
+		"component": "text",
+		"value": "Use doc.paragraphs."
+	},
+	{
+		"component": "text",
+		"value": "A Run object has these <span style=\"\">variables</span> (not a Paragraph)."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">True</span> always makes the Run object bolded and <span style=\"\">False</span> makes it always not bolded, no matter what the style’s bold setting is. None will make the Run object just use the style’s bold setting."
+	},
+	{
+		"component": "text",
+		"value": "Call the docx.Document() function."
+	},
+	{
+		"component": "text",
+		"value": "doc.add_paragraph('Hello there!')"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">integers</span> 0, 1, 2, 3, and 4"
+	}
+]

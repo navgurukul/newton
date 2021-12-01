@@ -80,7 +80,7 @@
 	},
 	{
 		"component": "text",
-		"value": "xml mein XSLT ko specification kiya gaya hai.jo kisee bhee xml document mein ek style ko laagoo karane ke lie upayog kiya ja sakata hai. haalaanki json mein kuchh nahin hai.<br><br>",
+		"value": "xml mein XSLT ko specification kiya gaya hai.jo kisee bhee xml document mein ek style ko laagoo karane ke lie upayog kiya ja sakata hai. haalaanki json mein kuchh nahin hai.",
 		"decoration": {
 			"type": "number",
 			"value": 4

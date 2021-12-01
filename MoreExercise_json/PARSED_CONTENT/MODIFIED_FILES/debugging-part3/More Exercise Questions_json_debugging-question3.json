@@ -1,0 +1,78 @@
+[
+  {
+    "component": "text",
+    "value": "debugging-question3_key1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key2"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "plain_message = \"navgurukul\"<br>iska encrypted text aisa hoga => pcxiwtwmwn"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "chars =         ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']<br>shifted_chars = ['c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','a','b']"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "chars[13] = 'n'<br>shifted_chars[13] = 'p'<br>isliye navgurukul ka n ==> p mein change ho gaya.<br>chars[0] = 'a'<br>shifted_chars[0] = 'c'<br>isliye navgurukul ka a ==> c mein change ho gaya.    <br>decryption theek iska ulta hota hai."
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key4"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question3_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Cipher wheel with a function for finding an element in a list<br><br># find_in_list function defined here but not called<br>def find_in_list(query, mainlist):<br># this function is used to find the position of the \"query\" in the \"mainlist\". If \"query\" is in the list then it returns its position, otherwise it returns None<br>    mainlist_len = len(query)<br>    range_for_loop = range(mainlist_len)<br>    index = None<br>    for i in range_for_loop:<br>        element = mainlist[i]<br>        if element = query:<br>            index = i<br>    return i<br># this should return the position of the \"query\" in the \"mainlist\"<br><br><br>chars =         ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']<br>shifted_chars = ['c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','a','b']<br><br># encrypt_message function defined here but not called<br>def encrypt_message(plain_msg):<br># this fucnction takes \"plain_msg\" as an argument and print/return the encrypted message. The \"plain_msg\" is tranfered into \"encrypted_msg\" using \"shifted_chars\" list. Example, if plain_msg = \"ng\" then n => p, g => i  and hence encrypted_msg = \"pi\"<br>    encrypted_msg = \"\"<br>    for character in encrypted_msg:<br>      # for character in msg<br>        if character in chars:<br>            char_index = find_in_list(character, chars)<br>            new_char = shifted_chars[char_index]<br>            encrypted_msg = encrypted_msg + new_char<br>        else:<br>            encrypted_msg = encrypted_msg + character<br><br># decrypt_message function defined here but not called<br>def decrypt_message(encrypted_msg):<br># this fucnction takes \"encrypted_msg\" as an argument and print/return the encrypted message. The \"encrypted_msg\" is tranfered into \"decrypted_msg\" using \"shifted_chars\" list. Example, if encrypted_msg = \"pi\" then p => n, i => g  and hence decrypted_msg = \"ng\"<br>    decrypted_msg = \"\"<br>    for character in decrypted_msg:<br>        if character in shifted_chars<br>            char_index = find_in_list(character, shifted_chars)<br>            new_char = chars[char_index]<br>            decrypted_msg = decrypted_msg + new_char<br>        else:<br>            decrypted_msg = decrypted_msg + character<br><br><br># methods should return or print the new messages.<br>############################################### Code starts from here ##################################################<br>flag = True<br>while flag == True<br>choice = input(\"What do you want to do? 1. Encrypt a message 2. Decrypt a message  Enter e or d respectively!\")<br>if choice = 'e':<br>    plain_message = input(\"Enter message to encrypt??\")<br>    encrypt_message(plain_message)<br>else choice = 'd':<br>    encrypted_msg = input(\"Enter message to decrypt?\")<br>    decrypt_message(encrypted_msg)<br>else<br>    play_again = input(\"Do you want to try agian or Do you want to exit? (Y/N)\")<br>    if play_again == 'Y'<br>        continue<br>    elif play_again == 'N':<br>        break"
+  }
+]

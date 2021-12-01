@@ -1,0 +1,184 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Writing Excel Documents"
+	},
+	{
+		"component": "text",
+		"value": "OpenPyXL also provides ways of writing data, meaning that your programs can create and edit spreadsheet <span style=\"\">files</span>. With <span style=\"\">Python</span>, it’s simple to create spreadsheets with thousands of rows of data."
+	},
+	{
+		"component": "text",
+		"value": "Creating and Saving Excel Documents<br>Call the openpyxl.Workbook() function to create a new, blank Workbook object. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import openpyxl<br>>>> wb = openpyxl.Workbook()<br>>>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['Sheet']"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> sheet = wb.active<br>>>> sheet.title"
+	},
+	{
+		"component": "text",
+		"value": "'Sheet'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> sheet.title = 'Spam Bacon Eggs Sheet'<br>>>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['Spam Bacon Eggs Sheet']<br>The workbook will start off with a single sheet named Sheet. You can change the name of the sheet by storing a new <span style=\"\">string</span> in its title attribute."
+	},
+	{
+		"component": "text",
+		"value": "Any time you modify the Workbook object or its sheets and cells, the spreadsheet <span style=\"\">file</span> will not be <span style=\"\">save</span>d until you call the <span style=\"\">save</span>() workbook method. Enter the following into the interactive <span style=\"\">shell</span> (with example.xlsx in the current working directory):"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> sheet = wb.active<br>>>> sheet.title = 'Spam Spam Spam'<br>>>> wb.save('example_copy.xlsx')"
+	},
+	{
+		"component": "text",
+		"value": "Here, we change the name of our sheet. To <span style=\"\">save</span> our changes, we pass a <span style=\"\">file</span>name as a <span style=\"\">string</span> to the <span style=\"\">save</span>() method. Passing a different <span style=\"\">file</span>name than the original, such as 'example_copy.xlsx', <span style=\"\">saves</span> the changes to a copy of the spreadsheet."
+	},
+	{
+		"component": "text",
+		"value": "Whenever you edit a spreadsheet you’ve loaded from a <span style=\"\">file</span>, you should always <span style=\"\">save</span> the new, edited spreadsheet to a different <span style=\"\">file</span>name than the original. That way, you’ll still have the original spreadsheet <span style=\"\">file</span> to work with in case a bug in your <span style=\"\">code</span> caused the new, <span style=\"\">save</span>d <span style=\"\">file</span> to have incorrect or corrupt data."
+	},
+	{
+		"component": "text",
+		"value": "Creating and Removing Sheets<br>Sheets can be added to and removed from a workbook with the create<i>sheet() and remove</i>sheet() methods. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import openpyxl<br>>>> wb = openpyxl.Workbook()<br>>>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['Sheet']"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.create_sheet()"
+	},
+	{
+		"component": "text",
+		"value": "<Worksheet \"Sheet1\">"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['Sheet', 'Sheet1']"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.create_sheet(index=0, title='First Sheet')"
+	},
+	{
+		"component": "text",
+		"value": "<Worksheet \"First Sheet\">"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['First Sheet', 'Sheet', 'Sheet1']"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.create_sheet(index=2, title='Middle Sheet')"
+	},
+	{
+		"component": "text",
+		"value": "<Worksheet \"Middle Sheet\">"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['First Sheet', 'Sheet', 'Middle Sheet', 'Sheet1']<br>The create_sheet() method returns a new Worksheet object named SheetX, which by default is set to be the last sheet in the workbook. Optionally, the index and name of the new sheet can be specified with the index and title <span style=\"\">key</span>word arguments."
+	},
+	{
+		"component": "text",
+		"value": "Continue the previous example by entering the following:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['First Sheet', 'Sheet', 'Middle Sheet', 'Sheet1']"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> wb.remove_sheet(wb.get_sheet_by_name('Middle Sheet'))<br>>>> wb.remove_sheet(wb.get_sheet_by_name('Sheet1'))<br>>>> wb.get_sheet_names()"
+	},
+	{
+		"component": "text",
+		"value": "['First Sheet', 'Sheet']<br>The remove<i>sheet() method takes a Worksheet object, not a <span style=\"\">string</span> of the sheet name, as its argument. If you know only the name of a sheet you want to remove, call get</i>sheet<i>by</i>name() and pass its return value into remove_sheet()."
+	},
+	{
+		"component": "text",
+		"value": "Remember to call the <span style=\"\">save</span>() method to <span style=\"\">save</span> the changes after adding sheets to or removing sheets from the workbook."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Writing Values to Cells"
+	},
+	{
+		"component": "text",
+		"value": "Writing values to cells is much like writing values to <span style=\"\">keys</span> in a dictionary. Enter this into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import openpyxl<br>>>> wb = openpyxl.Workbook()<br>>>> sheet = wb.get_sheet_by_name('Sheet')<br>>>> sheet['A1'] = 'Hello world!'<br>>>> sheet['A1'].value"
+	},
+	{
+		"component": "text",
+		"value": "'Hello world!'<br>If you have the cell’s coordinate as a <span style=\"\">string</span>, you can use it just like a dictionary <span style=\"\">key</span> on the Worksheet object to specify which cell to write to."
+	}
+]

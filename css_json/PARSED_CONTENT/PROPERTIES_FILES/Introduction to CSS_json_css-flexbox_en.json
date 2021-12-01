@@ -1,0 +1,15 @@
+{
+	"css-flexbox_key1": "CSS3 Flexbox",
+	"css-flexbox_key2": "CSS3 ke bare mei padho aur samjho ki CSS, CSS3 se kaise different hain. Yeh difference apne facilitator ko slack par batao. Isse padhne ke baad, apko CSS Classes ke bare mein padna hai.  Aap iske baare mein <a href=\"http://www.w3schools.com/cssref/sel_class.asp\">iss link</a> se padhe. Ab fir se aapko padhne ke baad jo samajh aaya usse slack par apne facilitator ko bhejo.",
+	"css-flexbox_key3": "Finally, Flexbox ke bare mei <a href=\"https://css-tricks.com/snippets/css/a-guide-to-flexbox/\">iss</a> link se padho. Saare examples ko groups mei kar kar, acche se samjho aur uske baad dekho ki Flexbox kam kaise karta hain.",
+	"css-flexbox_key4": "Ab <a href=\"https://abhishekgupta92.github.io/equality6\">iss assignment</a> ko flex ka use kar kar karo. Yeh flex se karne ke liye yeh dekho ki iss page mei teen main flex container ki jaroorat padegi:",
+	"css-flexbox_key5": "Header mei jo links hai",
+	"css-flexbox_key6": "Main content",
+	"css-flexbox_key7": "Ismei do flex items hai jo columns ki tarah dikh rahe hai",
+	"css-flexbox_key8": "Footer mei jo links hai",
+	"css-flexbox_key9": "Ek ek karke teeno hisso ko flex se banane ki koshish karo, aur baaki cheezein bina flex ke bhi ho jayengi.",
+	"css-flexbox_key10": "<i>Assignment karne se pehle, yeh concepts padho aur samjho:</i>",
+	"css-flexbox_key11": "Classes",
+	"css-flexbox_key12": "Flexbox",
+	"css-flexbox_key13": "Justify Content (space-between, center)"
+}

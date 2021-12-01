@@ -101,7 +101,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is encoding and decoding in java?<br><br><br><br>",
+		"value": "What is encoding and decoding in java?",
 		"decoration": {
 			"type": "number",
 			"value": 5

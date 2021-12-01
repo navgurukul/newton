@@ -1,0 +1,14 @@
+[
+	{
+		"component": "text",
+		"value": "Following are the baseline assessments:"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.oxfordonlineenglish.com/english-level-test/vocabulary\">Oxford - Vocab Level Test</a>"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.englishclub.com/reading/test.htm\">Reading Level Test</a>"
+	}
+]

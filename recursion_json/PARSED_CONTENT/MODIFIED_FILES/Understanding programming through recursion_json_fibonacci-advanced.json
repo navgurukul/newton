@@ -1,0 +1,61 @@
+[
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key1"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key2"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def fib(number):<br>    if number == 1:<br>        return 0<br>    elif number == 2:<br>        return 1<br>    else:<br>        return fib(number-1) + fib(number-2)<br><br>def getFibList(number):<br>    fib_list = []<br>    key = 1<br>    while (key < number + 1):<br>        fib_list.append(fib(key))<br>        key += 1<br>    return fib_list<br><br>print(getFibList(10))"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key4"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "fibonacci-advanced_key5"
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "fibonacci-advanced_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "fibonacci-advanced_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def getFibList(number):<br>    if number == 1:<br>        return [1]<br><br>    elif number == 2:<br>        return [1, 1]<br><br>    else:<br>        get_previous_fib_list = getFibList(number-1)<br>        new_last_element = get_previous_fib_list[-1] + get_previous_fib_list[-2]<br><br>        # jab hum list mei kuch append karte hai toh, woh list update ho jaati hai<br>        get_previous_fib_list.append(new_last_element)<br><br>        # get_previous_fib_list ab update ho gayi hai, par kyuki ab yeh current list hai, previous nahi\\<br>        # toh confusion avoid karne ke liye hum ek nayi variable mei yeh list daal kar return karenge<br>        # jisse code padhne wala confuse na ho<br><br>        current_fib_list = get_previous_fib_list<br><br>        return current_fib_list"
+  }
+]

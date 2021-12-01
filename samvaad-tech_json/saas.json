@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "SAAS application ke example google apps, office36 etc.<br><br>",
+		"value": "SAAS application ke example google apps, office36 etc.",
 		"decoration": {
 			"type": "number",
 			"value": 5

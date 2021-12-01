@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Computer Networking kya hain ?<br>",
+		"value": "Computer Networking kya hain ?",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Computer networking kaise kaam karti hain ?<br>",
+		"value": "Computer networking kaise kaam karti hain ?",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Type of networking ?<br>",
+		"value": "Type of networking ?",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -51,7 +51,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Navgurukul. ke ander networking ke kuch examples sochiye?<br><br>",
+		"value": "Navgurukul. ke ander networking ke kuch examples sochiye?",
 		"decoration": {
 			"type": "number",
 			"value": 4

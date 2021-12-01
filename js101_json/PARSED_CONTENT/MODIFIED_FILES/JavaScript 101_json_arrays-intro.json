@@ -1,0 +1,35 @@
+[
+  {
+    "component": "text",
+    "value": "arrays-intro_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "arrays-intro_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "arrays-intro_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "arrays-intro_key4"
+  },
+  {
+    "component": "text",
+    "value": "arrays-intro_key5"
+  },
+  {
+    "component": "text",
+    "value": "arrays-intro_key6"
+  }
+]

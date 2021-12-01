@@ -59,7 +59,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Same network pe hona or different network pe hona ka kya matlab hai?<br><br>",
+		"value": "Same network pe hona or different network pe hona ka kya matlab hai?",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -103,7 +103,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Make a list ki aur kya kya naye tech shabdh hai, jinka aapne naam suna.<br><br>",
+		"value": "Make a list ki aur kya kya naye tech shabdh hai, jinka aapne naam suna.",
 		"decoration": {
 			"type": "number",
 			"value": 9
@@ -116,7 +116,7 @@
 	},
 	{
 		"component": "text",
-		"value": ".<a href=\"https://www.computerhope.com/jargon/n/network.htm\">Networking</a><br><br>",
+		"value": ".<a href=\"https://www.computerhope.com/jargon/n/network.htm\">Networking</a>",
 		"decoration": {
 			"type": "number",
 			"value": null

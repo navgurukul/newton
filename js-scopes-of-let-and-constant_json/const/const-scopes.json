@@ -1,0 +1,41 @@
+[
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const founderOfNavgurukul =\"Abhishek Gupta\"<br>founderOfNavgurukul = \"Kumar nayak\""
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "<span style=\"\">output</span>:"
+	},
+	{
+		"component": "text",
+		"value": "Type<span style=\"\">Error</span>: Assignment to constant <span style=\"\">variable</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Const cannot be updated."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const founderOfNavgurukul =\"Abhishek Gupta\"<br>const founderOfNavgurukul = \"Kumar nayak\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Const cannot be redeclared."
+	},
+	{
+		"component": "text",
+		"value": "We can also use Const for declaring <span style=\"\">variables</span>. As like let, const also has block scope. Const declarations are only accessible inside a block only."
+	},
+	{
+		"component": "text",
+		"value": "For every const <span style=\"\">variable</span> we must and should be declared with const."
+	}
+]

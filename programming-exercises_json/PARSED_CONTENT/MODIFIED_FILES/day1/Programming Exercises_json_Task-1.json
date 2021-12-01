@@ -1,0 +1,73 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-1_key1"
+  },
+  {
+    "component": "text",
+    "value": "Task-1_key2"
+  },
+  {
+    "component": "text",
+    "value": "Task-1_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-1_key4"
+  },
+  {
+    "component": "text",
+    "value": "Task-1_key5"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Eg:<br>  Input: 10<br>  Output:<br>    3 5 6 9 10"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-1_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Task-1_key7"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 12<br>  Output: 3 5 6 9 10 12"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 2:<br>  Input: 3<br>  Output: 3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 3:<br>  Input: 16<br>  Output: 3 5 6 9 10 12 15"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 4:<br>  Input: 5<br>  Output: 3 5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-1_key8"
+  },
+  {
+    "component": "text",
+    "value": "Task-1_key9"
+  }
+]

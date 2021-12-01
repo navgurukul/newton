@@ -1,0 +1,51 @@
+[
+	{
+		"component": "text",
+		"value": "If you could become omnipotent for one day, what would you do?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "If you could change one thing about the world, which of the following would you choose?"
+	},
+	{
+		"component": "text",
+		"value": "Poverty",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Greed",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Health Issues",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Violence",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "If given a chance to meet one famous person, whom would you choose?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

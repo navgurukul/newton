@@ -1,0 +1,120 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Useful <span style=\"\">String</span> Methods"
+	},
+	{
+		"component": "text",
+		"value": "Several <span style=\"\">string</span> methods analyze <span style=\"\">strings</span> or create transformed <span style=\"\">string</span> values. This section describes the methods you’ll be using most often."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The upper(), lower(), isupper(), and islower() <span style=\"\">String</span> Methods"
+	},
+	{
+		"component": "text",
+		"value": "The upper() and lower() <span style=\"\">string</span> methods return a new <span style=\"\">string</span> where all the letters in the original <span style=\"\">string</span> have been converted to uppercase or lower-case, respectively. Nonletter characters in the <span style=\"\">string</span> remain unchanged. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = 'Hello world!'<br>>>> spam = spam.upper()<br>>>> spam<br>'HELLO WORLD!'<br>>>> spam = spam.lower()<br>>>> spam<br>'hello world!'"
+	},
+	{
+		"component": "text",
+		"value": "Note that these methods do not change the <span style=\"\">string</span> itself but return new <span style=\"\">string</span> values. If you want to change the original <span style=\"\">string</span>, you have to call upper() or lower() on the <span style=\"\">string</span> and then assign the new <span style=\"\">string</span> to the <span style=\"\">variable</span> where the original was stored. This is why you must use spam = spam.upper() to change the <span style=\"\">string</span> in spam instead of simply spam.upper(). (This is just like if a <span style=\"\">variable</span> eggs contains the value 10. Writing eggs + 3 does not change the value of eggs, but eggs = eggs + 3 does.)"
+	},
+	{
+		"component": "text",
+		"value": "The upper() and lower() methods are helpful if you need to make a case-insensitive comparison. The <span style=\"\">strings</span> 'great' and 'GREat' are not equal to each other. But in the following small program, it does not matter whether the user types Great, GREAT, or grEAT, because the <span style=\"\">string</span> is first converted to lowercase."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print('How are you?')<br>feeling = input()<br>if feeling.lower() == 'great':<br>    print('I feel great too.')<br>else:<br>    print('I hope the rest of your day is good.')"
+	},
+	{
+		"component": "text",
+		"value": "When you run this program, the question is displayed, and entering a variation on great, such as GREat, will still give the <span style=\"\">output</span> I feel great too. Adding <span style=\"\">code</span> to your program to handle variations or mistakes in user <span style=\"\">input</span>, such as inconsistent capitalization, will make your programs easier to use and less likely to fail."
+	},
+	{
+		"component": "text",
+		"value": "How are you?<br>GREat<br>I feel great too.<br>The isupper() and islower() methods will return a Boolean <span style=\"\">True</span> value if the <span style=\"\">string</span> has at least one letter and all the letters are uppercase or lowercase, respectively. Otherwise, the method returns <span style=\"\">False</span>. Enter the following into the interactive <span style=\"\">shell</span>, and notice what each method call returns:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = 'Hello world!'<br>>>> spam.islower()<br>False<br>>>> spam.isupper()<br>False<br>>>> 'HELLO'.isupper()<br>True<br>>>> 'abc12345'.islower()<br>True<br>>>> '12345'.islower()<br>False<br>>>> '12345'.isupper()<br>False"
+	},
+	{
+		"component": "text",
+		"value": "Since the upper() and lower() <span style=\"\">string</span> methods themselves return <span style=\"\">strings</span>, you can call <span style=\"\">string</span> methods on those returned <span style=\"\">string</span> values as well. Expressions that do this will look like a chain of method calls. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> 'Hello'.upper()<br>'HELLO'<br>>>> 'Hello'.upper().lower()<br>'hello'<br>>>> 'Hello'.upper().lower().upper()<br>'HELLO'<br>>>> 'HELLO'.lower()<br>'hello'<br>>>> 'HELLO'.lower().islower()<br>True"
+	},
+	{
+		"component": "text",
+		"value": "The isX <span style=\"\">String</span> Methods<br>Along with islower() and isupper(), there are several <span style=\"\">string</span> methods that have names beginning with the word is. These methods return a Boolean value that describes the nature of the <span style=\"\">string</span>. Here are some common isX <span style=\"\">string</span> methods:"
+	},
+	{
+		"component": "text",
+		"value": "isalpha() returns <span style=\"\">True</span> if the <span style=\"\">string</span> consists only of letters and is not blank."
+	},
+	{
+		"component": "text",
+		"value": "isalnum() returns <span style=\"\">True</span> if the <span style=\"\">string</span> consists only of letters and numbers and is not blank."
+	},
+	{
+		"component": "text",
+		"value": "isdecimal() returns <span style=\"\">True</span> if the <span style=\"\">string</span> consists only of numeric characters and is not blank."
+	},
+	{
+		"component": "text",
+		"value": "isspace() returns <span style=\"\">True</span> if the <span style=\"\">string</span> consists only of spaces, <span style=\"\">tabs</span>, and new-lines and is not blank."
+	},
+	{
+		"component": "text",
+		"value": "istitle() returns <span style=\"\">True</span> if the <span style=\"\">string</span> consists only of words that begin with an uppercase letter followed by only lowercase letters."
+	},
+	{
+		"component": "text",
+		"value": "Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> 'hello'.isalpha()<br>True<br>>>> 'hello123'.isalpha()<br>False<br>>>> 'hello123'.isalnum()<br>True<br>>>> 'hello'.isalnum()<br>True<br>>>> '123'.isdecimal()<br>True<br>>>> '    '.isspace()<br>True<br>>>> 'This Is Title Case'.istitle()<br>True<br>>>> 'This Is Title Case 123'.istitle()<br>True<br>>>> 'This Is not Title Case'.istitle()<br>False<br>>>> 'This Is NOT Title Case Either'.istitle()<br>False"
+	},
+	{
+		"component": "text",
+		"value": "The isX <span style=\"\">string</span> methods are helpful when you need to validate user <span style=\"\">input</span>. For example, the following program repeatedly asks users for their age and a password until they provide valid <span style=\"\">input</span>. Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and enter this program, saving it as validate<span style=\"\">Input</span>.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "while True:<br>    print('Enter your age:')<br>    age = input()<br>    if age.isdecimal():<br>        break<br>    print('Please enter a number for your age.')<br><br>while True:<br>    print('Select a new password (letters and numbers only):')<br>    password = input()<br>    if password.isalnum():<br>        break<br>    print('Passwords can only have letters and numbers.')"
+	},
+	{
+		"component": "text",
+		"value": "In the first while <span style=\"\">loop</span>, we ask the user for their age and store their <span style=\"\">input</span> in age. If age is a valid (decimal) value, we break out of this first while <span style=\"\">loop</span> and move on to the second, which asks for a password. Otherwise, we inform the user that they need to enter a number and again ask them to enter their age. In the second while <span style=\"\">loop</span>, we ask for a password, store the user’s <span style=\"\">input</span> in password, and break out of the <span style=\"\">loop</span> if the <span style=\"\">input</span> was alphanumeric. If it wasn’t, we’re not satisfied so we tell the user the password needs to be alphanumeric and again ask them to enter a password."
+	},
+	{
+		"component": "text",
+		"value": "When run, the program’s <span style=\"\">output</span> looks like this:"
+	},
+	{
+		"component": "text",
+		"value": "Enter your age:<br>forty two<br>Please enter a number for your age.<br>Enter your age:<br>42<br>Select a new password (letters and numbers only):<br>secr3t!<br>Passwords can only have letters and numbers.<br>Select a new password (letters and numbers only):<br>secr3t<br>Calling isdecimal() and isalnum() on <span style=\"\">variables</span>, we’re able to test whether the values stored in those <span style=\"\">variables</span> are decimal or not, alphanumeric or not. Here, these tests help us reject the <span style=\"\">input</span> forty two and accept 42, and reject secr3t! and accept secr3t."
+	}
+]

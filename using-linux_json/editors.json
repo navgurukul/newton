@@ -1,0 +1,52 @@
+[
+	{
+		"component": "text",
+		"value": "Aapke system mei default <span style=\"\">editor</span> "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gedit</span> hai."
+	},
+	{
+		"component": "text",
+		"value": "jisko aap "
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "gedit"
+	},
+	{
+		"component": "text",
+		"value": "or"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "gedit ~/Desktop/newfile.txt"
+	},
+	{
+		"component": "text",
+		"value": "kar kar khol sakte ho."
+	},
+	{
+		"component": "text",
+		"value": "Aise hi"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "subl #Sublime Text<br>nano <br>code #Visual Studio Code<br>vim"
+	},
+	{
+		"component": "text",
+		"value": "bhi aap use kar sakte ho."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nano</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vim</span> - <span style=\"\">terminal</span> ke andar se hi kaam karte hai. Thoda bahut <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nano</span> aapko aana chahiye, jisse ki baar baar aapko <span style=\"\">terminal</span> ke bahar na jaana pade."
+	}
+]

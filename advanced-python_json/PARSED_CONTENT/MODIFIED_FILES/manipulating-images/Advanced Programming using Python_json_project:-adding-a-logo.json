@@ -1,0 +1,332 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key1"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key2"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key3"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key4"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key5"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key6"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key7"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key8"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key9"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key10"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key11"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key12"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key13"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key14"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key15"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key16"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key17"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key18"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key19"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key20"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key21"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key22"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key23"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key24"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key25"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key26"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key27"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key28"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key29"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key30"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key31"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key32"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key33"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key34"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key35"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key36"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key37"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key38"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key39"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key40"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key41"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key42"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key43"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key44"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Loop over all files in the working directory.<br>❶ for filename in os.listdir('.'):<br>❷     if not (filename.endswith('.png') or filename.endswith('.jpg')) \\<br>          or filename == LOGO_FILENAME:<br>❸         continue # skip non-image files and the logo file itself<br><br>❹     im = Image.open(filename)<br>       width, height = im.size"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key45"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key46"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key47"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key48"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key49"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key50"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key51"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key52"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Check if image needs to be resized.<br>      if width > SQUARE_FIT_SIZE and height > SQUARE_FIT_SIZE:<br>          # Calculate the new width and height to resize to.<br>          if width > height:<br>❶            height = int((SQUARE_FIT_SIZE / width) * height)<br>              width = SQUARE_FIT_SIZE<br>          else:<br>❷            width = int((SQUARE_FIT_SIZE / height) * width)<br>              height = SQUARE_FIT_SIZE<br><br>          # Resize the image.<br>          print('Resizing %s...' % (filename))<br>     ❸     im = im.resize((width, height))"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key53"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key54"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key55"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key56"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key57"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key58"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key59"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key60"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key61"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key62"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key63"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key64"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key65"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Add the logo.<br>❶  print('Adding logo to %s...' % (filename))<br>❷  im.paste(logoIm, (width - logoWidth, height - logoHeight), logoIm)<br><br>    # Save changes.<br>❸  im.save(os.path.join('withLogo', filename))"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key66"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key67"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project:-adding-a-logo_key68"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key69"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key70"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key71"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key72"
+  },
+  {
+    "component": "text",
+    "value": "project:-adding-a-logo_key73"
+  }
+]

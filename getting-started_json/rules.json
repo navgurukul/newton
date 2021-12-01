@@ -1,0 +1,63 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Some Important Rules"
+	},
+	{
+		"component": "text",
+		"value": "Hume apne bartan khud dhone hote hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Khana waste nahi karna hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yaha par do dustbins hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "ek dustbin jo kitchen mei hai jis mei aap organic cheezein - jaise fruits ke cheelke, bacha hua khan, ande ke chilke, jaisa waste daaloge. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "doosra dustbin jo bahar hai jis mei aap baaki samaan daaloge.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul campus mein non-vegeratian food (except eggs) allowed nahi hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Har class aapko time se start karni hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Hindi gaane sunna avoid karein. Aap english gaane sunoge, aur unko samajhne ki koshish karoge. Isse aapki English improve hogi.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

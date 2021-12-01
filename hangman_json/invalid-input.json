@@ -1,0 +1,101 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Invalid <span style=\"\">Inputs</span>"
+	},
+	{
+		"component": "text",
+		"value": "Aapko yeh check karna hai ki user no jo <span style=\"\">input</span> daala hai, woh valid hai ya nahi. Iske liye aapko yeh dekhna hai ki jo user ne <span style=\"\">input</span> daala hai,"
+	},
+	{
+		"component": "text",
+		"value": "usmei agar ek se jyada <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">letters</span> hai toh, woh input invalid hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "usmei a to z ke alawa koi bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">character</span> hai toh woh input invalid hai"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Yeh check karne ke liye aap .isalpha function use kar sakte ho"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "'a'.isalpha()<br>True<br><br>'1'.isalpha()<br>False<br><br>'ab'.isalpha()<br>True<br><br>'a1'.isalpha()<br>False"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Aapko user se input receive karne ke baad check karna hai ki input valid hai ya nahi",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Check karne ke liye aap user ke input ki length check kar sakte hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar input valid hai toh sab accha hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Par agar input invalid hai toh aap loop ko wapis se continue karo aur dobara user input lo",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution Video"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=-3aK5qikWBs"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def ifValid(user_input):<br>    if len(user_input) != 1:<br>        return False<br><br>    if not user_input.isalpha():<br>        return False<br><br>    # True humne tab hi return kiya hai jab<br>    # user_input ki length 1 hai aur woh character hai<br>    return True"
+	},
+	{
+		"component": "text",
+		"value": "………………… in the hangman function ……………………….<br>…<br>…<br>…"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "while (True):<br>        available_letters = get_available_letters(letters_guessed)<br>        print \"Available letters: \" + available_letters<br><br>        guess = raw_input(\"Please guess a letter: \")<br>        letter = guess.lower()<br><br>        if (not ifValid(letter))<br>            continue<br><br>        if letter in secret_word:<br>            letters_guessed.append(letter)"
+	},
+	{
+		"component": "text",
+		"value": "…<br>…<br>…"
+	}
+]

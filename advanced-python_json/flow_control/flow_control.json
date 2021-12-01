@@ -1,0 +1,71 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Elements of Flow Control"
+	},
+	{
+		"component": "text",
+		"value": "Conditions<br>The Boolean expressions you’ve seen so far could all be considered conditions, which are the same thing as expressions; condition is just a more specific name in the context of flow control <span style=\"\">statements</span>. Conditions always evaluate down to a Boolean value, <span style=\"\">True</span> or <span style=\"\">False</span>. A flow control <span style=\"\">statement</span> decides what to do based on whether its condition is <span style=\"\">True</span> or <span style=\"\">False</span>, and almost every flow control <span style=\"\">statement</span> uses a condition."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Blocks of <span style=\"\">Code</span>"
+	},
+	{
+		"component": "text",
+		"value": "Lines of <span style=\"\">Python</span> <span style=\"\">code</span> can be grouped together in blocks. You can tell when a block begins and ends from the <span style=\"\">indentation</span> of the lines of <span style=\"\">code</span>. There are three rules for blocks."
+	},
+	{
+		"component": "text",
+		"value": "Blocks begin when the indentation increases.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Blocks can contain other blocks.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Blocks end when the indentation decreases to zero or to a containing block’s indentation.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Blocks are easier to understand by looking at some indented <span style=\"\">code</span>, so let’s find the blocks in part of a small game program, shown here:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "name = 'Mary'<br>password = 'swordfish'<br>if name == 'Mary':<br>    print('Hello Mary')<br>    if password == 'swordfish':<br>        print('Access granted.')<br>    else:<br>        print('Wrong password.')"
+	},
+	{
+		"component": "text",
+		"value": "The first block of <span style=\"\">code</span> ❶ starts at the line print('Hello Mary') and contains all the lines after it. Inside this block is another block ❷, which has only a single line in it: print('Access Granted.'). The third block ❸ is also one line long: print('Wrong password.')."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Program Execution"
+	},
+	{
+		"component": "text",
+		"value": "In the previous chapter’s hello.py program, <span style=\"\">Python</span> started executing instructions at the top of the program going down, one after another. The program execution (or simply, execution) is a term for the current instruction being <span style=\"\">execute</span>d. If you print the source <span style=\"\">code</span> on paper and put your finger on each line as it is <span style=\"\">execute</span>d, you can think of your finger as the program execution."
+	},
+	{
+		"component": "text",
+		"value": "Not all programs <span style=\"\">execute</span> by simply going straight down, however. If you use your finger to trace through a program with flow control <span style=\"\">statements</span>, you’ll likely find yourself jumping around the source <span style=\"\">code</span> based on conditions, and you’ll probably skip entire clauses."
+	}
+]

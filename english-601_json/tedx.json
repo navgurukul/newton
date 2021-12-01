@@ -22,7 +22,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Write a summary of what you learnt from the talk and discussion.(Upto 150 words)<br><br>",
+		"value": "Write a summary of what you learnt from the talk and discussion.(Upto 150 words)",
 		"decoration": {
 			"type": "number",
 			"value": 3

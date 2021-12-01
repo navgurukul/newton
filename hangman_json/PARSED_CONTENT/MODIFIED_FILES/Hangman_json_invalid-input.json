@@ -1,0 +1,101 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "invalid-input_key1"
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key2"
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "invalid-input_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "invalid-input_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "'a'.isalpha()<br>True<br><br>'1'.isalpha()<br>False<br><br>'ab'.isalpha()<br>True<br><br>'a1'.isalpha()<br>False"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "invalid-input_key6"
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "invalid-input_key11"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=-3aK5qikWBs"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "invalid-input_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def ifValid(user_input):<br>    if len(user_input) != 1:<br>        return False<br><br>    if not user_input.isalpha():<br>        return False<br><br>    # True humne tab hi return kiya hai jab<br>    # user_input ki length 1 hai aur woh character hai<br>    return True"
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "while (True):<br>        available_letters = get_available_letters(letters_guessed)<br>        print \"Available letters: \" + available_letters<br><br>        guess = raw_input(\"Please guess a letter: \")<br>        letter = guess.lower()<br><br>        if (not ifValid(letter))<br>            continue<br><br>        if letter in secret_word:<br>            letters_guessed.append(letter)"
+  },
+  {
+    "component": "text",
+    "value": "invalid-input_key14"
+  }
+]

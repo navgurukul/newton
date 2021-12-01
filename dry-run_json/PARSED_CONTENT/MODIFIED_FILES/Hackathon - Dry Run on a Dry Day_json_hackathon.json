@@ -1,0 +1,46 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hackathon_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "hackathon_key2"
+  },
+  {
+    "component": "text",
+    "value": "hackathon_key3"
+  },
+  {
+    "component": "text",
+    "value": "hackathon_key4"
+  },
+  {
+    "component": "text",
+    "value": "hackathon_key5"
+  },
+  {
+    "component": "text",
+    "value": "hackathon_key6"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hackathon_key7"
+  },
+  {
+    "component": "text",
+    "value": "hackathon_key8"
+  },
+  {
+    "component": "text",
+    "value": "hackathon_key9"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/dry-run_json/assets/mobile-stand-record-video.jpg",
+    "alt": "hackathon_key10"
+  }
+]

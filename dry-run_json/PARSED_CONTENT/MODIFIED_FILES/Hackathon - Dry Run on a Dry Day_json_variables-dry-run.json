@@ -1,0 +1,130 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables-dry-run_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables-dry-run_key2"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key3"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key4"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=9PnmC9NAvzU"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 3<br>b = 4<br>c = a * b<br>a = b * c<br>b = a + c<br>c = a + b + c"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key5"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>b = 2<br>b = a"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 7<br>b = 8 * 4<br>b = a"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>b = 2<br>c = b<br>b = a <br>a = c"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>b = a*2<br>c = b*2<br>a = c*2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 100<br> a = a + 50<br> a = a / 3<br> a = a * 2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 10<br> b = 10<br> c = a * b<br> a = c - b<br> b = c + a<br> c = a * c"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key7"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=fny5w_YKSc8"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=RsmMloOHrRQ"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=pyFetzD0b38"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "seconds = 96768<br>seconds_to_report = (seconds/ 1) % (60)<br>minutes = (seconds/60) % 60 <br>hours = (seconds/(60*60)) % 24<br>days = seconds/(60*60*24)<br>print days, hours, minutes, seconds_to_report"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "seconds = 96768<br><br>seconds_to_report = seconds % 60<br>minutes = seconds / 60<br><br>minutes_to_report = minutes % 60<br>hours = minutes / 60<br><br>hours_to_report = hours % 24<br>days = hours / 24<br><br>print days, hours_to_report, minutes_to_report, seconds_to_report"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "amount = 8712<br>note2000 = amount/2000<br>amount = amount%2000<br><br>note500 = amount/500<br>amount = amount%500<br><br>note100= amount/100<br>amount = amount%100<br><br>note50 = amount/50<br>amount = amount%50<br><br>note10 = amount/10<br>amount = amount%10<br><br>note5 = amount/5<br>amount = amount%5<br><br>note2 = amount/2<br>amount = amount%2<br><br>note1 = amount/1<br>amount = amount%1<br><br>print note2000, note500, note100, note50, note10, note5, note2, note1<br><br>new_amount = note2000*2000 + note500*500 + note100*100 + note50*50 + note10*10 + note5*5 + note2*2 + note1*1<br>print new_amount<br>"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key10"
+  },
+  {
+    "component": "text",
+    "value": "variables-dry-run_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 5<br>y = 4<br>z = y*1.0<br><br>if x/y == x/z:<br>    print \"same hai\"<br>else:<br>    print \"same nahi hai\"    <br><br><br>print x/y<br>print x/z"
+  }
+]

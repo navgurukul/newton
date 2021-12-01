@@ -1,0 +1,62 @@
+[
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "counter = 0<br>string = \"navgurukul\"<br>while (counter < len(string)):<br>    if string[counter] == \"g\":<br>        break<br>    <br>    print(string[counter])<br>    counter += 1<br><br>print(\"The end\", string[counter])"
+	},
+	{
+		"component": "text",
+		"value": "Agar aap yeh diagram dekhoge toh aap samjhoge, ki command se hum jiss bhi loop ke andar aapne woh command likhi hai, uss loop se immediately bahar nikal jaate hai."
+	},
+	{
+		"component": "image",
+		"value": "assets/how-break-statement-works.jpg",
+		"alt": "How Break Statements Work!"
+	},
+	{
+		"component": "text",
+		"value": "Ab iss idea ko use karte hue in example <span style=\"\">codes</span> ka <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dry run</span> karein."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "var = 10<br>while var > 0:              <br>   print 'Current variable value :', var<br>   var = var - 1<br>   if var == 5:<br>      break<br><br>print \"Good bye!\""
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num = 407<br><br>i = 2<br>prime = True<br>first_divisor = -1<br>while (i<num):<br>    if (num%i == 0):<br>        prime = False<br>        first_divisor = i<br>        break<br>    i += 1<br><br>print prime<br>if not prime:<br>    print first_divisor"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Jab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested loops</span> hote hai, toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break</span> command se hum uss <span style=\"\">loop</span> se bahar aate hai, jo immediately pehla <span style=\"\">loop</span> hota hai jiske <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">andar</span> break likha hota hai."
+	},
+	{
+		"component": "text",
+		"value": "Jaise neeche diye hue program mei <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break</span> <span style=\"\">statement</span> sirf <span style=\"\">loop</span>2 se bahar nikalega."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 0<br>while(i<5):<br>    j = 0<br>    while(j<5): #loop2<br>        if (j > 3): <br>            break <br>        else:<br>            print \"*\", <br>        j = j + 1    <br>    print ''<br>    i = i + 1"
+	},
+	{
+		"component": "text",
+		"value": "Iss program ka <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">output</span> likh kar, iss program ko bina <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break</span> <span style=\"\">statement</span> ke likhiye.<br>Apne likhe hue naye program ka bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dry run</span> karein."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = 0<br>while(a<6):<br>    b = 0<br>    while(b<6):<br>        if (a == b):<br>            break<br>        print '*',<br>        b = b + 1<br>    print ''<br>    a = a + 1"
+	},
+	{
+		"component": "text",
+		"value": "Iss program ka <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">output</span> likh kar, iss program ko bina <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">break</span> <span style=\"\">statement</span> ke likhiye.<br>Apne likhe hue naye program ka bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dry run</span> karein."
+	}
+]

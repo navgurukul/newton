@@ -1,0 +1,103 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task3_key1"
+  },
+  {
+    "component": "text",
+    "value": "task3_key2"
+  },
+  {
+    "component": "text",
+    "value": "task3_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "task3_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "task3_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "task3_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "task3_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "movies = [<br>  {<br>    \"name\": \"Anand\",<br>    \"year\": 1971,<br>    \"position\": 1,<br>    \"rating\": 8.7,<br>    \"url\": \"https://www.imdb.com/title/tt0066763/\"<br>  },<br>  {<br>    \"name\": \"Drishyam\",<br>    \"position\": 2,<br>    \"year\": 2013,<br>    \"rating\": 8.6,<br>    \"url\": \"https://www.imdb.com/title/tt3417422/\"<br>  },<br>  {<br>    \"position\": 3,<br>    \"name\": \"Andhadhun\",<br>    \"year\": 2018,<br>    \"rating\": 8.6,<br>    \"url\": \"https://www.imdb.com/title/tt8108198/\"<br>  }<br>]"
+  },
+  {
+    "component": "text",
+    "value": "task3_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def group_by_decade(movies):<br>  # pehle hum group_by_year ka use kar ke movies ko year ke hisaab se group kar lenge pichla function use karke<br>  movies_by_year = group_by_year(movies)<br><br>  # iske aage hum apna code likhenge jismein hum movies_by_year wali dictionary ka use kar ke movies ko year ke hisaab se group karenge.<br><br>  # finally hum decade ke hisaab se grouped dictionary ko return kar denge<br>  return movies_by_decade"
+  },
+  {
+    "component": "text",
+    "value": "task3_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "{<br>  1950: [<br>    {'name': 'Koi movie ka naam', 'year_of_release': 1956, 'position': 1, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Kuch aur naam', 'year_of_release': 1956, 'position': 4, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Ek aur naam', 'year_of_release': 1956, 'position': 8, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Koi movie ka naam 2', 'year_of_release': 1959, 'position':34, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Kuch aur naam 2', 'year_of_release': 1959, 'position': 42, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>  ],<br>  1960: [<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {}<br>  ],<br>  1980: [<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {}<br>  ]<br>}"
+  },
+  {
+    "component": "text",
+    "value": "task3_key10"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task3_key11"
+  },
+  {
+    "component": "text",
+    "value": "task3_key12",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task3_key13"
+  },
+  {
+    "component": "youtube",
+    "value": "https://youtu.be/oC0n_oGJnQo"
+  },
+  {
+    "component": "text",
+    "value": "task3_key14"
+  }
+]

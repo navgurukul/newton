@@ -1,0 +1,90 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Pattern Matching with Regular Expressions"
+	},
+	{
+		"component": "text",
+		"value": "You may be familiar with searching for text by pressing CTRL-F and typing in the words you’re looking for. Regular expressions go one step further: They allow you to specify a pattern of text to search for. You may not know a business’s exact phone number, but if you live in the United States or Canada, you know it will be three digits, followed by a hyphen, and then four more digits (and optionally, a three-digit area <span style=\"\">code</span> at the start). This is how you, as a human, know a phone number when you see it: 415-555-1234 is a phone number, but 4,155,551,234 is not."
+	},
+	{
+		"component": "text",
+		"value": "Regular expressions are helpful, but not many non-programmers know about them even though most modern text <span style=\"\">editors</span> and word processors, such as Microsoft Word or OpenOffice, have find and find-and-replace features that can search based on regular expressions. Regular expressions are huge time-<span style=\"\">save</span>rs, not just for software users but also for programmers. In fact, tech writer Cory Doctorow argues that even before teaching programming, we should be teaching regular expressions:"
+	},
+	{
+		"component": "text",
+		"value": "“Knowing [regular expressions] can mean the difference between solving a problem in 3 steps and solving it in 3,000 steps. When you’re a nerd, you forget that the problems you solve with a couple <span style=\"\">keys</span>trokes can take other people days of tedious, <span style=\"\">error</span>-prone work to slog through.”[1]"
+	},
+	{
+		"component": "text",
+		"value": "In this chapter, you’ll start by writing a program to find text patterns without using regular expressions and then see how to use regular expressions to make the <span style=\"\">code</span> much less bloated. I’ll show you basic matching with regular expressions and then move on to some more powerful features, such as <span style=\"\">string</span> substitution and creating your own character classes. Finally, at the end of the chapter, you’ll write a program that can automatically extract phone numbers and email addresses from a block of text."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Finding Patterns of Text Without Regular Expressions"
+	},
+	{
+		"component": "text",
+		"value": "Say you want to find a phone number in a <span style=\"\">string</span>. You know the pattern: three numbers, a hyphen, three numbers, a hyphen, and four numbers. Here’s an example: 415-555-4242."
+	},
+	{
+		"component": "text",
+		"value": "Let’s use a function named isPhoneNumber() to check whether a <span style=\"\">string</span> matches this pattern, returning either <span style=\"\">True</span> or <span style=\"\">False</span>. Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and enter the following <span style=\"\">code</span>; then <span style=\"\">save</span> the <span style=\"\">file</span> as isPhoneNumber.py:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def isPhoneNumber(text):<br>❶     if len(text) != 12:<br>           return False<br>       for i in range(0, 3):<br>❷         if not text[i].isdecimal():<br>               return False<br>❸     if text[3] != '-':<br>           return False<br>       for i in range(4, 7):<br>❹         if not text[i].isdecimal():<br>               return False<br>❺     if text[7] != '-':<br>           return False<br>       for i in range(8, 12):<br>❻         if not text[i].isdecimal():<br>               return False<br>❼     return True<br><br>   print('415-555-4242 is a phone number:')<br>   print(isPhoneNumber('415-555-4242'))<br>   print('Moshi moshi is a phone number:')<br>   print(isPhoneNumber('Moshi moshi'))"
+	},
+	{
+		"component": "text",
+		"value": "When this program is run, the <span style=\"\">output</span> looks like this:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "415-555-4242 is a phone number:<br>True<br>Moshi moshi is a phone number:<br>False"
+	},
+	{
+		"component": "text",
+		"value": "The isPhoneNumber() function has <span style=\"\">code</span> that does several checks to see whether the <span style=\"\">string</span> in text is a valid phone number. If any of these checks fail, the function returns <span style=\"\">False</span>. First the <span style=\"\">code</span> checks that the <span style=\"\">string</span> is exactly 12 characters ❶. Then it checks that the area <span style=\"\">code</span> (that is, the first three characters in text) consists of only numeric characters ❷. The rest of the function checks that the <span style=\"\">string</span> follows the pattern of a phone number: The number must have the first hyphen after the area <span style=\"\">code</span> ❸, three more numeric characters ❹, then another hyphen ❺, and finally four more numbers ❻. If the program execution manages to get past all the checks, it returns <span style=\"\">True</span> ❼."
+	},
+	{
+		"component": "text",
+		"value": "Calling isPhoneNumber() with the argument '415-555-4242' will return <span style=\"\">True</span>. Calling isPhoneNumber() with 'Moshi moshi' will return <span style=\"\">False</span>; the first test fails because 'Moshi moshi' is not 12 characters long."
+	},
+	{
+		"component": "text",
+		"value": "You would have to add even more <span style=\"\">code</span> to find this pattern of text in a larger <span style=\"\">string</span>. Replace the last four print() function calls in isPhoneNumber.py with the following:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "message = 'Call me at 415-555-1011 tomorrow. 415-555-9999 is my office.'<br>   for i in range(len(message)):<br>❶     chunk = message[i:i+12]<br>❷     if isPhoneNumber(chunk):<br>         print('Phone number found: ' + chunk)<br>   print('Done')"
+	},
+	{
+		"component": "text",
+		"value": "When this program is run, the <span style=\"\">output</span> will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "Phone number found: 415-555-1011<br>Phone number found: 415-555-9999<br>Done<br>On each iteration of the for <span style=\"\">loop</span>, a new chunk of 12 characters from message is assigned to the <span style=\"\">variable</span> chunk ❶. For example, on the first iteration, i is 0, and chunk is assigned message[0:12] (that is, the <span style=\"\">string</span> 'Call me at 4'). On the next iteration, i is 1, and chunk is assigned message[1:13] (the <span style=\"\">string</span> 'all me at 41')."
+	},
+	{
+		"component": "text",
+		"value": "You pass chunk to isPhoneNumber() to see whether it matches the phone number pattern ❷, and if so, you print the chunk."
+	},
+	{
+		"component": "text",
+		"value": "Continue to <span style=\"\">loop</span> through message, and eventually the 12 characters in chunk will be a phone number. The <span style=\"\">loop</span> goes through the entire <span style=\"\">string</span>, testing each 12-character piece and printing any chunk it finds that satisfies isPhoneNumber(). Once we’re done going through message, we print Done."
+	},
+	{
+		"component": "text",
+		"value": "While the <span style=\"\">string</span> in message is short in this example, it could be millions of characters long and the program would still run in less than a second. A similar program that finds phone numbers using regular expressions would also run in less than a second, but regular expressions make it quicker to write these programs."
+	}
+]

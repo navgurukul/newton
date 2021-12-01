@@ -1,0 +1,66 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Da<span style=\"\">tab</span>ase"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "Database = Data + Base"
+	},
+	{
+		"component": "text",
+		"value": "Yaani jaha aapka data store hota hai. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Querying Da<span style=\"\">tab</span>ase"
+	},
+	{
+		"component": "text",
+		"value": "Agar aapne data store kar liya hai toh, ab aapko uss data ko kabhi kabhi mangwana bhi padega. Jaise maan lo, humne saare students ka data kahi store kar liya hai. Toh kabhi kabhi yeh question aa sakta hai ki, A naam ke student ka phone number kya hai?"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Tab</span> da<span style=\"\">tab</span>ase se aap A ka phone number check karenge. Iss process ko bolte hai <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">database</span> se <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">query</span> karna."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Spreadsheet / Excel"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Spreadsheet</span> / <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Excel</span> ek kaafi acche da<span style=\"\">tab</span>ase ka example hai. Waha par hum bahut saara data structured form mei store bhi karte hai, aur jab jaroorat padti hai query bhi karte hai. Aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Excel</span> ya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Spreadsheet</span> use kar kar, apna koi bhi data store kar sakte hai."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "MySQL &amp; MongoDB"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">MySQL</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">MongoDB</span> sabse popular da<span style=\"\">tab</span>ases mei se ek hai, jo kaafi badi badi companies use karti hai. Hum inn da<span style=\"\">tab</span>ases ke baarein mei alag se details mei padhenge, aur aap khud bhi thoda google kar kar samajh sakte hai."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "PickleDB"
+	},
+	{
+		"component": "text",
+		"value": "Yeh bahut simple sa database hai, jo python mei hi likha hua hai. Iska source code <a href=\"https://github.com/patx/pickledb\">yaha</a> par hai. Hum sabse pehle aisa hi implementaion karenge."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "TinyDB"
+	},
+	{
+		"component": "text",
+		"value": "Yeh database bhi python mei likha hua hai. Iska source code <a href=\"https://github.com/msiemens/tinydb\">yaha</a> par available hai. Iss course ke next part mei hum, yeh wala database implement karenge."
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "EdgeCases"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "EdgeCases kya hota hai"
+	},
+	{
+		"component": "text",
+		"value": "Agar aapka program sahi chal raha hai most of the <span style=\"\">inputs</span> ke liye, but kisi ek ya do <span style=\"\">input</span> ke liye sahi nahi chal raha, to us <span style=\"\">input</span> ko edgecase kehte hai."
+	},
+	{
+		"component": "text",
+		"value": "Humara objective hai ki hum edgecases ke liye bhi humara program sahi <span style=\"\">input</span> de"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example: Division of 2 numbers."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# a,b naam ke 2 variables mai input lenge.<br>a = input()<br>b = input()<br><br># ab hum a,b ko integer mai typecase karenge<br>a = int(a)<br>b = int(b)<br><br># hum a, b ka division print karenge<br>print (a/b)"
+	},
+	{
+		"component": "text",
+		"value": "agar hum ye program chalate hai, and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> mai <span style=\"\">input</span> 6 dete hai and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span> mai <span style=\"\">input</span> 2 dete hai, to kya print hoga"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Finding edgecases"
+	},
+	{
+		"component": "text",
+		"value": "ab hume is program mai aisa <span style=\"\">input</span> dhundna hai, jispe ye program sahi <span style=\"\">output</span> nahi dega ya fir <span style=\"\">error</span> de dega<br>agar hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> mai kuch bhi <span style=\"\">input</span> de dete hai but <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span> mai 0 <span style=\"\">input</span> dete hai, to kya hoga?"
+	},
+	{
+		"component": "text",
+		"value": "Agar aap is program ko run karenge apne laptop mai to aapko <span style=\"\">error</span> dikega, ye <span style=\"\">error</span> kyuun aaya?"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Finding reason of edgecases"
+	},
+	{
+		"component": "text",
+		"value": "ab hume ye dekhna hai ki ye edgecase kyyun aaya.<br>well agar hum kisi bhi number ko zero se divide nahi kar sakte and aisa karne pe <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ZeroDivisionError</span> exception aata hai"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Handling edgecases"
+	},
+	{
+		"component": "text",
+		"value": "ab hum is program mai edge case kaise handle kar sakte hai, hum agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span> 0 hai to bol sakte hai ki division of any number by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0</span> possible nahi hai"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# a,b naam ke 2 variables mai input lenge.<br>a = input()<br>b = input()<br><br># ab hum a,b ko integer mai typecase karenge<br>a = int(a)<br>b = int(b)<br><br># hum a, b ka division print karenge<br>if (b != 0):<br>    print (a/b)<br>else:<br>    print (\"Number cannot be divided by zero\")"
+	}
+]

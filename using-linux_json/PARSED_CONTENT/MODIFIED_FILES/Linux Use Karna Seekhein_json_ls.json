@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "ls_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "ls<br>ls -l   # all details<br>ls -a   # all files<br>ls -h   # human readable size<br>ls -la<br>ls -lh<br>ls -ah<br>ls -lah"
+  },
+  {
+    "component": "text",
+    "value": "ls_key2"
+  }
+]

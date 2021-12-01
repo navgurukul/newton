@@ -1,0 +1,33 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "pretty-printing_key1"
+  },
+  {
+    "component": "text",
+    "value": "pretty-printing_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import pprint<br>message = 'It was a bright cold day in April, and the clocks were striking'<br>thirteen.<br>count = {}<br><br>for character in message:<br>    count.setdefault(character, 0)<br>    count[character] = count[character] + 1<br><br>pprint.pprint(count)"
+  },
+  {
+    "component": "text",
+    "value": "pretty-printing_key3"
+  },
+  {
+    "component": "text",
+    "value": "pretty-printing_key4"
+  },
+  {
+    "component": "text",
+    "value": "pretty-printing_key5"
+  },
+  {
+    "component": "text",
+    "value": "pretty-printing_key6"
+  }
+]

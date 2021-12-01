@@ -1,0 +1,27 @@
+[
+  {
+    "component": "text",
+    "value": "Commit_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "git commit -m \"aapka message jo apke file mein kiye hue changes ko batata hai\""
+  },
+  {
+    "component": "text",
+    "value": "Commit_key2"
+  },
+  {
+    "component": "text",
+    "value": "Commit_key3"
+  },
+  {
+    "component": "text",
+    "value": "Commit_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

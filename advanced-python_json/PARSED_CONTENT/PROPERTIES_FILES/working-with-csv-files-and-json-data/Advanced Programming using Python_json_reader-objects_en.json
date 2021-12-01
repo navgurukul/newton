@@ -1,0 +1,13 @@
+{
+	"reader-objects_key1": "Reader Objects",
+	"reader-objects_key2": "To read data from a CSV <span style=\"\">file</span> with the csv module, you need to create a Reader object. A Reader object lets you iterate over lines in the CSV <span style=\"\">file</span>. Enter the following into the interactive <span style=\"\">shell</span>, with example.csv in the current working directory:",
+	"reader-objects_key3": "[['4/5/2015 13:34', 'Apples', '73'], ['4/5/2015 3:41', 'Cherries', '85'],<br>   ['4/6/2015 12:46', 'Pears', '14'], ['4/8/2015 8:59', 'Oranges', '52'],<br>   ['4/10/2015 2:07', 'Apples', '152'], ['4/10/2015 18:10', 'Bananas', '23'],<br>   ['4/10/2015 2:40', 'Strawberries', '98']]<br>The csv module comes with <span style=\"\">Python</span>, so we can import it ❶ without having to install it first.",
+	"reader-objects_key4": "To read a CSV <span style=\"\">file</span> with the csv module, first open it using the open() function ❷, just as you would any other text <span style=\"\">file</span>. But instead of calling the read() or readlines() method on the <span style=\"\">File</span> object that open() returns, pass it to the csv.reader() function ❸. This will return a Reader object for you to use. Note that you don’t pass a <span style=\"\">file</span>name <span style=\"\">string</span> directly to the csv.reader() function.",
+	"reader-objects_key5": "The most direct way to access the values in the Reader object is to convert it to a plain <span style=\"\">Python</span> list by passing it to list() ❹. Using list() on this Reader object returns a list of lists, which you can store in a <span style=\"\">variable</span> like exampleData. Entering exampleData in the <span style=\"\">shell</span> displays the list of lists ❺.",
+	"reader-objects_key6": "Now that you have the CSV <span style=\"\">file</span> as a list of lists, you can access the value at a particular row and column with the expression exampleData[row][col], where row is the index of one of the lists in exampleData, and col is the index of the item you want from that list. Enter the following into the interactive <span style=\"\">shell</span>:",
+	"reader-objects_key7": "'4/5/2015 13:34'",
+	"reader-objects_key8": "'Apples'",
+	"reader-objects_key9": "'73'",
+	"reader-objects_key10": "'Cherries'",
+	"reader-objects_key11": "'Strawberries'<br>exampleData[0][0] goes into the first list and gives us the first <span style=\"\">string</span>, exampleData[0][2] goes into the first list and gives us the third <span style=\"\">string</span>, and so on."
+}

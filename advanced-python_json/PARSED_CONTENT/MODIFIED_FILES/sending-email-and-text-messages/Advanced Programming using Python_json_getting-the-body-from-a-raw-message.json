@@ -1,0 +1,59 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "getting-the-body-from-a-raw-message_key1"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key2"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key3"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> message.text_part != None"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.text_part.get_payload().decode(message.text_part.charset)"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❸ >>> message.html_part != None"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❹ >>> message.html_part.get_payload().decode(message.html_part.charset)"
+  },
+  {
+    "component": "text",
+    "value": "getting-the-body-from-a-raw-message_key8"
+  }
+]

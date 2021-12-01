@@ -1,0 +1,19 @@
+{
+	"working-with-the-image-data-type_key1": "Working with the Image Data Type",
+	"working-with-the-image-data-type_key2": "An Image object has several useful attributes that give you basic information about the image <span style=\"\">file</span> it was loaded from: its width and height, the <span style=\"\">file</span>name, and the graphics format (such as JPEG, GIF, or PNG).",
+	"working-with-the-image-data-type_key3": "For example, enter the following into the interactive <span style=\"\">shell</span>:",
+	"working-with-the-image-data-type_key4": "❶ (816, 1088)",
+	"working-with-the-image-data-type_key5": "816",
+	"working-with-the-image-data-type_key6": "1088",
+	"working-with-the-image-data-type_key7": "'zophie.png'",
+	"working-with-the-image-data-type_key8": "'PNG'",
+	"working-with-the-image-data-type_key9": "'Por<span style=\"\">tab</span>le network graphics'",
+	"working-with-the-image-data-type_key10": "After making an Image object from Zophie.png and storing the Image object in catIm, we can see that the object’s size attribute contains a tuple of the image’s width and height in pixels ❶. We can assign the values in the tuple to width and height <span style=\"\">variables</span> ❷ in order to access with width ❸ and height ❹ individually. The <span style=\"\">file</span>name attribute describes the original <span style=\"\">file</span>’s name. The format and format<i>description attributes are <span style=\"\">strings</span> that describe the image format of the original <span style=\"\">file</span> (with format</i>description being a bit more verbose).",
+	"working-with-the-image-data-type_key11": "Finally, calling the <span style=\"\">save</span>() method and passing it 'zophie.jpg' <span style=\"\">saves</span> a new image with the <span style=\"\">file</span>name zophie.jpg to your hard drive ❺. Pillow sees that the <span style=\"\">file</span> extension is .jpg and automatically <span style=\"\">saves</span> the image using the JPEG image format. Now you should have two images, zophie.png and zophie.jpg, on your hard drive. While these <span style=\"\">files</span> are based on the same image, they are not identical because of their different formats.",
+	"working-with-the-image-data-type_key12": "Pillow also provides the Image.new() function, which returns an Image object—much like Image.open(), except the image represented by Image.new()’s object will be blank. The arguments to Image.new() are as follows:",
+	"working-with-the-image-data-type_key13": "The <span style=\"\">string</span> 'RGBA', which sets the color mode to RGBA. (There are other modes that this book doesn’t go into.)",
+	"working-with-the-image-data-type_key14": "The size, as a two-<span style=\"\">integer</span> tuple of the new image’s width and height.",
+	"working-with-the-image-data-type_key15": "The background color that the image should start with, as a four-<span style=\"\">integer</span> tuple of an RGBA value. You can use the return value of the ImageColor.getcolor() function for this argument. Alternatively, Image.new() also supports just passing the <span style=\"\">string</span> of the standard color name.",
+	"working-with-the-image-data-type_key16": "For example, enter the following into the interactive <span style=\"\">shell</span>:",
+	"working-with-the-image-data-type_key17": "Here we create an Image object for an image that’s 100 pixels wide and 200 pixels tall, with a purple background ❶. This image is then <span style=\"\">save</span>d to the <span style=\"\">file</span> purpleImage.png. We call Image.new() again to create another Image object, this time passing (20, 20) for the dimensions and nothing for the background color ❷. Invisible black, (0, 0, 0, 0), is the default color used if no color argument is specified, so the second image has a transparent background; we <span style=\"\">save</span> this 20×20 transparent square in transparentImage.png."
+}

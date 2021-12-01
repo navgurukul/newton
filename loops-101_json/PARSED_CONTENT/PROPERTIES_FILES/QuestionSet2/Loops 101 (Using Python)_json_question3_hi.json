@@ -1,0 +1,6 @@
+{
+    "question3_key1": "प्रश्न 3",
+    "question3_key2": "एक <span style=\"\">loop</span> बनाएं कि <span style=\"\">inputs</span> 10 संख्याएं। <span style=\"\">input</span> लेने के बाद = उन सभी नंबरों का योग प्रिंट करता है।",
+    "question3_key3": "यह कार्यक्रम ऐसे चलेगा। <span style=\"\">���input</span> रूप में लेने के लिए हर बार <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input()</span> का उपयोग करें।",
+    "question3_key4": "अंतिम पंक्ति में, <b>Total Sum: 417</b> प्रिंट किया जाएगा। इसे प्रिंट किया जाएगा क्योंकि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum of **10+16+9+10+56+78+98+43+21+76**</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">417�</span> ।"
+}

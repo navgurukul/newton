@@ -60,7 +60,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Kya Back-end ke bina website chal sakti hai ?<br><br><br>",
+		"value": "Kya Back-end ke bina website chal sakti hai ?",
 		"decoration": {
 			"type": "number",
 			"value": 3

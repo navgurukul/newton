@@ -1,0 +1,15 @@
+{
+	"introduction_key1": "EdgeCases",
+	"introduction_key2": "EdgeCases kya hota hai",
+	"introduction_key3": "Agar aapka program sahi chal raha hai most of the <span style=\"\">inputs</span> ke liye, but kisi ek ya do <span style=\"\">input</span> ke liye sahi nahi chal raha, to us <span style=\"\">input</span> ko edgecase kehte hai.",
+	"introduction_key4": "Humara objective hai ki hum edgecases ke liye bhi humara program sahi <span style=\"\">input</span> de",
+	"introduction_key5": "Example: Division of 2 numbers.",
+	"introduction_key6": "agar hum ye program chalate hai, and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> mai <span style=\"\">input</span> 6 dete hai and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span> mai <span style=\"\">input</span> 2 dete hai, to kya print hoga",
+	"introduction_key7": "Finding edgecases",
+	"introduction_key8": "ab hume is program mai aisa <span style=\"\">input</span> dhundna hai, jispe ye program sahi <span style=\"\">output</span> nahi dega ya fir <span style=\"\">error</span> de dega<br>agar hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> mai kuch bhi <span style=\"\">input</span> de dete hai but <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span> mai 0 <span style=\"\">input</span> dete hai, to kya hoga?",
+	"introduction_key9": "Agar aap is program ko run karenge apne laptop mai to aapko <span style=\"\">error</span> dikega, ye <span style=\"\">error</span> kyuun aaya?",
+	"introduction_key10": "Finding reason of edgecases",
+	"introduction_key11": "ab hume ye dekhna hai ki ye edgecase kyyun aaya.<br>well agar hum kisi bhi number ko zero se divide nahi kar sakte and aisa karne pe <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ZeroDivisionError</span> exception aata hai",
+	"introduction_key12": "Handling edgecases",
+	"introduction_key13": "ab hum is program mai edge case kaise handle kar sakte hai, hum agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span> 0 hai to bol sakte hai ki division of any number by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0</span> possible nahi hai"
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "ethics_key1"
+  },
+  {
+    "component": "text",
+    "value": "ethics_key2"
+  },
+  {
+    "component": "text",
+    "value": "ethics_key3"
+  }
+]

@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Reading JSON with the loads() Function"
+	},
+	{
+		"component": "text",
+		"value": "To translate a <span style=\"\">string</span> containing JSON data into a <span style=\"\">Python</span> value, pass it to the json.loads() function. (The name means “load <span style=\"\">string</span>,” not “loads.”) Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> stringOfJsonData = '{\"name\": \"Zophie\", \"isCat\": true, \"miceCaught\": 0,\"felineIQ\": null}'<br>python<br>>>> import json<br>>>> jsonDataAsPythonValue = json.loads(stringOfJsonData)<br>>>> jsonDataAsPythonValue"
+	},
+	{
+		"component": "text",
+		"value": "{'isCat': <span style=\"\">True</span>, 'miceCaught': 0, 'name': 'Zophie', 'felineIQ': None}<br>After you import the json module, you can call loads() and pass it a <span style=\"\">string</span> of JSON data. Note that JSON <span style=\"\">strings</span> always use double quotes. It will return that data as a <span style=\"\">Python</span> dictionary. <span style=\"\">Python</span> dictionaries are not ordered, so the <span style=\"\">key</span>-value pairs may appear in a different order when you print jsonDataAs<span style=\"\">Python</span>Value."
+	},
+	{
+		"component": "text",
+		"value": "Writing JSON with the dumps() Function<br>The json.dumps() function (which means “dump <span style=\"\">string</span>,” not “dumps”) will translate a <span style=\"\">Python</span> value into a <span style=\"\">string</span> of JSON-formatted data. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> pythonValue = {'isCat': True, 'miceCaught': 0, 'name': 'Zophie',<br>'felineIQ': None}<br>>>> import json<br>>>> stringOfJsonData = json.dumps(pythonValue)<br>>>> stringOfJsonData<br>'{\"isCat\": true, \"felineIQ\": null, \"miceCaught\": 0, \"name\": \"Zophie\" }'"
+	},
+	{
+		"component": "text",
+		"value": "The value can only be one of the following basic <span style=\"\">Python</span> data types: dictionary, list, <span style=\"\">integer</span>, <span style=\"\">float</span>, <span style=\"\">string</span>, Boolean, or None."
+	}
+]

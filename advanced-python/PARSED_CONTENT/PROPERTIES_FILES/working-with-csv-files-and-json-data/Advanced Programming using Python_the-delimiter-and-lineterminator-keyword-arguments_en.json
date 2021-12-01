@@ -1,0 +1,11 @@
+{
+	"the-delimiter-and-lineterminator-keyword-arguments_key1": "The delimiter and lineterminator `Key`word Arguments\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key2": "Say you want to separate cells with a `tab` character instead of a comma and you want the rows to be double-spaced. You could enter something like the following into the interactive `shell`:\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key3": "   24\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key4": "   32\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key5": "This changes the delimiter and line terminator characters in your `file`. The delimiter is the character that appears between cells on a row. By default, the delimiter for a CSV `file` is a comma. The line terminator is the character that comes at the end of a row. By default, the line terminator is a newline. You can change characters to different values by using the delimiter and lineterminator `key`word arguments with csv.writer().\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key6": "Passing delimeter='\\t' and lineterminator='\\n\\n' ❶ changes the character between cells to a `tab` and the character between rows to two newlines. We then call writerow() three times to give us three rows.\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key7": "This produces a `file` named example.tsv with the following contents:\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key8": "apples  oranges grapes\n",
+	"the-delimiter-and-lineterminator-keyword-arguments_key9": "eggs    bacon   ham\nspam    spam    spam    spam    spam    spam\nNow that our cells are separated by `tabs`, we’re using the `file` extension .tsv, for `tab`-separated values.\n"
+}

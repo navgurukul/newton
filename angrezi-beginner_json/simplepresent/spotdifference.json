@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Spot the Difference"
+	},
+	{
+		"component": "text",
+		"value": "Do students ek time par activity karne saamne aaenge.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Moderator dono ko same time par do similar images dikhaenge. ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Dono students ko un pictures ke beech me jo differences hain vo dhundne hain aur class ko batane hain. Jisne zyada differences batae, usse is game ko khelne ka ek aur chance milega. Ek person ko maximum 2 chances mil sakte hain.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "reading-and-writing-files_key1"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key2"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "reading-and-writing-files_key3"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key4"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key5"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key6"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key7"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "reading-and-writing-files_key8"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key9"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import os<br>>>> os.path.join('usr', 'bin', 'spam')<br>'usr\\\\bin\\\\spam'"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key11"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> myFiles = ['accounts.txt', 'details.csv', 'invite.docx']<br>>>> for filename in myFiles:<br>        print(os.path.join('C:\\\\Users\\\\asweigart', filename))"
+  },
+  {
+    "component": "text",
+    "value": "reading-and-writing-files_key13"
+  }
+]

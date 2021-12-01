@@ -1,0 +1,34 @@
+[
+	{
+		"component": "text",
+		"value": "Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> ka use kar ke do values ka <span style=\"\">input</span> lo:"
+	},
+	{
+		"component": "text",
+		"value": "Number of students",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ek student ka kharcha",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Iss ke hisaab se total kharcha nikalein. Agar total kharcha 50000 (50 hazar) ya usse kam hai toh print karein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Hum budget ke andar hain\"</span> nahi toh print karo ki hum budget ke bahar hain."
+	},
+	{
+		"component": "text",
+		"value": "<i>Note: Inn exercises mein aapko <span style=\"\">variables</span> ke naam apne aap soch kar likhne hain</i>"
+	}
+]

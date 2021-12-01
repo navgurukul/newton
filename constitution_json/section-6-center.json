@@ -1,0 +1,19 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Center and Board of Governors"
+	},
+	{
+		"component": "text",
+		"value": "The body above the council will be the Center and will be comprised of NavGurukul team members and alumni. The Center will appoint Governor(s) and Deputy Governor for each campus to deal with the issues."
+	},
+	{
+		"component": "text",
+		"value": "An alumnus of NavGurukul will be appointed as the Deputy Governor."
+	},
+	{
+		"component": "text",
+		"value": "The third member of Board of Governors will be an Independent Governor i.e. someone who is not very directly involved in NavGurukul."
+	}
+]

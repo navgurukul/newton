@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "General Secretary"
+	},
+	{
+		"component": "text",
+		"value": "Apni responsibilities ke alawa, General Secretory (GenSec) ka roles council ki smooth functioning ko ensure karna hai."
+	},
+	{
+		"component": "text",
+		"value": "Responsibilities:"
+	},
+	{
+		"component": "text",
+		"value": "Campus affairs ke bare me Board of Governors ke sath <b>communicate</b> karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Council ke sabhi members ki functioning ko dekhna aur conflicts ko resolve karna (aise sabhi conflicts channels par <b>documented</b> hone chahiye)",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul premises me <b>constitution</b> ki respect banaye rakhna",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Monthly GBMs</b> organize karna aur host karna",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

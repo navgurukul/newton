@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "simple-series_key1"
+  },
+  {
+    "component": "text",
+    "value": "simple-series_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "simple-series_key3"
+  },
+  {
+    "component": "text",
+    "value": "simple-series_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "simple-series_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "simple-series_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def pattern(number):<br>    if number == 1:<br>        return 1<br>    else:<br>        return pattern(number-1) + 3"
+  }
+]

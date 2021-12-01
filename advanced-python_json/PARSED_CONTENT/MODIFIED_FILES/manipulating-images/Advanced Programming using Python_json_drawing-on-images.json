@@ -1,0 +1,107 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "drawing-on-images_key1"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> from PIL import Image, ImageDraw<br>>>> im = Image.new('RGBA', (200, 200), 'white')<br>>>> draw = ImageDraw.Draw(im)"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "drawing-on-images_key4"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "drawing-on-images_key6"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key7"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "drawing-on-images_key8"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key9"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "drawing-on-images_key10"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key11"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "drawing-on-images_key12"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key13"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "drawing-on-images_key14"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key15"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> from PIL import Image, ImageDraw<br>   >>> im = Image.new('RGBA', (200, 200), 'white')<br>   >>> draw = ImageDraw.Draw(im)<br>❶ >>> draw.line([(0, 0), (199, 0), (199, 199), (0, 199), (0, 0)], fill='black')<br>❷ >>> draw.rectangle((20, 30, 60, 60), fill='blue')<br>❸ >>> draw.ellipse((120, 30, 160, 60), fill='red')<br>❹ >>> draw.polygon(((57, 87), (79, 62), (94, 85), (120, 90), (103, 113)), fill='brown')<br>❺ >>> for i in range(100, 200, 10):"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> im.save('drawing.png')"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key18"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key19"
+  },
+  {
+    "component": "text",
+    "value": "drawing-on-images_key20"
+  }
+]

@@ -1,0 +1,24 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Project"
+	},
+	{
+		"component": "text",
+		"value": "For practice, write a program that does the following."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Debugging Coin Toss"
+	},
+	{
+		"component": "text",
+		"value": "The following program is meant to be a simple coin toss guessing game. The player gets two guesses (it’s an easy game). However, the program has several bugs in it. Run through the program a few times to find the bugs that keep the program from working correctly."
+	},
+	{
+		"component": "text",
+		"value": "import random<br>guess = ''<br>while guess not in ('heads', 'tails'):<br>    print('Guess the coin toss! Enter heads or tails:')<br>    guess = <span style=\"\">input</span>()<br>toss = random.randint(0, 1) # 0 is tails, 1 is heads<br>if toss == guess:<br>    print('You got it!')<br>else:<br>    print('Nope! Guess again!')<br>    guesss = <span style=\"\">input</span>()<br>    if toss == guess:<br>       print('You got it!')<br>    else:<br>        print('Nope. You are really bad at this game.')"
+	}
+]

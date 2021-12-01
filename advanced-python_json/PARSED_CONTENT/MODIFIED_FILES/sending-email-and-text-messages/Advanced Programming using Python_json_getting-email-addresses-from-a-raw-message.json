@@ -1,0 +1,83 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "getting-email-addresses-from-a-raw-message_key1"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key2"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import pyzmail<br>>>> message = pyzmail.PyzMessage.factory(rawMessages[40041]['BODY[]'])"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.get_subject()"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.get_addresses('from')"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.get_addresses('to')"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key7"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key8"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.get_addresses('cc')"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> message.get_addresses('bcc')"
+  },
+  {
+    "component": "text",
+    "value": "getting-email-addresses-from-a-raw-message_key11"
+  }
+]

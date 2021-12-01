@@ -1,0 +1,110 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "getting-sheets-from-the-workbook_key1"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> wb.get_sheet_names()"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> sheet = wb.get_sheet_by_name('Sheet3')<br>>>> sheet"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key4"
+  },
+  {
+    "component": "blockquote",
+    "value": "getting-sheets-from-the-workbook_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> anotherSheet = wb.active<br>>>> anotherSheet"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key6"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "getting-sheets-from-the-workbook_key7"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> sheet = wb.get_sheet_by_name('Sheet1')<br>>>> sheet['A1']"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key9"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key10"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> sheet.cell(row=1, column=2)"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key12"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key13"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> sheet = wb.get_sheet_by_name('Sheet1')<br>>>> sheet.max_row"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> sheet.max_column"
+  },
+  {
+    "component": "text",
+    "value": "getting-sheets-from-the-workbook_key16"
+  }
+]

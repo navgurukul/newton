@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Dream Job"
+	},
+	{
+		"component": "text",
+		"value": "What would be your dream job be like?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Where would it be?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Describe about what be your role, what people you would want to work with, and any other things that you imagine about your dream job.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "youtube",
+		"value": "fcKniJHVQ3w"
+	},
+	{
+		"component": "youtube",
+		"value": "L7GXRiKejZU"
+	},
+	{
+		"component": "youtube",
+		"value": "nCDxYGMzeRw"
+	}
+]

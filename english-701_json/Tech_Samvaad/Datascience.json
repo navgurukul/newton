@@ -53,7 +53,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Unstructured Data<br><br>",
+		"value": "Unstructured Data",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -97,7 +97,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Yeh sochiye ki Election Campaign me Data Science ka use kar sakte hai? Agar kar sakte hai toh kaise?<br><br><br>",
+		"value": "Yeh sochiye ki Election Campaign me Data Science ka use kar sakte hai? Agar kar sakte hai toh kaise?",
 		"decoration": {
 			"type": "number",
 			"value": 2

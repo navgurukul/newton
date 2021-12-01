@@ -1,0 +1,11 @@
+{
+	"Project9_key1": "see this example <a href=\"https://codepen.io/rajeev-artha/full/pVdNNK/\">click here</a>",
+	"Project9_key2": "In this project you need to make a musical instrument piano, when you will press different <span style=\"\">keys</span> it will give different sounds like \"Sa\" \"Re\" \"Ga\" \"Ma\" \"Pa\" \"Dha\" \"Ni\" \"Sa\". ",
+	"Project9_key3": "On google find the sounds of Sa\" \"Re\" \"Ga\" \"Ma\" \"Pa\" \"Dha\" \"Ni\" \"Sa\". those may be notes of \"saregamapa\" or differnet it is ok like drum sounds.",
+	"Project9_key4": "For your idea start making the front end look by using html, this is your musical instrument, it should have some buttons, by using tags we can give different sound to each button.",
+	"Project9_key5": "You have to learn about keypress in javascript. it has predefined properties and funstions understand them first and use them.",
+	"Project9_key6": "for keypress\n<a href=\"https://developer.mozilla.org/en-US/docs/Web/Events/keypress\">click here</a>",
+	"Project9_key7": "in keypress event we will store a key on which value is stored. you can use switch case for finding which key is pressed on keyboard and play corresponding sound on code.",
+	"Project9_key8": "with giving sound , you can use some css effects to visible teh button big when we pressed that key",
+	"Project9_key9": "Homework - what are the drawbacks are there in your <span style=\"\">code</span>, please fullfill them by js Concepts."
+}

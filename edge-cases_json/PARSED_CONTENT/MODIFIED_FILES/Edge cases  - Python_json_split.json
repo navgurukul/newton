@@ -1,0 +1,60 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "split_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "split_key2"
+  },
+  {
+    "component": "text",
+    "value": "split_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def split(s, delim):<br>    a = []<br>    i = 0<br>    temp_s = ''<br>    while(i<len(s)):<br>        if s[i] != delim:<br>            temp_s += s[i]<br>        else:<br>            a.append(temp_s)<br>            temp_s = ''<br>        i += 1<br>    return a"
+  },
+  {
+    "component": "text",
+    "value": "split_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "split(\"Hello this is NG\", \" \")"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "split_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "split_key6"
+  },
+  {
+    "component": "text",
+    "value": "split_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "split_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "split_key9"
+  }
+]

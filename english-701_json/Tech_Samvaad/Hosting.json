@@ -69,7 +69,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Dedicated Server hosting<br><br>",
+		"value": "Dedicated Server hosting",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -165,7 +165,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar aap apne website ko hosting nahi karenge to kya hoga?<br><br><br>",
+		"value": "Agar aap apne website ko hosting nahi karenge to kya hoga?",
 		"decoration": {
 			"type": "number",
 			"value": 5

@@ -1,0 +1,273 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Creating a BeautifulSoup Object from HTML"
+	},
+	{
+		"component": "text",
+		"value": "The bs4.BeautifulSoup() function needs to be called with a <span style=\"\">string</span> containing the HTML it will parse. The bs4.BeautifulSoup() function returns is a BeautifulSoup object. Enter the following into the interactive <span style=\"\">shell</span> while your computer is connected to the Internet:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import requests, bs4<br>>>> res = requests.get('http://nostarch.com')<br>>>> res.raise_for_status()<br>>>> noStarchSoup = bs4.BeautifulSoup(res.text)<br>>>> type(noStarchSoup)"
+	},
+	{
+		"component": "text",
+		"value": "<class 'bs4.BeautifulSoup'><br>This <span style=\"\">code</span> uses requests.get() to download the main page from the No Starch Press website and then passes the text attribute of the response to bs4.BeautifulSoup(). The BeautifulSoup object that it returns is stored in a <span style=\"\">variable</span> named noStarchSoup."
+	},
+	{
+		"component": "text",
+		"value": "You can also load an HTML <span style=\"\">file</span> from your hard drive by passing a <span style=\"\">File</span> object to bs4.BeautifulSoup(). Enter the following into the interactive <span style=\"\">shell</span> (make sure the example.html <span style=\"\">file</span> is in the working directory):"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> exampleFile = open('example.html')<br>>>> exampleSoup = bs4.BeautifulSoup(exampleFile)<br>>>> type(exampleSoup)"
+	},
+	{
+		"component": "text",
+		"value": "<class 'bs4.BeautifulSoup'><br>Once you have a BeautifulSoup object, you can use its methods to locate specific parts of an HTML document."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Finding an Element with the select() Method"
+	},
+	{
+		"component": "text",
+		"value": "You can retrieve a web page element from a BeautifulSoup object by calling the select()method and passing a <span style=\"\">string</span> of a CSS selector for the element you are looking for. Selectors are like regular expressions: They specify a pattern to look for, in this case, in HTML pages instead of general text <span style=\"\">strings</span>."
+	},
+	{
+		"component": "text",
+		"value": "A full discussion of CSS selector <span style=\"\">syntax</span> is beyond the scope of this book (there’s a good selector tutorial in the resources at <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span>), but here’s a short introduction to selectors. <span style=\"\">Tab</span>le 11-2 shows examples of the most common CSS selector patterns."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Tab</span>le 11-2. Examples of CSS Selectors"
+	},
+	{
+		"component": "text",
+		"value": "Selector passed to the select() method"
+	},
+	{
+		"component": "text",
+		"value": "Will match…"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('div')                            All elements named <div>"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('#author')                        The element with an id attribute of author"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('.notice')                        All elements that use a CSS class attribute named notice"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('div span')                        All elements named <span> that are within an element named <div>"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('div &gt; span')                    All elements named <span> that are directly within an element named <div>, with no other element in between"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('<span style=\"\">input</span>[name]')                    All elements named <<span style=\"\">input</span>> that have a name attribute with any value"
+	},
+	{
+		"component": "text",
+		"value": "soup.select('<span style=\"\">input</span>[type=\"button\"]')            All elements named <<span style=\"\">input</span>> that have an attribute named type with value button"
+	},
+	{
+		"component": "text",
+		"value": "The various selector patterns can be combined to make sophisticated matches. For example, soup.select('p #author') will match any element that has an id attribute of author, as long as it is also inside a  element."
+	},
+	{
+		"component": "text",
+		"value": "The select() method will return a list of Tag objects, which is how Beautiful Soup represents an HTML element. The list will contain one Tag object for every match in the BeautifulSoup object’s HTML. Tag values can be passed to the str() function to show the HTML tags they represent. Tag values also have an attrs attribute that shows all the HTML attributes of the tag as a dictionary. Using the example.html <span style=\"\">file</span> from earlier, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import bs4<br>>>> exampleFile = open('example.html')<br>>>> exampleSoup = bs4.BeautifulSoup(exampleFile.read())<br>>>> elems = exampleSoup.select('#author')<br>>>> type(elems)"
+	},
+	{
+		"component": "text",
+		"value": "<class 'list'>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> len(elems)"
+	},
+	{
+		"component": "text",
+		"value": "1"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> type(elems[0])"
+	},
+	{
+		"component": "text",
+		"value": "<class 'bs4.element.Tag'>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": ">>> elems[0].getText()"
+	},
+	{
+		"component": "text",
+		"value": "'Al Sweigart'"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": ">>> str(elems[0])"
+	},
+	{
+		"component": "text",
+		"value": "'<span id=\"author\">Al Sweigart</span>'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> elems[0].attrs"
+	},
+	{
+		"component": "text",
+		"value": "{'id': 'author'}<br>This <span style=\"\">code</span> will pull the element with id=\"author\" out of our example HTML. We use select('#author') to return a list of all the elements with id=\"author\". We store this list of Tag objects in the <span style=\"\">variable</span> elems, and len(elems) tells us there is one Tag object in the list; there was one match. Calling getText() on the element returns the element’s text, or inner HTML. The text of an element is the content between the opening and closing tags: in this case, 'Al Sweigart'."
+	},
+	{
+		"component": "text",
+		"value": "Passing the element to str() returns a <span style=\"\">string</span> with the starting and closing tags and the element’s text. Finally, attrs gives us a dictionary with the element’s attribute, 'id', and the value of the id attribute, 'author'."
+	},
+	{
+		"component": "text",
+		"value": "You can also pull all the  elements from the BeautifulSoup object. Enter this into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> pElems = exampleSoup.select('p')<br>>>> str(pElems[0])"
+	},
+	{
+		"component": "text",
+		"value": "'Download my <b><span style=\"\">Python</span></b> book from <a href=\"http://<br>inventwith<span style=\"\">python</span>.com\">my website</a>.'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> pElems[0].getText()"
+	},
+	{
+		"component": "text",
+		"value": "'Download my <span style=\"\">Python</span> book from my website.'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> str(pElems[1])"
+	},
+	{
+		"component": "text",
+		"value": "'<p class=\"slogan\">Learn <span style=\"\">Python</span> the easy way!'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> pElems[1].getText()"
+	},
+	{
+		"component": "text",
+		"value": "'Learn <span style=\"\">Python</span> the easy way!'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> str(pElems[2])"
+	},
+	{
+		"component": "text",
+		"value": "'By <span id=\"author\">Al Sweigart</span>'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> pElems[2].getText()"
+	},
+	{
+		"component": "text",
+		"value": "'By Al Sweigart'<br>This time, select() gives us a list of three matches, which we store in pElems. Using str() on pElems[0], pElems[1], and pElems[2] shows you each element as a <span style=\"\">string</span>, and using getText() on each element shows you its text."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Getting Data from an Element’s Attributes"
+	},
+	{
+		"component": "text",
+		"value": "The get() method for Tag objects makes it simple to access attribute values from an element. The method is passed a <span style=\"\">string</span> of an attribute name and returns that attribute’s value. Using example.html, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import bs4<br>>>> soup = bs4.BeautifulSoup(open('example.html'))<br>>>> spanElem = soup.select('span')[0]<br>>>> str(spanElem)"
+	},
+	{
+		"component": "text",
+		"value": "'<span id=\"author\">Al Sweigart</span>'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spanElem.get('id')"
+	},
+	{
+		"component": "text",
+		"value": "'author'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spanElem.get('some_nonexistent_addr') == None"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">True</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spanElem.attrs"
+	},
+	{
+		"component": "text",
+		"value": "{'id': 'author'}<br>Here we use select() to find any <span> elements and then store the first matched element in spanElem. Passing the attribute name 'id' to get() returns the attribute’s value, 'author'."
+	}
+]

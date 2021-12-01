@@ -67,7 +67,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Pata lagane ki koshish kijiye ki binary number system kese kam karta hai?<br><br><br>",
+		"value": "Pata lagane ki koshish kijiye ki binary number system kese kam karta hai?",
 		"decoration": {
 			"type": "number",
 			"value": 5

@@ -69,7 +69,7 @@
 	},
 	{
 		"component": "text",
-		"value": "DNS kya hota hai?<br><br><br>",
+		"value": "DNS kya hota hai?",
 		"decoration": {
 			"type": "number",
 			"value": 2

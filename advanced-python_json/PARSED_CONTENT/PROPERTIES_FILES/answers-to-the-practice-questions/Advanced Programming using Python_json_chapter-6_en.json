@@ -1,0 +1,22 @@
+{
+	"chapter-6_key1": "Chapter 6",
+	"chapter-6_key2": "Escape characters represent characters in <span style=\"\">string</span> values that would otherwise be difficult or impossible to type into <span style=\"\">code</span>.",
+	"chapter-6_key3": "\\n is a newline; \\t is a <span style=\"\">tab</span>.",
+	"chapter-6_key4": "The \\ escape character will represent a backslash character.",
+	"chapter-6_key5": "The single quote in Howl's is fine because you’ve used double quotes to mark the beginning and end of the <span style=\"\">string</span>.",
+	"chapter-6_key6": "Multiline <span style=\"\">strings</span> allow you to use newlines in <span style=\"\">strings</span> without the \\n escape character.",
+	"chapter-6_key7": "The expressions evaluate to the following:",
+	"chapter-6_key8": "'e'",
+	"chapter-6_key9": "'Hello'",
+	"chapter-6_key10": "'Hello'",
+	"chapter-6_key11": "'lo world!",
+	"chapter-6_key12": "The expressions evaluate to the following:",
+	"chapter-6_key13": "'HELLO'",
+	"chapter-6_key14": "<span style=\"\">True</span>",
+	"chapter-6_key15": "'hello'",
+	"chapter-6_key16": "The expressions evaluate to the following:",
+	"chapter-6_key17": "['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']",
+	"chapter-6_key18": "'There-can-be-only-one.'",
+	"chapter-6_key19": "The rjust(), ljust(), and center() <span style=\"\">string</span> methods, respectively",
+	"chapter-6_key20": "The lstrip() and rstrip() methods remove whitespace from the left and right ends of a <span style=\"\">string</span>, respectively."
+}

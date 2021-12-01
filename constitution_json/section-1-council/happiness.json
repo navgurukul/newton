@@ -1,0 +1,32 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Prosperity Officer"
+	},
+	{
+		"component": "text",
+		"value": "Responsibilities"
+	},
+	{
+		"component": "text",
+		"value": "Offering a space on campus where students can share their feelings and/or seek help regarding mental health",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Organising activities/events for students that would promote the well-being of their mental health",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Managing the counseling services for students",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

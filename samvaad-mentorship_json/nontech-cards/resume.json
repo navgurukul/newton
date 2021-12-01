@@ -1,0 +1,55 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Resume Writing"
+	},
+	{
+		"component": "text",
+		"value": "Resume Format",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Formating in a logical structure",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Visual Appeal",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Organisation",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Customizing according to job",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Content on the resume",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "converting-between-column-letters-and-numbers_key1"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> from openpyxl.cell import get_column_letter, column_index_from_string<br>>>> get_column_letter(1)"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> get_column_letter(2)"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> get_column_letter(27)"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> get_column_letter(900)"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> sheet = wb.get_sheet_by_name('Sheet1')<br>>>> get_column_letter(sheet.max_column)"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> column_index_from_string('A')"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> column_index_from_string('AA')"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key9"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "converting-between-column-letters-and-numbers_key10"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>   >>> wb = openpyxl.load_workbook('example.xlsx')<br>   >>> sheet = wb.get_sheet_by_name('Sheet1')<br>   >>> tuple(sheet['A1':'C3'])"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> for rowOfCellObjects in sheet['A1':'C3']:<br>❷         for cellObj in rowOfCellObjects:<br>               print(cellObj.coordinate, cellObj.value)<br>           print('--- END OF ROW ---')"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key13"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key14"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key15"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('example.xlsx')<br>>>> sheet = wb.active<br>>>> sheet.columns[1]"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> for cellObj in sheet.columns[1]:<br>        print(cellObj.value)"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key18"
+  },
+  {
+    "component": "text",
+    "value": "converting-between-column-letters-and-numbers_key19"
+  }
+]

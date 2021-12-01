@@ -1,0 +1,17 @@
+[
+  {
+    "component": "text",
+    "value": "objects-intro_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "objects-intro_key2"
+  },
+  {
+    "component": "text",
+    "value": "objects-intro_key3"
+  }
+]

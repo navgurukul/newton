@@ -1,0 +1,307 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project: Combining Select Pages from Many PDFs"
+	},
+	{
+		"component": "text",
+		"value": "Say you have the boring job of merging several dozen PDF documents into a single PDF <span style=\"\">file</span>. Each of them has a cover sheet as the first page, but you don’t want the cover sheet repeated in the final result. Even though there are lots of free programs for combining PDFs, many of them simply merge entire <span style=\"\">files</span> together. Let’s write a <span style=\"\">Python</span> program to customize which pages you want in the combined PDF."
+	},
+	{
+		"component": "text",
+		"value": "At a high level, here’s what the program will do:"
+	},
+	{
+		"component": "text",
+		"value": "Find all PDF <span style=\"\">files</span> in the current working directory."
+	},
+	{
+		"component": "text",
+		"value": "Sort the <span style=\"\">file</span>names so the PDFs are added in order."
+	},
+	{
+		"component": "text",
+		"value": "Write each page, excluding the first page, of each PDF to the <span style=\"\">output</span> <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "In terms of implementation, your <span style=\"\">code</span> will need to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Call os.listdir() to find all the <span style=\"\">files</span> in the working directory and remove any non-PDF <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "Call <span style=\"\">Python</span>’s sort() list method to alphabetize the <span style=\"\">file</span>names."
+	},
+	{
+		"component": "text",
+		"value": "Create a Pdf<span style=\"\">File</span>Writer object for the <span style=\"\">output</span> PDF."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Loop</span> over each PDF <span style=\"\">file</span>, creating a Pdf<span style=\"\">File</span>Reader object for it."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Loop</span> over each page (except the first) in each PDF <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "Add the pages to the <span style=\"\">output</span> PDF."
+	},
+	{
+		"component": "text",
+		"value": "Write the <span style=\"\">output</span> PDF to a <span style=\"\">file</span> named allminutes.pdf."
+	},
+	{
+		"component": "text",
+		"value": "For this project, open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and <span style=\"\">save</span> it as combinePdfs.py."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 1: Find All PDF <span style=\"\">Files</span>"
+	},
+	{
+		"component": "text",
+		"value": "First, your program needs to get a list of all <span style=\"\">files</span> with the .pdf extension in the current working directory and sort them. Make your <span style=\"\">code</span> look like the following:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "combinePdfs.py - Combines all the PDFs in the current working directory into"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "into a single PDF."
+	},
+	{
+		"component": "text",
+		"value": "❶ import PyPDF2, os"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Get all the PDF <span style=\"\">file</span>names."
+	},
+	{
+		"component": "text",
+		"value": "pdf<span style=\"\">Files</span> = []<br>   for <span style=\"\">file</span>name in os.listdir('.'):<br>       if <span style=\"\">file</span>name.endswith('.pdf'):<br>❷         pdf<span style=\"\">Files</span>.append(<span style=\"\">file</span>name)<br>❸ pdf<span style=\"\">Files</span>.sort(<span style=\"\">key</span>=str.lower)"
+	},
+	{
+		"component": "text",
+		"value": "❹ pdfWriter = PyPDF2.Pdf<span style=\"\">File</span>Writer()"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: <span style=\"\">Loop</span> through all the PDF <span style=\"\">files</span>."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: <span style=\"\">Loop</span> through all the pages (except the first) and add them."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: <span style=\"\">Save</span> the resulting PDF to a <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "After the shebang line and the descriptive comment about what the program does, this <span style=\"\">code</span> imports the os and PyPDF2 modules ❶. The os.listdir('.') call will return a list of every <span style=\"\">file</span> in the current working directory. The <span style=\"\">code</span> <span style=\"\">loops</span> over this list and adds only those <span style=\"\">files</span> with the .pdf extension to pdf<span style=\"\">Files</span> ❷. Afterward, this list is sorted in alphabetical order with the <span style=\"\">key</span>=str.lower <span style=\"\">key</span>word argument to sort() ❸."
+	},
+	{
+		"component": "text",
+		"value": "A Pdf<span style=\"\">File</span>Writer object is created to hold the combined PDF pages ❹. Finally, a few comments outline the rest of the program."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 2: Open Each PDF"
+	},
+	{
+		"component": "text",
+		"value": "Now the program must read each PDF <span style=\"\">file</span> in pdf<span style=\"\">Files</span>. Add the following to your program:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "combinePdfs.py - Combines all the PDFs in the current working directory into"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "a single PDF."
+	},
+	{
+		"component": "text",
+		"value": "import PyPDF2, os"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Get all the PDF <span style=\"\">file</span>names."
+	},
+	{
+		"component": "text",
+		"value": "pdf<span style=\"\">Files</span> = []<br>--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Loop through all the PDF files.<br>for filename in pdfFiles:<br>    pdfFileObj = open(filename, 'rb')<br>    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)"
+	},
+	{
+		"component": "text",
+		"value": "# TODO: Loop through all the pages (except the first) and add them."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: <span style=\"\">Save</span> the resulting PDF to a <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "For each PDF, the <span style=\"\">loop</span> opens a <span style=\"\">file</span>name in read-binary mode by calling open() with 'rb' as the second argument. The open() call returns a <span style=\"\">File</span> object, which gets passed to PyPDF2.Pdf<span style=\"\">File</span>Reader() to create a Pdf<span style=\"\">File</span>Reader object for that PDF <span style=\"\">file</span>."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 3: Add Each Page"
+	},
+	{
+		"component": "text",
+		"value": "For each PDF, you’ll want to <span style=\"\">loop</span> over every page except the first. Add this <span style=\"\">code</span> to your program:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "combinePdfs.py - Combines all the PDFs in the current working directory into"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "a single PDF."
+	},
+	{
+		"component": "text",
+		"value": "import PyPDF2, os"
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "<span style=\"\">Loop</span> through all the PDF <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "for <span style=\"\">file</span>name in pdf<span style=\"\">Files</span>:<br>   --snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Loop through all the pages (except the first) and add them.<br>❶     for pageNum in range(1, pdfReader.numPages):<br>           pageObj = pdfReader.getPage(pageNum)<br>           pdfWriter.addPage(pageObj)"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: <span style=\"\">Save</span> the resulting PDF to a <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">code</span> inside the for <span style=\"\">loop</span> copies each Page object individually to the Pdf<span style=\"\">File</span>Writer object. Remember, you want to skip the first page. Since PyPDF2 considers 0 to be the first page, your <span style=\"\">loop</span> should start at 1 ❶ and then go up to, but not include, the <span style=\"\">integer</span> in pdfReader.numPages."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 4: <span style=\"\">Save</span> the Results"
+	},
+	{
+		"component": "text",
+		"value": "After these nested for <span style=\"\">loops</span> are done <span style=\"\">loop</span>ing, the pdfWriter <span style=\"\">variable</span> will contain a Pdf<span style=\"\">File</span>Writer object with the pages for all the PDFs combined. The last step is to write this content to a <span style=\"\">file</span> on the hard drive. Add this <span style=\"\">code</span> to your program:"
+	},
+	{
+		"component": "text",
+		"value": "<h1 id=\"spanstylepython3span\">! <span style=\"\">python3</span></h1>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "combinePdfs.py - Combines all the PDFs in the current working directory into"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "a single PDF."
+	},
+	{
+		"component": "text",
+		"value": "import PyPDF2, os"
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "<span style=\"\">Loop</span> through all the PDF <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "for <span style=\"\">file</span>name in pdf<span style=\"\">Files</span>:<br>--snip--<br>    # <span style=\"\">Loop</span> through all the pages (except the first) and add them.<br>    for pageNum in range(1, pdfReader.numPages):<br>    --snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#Save the resulting PDF to a file.<br>pdfOutput = open('allminutes.pdf', 'wb')<br>pdfWriter.write(pdfOutput)<br>pdfOutput.close()"
+	},
+	{
+		"component": "text",
+		"value": "Passing 'wb' to open() opens the <span style=\"\">output</span> PDF <span style=\"\">file</span>, allminutes.pdf, in write-binary mode. Then, passing the resulting <span style=\"\">File</span> object to the write() method creates the actual PDF <span style=\"\">file</span>. A call to the close() method finishes the program."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Ideas for Similar Programs"
+	},
+	{
+		"component": "text",
+		"value": "Being able to create PDFs from the pages of other PDFs will let you make programs that can do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Cut out specific pages from PDFs."
+	},
+	{
+		"component": "text",
+		"value": "Reorder pages in a PDF."
+	},
+	{
+		"component": "text",
+		"value": "Create a PDF from only those pages that have some specific text, identified by extractText()."
+	}
+]

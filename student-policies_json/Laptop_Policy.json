@@ -1,0 +1,312 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Student Laptop Policy and Procedure Handbook"
+	},
+	{
+		"component": "text",
+		"value": "<i>The policy is subject to change as and when required by the management & agreements.</i>"
+	},
+	{
+		"component": "text",
+		"value": "This policy is created to define the laptop usage policy for the students which will be rendered by Nav Gurukul during their course period at the residential campus."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Introduction"
+	},
+	{
+		"component": "text",
+		"value": "This document presents the policy adopted by Navgurukul regarding mandatory use of Laptops by all the students of all academic programs. The policy has been formulated given the significant impact of laptops on academic outcomes, and the current usage of laptops by the regular students at Navgurukul. This policy deals with usage and permission for the students, eligibility criteria for the same. This policy has been framed with a futuristic approach keeping in view the fast rate of redundancy of computer hardware and software. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Laptop as learning tools"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">application</span> of enabling technologies has a far-reaching impact on the learning environment of Navgurukul Campus. The por<span style=\"\">tab</span>le electronic devices viz, laptops are being increasingly used by the students as a learning tool in Navgurukul Foundation. Navgurukul is striving for optimum integration of state-of-the-art technologies with the online curriculum and formulation of a policy for mandatory use of laptops by all the students is a step towards the direction. In Navgurukul we provide a personal laptop to each student to have a change experience of learning globally as students can organize and access their learning source at a fast pace. We provide a personal laptop to the students to facilitates 24/7 interactive learning as it enables students and faculty to connect through continuous information exchange. The por<span style=\"\">tab</span>ility of laptop leads to seamless merging of classroom learning with learning outside the classroom and helps students carry out research and gather <span style=\"\">inputs</span> for their course from institutional online resources and open access sources on the internet anywhere anytime "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Policy"
+	},
+	{
+		"component": "text",
+		"value": "In view of the above, the Student Laptop Policy has been framed making the use of laptops mandatory for all the students of regular academic programs at all the campuses. Following are the provisions of the policy: "
+	},
+	{
+		"component": "text",
+		"value": "Students of the regular academic program of Navgurukul Foundation must use a laptop during the whole period of a year during the ongoing academic course on the campus ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Once the student completes the course and gets selected for the job they are supposed to return the laptop to the IT team.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alumni who are in internship period and continuing his/her stay in Navgurukul campus can continue the use of a laptop for enhancing their soft skill in case if they are not provided a laptop/desktop from their respective organization, until the end of the internship period ",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alumni are not allowed to carry laptop out of Navgurukul Campus in any situation ",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The laptop is completely owned by Navgurukul foundation, none of the students are allowed to carry the laptop out of the campus in any scenario ",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "IT Help/Service Desk of Navgurukul will ensure that each student is equipped with the minimum required processing system and software to operate the basic utilities of laptops ",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "IT Help/Service Desk of each campus will organize an orientation program during the first week of joining of the student for the software used by Navgurukul for various academic program ",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "The software installed by the IT Help/Service Desk must remain on the laptop in usable condition and be easily accessible at all times ",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Students are responsible for their laptops at all times. Students should use the laptops responsibly, safely, and respectfully. ",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "General care of the laptop should be taken care of by the student ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Students are supposed to keep their laptop in their possession and within sight whenever possible, just as if it were your wallet, handbag, or mobile phone. Be extra careful in classrooms. It takes just a fraction of a second to cause damage to an unattended laptop. ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Lock the laptop away out of sight when you are not using it, preferably in a strong cupboard, filing cabinet, or safe. This applies in the classroom or in your room. ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "When the laptop is not in use, please store it in a secure location ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Keep a note of the make, model, serial number, and the asset label of your laptop but do not keep this information with the laptop. ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "If a laptop is damaged or malfunctioning, it must be reported immediately so repair can be made. ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Any damage related to a faulty battery, loose connection, ram, or software issue will be repaired by Navgurukul ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Any personal damage or loss to a laptop that occurs due to negligence of a student will be investigated by the Campus Manager and will be chargeable as per the standard market rate if found guilty ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Virus and Threat"
+	},
+	{
+		"component": "text",
+		"value": "Viruses are a major threat to and laptops are particularly vulnerable if their anti-virus software is not kept up-to-date. The anti-virus software MUST be updated at least monthly. The easiest way of doing this is simply to log on to the network for the automatic update process to run. If you cannot log on for some reason, contact the IT Help/Service Desk for advice on obtaining and installing anti-virus updates. ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Email attachments are now the number one source of computer viruses. Avoid opening any email attachment unless you were expecting to receive it from that person.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Always virus-scan any files downloaded to your computer from any source (CD/DVD, USB hard disks and memory sticks, network files, email attachments, or files from the Internet). Virus scans normally happen automatically but the IT Help/Service Desk can tell you how to initiate manual scans if you wish to be certain. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Report any security incidents (such as virus infections) promptly to the IT Help/Service Desk in order to minimize the damage. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Respond immediately to any virus warning message on your computer, or if you suspect a virus (e.g. by unusual file activity) by contacting the IT Help/Service Desk. Do not forward any files or upload data onto the network if you suspect your PC might be infected. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Be especially careful to virus-scan your system before you send any files outside the Navgurukul Foundation. This includes EMAIL attachments and CD-ROMs that you create. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Avoid leaving your laptop unattended and logged on. Always shut down, log off, or activate a password-protected screensaver before walking away from the machine. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Unauthorized software"
+	},
+	{
+		"component": "text",
+		"value": "Do not download, install or use unauthorized software programs. Unauthorized software could introduce serious security vulnerabilities into the networks as well as affecting the working of your laptop. Software packages that permit the computer to be ‘remote controlled’ (e.g. PC anywhere) and ‘hacking tools’ (e.g. network sniffers and password crackers) are explicitly forbidden on equipment unless they have been explicitly pre-authorized by management for legitimate business purposes. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Unlicensed software"
+	},
+	{
+		"component": "text",
+		"value": "Be careful about software licenses. Most software, unless it is specifically identified as “freeware” or “public domain software”, may only be installed and/or used if the appropriate license fee has been paid. Shareware or trial packages must be deleted or licensed by the end of the permitted free trial period. Some software is limited to free use by private individuals whereas commercial use requires a license payment. Individuals and companies are being prosecuted for infringing software copyright: do not risk bringing yourself into disrepute by breaking the law. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Backups"
+	},
+	{
+		"component": "text",
+		"value": "Unlike desktop PCs which are backed up automatically by IT, you must take your own backups of data on your laptop. The simplest way to do this is to log in and upload data from the laptop to the network on a regular basis – ideally daily but weekly at least. If you are unable to access the network, it is your responsibility to inform such issues to IIT Help/Service DeskLaws, regulations, and policies ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "You must comply with relevant laws, regulations, and policies applying to the use of computers and information. Software licensing has already been mentioned and privacy laws are another example. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Inappropriate materials"
+	},
+	{
+		"component": "text",
+		"value": "Navgurukul will not tolerate inappropriate materials such as pornographic, racist, defamatory, or harassing files, pictures, videos, or email messages that might cause offense or embarrassment. Never store, use, copy or circulate such material on the laptop and steer clear of dubious websites. IT staff routinely monitor the network and systems for such materials and track the use of the Internet: they will report serious/repeated offenders and any illegal materials directly to management, and disciplinary processes will be initiated. If you receive inappropriate material by email or other means, delete it immediately. If you accidentally browse to an offensive website, click ‘back’ or close the window straight away. If you routinely receive a lot of spam, call the IT Help/Service Desk to check your spam settings. ",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Enforcement"
+	},
+	{
+		"component": "text",
+		"value": "Any student found to have violated this policy may be subjected to disciplinary action in line with the Policy.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	}
+]

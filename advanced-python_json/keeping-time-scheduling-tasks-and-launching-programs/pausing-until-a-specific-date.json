@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Pausing Until a Specific Date"
+	},
+	{
+		"component": "text",
+		"value": "The time.sleep() method lets you pause a program for a certain number of seconds. By using a while <span style=\"\">loop</span>, you can pause your programs until a specific date. For example, the following <span style=\"\">code</span> will continue to <span style=\"\">loop</span> until Halloween 2016:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "import datetime<br>import time<br>halloween2016 = datetime.datetime(2016, 10, 31, 0, 0, 0)<br>while datetime.datetime.now() < halloween2016:<br>    time.sleep(1)"
+	},
+	{
+		"component": "text",
+		"value": "The time.sleep(1) call will pause your <span style=\"\">Python</span> program so that the computer doesn’t waste CPU processing cycles simply checking the time over and over. Rather, the while <span style=\"\">loop</span> will just check the condition once per second and continue with the rest of the program after Halloween 2016 (or whenever you program it to stop)."
+	}
+]

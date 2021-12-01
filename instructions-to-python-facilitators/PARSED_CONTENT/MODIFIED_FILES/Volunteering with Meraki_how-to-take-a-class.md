@@ -14,7 +14,7 @@ how-to-take-a-class_key2
 * how-to-take-a-class_key19[how-to-take-a-class_key20](https://youtu.be/UN3us4vDHhc)how-to-take-a-class_key21[how-to-take-a-class_key22](https://youtu.be/UN3us4vDHhc)how-to-take-a-class_key23
 * how-to-take-a-class_key24
 how-to-take-a-class_key25
-[how-to-take-a-class_key26](mailto:&#118;&#x6f;&#x6c;&#117;&#110;&#116;&#101;&#101;&#114;&#x40;&#110;&#97;&#118;&#x67;&#x75;&#114;&#117;&#x6b;&#117;&#x6c;&#46;&#111;&#x72;&#x67;)
+[how-to-take-a-class_key26](mailto:&#118;&#x6f;&#x6c;&#117;&#110;&#116;&#x65;&#101;&#114;&#64;&#x6e;&#97;&#x76;&#x67;&#117;&#x72;&#x75;&#x6b;&#x75;&#x6c;&#x2e;&#111;&#114;&#x67;)
 how-to-take-a-class_key27
 
 

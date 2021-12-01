@@ -1,0 +1,29 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "adding-headings_key1"
+  },
+  {
+    "component": "text",
+    "value": "adding-headings_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> doc = docx.Document()<br>>>> doc.add_heading('Header 0', 0)<br><docx.text.Paragraph object at 0x00000000036CB3C8><br>>>> doc.add_heading('Header 1', 1)<br><docx.text.Paragraph object at 0x00000000036CB630><br>>>> doc.add_heading('Header 2', 2)<br><docx.text.Paragraph object at 0x00000000036CB828><br>>>> doc.add_heading('Header 3', 3)<br><docx.text.Paragraph object at 0x00000000036CB2E8><br>>>> doc.add_heading('Header 4', 4)<br><docx.text.Paragraph object at 0x00000000036CB3C8><br>>>> doc.save('headings.docx')"
+  },
+  {
+    "component": "text",
+    "value": "adding-headings_key3"
+  },
+  {
+    "component": "text",
+    "value": "adding-headings_key4"
+  },
+  {
+    "component": "text",
+    "value": "adding-headings_key5"
+  }
+]

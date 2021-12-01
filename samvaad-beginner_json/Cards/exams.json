@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Exams"
+	},
+	{
+		"component": "text",
+		"value": "Do you think exams are a good way to assess learning?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "How was your experience with exams?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What can be better alternatives to exams?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

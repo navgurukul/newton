@@ -1,0 +1,50 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "whatsapp_key1"
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key2"
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "whatsapp_key8"
+  }
+]

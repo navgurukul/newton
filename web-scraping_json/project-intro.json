@@ -1,0 +1,83 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project Introduction"
+	},
+	{
+		"component": "text",
+		"value": "Yahan hun apne project ke baare mein ache se samjhenge ki hum kya bana rahe hain."
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=4xcdR0HT_zE"
+	},
+	{
+		"component": "text",
+		"value": "<b>Created by Vishal Gaddam (vishal18@navgurukul.org)</b>"
+	},
+	{
+		"component": "text",
+		"value": "Upar waali video mein maine ache se explain kia hai ki hum kya <span style=\"\">applications</span> bana rahe hain."
+	},
+	{
+		"component": "text",
+		"value": "Isko aur ache se samajhne ke liye aap <a href=\"https://imdb.com\">IMDB.com</a> pe jaake ek baar uss website ko ache se dekh sakte hain. IMDB se hum <b>Top 250 Indian Movies</b> ki list to scrape karenge. Uske baad hum movies ki details ko analyse karenge. Iss list ko aap <a href=\"https://www.imdb.com/india/top-rated-indian-movies?ref_=nv_mv_250_in\">iss link</a> pe dekh sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "Iss project hum yeh sab tasks karenge:"
+	},
+	{
+		"component": "text",
+		"value": "<b>Top 250 Indian Movies</b> waali list mein se saari movies ki detail apne python ke code mein nikalenge.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Movies ko unki <b>release date ke hisaab se</b> group karenge.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Movies ko <b>decade of release ke hisaab se</b> group karenge. Jaise saari 1960s ki movies ek saath print karenge, 1970s ki alag se etc.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Movies ko unke <b>Directors</b> aur <b>Actors</b> ke hisaab se group karenge.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yeh dekhenge ki kaunse kaunse actors ek dusre ke saath zyada kaam karte hain. Kya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rajesh Khanna</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Amitabh Bachan</span> ki ek saaath zyada movies hain ya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rajesh Khanna</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Dev Anand</span>. ",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aur bhi bahot saari interesting tasks karenge. Aap apne aap bhi bahot saari interesting cheezein soch sakte ho.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Happy Learning !!"
+	}
+]

@@ -1,0 +1,59 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Getting Sublists with Slices"
+	},
+	{
+		"component": "text",
+		"value": "Just as an index can get a single value from a list, a slice can get several values from a list, in the form of a new list. A slice is typed between square brackets, like an index, but it has two <span style=\"\">integers</span> separated by a colon. Notice the difference between indexes and slices."
+	},
+	{
+		"component": "text",
+		"value": "spam[2] is a list with an index (one <span style=\"\">integer</span>)."
+	},
+	{
+		"component": "text",
+		"value": "spam[1:4] is a list with a slice (two <span style=\"\">integers</span>)."
+	},
+	{
+		"component": "text",
+		"value": "In a slice, the first <span style=\"\">integer</span> is the index where the slice starts. The second <span style=\"\">integer</span> is the index where the slice ends. A slice goes up to, but will not include, the value at the second index. A slice evaluates to a new list value. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[0:4]<br>['cat', 'bat', 'rat', 'elephant']<br>>>> spam[1:3]<br>['bat', 'rat']<br>>>> spam[0:-1]<br>['cat', 'bat', 'rat']"
+	},
+	{
+		"component": "text",
+		"value": "As a shortcut, you can leave out one or both of the indexes on either side of the colon in the slice. Leaving out the first index is the same as using 0, or the beginning of the list. Leaving out the second index is the same as using the length of the list, which will slice to the end of the list. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[:2]<br>['cat', 'bat']<br>>>> spam[1:]<br>['bat', 'rat', 'elephant']<br>>>> spam[:]<br>['cat', 'bat', 'rat', 'elephant']"
+	},
+	{
+		"component": "text",
+		"value": "Getting a List’s Length with len()<br>The len() function will return the number of values that are in a list value passed to it, just like it can count the number of characters in a <span style=\"\">string</span> value. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = ['cat', 'dog', 'moose']<br>>>> len(spam)<br>3"
+	},
+	{
+		"component": "text",
+		"value": "Changing Values in a List with Indexes<br>Normally a <span style=\"\">variable</span> name goes on the left side of an assignment <span style=\"\">statement</span>, like spam = 42. However, you can also use an index of a list to change the value at that index. For example, spam[1] = 'aardvark' means “Assign the value at index 1 in the list spam to the <span style=\"\">string</span> 'aardvark'.” Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[1] = 'aardvark'<br>>>> spam<br>['cat', 'aardvark', 'rat', 'elephant']<br>>>> spam[2] = spam[1]<br>>>> spam<br>['cat', 'aardvark', 'aardvark', 'elephant']<br>>>> spam[-1] = 12345<br>>>> spam<br>['cat', 'aardvark', 'aardvark', 12345]"
+	}
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-the-image-data-type_key1"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key2"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> from PIL import Image<br>   >>> catIm = Image.open('zophie.png')<br>   >>> catIm.size"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❷ >>> width, height = catIm.size<br>❸ >>> width"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❹ >>> height"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> catIm.filename"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> catIm.format"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> catIm.format_description"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❺ >>> catIm.save('zophie.jpg')"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key10"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key11"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key12"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key13"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key14"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key15"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> from PIL import Image<br>❶ >>> im = Image.new('RGBA', (100, 200), 'purple')<br>   >>> im.save('purpleImage.png')<br>❷ >>> im2 = Image.new('RGBA', (20, 20))<br>   >>> im2.save('transparentImage.png')"
+  },
+  {
+    "component": "text",
+    "value": "working-with-the-image-data-type_key17"
+  }
+]

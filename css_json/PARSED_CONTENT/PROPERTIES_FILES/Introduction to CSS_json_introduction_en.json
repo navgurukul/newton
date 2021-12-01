@@ -1,0 +1,10 @@
+{
+	"introduction_key1": "CSS Introduction",
+	"introduction_key2": "Hum HTML mein sirf content yaani ki jo kuch bhi likhna chahte hai wo likhte hai. Magar iss content ko sundar banane ke liye CSS yaani <b>Cascading Style Sheets</b> ka use karte hai.",
+	"introduction_key3": "CSS aapke HTML ko style karna bhot aasaan kar deti hai. Jaise,",
+	"introduction_key4": "Maan lo aapko apne page mein chaar <b>a tags</b> ka color - green set karna hai. HTML mein aisa karne ke liye aapko her <b>a tag</b> mein jaa kar",
+	"introduction_key5": "likhna hoga. Magar hum CSS ka use kar kar yeh kaam aur bhi asaani se kar sakte hai. Jaise,",
+	"introduction_key6": "Aur sabhi <b>a tags</b> ka color green set ho jayega.",
+	"introduction_key7": "<i>Assignment karne se pehle, yeh concepts padho aur samjho:</i>",
+	"introduction_key8": "CSS (<a href=\"http://learn.shayhowe.com/html-css/building-your-first-web-page/#common-css-terms\">En</a>)"
+}

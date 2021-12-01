@@ -1,0 +1,223 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Questions"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Briefly describe the differences between the webbrowser, requests, BeautifulSoup, and selenium modules.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What type of object is returned by requests.get()? How can you access the downloaded content as a string value?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What Requests method checks that the download worked?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How can you get the HTTP status code of a Requests response?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you save a Requests response to a file?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the keyboard shortcut for opening a browser’s developer tools?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How can you view (in the developer tools) the HTML of a specific element on a web page?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the CSS selector string that would find the element with an id attribute of main?",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the CSS selector string that would find the elements with a CSS class of highlight?",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the CSS selector string that would find all the <div> elements inside another <div> element?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the CSS selector string that would find the <button> element with a value attribute set to favorite?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Say you have a Beautiful Soup Tag object stored in the variable spam for the element <div>Hello world!</div>. How could you get a string 'Hello world!' from the Tag object?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How would you store all the attributes of a Beautiful Soup Tag object in a variable named linkElem?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Running import selenium doesn’t work. How do you properly import the selenium module?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What’s the difference between the find<i>element</i>* and find<i>elements</i>* methods?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What methods do Selenium’s WebElement objects have for simulating mouse clicks and keyboard keys?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "You could call send_keys(Keys.ENTER) on the Submit button’s WebElement object, but what is an easier way to submit a form with Selenium?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How can you simulate clicking a browser’s Forward, Back, and Refresh buttons with Selenium?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	}
+]

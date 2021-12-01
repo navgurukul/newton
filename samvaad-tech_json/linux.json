@@ -87,7 +87,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Linux kernal kya hota hai?<br><br>",
+		"value": "Linux kernal kya hota hai?",
 		"decoration": {
 			"type": "number",
 			"value": 8

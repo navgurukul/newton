@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chapter 18"
+	},
+	{
+		"component": "text",
+		"value": "Move the mouse to the top-left corner of the screen, that is, the (0, 0) coordinates."
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.size() returns a tuple with two <span style=\"\">integers</span> for the width and height of the screen."
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.position() returns a tuple with two <span style=\"\">integers</span> for the x- and y-coordinates of the mouse cursor."
+	},
+	{
+		"component": "text",
+		"value": "The moveTo() function moves the mouse to absolute coordinates on the screen, while the moveRel() function moves the mouse relative to the mouse’s current position."
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.dragTo() and pyautogui.dragRel()"
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.typewrite('Hello world!')"
+	},
+	{
+		"component": "text",
+		"value": "Either pass a list of <span style=\"\">key</span>board <span style=\"\">key</span> <span style=\"\">strings</span> to pyautogui.typewrite() (such as 'left') or pass a single <span style=\"\">key</span>board <span style=\"\">key</span> <span style=\"\">string</span> to pyautogui.press()."
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.screenshot('screenshot.png')"
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.PAUSE = 2"
+	}
+]

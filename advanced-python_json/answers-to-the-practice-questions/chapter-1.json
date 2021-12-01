@@ -1,0 +1,11 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chapter 1"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">operators</span> are +, -, *, and /. The values are 'hello', -88.8, and 5.<br>The <span style=\"\">string</span> is 'spam'; the <span style=\"\">variable</span> is spam. <span style=\"\">Strings</span> always start and end with quotes.<br>The three data types introduced in this chapter are <span style=\"\">integers</span>, <span style=\"\">float</span>ing-point numbers, and <span style=\"\">strings</span>.<br>An expression is a combination of values and <span style=\"\">operators</span>. All expressions evaluate (that is, reduce) to a single value.<br>An expression evaluates to a single value. A <span style=\"\">statement</span> does not.<br>The bacon <span style=\"\">variable</span> is set to 20. The bacon + 1 expression does not reassign the value in bacon (that would need an assignment <span style=\"\">statement</span>: bacon = bacon + 1).<br>Both expressions evaluate to the <span style=\"\">string</span> 'spamspamspam'.<br><span style=\"\">Variable</span> names cannot begin with a number.<br>The int(), <span style=\"\">float</span>(), and str() functions will evaluate to the <span style=\"\">integer</span>, <span style=\"\">float</span>ing-point number, and <span style=\"\">string</span> versions of the value passed to them.<br>The expression causes an <span style=\"\">error</span> because 99 is an <span style=\"\">integer</span>, and only <span style=\"\">strings</span> can be concatenated to other <span style=\"\">strings</span> with the + <span style=\"\">operator</span>. The correct way is I have eaten ' + str(99) + ' burritos.'."
+	}
+]

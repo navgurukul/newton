@@ -1,0 +1,83 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Getting Email Addresses from a Raw Message"
+	},
+	{
+		"component": "text",
+		"value": "The raw messages returned from the fetch() method still aren’t very useful to people who just want to read their email. The pyzmail module parses these raw messages and returns them as PyzMessage objects, which make the subject, body, “To” field, “From” field, and other sections of the email easily accessible to your <span style=\"\">Python</span> <span style=\"\">code</span>."
+	},
+	{
+		"component": "text",
+		"value": "Continue the interactive <span style=\"\">shell</span> example with the following (using UIDs from your own email account, not the ones shown here):"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import pyzmail<br>>>> message = pyzmail.PyzMessage.factory(rawMessages[40041]['BODY[]'])"
+	},
+	{
+		"component": "text",
+		"value": "First, import pyzmail. Then, to create a PyzMessage object of an email, call the pyzmail.PyzMessage.factory() function and pass it the 'BODY[]' section of the raw message. Store the result in message. Now message contains a PyzMessage object, which has several methods that make it easy to get the email’s subject line, as well as all sender and recipient addresses. The get<i>subject() method returns the subject as a simple <span style=\"\">string</span> value. The get</i>addresses() method returns a list of addresses for the field you pass it. For example, the method calls might look like this:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> message.get_subject()"
+	},
+	{
+		"component": "text",
+		"value": "'Hello!'"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> message.get_addresses('from')"
+	},
+	{
+		"component": "text",
+		"value": "[('Edward Snowden', 'esnowden@nsa.gov')]"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> message.get_addresses('to')"
+	},
+	{
+		"component": "text",
+		"value": "[(Jane Doe', 'my"
+	},
+	{
+		"component": "text",
+		"value": "<i>email</i>address@gmail.com"
+	},
+	{
+		"component": "text",
+		"value": "')]"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> message.get_addresses('cc')"
+	},
+	{
+		"component": "text",
+		"value": "[]"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> message.get_addresses('bcc')"
+	},
+	{
+		"component": "text",
+		"value": "[]<br>Notice that the argument for get<i>addresses() is 'from', 'to', 'cc', or 'bcc'. The return value of get</i>addresses() is a list of tuples. Each tuple contains two <span style=\"\">strings</span>: The first is the name associated with the email address, and the second is the email address itself. If there are no addresses in the requested field, get_addresses() returns a blank list. Here, the 'cc' carbon copy and 'bcc' blind carbon copy fields both contained no addresses and so returned empty lists."
+	}
+]

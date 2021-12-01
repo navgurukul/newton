@@ -1,0 +1,17 @@
+{
+	"Project4_key1": "See this video to get to know about <a href=\"https://drive.google.com/file/d/1Pew8tgx-u7r5CqQo4WE81wZSZyMxsCcB/view?usp=sharing\">Color flipper</a>",
+	"Project4_key2": "Before going to start understanding this <a href=\"https://www.w3schools.com/code/tryit.asp?filename=GRQZT8140PE2\">link</a> first. How we changed the document's body background color to Red. ",
+	"Project4_key3": "The above link leads to you w3 schools page please click the run button, and you can see 1 more buttion which is written as click here background coloe, please click on it so that you can see that background color of your body changing from white to red.",
+	"Project4_key4": "Personally I like colours so much, so now what we are going to do is , we will ask an <span style=\"\">input</span> to any user and ask him to enter that colour in an <span style=\"\">input</span> box so that we will add that favourite color of your friend to a box.",
+	"Project4_key5": "colour changing box",
+	"Project4_key6": "These two files below you can use for getting the output :\n<a href=\"https://github.com/vknayak/JS-projects/blob/main/Project4/index.html\">https://github.com/vknayak/JS-projects/blob/main/Project4/index.html</a>\n<a href=\"https://github.com/vknayak/JS-projects/blob/main/Project4/script.js\">https://github.com/vknayak/JS-projects/blob/main/Project4/script.js</a>",
+	"Project4_key7": "Script.js",
+	"Project4_key8": "// write a function named changeColor ",
+	"Project4_key9": "get the container1 element by using getElementById and store it in a variable",
+	"Project4_key10": "get the input1 value by using getElementById and store it in a variable",
+	"Project4_key11": "Hint: If you want to get any <span style=\"\">input</span> box value what you will do is just after getting that element by the help of id and write .value to it.",
+	"Project4_key12": "Example:",
+	"Project4_key13": "Var <span style=\"\">input</span>Box= document.getElementById(“<span style=\"\">input</span>1”);<br>// For getting <span style=\"\">input</span>Box value<br>console.log(<span style=\"\">input</span>Box.value);",
+	"Project4_key14": "update the background color of container1 by the input1 value",
+	"Project4_key15": "And clear the input that user enter to empty value"
+}

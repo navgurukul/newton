@@ -1,0 +1,67 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "student-guideline_key1"
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key2"
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key7",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key8",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "student-guideline_key9",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  }
+]

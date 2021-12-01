@@ -1,0 +1,169 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Coach Meetings:-"
+	},
+	{
+		"component": "text",
+		"value": "Coaches meetings are scheduled on a weekly basis to discuss the following:-"
+	},
+	{
+		"component": "text",
+		"value": "Whether they are taking the classes on time or not. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "To know about the problems faced by the Coaches.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Each student’s milestones.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Who is good in their group with a name and why?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Who is struggling or needs more support?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "How are the classes happening?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Documentation of the classes conducted should be done by Coaches only.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "All coaches have to Schedule their classes on academic calendars.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Which activities we can do in the upcoming week?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Mentor Meetings:-"
+	},
+	{
+		"component": "text",
+		"value": "Mentor meetings are also scheduled on a weekly basis to know and discuss the following:-"
+	},
+	{
+		"component": "text",
+		"value": "What problems are being faced by mentors regarding their mentees?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Struggling point and strength of mentees.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "How much time do they spend guiding their mentees.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "The behavior of their mentees.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ensure that mentees are coming for regular standups.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ensure whether they are taking interviews and filling the progress tracker sheet daily.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Mentee Meetings:-"
+	},
+	{
+		"component": "text",
+		"value": "Mentee meetings are also conducted depending on the requirement. In this meeting, we discuss the following:-"
+	},
+	{
+		"component": "text",
+		"value": "Academic issues of the mentees. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Behavior of their mentor.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Time given by the mentor to the mentees.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "How does their mentor support them?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Discuss whether their mentors take the interview and fill progress tracker sheet on a weekly basis.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

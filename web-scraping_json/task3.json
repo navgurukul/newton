@@ -1,0 +1,103 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Task 3"
+	},
+	{
+		"component": "text",
+		"value": "<b>Task 2</b> mein humne movies ko year ke hisaab se group karne ka <span style=\"\">code</span> toh likh liya. Ab hum inn hi movies ko decade ke hisaab se group karenge. 10 saal se milakar ek decade banta hai. Jaise:"
+	},
+	{
+		"component": "text",
+		"value": "<b>1960 se 1969</b> tak ke beech ke saare saal 1960s ke decade mein aate hain.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>1970 se 1979</b> tak ke beech ke saare saal 1970s ke decade mein aate hain.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>1980 se 1989</b> tak ke beech ke saare saal 1980s ke decade mein aate hain.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>2000 se 2009</b> tak ke beech ke saare saal 2000s ke decade mein aate hain.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ek function likho jiska naam hoga <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">group_by_decade</span>. Yeh function bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">group_by_year</span> ki tarah ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">movies</span> naam ka parameter lega. Iss parameter mein same data hoga jo ki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_top_list</span> wala function return karega. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">movies</span> wale parameter ke data ka structure bhi kuch aisa hoga:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "movies = [<br>  {<br>    \"name\": \"Anand\",<br>    \"year\": 1971,<br>    \"position\": 1,<br>    \"rating\": 8.7,<br>    \"url\": \"https://www.imdb.com/title/tt0066763/\"<br>  },<br>  {<br>    \"name\": \"Drishyam\",<br>    \"position\": 2,<br>    \"year\": 2013,<br>    \"rating\": 8.6,<br>    \"url\": \"https://www.imdb.com/title/tt3417422/\"<br>  },<br>  {<br>    \"position\": 3,<br>    \"name\": \"Andhadhun\",<br>    \"year\": 2018,<br>    \"rating\": 8.6,<br>    \"url\": \"https://www.imdb.com/title/tt8108198/\"<br>  }<br>]"
+	},
+	{
+		"component": "text",
+		"value": "Yeh function pehle movies ko year se group kar sakta hai. Isse movies ko decade ke hisaab se group karna easy ho jayega. Iska <span style=\"\">code</span> kuch aisa lagega:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def group_by_decade(movies):<br>  # pehle hum group_by_year ka use kar ke movies ko year ke hisaab se group kar lenge pichla function use karke<br>  movies_by_year = group_by_year(movies)<br><br>  # iske aage hum apna code likhenge jismein hum movies_by_year wali dictionary ka use kar ke movies ko year ke hisaab se group karenge.<br><br>  # finally hum decade ke hisaab se grouped dictionary ko return kar denge<br>  return movies_by_decade"
+	},
+	{
+		"component": "text",
+		"value": "Iss function ki return value aisi dikhegi."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "{<br>  1950: [<br>    {'name': 'Koi movie ka naam', 'year_of_release': 1956, 'position': 1, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Kuch aur naam', 'year_of_release': 1956, 'position': 4, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Ek aur naam', 'year_of_release': 1956, 'position': 8, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Koi movie ka naam 2', 'year_of_release': 1959, 'position':34, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Kuch aur naam 2', 'year_of_release': 1959, 'position': 42, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>  ],<br>  1960: [<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {}<br>  ],<br>  1980: [<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {}<br>  ]<br>}"
+	},
+	{
+		"component": "text",
+		"value": "2000s wale section mein woh saari movies aayengi jo 2000 se 2009 ke beech mein release hui hain.<br>2010s wale section mein woh saari movies aayengi jo 2010 se 2019 ke beech mein release hui hain.<br>1970s wale section mein woh saari movies aayengi jo 1970 se 1979 ke beech mein release hui hain."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Pehle yeh socho ki aap ke paas kaunse kaunse decades hain aur fir aap aapke paas ek year ineteger mein dia hua hai toh aap decade kaise nikaloge.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Solution"
+	},
+	{
+		"component": "youtube",
+		"value": "https://youtu.be/oC0n_oGJnQo"
+	},
+	{
+		"component": "text",
+		"value": "<b>Created by Naresh Kumar Gautam (naresh18@navgurukul.org)</b>"
+	}
+]

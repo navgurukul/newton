@@ -25,7 +25,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Email me subject line, greeting, introduction, closing, etc. saare parts ko achhe se likhein.<br><br><br><br><br><br>",
+		"value": "Email me subject line, greeting, introduction, closing, etc. saare parts ko achhe se likhein.<br><br>",
 		"decoration": {
 			"type": "number",
 			"value": 3

@@ -1,0 +1,51 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Pressing and Releasing the <span style=\"\">Key</span>board"
+	},
+	{
+		"component": "text",
+		"value": "Much like the mouseDown() and mouseUp() functions, pyautogui.<span style=\"\">key</span>Down() and pyautogui.<span style=\"\">key</span>Up() will send virtual <span style=\"\">key</span>presses and releases to the computer. They are passed a <span style=\"\">key</span>board <span style=\"\">key</span> <span style=\"\">string</span> (see <span style=\"\">Tab</span>le 18-1) for their argument. For convenience, PyAutoGUI provides the pyautogui.press() function, which calls both of these functions to simulate a complete <span style=\"\">key</span>press."
+	},
+	{
+		"component": "text",
+		"value": "Run the following <span style=\"\">code</span>, which will type a dollar sign character (obtained by holding the SHIFT <span style=\"\">key</span> and pressing 4):"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> pyautogui.keyDown('shift'); pyautogui.press('4'); pyautogui.keyUp('shift')"
+	},
+	{
+		"component": "text",
+		"value": "This line presses down SHIFT, presses (and releases) 4, and then releases SHIFT. If you need to type a <span style=\"\">string</span> into a text field, the typewrite() function is more sui<span style=\"\">tab</span>le. But for <span style=\"\">applications</span> that take single-<span style=\"\">key</span> commands, the press() function is the simpler approach."
+	},
+	{
+		"component": "text",
+		"value": "Hot<span style=\"\">key</span> Combinations<br>A hot<span style=\"\">key</span> or shortcut is a combination of <span style=\"\">key</span>presses to invoke some <span style=\"\">application</span> function. The common hot<span style=\"\">key</span> for copying a selection is CTRL-C (on Windows and Linux) or ⌘-C (on OS X). The user presses and holds the CTRL <span style=\"\">key</span>, then presses the C <span style=\"\">key</span>, and then releases the C and CTRL <span style=\"\">keys</span>. To do this with PyAutoGUI’s <span style=\"\">key</span>Down() and <span style=\"\">key</span>Up() functions, you would have to enter the following:"
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.<span style=\"\">key</span>Down('ctrl')<br>pyautogui.<span style=\"\">key</span>Down('c')<br>pyautogui.<span style=\"\">key</span>Up('c')<br>pyautogui.<span style=\"\">key</span>Up('ctrl')<br>This is rather complicated. Instead, use the pyautogui.hot<span style=\"\">key</span>() function, which takes multiple <span style=\"\">key</span>board <span style=\"\">key</span> <span style=\"\">string</span> arguments, presses them in order, and releases them in the reverse order. For the CTRL-C example, the <span style=\"\">code</span> would simply be as follows:"
+	},
+	{
+		"component": "text",
+		"value": "pyautogui.hot<span style=\"\">key</span>('ctrl', 'c')<br>This function is especially useful for larger hot<span style=\"\">key</span> combinations. In Word, the CTRL-ALT-SHIFT-S hot<span style=\"\">key</span> combination displays the Style pane. Instead of making eight different function calls (four <span style=\"\">key</span>Down() calls and four <span style=\"\">key</span>Up() calls), you can just call hot<span style=\"\">key</span>('ctrl', 'alt', 'shift', 's')."
+	},
+	{
+		"component": "text",
+		"value": "With a new IDLE <span style=\"\">file</span> <span style=\"\">editor</span> window in the upper-left corner of your screen, enter the following into the interactive <span style=\"\">shell</span> (in OS X, replace 'alt' with 'ctrl'):"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import pyautogui, time<br>   >>> def commentAfterDelay():<br>❶       pyautogui.click(100, 100)<br>❷       pyautogui.typewrite('In IDLE, Alt-3 comments out a line.')<br>         time.sleep(2)<br>❸       pyautogui.hotkey('alt', '3')<br><br>   >>> commentAfterDelay()"
+	},
+	{
+		"component": "text",
+		"value": "This defines a function commentAfterDelay() that, when called, will click the <span style=\"\">file</span> <span style=\"\">editor</span> window to bring it into focus ❶, type In IDLE, Atl-3 comments out a line ❷, pause for 2 seconds, and then simulate pressing the ALT-3 hot<span style=\"\">key</span> (or CTRL-3 on OS X) ❸. This <span style=\"\">key</span>board shortcut adds two # characters to the current line, commenting it out. (This is a useful trick to know when writing your own <span style=\"\">code</span> in IDLE.)"
+	}
+]

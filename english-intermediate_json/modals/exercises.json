@@ -1,0 +1,44 @@
+[
+	{
+		"component": "blockquote",
+		"value": "Skills: Writing<br>Group Size: Individual<br>Time Limit: 1 hour"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hire On"
+	},
+	{
+		"component": "text",
+		"value": "You are incharge of finding a warden for NavGurukul. Write a paragraph about the qualifications that this person who gets the job must have as well as the qualifications s/he should have.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "You are are incharge of finding a Android Developer for your company. Write a paragraph about the qualifications that this person who gets the job must have as well as the qualifications s/he should have.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<hr>"
+	},
+	{
+		"component": "blockquote",
+		"value": "Skills: Writing<br>Group Size: 3-4 <br>Time Limit: 1 hour"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Kaunse rules"
+	},
+	{
+		"component": "text",
+		"value": "Split the class into groups of 4. Give them the names of places e.g. petrol station, football stadium, hospital, jail, school etc. They must write the rules for 1 place and then read out the rules to the rest of the class. The other groups must try to guess the location from listening to the rules."
+	}
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "charter-and-responsibilities_key1"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "charter-and-responsibilities_key4"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "charter-and-responsibilities_key7"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key11"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key12"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key13"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key14"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key15"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key16"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key17"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key18"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key19"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key20"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "charter-and-responsibilities_key21"
+  },
+  {
+    "component": "text",
+    "value": "charter-and-responsibilities_key22"
+  }
+]

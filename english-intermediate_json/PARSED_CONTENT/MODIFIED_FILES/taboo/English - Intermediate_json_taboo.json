@@ -1,0 +1,100 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "taboo_key1"
+  },
+  {
+    "component": "text",
+    "value": "taboo_key2"
+  },
+  {
+    "component": "text",
+    "value": "taboo_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "taboo_key5"
+  },
+  {
+    "component": "text",
+    "value": "taboo_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key11",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key12",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key13",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "taboo_key14"
+  }
+]

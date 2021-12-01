@@ -54,7 +54,7 @@
 	},
 	{
 		"component": "text",
-		"value": "where networking is most use?<br><br>",
+		"value": "where networking is most use?",
 		"decoration": {
 			"type": "number",
 			"value": 5

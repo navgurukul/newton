@@ -1,0 +1,48 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "navgurukul-constitution_key1"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key2"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key6"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key7"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key8"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-constitution_key9"
+  }
+]

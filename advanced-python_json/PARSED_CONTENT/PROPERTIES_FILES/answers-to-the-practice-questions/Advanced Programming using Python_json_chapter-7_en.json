@@ -1,0 +1,20 @@
+{
+	"chapter-7_key1": "Chapter 7",
+	"chapter-7_key2": "The re.compile() function returns Regex objects.",
+	"chapter-7_key3": "Raw <span style=\"\">strings</span> are used so that backslashes do not have to be escaped.",
+	"chapter-7_key4": "The search() method returns Match objects.",
+	"chapter-7_key5": "The group() method returns <span style=\"\">strings</span> of the matched text.",
+	"chapter-7_key6": "Group 0 is the entire match, group 1 covers the first set of parentheses, and group 2 covers the second set of parentheses.",
+	"chapter-7_key7": "Periods and parentheses can be escaped with a backslash: ., (, and ).",
+	"chapter-7_key8": "If the regex has no groups, a list of <span style=\"\">strings</span> is returned. If the regex has groups, a list of tuples of <span style=\"\">strings</span> is returned.",
+	"chapter-7_key9": "The | character signifies matching “either, or” between two groups.",
+	"chapter-7_key10": "The ? character can either mean “match zero or one of the preceding group” or be used to signify nongreedy matching.",
+	"chapter-7_key11": "The + matches one or more. The * matches zero or more.",
+	"chapter-7_key12": "The {3} matches exactly three instances of the preceding group. The {3,5} matches between three and five instances.",
+	"chapter-7_key13": "The \\d, \\w, and \\s shorthand character classes match a single digit, word, or space character, respectively.",
+	"chapter-7_key14": "The \\D, \\W, and \\S shorthand character classes match a single character that is not a digit, word, or space character, respectively.",
+	"chapter-7_key15": "Passing re.I or re.IGNORECASE as the second argument to re.compile() will make the matching case insensitive.",
+	"chapter-7_key16": "The . character normally matches any character except the newline character. If re.DOTALL is passed as the second argument to re.compile(), then the dot will also match newline characters.",
+	"chapter-7_key17": "The .* performs a greedy match, and the .<i>? performs a nongreedy match.<br>Either [0-9a-z] or [a-z0-9]<br>'X drummers, X pipers, five rings, X hens'<br>The re.VERBOSE argument allows you to add whitespace and comments to the <span style=\"\">string</span> passed to re.compile().<br>re.compile(r'^\\d{1,3}(,\\d{3})</i>$') will create this regex, but other regex <span style=\"\">strings</span> can produce a similar regular expression.",
+	"chapter-7_key18": "re.compile(r'[A-Z][a-z]*\\sNakamoto')<br>re.compile(r'(Alice|Bob|Carol)\\s(eats|pets|throws)\\s(apples|cats|baseballs).', re.IGNORECASE)"
+}

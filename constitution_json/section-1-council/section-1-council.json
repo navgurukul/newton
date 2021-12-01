@@ -1,0 +1,76 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Council"
+	},
+	{
+		"component": "text",
+		"value": "The council will be elected by the <b>members</b> of a NavGurukul campus and would be responsible to represent the campus, ensure <b>learning</b> of one and all while ensuring smooth <b>management</b> of the day-to-day operations. This council is comprised of 7 members to simplify work distribution among the different members of the council:"
+	},
+	{
+		"component": "text",
+		"value": "Food and Kitchen Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Information Technology Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Treasurer",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Outreach and communication Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Training and Placement Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Facility and Maintenance Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Prosperity Officer",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "One of the eligible members from general body will be appointed as the <b>General Secretary</b>."
+	},
+	{
+		"component": "text",
+		"value": "Every <b>three months</b>, elections will be held for appointment of members to the council."
+	},
+	{
+		"component": "text",
+		"value": "A <b>general body meeting (GBM)</b> will be held every month to <b>review</b> the performance of the Council. The minutes of the meeting (MOM) will be recorded and be posted in a public blog maintained by the Outreach and Communications Coordinator."
+	},
+	{
+		"component": "text",
+		"value": "The coordinators can act independently to resolve the issues and improve upon the existing solutions in consultation with the Board of Governors. A student cannot hold more than two places in the Council. The council members will record the decisions electronically to ensure transparency in the governance channel specific to the campus."
+	}
+]

@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Right to Audit"
+	},
+	{
+		"component": "text",
+		"value": "Elected members baaki sabhi members ke well-being ke liye kaam kar rahe hain aur isiliye baaki members ko efficient solutions khojne ya discripencies ko expose ke liye <b>processes, records</b> aur <b>accounts</b> ki jaankaari rakhne aur unhe audit karne ka right hai. <br>Aisa karne ke liye, sabhi members ke liye right information arrange karna council ki responsibility hai. <br>Agar koi member audit karna chahta hai to wo aisa Board of Directors ki supervision me kar sakta hai. "
+	},
+	{
+		"component": "text",
+		"value": "Council ko suggest kiya jata hai ki wo Documentation ya communication channels par electronically apne decisions <b>document</b> kar den jisse ki wo centre ke sabhi members aur baaki sabhi ke liye available ho. <br>Sabhi members ko in decisions par <b>feedback dene ke liye encourage</b> kiya jata hai. <br>Agar unhe lagta hai ki wo cheezon ko better approach ke sath kar sakte hain ya jab unhe lagta hai ki kuch galat decision liya ja raha hai.  <br>Wo issue ko escalate karne ke liye Right to Audit ya Right to Dissent ka use bhi kar sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "Saath hi, kuch aisi duties bhi hain jo har ek student ko follow karna important hai. <br>Ye NavGurukul ke sabhi students ki duty honi chahiye ki:"
+	},
+	{
+		"component": "text",
+		"value": "Constitution ko aur constitution me mention sabhi rules and regulations ko follow karein",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul ke sabhi values ko by-heart apnana jisme included hain- ek doosre ke liye respect, jo galat ho raha hai uske against stand lene ka courage, apne kaam aur thoughts me honesty, openness aur transparency aur ignorance se sach ke raste par sath chalna",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

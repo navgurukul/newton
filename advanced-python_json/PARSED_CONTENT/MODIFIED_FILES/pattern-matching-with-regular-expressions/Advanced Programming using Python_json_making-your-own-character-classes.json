@@ -1,0 +1,35 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "making-your-own-character-classes_key1"
+  },
+  {
+    "component": "text",
+    "value": "making-your-own-character-classes_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> vowelRegex = re.compile(r'[aeiouAEIOU]')<br>>>> vowelRegex.findall('Robocop eats baby food. BABY FOOD.')<br>['o', 'o', 'o', 'e', 'a', 'a', 'o', 'o', 'A', 'O', 'O']"
+  },
+  {
+    "component": "text",
+    "value": "making-your-own-character-classes_key3"
+  },
+  {
+    "component": "text",
+    "value": "making-your-own-character-classes_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> consonantRegex = re.compile(r'[^aeiouAEIOU]')<br>>>> consonantRegex.findall('Robocop eats baby food. BABY FOOD.')<br>['R', 'b', 'c', 'p', ' ', 't', 's', ' ', 'b', 'b', 'y', ' ', 'f', 'd', '.', ' ', 'B', 'B', 'Y', ' ', 'F', 'D', '.']"
+  },
+  {
+    "component": "text",
+    "value": "making-your-own-character-classes_key5"
+  }
+]

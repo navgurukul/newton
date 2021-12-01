@@ -1,0 +1,119 @@
+[
+  {
+    "component": "text",
+    "value": "question3_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_name = \"Shakrudin\"<br>print (len(string_name))"
+  },
+  {
+    "component": "text",
+    "value": "question3_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_name = \"Rishabh Verma\"<br>print (len(string_name))"
+  },
+  {
+    "component": "text",
+    "value": "question3_key3"
+  },
+  {
+    "component": "text",
+    "value": "question3_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_name = \"navgurukul\"<br>if \"n\" in string_name:<br>    print (\"n hai\")<br>else:<br>    print (\"n nahi hai\")"
+  },
+  {
+    "component": "text",
+    "value": "question3_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print (\"n\" in string_name:)<br>print (type(\"n\" in string_name))"
+  },
+  {
+    "component": "text",
+    "value": "question3_key6"
+  },
+  {
+    "component": "text",
+    "value": "question3_key7"
+  },
+  {
+    "component": "text",
+    "value": "question3_key8"
+  },
+  {
+    "component": "text",
+    "value": "question3_key9",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question3_key10"
+  },
+  {
+    "component": "text",
+    "value": "question3_key11",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "question3_key12",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "question3_key13",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "question3_key14",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "question3_key15",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "question3_key16",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

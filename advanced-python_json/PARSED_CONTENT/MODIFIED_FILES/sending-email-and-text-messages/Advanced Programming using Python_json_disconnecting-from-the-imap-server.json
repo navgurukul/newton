@@ -1,0 +1,29 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "disconnecting-from-the-imap-server_key1"
+  },
+  {
+    "component": "text",
+    "value": "disconnecting-from-the-imap-server_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> imapObj.logout()"
+  },
+  {
+    "component": "text",
+    "value": "disconnecting-from-the-imap-server_key3"
+  },
+  {
+    "component": "text",
+    "value": "disconnecting-from-the-imap-server_key4"
+  },
+  {
+    "component": "text",
+    "value": "disconnecting-from-the-imap-server_key5"
+  }
+]

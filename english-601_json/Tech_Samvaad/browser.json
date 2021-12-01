@@ -59,7 +59,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue<br>",
+		"value": "Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue",
 		"decoration": {
 			"type": "number",
 			"value": 1

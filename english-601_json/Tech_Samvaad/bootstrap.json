@@ -65,7 +65,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Bootstrap is used for?<br><br>",
+		"value": "Bootstrap is used for?",
 		"decoration": {
 			"type": "number",
 			"value": 4

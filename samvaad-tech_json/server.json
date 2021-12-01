@@ -58,7 +58,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Client and server me kya difference hai?<br><br><br><br><br>",
+		"value": "Client and server me kya difference hai?",
 		"decoration": {
 			"type": "number",
 			"value": 5

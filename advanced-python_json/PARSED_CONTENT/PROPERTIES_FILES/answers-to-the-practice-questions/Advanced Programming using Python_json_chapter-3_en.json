@@ -1,0 +1,19 @@
+{
+	"chapter-3_key1": "Chapter 3",
+	"chapter-3_key2": "Functions reduce the need for duplicate <span style=\"\">code</span>. This makes programs shorter, easier to read, and easier to update.",
+	"chapter-3_key3": "The <span style=\"\">code</span> in a function <span style=\"\">executes</span> when the function is called, not when the function is defined.",
+	"chapter-3_key4": "The def <span style=\"\">statement</span> defines (that is, creates) a function.",
+	"chapter-3_key5": "A function consists of the def <span style=\"\">statement</span> and the <span style=\"\">code</span> in its def clause.",
+	"chapter-3_key6": "A function call is what moves the program execution into the function, and the function call evaluates to the function’s return value.",
+	"chapter-3_key7": "There is one global scope, and a local scope is created whenever a function is called.",
+	"chapter-3_key8": "When a function returns, the local scope is destroyed, and all the <span style=\"\">variables</span> in it are forgotten.",
+	"chapter-3_key9": "A return value is the value that a function call evaluates to. Like any value, a return value can be used as part of an expression.",
+	"chapter-3_key10": "If there is no return <span style=\"\">statement</span> for a function, its return value is None.",
+	"chapter-3_key11": "A global <span style=\"\">statement</span> will force a <span style=\"\">variable</span> in a function to refer to the global <span style=\"\">variable</span>.",
+	"chapter-3_key12": "The data type of None is NoneType.",
+	"chapter-3_key13": "That import <span style=\"\">statement</span> imports a module named areallyourpetsnamederic. (This isn’t a real <span style=\"\">Python</span> module, by the way.)",
+	"chapter-3_key14": "This function can be called with spam.bacon().",
+	"chapter-3_key15": "Place the line of <span style=\"\">code</span> that might cause an <span style=\"\">error</span> in a try clause.",
+	"chapter-3_key16": "The <span style=\"\">code</span> that could potentially cause an <span style=\"\">error</span> goes in the try clause.",
+	"chapter-3_key17": "The <span style=\"\">code</span> that <span style=\"\">executes</span> if an <span style=\"\">error</span> happens goes in the except clause."
+}

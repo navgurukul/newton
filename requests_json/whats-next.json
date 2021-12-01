@@ -1,0 +1,39 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What's next?"
+	},
+	{
+		"component": "text",
+		"value": "Yeh bahut basic sa introduction tha API and JSON ka. Par iss mei kaafi<br>saare fundamentals covered the. Aap acche se samjhe kaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">server</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">API</span>,<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">JSON</span> jaisi saari cheezein aapas mei interlinked hai."
+	},
+	{
+		"component": "text",
+		"value": "Jab aap login karte hai, toh aap ko server <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">authenticate</span></b> karta hai.<br>Phir jab aap koi bhi request karte hai, toh aap batate hai, aap wohi ho<br>jisne thodi der pehle login kiya tha. Yeh sab karne ke liye aap headers<br>ka use karte ho. Unn sab cheezo ka hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">API - Part 2</span> mei focus karenge."
+	},
+	{
+		"component": "text",
+		"value": "Aise hi humne abhi bahut simple <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get</span> requests use ki hai, aage hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">post</span><br>request use bhi karenge, aur sahi se dono tarah ki requests mei difference<br>bhi pata karenge."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Tab</span> tak aap yeh features integrate kar sakte ho, apne <span style=\"\">code</span> mei, jisse ki<br>woh aur behetar ho jaye:"
+	},
+	{
+		"component": "text",
+		"value": "1 - <b>Up Navigation</b><br>Jaise hi user <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">up</span> likhe, toh aap usko peechli wali menu par le jao. Matlab<br>agar woh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">exercises</span> ki list par hai, toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">courses</span> ki list dikha kar, usse<br>waha se proceed karao, etc."
+	},
+	{
+		"component": "text",
+		"value": "2 - <b>Previous Navigation</b><br>Jaise hi user 'p' likhe, toh usse next exercise ka content dikhao"
+	},
+	{
+		"component": "text",
+		"value": "3 - <b>Next Navigation</b><br>Jaise hi user 'n' likhe, toh usse next exercise ka content dikhao"
+	},
+	{
+		"component": "text",
+		"value": "4 - <b>DRY - Don't repeat yourself</b><br>Dekho kaha kaha aap apne <span style=\"\">code</span> ko aap repeat kar rahe ho. Kya aap repetitions<br>avoid kar sakte ho - functions, etc. use kar kar?"
+	}
+]

@@ -1,0 +1,77 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Reading Material"
+	},
+	{
+		"component": "text",
+		"value": "<b>Leap Year</b> har 4 saal me ek baar ahta hai aur woh bi ush saal me joh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4 se divisible hota hai</span>. Lekin saat hi agar woh saal <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> magar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible nhi hai</span>.<br>Toh woh <b>Leap Year</b> nhi kehlata hai."
+	},
+	{
+		"component": "text",
+		"value": "Eg:<br>  1800 <b>Leap Year</b> nhi hai kyunki yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> magar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible nhi hai</span><br>  2000 <b>Leap Year</b> hai kyunki yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible hai</span>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "Apko ish Task me <span style=\"\">input</span> ke torh pe saal diya jayega aur apko ush saal ke 3 pichle <b>Leap Year</b> print karne hai."
+	},
+	{
+		"component": "text",
+		"value": "Aur Jab 3 pichle <b>Leap Year</b> nikal jaye toh uske baad aap 3 ane wale <b>Leap Year</b> nikalne hai apko."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Eg:<br>  Apko ek saal di jayegi jese 1998.<br>  Toh apko ush saal ke piche aye hue 3 leap year nikalne hai 1996, 1992, 1988<br>  aur Jab nikal jaye toh apko aage ane wale 3 leap year nikalne hai 2000, 2004, 2008"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Test"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 1000<br>  Output:<br>    Pichle 3 Leap Year : 996 992 988<br>    Agle 3 Leap Year : 1004 1008 1012"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 2:<br>  Input: 1460<br>  Output:<br>    Pichle 3 Leap Year : 1456 1452 1448<br>    Agle 3 Leap Year : 1464 1468 1472"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 3:<br>  Input: 1570<br>  Output:<br>    Pichle 3 Leap Year : 1568 1564 1560<br>    Agle 3 Leap Year : 1572 1576 1580"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 2000<br>  Output:<br>    Pichle 3 Leap Year : 1996 1992 1988<br>    Agle 3 Leap Year : 2004 2008 2012"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Aap 3 leap year (aage yeah pichle wale) aye usko pata karne k liye ek alag varibale rakh sakte ho.Joh apki madad karega yeh jane meh 3 leap year nikal gaye ya nhi."
+	}
+]

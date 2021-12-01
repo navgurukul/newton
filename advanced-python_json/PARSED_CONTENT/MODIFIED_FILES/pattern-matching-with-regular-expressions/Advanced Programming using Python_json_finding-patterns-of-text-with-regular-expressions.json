@@ -1,0 +1,125 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "finding-patterns-of-text-with-regular-expressions_key1"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key2"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key3"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key4"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "finding-patterns-of-text-with-regular-expressions_key5"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import re"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key7"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key8"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> phoneNumRegex = re.compile(r'\\d\\d\\d-\\d\\d\\d-\\d\\d\\d\\d')"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key10"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key11"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key12"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key13"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "finding-patterns-of-text-with-regular-expressions_key14"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key15"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> phoneNumRegex = re.compile(r'\\d\\d\\d-\\d\\d\\d-\\d\\d\\d\\d')<br>>>> mo = phoneNumRegex.search('My number is 415-555-4242.')<br>>>> print('Phone number found: ' + mo.group())"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key16"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key17"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "finding-patterns-of-text-with-regular-expressions_key18"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key19"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key20"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key21"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key22"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key23"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "finding-patterns-of-text-with-regular-expressions_key24"
+  },
+  {
+    "component": "text",
+    "value": "finding-patterns-of-text-with-regular-expressions_key25"
+  }
+]

@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "'Javascript,Python,Ruby,Perl,Php' yah kuchh main scripting languages hai.<br><br>",
+		"value": "'Javascript,Python,Ruby,Perl,Php' yah kuchh main scripting languages hai.",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -53,7 +53,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Dynamic.changing code at runtime is completely normal.<br><br>",
+		"value": "Dynamic.changing code at runtime is completely normal.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -74,7 +74,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Many scripis and CMS tools required database in order to store dynamic data.              <br><br>",
+		"value": "Many scripis and CMS tools required database in order to store dynamic data.              ",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -119,7 +119,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Editing and running code is fast.<br><br>",
+		"value": "Editing and running code is fast.",
 		"decoration": {
 			"type": "number",
 			"value": 5

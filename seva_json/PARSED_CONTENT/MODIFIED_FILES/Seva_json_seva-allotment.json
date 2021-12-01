@@ -1,0 +1,23 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "seva-allotment_key1"
+  },
+  {
+    "component": "text",
+    "value": "seva-allotment_key2"
+  },
+  {
+    "component": "text",
+    "value": "seva-allotment_key3"
+  },
+  {
+    "component": "text",
+    "value": "seva-allotment_key4"
+  },
+  {
+    "component": "text",
+    "value": "seva-allotment_key5"
+  }
+]

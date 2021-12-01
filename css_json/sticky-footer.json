@@ -1,0 +1,22 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Part XIV - Sticky Footer"
+	},
+	{
+		"component": "text",
+		"value": "Iss <a href=\"http://abhishekgupta92.github.io/equality11\">exercise</a> mein, hum ek \"sticky footer\" banayenge. Sticky footer bottom mein stick\nyaani chipak jaata hai. Aur page ke contents ko scroll karte time bhi wo nahi hilta."
+	},
+	{
+		"component": "text",
+		"value": "<i>Assignment karne se pehle, yeh concepts padho aur samjho:</i>"
+	},
+	{
+		"component": "text",
+		"value": "Position (static, fixed, absolute) <a href=\"http://www.w3schools.com/css/css_positioning.asp\">en</a>, hi",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

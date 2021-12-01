@@ -1,0 +1,157 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "loading-and-dumping_key1"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key2"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key3"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key4"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "loading-and-dumping_key6"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import json<br><br># fileName = \"hello.db\"<br># Default argument dena ek acchi coding practice hai.<br># Isse agar user koi argument nahi bhi de, toh bhi code sahi chalega<br>def load(fileName='hello.db'):<br>    <br>    Yeh ek fileName leta hai, jiska content yeh load karta hai<br>    By default yeh hello.json file ko load karta hai<br>    Content load kar ne ke liye, yeh ek MeraDB class ka object<br>    create karta hai. Ussi object ko yeh return kar deta hai<br>    jisse ki hum uss object par set, get, aur dump jaise<br>    functions call kar sakein.<br>    <br>    meraDB = MeraDB(fileName)<br>    meraDB.load_file()<br>    return meraDB<br><br>class MeraDB():<br>    <br>    Yeh main class hai, jaha saara magic hoga!<br><br>    Humne yeh class isliye banayi jisse ki hum meradb object bana kar<br>    uss par koi bhi functions call kar sake<br><br>    Jaise list_a = [1,2,4] kar kar aap list_a naam ki list create karte ho<br>    Phir aap list_a object par functions call kar sakte ho, jaise<br>    list_a.append(another_list), list_a.pop()<br><br>    aise hi jab aap meradb ka object declare karoge, toh class use karne ke<br>    vajah se, hum meradb object par functions call kar payenge, jaise:<br><br>    mdb = MeraDB(\"dbfile.json\")<br>    mdb.load_file()<br>    mdb.dump()<br>    <br>    class ke ander variable ko property bolte hai aur function ko method.<br><br>    <br>    fileName = \"\"<br>    jObject = {}<br><br>    def __init__(self, fileName):<br>        <br>        Yeh constructor function hai, jo object declare karne par<br>        call hoga. Jo bhi fileName isse milega, yeh woh apni <br>        fileName property mei store kar lega. Isse yeh property<br>        object mei kahi bhi self.fileName kar kar, available hogi.<br>        Isliye jab hum dump_file function aage call karenge<br>        toh apne aap iss code ko pata hoga, ki kis file mei content<br>        dump karne hai. Woh bas self.fileName file mei jakar contents<br>        save/dump kar dega. Aise hi aap aur bhi properties bana sakte<br>        hai. Jaise humne jObject kar kar ek property banayi hai. Iss<br>        property mei, jab bhi database load karte hai, woh dictionary<br>        hum jObject store kar lete hai. Jab bhi koi value set ya get karni<br>        hoti hai, toh hum jObject se hi karte hai. Aakhir mei, dump karte <br>        hue hum jObject ko dump kar dete hai, jab bhi dump function call<br>        hota hai.<br>        <br>        self.fileName = fileName<br><br>    def load_file(self):<br>        <br>        Yeh file ko load karne ke liye function hai<br>        <br>        print \"Loading Database from \", self.fileName, \" !\"<br>        content = open(self.fileName).read()<br>        self.jObject = json.loads(content)<br>        print \"DB loaded successfully!\"<br>        return self.jObject<br><br>    def dump(self):<br>        <br>        Iss function ko use kar kar, aap content ko dump kar satke hai<br>        <br>        print \"Dumping database to \", self.fileName, \" !\"<br>        <br>        open(self.fileName, 'w').write(json.dumps(self.jObject))<br>        <br>        You can also write the above line as:<br>        file_handler = open(self.fileName, 'w')<br>        json_dump = json.dumps(self.jObject)<br>        file_handler.write(json_dump)<br>        file_handler.close()<br>        <br><br>        print \"DB dumped successfully!\"<br>        return \"OK\""
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key8"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import meradb<br>db = meradb.load(\"table.db\")<br>db.dump()"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key10"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "{}"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key11"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key12"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key13"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "loading-and-dumping_key14"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key15"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key17",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key19"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "loading-and-dumping_key20"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "loading-and-dumping_key21"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key22"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key23"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "if edge_case:<br>    kuch_jugaad_karo"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key24"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "loading-and-dumping_key25"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key26"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key27"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key28"
+  },
+  {
+    "component": "text",
+    "value": "loading-and-dumping_key29"
+  }
+]

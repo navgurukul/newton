@@ -1,0 +1,51 @@
+[
+  {
+    "component": "text",
+    "value": "tools_key1"
+  },
+  {
+    "component": "text",
+    "value": "tools_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "tools_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "tools_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/interesting-naam_json/assets/subtitles.png",
+    "alt": "tools_key5"
+  },
+  {
+    "component": "text",
+    "value": "tools_key6",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "tools_key7",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  }
+]

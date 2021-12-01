@@ -1,0 +1,163 @@
+[
+	{
+		"component": "text",
+		"value": "Form questions in \"Present Tense\" using the following prompts.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "blockquote",
+		"value": "For example, for the following prompt \"Rishabh/Dharamsala/live\",the following questions can be made in Present Tense."
+	},
+	{
+		"component": "blockquote",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "Sonam/movie/watch",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ankita/ukulele/play",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Abhishek/lake/swim",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Pooja/football/play",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "He/organise/workshop",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<hr>"
+	},
+	{
+		"component": "text",
+		"value": "Form questions in \"Past Tense\" using the following prompts.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "blockquote",
+		"value": "For example, for the following prompt \"Rishabh/Dharamsala/live\",the following questions can be made in Present Tense."
+	},
+	{
+		"component": "blockquote",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "They/assignment/complete",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "She/drank/water",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "He/played/kabbadi",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Rahul/watch/sunset",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Deepak/cook/lunch",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<hr>"
+	},
+	{
+		"component": "text",
+		"value": "Form questions in \"Future Tense\" using the following prompts.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "blockquote",
+		"value": "For example, for the following prompt \"Rishabh/Dharamsala/live\",the following questions can be made in Present Tense."
+	},
+	{
+		"component": "blockquote",
+		"value": ""
+	},
+	{
+		"component": "text",
+		"value": "Rohit/complete/accounts",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "She/play/flute",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "You/eat/dinner",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "They/tell/story",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Krishna/go/forest",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

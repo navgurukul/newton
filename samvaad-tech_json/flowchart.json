@@ -51,7 +51,7 @@
 	},
 	{
 		"component": "text",
-		"value": "NavGurukul ka flowchart kya hai?<br><br>",
+		"value": "NavGurukul ka flowchart kya hai?",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -64,7 +64,7 @@
 	},
 	{
 		"component": "text",
-		"value": ".<a href=\"https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial\">flowchart</a><br><br>",
+		"value": ".<a href=\"https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial\">flowchart</a>",
 		"decoration": {
 			"type": "number",
 			"value": null

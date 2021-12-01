@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "art-of-giving-feedback_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "art-of-giving-feedback_key2"
+  },
+  {
+    "component": "text",
+    "value": "art-of-giving-feedback_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "art-of-giving-feedback_key4"
+  },
+  {
+    "component": "text",
+    "value": "art-of-giving-feedback_key5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "art-of-giving-feedback_key6"
+  },
+  {
+    "component": "text",
+    "value": "art-of-giving-feedback_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "art-of-giving-feedback_key8"
+  },
+  {
+    "component": "text",
+    "value": "art-of-giving-feedback_key9"
+  }
+]

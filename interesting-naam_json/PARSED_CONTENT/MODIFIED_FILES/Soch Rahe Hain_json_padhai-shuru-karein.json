@@ -1,0 +1,98 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "padhai-shuru-karein_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "padhai-shuru-karein_key2"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "opSNSVnTn68&"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key6"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "cd command use karke Desktop par jao<br>    mkdir command use karke Desktop par ek NavGurukul naam ka folder banao<br>    navgurukul folder mei cd karo<br>    Iss folder mein new_folder naam se ek folder banao<br>    ab ls karke dekho ki kaun kaun si files present hai<br>    ab apni home directory mei jakar ls karo and output slack mei apne facilitator ko bhejo"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "padhai-shuru-karein_key7"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "  sudo add-apt-repository ppa:webupd8team/atom<br>  sudo apt-get update<br>  sudo apt-get install atom"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "padhai-shuru-karein_key9"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key10"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key11"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key12"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make<br>sudo apt-get update<br>sudo apt-get install ubuntu-make<br>Umake ide pycharm"
+  },
+  {
+    "component": "text",
+    "value": "padhai-shuru-karein_key13"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "sudo add-apt-repository ppa:webupd8team/brackets<br>sudo apt-get update<br>sudo apt-get install brackets"
+  }
+]

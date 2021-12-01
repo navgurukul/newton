@@ -251,7 +251,7 @@
 	},
 	{
 		"component": "text",
-		"value": "bot<br>big",
+		"value": "botbig",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -461,7 +461,7 @@
 	},
 	{
 		"component": "text",
-		"value": "search engine<br>bigger",
+		"value": "search enginebigger",
 		"decoration": {
 			"type": "bullet"
 		}

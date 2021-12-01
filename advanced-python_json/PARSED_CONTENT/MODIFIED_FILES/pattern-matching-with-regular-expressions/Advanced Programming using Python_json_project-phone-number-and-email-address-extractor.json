@@ -1,0 +1,171 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key3"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key8"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key9"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key12"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key13"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key15"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key16"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key17"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key18"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key19"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key21"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key22"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key23"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key24"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key25"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key26"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key27"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key28"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>   #! python3<br>   # phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br>   import pyperclip, re<br><br>   phoneRegex = re.compile(r'''(<br>   --snip--<br><br>   # Create email regex.<br>   emailRegex = re.compile(r'''(<br>❶     [a-zA-Z0-9._%+-]+      # username<br>❷     @                      # @ symbol<br>❸     [a-zA-Z0-9.-]+         # domain name<br>       (\\.[a-zA-Z]{2,4})      # dot-something<br>       )''', re.VERBOSE)"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key29"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key30"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key31"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "#! python3<br>   # phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br><br>   import pyperclip, re<br><br>   phoneRegex = re.compile(r'''(<br>   --snip--<br><br>   # Find matches in clipboard text.<br>   text = str(pyperclip.paste())<br>❶ matches = []<br>❷ for groups in phoneRegex.findall(text):<br>       phoneNum = '-'.join([groups[1], groups[3], groups[5]])<br>       if groups[8] != '':<br>           phoneNum += ' x' + groups[8]<br>       matches.append(phoneNum)<br>❸ for groups in emailRegex.findall(text):<br>       matches.append(groups[0])"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key32"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key33"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-phone-number-and-email-address-extractor_key34"
+  },
+  {
+    "component": "text",
+    "value": "project-phone-number-and-email-address-extractor_key35"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "#! python3<br># phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br><br>--snip--<br>for groups in emailRegex.findall(text):<br>    matches.append(groups[0])<br><br># Copy results to the clipboard.<br>if len(matches) > 0:<br>    pyperclip.copy('\\n'.join(matches))<br>    print('Copied to clipboard:')<br>    print('\\n'.join(matches))<br>else:<br>    print('No phone numbers or email addresses found.')"
+  }
+]

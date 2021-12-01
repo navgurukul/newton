@@ -1,0 +1,65 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "exception-handling_key1"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key2"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def spam(divideBy):<br>    return 42 / divideBy<br><br>print(spam(2))<br>print(spam(12))<br>print(spam(0))<br>print(spam(1))"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key4"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key5"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key6"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def spam(divideBy):<br>    try:<br>        return 42 / divideBy<br>    except ZeroDivisionError:<br>        print('Error: Invalid argument.')<br><br>print(spam(2))<br>print(spam(12))<br>print(spam(0))<br>print(spam(1))"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key8"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def spam(divideBy):<br>    return 42 / divideBy<br><br>try:<br>    print(spam(2))<br>    print(spam(12))<br>    print(spam(0))<br>    print(spam(1))<br>except ZeroDivisionError:<br>    print('Error: Invalid argument.')"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key10"
+  },
+  {
+    "component": "text",
+    "value": "exception-handling_key11"
+  }
+]

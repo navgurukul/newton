@@ -1,0 +1,26 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "container-properties-display_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "container-properties-display_key2"
+  },
+  {
+    "component": "text",
+    "value": "container-properties-display_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "container-properties-display_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

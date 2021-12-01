@@ -1,0 +1,76 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "section-1-council_key1"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key2"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key10"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key11"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key12"
+  },
+  {
+    "component": "text",
+    "value": "section-1-council_key13"
+  }
+]

@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "General Secretary"
+	},
+	{
+		"component": "text",
+		"value": "In addition to managing her own responsibilities, the role of the GenSec is to ensure smooth functioning of the Council."
+	},
+	{
+		"component": "text",
+		"value": "Responsibilities:"
+	},
+	{
+		"component": "text",
+		"value": "Communicating with the Board of Governors regarding campus affairs",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Overseeing the functioning of all members of the council and resolving any conflicts (all such conflicts need to be documented and posted on the right communication channel)",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Upholding the constitution in the NavGurukul campus ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Organising and hosting the monthly GBMs",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

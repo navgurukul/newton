@@ -1,0 +1,22 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Iss layout mei 3 cards hai. Pehle inn cards ko ek Android mei XML layout use kar kar banao."
+	},
+	{
+		"component": "image",
+		"value": "images/layout1_3cards.png",
+		"alt": "Layout 1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Kisi bhi card par click karne par yeh wala layout open hoga."
+	},
+	{
+		"component": "image",
+		"value": "images/layout1_second_view.png",
+		"alt": "Layout 2"
+	}
+]

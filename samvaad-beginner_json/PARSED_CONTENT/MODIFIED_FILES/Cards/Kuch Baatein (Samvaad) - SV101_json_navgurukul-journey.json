@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "navgurukul-journey_key1"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-journey_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-journey_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-journey_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-journey_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

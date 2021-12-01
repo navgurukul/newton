@@ -1,0 +1,58 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "calling-an-api_key1"
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key2"
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key3"
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key4"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "calling-an-api_key5"
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key6"
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key7"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "calling-an-api_key8"
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "calling-an-api_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

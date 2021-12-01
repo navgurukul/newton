@@ -1,0 +1,85 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "CSS3 Flexbox"
+	},
+	{
+		"component": "text",
+		"value": "CSS3 ke bare mei padho aur samjho ki CSS, CSS3 se kaise different hain. Yeh difference apne facilitator ko slack par batao. Isse padhne ke baad, apko CSS Classes ke bare mein padna hai.  Aap iske baare mein <a href=\"http://www.w3schools.com/cssref/sel_class.asp\">iss link</a> se padhe. Ab fir se aapko padhne ke baad jo samajh aaya usse slack par apne facilitator ko bhejo.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Finally, Flexbox ke bare mei <a href=\"https://css-tricks.com/snippets/css/a-guide-to-flexbox/\">iss</a> link se padho. Saare examples ko groups mei kar kar, acche se samjho aur uske baad dekho ki Flexbox kam kaise karta hain.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ab <a href=\"https://abhishekgupta92.github.io/equality6\">iss assignment</a> ko flex ka use kar kar karo. Yeh flex se karne ke liye yeh dekho ki iss page mei teen main flex container ki jaroorat padegi:"
+	},
+	{
+		"component": "text",
+		"value": "Header mei jo links hai",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Main content",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ismei do flex items hai jo columns ki tarah dikh rahe hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Footer mei jo links hai",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ek ek karke teeno hisso ko flex se banane ki koshish karo, aur baaki cheezein bina flex ke bhi ho jayengi."
+	},
+	{
+		"component": "text",
+		"value": "<i>Assignment karne se pehle, yeh concepts padho aur samjho:</i>"
+	},
+	{
+		"component": "text",
+		"value": "Classes",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Flexbox",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Justify Content (space-between, center)",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

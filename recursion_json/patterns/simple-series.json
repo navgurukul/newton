@@ -1,0 +1,41 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Pattern"
+	},
+	{
+		"component": "text",
+		"value": "1, 4, 7, 10, 13, 16 …"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Kisi bhi element ko nikalne ke liye, aapko peechle element mei 3 add karna hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Base Case ka dhyaan rakhein",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def pattern(number):<br>    if number == 1:<br>        return 1<br>    else:<br>        return pattern(number-1) + 3"
+	}
+]

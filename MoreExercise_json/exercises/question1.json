@@ -1,0 +1,30 @@
+[
+	{
+		"component": "text",
+		"value": "1 se 1000 tak saare numbers print karne ka <span style=\"\">loop</span> likho. Lekin "
+	},
+	{
+		"component": "text",
+		"value": "Agar number 3 se divisible hai toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"nav\"</span> print karvao.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar number 7 se divisible hai toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"gurukul\"</span> print karvao.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar number 21 se divisible hai toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"navgurukul\"</span> print karvao.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

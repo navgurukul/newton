@@ -1,0 +1,117 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key1"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> tuple(['cat', 'dog', 5])<br>('cat', 'dog', 5)<br>>>> list(('cat', 'dog', 5))<br>['cat', 'dog', 5]<br>>>> list('hello')<br>['h', 'e', 'l', 'l', 'o']"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key4"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = 42<br>>>> cheese = spam<br>>>> spam = 100<br>>>> spam<br>100<br>>>> cheese<br>42"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key6"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> spam = [0, 1, 2, 3, 4, 5]<br>❷ >>> cheese = spam<br>❸ >>> cheese[1] = 'Hello!'<br>   >>> spam<br>   [0, 'Hello!', 2, 3, 4, 5]<br>   >>> cheese<br>   [0, 'Hello!', 2, 3, 4, 5]"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key8"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key9"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key10"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key11"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key12"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key13"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key14"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key15"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key16"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key17"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key18"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key19"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def eggs(someParameter):<br>    someParameter.append('Hello')<br><br>spam = [1, 2, 3]<br>eggs(spam)<br>print(spam)"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key20"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key21"
+  },
+  {
+    "component": "text",
+    "value": "converting-types-with-the-list()-and-tuple()-functions_key22"
+  }
+]

@@ -1,0 +1,56 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "A program to calculate the sum of 2 numbers"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Python</span> sum function"
+	},
+	{
+		"component": "text",
+		"value": "Is program mai hum ek add ka function ka use karenge"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def add(a, b):<br>    print(a+b)<br><br>add(5, 6) # Gives 11"
+	},
+	{
+		"component": "text",
+		"value": "ab agar hum ye call karenge to kya hoga?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "ans = add(5, 6) + add(2, 3)<br>print(ans)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Task"
+	},
+	{
+		"component": "text",
+		"value": "Upar wale <span style=\"\">statements</span> run karne per kya answer aaya?<br>agar hum sahi answer chahte hai to hume kya change karna padega?<br>add function ko fir se likho jisse 2nd wale <span style=\"\">statement</span> ke liye <span style=\"\">output</span> sahi ho"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution"
+	},
+	{
+		"component": "text",
+		"value": "Add function mai return hona chahiye"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def add(a, b):<br>    return(a+b)"
+	}
+]

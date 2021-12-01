@@ -94,7 +94,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Sochiye facebook apne database mei kaise information store karta hoga?<br><br><br>",
+		"value": "Sochiye facebook apne database mei kaise information store karta hoga?",
 		"decoration": {
 			"type": "number",
 			"value": 9

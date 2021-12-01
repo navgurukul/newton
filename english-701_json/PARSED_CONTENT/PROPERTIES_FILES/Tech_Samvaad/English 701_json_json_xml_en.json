@@ -11,7 +11,7 @@
 	"json_xml_key10": "xml json ke compare mein bahut adhik complex hai .",
 	"json_xml_key11": "xml ke lie schhaim(metadata) ko discribe karane ke lie kai characteristics hain.",
 	"json_xml_key12": "xml mein xml data se query karane ke lie Xquery specify hai.lekin json maano JAQL, JSONiq aadi shaamil hote hai lekin ye general roop se upayog nahin hote hai.",
-	"json_xml_key13": "xml mein XSLT ko specification kiya gaya hai.jo kisee bhee xml document mein ek style ko laagoo karane ke lie upayog kiya ja sakata hai. haalaanki json mein kuchh nahin hai.<br><br>",
+	"json_xml_key13": "xml mein XSLT ko specification kiya gaya hai.jo kisee bhee xml document mein ek style ko laagoo karane ke lie upayog kiya ja sakata hai. haalaanki json mein kuchh nahin hai.",
 	"json_xml_key14": "Do log ko mil kar sabse pehle yeh videos dekhni hai",
 	"json_xml_key15": "JSON Example",
 	"json_xml_key16": "XML Example",

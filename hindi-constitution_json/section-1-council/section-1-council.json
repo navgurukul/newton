@@ -1,0 +1,76 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Council"
+	},
+	{
+		"component": "text",
+		"value": "Council ko Navgurukul campus ke <b>members</b> dwara elect kiya jayega aur wo campus ko represent karne ke liye responsible honge. <br>Council sabhi ki <b>learning</b> ensure karte hue day-to day operations ko <b>smoothly manage</b> karegi. <br>Council ke members ke beech kaam bantne ke liye is council me 7 members shaamil honge:"
+	},
+	{
+		"component": "text",
+		"value": "Food and Kitchen Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Information Technology Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Treasurer",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Outreach and Communication Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Training and Placement Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Facility and Maintenance Coordinator",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Prosperity Officer",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Council ke members ke alawa general body se ek member ko <b>General Secretory</b> appoint kiya jayega. "
+	},
+	{
+		"component": "text",
+		"value": "Har <b>3 months</b> baad, council ke members ke appointment ke liye elections conduct kiye jayenge. "
+	},
+	{
+		"component": "text",
+		"value": "Council ke kaam ke review ke liye har month ek <b>General Body Meeting (GBM)</b> organize ki jayegi. <br>Meeting ke Minutes (MoM) ko record kiya jayega aur Outreach and Communication Coordinator ke through ek public blog me post kiya jayega. "
+	},
+	{
+		"component": "text",
+		"value": "Coordinators Board ke Governors ke consultation se issues ko resolve karne aur existing solutions ko improve karne ke liye independently kaam kar sakte hain. <br>Ek student council me 2 se jyada post par nahi rah sakta hai. <br>Transparency ensure karne ke liye council members campus ke channel me electronically apne decisions record karnge."
+	}
+]

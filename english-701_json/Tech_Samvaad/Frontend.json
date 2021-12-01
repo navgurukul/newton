@@ -60,7 +60,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Software me Front-end ki kya zarurat hai?<br><br>",
+		"value": "Software me Front-end ki kya zarurat hai?",
 		"decoration": {
 			"type": "number",
 			"value": 3

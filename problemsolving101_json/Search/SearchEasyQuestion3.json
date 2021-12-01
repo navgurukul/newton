@@ -1,0 +1,11 @@
+[
+	{
+		"component": "text",
+		"value": "<b>Search</b> waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<a href=\"https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=search\">Click here to see Problems</a>"
+	}
+]

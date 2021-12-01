@@ -1,0 +1,49 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-caret-and-dollar-sign-characters_key1"
+  },
+  {
+    "component": "text",
+    "value": "the-caret-and-dollar-sign-characters_key2"
+  },
+  {
+    "component": "text",
+    "value": "the-caret-and-dollar-sign-characters_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> beginsWithHello = re.compile(r'^Hello')<br>>>> beginsWithHello.search('Hello world!')<br><_sre.SRE_Match object; span=(0, 5), match='Hello'><br>>>> beginsWithHello.search('He said hello.') == None<br>True"
+  },
+  {
+    "component": "text",
+    "value": "the-caret-and-dollar-sign-characters_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> endsWithNumber = re.compile(r'\\d$')<br>>>> endsWithNumber.search('Your number is 42')<br><_sre.SRE_Match object; span=(16, 17), match='2'><br>>>> endsWithNumber.search('Your number is forty two.') == None<br>True"
+  },
+  {
+    "component": "text",
+    "value": "the-caret-and-dollar-sign-characters_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> wholeStringIsNum = re.compile(r'^\\d+$')<br>>>> wholeStringIsNum.search('1234567890')<br><_sre.SRE_Match object; span=(0, 10), match='1234567890'><br>>>> wholeStringIsNum.search('12345xyz67890') == None<br>True<br>>>> wholeStringIsNum.search('12 34567890') == None<br>True"
+  },
+  {
+    "component": "text",
+    "value": "the-caret-and-dollar-sign-characters_key6"
+  },
+  {
+    "component": "text",
+    "value": "the-caret-and-dollar-sign-characters_key7"
+  }
+]

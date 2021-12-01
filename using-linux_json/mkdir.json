@@ -1,0 +1,18 @@
+[
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "mkdir navgurukul<br>mkdir directory/directory/directory<br>mkdir -p directory/directory/directory"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">-p</span> command se recursively folders ban jaate hai, agar woh folders exist nahi karte. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">mkdir</span> sirf <span style=\"\">tab</span> hi folders banata hai, jab jiss folder mei aap folder bana rahe hote hai, woh exist karta hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "mkdir existing_dir_error<br>mkdir existing_dir_error"
+	}
+]

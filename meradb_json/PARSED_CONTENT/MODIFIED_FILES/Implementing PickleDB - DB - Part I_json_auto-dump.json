@@ -1,0 +1,105 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "auto-dump_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import meradb<br>db = meradb.load('ektha.db')<br>db.set('key1', 'value1')<br>db2.get('key1')<br>db.set('key2', 'value2')<br>db1.get('key2')"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key2"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key3"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key4"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "auto-dump_key6"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key7"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key8"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key9"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key10"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key13"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "auto-dump_key14"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key15"
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key17",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "auto-dump_key19",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

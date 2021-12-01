@@ -1,0 +1,44 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-current-working-directory_key1"
+  },
+  {
+    "component": "text",
+    "value": "the-current-working-directory_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import os<br>>>> os.getcwd()<br>'C:\\\\Python34'<br>>>> os.chdir('C:\\\\Windows\\\\System32')<br>>>> os.getcwd()<br>'C:\\\\Windows\\\\System32'"
+  },
+  {
+    "component": "text",
+    "value": "the-current-working-directory_key3"
+  },
+  {
+    "component": "text",
+    "value": "the-current-working-directory_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> os.chdir('C:\\\\ThisFolderDoesNotExist')"
+  },
+  {
+    "component": "text",
+    "value": "the-current-working-directory_key5"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-current-working-directory_key6"
+  },
+  {
+    "component": "text",
+    "value": "the-current-working-directory_key7"
+  }
+]

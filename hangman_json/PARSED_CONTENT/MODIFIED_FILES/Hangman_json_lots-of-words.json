@@ -1,0 +1,50 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lots-of-words_key1"
+  },
+  {
+    "component": "text",
+    "value": "lots-of-words_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lots-of-words_key3"
+  },
+  {
+    "component": "text",
+    "value": "lots-of-words_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lots-of-words_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lots-of-words_key6"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=6LiPNTmkNeY"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lots-of-words_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def load_words():<br>    \"\"\"<br>    Ye function kaafi jayada words ko load karne mai help karega<br>    \"\"\"<br><br>    WORDLIST_FILENAME = \"words.txt\"<br>    print \"Loading word list from file...\"<br>    inFile = open(WORDLIST_FILENAME, 'r', 0)<br>    line = inFile.readline()<br>    word_list = string.split(line)<br>    print \"  \", len(word_list), \"words loaded.\\n\"<br><br>    return word_list"
+  }
+]

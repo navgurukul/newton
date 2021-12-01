@@ -1,0 +1,69 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Writing Word Documents"
+	},
+	{
+		"component": "text",
+		"value": "Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import docx<br>>>> doc = docx.Document()<br>>>> doc.add_paragraph('Hello world!')<br><docx.text.Paragraph object at 0x0000000003B56F60><br>>>> doc.save('helloworld.docx')"
+	},
+	{
+		"component": "text",
+		"value": "To create your own .docx <span style=\"\">file</span>, call docx.Document() to return a new, blank Word Document object. The add_paragraph() document method adds a new paragraph of text to the document and returns a reference to the Paragraph object that was added. When you’re done adding text, pass a <span style=\"\">file</span>name <span style=\"\">string</span> to the <span style=\"\">save</span>() document method to <span style=\"\">save</span> the Document object to a <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "This will create a <span style=\"\">file</span> named helloworld.docx in the current working directory that, when opened, looks like Figure 13-8."
+	},
+	{
+		"component": "text",
+		"value": "Figure 13-8. The Word document created using add_paragraph('Hello world!')"
+	},
+	{
+		"component": "text",
+		"value": "You can add paragraphs by calling the add<i>paragraph() method again with the new paragraph’s text. Or to add text to the end of an existing paragraph, you can call the paragraph’s add</i>run() method and pass it a <span style=\"\">string</span>. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import docx<br>>>> doc = docx.Document()<br>>>> doc.add_paragraph('Hello world!')<br><docx.text.Paragraph object at 0x000000000366AD30><br>>>> paraObj1 = doc.add_paragraph('This is a second paragraph.')<br>>>> paraObj2 = doc.add_paragraph('This is a yet another paragraph.')<br>>>> paraObj1.add_run(' This text is being added to the second paragraph.')<br><docx.text.Run object at 0x0000000003A2C860><br>>>> doc.save('multipleParagraphs.docx')"
+	},
+	{
+		"component": "text",
+		"value": "The resulting document will look like Figure 13-9. Note that the text This text is being added to the second paragraph. was added to the Paragraph object in paraObj1, which was the second paragraph added to doc. The add<i>paragraph() and add</i>run() functions return paragraph and Run objects, respectively, to <span style=\"\">save</span> you the trouble of extracting them as a separate step."
+	},
+	{
+		"component": "text",
+		"value": "Keep in mind that as of <span style=\"\">Python</span>-Docx version 0.5.3, new Paragraph objects can be added only to the end of the document, and new Run objects can be added only to the end of a Paragraph object."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">save</span>() method can be called again to <span style=\"\">save</span> the additional changes you’ve made."
+	},
+	{
+		"component": "text",
+		"value": "Figure 13-9. The document with multiple Paragraph and Run objects added"
+	},
+	{
+		"component": "text",
+		"value": "Both add<i>paragraph() and add</i>run() accept an optional second argument that is a <span style=\"\">string</span> of the Paragraph or Run object’s style. For example:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> doc.add_paragraph('Hello world!', 'Title')"
+	},
+	{
+		"component": "text",
+		"value": "This line adds a paragraph with the text Hello world! in the Title style."
+	}
+]

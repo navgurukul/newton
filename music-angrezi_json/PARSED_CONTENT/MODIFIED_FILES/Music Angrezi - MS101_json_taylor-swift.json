@@ -1,0 +1,29 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "taylor-swift_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "WOKOiZo5zAQ"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "taylor-swift_key2"
+  },
+  {
+    "component": "youtube",
+    "value": "VtTRcWXSBwc"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "taylor-swift_key3"
+  },
+  {
+    "component": "youtube",
+    "value": "qwGwj5IpWuo"
+  }
+]

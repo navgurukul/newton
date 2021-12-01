@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is hacking and who are hackers? <br>",
+		"value": "What is hacking and who are hackers? ",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "text",
-		"value": "what are the types of hacking? <br>",
+		"value": "what are the types of hacking? ",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "what are the differecnce between black hat, grey hat, and white hat? <br>",
+		"value": "what are the differecnce between black hat, grey hat, and white hat? ",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -51,7 +51,7 @@
 	},
 	{
 		"component": "text",
-		"value": "can anyone in navgurukul hack? <br>",
+		"value": "can anyone in navgurukul hack? ",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -59,7 +59,7 @@
 	},
 	{
 		"component": "text",
-		"value": "what are the basic ports in hacking? <br>",
+		"value": "what are the basic ports in hacking? ",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -67,7 +67,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Is hacking a legel and is it important? <br><br>",
+		"value": "Is hacking a legel and is it important? ",
 		"decoration": {
 			"type": "number",
 			"value": 6
@@ -80,7 +80,7 @@
 	},
 	{
 		"component": "text",
-		"value": ".<a href=\"https://www.guru99.com/what-is-hacking-an-introduction.html\">About hacking</a><br><br>",
+		"value": ".<a href=\"https://www.guru99.com/what-is-hacking-an-introduction.html\">About hacking</a>",
 		"decoration": {
 			"type": "number",
 			"value": null

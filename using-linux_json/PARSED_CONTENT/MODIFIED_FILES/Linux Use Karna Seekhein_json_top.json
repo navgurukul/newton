@@ -1,0 +1,33 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "top_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "top"
+  },
+  {
+    "component": "text",
+    "value": "top_key2"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "sudo apt install htop"
+  },
+  {
+    "component": "text",
+    "value": "top_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "htop"
+  }
+]

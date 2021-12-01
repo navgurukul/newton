@@ -1,0 +1,323 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key1"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key2"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key3"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key4"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key5"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key6"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key7"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key8"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key9"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key10"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key11"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key12"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key13"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key14"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key15"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key16"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key17"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key18"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key19"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key21"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key22"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key23"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key24"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key25"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key26"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key27"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key28"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key29"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key30"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key31"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key32"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key33"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key34"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key35"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key36"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key37"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key38"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key39"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key40"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key41"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key42"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key43"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key44"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Download the page.<br>    print('Downloading page %s...' % url)<br>    res = requests.get(url)<br>    res.raise_for_status()<br><br>    soup = bs4.BeautifulSoup(res.text)"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key45"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key46"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key47"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key48"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key49"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key50"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key51"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key52"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Find the URL of the comic image.<br>    comicElem = soup.select('#comic img')<br>    if comicElem == []:<br>         print('Could not find comic image.')<br>    else:<br>         try:<br>             comicUrl = 'http:' + comicElem[0].get('src')<br>             # Download the image.<br>             print('Downloading image %s...' % (comicUrl))<br>             res = requests.get(comicUrl)<br>             res.raise_for_status()<br>         except requests.exceptions.MissingSchema:<br>             # skip this comic<br>             prevLink = soup.select('a[rel=\"prev\"]')[0]<br>             url = 'http://xkcd.com' + prevLink.get('href')<br>             continue"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key53"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key54"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key55"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key56"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key57"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key58"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key59"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key60"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key61"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Save the image to ./xkcd.<br>        imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)), 'wb')<br>        for chunk in res.iter_content(100000):<br>            imageFile.write(chunk)<br>        imageFile.close()<br><br>    # Get the Prev button's url.<br>    prevLink = soup.select('a[rel=\"prev\"]')[0]<br>    url = 'http://xkcd.com' + prevLink.get('href')"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key62"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key63"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key64"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key65"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key66"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key67"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "ideas-for-similar-programs_2_key68"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key69"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key70"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key71"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key72"
+  },
+  {
+    "component": "text",
+    "value": "ideas-for-similar-programs_2_key73"
+  }
+]

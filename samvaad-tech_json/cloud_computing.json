@@ -65,7 +65,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Drop Box<br><br>",
+		"value": "Drop Box",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -138,7 +138,7 @@
 	},
 	{
 		"component": "text",
-		"value": "use karana bahut hee aasaan hai yah ek Computer / Windows Explorer kee tarah hee <br> dikhaee deta hai.Files ko online bhee edit kiya ja sakata hai.",
+		"value": "use karana bahut hee aasaan hai yah ek Computer / Windows Explorer kee tarah hee  dikhaee deta hai.Files ko online bhee edit kiya ja sakata hai.",
 		"decoration": {
 			"type": "number",
 			"value": 8
@@ -162,7 +162,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Yaha 5GB se lekar 25GB tak ka data online store kiya ja sakata hain.<br><br><br>",
+		"value": "Yaha 5GB se lekar 25GB tak ka data online store kiya ja sakata hain.",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -207,7 +207,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Indian Government dvaara digilocker naam kee application jaaree kee gayi hai, jismain user apne Birth Certificate, Paasport,<br>Educational Certificate jaise aham documents ko online store kar sakte hain. yah bhee Colud Computing ka ek udaaharan hai.",
+		"value": "Indian Government dvaara digilocker naam kee application jaaree kee gayi hai, jismain user apne Birth Certificate, Paasport,Educational Certificate jaise aham documents ko online store kar sakte hain. yah bhee Colud Computing ka ek udaaharan hai.",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -247,7 +247,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Cloud computing jis prakaar pragati kar rahee hai ho sakata hai jal‍d hee computor aur laptop keval cloud storage ke saath abilable hon aur harddisk ka astit‍va samaap‍ta haae jaaye.<br><br><br>",
+		"value": "Cloud computing jis prakaar pragati kar rahee hai ho sakata hai jal‍d hee computor aur laptop keval cloud storage ke saath abilable hon aur harddisk ka astit‍va samaap‍ta haae jaaye.",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -309,7 +309,7 @@
 	},
 	{
 		"component": "text",
-		"value": "How Many Types Of Deployment Models Are Used In Cloud?<br>",
+		"value": "How Many Types Of Deployment Models Are Used In Cloud?",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -317,7 +317,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What Are The Advantages Of Cloud Services?<br>",
+		"value": "What Are The Advantages Of Cloud Services?",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -325,7 +325,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Mention The Basic Components Of A Server Computer In Cloud Computing? <br>",
+		"value": "Mention The Basic Components Of A Server Computer In Cloud Computing? ",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -333,7 +333,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Explain Benefits Of Cloud Computing?<br>",
+		"value": "Explain Benefits Of Cloud Computing?",
 		"decoration": {
 			"type": "number",
 			"value": 4

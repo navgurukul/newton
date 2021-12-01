@@ -1,0 +1,25 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "matching-newlines-with-the-dot-character_key1"
+  },
+  {
+    "component": "text",
+    "value": "matching-newlines-with-the-dot-character_key2"
+  },
+  {
+    "component": "text",
+    "value": "matching-newlines-with-the-dot-character_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> noNewlineRegex = re.compile('.*')<br>>>> noNewlineRegex.search('Serve the public trust.\\nProtect the innocent.\\nUphold the law.').group()<br>'Serve the public trust.'<br>>>> newlineRegex = re.compile('.*', re.DOTALL)<br>>>> newlineRegex.search('Serve the public trust.\\nProtect the innocent.\\nUphold the law.').group()<br>'Serve the public trust.\\nProtect the innocent.\\nUphold the law.'"
+  },
+  {
+    "component": "text",
+    "value": "matching-newlines-with-the-dot-character_key4"
+  }
+]

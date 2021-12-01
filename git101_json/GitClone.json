@@ -1,0 +1,25 @@
+[
+	{
+		"component": "text",
+		"value": "Aapke aur aapke peers ki stories (puri nahi bas beginnings), ab github pe hai - jahan se aap sab ek doosre ki stories dekh sakte hain aur collaborate kar sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "GitHub se apne peer ki story apne system mein copy karne ke liye hum \"git clone\" command ka use karte hain."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository\">Iss</a> link ke through \"git clone\" command ka use dekhiye."
+	},
+	{
+		"component": "text",
+		"value": "<b>Assignment</b>"
+	},
+	{
+		"component": "text",
+		"value": "Apne peers ki stories \"git clone\" use karke apne system mein copy kijiye.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

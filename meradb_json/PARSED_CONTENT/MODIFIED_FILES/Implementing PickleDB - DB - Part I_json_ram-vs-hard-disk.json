@@ -1,0 +1,80 @@
+[
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key1"
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key4"
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "ram-vs-hard-disk_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"component": "text",
+		"value": "Yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">program</span> kya karte hai, inhe acche se samjhe aur inke dry run kare."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list = [1, 2, 3, None, (1, 2, 3, 4, 5), ['hello', 'world', 'Namaste']]<br>print len(list)<br>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list = ['a', 'b', 'c', 'd', 'e']<br>print list[4:]<br>print list[10:]<br>print list[1:]<br>print list[1:4]"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list = [1,2]*3<br>print list"
+	},
+	{
+		"component": "text",
+		"value": "index ka matlab ki kaunsi jagah pe aayega, so isme <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a = ['hello', 2]</span>  hello ka index <b>0</b> hai<br>xw"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list1 = [100, 101, 102, 103, 104, 105, 106 ,107, 108, 109] #statement 1<br>print \"index of element 105 is : \", list1.index(105)"
+	}
+]

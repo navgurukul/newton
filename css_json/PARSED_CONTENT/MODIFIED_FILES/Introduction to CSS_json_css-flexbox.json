@@ -1,0 +1,85 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "css-flexbox_key1"
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key4"
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key5",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key6",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key9"
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key10"
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-flexbox_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "component": "text",
+    "value": "scope-intro_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "scope-intro_key2"
+  },
+  {
+    "component": "text",
+    "value": "scope-intro_key3"
+  },
+  {
+    "component": "text",
+    "value": "scope-intro_key4"
+  }
+]

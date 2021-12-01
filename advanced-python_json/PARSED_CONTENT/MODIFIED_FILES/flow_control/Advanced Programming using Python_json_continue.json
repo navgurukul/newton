@@ -1,0 +1,51 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "continue_key1"
+  },
+  {
+    "component": "text",
+    "value": "continue_key2"
+  },
+  {
+    "component": "text",
+    "value": "continue_key3"
+  },
+  {
+    "component": "text",
+    "value": "continue_key4"
+  },
+  {
+    "component": "text",
+    "value": "continue_key5"
+  },
+  {
+    "component": "text",
+    "value": "continue_key6"
+  },
+  {
+    "component": "text",
+    "value": "continue_key7"
+  },
+  {
+    "component": "text",
+    "value": "continue_key8"
+  },
+  {
+    "component": "text",
+    "value": "continue_key9"
+  },
+  {
+    "component": "text",
+    "value": "continue_key10"
+  },
+  {
+    "component": "text",
+    "value": "continue_key11"
+  },
+  {
+    "component": "text",
+    "value": "continue_key12"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key1"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key2"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key3"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key5"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key6"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Eg:<br>  Input: 1000<br>  Output:<br>      1<br>    153<br>    370<br>    371<br>    407<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Task-3_key8"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 120<br>  Output:<br>      1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 2:<br>  Input: 1000<br>  Output:<br>      1<br>    153<br>    370<br>    371<br>    407"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 3:<br>  Input: 300<br>  Output:<br>      1<br>    153"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 4:<br>  Input: 400<br>  Output:<br>      1<br>    153<br>    370<br>    371"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-3_key9"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key10"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key11"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key12"
+  },
+  {
+    "component": "text",
+    "value": "Task-3_key13"
+  }
+]
