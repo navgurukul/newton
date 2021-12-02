@@ -3,4 +3,4 @@ name: Question 1
 ```
 ### Question 1
 
-Write a code for calculator?
+You know how the calculator works?  Write the code for the calculator by using the switch statement using its simple operations?

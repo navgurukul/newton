@@ -2,17 +2,22 @@
 name:const scope
 ```
 ``` javascript
+
 const founderOfNavgurukul ="Abhishek Gupta"
 founderOfNavgurukul = "Kumar nayak"
+
 ```
 ##### output: 
+
 TypeError: Assignment to constant variable.
  
 #### Const cannot be updated.
 
 ```javascript
+
 const founderOfNavgurukul ="Abhishek Gupta"
 const founderOfNavgurukul = "Kumar nayak"
+
 ```
  
 #### Const cannot be redeclared.

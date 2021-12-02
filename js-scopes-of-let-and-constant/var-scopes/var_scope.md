@@ -2,17 +2,17 @@
 name:var_scope
 ```
 ``` javascript
-var myName="kumar"; // global scope
+var myName="kumar"; 
  
 function sayHi(){
-  console.log(myName); //output kumar
-  var frdsName="Pavan";   // local scope or function scope
-  console.log(frdsName); //output pavan
+  console.log(myName);
+  var frdsName="Pavan";  
+  console.log(frdsName); 
 }
- 
 sayHi();
-console.log(myName) //output kumar
-console.log(frdsName) //output Error: ReferenceError: frdsName is not defined
+console.log(myName) 
+console.log(frdsName) 
+
 ```
 ##### //output
 kumar
