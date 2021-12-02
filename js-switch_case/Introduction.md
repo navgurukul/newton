@@ -17,8 +17,8 @@ switch (day) {
   case "Tuesday":
        console.log("Normal working day")
   	  break;
- }
- 
+      }
+
  ```
  ### Explanation
  

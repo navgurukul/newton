@@ -1,7 +1,7 @@
 ```ngMeta
 name:Question1
 ```
-#### hat is the output of the following code?
+#### what is the output of the following code?
 
  ```javascript
 
