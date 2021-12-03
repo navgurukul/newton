@@ -24,35 +24,37 @@ Videos to watch:
 
 What is NavGurukul & Residential Program: 
 
-https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955
+[https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955](https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955)
 
 Who can join NavGurukul: 
 
-https://www.loom.com/share/f4d63c249eab4faf98bf06e73c299c31
+[https://www.loom.com/share/f4d63c249eab4faf98bf06e73c299c31](https://www.loom.com/share/f4d63c249eab4faf98bf06e73c299c31)
 
 Safety & Security of Campus: 
-https://www.loom.com/share/57f330cefd3440e2b09660812bea6bbf
+[https://www.loom.com/share/57f330cefd3440e2b09660812bea6bbf](https://www.loom.com/share/57f330cefd3440e2b09660812bea6bbf)
 
 Campus Stay & Community Living: 
-https://www.loom.com/share/7b8d0d9b37ef4a60b46fd5b05ba539e1
+
+[https://www.loom.com/share/7b8d0d9b37ef4a60b46fd5b05ba539e1](https://www.loom.com/share/7b8d0d9b37ef4a60b46fd5b05ba539e1)
 
 Life at NavGurukul: 
 
-https://www.youtube.com/watch?v=IqMUClmN7-c&feature=emb_title
+@[youtube](IqMUClmN7)
 
 Program introduction in 2 minutes:  
-https://www.youtube.com/watch?v=dLVT1fJeWHI
+
+@[youtube](dLVT1fJeWHI)
 
 **Posters & PDF to read:**
 
 **Program Deck:**
-https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing
+[https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing](https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing)
 
 Poster: 
 
-https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing
+[https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing](https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing)
  
-https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing
+[https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing](https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing)
 
  
   
@@ -62,28 +64,28 @@ https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=shari
 
 What is NavGurukul & Residential Program: 
 
-https://www.loom.com/share/416bb6e2d52c4ca6bc9ceb67937d4517
+[https://www.loom.com/share/416bb6e2d52c4ca6bc9ceb67937d4517](https://www.loom.com/share/416bb6e2d52c4ca6bc9ceb67937d4517)
 
 Safety & Security of Campus: 
 
-https://www.loom.com/share/025b971f29fb44a6b640d247e4ff1ff3
+[https://www.loom.com/share/025b971f29fb44a6b640d247e4ff1ff3](https://www.loom.com/share/025b971f29fb44a6b640d247e4ff1ff3)
 
 Life at NavGurukul: 
 
-https://www.youtube.com/watch?v=IqMUClmN7-c&feature=emb_title
+@[youtube](IqMUClmN7)
 
 Program introduction in 2 minutes:  
 
-https://www.youtube.com/watch?v=dLVT1fJeWHI
+@[youtube](dLVT1fJeWHI)
 
 Posters & PDF to read:
 
 Program Deck: 
 
-https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing
+[https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing](https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing)
 
 Poster: 
 
-https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing
+[https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing](https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing)
  
-https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing
+[https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing](https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing)
