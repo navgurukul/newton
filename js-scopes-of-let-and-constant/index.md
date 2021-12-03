@@ -1,15 +1,18 @@
-- variables.md
-- var_scope.md
-- Problem-in-var.md
-- Exercises
-    - Question1.md
-    - Question2.md
+- var-scopes
+    - variables.md
+    - var_scope.md
+    - Problem-in-var.md
+    - Exercises
+        - Question1.md
+        - Question2.md
 - let-scopes
     - let.md
-    - Question1.md
-    - Question2.md
+    - Questions
+        - Question1.md
+        - Question2.md
 - const
     - const-scopes.md
-    - Question1.md
-    - Question2.md
-    - Question3.md
+    - Question
+        - Question1.md
+        - Question2.md
+        - Question3.md
