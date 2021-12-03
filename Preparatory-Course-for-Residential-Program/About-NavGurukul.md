@@ -11,8 +11,9 @@ For more than five years, NavGurukul has been offering low-cost residential spac
 **To know more about us, please visit these links:**
 
 Website: 
-https://navgurukul.org/
+
+[https://navgurukul.org/](https://navgurukul.org/)
 
 Information Videos: 
 
-https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955
+[https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955](https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955)
