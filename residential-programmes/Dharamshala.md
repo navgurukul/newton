@@ -14,6 +14,6 @@ name: Dharamshala
 
 ### Please read the following PDF & poster (Google Drive links):
 
-- [Info session Deck](https://docs.google.com/presentation/d/1pNuqtESgWuEvn1N9Httvv8Rq32GefyzO6WrLTbibY4g/edit?usp=sharing)
+- [Info Session Deck](https://docs.google.com/presentation/d/1pNuqtESgWuEvn1N9Httvv8Rq32GefyzO6WrLTbibY4g/edit?usp=sharing)
 - [Admissions Poster](https://drive.google.com/file/d/1nC304hPmYxGhMCQ4elEON6KAN_cYXwh2/view?usp=sharing)
 
