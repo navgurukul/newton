@@ -4,8 +4,6 @@ name: Pune/Bangalore/Sarjapur
 
 # Pune/Bangalore/Sarjapur Campuses: For 600 Girls & Transwomen
 
-**Features of the residential program:**
-
 - 1 year of the residential training program. You need to **stay on campus** and complete the course. It is an all-female campus including team members. 
 - Fully funded: We will take care of your **fooding, lodging, internet, and laptop**. You don’t need to pay anything for this. You will be required to take care of your personal & medical expenses and travels. 
 - We provide **guaranteed jobs** post completion of the program, starting from **Rs. 20000/month or more** in SMEs & Startups. 
