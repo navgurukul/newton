@@ -7,13 +7,9 @@ Started in 2016 by Abhishek Gupta (IIT-D Alumnus) & Rishabh Verma (Self taught P
 Till now, we have partnered with **9 Government bodies** including DSEU, Punjab, Tripura, and Odisha Govt and **100+ NGOs** to identify underserved students who can benefit the most from our program. 
 
 For more than five years, NavGurukul has been offering low-cost residential spaces for students from diverse backgrounds to come and learn Software Programming, using a vernacular curriculum in a financially sustainable setup. With the capacity of **900+ students** in our campuses in **Dharamshala, Bangalore, Sarjapur, Pune, Tripura, and Delhi** we run a one-year residential course free of cost for the Boys/girls/women/trans women with guaranteed jobs that pay them 20,000 INR per month or more. These courses are a replacement for traditional Engineering courses which cost 10x and consume 4x time, with 700% better results. More than **210 students** have been placed in **60+** Startups & SMEs with an average salary of INR 3.1 Lacs per annum.
- 
+
 **To know more about us, please visit these links:**
 
-Website: 
+Video: [What is NavGurukul & Residential Program (English)](https://youtu.be/FNMj0EnmdXI)
 
-[https://navgurukul.org/](https://navgurukul.org/)
-
-Information Videos: 
-
-[https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955](https://www.loom.com/share/f8c197ea5cec47a983f817ad272aa955)
+You can also visit us at [https://navgurukul.org/](https://navgurukul.org/)
