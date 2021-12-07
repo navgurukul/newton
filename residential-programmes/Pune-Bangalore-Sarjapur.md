@@ -13,6 +13,9 @@ name: Pune/Bangalore/Sarjapur
 - You will not be allowed to join our program if you are **applying/preparing for Govt, Jobs, working/studying full time.** 
 - Two sisters will not be allowed to stay on the same campus. If two sisters are selected, they would be asked to join two different campuses of ours. 
 
+### Life of Students in Pune Campus (Bangalore & Sarjapur videos coming soon)
+
+@[youtube](UMvmVW5QUo4)
 
 ### Please read the following PDF & poster (Google Drive links):
 
