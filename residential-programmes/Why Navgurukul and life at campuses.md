@@ -15,10 +15,6 @@ Life at our different campuses is vibrant and community based. We live, study an
 
 Please watch these videos for an overview of life at campuses. Then, we will go into details of the residential programmes at each of the campuses. (Pune/Bangalore/Sarjapur have simialr programmes hence, their information will be at one place together)
 
-What is NavGurukul & Residential Program: 
-
-@[youtube](FNMj0EnmdXI)
-
 Who can join NavGurukul: 
 
 @[youtube](ztpsLr9icCA)
