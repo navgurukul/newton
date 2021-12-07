@@ -1,1 +1,1 @@
-- Admission-Process-Criteria.md
+- Admission Process & Criteria.md
