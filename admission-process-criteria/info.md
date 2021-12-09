@@ -1,5 +1,5 @@
 ```ngMeta
-name: admission-process-criteria
+name: Admission Process & Criteria
 type: html
-short_description: admission-process-criteria 
+short_description: Admission Process & Criteria 
 ```
