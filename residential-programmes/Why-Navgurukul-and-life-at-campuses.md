@@ -13,24 +13,29 @@ Life at our different campuses is vibrant and community based. We live, study an
 - Delhi
 - Tripura
 
+
 Please watch these videos for an overview of life at campuses. Then, we will go into details of the residential programmes at each of the campuses. (Pune/Bangalore/Sarjapur have simialr programmes hence, their information will be at one place together)
 
-Who can join NavGurukul: 
+**Who can join NavGurukul** 
 
 @[youtube](ztpsLr9icCA)
 
-Safety & Security of Campus: 
+
+**Safety & Security of Campus**
 
 @[youtube](7awZ1KCqvIw)
 
-Campus Stay & Community Living: 
+
+**Campus Stay & Community Living**
 
 @[youtube](eaXvYAqVu6M)
 
-Life at NavGurukul: 
+
+**Life at NavGurukul**
 
 @[youtube](IqMUClmN7)
 
-Program introduction in 2 minutes:  
+
+**Program introduction in 2 minutes**
 
 @[youtube](dLVT1fJeWHI)
