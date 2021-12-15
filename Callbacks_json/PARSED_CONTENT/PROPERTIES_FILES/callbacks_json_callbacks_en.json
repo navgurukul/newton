@@ -1,0 +1,11 @@
+{
+	"callbacks_key1": "The example below shows you how to write a callback function and a callback-accepting function:",
+	"callbacks_key2": "callbackWaalaFunction is a function which accepts one more function as a parameter i.e., fn and then called inside that like fn(1,2,3) and it went to perform some task as per that function.",
+	"callbacks_key3": "A callback function is a function (it can be any name function, anonymous function or an arrow function) passed into another function as an argument, which is then invoked inside the outer function to complete some kind of routine or action given. (Developers say you “call” a function when you <span style=\"\">execute</span> a function, which is why callbacks are named callbacks)",
+	"callbacks_key4": "const result = callbackWaalaFunction(myDescription)<br>Notice in this line, when you pass a callback function (i.e. myDescription) into another function (callbackWaalaFunction), you only pass the reference to the call back without executing it. This is why myDescription does not have any parenthesis next to it.",
+	"callbacks_key5": "You only invoke (call) the callback in the callbackWaalaFunction. When you do so, you can pass any number of arguments that the callback may require:",
+	"callbacks_key6": "Phew! That’s the basic idea for callbacks! Just remember that passing a function into another function is called callback",
+	"callbacks_key7": "<b>Example:</b>",
+	"callbacks_key8": "<b>Example:</b>",
+	"callbacks_key9": "If this calc function is in a library, the user needs to use the whole <span style=\"\">syntax</span> for any kind of operation, so the best way to do it is to abstract into a tiny function and here callback plays a prominent role."
+}

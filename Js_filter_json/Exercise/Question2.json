@@ -1,0 +1,14 @@
+[
+	{
+		"component": "text",
+		"value": "Var Fruits = [ “apple”, “mango”,”grapes”,strawberry”,”orange”]"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span> for whose elements start with a vowel?"
+	},
+	{
+		"component": "text",
+		"value": "Sample <span style=\"\">output</span> [ “apple”,”orange”]"
+	}
+]

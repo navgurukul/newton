@@ -1,0 +1,13 @@
+{
+	"callbacks-in-asynchronous-functions_key1": "<b>Asynchronous</b> here means that, if JavaScript needs to wait for something to complete, it will <span style=\"\">execute</span> the rest of the tasks given to it while waiting.",
+	"callbacks-in-asynchronous-functions_key2": "An example of an asynchronous function is setTimeout. It takes in a callback function to <span style=\"\">execute</span> at a later time:",
+	"callbacks-in-asynchronous-functions_key3": "In the <span style=\"\">code</span> above, JavaScript <span style=\"\">executes</span> setTimeout. Then, it waits for ten second and logs “10 seconds passed!”.",
+	"callbacks-in-asynchronous-functions_key4": "Meanwhile, while waiting for setTimeout to complete in 10 seconds, JavaScript <span style=\"\">executes</span> console.log(\"Start!\").",
+	"callbacks-in-asynchronous-functions_key5": "So, this is what you’ll see if you log the above <span style=\"\">code</span>:<br>What happens:",
+	"callbacks-in-asynchronous-functions_key6": "// &gt; Start! (almost immediately)<br>// &gt;10 seconds passed! (after 10 seconds)",
+	"callbacks-in-asynchronous-functions_key7": "Ugh. Asynchronous operations sound complicated, aren’t they? But why do we use them everywhere in JavaScript?",
+	"callbacks-in-asynchronous-functions_key8": "To see why asynchronous operations are important, imagine JavaScript is a robot helper you have in your house. This helper is pretty dumb. It can only do one thing at a time. (This behavior is called single-threaded).",
+	"callbacks-in-asynchronous-functions_key9": "Let’s say you tell the robot helper to order some pizza for you. But, the robot is so dumb, that after calling the pizza house, the robots sits at your front door and waits for the pizza to be delivered. It can’t do anything else in the meantime.",
+	"callbacks-in-asynchronous-functions_key10": "You can’t get it to iron clothes, mop the floor, or do anything while it’s waiting. You need to wait 20 minutes till the pizza arrives before it’s willing to do anything else…<br>(This behavior is called blocking. Other operations are blocked when you wait for something to complete).",
+	"callbacks-in-asynchronous-functions_key11": "Let’s explain by one more example by putting the dumb robot helper into the context of a browser. Imagine you tell it to change the color of a button when the button is clicked."
+}

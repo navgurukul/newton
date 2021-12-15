@@ -1,0 +1,49 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Admission-Criteria_key1"
+  },
+  {
+    "component": "text",
+    "value": "Admission-Criteria_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Admission-Criteria_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Admission-Criteria_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Admission-Criteria_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Admission-Criteria_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Admission-Criteria_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

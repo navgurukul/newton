@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Question1_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>function display(){<br>  var a=10;<br>  let b=13;<br>  if (true){<br>      console.log(a);<br>      console.log(b);<br>  }<br>}<br>display()"
+  },
+  {
+    "component": "header",
+    "variant": 5,
+    "value": "Question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key3"
+  },
+  {
+    "component": "header",
+    "variant": 5,
+    "value": "Question1_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question1_key5"
+  }
+]

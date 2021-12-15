@@ -1,0 +1,89 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Tripura Campus with Tripura Tribal Welfare Department (TTWD): For 150 Girls &amp; Trans women from Tripura"
+	},
+	{
+		"component": "text",
+		"value": "<b>18-month residential training program</b> in the <b>Shaheed Bhagat Youth Hostel campus in Agartala, Tripura</b>. You need to stay on campus and complete the course. It is an all-female campus including team members. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Fully funded: We will take care of your <b>fooding, lodging, internet, and laptop</b>. You don’t need to pay anything for this. You will be required to take care of your personal &amp; medical expenses and travels. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "We provide <b>guaranteed jobs</b> post completion of the program, starting from <b>Rs. 20000/month or more</b> in SMEs &amp; Startups. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "In one year, we will provide you with training in <b>Software Engineering, English Communication, and Personality Development</b>. Even if you haven’t seen or operated a laptop, it is completely fine. We will assess your current skills &amp; knowledge and start your academics from the point you need to learn from.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Our campuses are a community space. You will be required to support the campus team in <b>running & managing the campus; including cooking & cleaning</b>. Once you join, it is going to be your campus and we want all our students to participate and lead in managing various aspects of the campus operations. It will help you get a first-hand experience of becoming a leader. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Our campuses are fully vegetarian and we provide nutritious meals including milk to make sure your health is well taken care of. You will <b>not be allowed</b> to cook or bring cooked non-vegetarian food from outside to campus. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "You will not be allowed to join our program if you are <b>applying/preparing for Govt, Jobs, working/studying full time</b>. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Two sisters will not be allowed to stay on the same campus. If two sisters are selected, they would be asked to join two different campuses of ours. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Please read the following PDF &amp; poster (Google Drive links):"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://drive.google.com/file/d/19Yb5Qw0zvAsBRZw8AD0qNOCPeSbyS09K/view?usp=sharing\">TTWD Info Session Deck</a>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://drive.google.com/file/d/1QjjKgsmrgn3hK3rmW1e3cMoJWQXzgeYV/view?usp=sharing\">TTWD Admissions Poster</a>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://drive.google.com/file/d/1RaMEyF5Snbtdn47Bsk7u3OSZB_-HWKeb/view?usp=sharing\">Tripura Govt. Poster</a>",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

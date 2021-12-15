@@ -1,0 +1,156 @@
+[
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName=\"kumar\"; <br> <br>function sayHi(){<br>  console.log(myName);<br>  var frdsName=\"Pavan\";  <br>  console.log(frdsName); <br>}<br>sayHi();<br>console.log(myName) <br>console.log(frdsName) <br>"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "//<span style=\"\">output</span>"
+	},
+	{
+		"component": "text",
+		"value": "kumar<br>pavan<br>kumar<br>Reference<span style=\"\">Error</span>: frdsName is not defined"
+	},
+	{
+		"component": "text",
+		"value": "In the above example var myName is declared in outside of function and var frdsName is declared inside the function. "
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">variable</span> which is declared outside of the function has the global scope, we can access it anywhere in the <span style=\"\">code</span>. "
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">variable</span> which is declared inside of the function has the local/function scope, we can access it in the function only. "
+	},
+	{
+		"component": "text",
+		"value": "As you can see, we have used the <span style=\"\">variable</span> myName inside sayHi function and also outisided using console.log(myName)."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">variable</span> frdsName has local scope since it is defined inside the sayHi function. So we can use it only inside the sayHi function. The moment we try to use it outside the sayHi function our programm throws an <span style=\"\">error</span> that frdsName is not defined. Let's look at each line of the programme more carefully."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName=\"kumar\";<br> <br>function sayHi(){<br>  console.log(myName);<br>  var frdsName=\"Pavan\";<br>  console.log(frdsName);<br>}<br> <br>sayHi();<br>console.log(myName);<br>console.log(frdsName);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Explantion"
+	},
+	{
+		"component": "text",
+		"value": "When the sayHi function is called  it prints  the console.log(myName) which is kumar. Since the <span style=\"\">variable</span> myName has global scope we can use it inside the function. After that frdsName is declared inside the function and it prints because we wrote to console frdsName."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName=\"kumar\";<br> <br>function sayHi(){<br>  console.log(myName);<br>  var frdsName=\"Pavan\";<br>  console.log(frdsName);<br>}<br> <br>sayHi();<br>console.log(myName);<br>console.log(frdsName);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Explantion"
+	},
+	{
+		"component": "text",
+		"value": "Then look at the line console .log(myName); it prints kumar because myName has the global scope.<br>myName is declared globally so we can use it inside the function or outside of the function too."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName=\"kumar\";<br> <br>function sayHi(){<br>  console.log(myName);<br>  var frdsName=\"Pavan\";<br>  console.log(frdsName);<br>}<br> <br>sayHi();<br>console.log(myName);<br>console.log(frdsName);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Explantion:"
+	},
+	{
+		"component": "text",
+		"value": "Now Let's look at the line which is giving an <span style=\"\">error</span> console.log(frdsName). Since frdsName is declared inside the function it has local scope it is limited to that function. But here we are trying to use that <span style=\"\">variable</span> outside the function. Thus the programme gives us the <span style=\"\">error</span>."
+	},
+	{
+		"component": "text",
+		"value": "we are asking to print a local scope <span style=\"\">variable</span> , <br>After that it came to the line console.log(frds name); and it is trying to print frdsName but because of frdsName is declared inside the function it has local scope, it is not able to get that and throws an <span style=\"\">error</span> frdsname is not defined."
+	},
+	{
+		"component": "text",
+		"value": "When declared inside a function with var, the <span style=\"\">variable</span> is scoped to that function."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName=\"kumar\";<br>console.log(myName);<br>myName=\"Nayak\";<br>console.log(myName);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "//<span style=\"\">output</span>"
+	},
+	{
+		"component": "text",
+		"value": "kumar<br>Nayak"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Explantion:"
+	},
+	{
+		"component": "text",
+		"value": "In the above example, we declared a <span style=\"\">variable</span> myName and assigned kumar into it, and after that because of console.log(myName); it printed kumar. And after printing we updated that value to Nayak, so now myName contains the value Nayak."
+	},
+	{
+		"component": "text",
+		"value": "We can update the var <span style=\"\">variables</span>. Here myName is updated with a new value as Nayak."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName = \"Kumar\";<br>console.log(myName)<br>var myName = \"Kumar Nayak\";<br>console.log(myName);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "// <span style=\"\">output</span>"
+	},
+	{
+		"component": "text",
+		"value": "Kumar<br>Kumar Nayak"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Explantion:"
+	},
+	{
+		"component": "text",
+		"value": "In the above example, we declared a <span style=\"\">variable</span> myName and assigned kumar into it, and after that because of console.log(myName); it printed Kumar. And after printing we redeclared that <span style=\"\">variable</span> and assigned Kumar Nayak to it, so now myName contains the value Kumar Nayak right now."
+	},
+	{
+		"component": "text",
+		"value": "We can redeclare the <span style=\"\">variables</span> with var. It won’t give any <span style=\"\">error</span>."
+	}
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "component": "text",
+    "value": "objects-destructuring_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var navgurukul = {<br>   mentor: 'Priya',<br>   mentee: 'Sapna'};<br><br>var mentor     = navgurukul.mentor;<br>var mentee = navgurukul.mentee;<br>console.log(mentor);     // => 'Priya',<br>console.log(mentee); // => 'Sapna'<br>"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key2"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key3"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key4"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var navgurukul = {<br>   mentor: 'Priya',<br>   mentee: 'Sapna'<br> };<br> <br>({mentor,mentee} = navgurukul);<br>console.log(mentor);     // => 'Priya',<br>console.log(mentee); // => 'Sapna'<br>"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key5"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key6"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key7"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key8"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key9"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key10"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var navgurukul = {<br>   mentor: 'Priya',<br>   mentee: 'Sapna'};<br> <br>const {mentor,mentee} = navgurukul;<br>console.log(mentor);     // => 'Priya',<br>console.log(mentee); // => 'Sapna'"
+  },
+  {
+    "component": "text",
+    "value": "objects-destructuring_key11"
+  }
+]
