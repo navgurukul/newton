@@ -17,7 +17,7 @@ binary_number = [1, 0, 0, 1, 1, 0, 1, 1]
 
 To convert this number in `decimal form`:-
 
-```python
+
 # last element ko 2^0 yaani 1 se
 # second last element ko 2^1 yaani 2 se
 # third last element ko 2^2 yaani 4 se
@@ -27,7 +27,6 @@ To convert this number in `decimal form`:-
 # 
 # multiply kar kar
 # add karna hai
-```
 
 After doing the above steps, you will get **155** as an answer.
 

@@ -25,7 +25,7 @@ Write a program remove the first key value pair from a nested `dictionary`.
  ```
  
 #### Output :-
-```  
+  
 Dic= {
     1: 'NAVGURUKUL',
     2: 'IN',  
@@ -34,6 +34,6 @@ Dic= {
         'C' : 'DHARAMSALA'
        }
     }
- ```
+ 
 
 

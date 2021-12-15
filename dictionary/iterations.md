@@ -13,7 +13,7 @@ states_capitals = {
     'Bihar' : 'Patna'
     }
 for state in states_capitals:
-    	print(state)
+    print(state)
  ```
 
 #### Output:-

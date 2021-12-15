@@ -17,6 +17,6 @@ sum = 0
 for k in my_dict:
     sum += my_dict[k]
 
-print (sum)
+print(sum)
 print(my_dict)
  ```

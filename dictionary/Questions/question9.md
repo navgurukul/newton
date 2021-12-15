@@ -13,7 +13,6 @@ Store the unique letters and their `frequency` of the letters from the  word "MI
 
 #### Output :-
 ```python
-
 {'M':1,'I':4,'S':4,'P':2}
  ```
 

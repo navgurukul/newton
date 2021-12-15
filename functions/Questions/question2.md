@@ -9,11 +9,9 @@ Ek perfect() naam ka function define kijiye jo ki ek parameter lega aur uss para
 
 `Example:-`
 
-```
+
  6 ek perfect number hai 6=1+2+3.
-```
+ 
 `Expected Output :- `
 
-```
 6,28,496
- ```

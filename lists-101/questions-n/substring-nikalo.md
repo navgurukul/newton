@@ -19,6 +19,6 @@ replacementStr = "on"
 ```
 
 Replace the `subStr` from `mainStr` using `replacementStr` and then print it.
-```python
+
+### Output
 the quick brown fox jumped on the lazy dog. the dog slept on the verandah.
-```

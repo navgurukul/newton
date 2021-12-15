@@ -17,17 +17,15 @@ Ek function define kijiye jo ki drivers ki speed check karega. Aur ye function s
 
 `Input:-` 
 
-```
+
 85
 135
- ```
-
+ 
 **Output :-**
 
-````
 3
 “License suspended”
- ````
+
 
 
 

@@ -32,7 +32,7 @@ print(type(city_population))
 
 #### Output :-
 
-```python
+
 8550405
 
 {
@@ -48,7 +48,6 @@ print(type(city_population))
 }
 
 <type 'dict'>
- ```
 
 ## `Keys Case Sensitive` :-
 
@@ -68,13 +67,13 @@ print(Dict['Ball'])
 print(Dict['bat'])
 ```
 
-```
+
 green
 red
 KeyError: bat
 
 // KeyError tab aati hai jab key dictionay mai nahi hoti hai.
- ```
+
 
 In the dictionary, *dict* , *ball* a key which has value *"green"*, similarly *"Ball"* is another key which has value *"red"*.
 

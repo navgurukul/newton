@@ -43,7 +43,7 @@ students_list = ["robin", "anamika", "faisal", "valmiki", "waseem", "amara"]
 list_length = len(students_list)
 index = 0
 while index < list_length:
-    print students_list[index]
+    print(students_list[index])
     index = index + 1
 ```
 Here we have to check in the while loop that the value of the index should be less than the `list_length`. The loop will stop working at the moment when the index value will become equal to the `list_length`.
@@ -60,7 +60,7 @@ total_marks = 0
 while index < len(student_marks):
     total_marks = student_marks[index] + total_marks
     index = index + 1
-print "Total Marks: " + str(total_marks)
+print("Total Marks: " + str(total_marks))
 ```
 Think about what will happen and try to execute to see what will happen. Did you understand something?
 
@@ -83,8 +83,8 @@ while index < list_length:
     else:
         more_than50 = more_than50 + 1
     index = index + 1
-print "Marks more than 50: " + str(more_than50)
-print "Marks less than 50: " + str(less_than50)
+print("Marks more than 50: " + str(more_than50))
+print("Marks less than 50: " + str(less_than50))
 ```
 
 ### Question

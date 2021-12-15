@@ -15,6 +15,7 @@ Yeh question 2 parts mein hai. Dono parts ka code same file mein likh ke submit
 `Input :-`
 
 ```python 
+# Write add_numbers function here
 num1 = 56
 num2 = 12
 add_numbers(num1,num2)
@@ -31,11 +32,10 @@ Same position waale 2 integers ka sum karne ke liye Part 1 mein di gayi add_numb
 
 Jaise agar hum iss function ko [50, 60, 10] aur [10, 20, 13] denge ko woh yeh print karega
 
-```
 60
 ---------------
 80
 ---------------
 23
 ---------------
- ```
+ 

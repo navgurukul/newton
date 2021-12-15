@@ -21,9 +21,9 @@ f1()
  ```
 **Output :-**
 
-```
+
 I Love Navgurukul
- ```
+
 
 Upar diye gaye example mein, f2() inner function hai aur f1()outer function. s f1()  ka scope variable hai.
 
@@ -40,15 +40,15 @@ Humne ye padh liya hai ki hum kaise ek function ke andar global variable ko acce
 def first_function():
     s = 'I love India'
     def second_function():
-   	 print(s)	 
+        print(s)	 
     second_function()
 first_function()
  ```
 
 `OUTPUT:- `
-```
+
 I love India
- ```
+
 
 ```python
 def first_function():
@@ -63,8 +63,6 @@ first_function()
  ```
 `OUTPUT:-`
 
-```
 MY NAME IS JACK
 
 I love India
- ```

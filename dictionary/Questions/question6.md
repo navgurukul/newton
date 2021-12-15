@@ -21,6 +21,6 @@ dic={
  ```
 
 #### Output :- 
-``` 
+ 
  {“ball”:”red”,”bat”:4,”wickets”:8}
- ```
+ 

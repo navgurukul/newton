@@ -19,16 +19,16 @@ print kare.
 
 `Input:- `
 
-```
+
 18
 16
- ```
+
 
 **Output :-**
 
-```
+
 “you are eligible”
 “not eligible”
- ```
+
 
 

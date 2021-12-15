@@ -24,6 +24,5 @@ Take a `list having dictionary` elements as shown below (Sample Data) and then s
  ```
 
 #### Output :-
-``` 
-[2', '7', '9', '5', '1'] 
-```
+
+['2', '7', '9', '5', '1'] 

@@ -18,8 +18,7 @@ Write a program that tells in the above list that how many people are there in t
 
 For example, the output of the list given above is as follows.
 
-```python
+
 4 Crorepati 
 3 Lakhpati 
 4 Dilwale 
-```

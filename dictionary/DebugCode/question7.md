@@ -25,4 +25,4 @@ rec = {
 id2 = id(rec)
 print(id1 == id2)
 
- ```
+```
