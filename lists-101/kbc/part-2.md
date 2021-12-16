@@ -15,7 +15,7 @@ Using `question_list` variable print `doosra question`.Using `options_list`, pri
 
 Your output should look like this :
 
-```bash
+
 Aapka Sawaal hai:
 What is the capital of India?
 
@@ -24,7 +24,7 @@ Aapke options hai:
 2. Bhopal
 3. Chennai
 4. Delhi
-```
+
 
 #### Keep in Mind :
 

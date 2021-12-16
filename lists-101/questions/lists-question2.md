@@ -11,13 +11,12 @@ places=["delhi", "gujrat", "rajasthan", "punjab", "kerala"]
 
 Your code output should be here :
 
-```
+
 kerela
 punjab
 rajasthan
 gujrat
 delhi
-```
 
 ## Hints 
 When `index i` is there, then what will be at index `length - i -1`.

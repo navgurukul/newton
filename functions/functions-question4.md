@@ -19,7 +19,7 @@ Yeh check karne ke liye pichle `Part 1` mein likhe `check_numbers` function ka u
 
 Agar aapne apne function ko `[2, 6, 18, 10, 3, 75]` aur `[6, 19, 24, 12, 3, 87]` Toh usko yeh output deni chaiye:
 
-```
+
 dono even hain
 ---------------
 dono even nahi hai
@@ -31,4 +31,4 @@ dono even hain
 dono even nahi hain
 ---------------
 dono even nahi hain
- ```
+ 

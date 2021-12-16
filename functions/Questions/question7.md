@@ -13,19 +13,19 @@ Ek function define karo jo ki input me 2 strings lega aur dono strings me se jis
 
 `Input:-` 
 
-```
+```python
+# Write function here
 function_name(“hello”,”welcome”)
 function_name(“sonu”,”monu”)
  ```
 
 **Output :-**
 
-````
+
 welcome
 
 sonu
 monu
- ````
 
 
 

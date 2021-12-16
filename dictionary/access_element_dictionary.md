@@ -53,9 +53,8 @@ print(result)
  ```
    
 #### Output :-
-```
 male 
 {'organisation': 'navgurukul', 'place': 'dharamsala'}
  dharamsala
-```
+
    	 

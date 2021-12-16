@@ -11,7 +11,7 @@ Count the total number of items from the values of the `dictionary` which are in
 
 #### Input :-
 ```python
- dict =  {
+ dict1 =  {
    'Alex': ['subj1', 'subj2', 'subj3'], 
    'David': ['subj1', 'subj2']}
   ```

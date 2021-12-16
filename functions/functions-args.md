@@ -37,16 +37,16 @@ Neeche diye gaye code ko chala ke dekho aur ek baar socho ki kya ho raha hai.
 
 ```python
 def say_hello(name):
-    print ("Hello ", name)
-    print ("Aap kaise ho?")
+    print("Hello ", name)
+    print("Aap kaise ho?")
 say_hello("Aatif")
  ```
 **Output :-**
 
-```
 Hello , Aatif
 Aap kaise ho?
- ```
+
+
 Yahan humne function ko ussi tareeke se define kiya hai jaise pichle examples mein kiya tha. Lekin dhyan se dekho toh `def say_hello` ke baad brackets mein humne `name` likha hai aur, aur neeche ek `name` variable ko print command ke saath use kar rahe hain. Yahan name ko *parameter* kehte hain jiski value hum function call karne ke time de sakte hain. Aakhri line mein function call karte vakt humne brackets ke andar `"Aatif"` likha hai. Function call karte vakt hum jo parameters ko value dete hain, unko arguments kehte hain.
 
 Toh basically humne iss example mein yeh kiya aur seekha:
@@ -64,22 +64,22 @@ Abhi tak humne ek function argument ke saath hi code likha hai. Ab hum thode aur
 
 ```python
 def add_numbers(number1, number2):
-    print ("Main do numbers ko add karunga.")
-    print (number1 + number2)
+    print("Main do numbers ko add karunga.")
+    print(number1 + number2)
 add_numbers(120, 50)
 num_x = 134
 name = "Rinki"
 add_numbers(num_x, name)
  ```
+
 **Output :-**
 
-```
 Main do numbers ko add karunga.
 170
 Main do numbers ko add karunga.
 
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
- ```
+
 
 
 Yahan humne ek `add_numbers` naam ka function define kara hai. Lekin dekho ki bracket mein humne 2 parameter likhe hain. Ek sa jyada argument lene ke liye arguments ke baad comma laga dete hain Humne add_numbers(120, 50) likh ke function call karte samay do integer parameter diye hai. Yahan parameters ka kram / order important hai. Iss function call mein yeh hota 
@@ -95,17 +95,17 @@ Aur ache se samajhne ke liye ek aur example dekhte hain.
 Jese ki apne dekha ki **output** mai **TypeError** aa rahi kuki hum kabhi bhi string aur integer concate nahi kar sakte hai.Humne num_1 mai **integer** store kiya aur name mai **string** store kiya hai.
 
 
-```
+```python
 def say_hello_language(name, language):
     if language == "hindi":
-        print ("Namaste ", name)
-        print ("Aap kaise ho?")
+        print("Namaste ", name)
+        print("Aap kaise ho?")
     elif language == "punjabi":
-        print ("Sat sri akaal ", name)
-        print ("Tuhada ki haal hai?")
+        print("Sat sri akaal ", name)
+        print("Tuhada ki haal hai?")
     else:
-        print ("Hello ", name)
-        print ("How are you?")
+        print("Hello ", name)
+        print("How are you?")
 say_hello_language("Rishabh", "punjabi")
 say_hello_language("Armaan", "english")
 say_hello_language("Abhishek", "french")
@@ -113,7 +113,7 @@ say_hello_language("Kavay", "hindi")
  ```
 **Output :-**
 
-```
+
 Sat sri akaal  Rishabh
 Tuhada ki haal hai?
 Hello  Armaan
@@ -122,7 +122,7 @@ Hello  Abhishek
 How are you?
 Namaste  Kavay
 Aap kaise ho?
- ```
+
 Yeh function do parameter leta hai, `name` aur `language` aur aise kaam karta hai:
 
 * Agar `language` `"hindi"` di hai, toh hindi mein kuch print karega
@@ -142,16 +142,16 @@ Chalane se pehle isko padh ke output ko sochne ki koshish karo. Fir chala ke dek
 
 ```python
 def say_hello_people(name_x, name_y, name_z, name_a):
-    print ("Namaste ", name_x) # hindi mein
-    print ("Alah hafiz ", name_y) # urdu mein
-    print ("Bonjour ", name_z) # french mein
-    print ("Hello ", name_a) # english mein
+    print("Namaste ", name_x) # hindi mein
+    print("Alah hafiz ", name_y) # urdu mein
+    print("Bonjour ", name_z) # french mein
+    print("Hello ", name_a) # english mein
 say_hello_people("Imitiyaz", "Rishabh", "Rahul", "Vidya")
 say_hello_people("Steve", "Saswata", "Shakrundin", "Rajeev")
  ```
 **Output :-**
 
-```
+
 Namaste  Imitiyaz
 Alah hafiz  Rishabh
 Bonjour  Rahul
@@ -160,7 +160,7 @@ Namaste  Steve
 Alah hafiz  Saswata
 Bonjour  Shakrundin
 Hello  Rajeev
- ```
+
 
 Iss function mein dekho ki yeh 4 argument leta hai, `name_x`, `name_y`, `name_z`, `name_a`. `def` waali pehli line mein humne 4 parameter ka naam comma (`,`) laga laga ke likhe hain. Function call karte samay jis kram / order mein humne parameters likhe hain def waali line mein, wahi kram / order mein arguments ki value parameters mein jaati hai.
 
@@ -187,12 +187,12 @@ icecream("chocolate", "butterscotch","vanilla","strawberry")
 
 **Output :-**
 
-```
+
 i love chocolate
 i love butterscotch
 i love vanilla
 i love strawberry 
-```
+
 
 ## Default parameter value  
 
@@ -211,9 +211,8 @@ attendance("umesh")
  ```
 
 **Output :-**
-```
+
 kartik is present today
 sonu is absent today
 vishal is present today
 Umesh is absent today
- ```

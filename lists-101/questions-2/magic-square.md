@@ -18,7 +18,7 @@ magic_square = [
 ]
 ```
 
-```python
+
 # Rows
 8 + 3 + 4 = 15
 1 + 5 + 9 = 15
@@ -32,9 +32,9 @@ magic_square = [
 # Diagonals
 8 + 5 + 2 = 15
 4 + 5 + 6 = 15
-```
 
-    To visualize this sqaure, see it like a square. All the rows have same number of elements. Number of elements in row should be equal to number of elements in a column.
+
+To visualize this sqaure, see it like a square. All the rows have same number of elements. Number of elements in row should be equal to number of elements in a column.
 
 This is not a magic square :
 ```python
@@ -45,11 +45,10 @@ magic_square = [
 ]
 ```
 
-```python
+
 Rows
 5 + 3 + 7 = 15
 1 + 8 + 9 = 18
-```
 
 Because the sum of elements of the second row is not 15 nahi hai, therefore this is not a magic square.
 

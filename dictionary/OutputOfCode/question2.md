@@ -8,7 +8,7 @@ What will be the output of the following code snippet?
 ```python
 a = {'a':1,'b':2,'c':3}
 
-print (a['a','b'])
+print(a['a','b'])
  ```
 
 `Options :- `

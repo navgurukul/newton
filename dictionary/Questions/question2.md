@@ -13,7 +13,7 @@ Write  a program to print 'exists' if entered key already exists in the dictiona
 #### Example :-
 
 ```python
-    dict={“name”:”Raju”, “marks”:56}
+dict1={“name”:”Raju”, “marks”:56}
  ```
 
 #### Note :-

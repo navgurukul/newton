@@ -8,7 +8,10 @@ submission_type: url
 
 Jaise agar hum usko `"Mera naam Rishabh hai."` aur `"Main NavGurukul ka co-Founder hun."` denge toh woh yeh print karega
 
-```
-Mera naam Rishabh hai.
-Main NavGurukul ka co-founder hun.
+```python 
+# write your function here
+
+#  -output 
+# Mera naam Rishabh hai.
+# Main NavGurukul ka co-founder hun.
 ```

@@ -18,6 +18,5 @@ my_dict = {
     }
  ```
 #### Output :-
-```
+
 expect result:-['e','b','c']
-```

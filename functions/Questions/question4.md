@@ -12,15 +12,15 @@ Ek showNumbers() naam ka function define kijiye jo ki ek limit naam ka parameter
 
 `Input:-` 
 
-```
+
 3
- ```
+
 
 **Output :-**
 
-````
+
 0 EVEN
 1 ODD
 2 EVEN
 3 ODD
- ````
+

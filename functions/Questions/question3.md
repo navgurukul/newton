@@ -8,16 +8,15 @@ submission_type: url
 
 `Input:-` 
 
-```
 enter first number :-3
 
 Enter second number :-4
 
 Enter third number:-5	
-```
+
 **Output :-**
 
-````
+
 Sum of three numbers :-12
 Average of three numbers :-4
- ````
+
