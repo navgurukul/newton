@@ -14,38 +14,33 @@ As you remember that 123 and 9999 are INTEGERS.
 ```python
 variable_x=123
 a=9999
-```
-
-Let's see what happens when we print `variable_x` and `a`.
-
-```python
+# Let's see what happens when we print `variable_x` and `a`.
 print (variable_x, a)
 ```
+
+
 
 We can give another value to `variable_x`, by this `variable_x` will be updated. As you can see below that we have given a value 9.9 to the `variable_x` now.
 
 ```python
 variable_x=9.9
-```
-
-Now print `variable_x` to see its value.
-
-```python
+# Now print `variable_x` to see its value.
 print (variable_x)
 ```
+
+
 
 As you remember that `9.9` is float. That means we can give different values to a variable. Value of `a` is not changed because we have not updated it. Now we can update `a` and make a new variable `b`.
 
 ```python
 a='hello world'
 b='navgurukul'
-```
-
-Now print them to see the output.
-
-```python
+# Now print them to see the output.
 print (variable_x, a, b)
 ```
+
+
+
 
 ### `Dry Run`
 

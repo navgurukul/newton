@@ -17,7 +17,7 @@ We can store different type of data type in a variable. Like `Numeric`, `Charact
 
 ### Below are some data types in Python
 
-```
+
 Numeric type - (Integer, Float, complex)
 
 Text type - (String)
@@ -25,5 +25,4 @@ Text type - (String)
 Boolean type - (True, False)
 
 Sequence type - (List, Tuple, Range)
-```
 

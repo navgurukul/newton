@@ -13,21 +13,20 @@ Toh agar user ne teesri baar galat answer diya, toh aap teesri wali image dikhay
 @[youtube](https://www.youtube.com/watch?v=T1WK-Rutm-Q)
 
 ## Possible Solution
-```python
-from images import IMAGES
-```
+
 
 ..................... in the hangman function ............................
 ...
 ...
 ...
 ```python
+    from images import IMAGES
     while (True):
         else:
-            print "Oops! That letter is not in my word: " + get_guessed_word(secret_word, letters_guessed)
-            print IMAGES[8-remaining_lives]
-            print "Remaining Lives : ", remaining_lives
-            print ""
+            print ("Oops! That letter is not in my word: " + get_guessed_word(secret_word, letters_guessed))
+            print (IMAGES[8-remaining_lives])
+            print ("Remaining Lives : ", remaining_lives)
+            print ("")
             letters_guessed.append(letter)
             remaining_lives -= 1
 ```

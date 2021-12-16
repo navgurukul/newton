@@ -4,9 +4,9 @@ Please have a look at the code given below. Now think about the output of this c
 ```python
 a = 10
 if a * 2 == 20:
-print ("Variable a when multiplied by 2 gives 20.")
+print("Variable a when multiplied by 2 gives 20.")
 else:
-print ("Variable a when multiplied by 2 does not give 20.")
+print("Variable a when multiplied by 2 does not give 20.")
 ```
 
 What answer did you think? Please copy-paste this code, save this in a file and run this code. You will notice that this code will not print any output, but gives an `error`. To understand this error we need to think from the point of view of python. Python will run this program as follows:-
@@ -20,9 +20,9 @@ We will write this program correctly as follows,
 ```python
 a = 10
 if a * 2 == 20:
-    print ( )
+    print( )
 else:
-    print ("Variable a when multiplied by 2 does not give 20.")
+    print("Variable a when multiplied by 2 does not give 20.")
 ```
 
 When python will run this correct code, then its brain will work like this. 
@@ -36,7 +36,7 @@ This spacing in python is called `indentation`. Whenever there is a problem rela
 
 ```python
   File "<ipython-input-5-9eaf99c4383b>", line 3
-    print ("a variable ko 2 se multiply kar ke 20 aata hai")
+    print("a variable ko 2 se multiply kar ke 20 aata hai")
         ^
 IndentationError: expected an indented block
 ```
@@ -50,9 +50,9 @@ We will take more examples and understand them clearly. First, run the code give
 ```python
 counter = 1
 while counter < 10:
-    print ("The counter is" + str(counter))
+    print("The counter is" + str(counter))
     counter = counter + 1
-    print ('--------')
+    print('--------')
 ``` 
 
 In this program, in the last 3 lines ` (‘print "The counter is" + str(counter)’, ‘counter = counter + 1’, ‘print "--------"’) ` if there is no indentation then python will not be able to understand that after `while loop` what it has to run? Python will get confused and will give an error. To `indent` a python code is very important. If you see the program, you will realize that the code is divided into different parts:-
@@ -66,9 +66,9 @@ To understand this, save the given code in a new file and see what output comes 
 ```python
 counter = 1
 while counter < 10:
-    print ("The counter is" + str(counter))
+    print("The counter is" + str(counter))
     counter = counter + 1
-print ('--------')
+print('--------')
 ```
 
 #### Note :-
@@ -85,8 +85,8 @@ In a given `indented code block` there can be another indented code block. Study
 counter = 1
 while counter < 10:
     if counter % 2 == 0:
-        print ("Counter is an even number.")
-    print ("The counter is" + str(counter))
+        print("Counter is an even number.")
+    print("The counter is" + str(counter))
     counter = counter + 1
 print ('--------')
 ```
