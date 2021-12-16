@@ -30,11 +30,11 @@ Whenever we ask any question to computer then we use some special type of operat
 Play with all these operators in Python shell. You will gain a better understanding.
 
 ```python
-4 < 5 # True
+print(4 < 5) # True
 ```
 
 ```python
-56 == 45 # False
+print(56 == 45) # False
 ```
 
 If you will use these operators in `Python shell` then it will automatically show its Boolean answer.

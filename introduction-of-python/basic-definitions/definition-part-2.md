@@ -59,7 +59,7 @@ When we make any mistake while writing the code, that mistake is called error/bu
 #### Example :-
 
 ```python
-num=5
+num = 5
 print(num
  ```
 #### Output :-
@@ -108,7 +108,7 @@ Source code is that code which humans can easily understand.
 
 ### Example :-
 ```python
-name="python"
+name = "python"
 print(name)
  ```
 ### Output :-

@@ -56,9 +56,9 @@ def ifValid(user_input):
 ```python
     while (True):
         available_letters = get_available_letters(letters_guessed)
-        print "Available letters: " + available_letters
+        print ("Available letters: " + available_letters)
 
-        guess = raw_input("Please guess a letter: ")
+        guess = input("Please guess a letter: ")
         letter = guess.lower()
 
         if (not ifValid(letter))

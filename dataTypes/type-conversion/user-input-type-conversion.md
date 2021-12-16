@@ -13,11 +13,10 @@ In the future, very often we will have to take some input from our users. To tak
 
 ```python
 user_input = input("Kuch input daaliye ")
-```
-When it runs, python will stop and a cursor will appear. Here you have to put some inputs. Press `Enter` after you have made your input. Now, when you `print user_input`, whatever value you had to enter will be in the form of a `string` in the `user_input` variable.
-```python
 print (user_input)
 ```
+When it runs, python will stop and a cursor will appear. Here you have to put some inputs. Press `Enter` after you have made your input. Now, when you `print user_input`, whatever value you had to enter will be in the form of a `string` in the `user_input` variable.
+
 
 #### Example 2 :-
 
@@ -36,12 +35,10 @@ If we do print `number1` in the `python shell`, then whatever value we have ente
 Whenever we take user input from `input` to a variable it is in the `string` type. Meaning, whatever the user puts in, `raw_input` makes it a `string`.
 ```python
 number2 = input("Enter a number ")
+print (type(number2))
 ```
 Here the data type of `number2` will be `string`. Whenever we take the value of a variable as input from `input`, that value is in the form of a `string`. If the user has to input a number, it will also be in the form of a `string`.
 
-```python
-print (type(number2))
-```
 
 Like if here we entered 25 then `number2` would contain "25". Any value that has `quotes` in front of it is a `string`. To convert it to `  INTEGER` we have to use `int()`.
 
@@ -57,8 +54,8 @@ Below is a final example to understand all these things better. This example pri
 ```python
 number_x = input("Pehla number daaliye ")
 number_y = input("Dusra number daaliye")
-number_x = int(number_x) # raw_input se hume number_x string type mein mila
-number_y = int(number_y) # raw_input se hume number_y string type mein mila
+number_x = int(number_x) # user_input se hume number_x string type mein mila
+number_y = int(number_y) # user_input se hume number_y string type mein mila
 print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga
 ```
 

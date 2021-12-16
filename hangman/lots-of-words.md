@@ -22,11 +22,11 @@ def load_words():
     """
 
     WORDLIST_FILENAME = "words.txt"
-    print "Loading word list from file..."
+    print ("Loading word list from file...")
     inFile = open(WORDLIST_FILENAME, 'r', 0)
     line = inFile.readline()
     word_list = string.split(line)
-    print "  ", len(word_list), "words loaded.\n"
+    print ("  ", len(word_list), "words loaded.\n")
 
     return word_list
 ```

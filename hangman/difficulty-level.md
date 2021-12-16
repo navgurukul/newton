@@ -21,11 +21,11 @@ Dhyaan rakhna ki humne graphics bhi use kiye the user ki remaining lives dikhane
 ...
 ...
 ```python
-    print "Welcome to the game, Hangman!"
-    print "I am thinking of a word that is " + str(len(secret_word)) + " letters long."
-    print ""
+    print ("Welcome to the game, Hangman!")
+    print ("I am thinking of a word that is " + str(len(secret_word)) + " letters long.")
+    print ("")
 
-    user_difficulty_choice = raw_input("Aap abhi kitni difficulty par yeh game khelna chahte ho?\na)\tEasy\nb)\tMedium\nc)\tHard\n\nApni choice a, b, ya c ki terms mei batayein\n"))
+    user_difficulty_choice = input("Aap abhi kitni difficulty par yeh game khelna chahte ho?\na)\tEasy\nb)\tMedium\nc)\tHard\n\nApni choice a, b, ya c ki terms mei batayein\n"))
 
     total_lives = remaining_lives = 8
     # images_selection_list_indices mei hum woh images ke indices
@@ -35,7 +35,7 @@ Dhyaan rakhna ki humne graphics bhi use kiye the user ki remaining lives dikhane
     images_selection_list_indices = [0, 1, 2, 3, 4, 5, 6, 7]
 
     if user_difficult_choice not in ["a", "b", "c"]:
-        print "Aapki choice invalid hai.\nGame easy mode mei start kar rahe hai")
+        print ("Aapki choice invalid hai.\nGame easy mode mei start kar rahe hai")
 
     else:
         if user_difficulty_choice == "b":
@@ -59,10 +59,10 @@ Dhyaan rakhna ki humne graphics bhi use kiye the user ki remaining lives dikhane
 ```python
     while (True):
         else:
-            print "Oops! That letter is not in my word: " + get_guessed_word(secret_word, letters_guessed)
-            print IMAGES[images_selection_list_indices[total_lives-remaining_lives]] ## <-- CHANGES HERE
-            print "Remaining Lives : ", remaining_lives
-            print ""
+            print ("Oops! That letter is not in my word: " + get_guessed_word(secret_word, letters_guessed))
+            print (IMAGES[images_selection_list_indices[total_lives-remaining_lives]]) ## <-- CHANGES HERE
+            print ("Remaining Lives : ", remaining_lives)
+            print ("")
             letters_guessed.append(letter)
             remaining_lives -= 1
 ```

@@ -9,8 +9,8 @@
 #### Example :-
 
 ```python
-a=5
-b=9
+a = 5
+b = 9
 print(a+b)
  ```
 ### Output :-
@@ -40,8 +40,8 @@ Like first we take a bowl ,add water, sugar, tea leaves and milk then boil it, h
 
 ### Example :-
 ```python
-a=5
-b=7
+a = 5
+b = 7
 print(a+b)
  ```
 ### Output :-
@@ -82,7 +82,7 @@ Yes, you are correct, this sentence is grammatically wrong  (python is awesome )
 ### Example :-
 
 ```python
-num=5
+num = 5
 print(num
  ```
 ### Output :-
@@ -90,7 +90,7 @@ print(num
 `Syntax Error: unexpected EOF while parsing`
 
 ```python
-num=5
+num = 5
 print "a"
  ```
 ### Output :-
