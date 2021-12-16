@@ -14,9 +14,9 @@ submission_type: url
 day = input("Aaj ka din kya hai? (monday/tuesday) > ")
 time = input("Kaunse samay ka khana banana hai? (lunch/dinner) > ")
 if day == "monday" or day == "tuesday":
-    print ("Daal-Roti banegi aaj")
+    print("Daal-Roti banegi aaj")
 elif day == "tuesday" and time == "dinner":
-    print ("Pav-Bhaji banegi aaj toh :)")
+    print("Pav-Bhaji banegi aaj toh :)")
 ```
 
 Save the correct code in a new file and submit it.

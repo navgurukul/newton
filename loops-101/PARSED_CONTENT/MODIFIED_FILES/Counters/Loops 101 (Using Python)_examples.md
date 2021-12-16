@@ -72,7 +72,7 @@ examples_key17
 ```python
 a = -1
 while a >= (-10):
-  print (-a)
+  print(-a)
   a = a -1
 ```
 
@@ -80,7 +80,7 @@ examples_key18
 ```python
 a = 1 
 while a <= 10:
-  print (a)
+  print(a)
   a = a-(-1)
 ```
 
@@ -88,6 +88,6 @@ examples_key19
 ```python
 a = 1
 while a !=11:
-  print (a)
+  print(a)
   a-=-1
 ```

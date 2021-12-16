@@ -15,9 +15,9 @@ while(i<5):
         if (j > 3): 
             break 
         else:
-            print "*", 
+            print("*"), 
         j = j + 1    
-    print ''
+    print('')
     i = i + 1
 
  ```

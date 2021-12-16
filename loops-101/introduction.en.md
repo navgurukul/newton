@@ -11,7 +11,7 @@ Jaise agar mujhe apne 100 friends ko ek eMail bhej ke kisi event ke baare mein b
 ```python
 counter = 0
 while counter < 5:
-	print "NavGurukul"
+	print("NavGurukul")
 	counter = counter + 1
 ```
 
@@ -24,9 +24,9 @@ Iss code mein:
 ```python
 counter = 0 
 while counter < 5:
-	print "NavGurukul"
+	print("NavGurukul")
 	counter = counter + 1
-print "Yeh sirf ek baar print hoga"
+print("Yeh sirf ek baar print hoga")
 ```
 
 Yeh code chala ke dekhoge toh `"NavGurukul"` 5 baar print hoga aur last waali line sirf ek baar.
