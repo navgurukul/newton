@@ -26,3 +26,4 @@
 	- debugging-question5.md
 	- debugging-question6.md
 	- debugging-question7.md
+	- Assessment.md

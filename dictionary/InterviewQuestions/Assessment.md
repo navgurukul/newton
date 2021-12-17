@@ -1,0 +1,5 @@
+## Assessment
+
+Please fill this quiz with proper details to understand how much of this course did you understand.
+
+[click Here]("https://docs.google.com/forms/d/e/1FAIpQLScOMeK2zn-NZpCBgYM2boKoBNCMJua4SHKH94adV2HTY_s1yQ/viewform?usp=sf_link")
