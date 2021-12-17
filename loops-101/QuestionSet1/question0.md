@@ -8,7 +8,7 @@ Make a program that prints all the numbers from 1 to 100.
 
 You should get the following as an output.
 
-```
+
 1
 2
 3
@@ -22,5 +22,5 @@ You should get the following as an output.
 98
 99
 100
-```
+
 

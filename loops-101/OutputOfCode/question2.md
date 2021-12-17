@@ -16,7 +16,7 @@ while i <= n:
     s = s + i
     i = i + 1
 
-print s
+print(s)
  ```
 
 

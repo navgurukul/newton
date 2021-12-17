@@ -8,7 +8,7 @@ Make a program to print the numbers from 11 to 101. The loop counter should star
 
 Your output should be as follows .
 
-```
+
 1
 2
 3
@@ -19,4 +19,4 @@ Your output should be as follows .
 8
 9
 10
-```
+

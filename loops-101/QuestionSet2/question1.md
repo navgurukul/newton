@@ -14,7 +14,7 @@ The loop that you will write will start from 556.
 
 Your output should be as follows.
 
-```
+
 7
 14
 21
@@ -29,6 +29,5 @@ Your output should be as follows.
 84
 91
 98
-```
 
 

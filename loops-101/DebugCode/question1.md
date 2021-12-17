@@ -12,8 +12,8 @@ There are some `bugs` in the code given below. Now you have to find those errors
 
 ```python
 index = 1
-While(Index < 10):
-    Print(index)
+while(index < 10):
+    print(index)
     index = index + 1
  ```
 

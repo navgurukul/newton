@@ -45,9 +45,9 @@ These `comparison operators` raise a certain question. For example,
 number1 = 45
 number2 = 56
 if number2 > number1:
-	print ("Bada hai number2")
+	print("Bada hai number2")
 else:
-	print ("Number 2 bada nahi hai")
+	print("Number 2 bada nahi hai")
 ```
 
 In the above example, `>` operator raises the question - **Is number2 greater than number1?** Notice carefully, there are only two possible answers to this question:-

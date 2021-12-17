@@ -6,7 +6,7 @@ submission_type: url
 
 ```python
 number = input("please enter a decimal number")
-print ("your number divided by 2 is equal to = " + number/2)
+print("your number divided by 2 is equal to = " + number/2)
 ```
 
 Save the correct code in a new file and submit it.

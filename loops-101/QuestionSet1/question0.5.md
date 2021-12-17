@@ -10,7 +10,7 @@ What should be the output?
 
 
 
-```
+
 10
 11
 12
@@ -24,5 +24,5 @@ What should be the output?
 78
 79
 80
-```
+
 

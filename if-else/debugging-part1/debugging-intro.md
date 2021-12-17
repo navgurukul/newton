@@ -11,7 +11,7 @@ We have learned how to write a code. When we write a code, many times the code d
 
 ```python
 	number1 = 234
-	print (numer1)
+	print(numer1)
 ```
 
 When we try to run the code, we see some error message as below:
@@ -19,7 +19,7 @@ When we try to run the code, we see some error message as below:
 ```python
 <ipython-input-1-2a33fa4e8a92> in <module>()
       1 number1 = 234
-----> 2 print (numer1)
+----> 2 print(numer1)
 
 NameError: name 'numer1' is not defined
 ```
@@ -37,7 +37,7 @@ Try to find out the error from the below program.
 ```python
 number1 = 234
 number2 = "1"
-print (number1 + number2)
+print(number1 + number2)
 ```
 
 Python will show the following error:
@@ -46,7 +46,7 @@ Python will show the following error:
 <ipython-input-2-56b79ffda8bc> in <module>()
       1 cnumber1 = 234
       2 number2 = "1"
-----> 3 print (number1 + number2)
+----> 3 print(number1 + number2)
 
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 ```

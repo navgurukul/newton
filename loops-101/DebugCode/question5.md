@@ -12,7 +12,7 @@ i = 1
 while(i < num):
 	if(num % i = 0)
 		print("Not A Prime Number")
-		Break
+		break
 	else:
 		print("Prime Number")
 	i = i + 1

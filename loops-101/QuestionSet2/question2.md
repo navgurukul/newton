@@ -16,7 +16,7 @@ Make a program that should do the following thing from `1 to 100`.
 
 Your output should look like this.
 
-```
+
 1
 2
 Nav
@@ -117,5 +117,5 @@ Nav
 Gurukul
 Nav
 100
-```
+
 

@@ -76,7 +76,7 @@ Print the numbers from 1 to 10 without using increment.
 ```python
 a = -1
 while a >= (-10):
-  print (-a)
+  print(-a)
   a = a -1
 ```
 
@@ -92,7 +92,7 @@ while a <= 10:
 ```python
 a = 1
 while a !=11:
-  print (a)
+  print(a)
   a-=-1
 ```
 

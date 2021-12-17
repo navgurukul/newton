@@ -7,21 +7,21 @@ name: Writing Code for If Statements
 We have learned how to create `flowcharts` for `if conditions`. But we cannot use these `flowcharts` unless we learn how to write a code by looking at a `flowchart`.
 
 ```python
-day = raw_input("Din enter karo\n")
+day = input("Din enter karo\n")
 if day == "monday": # Agar din Monday hai toh
-	print "Rajma Chawal"
+	print("Rajma Chawal")
 elif day == "tuesday": # Agar uppar wali conditions galat hai (Yaani day Monday nahi hai) aur day Tuesday hai toh
-	print "Pao Bhaji"
+	print("Pao Bhaji")
 elif day == "wednesday": # Agar uppar wali conditions galat hai (Yaani day Monday aur Tuesday nahi hai) aur day Wednesday hai toh
-	print "Chole Bhature"
+	print("Chole Bhature")
 elif day == "thursday": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday aur Wednesday nahi hai) aur day Thursday hai toh
-	print "Dosa"
+	print("Dosa")
 elif day == "friday": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh
-	print "Litti Chokha"
+	print("Litti Chokha")
 elif day == "saturday": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh
-	print "Thukpa"
+	print("Thukpa")
 else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)
-	print "Poha"
+	print("Poha")
 ```
 
 In the above example, we take the day as input from the user. According to the day entered, we print the food item for that particular day. Read the comments carefully to understand how the code is executed at every step.
@@ -45,11 +45,11 @@ In this program, you have set the value of the variable. The user will have to g
 
 ```python
 value = "delhi"
-guess = raw_input("Sheher ka naam guess karo> ")
+guess = input("Sheher ka naam guess karo> ")
 if guess != value:
-	print "Aapka guess galat hai"
+	print("Aapka guess galat hai")
 else:
-	print "Aapka guess sahi hai"
+	print("Aapka guess sahi hai")
 ```
 
 
@@ -57,12 +57,12 @@ else:
 Let's assume a rule that if the speed of our vehicle is less than or equal to 60, it will not be considered as overspeeding. Otherwise, it will be considered as overspeeding. We can write the program for it as shown below:
 
 ```python
-speed = raw_input("Gaadi ki kya speed thi?")
+speed = input("Gaadi ki kya speed thi?")
 speed = int(speed)
 if speed <= 60:
-	print "Gaadi speed limit ke andar thi."
+	print("Gaadi speed limit ke andar thi.")
 else:
-	print "Gaadi speed limit ke bahar thi."
+	print("Gaadi speed limit ke bahar thi.")
 ```
 
 ### Note: 
@@ -76,25 +76,25 @@ Consider the example where we want to display the food menu based on the day and
 `TODO: We need to add a flowchart here somehow. #studentsShouldIgnore`
 
 ```python
-day = raw_input("Din enter karo> ")
-meal = raw_input("Meal enter karo, jaise breakfast lunch aur dinner mein se ek> ")
+day = input("Din enter karo> ")
+meal = input("Meal enter karo, jaise breakfast lunch aur dinner mein se ek> ")
 if day == "monday"
 	# code yahan andar tab hi aayega jab day ki value "monday" hogi, nahi andar aayega hi nahi
 	if meal == "breafast":
-		print "Poha"
+		print("Poha")
 	elif meal == "lunch":
-		print "Rajma Chawal"
+		print("Rajma Chawal")
 	else:
-		print "Roti Sabzi"
+		print("Roti Sabzi")
 elif day == "tuesday":
 	if meal == "breakfast":
-		print "Poori Sabzi"
+		print("Poori Sabzi")
 	elif meal == "lunch":
-		print "Thukpa"
+		print("Thukpa")
 	else:
-		print "Chicken Chawal"
+		print("Chicken Chawal")
 else:
-	print "Aur kisi bhi din hum daal roti sabzi khaynege."
+	print("Aur kisi bhi din hum daal roti sabzi khaynege.")
 ```
 
 Observe how we have used if statement inside another if statement. The if statement inside will only be checked if the outer `if condition` is `True`.
