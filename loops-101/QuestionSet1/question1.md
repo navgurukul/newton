@@ -9,7 +9,7 @@ Write a program that prints all those numbers from 1 to 100  which are divisible
 
 The output should come as follows :-
 
-```
+
 7
 14
 21
@@ -24,6 +24,6 @@ The output should come as follows :-
 84
 91
 98
-```
+
 
 

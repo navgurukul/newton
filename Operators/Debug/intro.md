@@ -10,7 +10,7 @@ A.
 
 ```python
 a = "Megha"
-print a
+print(a)
 ```
 
 B. 

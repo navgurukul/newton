@@ -18,7 +18,7 @@ If I want to send mail to my 100 friends to inform about certain event. If I sen
 ```python
 counter = 0
 while counter < 5:
-	print "NavGurukul"
+	print("NavGurukul")
 	counter = counter + 1
 ```
 
@@ -31,9 +31,9 @@ In this code :
 ```python
 counter = 0 
 while counter < 5:
-	print "NavGurukul"
+	print("NavGurukul")
 	counter = counter + 1
-print "Yeh sirf ek baar print hoga"
+print("Yeh sirf ek baar print hoga")
 ```
 
 If you run this code so`"NavGurukul"`will be printed 5 times and last line is printed one time.
@@ -46,7 +46,7 @@ Suppose we need to write a code where we need to print the numbers divisible by 
 counter = 1
 while counter < 100:
       if counter % 2 == 0:
-            print counter
+            print(counter)
       counter = counter + 1
 ```
 ![Mobile Video Recorder](assets/example3.jpeg)

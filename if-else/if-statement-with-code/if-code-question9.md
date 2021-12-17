@@ -14,18 +14,18 @@ Consider the following rules:
 
 Create a flowchart that takes the **age** of the user as `input`. Print what all activities the user can do from the list above. For example, if user enters age as `20`, the code should print:
 
-```
+
 You can go to school
 You can vote in elections
-```
+
 
 If user enters age as `24`, the code will print:-
 
-```
+
 You can go to school
 You can vote in elections
 You can drive a car
 You can marry
-```
+
 
 Submit the `flowchart` as well as the code.

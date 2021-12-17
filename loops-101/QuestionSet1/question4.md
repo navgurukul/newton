@@ -16,10 +16,10 @@ We can make any number negative by mutiplying it by `-1`.
 
 #### Example :-
 
-```
+
 10 * -1 = -10
 2 * -1 = 2
-```
+
 You can use the above `Hint` to write the program.
 
 
