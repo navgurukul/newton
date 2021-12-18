@@ -1,3 +1,7 @@
+```ngMeta
+name:  Assessment
+```
+
 ## Assessment
 
 Please fill this quiz with proper details to understand how much of this course did you understand.
