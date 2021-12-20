@@ -46,3 +46,4 @@
 	- debugging-intro.json
 	- debugging-question1.json
 	- debugging-question2.json
+  - Assessment.json

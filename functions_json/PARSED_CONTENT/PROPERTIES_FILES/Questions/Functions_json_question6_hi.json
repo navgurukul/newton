@@ -1,0 +1,11 @@
+{
+    "question6_key1": "प्रश्न 6",
+    "question6_key2": "Ek function define kijiye jo ki drivers ki speed check karega. Aur ye function speed naam ka ek parameter lega.",
+    "question6_key3": "Agar speed 70 se kam hai to ye “ok” print karega.",
+    "question6_key4": "Agar driver ki speed 70 se jyaada hai to function use har 5 km ke liye 1 point dega (ye 70 ko count nahi karega).<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">example ke liye agar speed 80 hai to print karega “points:2”</span> .",
+    "question6_key5": "Agar driver ko 12 points se jyaada points milte hai to , function  “License suspended” print karega.",
+    "question6_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question6_key7": "85<br> 135",
+    "question6_key8": "<b><span style=\"\">Output</span> :-</b>",
+    "question6_key9": "3<br> &quot;लाइसेंस निलंबित&quot;"
+}

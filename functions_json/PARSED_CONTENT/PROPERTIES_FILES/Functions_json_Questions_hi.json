@@ -1,0 +1,22 @@
+{
+    "Questions_key1": "पूर्व परिभाषित कार्य प्रश्न",
+    "Questions_key2": "Ab aapko kuchh questions solve krna hai pre-define function ka use kr ke.",
+    "Questions_key3": "<b>Q1 .</b>  Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function ka use krke di hue list me se sbse bada value print krvani hai.",
+    "Questions_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>",
+    "Questions_key5": "<b><span style=\"\">Output</span> :-</b><br> 89",
+    "Questions_key6": "<b>Q2.</b>  Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function ka use krke di hue list ke element ka sum  print krvana hai.",
+    "Questions_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>",
+    "Questions_key8": "<b><span style=\"\">Output</span> :-</b><br> 15",
+    "Questions_key9": "<b>Q3.</b> Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function ka use kr ke di hue list ko sort krna hai.",
+    "Questions_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "Questions_key11": "<b><span style=\"\">Output</span> :-</b>",
+    "Questions_key12": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]</span>",
+    "Questions_key13": "<b>Q4.</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function ka use kr ke aapko di hue list ka revrse print krna hai.",
+    "Questions_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "Questions_key15": "<b><span style=\"\">Output</span> :-</b>",
+    "Questions_key16": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]</span>",
+    "Questions_key17": "<b>Q5.</b> Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function ka use krke di hue list me se sbse chhoti value print krvani hai.",
+    "Questions_key18": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "Questions_key19": "<b><span style=\"\">Output</span> :-</b>",
+    "Questions_key20": "2"
+}

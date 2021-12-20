@@ -7,3 +7,4 @@
 	- variables-naming-question2.json	
 	- variables-naming-question3.json	
 	- variables-naming-question4.json	
+	- Assessment.json

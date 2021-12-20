@@ -12,4 +12,5 @@
   - intro.json
   - Question1.json
   - Question2.json
+  - Assessment.json
  

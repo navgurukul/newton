@@ -26,3 +26,4 @@
 	- debugging-question5.json
 	- debugging-question6.json
 	- debugging-question7.json
+	- Assessment.json

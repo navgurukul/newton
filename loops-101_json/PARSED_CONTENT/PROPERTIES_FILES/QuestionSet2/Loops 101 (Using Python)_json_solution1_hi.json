@@ -10,6 +10,6 @@
     "solution1_key9": "कार्यक्रम लिखने से पहले हम कुछ महत्वपूर्ण बातों का ध्यान रखेंगे।",
     "solution1_key10": "इस पैटर्न में <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">7</span> रेखाएँ हैं।",
     "solution1_key11": "पहली पंक्ति में एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">#</span> , दूसरी पंक्ति में 2 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">#</span> , तीसरी पंक्ति में 3 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">#</span> ।",
-    "solution1_key12": "यानी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">#</span> की संख्या लाइनों की संख्या के साथ बढ़ती है।<br><br>",
+    "solution1_key12": "यानी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">#</span> की संख्या लाइनों की संख्या के साथ बढ़ती है।",
     "solution1_key13": "इसका समाधान इस प्रकार होगा:-"
 }

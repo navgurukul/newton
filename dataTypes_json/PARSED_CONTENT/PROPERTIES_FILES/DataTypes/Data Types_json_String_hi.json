@@ -5,7 +5,7 @@
     "String_key4": "<span style=\"\">Output</span> :-",
     "String_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello python</span>",
     "String_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello world</span>",
-    "String_key7": "इस उदाहरण में, हमने दो अलग-अलग <span style=\"\">variables</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">double (\" \") quotes or single (' ') quotes.</span> अंदर लिखा गया है",
+    "String_key7": "इस उदाहरण में, हमने दो अलग-अलग <span style=\"\">variables</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�\u0006double (\" \") quotes or single (' ') quotes.</span> अंदर लिखा गया है",
     "String_key8": "उदाहरण :-",
     "String_key9": "<span style=\"\">Output</span> :-",
     "String_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">str</span>",

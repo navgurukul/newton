@@ -1,7 +1,7 @@
 {
     "if-code-question8_key1": "प्रश्न 6",
-    "if-code-question8_key2": "एक फ़्लोचार्ट बनाएं जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> को उपयोगकर्ता <span style=\"\">input</span> रूप में लेता है। जांचें कि क्या यह संख्या <b>5 और 15 दोनों</b> से विभाज्य है।",
+    "if-code-question8_key2": "एक फ़्लोचार्ट बनाएं जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> को उपयोगकर्ता <span style=\"\">input</span> रूप में लेता है। जाँच कीजिए कि क्या यह संख्या <b>5 और 15 दोनों</b> से विभाज्य है।",
     "if-code-question8_key3": "प्रश्न 13 पीएनजी",
     "if-code-question8_key4": "<i>संकेत: इस प्रश्न के लिए आपको नेस्टेड if-else का उपयोग करना होगा।</i>",
-    "if-code-question8_key5": "फ़्लोचार्ट और साथ ही <span style=\"\">code</span> ।"
+    "if-code-question8_key5": "फ़्लोचार्ट के साथ-साथ <span style=\"\">code</span> ।"
 }

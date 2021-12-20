@@ -1,0 +1,10 @@
+{
+    "question1_key1": "प्रश्न 1",
+    "question1_key2": "eligible<i>for</i>vote name ka function likho jo ki user ko bataye ki vo (he/she) vote de sakta hai ya nahi.<br>( Consider minimum age of voting to be 18. )",
+    "question1_key3": "<b><i>उदाहरण:-</i></b>",
+    "question1_key4": "Agar user <span style=\"\">input</span> me 18 se kam deta hai to <b><i>“not eligible “</i></b><br>print kare aur agar user 18 ya 18 se jyaada <span style=\"\">input</span> kare to <br><b><i>“you are eligible”</i></b><br>print kare.",
+    "question1_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question1_key6": "18<br> 16",
+    "question1_key7": "<b><span style=\"\">Output</span> :-</b>",
+    "question1_key8": "&quot;आप योग्य हैं&quot;<br> &quot;पात्र नहीं है&quot;"
+}
