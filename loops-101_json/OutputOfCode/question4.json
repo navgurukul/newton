@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 0<br>while(i<5):<br>    j = 0<br>    while(j<5): #loop2<br>        if (j > 3): <br>            break <br>        else:<br>            print \"*\", <br>        j = j + 1    <br>    print ''<br>    i = i + 1<br>"
+		"value": "i = 0<br>while(i<5):<br>&emsp;j = 0<br>&emsp;while(j<5): #loop2<br>&emsp;&emsp;if (j > 3): <br>&emsp;&emsp;&emsp;break <br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print(\"*\"), <br>&emsp;&emsp;j = j + 1&emsp;<br>&emsp;print('')<br>&emsp;i = i + 1<br>"
 	}
 ]

@@ -9,9 +9,7 @@
 		"value": "Print this pattern. "
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "5 5 5 5 5<br>4 4 4 4 4<br>3 3 3 3 3<br>2 2 2 2 2<br>1 1 1 1 1"
 	}
 ]

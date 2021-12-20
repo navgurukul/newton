@@ -8,7 +8,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "year = 2016<br>name = \"NavGurukul\"<br>print (name + ', ' +   + \"mein start hua tha!\")"
+    "value": "year = 2016<br>name = \"NavGurukul\"<br>print(name + ', ' +   + \"mein start hua tha!\")"
   },
   {
     "component": "text",

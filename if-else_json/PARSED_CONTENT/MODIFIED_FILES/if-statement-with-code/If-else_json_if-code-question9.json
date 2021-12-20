@@ -53,23 +53,19 @@
     "value": "if-code-question9_key8"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "You can go to school<br>You can vote in elections"
-  },
-  {
     "component": "text",
     "value": "if-code-question9_key9"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "You can go to school<br>You can vote in elections<br>You can drive a car<br>You can marry"
+    "component": "text",
+    "value": "if-code-question9_key10"
   },
   {
     "component": "text",
-    "value": "if-code-question9_key10"
+    "value": "if-code-question9_key11"
+  },
+  {
+    "component": "text",
+    "value": "if-code-question9_key12"
   }
 ]

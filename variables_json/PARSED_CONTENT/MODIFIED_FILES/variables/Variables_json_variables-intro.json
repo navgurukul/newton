@@ -32,7 +32,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "variable_x=123<br>a=9999"
+    "value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print (variable_x, a)"
   },
   {
     "component": "text",
@@ -42,7 +42,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print (variable_x, a)"
+    "value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print (variable_x)"
   },
   {
     "component": "text",
@@ -52,46 +52,16 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "variable_x=9.9"
-  },
-  {
-    "component": "text",
-    "value": "variables-intro_key8"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "print (variable_x)"
-  },
-  {
-    "component": "text",
-    "value": "variables-intro_key9"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "a='hello world'<br>b='navgurukul'"
-  },
-  {
-    "component": "text",
-    "value": "variables-intro_key10"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "print (variable_x, a, b)"
+    "value": "a='hello world'<br>b='navgurukul'<br># Now print them to see the output.<br>print (variable_x, a, b)"
   },
   {
     "component": "header",
     "variant": 3,
-    "value": "variables-intro_key11"
+    "value": "variables-intro_key8"
   },
   {
     "component": "text",
-    "value": "variables-intro_key12"
+    "value": "variables-intro_key9"
   },
   {
     "component": "youtube",
@@ -100,7 +70,7 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "variables-intro_key13"
+    "value": "variables-intro_key10"
   },
   {
     "component": "code",
@@ -146,7 +116,7 @@
   },
   {
     "component": "text",
-    "value": "variables-intro_key14"
+    "value": "variables-intro_key11"
   },
   {
     "component": "youtube",

@@ -145,7 +145,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"amara\"</span> - 5<br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"amara\"</span> - 5",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -164,7 +164,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>    print students_list[index]<br>    index = index + 1"
+		"value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>&emsp;print(students_list[index])<br>&emsp;index = index + 1"
 	},
 	{
 		"component": "text",
@@ -183,7 +183,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "student_marks = [23, 45, 89, 90, 56, 80] <br>length = len(student_marks)<br>index = 0<br>total_marks = 0<br>while index < len(student_marks):<br>    total_marks = student_marks[index] + total_marks<br>    index = index + 1<br>print \"Total Marks: \" + str(total_marks)"
+		"value": "student_marks = [23, 45, 89, 90, 56, 80] <br>length = len(student_marks)<br>index = 0<br>total_marks = 0<br>while index < len(student_marks):<br>&emsp;total_marks = student_marks[index] + total_marks<br>&emsp;index = index + 1<br>print(\"Total Marks: \" + str(total_marks))"
 	},
 	{
 		"component": "text",
@@ -202,7 +202,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "student_marks = [23, 45, 67, 89, 90, 54, 34, 21, 34, 23, 19, 28, 10, 45, 86, 87, 9]<br>list_length = len(student_marks)<br>index = 0<br>less_than50 = 0<br>more_than50 = 0<br>while index < list_length:<br>    marks = student_marks[index]<br>    if marks < 50:<br>        less_than50 = less_than50 + 1<br>    else:<br>        more_than50 = more_than50 + 1<br>    index = index + 1<br>print \"Marks more than 50: \" + str(more_than50)<br>print \"Marks less than 50: \" + str(less_than50)"
+		"value": "student_marks = [23, 45, 67, 89, 90, 54, 34, 21, 34, 23, 19, 28, 10, 45, 86, 87, 9]<br>list_length = len(student_marks)<br>index = 0<br>less_than50 = 0<br>more_than50 = 0<br>while index < list_length:<br>&emsp;marks = student_marks[index]<br>&emsp;if marks < 50:<br>&emsp;&emsp;less_than50 = less_than50 + 1<br>&emsp;else:<br>&emsp;&emsp;more_than50 = more_than50 + 1<br>&emsp;index = index + 1<br>print(\"Marks more than 50: \" + str(more_than50))<br>print(\"Marks less than 50: \" + str(less_than50))"
 	},
 	{
 		"component": "header",

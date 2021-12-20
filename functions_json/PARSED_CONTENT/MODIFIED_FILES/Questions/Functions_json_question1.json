@@ -21,19 +21,15 @@
     "value": "question1_key5"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "18<br>16"
-  },
-  {
     "component": "text",
     "value": "question1_key6"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "“you are eligible”<br>“not eligible”"
+    "component": "text",
+    "value": "question1_key7"
+  },
+  {
+    "component": "text",
+    "value": "question1_key8"
   }
 ]

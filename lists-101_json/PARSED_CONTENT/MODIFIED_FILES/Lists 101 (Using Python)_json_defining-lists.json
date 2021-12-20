@@ -25,7 +25,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "names_list = [\"rahul\", \"shivam\", \"kavay\", \"ashish\", \"rohit\"]<br>print names_list<br>print type(names_list)"
+    "value": "names_list = [\"rahul\", \"shivam\", \"kavay\", \"ashish\", \"rohit\"]<br>print(names_list)<br>print(type(names_list))"
   },
   {
     "component": "text",
@@ -56,7 +56,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "banks_list = [\"Kotak\", \"HDFC\", \"RBL\", \"SBI\", \"Bank of Baroda\"]<br>print banks_list<br>print type(banks_list)"
+    "value": "banks_list = [\"Kotak\", \"HDFC\", \"RBL\", \"SBI\", \"Bank of Baroda\"]<br>print(banks_list)<br>print(type(banks_list))"
   },
   {
     "component": "header",
@@ -71,7 +71,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "marks_list = [70, 80, 75, 65, 68]<br>print marks_list   <br>print type(marks_list)"
+    "value": "marks_list = [70, 80, 75, 65, 68]<br>print(marks_list)   <br>print(type(marks_list))"
   },
   {
     "component": "header",
@@ -86,7 +86,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]<br>print temperature_list"
+    "value": "temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]<br>print(temperature_list)"
   },
   {
     "component": "text",

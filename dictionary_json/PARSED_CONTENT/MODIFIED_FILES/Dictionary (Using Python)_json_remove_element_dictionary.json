@@ -21,7 +21,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "CAR_DETAILS={<br>    \"brand\": \"Ford\",<br>    \"model\": \"jason\",<br>    \"year\": 1964<br>}<br>CAR_DETAILS.pop(\"model\")<br>print(CAR_DETAILS)"
+    "value": "CAR_DETAILS={<br>&emsp;\"brand\": \"Ford\",<br>&emsp;\"model\": \"jason\",<br>&emsp;\"year\": 1964<br>}<br>CAR_DETAILS.pop(\"model\")<br>print(CAR_DETAILS)"
   },
   {
     "component": "header",
@@ -45,7 +45,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "person={<br>    'name':'jack',<br>    'id':22,<br>    'place':'dharamsala'<br>}<br>person.popitem()<br>print(person)"
+    "value": "person={<br>&emsp;'name':'jack',<br>&emsp;'id':22,<br>&emsp;'place':'dharamsala'<br>}<br>person.popitem()<br>print(person)"
   },
   {
     "component": "header",
@@ -69,7 +69,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "person={<br>    'name':'jack',<br>    'id':22,<br>    'place':'dharamsala'<br>}<br><br>del person('place')<br>print(person)"
+    "value": "person={<br>&emsp;'name':'jack',<br>&emsp;'id':22,<br>&emsp;'place':'dharamsala'<br>}<br><br>del person('place')<br>print(person)"
   },
   {
     "component": "header",

@@ -4,7 +4,7 @@ question2_key1
 ```python
 a = {'a':1,'b':2,'c':3}
 
-print (a['a','b'])
+print(a['a','b'])
  ```
 
 question2_key2

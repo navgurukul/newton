@@ -5,9 +5,15 @@
 	"part-2_key4": "Using `question_list` `variable` print `doosra question`.Using `options_list`, print the four options of \n",
 	"part-2_key5": "`question_list` `variable` ko use kar kar `doosra question` print karo\n`options_list` ka use kar kar `doosre question` ke chaaron options ko print karo `doosre question`.\n",
 	"part-2_key6": "Your `output` should look like this :\n",
-	"part-2_key7": "Keep in Mind :\n",
-	"part-2_key8": "With each option , we should also print its `number`.\n",
-	"part-2_key9": "Hint:\n",
-	"part-2_key10": "Remember what learnt about the indexes.\n",
-	"part-2_key11": "Use `loop` to print the options.\n"
+	"part-2_key7": "Aapka Sawaal hai:\nWhat is the capital of India?\n",
+	"part-2_key8": "Aapke options hai:\n",
+	"part-2_key9": "Chandigarh\n",
+	"part-2_key10": "Bhopal\n",
+	"part-2_key11": "Chennai\n",
+	"part-2_key12": "Delhi\n\n\n\n",
+	"part-2_key13": "Keep in Mind :\n",
+	"part-2_key14": "With each option , we should also print its `number`.\n",
+	"part-2_key15": "Hint:\n",
+	"part-2_key16": "Remember what learnt about the indexes.\n",
+	"part-2_key17": "Use `loop` to print the options.\n"
 }

@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "my_dict = {<br>    'a':50, <br>    'b':58,<br>    'c': 56,<br>    'd':40,<br>    'e':100, <br>    'f':20<br>    }"
+		"value": "my_dict = {<br>&emsp;'a':50, <br>&emsp;'b':58,<br>&emsp;'c': 56,<br>&emsp;'d':40,<br>&emsp;'e':100, <br>&emsp;'f':20<br>&emsp;}"
 	},
 	{
 		"component": "header",
@@ -25,9 +25,7 @@
 		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "expect result:-['e','b','c']"
 	}
 ]

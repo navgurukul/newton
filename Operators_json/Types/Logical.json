@@ -133,7 +133,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Similarly, for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0 and 2</span> the output is 0 as at the time of checking the first condition, the answer of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">and</span> operator is determined to be false since the first condition is false.**<br>",
+		"value": "Similarly, for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0 and 2</span> the output is 0 as at the time of checking the first condition, the answer of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">and</span> operator is determined to be false since the first condition is false.**",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -147,7 +147,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0 or \"\"</span> will give <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(empty String)</span> as the output is not 0 because the output is determined at the second condition.<br><br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0 or \"\"</span> will give <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">(empty String)</span> as the output is not 0 because the output is determined at the second condition.",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -183,7 +183,7 @@
 	},
 	{
 		"component": "text",
-		"value": "c is actually greater than b so the condition c &gt; b is true but adding <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">not</span> in front of it gives the opposite output, that is, false.<br><br>#### Example :-<br><br>",
+		"value": "c is actually greater than b so the condition c &gt; b is true but adding <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">not</span> in front of it gives the opposite output, that is, false.#### Example :-",
 		"decoration": {
 			"type": "bullet"
 		}

@@ -8,7 +8,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "number = input(\"please enter a decimal number\")<br>print (\"your number divided by 2 is equal to = \" + number/2)"
+    "value": "number = input(\"please enter a decimal number\")<br>print(\"your number divided by 2 is equal to = \" + number/2)"
   },
   {
     "component": "text",

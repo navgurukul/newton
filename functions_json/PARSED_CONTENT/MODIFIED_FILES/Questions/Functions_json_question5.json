@@ -13,12 +13,6 @@
     "value": "question5_key3"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "10"
-  },
-  {
     "component": "text",
     "value": "question5_key4"
   },
@@ -27,9 +21,11 @@
     "value": "question5_key5"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "33"
+    "component": "text",
+    "value": "question5_key6"
+  },
+  {
+    "component": "text",
+    "value": "question5_key7"
   }
 ]

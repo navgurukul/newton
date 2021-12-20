@@ -17,7 +17,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "my_dict = {<br>        'data1':100,<br>        'data2': -54,<br>        'data3': 247<br>       }"
+    "value": "my_dict = {<br>&emsp;  'data1':100,<br>&emsp;  'data2': -54,<br>&emsp;  'data3': 247<br>&emsp;  }"
   },
   {
     "component": "header",
@@ -25,9 +25,7 @@
     "value": "question3_key4"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "293"
+    "component": "text",
+    "value": "question3_key5"
   }
 ]

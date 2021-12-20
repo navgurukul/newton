@@ -1,5 +1,6 @@
 {
 	"question1_key1": "Question 1\n",
 	"question1_key2": "Write a program that prints all those numbers from 1 to 100  which are divisible by 7.\n",
-	"question1_key3": "The `output` should come as follows :-\n"
+	"question1_key3": "The `output` should come as follows :-\n",
+	"question1_key4": "7\n14\n21\n28\n35\n42\n49\n56\n63\n70\n77\n84\n91\n98\n"
 }

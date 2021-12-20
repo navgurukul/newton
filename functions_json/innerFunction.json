@@ -16,16 +16,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def f1():<br>   s = \"I Love Navgurukul\"<br>   def f2():<br>       print(s)<br>   f2()<br><br>f1()"
+		"value": "def f1():<br>   s = \"I Love Navgurukul\"<br>   def f2():<br>&emsp;   print(s)<br>   f2()<br><br>f1()"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "I Love Navgurukul"
 	},
 	{
@@ -49,32 +47,32 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def first_function():<br>    s = 'I love India'<br>    def second_function():<br>        print(s)     <br>    second_function()<br>first_function()"
+		"value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>first_function()"
 	},
 	{
 		"component": "text",
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT:-</span>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "I love India"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def first_function():<br>    s = 'I love India'<br>    def second_function():<br>        s = \"MY NAME IS JACK\"<br>            print(s)     <br>    second_function()<br>    print(s)    <br> <br>first_function()"
+		"value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;s = \"MY NAME IS JACK\"<br>&emsp;&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>&emsp;print(s)&emsp;<br> <br>first_function()"
 	},
 	{
 		"component": "text",
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT:-</span>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "MY NAME IS JACK<br><br>I love India"
+		"component": "text",
+		"value": "MY NAME IS JACK"
+	},
+	{
+		"component": "text",
+		"value": "I love India"
 	}
 ]

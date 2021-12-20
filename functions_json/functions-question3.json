@@ -25,7 +25,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "num1 = 56<br>num2 = 12<br>add_numbers(num1,num2)"
+		"value": "# Write add_numbers function here<br>num1 = 56<br>num2 = 12<br>add_numbers(num1,num2)"
 	},
 	{
 		"component": "text",
@@ -49,9 +49,18 @@
 		"value": "Jaise agar hum iss function ko [50, 60, 10] aur [10, 20, 13] denge ko woh yeh print karega"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "60<br>---------------<br>80<br>---------------<br>23<br>---------------"
+		"component": "header",
+		"variant": 2,
+		"value": "60"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "80"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "23"
 	}
 ]

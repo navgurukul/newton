@@ -30,7 +30,7 @@
 	},
 	{
 		"component": "text",
-		"value": "It is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Case Sensitive</span> (means var, VAR, Var are different variables).<br><br>",
+		"value": "It is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Case Sensitive</span> (means var, VAR, Var are different variables).",
 		"decoration": {
 			"type": "number",
 			"value": 3

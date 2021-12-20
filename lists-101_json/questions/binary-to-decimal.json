@@ -28,10 +28,49 @@
 		"value": "To convert this number in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form</span>:-"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "# last element ko 2^0 yaani 1 se<br># second last element ko 2^1 yaani 2 se<br># third last element ko 2^2 yaani 4 se<br># fourth last element ko 2^3 yaani 8 se<br># ...<br># ...<br># <br># multiply kar kar<br># add karna hai"
+		"component": "header",
+		"variant": 1,
+		"value": "last element ko 2^0 yaani 1 se"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "second last element ko 2^1 yaani 2 se"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "third last element ko 2^2 yaani 4 se"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "fourth last element ko 2^3 yaani 8 se"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "…"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "…"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": ""
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "multiply kar kar"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "add karna hai"
 	},
 	{
 		"component": "text",

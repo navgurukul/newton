@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "index = 1<br>While(Index < 10):<br>    Print(index)<br>    index = index + 1"
+		"value": "index = 1<br>while(index < 10):<br>&emsp;print(index)<br>&emsp;index = index + 1"
 	}
 ]

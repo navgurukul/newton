@@ -14,7 +14,7 @@
 	},
 	{
 		"component": "text",
-		"value": "https://www.w3schools.com/python/python<i>while</i>loops.asp<br><br>",
+		"value": "https://www.w3schools.com/python/python<i>while</i>loops.asp",
 		"decoration": {
 			"type": "bullet"
 		}

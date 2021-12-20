@@ -5,8 +5,8 @@ definitions-part-1_key3
 
 definitions-part-1_key4
 ```python
-a=5
-b=9
+a = 5
+b = 9
 print(a+b)
  ```
 definitions-part-1_key5
@@ -40,8 +40,8 @@ definitions-part-1_key17
 
 definitions-part-1_key18
 ```python
-a=5
-b=7
+a = 5
+b = 7
 print(a+b)
  ```
 definitions-part-1_key19
@@ -84,7 +84,7 @@ definitions-part-1_key37
 
 definitions-part-1_key38
 ```python
-num=5
+num = 5
 print(num
  ```
 definitions-part-1_key39
@@ -92,7 +92,7 @@ definitions-part-1_key40
 
 
 ```python
-num=5
+num = 5
 print "a"
  ```
 definitions-part-1_key41

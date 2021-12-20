@@ -8,14 +8,11 @@ question6_key2
 question6_key6
 
 
-```
-85
-135
-```
+
 question6_key7
 
+ 
+question6_key8
 
-```
-3
-“License suspended”
-```
+
+question6_key9

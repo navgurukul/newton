@@ -35,9 +35,32 @@
     "value": "functions-question4_key8"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "dono even hain<br>---------------<br>dono even nahi hai<br>---------------<br>dono even hain<br>---------------<br>dono even hain<br>---------------<br>dono even nahi hain<br>---------------<br>dono even nahi hain"
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question4_key9"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question4_key10"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question4_key11"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question4_key12"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question4_key13"
+  },
+  {
+    "component": "text",
+    "value": "functions-question4_key14"
   }
 ]

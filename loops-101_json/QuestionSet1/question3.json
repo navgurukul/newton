@@ -13,10 +13,12 @@
 		"value": "This program will run like this. Every time use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input()</span> to take the numbers as an <span style=\"\">input</span>."
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "Step 1 of 10 :- Enter any number > 10<br>Step 2 of 10 :- Enter any number > 16<br>Step 3 of 10 :- Enter any number > 9<br>Step 4 of 10 :- Enter any number > 10<br>Step 5 of 10 :- Enter any number > 56<br>Step 6 of 10 :- Enter any number > 78<br>Step 7 of 10 :- Enter any number > 98<br>Step 8 of 10 :- Enter any number > 43<br>Step 9 of 10 :- Enter any number > 21<br>Step 10 of 10 :- Enter any number > 76<br><br>Total Sum: 417"
+		"component": "text",
+		"value": "Step 1 of 10 :- Enter any number &gt; 10<br>Step 2 of 10 :- Enter any number &gt; 16<br>Step 3 of 10 :- Enter any number &gt; 9<br>Step 4 of 10 :- Enter any number &gt; 10<br>Step 5 of 10 :- Enter any number &gt; 56<br>Step 6 of 10 :- Enter any number &gt; 78<br>Step 7 of 10 :- Enter any number &gt; 98<br>Step 8 of 10 :- Enter any number &gt; 43<br>Step 9 of 10 :- Enter any number &gt; 21<br>Step 10 of 10 :- Enter any number &gt; 76"
+	},
+	{
+		"component": "text",
+		"value": "Total Sum: 417"
 	},
 	{
 		"component": "text",

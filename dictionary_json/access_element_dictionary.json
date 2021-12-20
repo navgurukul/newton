@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "person={<br>    'name':'jack',<br>    'age':20,<br>    'gender':'male',<br>    4:'organisation'}<br><br>result = person['age'] <br>x = person.get(\"gender\")<br>print(person[4])<br>print(x)<br>print(result)"
+		"value": "person={<br>&emsp;'name':'jack',<br>&emsp;'age':20,<br>&emsp;'gender':'male',<br>&emsp;4:'organisation'}<br><br>result = person['age'] <br>x = person.get(\"gender\")<br>print(person[4])<br>print(x)<br>print(result)"
 	},
 	{
 		"component": "header",
@@ -46,7 +46,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "person={<br>    'name':'jack',<br>    'age':20,<br>    'gender':'male',<br>    4:{<br>        'organisation':'navgurukul','place':'dharamsala'<br>        }<br>    }<br>print(person['gender'])<br><br>print(person[4])<br><br>result = person[4]['place']<br><br>print(result)"
+		"value": "person={<br>&emsp;'name':'jack',<br>&emsp;'age':20,<br>&emsp;'gender':'male',<br>&emsp;4:{<br>&emsp;&emsp;'organisation':'navgurukul','place':'dharamsala'<br>&emsp;&emsp;}<br>&emsp;}<br>print(person['gender'])<br><br>print(person[4])<br><br>result = person[4]['place']<br><br>print(result)"
 	},
 	{
 		"component": "header",
@@ -54,9 +54,7 @@
 		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "male <br>{'organisation': 'navgurukul', 'place': 'dharamsala'}<br> dharamsala"
 	}
 ]

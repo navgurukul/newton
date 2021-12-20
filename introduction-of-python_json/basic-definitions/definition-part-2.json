@@ -70,7 +70,7 @@
 	},
 	{
 		"component": "text",
-		"value": "To study Compiler and Interpreter in detail please click this link.  <a href=\"https://www.youtube.com/watch?v=e4ax90XmUBc&t=156s\">Compiler and Interpreter</a> <br><br>",
+		"value": "To study Compiler and Interpreter in detail please click this link.  <a href=\"https://www.youtube.com/watch?v=e4ax90XmUBc&t=156s\">Compiler and Interpreter</a> ",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -130,7 +130,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "num=5<br>print(num"
+		"value": "num = 5<br>print(num"
 	},
 	{
 		"component": "header",
@@ -236,7 +236,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "name=\"python\"<br>print(name)"
+		"value": "name = \"python\"<br>print(name)"
 	},
 	{
 		"component": "header",

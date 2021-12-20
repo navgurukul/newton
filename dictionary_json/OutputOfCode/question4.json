@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "Student = {}<br>Age = {}<br>Details = {}<br>Student['name'] = \"bikki\"<br>Age['student_age'] = 14<br>Details['Student'] = Student<br>Details['Age'] = Age<br><br>print (len(Details[\"Student\"])) <br>"
+		"value": "Student = {}<br>Age = {}<br>Details = {}<br>Student['name'] = \"bikki\"<br>Age['student_age'] = 14<br>Details['Student'] = Student<br>Details['Age'] = Age<br><br>print(len(Details[\"Student\"])) <br>"
 	}
 ]

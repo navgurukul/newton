@@ -22,7 +22,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Now, store it in a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python variable</span>.<br><br>",
+		"value": "Now, store it in a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python variable</span>.",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -79,7 +79,7 @@
 	},
 	{
 		"component": "text",
-		"value": "List of Council members <br><br>",
+		"value": "List of Council members ",
 		"decoration": {
 			"type": "bullet"
 		}

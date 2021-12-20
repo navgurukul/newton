@@ -45,7 +45,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def get_hint(secret_word, letters_guessed):<br>    '''<br>    secret_word: ek string word jo ki user ko guess karna hai<br>    letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>    returns: ek character jo abhi tak guess nahi hua hai<br>    '''<br><br>    import random<br>    letters_not_guessed = []<br>    <br>    index = 0<br>    while (index < len(secret_word)):<br>        letter = secret_word[index]<br>        if letter not in letters_guessed:<br>            if letter not in letters_not_guessed:<br>                letters_not_guessed.append(letter)<br><br>        index += 1<br><br>    return random.choice(letters_not_guessed)"
+		"value": "def get_hint(secret_word, letters_guessed):<br>&emsp;'''<br>&emsp;secret_word: ek string word jo ki user ko guess karna hai<br>&emsp;letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>&emsp;returns: ek character jo abhi tak guess nahi hua hai<br>&emsp;'''<br><br>&emsp;import random<br>&emsp;letters_not_guessed = []<br>&emsp;<br>&emsp;index = 0<br>&emsp;while (index < len(secret_word)):<br>&emsp;&emsp;letter = secret_word[index]<br>&emsp;&emsp;if letter not in letters_guessed:<br>&emsp;&emsp;&emsp;if letter not in letters_not_guessed:<br>&emsp;&emsp;&emsp;&emsp;letters_not_guessed.append(letter)<br><br>&emsp;&emsp;index += 1<br><br>&emsp;return random.choice(letters_not_guessed)"
 	},
 	{
 		"component": "text",
@@ -55,7 +55,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "guess = raw_input(\"Please guess a letter: \")<br>        if guess == \"hint\":<br>            letter = get_hint(secret_word, letters_guessed)<br>        <br>        else:<br>            letter = guess.lower()<br><br>            if (not ifValid(letter))<br>                continue<br><br>        if letter in secret_word:<br>            letters_guessed.append(letter)"
+		"value": "&emsp;&emsp;guess = raw_input(\"Please guess a letter: \")<br>&emsp;&emsp;if guess == \"hint\":<br>&emsp;&emsp;&emsp;letter = get_hint(secret_word, letters_guessed)<br>&emsp;&emsp;<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;letter = guess.lower()<br><br>&emsp;&emsp;&emsp;if (not ifValid(letter))<br>&emsp;&emsp;&emsp;&emsp;continue<br><br>&emsp;&emsp;if letter in secret_word:<br>&emsp;&emsp;&emsp;letters_guessed.append(letter)"
 	},
 	{
 		"component": "text",

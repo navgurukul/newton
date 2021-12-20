@@ -13,9 +13,7 @@
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> "
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "10"
 	},
 	{
@@ -27,9 +25,7 @@
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "33"
 	}
 ]

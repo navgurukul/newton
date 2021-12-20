@@ -15,9 +15,9 @@
 	},
 	{
 		"component": "code",
-		"type": "other",
+		"type": "python",
 		"title": "",
-		"value": "Who is the founder of Facebook?<br><br>- Mark Zuckerberg<br>- Bill Gates<br>- Steve Jobs<br>- Larry Page"
+		"value": "#write function here<br><br># Who is the founder of Facebook?<br><br># - Mark Zuckerberg<br># - Bill Gates<br># - Steve Jobs<br># - Larry Page"
 	},
 	{
 		"component": "text",

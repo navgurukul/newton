@@ -23,19 +23,21 @@
     "value": "count-occurences_key4"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]<br><br>a - 6 times<br>n - 3 times<br>t - 2 times<br>x - 2 times<br>u - 1 times<br>g - 1 times"
-  },
-  {
     "component": "text",
     "value": "count-occurences_key5"
   },
   {
+    "component": "text",
+    "value": "count-occurences_key6"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key7"
+  },
+  {
     "component": "header",
     "variant": 3,
-    "value": "count-occurences_key6"
+    "value": "count-occurences_key8"
   },
   {
     "component": "code",
@@ -46,12 +48,10 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "count-occurences_key7"
+    "value": "count-occurences_key9"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "[]"
+    "component": "text",
+    "value": "count-occurences_key10"
   }
 ]

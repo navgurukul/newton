@@ -16,7 +16,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "print (\"This will be printed.\")<br>print (\"This line will also be printed\")<br># This is a comment.<br># You can write it for your ease.<br># Any line that starts with \"#\" (hash) is called a  comment.<br># We write these lines as programmers, for our own ease. Computer ignores them.<br>print (\"Computer will not be able to read above comments,but will print this line.\")"
+		"value": "print(\"This will be printed.\")<br>print(\"This line will also be printed\")<br># This is a comment.<br># You can write it for your ease.<br># Any line that starts with \"#\" (hash) is called a  comment.<br># We write these lines as programmers, for our own ease. Computer ignores them.<br>print(\"Computer will not be able to read above comments,but will print this line.\")"
 	},
 	{
 		"component": "header",

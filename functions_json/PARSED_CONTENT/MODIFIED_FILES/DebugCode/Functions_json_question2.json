@@ -12,6 +12,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "function multi(a,b):<br>    multiply=a*b<br>    return multiply<br>print(multi(3,4))"
+    "value": "function multi(a,b):<br>&emsp;multiply=a*b<br>&emsp;return multiply<br>print(multi(3,4))"
   }
 ]

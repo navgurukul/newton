@@ -20,6 +20,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "c=dict()<br>for i in range(1,16):<br>    c=i*i<br>print(c)"
+		"value": "c=dict()<br>for i in range(1,16):<br>&emsp;c=i*i<br>print(c)"
 	}
 ]

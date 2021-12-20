@@ -34,11 +34,11 @@ basics-booleans_key32
 
 
 ```python
-4 < 5 # True
+print(4 < 5) # True
 ```
 
 ```python
-56 == 45 # False
+print(56 == 45) # False
 ```
 
 basics-booleans_key33

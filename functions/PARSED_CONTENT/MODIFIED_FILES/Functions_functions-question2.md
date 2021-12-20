@@ -5,7 +5,10 @@ functions-question2_key2
 functions-question2_key3
 
 
-```
-Mera naam Rishabh hai.
-Main NavGurukul ka co-founder hun.
+```python 
+# write your function here
+
+#  -output 
+# Mera naam Rishabh hai.
+# Main NavGurukul ka co-founder hun.
 ```

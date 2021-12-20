@@ -32,57 +32,57 @@ how-to-begin_key7
 
 how-to-begin_key8
 ```python
-print ("This line will be printed in python.")
+print("This line will be printed in python.")
 ```
 
 how-to-begin_key9
 ```python
-print ("This, another line will also be printed in python")
+print("This, another line will also be printed in python")
 ```
 
 how-to-begin_key10
 ```python
-print (2 + 5)
+print(2 + 5)
 ```
 
 how-to-begin_key11
 ```python
-print ("This line will be printed in python.")
-print ("This, another line will also be printed in python")
-print (2 + 5)
+print("This line will be printed in python.")
+print("This, another line will also be printed in python")
+print(2 + 5)
 ```
 
 how-to-begin_key12
 ```python
 i = 0
-print (i)
+print(i)
 ```
 
 how-to-begin_key13
 ```python
 i = 0
 while i < 100:
-    print ("I will be printed again and again.:)"
+    print("I will be printed again and again.:)"
 ```
 
 how-to-begin_key14
 ```python
 i = 0
 while i < 100:
-    print ("I will be printed again and again:)")
+    print("I will be printed again and again:)")
     i = i+1
 ```
 
 
 how-to-begin_key15
 ```python
-print ("This line will be printed in python.")
-print ("This, another line will also be printed in python")
-print (2 + 5)
+print("This line will be printed in python.")
+print("This, another line will also be printed in python")
+print(2 + 5)
 i = 0
 print (i)
 while i < 100:
-    print ("I will be printed again and again.:)")
+    print("I will be printed again and again.:)")
 ```
 how-to-begin_key16
 

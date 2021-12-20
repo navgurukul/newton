@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print (\"We will learn debugging by removing all the errors from this python file.\")"
+    "value": "print(\"We will learn debugging by removing all the errors from this python file.\")"
   },
   {
     "component": "text",

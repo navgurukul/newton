@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def calculate_sum(a,b):<br>    sum = a+b<br>    print(sum)<br>sum(4,5)<br>"
+		"value": "def calculate_sum(a,b):<br>&emsp;sum = a+b<br>&emsp;print(sum)<br>sum(4,5)<br>"
 	}
 ]

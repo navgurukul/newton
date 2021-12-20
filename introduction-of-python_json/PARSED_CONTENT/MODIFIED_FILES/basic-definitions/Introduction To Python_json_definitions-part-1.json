@@ -22,7 +22,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a=5<br>b=9<br>print(a+b)"
+    "value": "a = 5<br>b = 9<br>print(a+b)"
   },
   {
     "component": "header",
@@ -90,7 +90,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a=5<br>b=7<br>print(a+b)"
+    "value": "a = 5<br>b = 7<br>print(a+b)"
   },
   {
     "component": "header",
@@ -171,7 +171,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "num=5<br>print(num"
+    "value": "num = 5<br>print(num"
   },
   {
     "component": "header",
@@ -186,7 +186,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "num=5<br>print \"a\""
+    "value": "num = 5<br>print \"a\""
   },
   {
     "component": "header",

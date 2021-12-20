@@ -46,8 +46,4 @@ print(result)
  ```
    
 access_element_dictionary_key9
-```
-male 
-{'organisation': 'navgurukul', 'place': 'dharamsala'}
- dharamsala
-```
+access_element_dictionary_key10

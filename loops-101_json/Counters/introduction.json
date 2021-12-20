@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "count=1<br>While count<=5:<br>    print(\"Working\")<br>    count = count + 1"
+		"value": "count=1<br>While count<=5:<br>&emsp;print(\"Working\")<br>&emsp;count = count + 1"
 	},
 	{
 		"component": "text",

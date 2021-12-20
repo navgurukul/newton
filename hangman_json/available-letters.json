@@ -49,7 +49,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def get_available_letters(letters_guessed):<br>    '''<br>    letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>    returns: string, hame ye return karna hai ki kaun kaun se letters aapne nahi guess kare abhi tak<br>    eg agar letters_guessed = ['e', 'a'] hai to humme baki charecters return karne hai<br>    jo ki bcdfghijklmnopqrstuvwxyz' ye hoga<br>    '''<br><br>    import string<br>    all_letters = string.ascii_lowercase<br>    letters_left = \"\"<br><br>    for letter in all_letters:<br>        if letter not in letters_guessed:<br>            letters_left += letter<br>    <br>    return letters_left"
+		"value": "def get_available_letters(letters_guessed):<br>&emsp;'''<br>&emsp;letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>&emsp;returns: string, hame ye return karna hai ki kaun kaun se letters aapne nahi guess kare abhi tak<br>&emsp;eg agar letters_guessed = ['e', 'a'] hai to humme baki charecters return karne hai<br>&emsp;jo ki bcdfghijklmnopqrstuvwxyz' ye hoga<br>&emsp;'''<br><br>&emsp;import string<br>&emsp;all_letters = string.ascii_lowercase<br>&emsp;letters_left = \"\"<br><br>&emsp;for letter in all_letters:<br>&emsp;&emsp;if letter not in letters_guessed:<br>&emsp;&emsp;&emsp;letters_left += letter<br>&emsp;<br>&emsp;return letters_left"
 	},
 	{
 		"component": "text",

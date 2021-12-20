@@ -12,6 +12,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "i = 2<br>while (i<num):<br>    if (num%i == 0):<br>        print(num, 'is not a prime number')<br>        break<br>    i = i + 1<br>else:<br>    print(num, 'is a prime number')<br>"
+    "value": "i = 2<br>while (i<num):<br>&emsp;if (num%i == 0):<br>&emsp;&emsp;print(num, 'is not a prime number')<br>&emsp;&emsp;break<br>&emsp;i = i + 1<br>else:<br>&emsp;print(num, 'is a prime number')<br>"
   }
 ]

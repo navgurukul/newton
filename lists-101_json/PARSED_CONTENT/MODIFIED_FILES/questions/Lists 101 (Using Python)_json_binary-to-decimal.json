@@ -28,19 +28,58 @@
     "value": "binary-to-decimal_key5"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "# last element ko 2^0 yaani 1 se<br># second last element ko 2^1 yaani 2 se<br># third last element ko 2^2 yaani 4 se<br># fourth last element ko 2^3 yaani 8 se<br># ...<br># ...<br># <br># multiply kar kar<br># add karna hai"
-  },
-  {
-    "component": "text",
+    "component": "header",
+    "variant": 1,
     "value": "binary-to-decimal_key6"
   },
   {
     "component": "header",
-    "variant": 2,
+    "variant": 1,
     "value": "binary-to-decimal_key7"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key9"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key10"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key11"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key12"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key13"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "binary-to-decimal_key14"
+  },
+  {
+    "component": "text",
+    "value": "binary-to-decimal_key15"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "binary-to-decimal_key16"
   },
   {
     "component": "code",
@@ -50,7 +89,7 @@
   },
   {
     "component": "text",
-    "value": "binary-to-decimal_key8"
+    "value": "binary-to-decimal_key17"
   },
   {
     "component": "code",
@@ -60,14 +99,14 @@
   },
   {
     "component": "text",
-    "value": "binary-to-decimal_key9"
+    "value": "binary-to-decimal_key18"
   },
   {
     "component": "text",
-    "value": "binary-to-decimal_key10"
+    "value": "binary-to-decimal_key19"
   },
   {
     "component": "text",
-    "value": "binary-to-decimal_key11"
+    "value": "binary-to-decimal_key20"
   }
 ]

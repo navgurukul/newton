@@ -77,9 +77,9 @@ ipython_key26
 ```python
 time = input("Is it morning or evening? (morning/evening) ")
 if time == "morning":
-    print ("Let's go for a run!")
+    print("Let's go for a run!")
 elif time == "evening":
-    print ("Let's go out for a coffee.")
+    print("Let's go out for a coffee.")
 else:
-    print ("I did not understand what input you put?")
+    print("I did not understand what input you put?")
 ```

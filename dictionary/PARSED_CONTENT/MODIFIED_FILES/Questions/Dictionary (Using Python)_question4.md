@@ -20,13 +20,5 @@ question4_key4
 ```
  
 question4_key5
-```
-Dic= {
-    1: 'NAVGURUKUL',
-    2: 'IN',  
-      3:
-      { 'B' : 'To',
-        'C' : 'DHARAMSALA'
-       }
-    }
-```
+  
+question4_key6

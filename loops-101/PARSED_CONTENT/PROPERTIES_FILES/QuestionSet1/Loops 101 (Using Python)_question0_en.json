@@ -1,5 +1,6 @@
 {
 	"question0_key1": "Question 0\n",
 	"question0_key2": "Make a program that prints all the numbers from 1 to 100.\n",
-	"question0_key3": "You should get the following as an `output`.\n"
+	"question0_key3": "You should get the following as an `output`.\n",
+	"question0_key4": "1\n2\n3\n4\n5\n6\n...\n...\n...\n97\n98\n99\n100\n"
 }

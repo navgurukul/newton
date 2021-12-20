@@ -5,5 +5,7 @@
 	"question6_key4": "Agar driver ki speed 70 se jyaada hai to function use har 5 km ke liye 1 point dega (ye 70 ko count nahi karega).\n\n`example ke liye agar speed 80 hai to print karega “points:2”` .\n\n",
 	"question6_key5": "Agar driver ko 12 points se jyaada points milte hai to , function  “License suspended” print karega.\n\n\n\n",
 	"question6_key6": "`Input:-` \n",
-	"question6_key7": "**`Output` :-**\n"
+	"question6_key7": "85\n135\n",
+	"question6_key8": "**`Output` :-**\n",
+	"question6_key9": "3\n“License suspended”\n"
 }

@@ -24,7 +24,7 @@
 	},
 	{
 		"component": "text",
-		"value": "average<br><br>",
+		"value": "average",
 		"decoration": {
 			"type": "bullet"
 		}

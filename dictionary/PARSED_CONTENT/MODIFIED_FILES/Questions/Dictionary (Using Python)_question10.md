@@ -6,7 +6,7 @@ question10_key2
 
 question10_key3
 ```python
- dict =  {
+ dict1 =  {
    'Alex': ['subj1', 'subj2', 'subj3'], 
    'David': ['subj1', 'subj2']}
   ```

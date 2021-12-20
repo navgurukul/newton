@@ -21,17 +21,11 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "user_input = input(\"Kuch input daaliye \")"
+		"value": "user_input = input(\"Kuch input daaliye \")<br>print (user_input)"
 	},
 	{
 		"component": "text",
 		"value": "When it runs, <span style=\"\">python</span> will stop and a cursor will appear. Here you have to put some <span style=\"\">inputs</span>. Press <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Enter</span> after you have made your <span style=\"\">input</span>. Now, when you <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print user_input</span>, whatever value you had to enter will be in the form of a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">user_input</span> <span style=\"\">variable</span>."
-	},
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "print (user_input)"
 	},
 	{
 		"component": "header",
@@ -69,17 +63,11 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "number2 = input(\"Enter a number \")"
+		"value": "number2 = input(\"Enter a number \")<br>print (type(number2))"
 	},
 	{
 		"component": "text",
 		"value": "Here the data type of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> will be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>. Whenever we take the value of a <span style=\"\">variable</span> as <span style=\"\">input</span> from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span>, that value is in the form of a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>. If the user has to <span style=\"\">input</span> a number, it will also be in the form of a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>."
-	},
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "print (type(number2))"
 	},
 	{
 		"component": "text",
@@ -104,7 +92,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "number_x = input(\"Pehla number daaliye \")<br>number_y = input(\"Dusra number daaliye\")<br>number_x = int(number_x) # raw_input se hume number_x string type mein mila<br>number_y = int(number_y) # raw_input se hume number_y string type mein mila<br>print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga"
+		"value": "number_x = input(\"Pehla number daaliye \")<br>number_y = input(\"Dusra number daaliye\")<br>number_x = int(number_x) # user_input se hume number_x string type mein mila<br>number_y = int(number_y) # user_input se hume number_y string type mein mila<br>print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga"
 	},
 	{
 		"component": "text",

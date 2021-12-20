@@ -12,6 +12,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "details={<br>    \"name\":\"Shanti\",<br>    \"age\":12,<br>    \"email\":\"shanti@navgurukul.org\",<br>    }<br><br>print(details[\"name\"])<br>print(details[\"lastname\"])<br>print(details[age])<br>"
+    "value": "details={<br>&emsp;\"name\":\"Shanti\",<br>&emsp;\"age\":12,<br>&emsp;\"email\":\"shanti@navgurukul.org\",<br>&emsp;}<br><br>print(details[\"name\"])<br>print(details[\"lastname\"])<br>print(details[age])<br>"
   }
 ]

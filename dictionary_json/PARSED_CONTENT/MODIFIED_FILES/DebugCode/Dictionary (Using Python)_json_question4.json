@@ -20,6 +20,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "s={'umesh':21,'bijender':54,'amar':67,'peter':89,'sonu':56}<br>a={'python':20,\"gaurav\":300,'dev':34,\"karan\":43}<br>c={}<br>for i in (s,a):<br>    update(i)<br>print(c)"
+    "value": "s={'umesh':21,'bijender':54,'amar':67,'peter':89,'sonu':56}<br>a={'python':20,\"gaurav\":300,'dev':34,\"karan\":43}<br>c={}<br>for i in (s,a):<br>&emsp;update(i)<br>print(c)"
   }
 ]

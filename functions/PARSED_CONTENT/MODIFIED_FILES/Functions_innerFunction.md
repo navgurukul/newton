@@ -18,33 +18,38 @@ f1()
 innerFunction_key4
 
 
-```
-I Love Navgurukul
-```
+
 innerFunction_key5
 
 
-    
+
 innerFunction_key6
+
+
+    
 innerFunction_key7
-
-
 innerFunction_key8
+
+
+innerFunction_key9
 
 
 ```python
 def first_function():
     s = 'I love India'
     def second_function():
-   	 print(s)	 
+        print(s)	 
     second_function()
 first_function()
  ```
 
-innerFunction_key9
-```
-I love India
-```
+innerFunction_key10
+
+
+innerFunction_key11
+
+
+
 ```python
 def first_function():
     s = 'I love India'
@@ -56,11 +61,10 @@ def first_function():
  
 first_function()
  ```
-innerFunction_key10
+innerFunction_key12
 
 
-```
-MY NAME IS JACK
+innerFunction_key13
 
-I love India
-```
+
+innerFunction_key14

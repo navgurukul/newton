@@ -8,10 +8,10 @@ user-input-type-conversion_key3
 user-input-type-conversion_key4
 ```python
 user_input = input("Kuch input daaliye ")
-```user-input-type-conversion_key5
-```python
 print (user_input)
-```
+```user-input-type-conversion_key5
+
+
 
 user-input-type-conversion_key6
 user-input-type-conversion_key7
@@ -32,12 +32,10 @@ user-input-type-conversion_key10
 user-input-type-conversion_key11
 ```python
 number2 = input("Enter a number ")
+print (type(number2))
 ```user-input-type-conversion_key12
 
 
-```python
-print (type(number2))
-```
 
 user-input-type-conversion_key13
 
@@ -54,8 +52,8 @@ user-input-type-conversion_key15
 ```python
 number_x = input("Pehla number daaliye ")
 number_y = input("Dusra number daaliye")
-number_x = int(number_x) # raw_input se hume number_x string type mein mila
-number_y = int(number_y) # raw_input se hume number_y string type mein mila
+number_x = int(number_x) # user_input se hume number_x string type mein mila
+number_y = int(number_y) # user_input se hume number_y string type mein mila
 print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga
 ```
 

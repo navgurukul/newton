@@ -13,9 +13,7 @@
 		"value": "You should get the following as an <span style=\"\">output</span>."
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "1<br>2<br>3<br>4<br>5<br>6<br>...<br>...<br>...<br>97<br>98<br>99<br>100"
+		"component": "text",
+		"value": "1<br>2<br>3<br>4<br>5<br>6<br>…<br>…<br>…<br>97<br>98<br>99<br>100"
 	}
 ]

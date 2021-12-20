@@ -40,7 +40,7 @@
 	},
 	{
 		"component": "text",
-		"value": "In Python2 while printing we write like this ,<br><br><br>",
+		"value": "In Python2 while printing we write like this ,",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -48,7 +48,7 @@
 	},
 	{
 		"component": "text",
-		"value": "In Python2 we use raw_input ka use for user input.<br><br>",
+		"value": "In Python2 we use raw_input ka use for user input.",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -62,7 +62,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Python2 has 31 keywords .<br><br><br><br>",
+		"value": "Python2 has 31 keywords .",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -100,9 +100,12 @@
 		"value": "print(\"Hello World\")"
 	},
 	{
-		"component": "header",
-		"variant": 4,
-		"value": "In Python3 we use input for user's input ."
+		"component": "text",
+		"value": "In Python3 we use input for user's input .",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
 	},
 	{
 		"component": "code",

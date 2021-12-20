@@ -23,9 +23,7 @@
 		"value": "For example, the <span style=\"\">output</span> of the list given above is as follows."
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "4 Crorepati <br>3 Lakhpati <br>4 Dilwale"
 	}
 ]

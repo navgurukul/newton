@@ -43,7 +43,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> cd Downloads<br>  File \"<stdin>\", line 1<br>    cd Downloads<br>               ^<br>SyntaxError: invalid syntax<br>>>>"
+		"value": ">>> cd Downloads<br>  File \"<stdin>\", line 1<br>&emsp;cd Downloads<br>&emsp;&emsp;&emsp;   ^<br>SyntaxError: invalid syntax<br>>>>"
 	},
 	{
 		"component": "text",
@@ -79,7 +79,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "In [1]: if True:<br>   ...:     |"
+		"value": "In [1]: if True:<br>   ...:&emsp; |"
 	},
 	{
 		"component": "text",
@@ -117,7 +117,7 @@
 	},
 	{
 		"component": "text",
-		"value": "During the course You need to answer some questions at times. To answer those questions you can always upload a file.<br><br>",
+		"value": "During the course You need to answer some questions at times. To answer those questions you can always upload a file.",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -151,6 +151,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "time = input(\"Is it morning or evening? (morning/evening) \")<br>if time == \"morning\":<br>    print (\"Let's go for a run!\")<br>elif time == \"evening\":<br>    print (\"Let's go out for a coffee.\")<br>else:<br>    print (\"I did not understand what input you put?\")"
+		"value": "time = input(\"Is it morning or evening? (morning/evening) \")<br>if time == \"morning\":<br>&emsp;print(\"Let's go for a run!\")<br>elif time == \"evening\":<br>&emsp;print(\"Let's go out for a coffee.\")<br>else:<br>&emsp;print(\"I did not understand what input you put?\")"
 	}
 ]

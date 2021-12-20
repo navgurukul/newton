@@ -2,5 +2,7 @@
 	"question3_key1": "Question 3\n",
 	"question3_key2": "Make a `loop` that `inputs` `10` numbers. After taking the `input` prints the `sum of all those numbers`.\n",
 	"question3_key3": "This program will run like this. Every time use `input()` to take the numbers as an `input`.\n",
-	"question3_key4": "In the final line, **Total Sum: 417** will be printed,. This will be printed because sum of **10+16+9+10+56+78+98+43+21+76** is **417**.\n"
+	"question3_key4": "Step 1 of 10 :- Enter any number > 10\nStep 2 of 10 :- Enter any number > 16\nStep 3 of 10 :- Enter any number > 9\nStep 4 of 10 :- Enter any number > 10\nStep 5 of 10 :- Enter any number > 56\nStep 6 of 10 :- Enter any number > 78\nStep 7 of 10 :- Enter any number > 98\nStep 8 of 10 :- Enter any number > 43\nStep 9 of 10 :- Enter any number > 21\nStep 10 of 10 :- Enter any number > 76\n",
+	"question3_key5": "Total Sum: 417\n",
+	"question3_key6": "In the final line, **Total Sum: 417** will be printed,. This will be printed because sum of **10+16+9+10+56+78+98+43+21+76** is **417**.\n"
 }

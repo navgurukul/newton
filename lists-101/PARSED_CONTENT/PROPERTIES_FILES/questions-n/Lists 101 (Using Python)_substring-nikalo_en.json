@@ -2,5 +2,7 @@
 	"substring-nikalo_key1": "Remove Sub`string`\n",
 	"substring-nikalo_key2": "You have to write a program in such a way that should remove all the occurences of `subStr` from `mainStr`. Means the `output` of the above program is given below.\n",
 	"substring-nikalo_key3": "Bonus Part\n",
-	"substring-nikalo_key4": "Replace the `subStr` from `mainStr` using `replacementStr` and then print it.\n"
+	"substring-nikalo_key4": "Replace the `subStr` from `mainStr` using `replacementStr` and then print it.\n",
+	"substring-nikalo_key5": "`Output`\n",
+	"substring-nikalo_key6": "the quick brown fox jumped on the lazy dog. the dog slept on the verandah.\n"
 }

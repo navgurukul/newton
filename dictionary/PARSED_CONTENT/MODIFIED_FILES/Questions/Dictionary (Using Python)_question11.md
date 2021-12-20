@@ -15,6 +15,4 @@ my_dict = {
  ```
 
 question11_key4
-```
-[58,56,100]
-```
+question11_key5

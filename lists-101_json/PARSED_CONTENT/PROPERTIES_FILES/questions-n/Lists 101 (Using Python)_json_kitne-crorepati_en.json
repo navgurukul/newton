@@ -2,5 +2,6 @@
 	"kitne-crorepati_key1": "How many Crorepati?",
 	"kitne-crorepati_key2": "Write a program that tells in the above list that how many people are there in the above list who are :",
 	"kitne-crorepati_key3": "1 - `Crorepati` <br>2 - `Lakhpati` <br>3 - `Dilwale`<br><br>All those who have money more than or equal to 1 crore are known as Crorepati. All those who have money money greater than or equal to 1 lakh, those are called Lakhpati. Rest of the people are called Dilwale.",
-	"kitne-crorepati_key4": "For example, the <span style=\"\">output</span> of the list given above is as follows."
+	"kitne-crorepati_key4": "For example, the <span style=\"\">output</span> of the list given above is as follows.",
+	"kitne-crorepati_key5": "4 Crorepati <br>3 Lakhpati <br>4 Dilwale"
 }

@@ -59,7 +59,7 @@ definition-part-2_key29
 
 definition-part-2_key30
 ```python
-num=5
+num = 5
 print(num
  ```
 definition-part-2_key31
@@ -108,7 +108,7 @@ definition-part-2_key47
 
 definition-part-2_key48
 ```python
-name="python"
+name = "python"
 print(name)
  ```
 definition-part-2_key49

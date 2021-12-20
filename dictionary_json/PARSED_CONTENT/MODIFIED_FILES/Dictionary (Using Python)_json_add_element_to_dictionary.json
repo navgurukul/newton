@@ -17,7 +17,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "dic= {<br>    'Name': 'RAM', <br>    'Age': 17,<br>    }<br>    <br>dic['ORGANIZATION'] = \"NAV GURUKUL\"<br><br>dic['place'] = 'dharamsala'<br><br>print(dic)"
+    "value": "dic= {<br>&emsp;'Name': 'RAM', <br>&emsp;'Age': 17,<br>&emsp;}<br>&emsp;<br>dic['ORGANIZATION'] = \"NAV GURUKUL\"<br><br>dic['place'] = 'dharamsala'<br><br>print(dic)"
   },
   {
     "component": "header",
@@ -37,7 +37,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "dic= {<br>   'Name': 'RAM',<br>   'Age': 17,<br>    }<br>dic['student']={<br>       'id':22, <br>       'place':'dharamsala'<br>   }<br>print(dic)"
+    "value": "dic= {<br>   'Name': 'RAM',<br>   'Age': 17,<br>&emsp;}<br>dic['student']={<br>&emsp;   'id':22, <br>&emsp;   'place':'dharamsala'<br>   }<br>print(dic)"
   },
   {
     "component": "header",
@@ -61,7 +61,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "car ={<br>    \"brand\":  \"ford\",<br>    \"model\":  \"mustang\",<br>    \"year\":  1964<br>}<br>if \"model\" in car:<br>    print(\"Yes, 'model' is one of the keys in the car dictionary.\")<br><br>else:<br>    print(\"No, 'model' key dictionary mai nahi hai.\")"
+    "value": "car ={<br>&emsp;\"brand\":  \"ford\",<br>&emsp;\"model\":  \"mustang\",<br>&emsp;\"year\":  1964<br>}<br>if \"model\" in car:<br>&emsp;print(\"Yes, 'model' is one of the keys in the car dictionary.\")<br><br>else:<br>&emsp;print(\"No, 'model' key dictionary mai nahi hai.\")"
   },
   {
     "component": "header",

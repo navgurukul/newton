@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a = 10<br>if a * 2 == 20:<br>print (\"Variable a when multiplied by 2 gives 20.\")<br>else:<br>print (\"Variable a when multiplied by 2 does not give 20.\")"
+    "value": "a = 10<br>if a * 2 == 20:<br>print(\"Variable a when multiplied by 2 gives 20.\")<br>else:<br>print(\"Variable a when multiplied by 2 does not give 20.\")"
   },
   {
     "component": "text",
@@ -50,7 +50,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a = 10<br>if a * 2 == 20:<br>    print ( )<br>else:<br>    print (\"Variable a when multiplied by 2 does not give 20.\")"
+    "value": "a = 10<br>if a * 2 == 20:<br>&emsp;print( )<br>else:<br>&emsp;print(\"Variable a when multiplied by 2 does not give 20.\")"
   },
   {
     "component": "text",
@@ -96,7 +96,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "File \"<ipython-input-5-9eaf99c4383b>\", line 3<br>    print (\"a variable ko 2 se multiply kar ke 20 aata hai\")<br>        ^<br>IndentationError: expected an indented block"
+    "value": "File \"<ipython-input-5-9eaf99c4383b>\", line 3<br>&emsp;print(\"a variable ko 2 se multiply kar ke 20 aata hai\")<br>&emsp;&emsp;^<br>IndentationError: expected an indented block"
   },
   {
     "component": "header",
@@ -116,7 +116,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 1<br>while counter < 10:<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>    print ('--------')"
+    "value": "counter = 1<br>while counter < 10:<br>&emsp;print(\"The counter is\" + str(counter))<br>&emsp;counter = counter + 1<br>&emsp;print('--------')"
   },
   {
     "component": "text",
@@ -147,7 +147,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 1<br>while counter < 10:<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>print ('--------')"
+    "value": "counter = 1<br>while counter < 10:<br>&emsp;print(\"The counter is\" + str(counter))<br>&emsp;counter = counter + 1<br>print('--------')"
   },
   {
     "component": "header",
@@ -180,7 +180,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 1<br>while counter < 10:<br>    if counter % 2 == 0:<br>        print (\"Counter is an even number.\")<br>    print (\"The counter is\" + str(counter))<br>    counter = counter + 1<br>print ('--------')"
+    "value": "counter = 1<br>while counter < 10:<br>&emsp;if counter % 2 == 0:<br>&emsp;&emsp;print(\"Counter is an even number.\")<br>&emsp;print(\"The counter is\" + str(counter))<br>&emsp;counter = counter + 1<br>print ('--------')"
   },
   {
     "component": "text",

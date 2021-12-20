@@ -6,5 +6,11 @@
 	"functions-question4_key5": "Question (Part 2)",
 	"functions-question4_key6": "Ab ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers_list</span> naam ka ek function likho jo inetgers ki list ko arguments ki tarah le aur fir check kare ki same index waale dono <span style=\"\">integers</span> even hain ya nahi.",
 	"functions-question4_key7": "Yeh check karne ke liye pichle <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Part 1</span> mein likhe <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">check_numbers</span> function ka use karo.",
-	"functions-question4_key8": "Agar aapne apne function ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> Toh usko yeh <span style=\"\">output</span> deni chaiye:"
+	"functions-question4_key8": "Agar aapne apne function ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> Toh usko yeh <span style=\"\">output</span> deni chaiye:",
+	"functions-question4_key9": "dono even hain",
+	"functions-question4_key10": "dono even nahi hai",
+	"functions-question4_key11": "dono even hain",
+	"functions-question4_key12": "dono even hain",
+	"functions-question4_key13": "dono even nahi hain",
+	"functions-question4_key14": "dono even nahi hain"
 }

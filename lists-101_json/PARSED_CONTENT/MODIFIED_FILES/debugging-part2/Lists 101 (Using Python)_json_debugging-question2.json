@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "name = [\"Savitri\", \"Phule\", \"26\"]<br># Ab hum iss list ko use karke poora naam (full name) print karna chaste hai<br>print (name[1]+name[2])<br># Code mei dekhiye naam theek se print kyu nahi ho raha"
+    "value": "name = [\"Savitri\", \"Phule\", \"26\"]<br># Ab hum iss list ko use karke poora naam (full name) print karna chaste hai<br>print(name[1]+name[2])<br># Code mei dekhiye naam theek se print kyu nahi ho raha"
   },
   {
     "component": "text",

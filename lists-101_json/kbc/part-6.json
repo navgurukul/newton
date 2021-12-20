@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "if the answer is wrong - tell the user - that the answer is wrong<br><br>",
+		"value": "if the answer is wrong - tell the user - that the answer is wrong",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -55,7 +55,7 @@
 	},
 	{
 		"component": "text",
-		"value": "The two options that you will give - (out of the two one should be correct).<br><br>",
+		"value": "The two options that you will give - (out of the two one should be correct).",
 		"decoration": {
 			"type": "bullet"
 		}

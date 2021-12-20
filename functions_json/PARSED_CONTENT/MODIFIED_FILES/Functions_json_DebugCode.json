@@ -16,7 +16,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def sum()<br>    print(12+13)<br>sum()"
+    "value": "def sum()<br>&emsp;print(12+13)<br>sum()"
   },
   {
     "component": "text",
@@ -26,7 +26,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "daf welcome():<br>    print(\"Welcome to function\")<br>welcome()"
+    "value": "daf welcome():<br>&emsp;print(\"Welcome to function\")<br>welcome()"
   },
   {
     "component": "text",
@@ -36,6 +36,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "<br>isEven()<br><br>def isEven():<br>    if(12%2==0):<br>        print(\"Even Number\")<br>    else:<br>        print(\"Old Number\")"
+    "value": "<br>isEven()<br><br>def isEven():<br>&emsp;if(12%2==0):<br>&emsp;&emsp;print(\"Even Number\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Old Number\")"
   }
 ]

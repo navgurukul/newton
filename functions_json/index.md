@@ -28,6 +28,7 @@
     - question3.json
     - question4.json
     - question5.json
+    - question6.json
 - DebugCode
     - intro.json
     - question1.json

@@ -31,13 +31,11 @@
     "value": "question4_key7"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "10 * -1 = -10<br>2 * -1 = 2"
+    "component": "text",
+    "value": "question4_key8"
   },
   {
     "component": "text",
-    "value": "question4_key8"
+    "value": "question4_key9"
   }
 ]

@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']<br>marks = [10, 20, 56, 45, 36, 20]<br><br>print len(students)<br>print len(marks)"
+    "value": "students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']<br>marks = [10, 20, 56, 45, 36, 20]<br><br>print(len(students))<br>print(len(marks))"
   },
   {
     "component": "text",
@@ -22,7 +22,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "length = len(students) # kyunki dono ki same length hai toh jiski bhi length le sakte ho<br>counter = 0<br>while counter < length:<br>    print students[counter] + str(marks[counter])"
+    "value": "students = ['Rishabh', 'Madhurima', 'Rahul', 'Abhishek', 'Faizal', 'Muskaan']<br>length = len(students) # kyunki dono ki same length hai toh jiski bhi length le sakte ho<br>counter = 0<br>while counter < length:<br>&emsp;print(students[counter] + str(marks[counter]))<br>&emsp;counter+=1"
   },
   {
     "component": "text",

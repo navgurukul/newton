@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "dic1={1:10, 2:20}<br>    dic2={3:30,2:40}<br>    dic3={5:50,6:60}"
+		"value": "dic1={1:10, 2:20}<br>dic2={3:30,2:40}<br>dic3={5:50,6:60}"
 	},
 	{
 		"component": "header",
@@ -30,9 +30,7 @@
 		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "{1: 10, 2: 60, 3: 30,  5: 50, 6: 60}"
 	}
 ]

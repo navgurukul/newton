@@ -2,5 +2,7 @@
 	"question2_key1": "Question 2",
 	"question2_key2": "Ek perfect() naam ka function define kijiye jo ki ek parameter lega aur uss parameter ko hume check karana hai ki vo perfect number hain ya nahi. Iske baad uss function ko use karke ek program likhiye jo ki 1 se 1000 tak sabhi perfect numbers ko print kare.[ hum ek aise <span style=\"\">integer</span> number ko perfect number kahenge jo ki uske sabhi factors ( including 1 &amp; excluding itself) ka sum uss number ke barabar hota hai. ",
 	"question2_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example:-</span>",
-	"question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Expected Output :-</span>"
+	"question2_key4": "6 ek perfect number hai 6=1+2+3.",
+	"question2_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Expected Output :-</span>",
+	"question2_key6": "6,28,496"
 }

@@ -7,5 +7,6 @@
 	"access_element_dictionary_key6": "`get()` :-\n",
 	"access_element_dictionary_key7": "We can also make use of the **get()** function to access dictionary values.\n",
 	"access_element_dictionary_key8": "Example :-\n",
-	"access_element_dictionary_key9": "`Output` :-\n"
+	"access_element_dictionary_key9": "`Output` :-\n",
+	"access_element_dictionary_key10": "male \n{'organisation': 'navgurukul', 'place': 'dharamsala'}\n dharamsala\n"
 }

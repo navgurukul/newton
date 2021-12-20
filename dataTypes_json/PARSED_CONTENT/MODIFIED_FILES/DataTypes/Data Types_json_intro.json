@@ -30,9 +30,19 @@
     "value": "intro_key7"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "Numeric type - (Integer, Float, complex)<br><br>Text type - (String)<br><br>Boolean type - (True, False)<br><br>Sequence type - (List, Tuple, Range)"
+    "component": "text",
+    "value": "intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "intro_key11"
   }
 ]

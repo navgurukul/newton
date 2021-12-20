@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def voter(age):<br>if age < 18:<br>    print(\"eligible\")<br>else:<br>    print(\"not eligible\")<br>    voter(20)<br>"
+		"value": "def voter(age):<br>if age < 18:<br>&emsp;print(\"eligible\")<br>else:<br>&emsp;print(\"not eligible\")<br>&emsp;voter(20)<br>"
 	}
 ]

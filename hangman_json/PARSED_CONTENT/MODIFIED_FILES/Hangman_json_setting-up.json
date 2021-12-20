@@ -4,18 +4,11 @@
     "value": "setting-up_key1"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "git clone https://github.com/navgurukul/e-sreedharan.git<br>cd e-sreedharan/hangman<br>python hangman.py"
-  },
-  {
     "component": "text",
     "value": "setting-up_key2"
   },
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "setting-up_key3"
   },
   {
@@ -24,24 +17,16 @@
   },
   {
     "component": "text",
-    "value": "setting-up_key5",
-    "decoration": {
-      "type": "bullet"
-    }
+    "value": "setting-up_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "setting-up_key6"
   },
   {
     "component": "text",
-    "value": "setting-up_key6",
-    "decoration": {
-      "type": "bullet"
-    }
-  },
-  {
-    "component": "text",
-    "value": "setting-up_key7",
-    "decoration": {
-      "type": "bullet"
-    }
+    "value": "setting-up_key7"
   },
   {
     "component": "text",
@@ -52,6 +37,27 @@
   },
   {
     "component": "text",
-    "value": "setting-up_key9"
+    "value": "setting-up_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "setting-up_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "setting-up_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "setting-up_key12"
   }
 ]

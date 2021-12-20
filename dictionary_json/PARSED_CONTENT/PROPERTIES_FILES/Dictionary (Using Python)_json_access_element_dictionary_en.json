@@ -7,5 +7,6 @@
 	"access_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get()</span> :-",
 	"access_element_dictionary_key7": "We can also make use of the <b>get()</b> function to access dictionary values.",
 	"access_element_dictionary_key8": "Example :-",
-	"access_element_dictionary_key9": "<span style=\"\">Output</span> :-"
+	"access_element_dictionary_key9": "<span style=\"\">Output</span> :-",
+	"access_element_dictionary_key10": "male <br>{'organisation': 'navgurukul', 'place': 'dharamsala'}<br> dharamsala"
 }

@@ -17,6 +17,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "index = 0;  <br>while 1:  <br>    print(index,\" \",end = \"\"),  <br>    index=index+1;  <br>    if index == 10:  <br>        break;  <br>print(\"Found at\",index,\"location\")"
+    "value": "index = 0;  <br>while 1:  <br>&emsp;print(index,\" \",end = \"\"),  <br>&emsp;index=index+1;  <br>&emsp;if index == 10:  <br>&emsp;&emsp;break;  <br>print(\"Found at\",index,\"location\")"
   }
 ]

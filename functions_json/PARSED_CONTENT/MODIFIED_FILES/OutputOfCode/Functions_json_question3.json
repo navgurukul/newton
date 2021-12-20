@@ -12,6 +12,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "<br>def greet(*names):<br>    for name in names:<br>               print(\"Hello\", name)<br>greet(\"sonu\", \"kartik\", \"umesh\", \"bijender\")<br>"
+    "value": "<br>def greet(*names):<br>&emsp;for name in names:<br>&emsp;&emsp;print(\"Hello\", name)<br>greet(\"sonu\", \"kartik\", \"umesh\", \"bijender\")<br>"
   }
 ]

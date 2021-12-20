@@ -35,9 +35,32 @@
 		"value": "Agar aapne apne function ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[2, 6, 18, 10, 3, 75]</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[6, 19, 24, 12, 3, 87]</span> Toh usko yeh <span style=\"\">output</span> deni chaiye:"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "dono even hain<br>---------------<br>dono even nahi hai<br>---------------<br>dono even hain<br>---------------<br>dono even hain<br>---------------<br>dono even nahi hain<br>---------------<br>dono even nahi hain"
+		"component": "header",
+		"variant": 2,
+		"value": "dono even hain"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "dono even nahi hai"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "dono even hain"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "dono even hain"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "dono even nahi hain"
+	},
+	{
+		"component": "text",
+		"value": "dono even nahi hain"
 	}
 ]

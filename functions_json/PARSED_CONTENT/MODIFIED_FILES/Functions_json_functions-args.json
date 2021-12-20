@@ -56,17 +56,11 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def say_hello(name):<br>    print (\"Hello \", name)<br>    print (\"Aap kaise ho?\")<br>say_hello(\"Aatif\")"
+    "value": "def say_hello(name):<br>&emsp;print(\"Hello \", name)<br>&emsp;print(\"Aap kaise ho?\")<br>say_hello(\"Aatif\")"
   },
   {
     "component": "text",
     "value": "functions-args_key11"
-  },
-  {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "Hello , Aatif<br>Aap kaise ho?"
   },
   {
     "component": "text",
@@ -78,11 +72,7 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key14",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key14"
   },
   {
     "component": "text",
@@ -110,22 +100,20 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key18"
+    "value": "functions-args_key18",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-args_key19"
   },
   {
     "component": "header",
     "variant": 2,
-    "value": "functions-args_key19"
-  },
-  {
-    "component": "text",
     "value": "functions-args_key20"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "def add_numbers(number1, number2):<br>    print (\"Main do numbers ko add karunga.\")<br>    print (number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
   },
   {
     "component": "text",
@@ -133,9 +121,9 @@
   },
   {
     "component": "code",
-    "type": "other",
+    "type": "python",
     "title": "",
-    "value": "Main do numbers ko add karunga.<br>170<br>Main do numbers ko add karunga.<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
+    "value": "def add_numbers(number1, number2):<br>&emsp;print(\"Main do numbers ko add karunga.\")<br>&emsp;print(number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
   },
   {
     "component": "text",
@@ -143,27 +131,15 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key23",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key23"
   },
   {
     "component": "text",
-    "value": "functions-args_key24",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key24"
   },
   {
     "component": "text",
-    "value": "functions-args_key25",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key25"
   },
   {
     "component": "text",
@@ -175,27 +151,27 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key27"
+    "value": "functions-args_key27",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
-    "value": "functions-args_key28"
-  },
-  {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "def say_hello_language(name, language):<br>    if language == \"hindi\":<br>        print (\"Namaste \", name)<br>        print (\"Aap kaise ho?\")<br>    elif language == \"punjabi\":<br>        print (\"Sat sri akaal \", name)<br>        print (\"Tuhada ki haal hai?\")<br>    else:<br>        print (\"Hello \", name)<br>        print (\"How are you?\")<br>say_hello_language(\"Rishabh\", \"punjabi\")<br>say_hello_language(\"Armaan\", \"english\")<br>say_hello_language(\"Abhishek\", \"french\")<br>say_hello_language(\"Kavay\", \"hindi\")"
+    "value": "functions-args_key28",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
-    "value": "functions-args_key29"
-  },
-  {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "Sat sri akaal  Rishabh<br>Tuhada ki haal hai?<br>Hello  Armaan<br>How are you?<br>Hello  Abhishek<br>How are you?<br>Namaste  Kavay<br>Aap kaise ho?"
+    "value": "functions-args_key29",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
@@ -203,27 +179,21 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key31",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key31"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def say_hello_language(name, language):<br>&emsp;if language == \"hindi\":<br>&emsp;&emsp;print(\"Namaste \", name)<br>&emsp;&emsp;print(\"Aap kaise ho?\")<br>&emsp;elif language == \"punjabi\":<br>&emsp;&emsp;print(\"Sat sri akaal \", name)<br>&emsp;&emsp;print(\"Tuhada ki haal hai?\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Hello \", name)<br>&emsp;&emsp;print(\"How are you?\")<br>say_hello_language(\"Rishabh\", \"punjabi\")<br>say_hello_language(\"Armaan\", \"english\")<br>say_hello_language(\"Abhishek\", \"french\")<br>say_hello_language(\"Kavay\", \"hindi\")"
   },
   {
     "component": "text",
-    "value": "functions-args_key32",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key32"
   },
   {
     "component": "text",
-    "value": "functions-args_key33",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-args_key33"
   },
   {
     "component": "text",
@@ -254,41 +224,67 @@
     }
   },
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "functions-args_key38"
   },
   {
     "component": "text",
-    "value": "functions-args_key39"
+    "value": "functions-args_key39",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-args_key40",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-args_key41",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-args_key42"
+  },
+  {
+    "component": "text",
+    "value": "functions-args_key43"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>    print (\"Namaste \", name_x) # hindi mein<br>    print (\"Alah hafiz \", name_y) # urdu mein<br>    print (\"Bonjour \", name_z) # french mein<br>    print (\"Hello \", name_a) # english mein<br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
+    "value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>&emsp;print(\"Namaste \", name_x) # hindi mein<br>&emsp;print(\"Alah hafiz \", name_y) # urdu mein<br>&emsp;print(\"Bonjour \", name_z) # french mein<br>&emsp;print(\"Hello \", name_a) # english mein<br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
   },
   {
     "component": "text",
-    "value": "functions-args_key40"
-  },
-  {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "Namaste  Imitiyaz<br>Alah hafiz  Rishabh<br>Bonjour  Rahul<br>Hello  Vidya<br>Namaste  Steve<br>Alah hafiz  Saswata<br>Bonjour  Shakrundin<br>Hello  Rajeev"
+    "value": "functions-args_key44"
   },
   {
     "component": "text",
-    "value": "functions-args_key41"
+    "value": "functions-args_key45"
   },
   {
     "component": "text",
-    "value": "functions-args_key42"
+    "value": "functions-args_key46"
   },
   {
     "component": "text",
-    "value": "functions-args_key43",
+    "value": "functions-args_key47"
+  },
+  {
+    "component": "text",
+    "value": "functions-args_key48",
     "decoration": {
       "type": "number",
       "value": null
@@ -296,7 +292,7 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key44",
+    "value": "functions-args_key49",
     "decoration": {
       "type": "number",
       "value": null
@@ -304,7 +300,7 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key45",
+    "value": "functions-args_key50",
     "decoration": {
       "type": "number",
       "value": null
@@ -312,7 +308,7 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key46",
+    "value": "functions-args_key51",
     "decoration": {
       "type": "number",
       "value": null
@@ -321,15 +317,15 @@
   {
     "component": "header",
     "variant": 2,
-    "value": "functions-args_key47"
+    "value": "functions-args_key52"
   },
   {
     "component": "text",
-    "value": "functions-args_key48"
+    "value": "functions-args_key53"
   },
   {
     "component": "text",
-    "value": "functions-args_key49"
+    "value": "functions-args_key54"
   },
   {
     "component": "code",
@@ -339,41 +335,37 @@
   },
   {
     "component": "text",
-    "value": "functions-args_key50"
+    "value": "functions-args_key55"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "i love chocolate<br>i love butterscotch<br>i love vanilla<br>i love strawberry"
+    "component": "text",
+    "value": "functions-args_key56"
   },
   {
     "component": "header",
     "variant": 2,
-    "value": "functions-args_key51"
+    "value": "functions-args_key57"
   },
   {
     "component": "text",
-    "value": "functions-args_key52"
+    "value": "functions-args_key58"
   },
   {
     "component": "text",
-    "value": "functions-args_key53"
+    "value": "functions-args_key59"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def attendance(name,status=\"absent\"):<br>    print(name,\"is\",status,\" today\")<br><br>attendance(\"kartik\",\"present\")<br>attendance(\"sonu\")<br>attendance(\"vishal\",\"present\")<br>attendance(\"umesh\")"
+    "value": "def attendance(name,status=\"absent\"):<br>&emsp;print(name,\"is\",status,\" today\")<br><br>attendance(\"kartik\",\"present\")<br>attendance(\"sonu\")<br>attendance(\"vishal\",\"present\")<br>attendance(\"umesh\")"
   },
   {
     "component": "text",
-    "value": "functions-args_key54"
+    "value": "functions-args_key60"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "kartik is present today<br>sonu is absent today<br>vishal is present today<br>Umesh is absent today"
+    "component": "text",
+    "value": "functions-args_key61"
   }
 ]

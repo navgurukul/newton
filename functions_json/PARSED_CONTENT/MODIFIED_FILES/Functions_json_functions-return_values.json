@@ -16,25 +16,15 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def add_numbers(number_x, number_y):<br>    number_sum = number_x + number_y<br>    return number_sum<br><br>sum1 = add_numbers(20, 40)<br>print (sum1)<br>sum2 = add_numbers(560, 23)<br>a = 1234<br>b = 12<br>sum3 = add_numbers(a, b)<br>print (sum2)<br>print (sum3)<br>number_a = add_numbers(20, 40) / add_numbers(5, 1)<br>print (number_a)"
+    "value": "def add_numbers(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;return number_sum<br><br>sum1 = add_numbers(20, 40)<br>print(sum1)<br>sum2 = add_numbers(560, 23)<br>a = 1234<br>b = 12<br>sum3 = add_numbers(a, b)<br>print(sum2)<br>print(sum3)<br>number_a = add_numbers(20, 40) / add_numbers(5, 1)<br>print(number_a)"
   },
   {
     "component": "text",
     "value": "functions-return_values_key4"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "60<br>583<br>1246<br>10.0"
-  },
-  {
     "component": "text",
-    "value": "functions-return_values_key5",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-return_values_key5"
   },
   {
     "component": "text",
@@ -78,13 +68,11 @@
   },
   {
     "component": "text",
-    "value": "functions-return_values_key11"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "def add_numbers_print(number_x, number_y):<br>    number_sum = number_x + number_y<br>    print (number_sum)<br>sum4 = add_numbers_print(4, 5)<br>print (sum4)<br>print (type(sum4))"
+    "value": "functions-return_values_key11",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
@@ -94,7 +82,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "9<br>None<br><class 'NoneType'>"
+    "value": "def add_numbers_print(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print (number_sum)<br>sum4 = add_numbers_print(4, 5)<br>print(sum4)<br>print(type(sum4))"
   },
   {
     "component": "text",
@@ -109,24 +97,18 @@
     "value": "functions-return_values_key15"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "number_b = add_numbers_print(5, 4) / add_numbers_print(2, 1)"
-  },
-  {
     "component": "text",
     "value": "functions-return_values_key16"
   },
   {
+    "component": "text",
+    "value": "functions-return_values_key17"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "TypeError: unsupported operand type(s) for /: 'NoneType' and 'NoneType'"
-  },
-  {
-    "component": "text",
-    "value": "functions-return_values_key17"
+    "value": "number_b = add_numbers_print(5, 4) / add_numbers_print(2, 1)"
   },
   {
     "component": "text",
@@ -137,8 +119,7 @@
     "value": "functions-return_values_key19"
   },
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "functions-return_values_key20"
   },
   {
@@ -146,68 +127,47 @@
     "value": "functions-return_values_key21"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "def add_numbers_more(number_x, number_y):<br>    number_sum = number_x + number_y<br>    print (\"Hello from NavGurukul ;)\")<br>    return number_sum<br>    number_sum = number_x + number_x<br>    print (\"Kya main yahan tak pahunchunga?\")<br>    return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
-  },
-  {
     "component": "text",
     "value": "functions-return_values_key22"
   },
   {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-return_values_key23"
+  },
+  {
+    "component": "text",
+    "value": "functions-return_values_key24"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "Hello from NavGurukul ;)"
+    "value": "def add_numbers_more(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print(\"Hello from NavGurukul ;)\")<br>&emsp;return number_sum<br>&emsp;number_sum = number_x + number_x<br>&emsp;print(\"Kya main yahan tak pahunchunga?\")<br>&emsp;return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
   },
   {
     "component": "text",
-    "value": "functions-return_values_key23",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
-  },
-  {
-    "component": "text",
-    "value": "functions-return_values_key24",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
-  },
-  {
-    "component": "text",
-    "value": "functions-return_values_key25",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-return_values_key25"
   },
   {
     "component": "text",
     "value": "functions-return_values_key26"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "def menu(day):<br>    if day == \"monday\":<br>        return \"Butter Chicken\"<br>    elif day == \"tuesday\":<br>        return \"Mutton Chaap\"<br>    else:<br>        return \"Chole Bhature\"<br><br>    print (\"Kya main print ho payungi? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print (mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print (tues_menu)<br>fri_menu = menu(\"friday\")<br>print (fri_menu)"
+    "component": "text",
+    "value": "functions-return_values_key27",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
-    "value": "functions-return_values_key27"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "Butter Chicken<br>Mutton Chaap<br>Chole Bhature"
-  },
-  {
-    "component": "text",
-    "value": "functions-return_values_key28"
+    "value": "functions-return_values_key28",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
@@ -219,50 +179,78 @@
   },
   {
     "component": "text",
-    "value": "functions-return_values_key30",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-return_values_key30"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;return \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;return \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;return \"Chole Bhature\"<br><br>&emsp;print(\"Kya main print ho payungi? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print(mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print(tues_menu)<br>fri_menu = menu(\"friday\")<br>print(fri_menu)"
   },
   {
     "component": "text",
-    "value": "functions-return_values_key31",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-return_values_key31"
   },
   {
     "component": "text",
-    "value": "functions-return_values_key32",
-    "decoration": {
-      "type": "number",
-      "value": null
-    }
+    "value": "functions-return_values_key32"
   },
   {
     "component": "text",
     "value": "functions-return_values_key33"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "def menu(day):<br>    if day == \"monday\":<br>        food = \"Butter Chicken\"<br>    elif day == \"tuesday\":<br>        food = \"Mutton Chaap\"<br>    else:<br>        food = \"Chole Bhature\"<br>    print (\"Kya main print ho payungi? :-(\")<br>    return food<br>    print (\"Lekin main toh pakka nahi print hounga :'(\")<br>print(menu(\"monday\"))"
+    "component": "text",
+    "value": "functions-return_values_key34",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
-    "value": "functions-return_values_key34"
+    "value": "functions-return_values_key35",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-return_values_key36",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-return_values_key37",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-return_values_key38"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "Kya main print ho payungi? :-(<br>Butter Chicken"
+    "value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;food = \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;food = \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;food = \"Chole Bhature\"<br>&emsp;print(\"Kya main print ho payungi? :-(\")<br>&emsp;return food<br>&emsp;print(\"Lekin main toh pakka nahi print hounga :'(\")<br>print(menu(\"monday\"))"
   },
   {
     "component": "text",
-    "value": "functions-return_values_key35"
+    "value": "functions-return_values_key39"
+  },
+  {
+    "component": "text",
+    "value": "functions-return_values_key40"
+  },
+  {
+    "component": "text",
+    "value": "functions-return_values_key41"
   }
 ]

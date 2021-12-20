@@ -18,7 +18,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Similarly we can put <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9999</span> in a VARIABLE named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>.<br><br>",
+		"value": "Similarly we can put <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9999</span> in a VARIABLE named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -32,17 +32,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "variable_x=123<br>a=9999"
-	},
-	{
-		"component": "text",
-		"value": "Let's see what happens when we print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span>."
-	},
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "print (variable_x, a)"
+		"value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print (variable_x, a)"
 	},
 	{
 		"component": "text",
@@ -52,17 +42,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "variable_x=9.9"
-	},
-	{
-		"component": "text",
-		"value": "Now print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_x</span> to see its value."
-	},
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "print (variable_x)"
+		"value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print (variable_x)"
 	},
 	{
 		"component": "text",
@@ -72,17 +52,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a='hello world'<br>b='navgurukul'"
-	},
-	{
-		"component": "text",
-		"value": "Now print them to see the <span style=\"\">output</span>."
-	},
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "print (variable_x, a, b)"
+		"value": "a='hello world'<br>b='navgurukul'<br># Now print them to see the output.<br>print (variable_x, a, b)"
 	},
 	{
 		"component": "header",

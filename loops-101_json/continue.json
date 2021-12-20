@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 1<br>while(i <= 10):<br>    if(i == 5):<br>         print(\"Skipped Element :\", i)<br>      continue<br>    print(i)"
+		"value": "i = 1<br>while(i <= 10):<br>&emsp;if(i == 5):<br>&emsp;&emsp; print(\"Skipped Element :\", i)<br>&emsp;  continue<br>&emsp;print(i)"
 	},
 	{
 		"component": "header",
@@ -32,7 +32,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "counter = 0<br>string = \"navgurukul\"<br>while (counter < len(string)):<br>    counter += 1<br><br>    if string[counter] == \"a\":<br>        continue<br><br>    if string[counter] == \"u\":<br>        continue<br>    <br>    print(string[counter])<br><br>print(\"The end\", string[counter])"
+		"value": "counter = 0<br>string = \"navgurukul\"<br>while (counter < len(string)):<br>&emsp;counter += 1<br><br>&emsp;if string[counter] == \"a\":<br>&emsp;&emsp;continue<br><br>&emsp;if string[counter] == \"u\":<br>&emsp;&emsp;continue<br>&emsp;<br>&emsp;print(string[counter])<br><br>print(\"The end\", string[counter])"
 	},
 	{
 		"component": "youtube",

@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "Niche diye gye <span style=\"\">code</span> snippet ki <span style=\"\">output</span> kya hogi?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def checkKey():<br>&emsp;car ={<br>&emsp;&emsp;\"brand\":  \"ford\",<br>&emsp;&emsp;\"model\":  \"mustang\",<br>&emsp;&emsp;\"year\":  1964<br>&emsp;}<br>&emsp;if \"model\" in car:<br>&emsp;&emsp;print(\"Yes, 'model' is one of the keys in the thisdict dictionary.\")<br>&emsp;else:<br>&emsp;&emsp;print(\"No, 'model' key dictionary mai nahi hai.\")<br><br>checkKey()"
+	}
+]

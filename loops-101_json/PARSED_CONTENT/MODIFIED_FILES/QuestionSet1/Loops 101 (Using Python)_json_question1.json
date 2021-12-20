@@ -13,9 +13,7 @@
     "value": "question1_key3"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "7<br>14<br>21<br>28<br>35<br>42<br>49<br>56<br>63<br>70<br>77<br>84<br>91<br>98"
+    "component": "text",
+    "value": "question1_key4"
   }
 ]

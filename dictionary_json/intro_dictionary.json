@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "city_population = {<br>    \"NewYorkCity\":8550405,<br>    \"LosAngeles\":3971883, <br>    \"Toronto\":2731571, <br>    \"Chicago\":2720546, <br>    \"Houston\":2296224, <br>    \"Montreal\":1704694, <br>    \"Calgary\":1239220, <br>    \"Vancouver\":631486, <br>    \"Boston\":667137<br>}<br><br>print(city_population[\"NewYorkCity\"])<br>print(city_population)<br>print(type(city_population))"
+		"value": "city_population = {<br>&emsp;\"NewYorkCity\":8550405,<br>&emsp;\"LosAngeles\":3971883, <br>&emsp;\"Toronto\":2731571, <br>&emsp;\"Chicago\":2720546, <br>&emsp;\"Houston\":2296224, <br>&emsp;\"Montreal\":1704694, <br>&emsp;\"Calgary\":1239220, <br>&emsp;\"Vancouver\":631486, <br>&emsp;\"Boston\":667137<br>}<br><br>print(city_population[\"NewYorkCity\"])<br>print(city_population)<br>print(type(city_population))"
 	},
 	{
 		"component": "header",
@@ -30,10 +30,16 @@
 		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "8550405<br><br>{<br>   \"NewYorkCity\":8550405,<br>    \"LosAngeles\":3971883, <br>    \"Toronto\":2731571, <br>    \"Chicago\":2720546, <br>    \"Houston\":2296224, <br>    \"Montreal\":1704694, <br>    \"Calgary\":1239220, <br>    \"Vancouver\":631486, <br>    \"Boston\":667137<br>}<br><br><type 'dict'>"
+		"component": "text",
+		"value": "8550405"
+	},
+	{
+		"component": "text",
+		"value": "{<br>   \"NewYorkCity\":8550405,<br>    \"LosAngeles\":3971883, <br>    \"Toronto\":2731571, <br>    \"Chicago\":2720546, <br>    \"Houston\":2296224, <br>    \"Montreal\":1704694, <br>    \"Calgary\":1239220, <br>    \"Vancouver\":631486, <br>    \"Boston\":667137<br>}"
+	},
+	{
+		"component": "text",
+		"value": "<type 'dict'>"
 	},
 	{
 		"component": "header",
@@ -53,13 +59,15 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "<br> Dict = {<br>       'ball' : 'green',<br>       'Ball': 'red'<br>     }<br>print(Dict['ball'])<br>print(Dict['Ball'])<br>print(Dict['bat'])"
+		"value": "<br> Dict = {<br>&emsp;   'ball' : 'green',<br>&emsp;   'Ball': 'red'<br>&emsp; }<br>print(Dict['ball'])<br>print(Dict['Ball'])<br>print(Dict['bat'])"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "green<br>red<br>KeyError: bat<br><br>// KeyError tab aati hai jab key dictionay mai nahi hoti hai."
+		"component": "text",
+		"value": "green<br>red<br><span style=\"\">KeyE</span>rror: bat"
+	},
+	{
+		"component": "text",
+		"value": "// <span style=\"\">KeyE</span>rror <span style=\"\">tab</span> aati hai jab <span style=\"\">key</span> dictionay mai nahi hoti hai."
 	},
 	{
 		"component": "text",
@@ -116,7 +124,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "my_dict = {<br>    1: 'apple', <br>    2: 'ball'<br>    }<br>"
+		"value": "my_dict = {<br>&emsp;1: 'apple', <br>&emsp;2: 'ball'<br>&emsp;}<br>"
 	},
 	{
 		"component": "text",
@@ -126,7 +134,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "my_dict = {<br>    'name': 'John',<br>     1: [2, 4, 3]<br>    }"
+		"value": "my_dict = {<br>&emsp;'name': 'John',<br>&emsp; 1: [2, 4, 3]<br>&emsp;}"
 	},
 	{
 		"component": "header",
@@ -137,7 +145,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "Dic= {<br> 1: 'NAVGURUKUL',<br> 2: 'IN',  <br> 3:{<br>     'A' : 'WELCOME',<br>     'B' : 'To', <br>     'C' : 'DHARAMSALA'<br>     }<br>}<br>print(Dic)"
+		"value": "Dic= {<br> 1: 'NAVGURUKUL',<br> 2: 'IN',  <br> 3:{<br>&emsp; 'A' : 'WELCOME',<br>&emsp; 'B' : 'To', <br>&emsp; 'C' : 'DHARAMSALA'<br>&emsp; }<br>}<br>print(Dic)"
 	},
 	{
 		"component": "header",

@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def employee(name,salary=20000):<br>        print(name,\"your salary is:-\",salary)<br><br>employee(\"kartik\",30000)<br>employee(\"deepak\")"
+		"value": "def employee(name,salary=20000):<br>&emsp;&emsp;print(name,\"your salary is:-\",salary)<br><br>employee(\"kartik\",30000)<br>employee(\"deepak\")"
 	}
 ]

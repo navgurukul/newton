@@ -3,9 +3,18 @@
 	"binary-to-decimal_key2": "In this program, if we are given any number in **binary form**, then we will learn to convert that number in **decimal form**.\n",
 	"binary-to-decimal_key3": "Please see this diagram.\n",
 	"binary-to-decimal_key4": "To convert this number in `decimal form`:-\n",
-	"binary-to-decimal_key5": "After doing the above steps, you will get **155** as an answer.\n",
-	"binary-to-decimal_key6": "`Edge Case`\n",
-	"binary-to-decimal_key7": "What will be the `output` of this program? If your progrsm is **robust** then it will give invalid `output`, otherwise it will throw an `error`.\n",
-	"binary-to-decimal_key8": "If your program is **robust** :\n",
-	"binary-to-decimal_key9": "But, if it will not be **robust**, then it will throw `error`.\n"
+	"binary-to-decimal_key5": "last element ko 2^0 yaani 1 se\n",
+	"binary-to-decimal_key6": "second last element ko 2^1 yaani 2 se\n",
+	"binary-to-decimal_key7": "third last element ko 2^2 yaani 4 se\n",
+	"binary-to-decimal_key8": "fourth last element ko 2^3 yaani 8 se\n",
+	"binary-to-decimal_key9": "...\n",
+	"binary-to-decimal_key10": "...\n",
+	"binary-to-decimal_key11": "\n",
+	"binary-to-decimal_key12": "multiply kar kar\n",
+	"binary-to-decimal_key13": "add karna hai\n",
+	"binary-to-decimal_key14": "After doing the above steps, you will get **155** as an answer.\n",
+	"binary-to-decimal_key15": "`Edge Case`\n",
+	"binary-to-decimal_key16": "What will be the `output` of this program? If your progrsm is **robust** then it will give invalid `output`, otherwise it will throw an `error`.\n",
+	"binary-to-decimal_key17": "If your program is **robust** :\n",
+	"binary-to-decimal_key18": "But, if it will not be **robust**, then it will throw `error`.\n"
 }

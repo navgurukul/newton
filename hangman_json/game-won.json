@@ -38,7 +38,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def is_word_guessed(secret_word, letters_guessed):<br>    '''<br>    secret_word: ek string word jo ki user ko guess karna hai<br>    letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>    returns: return True kare agar saare letters jo ki user ne guess kiye hai wo secret_word mai hai, warna no<br>      False otherwise<br>    '''<br><br>    if secret_word === get_guessed_word(secret_word, letters_guessed):<br>        return True<br><br>    return False"
+		"value": "def is_word_guessed(secret_word, letters_guessed):<br>&emsp;'''<br>&emsp;secret_word: ek string word jo ki user ko guess karna hai<br>&emsp;letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>&emsp;returns: return True kare agar saare letters jo ki user ne guess kiye hai wo secret_word mai hai, warna no<br>&emsp;  False otherwise<br>&emsp;'''<br><br>&emsp;if secret_word === get_guessed_word(secret_word, letters_guessed):<br>&emsp;&emsp;return True<br><br>&emsp;return False"
 	},
 	{
 		"component": "text",

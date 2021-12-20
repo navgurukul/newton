@@ -31,9 +31,7 @@
 		"value": "Example :-"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "10 * -1 = -10<br>2 * -1 = 2"
 	},
 	{

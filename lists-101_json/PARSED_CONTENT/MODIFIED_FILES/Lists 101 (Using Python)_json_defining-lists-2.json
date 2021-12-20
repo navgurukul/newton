@@ -17,7 +17,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "mixed_list = [\"rahul\", 12, 9.0, \"kaavay\", \"shivam\", 1]<br>print type(mixed_list)"
+    "value": "mixed_list = [\"rahul\", 12, 9.0, \"kaavay\", \"shivam\", 1]<br>print(type(mixed_list))"
   },
   {
     "component": "text",

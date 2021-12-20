@@ -16,7 +16,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def greet(names):<br>    for name in names:<br>        print(\"Welcome\", name)<br><br><br>greet(\"Rinki\", \"Vishal\", \"Kartik\", \"Bijender\")"
+		"value": "def greet(names):<br>&emsp;for name in names:<br>&emsp;&emsp;print(\"Welcome\", name)<br><br><br>greet(\"Rinki\", \"Vishal\", \"Kartik\", \"Bijender\")"
 	},
 	{
 		"component": "text",
@@ -36,6 +36,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "<br>def studentDetails(name,currentMilestone,mentorName):<br>    print(\"Hello \" , name, \"your\" , currentMilestone, \"concept \" , \"is clear with the help of \", mentorName)<br><br><br>studentDetails(\"Nilam\",\"loop\")"
+		"value": "<br>def studentDetails(name,currentMilestone,mentorName):<br>&emsp;print(\"Hello \" , name, \"your\" , currentMilestone, \"concept \" , \"is clear with the help of \", mentorName)<br><br><br>studentDetails(\"Nilam\",\"loop\")"
 	}
 ]

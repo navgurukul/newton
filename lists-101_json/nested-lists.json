@@ -12,7 +12,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "magic_square = [<br>    [8, 3, 4],<br>    [1, 5, 9],<br>    [6, 7, 2]<br>]<br><br>print type(magic_square)<br>print type(magic_square[0])<br>print type(magic_square[1])<br><br>print sum(magic_square[0])<br>print sum(magic_square[1])<br>print sum(magic_square[2])"
+		"value": "magic_square = [<br>&emsp;[8, 3, 4],<br>&emsp;[1, 5, 9],<br>&emsp;[6, 7, 2]<br>]<br><br>print type(magic_square)<br>print type(magic_square[0])<br>print type(magic_square[1])<br><br>print sum(magic_square[0])<br>print sum(magic_square[1])<br>print sum(magic_square[2])"
 	},
 	{
 		"component": "text",

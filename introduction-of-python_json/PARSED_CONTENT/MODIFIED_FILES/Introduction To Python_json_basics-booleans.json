@@ -95,13 +95,13 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "4 < 5 # True"
+    "value": "print(4 < 5) # True"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "56 == 45 # False"
+    "value": "print(56 == 45) # False"
   },
   {
     "component": "text",

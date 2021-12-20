@@ -26,10 +26,44 @@
 		"value": "Your <span style=\"\">output</span> should look like this :"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "Aapka Sawaal hai:<br>What is the capital of India?<br><br>Aapke options hai:<br>1. Chandigarh<br>2. Bhopal<br>3. Chennai<br>4. Delhi"
+		"component": "text",
+		"value": "Aapka Sawaal hai:<br>What is the capital of India?"
+	},
+	{
+		"component": "text",
+		"value": "Aapke options hai:"
+	},
+	{
+		"component": "text",
+		"value": "Chandigarh",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Bhopal",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Chennai",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Delhi",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
 	},
 	{
 		"component": "header",

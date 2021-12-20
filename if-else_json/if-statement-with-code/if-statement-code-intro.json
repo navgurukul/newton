@@ -12,7 +12,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "day = raw_input(\"Din enter karo\\n\")<br>if day == \"monday\": # Agar din Monday hai toh<br>    print \"Rajma Chawal\"<br>elif day == \"tuesday\": # Agar uppar wali conditions galat hai (Yaani day Monday nahi hai) aur day Tuesday hai toh<br>    print \"Pao Bhaji\"<br>elif day == \"wednesday\": # Agar uppar wali conditions galat hai (Yaani day Monday aur Tuesday nahi hai) aur day Wednesday hai toh<br>    print \"Chole Bhature\"<br>elif day == \"thursday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday aur Wednesday nahi hai) aur day Thursday hai toh<br>    print \"Dosa\"<br>elif day == \"friday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh<br>    print \"Litti Chokha\"<br>elif day == \"saturday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh<br>    print \"Thukpa\"<br>else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)<br>    print \"Poha\""
+		"value": "day = input(\"Din enter karo\\n\")<br>if day == \"monday\": # Agar din Monday hai toh<br>&emsp;print(\"Rajma Chawal\")<br>elif day == \"tuesday\": # Agar uppar wali conditions galat hai (Yaani day Monday nahi hai) aur day Tuesday hai toh<br>&emsp;print(\"Pao Bhaji\")<br>elif day == \"wednesday\": # Agar uppar wali conditions galat hai (Yaani day Monday aur Tuesday nahi hai) aur day Wednesday hai toh<br>&emsp;print(\"Chole Bhature\")<br>elif day == \"thursday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday aur Wednesday nahi hai) aur day Thursday hai toh<br>&emsp;print(\"Dosa\")<br>elif day == \"friday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday aur Thursday nahi hai) aur day Friday hai toh<br>&emsp;print(\"Litti Chokha\")<br>elif day == \"saturday\": # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday aur Friday nahi hai) aur day Saturday hai toh<br>&emsp;print(\"Thukpa\")<br>else: # Agar uppar wali conditions galat hai (Yaani day Monday, Tuesday, Wednesday, Thursday, Friday aur Saturday nahi hai)<br>&emsp;print(\"Poha\")"
 	},
 	{
 		"component": "text",
@@ -70,7 +70,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span> : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not equal to</span> <br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span> : <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not equal to</span> ",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -93,7 +93,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "value = \"delhi\"<br>guess = raw_input(\"Sheher ka naam guess karo> \")<br>if guess != value:<br>    print \"Aapka guess galat hai\"<br>else:<br>    print \"Aapka guess sahi hai\""
+		"value": "value = \"delhi\"<br>guess = input(\"Sheher ka naam guess karo> \")<br>if guess != value:<br>&emsp;print(\"Aapka guess galat hai\")<br>else:<br>&emsp;print(\"Aapka guess sahi hai\")"
 	},
 	{
 		"component": "header",
@@ -108,7 +108,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "speed = raw_input(\"Gaadi ki kya speed thi?\")<br>speed = int(speed)<br>if speed <= 60:<br>    print \"Gaadi speed limit ke andar thi.\"<br>else:<br>    print \"Gaadi speed limit ke bahar thi.\""
+		"value": "speed = input(\"Gaadi ki kya speed thi?\")<br>speed = int(speed)<br>if speed <= 60:<br>&emsp;print(\"Gaadi speed limit ke andar thi.\")<br>else:<br>&emsp;print(\"Gaadi speed limit ke bahar thi.\")"
 	},
 	{
 		"component": "header",
@@ -140,7 +140,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "day = raw_input(\"Din enter karo> \")<br>meal = raw_input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\"<br>    # code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>    if meal == \"breafast\":<br>        print \"Poha\"<br>    elif meal == \"lunch\":<br>        print \"Rajma Chawal\"<br>    else:<br>        print \"Roti Sabzi\"<br>elif day == \"tuesday\":<br>    if meal == \"breakfast\":<br>        print \"Poori Sabzi\"<br>    elif meal == \"lunch\":<br>        print \"Thukpa\"<br>    else:<br>        print \"Chicken Chawal\"<br>else:<br>    print \"Aur kisi bhi din hum daal roti sabzi khaynege.\""
+		"value": "day = input(\"Din enter karo> \")<br>meal = input(\"Meal enter karo, jaise breakfast lunch aur dinner mein se ek> \")<br>if day == \"monday\"<br>&emsp;# code yahan andar tab hi aayega jab day ki value \"monday\" hogi, nahi andar aayega hi nahi<br>&emsp;if meal == \"breafast\":<br>&emsp;&emsp;print(\"Poha\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Rajma Chawal\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Roti Sabzi\")<br>elif day == \"tuesday\":<br>&emsp;if meal == \"breakfast\":<br>&emsp;&emsp;print(\"Poori Sabzi\")<br>&emsp;elif meal == \"lunch\":<br>&emsp;&emsp;print(\"Thukpa\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Chicken Chawal\")<br>else:<br>&emsp;print(\"Aur kisi bhi din hum daal roti sabzi khaynege.\")"
 	},
 	{
 		"component": "text",

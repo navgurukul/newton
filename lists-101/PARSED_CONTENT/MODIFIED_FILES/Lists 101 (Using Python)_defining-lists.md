@@ -12,8 +12,8 @@ defining-lists_key5
 
 ```python
 names_list = ["rahul", "shivam", "kavay", "ashish", "rohit"]
-print names_list
-print type(names_list)
+print(names_list)
+print(type(names_list))
 ```defining-lists_key6
 
 
@@ -31,8 +31,8 @@ defining-lists_key10
 defining-lists_key11
 ```python
 banks_list = ["Kotak", "HDFC", "RBL", "SBI", "Bank of Baroda"]
-print banks_list
-print type(banks_list)
+print(banks_list)
+print(type(banks_list))
 ```
 
 defining-lists_key12
@@ -41,8 +41,8 @@ defining-lists_key13
 
 ```python
 marks_list = [70, 80, 75, 65, 68]
-print marks_list   
-print type(marks_list)
+print(marks_list)   
+print(type(marks_list))
 ```
 
 defining-lists_key14
@@ -51,7 +51,7 @@ defining-lists_key15
 
 ```python
 temperature_list = [21.1, 24.3, 19, 25, 17, 18, 23]
-print temperature_list
+print(temperature_list)
 ```defining-lists_key16
 
 

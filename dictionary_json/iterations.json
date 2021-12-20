@@ -8,7 +8,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "states_capitals = {<br>  'Gujarat' : 'Gandhinagar',<br>  'Maharashtra' : 'Mumbai',<br>  'Rajasthan' : 'Jaipur',<br>  'Bihar' : 'Patna'<br>  }<br>for state in states_capitals:<br>      print(state)"
+		"value": "states_capitals = {<br>  'Gujarat' : 'Gandhinagar',<br>  'Maharashtra' : 'Mumbai',<br>  'Rajasthan' : 'Jaipur',<br>  'Bihar' : 'Patna'<br>  }<br>for state in states_capitals:<br>  print(state)"
 	},
 	{
 		"component": "header",
@@ -33,7 +33,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "states_capitals = {<br>    'Gujarat' : 'Gandhinagar',<br>    'Maharashtra' : 'Mumbai',<br>    'Rajasthan' : 'Jaipur',<br>    'Bihar' : 'Patna'<br>    }<br>    <br>for state in states_capitals:<br>    print(states_capitals[state])"
+		"value": "states_capitals = {<br>&emsp;'Gujarat' : 'Gandhinagar',<br>&emsp;'Maharashtra' : 'Mumbai',<br>&emsp;'Rajasthan' : 'Jaipur',<br>&emsp;'Bihar' : 'Patna'<br>&emsp;}<br>&emsp;<br>for state in states_capitals:<br>&emsp;print(states_capitals[state])"
 	},
 	{
 		"component": "header",
@@ -53,7 +53,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "details ={<br>    \"name\":  \"Bijender\",<br>    \"age\":  17,<br>    \"class\":  \"10th\"<br>    }<br>for x in details.values():<br>    print(x)"
+		"value": "details ={<br>&emsp;\"name\":  \"Bijender\",<br>&emsp;\"age\":  17,<br>&emsp;\"class\":  \"10th\"<br>&emsp;}<br>for x in details.values():<br>&emsp;print(x)"
 	},
 	{
 		"component": "header",
@@ -77,7 +77,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "movie ={<br>    \"name\":  \"Puli\",<br>    \"hero\":  \"Vijay\",<br>    \"rating\":  7.5<br>    }<br>for x,y in movie.items():<br>    print(x,y)"
+		"value": "movie ={<br>&emsp;\"name\":  \"Puli\",<br>&emsp;\"hero\":  \"Vijay\",<br>&emsp;\"rating\":  7.5<br>&emsp;}<br>for x,y in movie.items():<br>&emsp;print(x,y)"
 	},
 	{
 		"component": "header",
@@ -106,7 +106,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "meal ={<br>    \"monday\":  \"Chole chawal\",<br>    \"sunday\":  \"Fried rice\",<br>    \"wednesday\":  \"dosa\"<br>    }<br>print(len(meal))"
+		"value": "meal ={<br>&emsp;\"monday\":  \"Chole chawal\",<br>&emsp;\"sunday\":  \"Fried rice\",<br>&emsp;\"wednesday\":  \"dosa\"<br>&emsp;}<br>print(len(meal))"
 	},
 	{
 		"component": "header",

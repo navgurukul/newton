@@ -4,10 +4,16 @@
 		"value": "Download the project files using the github repository - <a href=\"https://github.com/navgurukul/e-sreedharan\">https://github.com/navgurukul/e-sreedharan</a>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "git clone https://github.com/navgurukul/e-sreedharan.git<br>cd e-sreedharan/hangman<br>python hangman.py"
+		"component": "text",
+		"value": "git clone "
+	},
+	{
+		"component": "text",
+		"value": "https://github.com/navgurukul/e-sreedharan.git"
+	},
+	{
+		"component": "text",
+		"value": "<br>cd e-sreedharan/hangman<br><span style=\"\">python</span> hangman.py"
 	},
 	{
 		"component": "text",

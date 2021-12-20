@@ -3,5 +3,6 @@
 	"question1_key2": "Write a program such that the below given `dictionaries` are into a `single dictionary` and add the values having same `key`.\n",
 	"question1_key3": "Example :-\n",
 	"question1_key4": "`Input` :-\n",
-	"question1_key5": "`Output` :-\n"
+	"question1_key5": "`Output` :-\n",
+	"question1_key6": "{1: 10, 2: 60, 3: 30,  5: 50, 6: 60}\n"
 }

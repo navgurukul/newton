@@ -36,9 +36,12 @@
     "value": "substring-nikalo_key4"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "the quick brown fox jumped on the lazy dog. the dog slept on the verandah."
+    "component": "header",
+    "variant": 3,
+    "value": "substring-nikalo_key5"
+  },
+  {
+    "component": "text",
+    "value": "substring-nikalo_key6"
   }
 ]

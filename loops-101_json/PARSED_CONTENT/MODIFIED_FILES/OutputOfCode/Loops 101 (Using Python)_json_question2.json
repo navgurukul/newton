@@ -12,6 +12,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "n = 6<br>s = 0<br>i = 1<br><br>while i <= n:<br>    s = s + i<br>    i = i + 1<br><br>print s"
+    "value": "n = 6<br>s = 0<br>i = 1<br><br>while i <= n:<br>&emsp;s = s + i<br>&emsp;i = i + 1<br><br>print(s)"
   }
 ]

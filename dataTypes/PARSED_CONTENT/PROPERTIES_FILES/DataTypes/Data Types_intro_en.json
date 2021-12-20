@@ -5,5 +5,9 @@
 	"intro_key4": "The `Data type` represents a type of value that determines which operation can be performed per data. For example, `numeric`, `non-numeric` or `Boolean (true/false)` data are the most commonly used data types.\n",
 	"intro_key5": "Data Type is a very important concept in `Programming`.\n",
 	"intro_key6": "We can store different type of data type in a `variable`. Like `Numeric`, `Characters`. Every `programming` language has data types.\n",
-	"intro_key7": "Below are some data types in `Python`\n"
+	"intro_key7": "Below are some data types in `Python`\n",
+	"intro_key8": "Numeric type - (`Integer`, `Float`, complex)\n",
+	"intro_key9": "Text type - (`String`)\n",
+	"intro_key10": "Boolean type - (`True`, `False`)\n",
+	"intro_key11": "Sequence type - (List, Tuple, Range)\n"
 }

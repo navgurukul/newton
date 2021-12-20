@@ -10,52 +10,38 @@ variables-intro_key5
 ```python
 variable_x=123
 a=9999
+# Let's see what happens when we print variable_x and a.
+print (variable_x, a)
 ```
-
 variables-intro_key6
 
 
 ```python
-print (variable_x, a)
-```
-
-variables-intro_key7
-
-
-```python
 variable_x=9.9
-```
-
-variables-intro_key8
-
-
-```python
+# Now print variable_x to see its value.
 print (variable_x)
 ```
-
-variables-intro_key9
+variables-intro_key7
 
 
 ```python
 a='hello world'
 b='navgurukul'
-```
-
-variables-intro_key10
-
-
-```python
+# Now print them to see the output.
 print (variable_x, a, b)
 ```
 
-variables-intro_key11
-variables-intro_key12
 
 
-variables-intro_key13
+
+variables-intro_key8
+variables-intro_key9
+
+
+variables-intro_key10
 @[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
 
-variables-intro_key14
+variables-intro_key11
 ```python
 a = 3
 b = 4
@@ -108,7 +94,7 @@ a = c*2
  c = a * c
 ```
 
-variables-intro_key15
+variables-intro_key12
 
 
 @[youtube](https://www.youtube.com/watch?v=fny5w_YKSc8)

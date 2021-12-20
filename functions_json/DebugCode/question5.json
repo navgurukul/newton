@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def distance(kms):<br>        if kms < 20:<br>            print(\"close\")<br>        elif kms < 50:<br>            print(median)<br>        else:<br>            Print(far)<br>    distance(20,30)"
+		"value": "def distance(kms):<br>&emsp;&emsp;if kms < 20:<br>&emsp;&emsp;&emsp;print(\"close\")<br>&emsp;&emsp;elif kms < 50:<br>&emsp;&emsp;&emsp;print(median)<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;Print(far)<br>&emsp;distance(20,30)"
 	}
 ]

@@ -37,7 +37,7 @@ students_list = ["robin", "anamika", "faisal", "valmiki", "waseem", "amara"]
 list_length = len(students_list)
 index = 0
 while index < list_length:
-    print students_list[index]
+    print(students_list[index])
     index = index + 1
 ```lists-iteration_key19
 
@@ -53,7 +53,7 @@ total_marks = 0
 while index < len(student_marks):
     total_marks = student_marks[index] + total_marks
     index = index + 1
-print "Total Marks: " + str(total_marks)
+print("Total Marks: " + str(total_marks))
 ```lists-iteration_key22
 
 
@@ -76,8 +76,8 @@ while index < list_length:
     else:
         more_than50 = more_than50 + 1
     index = index + 1
-print "Marks more than 50: " + str(more_than50)
-print "Marks less than 50: " + str(less_than50)
+print("Marks more than 50: " + str(more_than50))
+print("Marks less than 50: " + str(less_than50))
 ```
 
 lists-iteration_key25

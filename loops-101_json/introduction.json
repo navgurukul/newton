@@ -26,7 +26,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "counter = 0<br>while counter < 5:<br>    print \"NavGurukul\"<br>    counter = counter + 1"
+		"value": "counter = 0<br>while counter < 5:<br>&emsp;print(\"NavGurukul\")<br>&emsp;counter = counter + 1"
 	},
 	{
 		"component": "text",
@@ -50,7 +50,7 @@
 	},
 	{
 		"component": "text",
-		"value": "When the loop finishes, the code outside the while loop will run. To understand the run the code given below.<br><br>",
+		"value": "When the loop finishes, the code outside the while loop will run. To understand the run the code given below.",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -60,7 +60,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "counter = 0 <br>while counter < 5:<br>    print \"NavGurukul\"<br>    counter = counter + 1<br>print \"Yeh sirf ek baar print hoga\""
+		"value": "counter = 0 <br>while counter < 5:<br>&emsp;print(\"NavGurukul\")<br>&emsp;counter = counter + 1<br>print(\"Yeh sirf ek baar print hoga\")"
 	},
 	{
 		"component": "text",
@@ -79,7 +79,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "counter = 1<br>while counter < 100:<br>      if counter % 2 == 0:<br>            print counter<br>      counter = counter + 1"
+		"value": "counter = 1<br>while counter < 100:<br>&emsp;  if counter % 2 == 0:<br>&emsp;&emsp;&emsp;print(counter)<br>&emsp;  counter = counter + 1"
 	},
 	{
 		"component": "image",
@@ -101,7 +101,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Loops help us do the same things again and again. The same work can be done again and again.<br>",
+		"value": "Loops help us do the same things again and again. The same work can be done again and again.",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -109,7 +109,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Take an example of getting laptops from a car to the house. If there are 50 laptops in the car.<br>",
+		"value": "Take an example of getting laptops from a car to the house. If there are 50 laptops in the car.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -157,7 +157,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is the work inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">until</span>?<br>The work inside until is to bring a laptop from home and keep it in the car.<br>",
+		"value": "What is the work inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">until</span>?The work inside until is to bring a laptop from home and keep it in the car.",
 		"decoration": {
 			"type": "bullet"
 		}

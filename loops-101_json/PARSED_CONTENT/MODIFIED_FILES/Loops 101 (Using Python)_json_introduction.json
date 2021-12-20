@@ -26,7 +26,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 0<br>while counter < 5:<br>    print \"NavGurukul\"<br>    counter = counter + 1"
+    "value": "counter = 0<br>while counter < 5:<br>&emsp;print(\"NavGurukul\")<br>&emsp;counter = counter + 1"
   },
   {
     "component": "text",
@@ -60,7 +60,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 0 <br>while counter < 5:<br>    print \"NavGurukul\"<br>    counter = counter + 1<br>print \"Yeh sirf ek baar print hoga\""
+    "value": "counter = 0 <br>while counter < 5:<br>&emsp;print(\"NavGurukul\")<br>&emsp;counter = counter + 1<br>print(\"Yeh sirf ek baar print hoga\")"
   },
   {
     "component": "text",
@@ -79,7 +79,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "counter = 1<br>while counter < 100:<br>      if counter % 2 == 0:<br>            print counter<br>      counter = counter + 1"
+    "value": "counter = 1<br>while counter < 100:<br>&emsp;  if counter % 2 == 0:<br>&emsp;&emsp;&emsp;print(counter)<br>&emsp;  counter = counter + 1"
   },
   {
     "component": "image",

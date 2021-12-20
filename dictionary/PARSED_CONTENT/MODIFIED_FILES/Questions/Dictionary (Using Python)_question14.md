@@ -9,13 +9,10 @@ question14_key3
 {'bijender':45,'deepak':60,'param':20,';'anjili':30,'roshini':50}
  ```
 
-```
-Expected result in Ascending Order:
 
-{'param':20,'anjili':30,'bijender':45,'roshini':50,'deepak':60}
-```
-```
-Expected result in Descending Order:
+question14_key4
+question14_key5
 
-{'deepak':60,'roshini':50,'bijender':45,'anjili':30,'param':20}
-```
+ 
+question14_key6
+question14_key7

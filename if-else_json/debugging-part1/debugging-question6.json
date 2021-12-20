@@ -8,7 +8,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Aapke paas ek variable mein raw_input se gaadi ki speed ka ek integer hai<br>speed = int(input(\"Gaadi ki speed daalo > \"))<br><br># Ab aapne speed check kar ke kuch print karna hai:<br># Agar 60 se kam hai toh print karna: \"Speed kam hai\"<br># Agar 30 se kam hai toh print karna: \"Speed bahot kam hai\"<br># Agar 100 se zyada hai toh print karo: \"Bahot zyada hai\"<br>if speed < 60:<br>    print (\"Speed kam hai\")<br>elif speed < 30:<br>    print (\"Speed bahot kam hai\")<br>elif speed > 100:<br>    print (\"Speed bahot fast hai\")<br><br># Isme ek baar speed 20 daal ke dekho aur dekho ki \"Speed bahot kam\" hai ki<br># output aati hai ya nahi. Agar nahi aati toh isko theek karo aur yeh socho<br># ki kya problemn hai."
+		"value": "# Aapke paas ek variable mein raw_input se gaadi ki speed ka ek integer hai<br>speed = int(input(\"Gaadi ki speed daalo > \"))<br><br># Ab aapne speed check kar ke kuch print karna hai:<br># Agar 60 se kam hai toh print karna: \"Speed kam hai\"<br># Agar 30 se kam hai toh print karna: \"Speed bahot kam hai\"<br># Agar 100 se zyada hai toh print karo: \"Bahot zyada hai\"<br>if speed < 60:<br>&emsp;print(\"Speed kam hai\")<br>elif speed < 30:<br>&emsp;print(\"Speed bahot kam hai\")<br>elif speed > 100:<br>&emsp;print(\"Speed bahot fast hai\")<br><br># Isme ek baar speed 20 daal ke dekho aur dekho ki \"Speed bahot kam\" hai ki<br># output aati hai ya nahi. Agar nahi aati toh isko theek karo aur yeh socho<br># ki kya problemn hai."
 	},
 	{
 		"component": "text",

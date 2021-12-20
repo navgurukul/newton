@@ -14,7 +14,7 @@
 	},
 	{
 		"component": "text",
-		"value": "https://docs.python.org/3/tutorial/datastructures.html<br><br>",
+		"value": "https://docs.python.org/3/tutorial/datastructures.html",
 		"decoration": {
 			"type": "bullet"
 		}

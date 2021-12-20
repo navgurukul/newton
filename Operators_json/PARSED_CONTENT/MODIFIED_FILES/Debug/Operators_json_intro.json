@@ -16,7 +16,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "a = \"Megha\"<br>print a"
+    "value": "a = \"Megha\"<br>print(a)"
   },
   {
     "component": "text",

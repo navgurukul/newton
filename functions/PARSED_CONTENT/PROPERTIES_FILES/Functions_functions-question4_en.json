@@ -6,5 +6,11 @@
 	"functions-question4_key5": "Question (Part 2)\n",
 	"functions-question4_key6": "Ab ek `check_numbers_list` naam ka ek function likho jo inetgers ki list ko arguments ki tarah le aur fir check kare ki same index waale dono `integers` even hain ya nahi.\n",
 	"functions-question4_key7": "Yeh check karne ke liye pichle `Part 1` mein likhe `check_numbers` function ka use karo.\n",
-	"functions-question4_key8": "Agar aapne apne function ko `[2, 6, 18, 10, 3, 75]` aur `[6, 19, 24, 12, 3, 87]` Toh usko yeh `output` deni chaiye:\n"
+	"functions-question4_key8": "Agar aapne apne function ko `[2, 6, 18, 10, 3, 75]` aur `[6, 19, 24, 12, 3, 87]` Toh usko yeh `output` deni chaiye:\n",
+	"functions-question4_key9": "dono even hain\n",
+	"functions-question4_key10": "dono even nahi hai\n",
+	"functions-question4_key11": "dono even hain\n",
+	"functions-question4_key12": "dono even hain\n",
+	"functions-question4_key13": "dono even nahi hain\n",
+	"functions-question4_key14": "dono even nahi hain\n"
 }

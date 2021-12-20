@@ -12,7 +12,7 @@ introduction_key5
 ```python
 counter = 0
 while counter < 5:
-	print "NavGurukul"
+	print("NavGurukul")
 	counter = counter + 1
 ```
 
@@ -25,9 +25,9 @@ introduction_key6
 ```python
 counter = 0 
 while counter < 5:
-	print "NavGurukul"
+	print("NavGurukul")
 	counter = counter + 1
-print "Yeh sirf ek baar print hoga"
+print("Yeh sirf ek baar print hoga")
 ```
 
 introduction_key10
@@ -41,7 +41,7 @@ introduction_key12
 counter = 1
 while counter < 100:
       if counter % 2 == 0:
-            print counter
+            print(counter)
       counter = counter + 1
 ```
 ![Mobile Video Recorder](assets/example3.jpeg)

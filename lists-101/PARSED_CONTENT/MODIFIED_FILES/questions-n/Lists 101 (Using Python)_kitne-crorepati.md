@@ -14,8 +14,5 @@ kitna_paisa_hai = [3000, 600000, 324990909, 90990900, 30000, 5600000, 690909090,
 kitne-crorepati_key3
 
 
-```python
-4 Crorepati 
-3 Lakhpati 
-4 Dilwale 
-```
+
+kitne-crorepati_key4

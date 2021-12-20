@@ -130,7 +130,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "num=5<br>print(num"
+    "value": "num = 5<br>print(num"
   },
   {
     "component": "header",
@@ -236,7 +236,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "name=\"python\"<br>print(name)"
+    "value": "name = \"python\"<br>print(name)"
   },
   {
     "component": "header",

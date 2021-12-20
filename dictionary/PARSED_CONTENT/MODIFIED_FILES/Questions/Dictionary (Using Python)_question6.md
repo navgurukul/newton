@@ -15,6 +15,5 @@ dic={
  ```
 
 question6_key5
-```
- {“ball”:”red”,”bat”:4,”wickets”:8}
-```
+ 
+question6_key6

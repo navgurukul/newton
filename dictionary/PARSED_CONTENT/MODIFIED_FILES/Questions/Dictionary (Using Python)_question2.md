@@ -7,7 +7,7 @@ question2_key2
 
 question2_key3
 ```python
-    dict={“name”:”Raju”, “marks”:56}
+dict1={“name”:”Raju”, “marks”:56}
  ```
 
 question2_key4

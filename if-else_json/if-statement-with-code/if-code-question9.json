@@ -42,7 +42,7 @@
 	},
 	{
 		"component": "text",
-		"value": "People <b>25 years and above</b> in age can legally drink.<br><br>",
+		"value": "People <b>25 years and above</b> in age can legally drink.",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -53,9 +53,7 @@
 		"value": "Create a flowchart that takes the <b>age</b> of the user as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span>. Print what all activities the user can do from the list above. For example, if user enters age as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20</span>, the <span style=\"\">code</span> should print:"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "You can go to school<br>You can vote in elections"
 	},
 	{
@@ -63,9 +61,7 @@
 		"value": "If user enters age as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">24</span>, the <span style=\"\">code</span> will print:-"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "You can go to school<br>You can vote in elections<br>You can drive a car<br>You can marry"
 	},
 	{

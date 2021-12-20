@@ -18,16 +18,10 @@ functions-question4_key7
 functions-question4_key8
 
 
-```
-dono even hain
----------------
-dono even nahi hai
----------------
-dono even hain
----------------
-dono even hain
----------------
-dono even nahi hain
----------------
-dono even nahi hain
-```
+
+functions-question4_key9
+functions-question4_key10
+functions-question4_key11
+functions-question4_key12
+functions-question4_key13
+functions-question4_key14

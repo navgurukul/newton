@@ -5,12 +5,11 @@ question2_key2
 question2_key3
 
 
-```
- 6 ek perfect number hai 6=1+2+3.
-```
+
 question2_key4
 
+ 
+question2_key5
 
-```
-6,28,496
-```
+
+question2_key6

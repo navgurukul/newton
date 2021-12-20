@@ -3,17 +3,17 @@ question3_key1
 question3_key3
 
 
-```
-enter first number :-3
-
-Enter second number :-4
-
-Enter third number:-5    
-```
 question3_key4
 
 
-```
-Sum of three numbers :-12
-Average of three numbers :-4
-```
+question3_key5
+
+
+question3_key6
+
+
+question3_key7
+
+
+
+question3_key8

@@ -17,12 +17,13 @@ intro_key6
 
 
 intro_key7
-```
-Numeric type - (Integer, Float, complex)
+intro_key8
 
-Text type - (String)
 
-Boolean type - (True, False)
+intro_key9
 
-Sequence type - (List, Tuple, Range)
-```
+
+intro_key10
+
+
+intro_key11

@@ -13,7 +13,7 @@
 	"definition-part-2_key12": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Compiler</span> is a software that scans the complete <span style=\"\">code</span> in one go and if the <span style=\"\">code</span> contains any <span style=\"\">error</span>, then it shows the <span style=\"\">error</span> at the end of the <span style=\"\">code</span>.<br>Whereas the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">interpreter</span>, stops the <span style=\"\">code</span> at the line that contains <span style=\"\">error</span>.",
 	"definition-part-2_key13": "<b><span style=\"\">Compiler</span> is used in C and C++ programming languages.</b>",
 	"definition-part-2_key14": "Note :",
-	"definition-part-2_key15": "To study Compiler and Interpreter in detail please click this link.  <a href=\"https://www.youtube.com/watch?v=e4ax90XmUBc&t=156s\">Compiler and Interpreter</a> <br><br>",
+	"definition-part-2_key15": "To study Compiler and Interpreter in detail please click this link.  <a href=\"https://www.youtube.com/watch?v=e4ax90XmUBc&t=156s\">Compiler and Interpreter</a> ",
 	"definition-part-2_key16": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Case Sensitive</span>",
 	"definition-part-2_key17": "Case sensitive means that the text that we have typed should be exactly same as we type it anywhere in the <span style=\"\">code</span>.",
 	"definition-part-2_key18": "Example :-",

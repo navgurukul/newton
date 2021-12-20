@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def sumofdigits(number):<br>    sum = 0<br>    modulus = 0<br>    while number!=0 :<br>        modulus = number%10<br>        sum+=modulus<br>        number/=10<br>    return sum<br><br>print(sumofdigits(123))<br>"
+		"value": "def sumofdigits(number):<br>&emsp;sum = 0<br>&emsp;modulus = 0<br>&emsp;while number!=0 :<br>&emsp;&emsp;modulus = number%10<br>&emsp;&emsp;sum+=modulus<br>&emsp;&emsp;number/=10<br>&emsp;return sum<br><br>print(sumofdigits(123))<br>"
 	}
 ]

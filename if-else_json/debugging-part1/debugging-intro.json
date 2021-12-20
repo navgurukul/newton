@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "number1 = 234<br>    print (numer1)"
+		"value": "&emsp;number1 = 234<br>&emsp;print(numer1)"
 	},
 	{
 		"component": "text",
@@ -27,7 +27,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "<ipython-input-1-2a33fa4e8a92> in <module>()<br>      1 number1 = 234<br>----> 2 print (numer1)<br><br>NameError: name 'numer1' is not defined"
+		"value": "<ipython-input-1-2a33fa4e8a92> in <module>()<br>&emsp;  1 number1 = 234<br>----> 2 print(numer1)<br><br>NameError: name 'numer1' is not defined"
 	},
 	{
 		"component": "text",
@@ -54,7 +54,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "number1 = 234<br>number2 = \"1\"<br>print (number1 + number2)"
+		"value": "number1 = 234<br>number2 = \"1\"<br>print(number1 + number2)"
 	},
 	{
 		"component": "text",
@@ -64,7 +64,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "<ipython-input-2-56b79ffda8bc> in <module>()<br>      1 cnumber1 = 234<br>      2 number2 = \"1\"<br>----> 3 print (number1 + number2)<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
+		"value": "<ipython-input-2-56b79ffda8bc> in <module>()<br>&emsp;  1 cnumber1 = 234<br>&emsp;  2 number2 = \"1\"<br>----> 3 print(number1 + number2)<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
 	},
 	{
 		"component": "text",

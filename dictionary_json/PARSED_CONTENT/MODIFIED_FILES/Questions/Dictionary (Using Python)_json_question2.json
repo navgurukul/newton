@@ -17,7 +17,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "dict={“name”:”Raju”, “marks”:56}"
+    "value": "dict1={“name”:”Raju”, “marks”:56}"
   },
   {
     "component": "header",

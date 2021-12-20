@@ -37,19 +37,15 @@
     "value": "question6_key6"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "85<br>135"
-  },
-  {
     "component": "text",
     "value": "question6_key7"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "3<br>“License suspended”"
+    "component": "text",
+    "value": "question6_key8"
+  },
+  {
+    "component": "text",
+    "value": "question6_key9"
   }
 ]

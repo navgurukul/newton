@@ -30,9 +30,19 @@
 		"value": "Below are some data types in <span style=\"\">Python</span>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "Numeric type - (Integer, Float, complex)<br><br>Text type - (String)<br><br>Boolean type - (True, False)<br><br>Sequence type - (List, Tuple, Range)"
+		"component": "text",
+		"value": "Numeric type - (<span style=\"\">Integer</span>, <span style=\"\">Float</span>, complex)"
+	},
+	{
+		"component": "text",
+		"value": "Text type - (<span style=\"\">String</span>)"
+	},
+	{
+		"component": "text",
+		"value": "Boolean type - (<span style=\"\">True</span>, <span style=\"\">False</span>)"
+	},
+	{
+		"component": "text",
+		"value": "Sequence type - (List, Tuple, Range)"
 	}
 ]

@@ -17,19 +17,15 @@
     "value": "question4_key4"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "3"
-  },
-  {
     "component": "text",
     "value": "question4_key5"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "0 EVEN<br>1 ODD<br>2 EVEN<br>3 ODD"
+    "component": "text",
+    "value": "question4_key6"
+  },
+  {
+    "component": "text",
+    "value": "question4_key7"
   }
 ]

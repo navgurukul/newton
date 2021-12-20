@@ -45,6 +45,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def load_words():<br>    \"\"\"<br>    Ye function kaafi jayada words ko load karne mai help karega<br>    \"\"\"<br><br>    WORDLIST_FILENAME = \"words.txt\"<br>    print \"Loading word list from file...\"<br>    inFile = open(WORDLIST_FILENAME, 'r', 0)<br>    line = inFile.readline()<br>    word_list = string.split(line)<br>    print \"  \", len(word_list), \"words loaded.\\n\"<br><br>    return word_list"
+		"value": "def load_words():<br>&emsp;\"\"\"<br>&emsp;Ye function kaafi jayada words ko load karne mai help karega<br>&emsp;\"\"\"<br><br>&emsp;WORDLIST_FILENAME = \"words.txt\"<br>&emsp;print (\"Loading word list from file...\")<br>&emsp;inFile = open(WORDLIST_FILENAME, 'r', 0)<br>&emsp;line = inFile.readline()<br>&emsp;word_list = string.split(line)<br>&emsp;print (\"  \", len(word_list), \"words loaded.\\n\")<br><br>&emsp;return word_list"
 	}
 ]

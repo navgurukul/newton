@@ -30,7 +30,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 891<br>while i < 931:<br>  z = i - 890<br>  if z % 3 == 0:<br>    print(z)<br>  i = i + 1"
+		"value": "i = 891<br>while i < 931:<br>  z = i - 890<br>  if z % 3 == 0:<br>&emsp;print(z)<br>  i = i + 1"
 	},
 	{
 		"component": "header",
@@ -50,7 +50,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 0<br>while i <= 50:<br>  if i != 0:<br>    print(i)<br>  i = i + 5"
+		"value": "i = 0<br>while i <= 50:<br>  if i != 0:<br>&emsp;print(i)<br>  i = i + 5"
 	},
 	{
 		"component": "header",
@@ -81,7 +81,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 50<br>while i <= 100:<br>  if i % 2 != 0:<br>    print(i)<br>  i = i + 1"
+		"value": "i = 50<br>while i <= 100:<br>  if i % 2 != 0:<br>&emsp;print(i)<br>  i = i + 1"
 	},
 	{
 		"component": "header",
@@ -92,7 +92,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "i = 400<br>while i >= 350:<br>  z = i - 300<br>  if z % 2 != 0:<br>      print(z)<br>  i = i - 1"
+		"value": "i = 400<br>while i >= 350:<br>  z = i - 300<br>  if z % 2 != 0:<br>&emsp;  print(z)<br>  i = i - 1"
 	},
 	{
 		"component": "header",
@@ -112,7 +112,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a = -1<br>while a >= (-10):<br>  print (-a)<br>  a = a -1"
+		"value": "a = -1<br>while a >= (-10):<br>  print(-a)<br>  a = a -1"
 	},
 	{
 		"component": "header",
@@ -134,6 +134,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "a = 1<br>while a !=11:<br>  print (a)<br>  a-=-1"
+		"value": "a = 1<br>while a !=11:<br>  print(a)<br>  a-=-1"
 	}
 ]

@@ -23,29 +23,20 @@ print(type(city_population))
  ```
 
 intro_dictionary_key5
-```python
-8550405
-
-{
-   "NewYorkCity":8550405,
-    "LosAngeles":3971883, 
-    "Toronto":2731571, 
-    "Chicago":2720546, 
-    "Houston":2296224, 
-    "Montreal":1704694, 
-    "Calgary":1239220, 
-    "Vancouver":631486, 
-    "Boston":667137
-}
-
-<type 'dict'>
- ```
-
 intro_dictionary_key6
+
+
 intro_dictionary_key7
 
 
 intro_dictionary_key8
+
+
+intro_dictionary_key9
+intro_dictionary_key10
+
+
+intro_dictionary_key11
 ```python
 
  Dict = {
@@ -57,38 +48,39 @@ print(Dict['Ball'])
 print(Dict['bat'])
 ```
 
-```
-green
-red
-KeyError: bat
-
-// KeyError tab aati hai jab key dictionay mai nahi hoti hai.
-```
-intro_dictionary_key9
-
-
-intro_dictionary_key10
-intro_dictionary_key11
-
 
 intro_dictionary_key12
-```python
-student=dict(name= "Ravina",age= 20)
-print(student)
- ```
+
 
 intro_dictionary_key13
-intro_dictionary_key14
 
+
+
+intro_dictionary_key14
 
 
 intro_dictionary_key15
 intro_dictionary_key16
 
 
-
 intro_dictionary_key17
+```python
+student=dict(name= "Ravina",age= 20)
+print(student)
+ ```
+
 intro_dictionary_key18
+intro_dictionary_key19
+
+
+
+intro_dictionary_key20
+intro_dictionary_key21
+
+
+
+intro_dictionary_key22
+intro_dictionary_key23
 
 
 
@@ -101,7 +93,7 @@ intro_dictionary_key18
 ```
 
 
-intro_dictionary_key19
+intro_dictionary_key24
 
 
 ```python 
@@ -114,7 +106,7 @@ my_dict = {
 
 
 
-intro_dictionary_key20
+intro_dictionary_key25
 ```python
 Dic= {
  1: 'NAVGURUKUL',
@@ -127,8 +119,8 @@ Dic= {
 }
 print(Dic)
  ```
-intro_dictionary_key21
-intro_dictionary_key22
+intro_dictionary_key26
+intro_dictionary_key27
 
 
 @[youtube](https://www.youtube.com/watch?v=daefaLgNkw0)

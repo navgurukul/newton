@@ -16,16 +16,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def add_numbers(number_x, number_y):<br>    number_sum = number_x + number_y<br>    return number_sum<br><br>sum1 = add_numbers(20, 40)<br>print (sum1)<br>sum2 = add_numbers(560, 23)<br>a = 1234<br>b = 12<br>sum3 = add_numbers(a, b)<br>print (sum2)<br>print (sum3)<br>number_a = add_numbers(20, 40) / add_numbers(5, 1)<br>print (number_a)"
+		"value": "def add_numbers(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;return number_sum<br><br>sum1 = add_numbers(20, 40)<br>print(sum1)<br>sum2 = add_numbers(560, 23)<br>a = 1234<br>b = 12<br>sum3 = add_numbers(a, b)<br>print(sum2)<br>print(sum3)<br>number_a = add_numbers(20, 40) / add_numbers(5, 1)<br>print(number_a)"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span></b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "60<br>583<br>1246<br>10.0"
 	},
 	{
@@ -70,7 +68,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Jo functions kuch values return karte hain, hum unn functions ke saath kaafi interesting kaam kar sakte hain jaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_a = add_numbers(20,40) / add_numbers(5,1)</span> waali line ko dekho. Yahan humne ek statement mein do add_numbers ko call kiya hai aur fir unn dono ka jo result mila (pehle ka 60 aur dusre ka 6) usko divide kar diya hai Yeh functions jo kuch return karte hain, hum unka use aise kisi statement mein kar sakte hain. Jaise humne division wali line mein kara hai.<br><br>",
+		"value": "Jo functions kuch values return karte hain, hum unn functions ke saath kaafi interesting kaam kar sakte hain jaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_a = add_numbers(20,40) / add_numbers(5,1)</span> waali line ko dekho. Yahan humne ek statement mein do add_numbers ko call kiya hai aur fir unn dono ka jo result mila (pehle ka 60 aur dusre ka 6) usko divide kar diya hai Yeh functions jo kuch return karte hain, hum unka use aise kisi statement mein kar sakte hain. Jaise humne division wali line mein kara hai.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -84,16 +82,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def add_numbers_print(number_x, number_y):<br>    number_sum = number_x + number_y<br>    print (number_sum)<br>sum4 = add_numbers_print(4, 5)<br>print (sum4)<br>print (type(sum4))"
+		"value": "def add_numbers_print(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print (number_sum)<br>sum4 = add_numbers_print(4, 5)<br>print(sum4)<br>print(type(sum4))"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "9<br>None<br><class 'NoneType'>"
 	},
 	{
@@ -119,10 +115,8 @@
 		"value": "<b><span style=\"\">Output</span> :-</b> "
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "TypeError: unsupported operand type(s) for /: 'NoneType' and 'NoneType'"
+		"component": "text",
+		"value": "Type<span style=\"\">Error</span>: unsupported operand type(s) for /: 'NoneType' and 'NoneType'"
 	},
 	{
 		"component": "text",
@@ -149,16 +143,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def add_numbers_more(number_x, number_y):<br>    number_sum = number_x + number_y<br>    print (\"Hello from NavGurukul ;)\")<br>    return number_sum<br>    number_sum = number_x + number_x<br>    print (\"Kya main yahan tak pahunchunga?\")<br>    return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
+		"value": "def add_numbers_more(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print(\"Hello from NavGurukul ;)\")<br>&emsp;return number_sum<br>&emsp;number_sum = number_x + number_x<br>&emsp;print(\"Kya main yahan tak pahunchunga?\")<br>&emsp;return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "Hello from NavGurukul ;)"
 	},
 	{
@@ -179,7 +171,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Pehli <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">return number_sum</span> waali line se neeche aapne jo bhi code likha hai uss code mein se kuch bhi nahi chalega. Yeh isliye nahi chalega kyunki function chalate hue jab python ko ek return statement milti hai, toh python uss return statement ka use kar ke value return kar deta hai aur fir uske neeche wala koi bhi code nahi chalata hai.<br><br>",
+		"value": "Pehli <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">return number_sum</span> waali line se neeche aapne jo bhi code likha hai uss code mein se kuch bhi nahi chalega. Yeh isliye nahi chalega kyunki function chalate hue jab python ko ek return statement milti hai, toh python uss return statement ka use kar ke value return kar deta hai aur fir uske neeche wala koi bhi code nahi chalata hai.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -193,16 +185,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def menu(day):<br>    if day == \"monday\":<br>        return \"Butter Chicken\"<br>    elif day == \"tuesday\":<br>        return \"Mutton Chaap\"<br>    else:<br>        return \"Chole Bhature\"<br><br>    print (\"Kya main print ho payungi? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print (mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print (tues_menu)<br>fri_menu = menu(\"friday\")<br>print (fri_menu)"
+		"value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;return \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;return \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;return \"Chole Bhature\"<br><br>&emsp;print(\"Kya main print ho payungi? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print(mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print(tues_menu)<br>fri_menu = menu(\"friday\")<br>print(fri_menu)"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "Butter Chicken<br>Mutton Chaap<br>Chole Bhature"
 	},
 	{
@@ -235,7 +225,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Lekin kyunki if-elif-else ke andar se hi return statement execute ho jaati hai, humara program kabhi bhi aakhir wali if statement tak pahunchta hi nahi hai aur woh kabhi print nahi hoti.</b><br><br>",
+		"value": "<b>Lekin kyunki if-elif-else ke andar se hi return statement execute ho jaati hai, humara program kabhi bhi aakhir wali if statement tak pahunchta hi nahi hai aur woh kabhi print nahi hoti.</b>",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -249,16 +239,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def menu(day):<br>    if day == \"monday\":<br>        food = \"Butter Chicken\"<br>    elif day == \"tuesday\":<br>        food = \"Mutton Chaap\"<br>    else:<br>        food = \"Chole Bhature\"<br>    print (\"Kya main print ho payungi? :-(\")<br>    return food<br>    print (\"Lekin main toh pakka nahi print hounga :'(\")<br>print(menu(\"monday\"))"
+		"value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;food = \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;food = \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;food = \"Chole Bhature\"<br>&emsp;print(\"Kya main print ho payungi? :-(\")<br>&emsp;return food<br>&emsp;print(\"Lekin main toh pakka nahi print hounga :'(\")<br>print(menu(\"monday\"))"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "Kya main print ho payungi? :-(<br>Butter Chicken"
 	},
 	{

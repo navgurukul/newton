@@ -12,17 +12,15 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "print (\"NavGurukul\")<br><br>def say_hello():<br>    print (\"Hello!\")<br>    print (\"Aap kaise ho?\")<br><br>say_hello()<br>print (\"Python is awesome\")<br>say_hello()<br>print (\"Hello…\")<br>say_hello()"
+		"value": "print(\"NavGurukul\")<br><br>def say_hello():<br>&emsp;print(\"Hello!\")<br>&emsp;print(\"Aap kaise ho?\")<br><br>say_hello()<br>print(\"Python is awesome\")<br>say_hello()<br>print(\"Hello…\")<br>say_hello()"
 	},
 	{
 		"component": "text",
 		"value": "Isko chala ke dekho. Iski <span style=\"\">output</span> kuch aisi aayegi:"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "NavGurukul<br>Hello!<br>Aap kaise ho?<br>Python is awesome<br>Hello!<br>Aap kaise ho?<br>Hello…<br>Hello!<br>Aap kaise ho?"
+		"component": "text",
+		"value": "NavGurukul<br>Hello!<br>Aap kaise ho?<br><span style=\"\">Python</span> is awesome<br>Hello!<br>Aap kaise ho?<br>Hello…<br>Hello!<br>Aap kaise ho?"
 	},
 	{
 		"component": "text",
@@ -41,7 +39,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "names_list = [\"Fiza\", \"Shivam\", \"Imtiyaz\", \"Deepanshu\", \"Rahman\"]<br>print (len(names_list))"
+		"value": "names_list = [\"Fiza\", \"Shivam\", \"Imtiyaz\", \"Deepanshu\", \"Rahman\"]<br>print(len(names_list))"
 	},
 	{
 		"component": "text",
@@ -63,17 +61,31 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def definition_say_hello():<br>    print (\"NavGurukul\")<br>    print (\"NavGurukul mei humein apni learning ki responsibility leni padti hai.\")<br><br>definition_say_hello()<br><br>print (\"NavGurukul mei hum sab logo ko ek tarah se treat karte hai.\")<br><br>definition_say_hello()"
+		"value": "def definition_say_hello():<br>&emsp;print(\"NavGurukul\")<br>&emsp;print(\"NavGurukul mei humein apni learning ki responsibility leni padti hai.\")<br><br>definition_say_hello()<br><br>print(\"NavGurukul mei hum sab logo ko ek tarah se treat karte hai.\")<br><br>definition_say_hello()"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "NavGurukul<br><br>NavGurukul mei humein apni learning ki responsibility leni padti hai.<br><br>NavGurukul mei hum sab logo ko ek tarah se treat karte hai.<br><br>NavGurukul<br><br>NavGurukul mei humein apni learning ki responsibility leni padti hai."
+		"component": "text",
+		"value": "NavGurukul"
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul mei humein apni learning ki responsibility leni padti hai."
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul mei hum sab logo ko ek tarah se treat karte hai."
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul"
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul mei humein apni learning ki responsibility leni padti hai."
 	},
 	{
 		"component": "text",
@@ -81,7 +93,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Shuruat mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span> ka use kar ke hum python ko bata rahe ki humne ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello</span> naam ka function likha hai.<br><img src=\"assets/function_defn_inst_1.png\" alt=\"\" />",
+		"value": "Shuruat mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span> ka use kar ke hum python ko bata rahe ki humne ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello</span> naam ka function likha hai.<img src=\"assets/function_defn_inst_1.png\" alt=\"\" />",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -89,7 +101,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Iss function ka code (do print karne ki lines) kuch indent (space) deke <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def definition_say_hello()</span> ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.<br><img src=\"assets/function_defn_inst_2.png\" alt=\"\" />",
+		"value": "Iss function ka code (do print karne ki lines) kuch indent (space) deke <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def definition_say_hello()</span> ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.<img src=\"assets/function_defn_inst_2.png\" alt=\"\" />",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -97,7 +109,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Fir agli line, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello()</span> mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko <b>FUNCTION CALL</b> karna kehte hain.<br><img src=\"assets/function_defn_inst_3.png\" alt=\"\" />",
+		"value": "Fir agli line, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello()</span> mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko <b>FUNCTION CALL</b> karna kehte hain.<img src=\"assets/function_defn_inst_3.png\" alt=\"\" />",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -105,7 +117,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Iske baad print statement use kar ke humne ek string print kiya hai.<br><img src=\"assets/function_defn_inst_4.png\" alt=\"\" />",
+		"value": "Iske baad print statement use kar ke humne ek string print kiya hai.<img src=\"assets/function_defn_inst_4.png\" alt=\"\" />",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -113,7 +125,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Aakhir mein humne firse <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello()</span> likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - <i>2 print</i> command chal jati hai.<br><img src=\"assets/function_defn_inst_5.png\" alt=\"\" /><br><br><br>",
+		"value": "Aakhir mein humne firse <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">definition_say_hello()</span> likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - <i>2 print</i> command chal jati hai.<img src=\"assets/function_defn_inst_5.png\" alt=\"\" />",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -123,17 +135,15 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def function_say_bye():<br>    print (\"Aapko mil ke maza aaya. \")<br>    print (\"Bye bye\")<br>function_say_bye()<br>function_say_bye()<br>print (\"Python ka istamaal bahot jagah hota hai.\")<br>function_say_bye()<br>function_say_bye()"
+		"value": "def function_say_bye():<br>&emsp;print(\"Aapko mil ke maza aaya. \")<br>&emsp;print(\"Bye bye\")<br>function_say_bye()<br>function_say_bye()<br>print(\"Python ka istamaal bahot jagah hota hai.\")<br>function_say_bye()<br>function_say_bye()"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "Aapko mil ke maza aaya. <br>Bye bye<br>Aapko mil ke maza aaya. <br>Bye bye<br>Python ka istamaal bahot jagah hota hai.<br>Aapko mil ke maza aaya. <br>Bye bye<br>Aapko mil ke maza aaya. <br>Bye bye"
+		"component": "text",
+		"value": "Aapko mil ke maza aaya. <br>Bye bye<br>Aapko mil ke maza aaya. <br>Bye bye<br><span style=\"\">Python</span> ka istamaal bahot jagah hota hai.<br>Aapko mil ke maza aaya. <br>Bye bye<br>Aapko mil ke maza aaya. <br>Bye bye"
 	},
 	{
 		"component": "text",
@@ -169,7 +179,7 @@
 	},
 	{
 		"component": "text",
-		"value": "functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.<br><br>",
+		"value": "functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.",
 		"decoration": {
 			"type": "number",
 			"value": 5
@@ -188,7 +198,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def definition_hello_again():<br>    print (\"Firse Hello :)\")<br>    print (\"Aap kaise ho?\")"
+		"value": "def definition_hello_again():<br>&emsp;print(\"Firse Hello :)\")<br>&emsp;print(\"Aap kaise ho?\")"
 	},
 	{
 		"component": "text",
@@ -198,16 +208,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "definition_hello_again()"
+		"value": "def definition_hello_again():<br>&emsp;print(\"Firse Hello :)\")<br>&emsp;print(\"Aap kaise ho?\")<br>definition_hello_again()"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "Firse Hello :)<br>Aap kaise ho?"
 	},
 	{

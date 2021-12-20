@@ -56,16 +56,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def say_hello(name):<br>    print (\"Hello \", name)<br>    print (\"Aap kaise ho?\")<br>say_hello(\"Aatif\")"
+		"value": "def say_hello(name):<br>&emsp;print(\"Hello \", name)<br>&emsp;print(\"Aap kaise ho?\")<br>say_hello(\"Aatif\")"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "Hello , Aatif<br>Aap kaise ho?"
 	},
 	{
@@ -102,7 +100,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> parameter mein jaati hai, toh woh function ke andar same naam ke variable mein use kar sakte hain. Humne iss variable ka naam use kar ke print command likhi hai.<br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> parameter mein jaati hai, toh woh function ke andar same naam ke variable mein use kar sakte hain. Humne iss variable ka naam use kar ke print command likhi hai.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -125,17 +123,19 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def add_numbers(number1, number2):<br>    print (\"Main do numbers ko add karunga.\")<br>    print (number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
+		"value": "def add_numbers(number1, number2):<br>&emsp;print(\"Main do numbers ko add karunga.\")<br>&emsp;print(number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "Main do numbers ko add karunga.<br>170<br>Main do numbers ko add karunga.<br><br>TypeError: unsupported operand type(s) for +: 'int' and 'str'"
+		"component": "text",
+		"value": "Main do numbers ko add karunga.<br>170<br>Main do numbers ko add karunga."
+	},
+	{
+		"component": "text",
+		"value": "Type<span style=\"\">Error</span>: unsupported operand type(s) for +: 'int' and 'str'"
 	},
 	{
 		"component": "text",
@@ -167,7 +167,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> ki value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">134</span> pehle parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> mein jaati hai aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> ki value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rinki</span> dusre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> mein jaati hai.<br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> ki value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">134</span> pehle parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> mein jaati hai aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> ki value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rinki</span> dusre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> mein jaati hai.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -183,18 +183,16 @@
 	},
 	{
 		"component": "code",
-		"type": "other",
+		"type": "python",
 		"title": "",
-		"value": "def say_hello_language(name, language):<br>    if language == \"hindi\":<br>        print (\"Namaste \", name)<br>        print (\"Aap kaise ho?\")<br>    elif language == \"punjabi\":<br>        print (\"Sat sri akaal \", name)<br>        print (\"Tuhada ki haal hai?\")<br>    else:<br>        print (\"Hello \", name)<br>        print (\"How are you?\")<br>say_hello_language(\"Rishabh\", \"punjabi\")<br>say_hello_language(\"Armaan\", \"english\")<br>say_hello_language(\"Abhishek\", \"french\")<br>say_hello_language(\"Kavay\", \"hindi\")"
+		"value": "def say_hello_language(name, language):<br>&emsp;if language == \"hindi\":<br>&emsp;&emsp;print(\"Namaste \", name)<br>&emsp;&emsp;print(\"Aap kaise ho?\")<br>&emsp;elif language == \"punjabi\":<br>&emsp;&emsp;print(\"Sat sri akaal \", name)<br>&emsp;&emsp;print(\"Tuhada ki haal hai?\")<br>&emsp;else:<br>&emsp;&emsp;print(\"Hello \", name)<br>&emsp;&emsp;print(\"How are you?\")<br>say_hello_language(\"Rishabh\", \"punjabi\")<br>say_hello_language(\"Armaan\", \"english\")<br>say_hello_language(\"Abhishek\", \"french\")<br>say_hello_language(\"Kavay\", \"hindi\")"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "Sat sri akaal  Rishabh<br>Tuhada ki haal hai?<br>Hello  Armaan<br>How are you?<br>Hello  Abhishek<br>How are you?<br>Namaste  Kavay<br>Aap kaise ho?"
 	},
 	{
@@ -219,7 +217,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"hindi\"</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"punjabi\"</span> ke ilava koi bhi language di hai toh english mein karega<br><br>",
+		"value": "Agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"hindi\"</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"punjabi\"</span> ke ilava koi bhi language di hai toh english mein karega",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -247,7 +245,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Isi tareeke se upar likhi hui saari function calls mein yeh hi hota hai<br><br><br>",
+		"value": "Isi tareeke se upar likhi hui saari function calls mein yeh hi hota hai",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -266,16 +264,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>    print (\"Namaste \", name_x) # hindi mein<br>    print (\"Alah hafiz \", name_y) # urdu mein<br>    print (\"Bonjour \", name_z) # french mein<br>    print (\"Hello \", name_a) # english mein<br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
+		"value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>&emsp;print(\"Namaste \", name_x) # hindi mein<br>&emsp;print(\"Alah hafiz \", name_y) # urdu mein<br>&emsp;print(\"Bonjour \", name_z) # french mein<br>&emsp;print(\"Hello \", name_a) # english mein<br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "Namaste  Imitiyaz<br>Alah hafiz  Rishabh<br>Bonjour  Rahul<br>Hello  Vidya<br>Namaste  Steve<br>Alah hafiz  Saswata<br>Bonjour  Shakrundin<br>Hello  Rajeev"
 	},
 	{
@@ -312,7 +308,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Vidya\"</span> ki value teesre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_a</span> mein jaati hai<br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Vidya\"</span> ki value teesre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_a</span> mein jaati hai",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -342,10 +338,8 @@
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "i love chocolate<br>i love butterscotch<br>i love vanilla<br>i love strawberry"
+		"component": "text",
+		"value": "i love chocolate<br>i love butterscotch<br>i love vanilla<br>i love strawberry "
 	},
 	{
 		"component": "header",
@@ -364,16 +358,14 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def attendance(name,status=\"absent\"):<br>    print(name,\"is\",status,\" today\")<br><br>attendance(\"kartik\",\"present\")<br>attendance(\"sonu\")<br>attendance(\"vishal\",\"present\")<br>attendance(\"umesh\")"
+		"value": "def attendance(name,status=\"absent\"):<br>&emsp;print(name,\"is\",status,\" today\")<br><br>attendance(\"kartik\",\"present\")<br>attendance(\"sonu\")<br>attendance(\"vishal\",\"present\")<br>attendance(\"umesh\")"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "kartik is present today<br>sonu is absent today<br>vishal is present today<br>Umesh is absent today"
 	}
 ]

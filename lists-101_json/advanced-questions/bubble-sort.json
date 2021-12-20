@@ -36,7 +36,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Arranging weight from higher to lesser(<b>Descending Sort</b>).<br>Bubble sort is a way of sorting, that arranges a sequence of numbers, in <b>ascending</b> or <b>descending</b> order.<br><br>",
+		"value": "Arranging weight from higher to lesser(<b>Descending Sort</b>).Bubble sort is a way of sorting, that arranges a sequence of numbers, in <b>ascending</b> or <b>descending</b> order.",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -69,7 +69,7 @@
 	},
 	{
 		"component": "text",
-		"value": "If the bigger element is before only, then swap it.<br>(<b>swap</b> means - <b>interchange</b> - replace the first element with the second one, and the second element with the first one).",
+		"value": "If the bigger element is before only, then swap it.(<b>swap</b> means - <b>interchange</b> - replace the first element with the second one, and the second element with the first one).",
 		"decoration": {
 			"type": "bullet"
 		}
@@ -96,7 +96,7 @@
 	},
 	{
 		"component": "text",
-		"value": "These iterations will run as many times as there are number of elements present - by this, the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">array</span> will be sorted.<br><br>",
+		"value": "These iterations will run as many times as there are number of elements present - by this, the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">array</span> will be sorted.",
 		"decoration": {
 			"type": "number",
 			"value": 4

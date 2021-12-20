@@ -6,5 +6,6 @@
 	"question4_key5": "Notice that first number is `positive`, and the second number is `negative`, then again a positive and then negative number and so on should be printed. Pattern looks similar to this `Positive (+) Number`, `Negative (-) Number`, `Positive (+) Number`, `Negative (-) Number` and so on.\n",
 	"question4_key6": "We can make any number negative by mutiplying it by `-1`.\n",
 	"question4_key7": "Example :-\n",
-	"question4_key8": "You can use the above `Hint` to write the program.\n"
+	"question4_key8": "10 * -1 = -10\n2 * -1 = 2\n",
+	"question4_key9": "You can use the above `Hint` to write the program.\n"
 }

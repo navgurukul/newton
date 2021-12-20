@@ -14,8 +14,8 @@
   },
   {
     "component": "code",
-    "type": "other",
+    "type": "python",
     "title": "",
-    "value": "Mera naam Rishabh hai.<br>Main NavGurukul ka co-founder hun."
+    "value": "# write your function here<br><br>#  -output <br># Mera naam Rishabh hai.<br># Main NavGurukul ka co-founder hun."
   }
 ]

@@ -23,9 +23,7 @@
     "value": "kitne-crorepati_key4"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "4 Crorepati <br>3 Lakhpati <br>4 Dilwale"
+    "component": "text",
+    "value": "kitne-crorepati_key5"
   }
 ]

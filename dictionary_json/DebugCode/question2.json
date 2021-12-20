@@ -12,6 +12,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "dict1={1:2,2:3,3:4,4:5}<br>sum=0<br>for i in dict1.values():    <br>    sum=sum+1<br>print(sum)"
+		"value": "dict1={1:2,2:3,3:4,4:5}<br>sum=0<br>for i in dict1.values():&emsp;<br>&emsp;sum=sum+1<br>print(sum)"
 	}
 ]

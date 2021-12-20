@@ -12,6 +12,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "box = {}<br>jars = {}<br>crates = {}<br>box['biscuit'] = 1<br>box['cake'] = 3<br>jars['jam'] = 4<br>crates['box'] = box<br>crates['jars'] = jars<br>print (len(crates[box]))"
+    "value": "box = {}<br>jars = {}<br>crates = {}<br>box['biscuit'] = 1<br>box['cake'] = 3<br>jars['jam'] = 4<br>crates['box'] = box<br>crates['jars'] = jars<br>print(len(crates[box]))"
   }
 ]

@@ -22,7 +22,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span><br><br>",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -95,13 +95,13 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "4 < 5 # True"
+		"value": "print(4 < 5) # True"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "56 == 45 # False"
+		"value": "print(56 == 45) # False"
 	},
 	{
 		"component": "text",

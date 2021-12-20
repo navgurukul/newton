@@ -14,18 +14,20 @@
 	},
 	{
 		"component": "code",
-		"type": "other",
+		"type": "python",
 		"title": "",
-		"value": "function_name(“hello”,”welcome”)<br>function_name(“sonu”,”monu”)"
+		"value": "# Write function here<br>function_name(“hello”,”welcome”)<br>function_name(“sonu”,”monu”)"
 	},
 	{
 		"component": "text",
 		"value": "<b><span style=\"\">Output</span> :-</b>"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "welcome<br><br>sonu<br>monu"
+		"component": "text",
+		"value": "welcome"
+	},
+	{
+		"component": "text",
+		"value": "sonu<br>monu"
 	}
 ]

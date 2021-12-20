@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "[<br>     {\"first\":\"1\"}, <br>     {\"second\": \"2\"}, <br>     {\"third\": \"1\"}, <br>     {\"four\": \"5\"}, <br>     {\"five\":\"5\"}, <br>     {\"six\":\"9\"},<br>     {\"seven\":\"7\"}<br>]"
+		"value": "[<br>&emsp; {\"first\":\"1\"}, <br>&emsp; {\"second\": \"2\"}, <br>&emsp; {\"third\": \"1\"}, <br>&emsp; {\"four\": \"5\"}, <br>&emsp; {\"five\":\"5\"}, <br>&emsp; {\"six\":\"9\"},<br>&emsp; {\"seven\":\"7\"}<br>]"
 	},
 	{
 		"component": "header",
@@ -25,9 +25,7 @@
 		"value": "<span style=\"\">Output</span> :-"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
-		"value": "[2', '7', '9', '5', '1']"
+		"component": "text",
+		"value": "['2', '7', '9', '5', '1']"
 	}
 ]

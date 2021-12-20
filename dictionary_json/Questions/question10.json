@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "dict =  {<br>   'Alex': ['subj1', 'subj2', 'subj3'], <br>   'David': ['subj1', 'subj2']}"
+		"value": "dict1 =  {<br>   'Alex': ['subj1', 'subj2', 'subj3'], <br>   'David': ['subj1', 'subj2']}"
 	},
 	{
 		"component": "header",

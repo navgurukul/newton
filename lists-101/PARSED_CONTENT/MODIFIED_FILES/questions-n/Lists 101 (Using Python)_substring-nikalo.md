@@ -19,6 +19,7 @@ replacementStr = "on"
 ```
 
 substring-nikalo_key4
-```python
-the quick brown fox jumped on the lazy dog. the dog slept on the verandah.
-```
+
+
+substring-nikalo_key5
+substring-nikalo_key6

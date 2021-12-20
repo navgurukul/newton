@@ -22,7 +22,7 @@
     "component": "code",
     "type": "other",
     "title": "",
-    "value": "Dic= {<br>        1: 'NAVGURUKUL',<br>        2: 'IN',  <br>          3:{    <br>             'A' : 'WELCOME',<br>             'B' : 'To',<br>             'C' : 'DHARAMSALA'<br>            }<br>        }"
+    "value": "&emsp;   Dic= {<br>&emsp;&emsp;1: 'NAVGURUKUL',<br>&emsp;&emsp;2: 'IN',  <br>&emsp;&emsp;  3:{&emsp;<br>&emsp;&emsp;&emsp; 'A' : 'WELCOME',<br>&emsp;&emsp;&emsp; 'B' : 'To',<br>&emsp;&emsp;&emsp; 'C' : 'DHARAMSALA'<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;}"
   },
   {
     "component": "header",
@@ -30,9 +30,7 @@
     "value": "question4_key5"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "Dic= {<br>    1: 'NAVGURUKUL',<br>    2: 'IN',  <br>      3:<br>      { 'B' : 'To',<br>        'C' : 'DHARAMSALA'<br>       }<br>    }"
+    "component": "text",
+    "value": "question4_key6"
   }
 ]

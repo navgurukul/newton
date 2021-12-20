@@ -51,5 +51,7 @@
 	"lists-operations_key50": "Its result will come as `False` because \"imtiyaz\" element does not exist in the `names_list`.\n",
 	"lists-operations_key51": "As this is a `Boolean value`, it will return (`True`/`False`), we can also use it with the `if statement`.\n",
 	"lists-operations_key52": "Example :-\n",
-	"lists-operations_key53": "*Do you still remember what all we studied in the last Boolean lesson?*\n"
+	"lists-operations_key53": "else:\n    print(\"Shivam ka naam `names_list` mei nahi hai.\")\n",
+	"lists-operations_key54": "```\n",
+	"lists-operations_key55": "*Do you still remember what all we studied in the last Boolean lesson?*\n"
 }

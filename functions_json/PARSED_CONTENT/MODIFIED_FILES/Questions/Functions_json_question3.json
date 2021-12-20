@@ -17,19 +17,23 @@
     "value": "question3_key3"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "enter first number :-3<br><br>Enter second number :-4<br><br>Enter third number:-5"
-  },
-  {
     "component": "text",
     "value": "question3_key4"
   },
   {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "Sum of three numbers :-12<br>Average of three numbers :-4"
+    "component": "text",
+    "value": "question3_key5"
+  },
+  {
+    "component": "text",
+    "value": "question3_key6"
+  },
+  {
+    "component": "text",
+    "value": "question3_key7"
+  },
+  {
+    "component": "text",
+    "value": "question3_key8"
   }
 ]

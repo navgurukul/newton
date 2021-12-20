@@ -14,6 +14,4 @@ my_dict = {
     }
  ```
 question13_key4
-```
-expect result:-['e','b','c']
-```
+question13_key5

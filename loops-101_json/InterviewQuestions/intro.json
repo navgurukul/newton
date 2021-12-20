@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Write a program to find the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">greatest common divisor (GCD)</span> or <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">highest common factor (HCF)</span> of given two numbers.<br>",
+		"value": "Write a program to find the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">greatest common divisor (GCD)</span> or <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">highest common factor (HCF)</span> of given two numbers.",
 		"decoration": {
 			"type": "number",
 			"value": 1
@@ -14,7 +14,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">syntax of while loop</span> in python?.<br>",
+		"value": "What is the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">syntax of while loop</span> in python?.",
 		"decoration": {
 			"type": "number",
 			"value": 2
@@ -22,7 +22,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Difference between <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while loop</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">for loop</span> in python?.<br>",
+		"value": "Difference between <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while loop</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">for loop</span> in python?.",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -30,7 +30,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is the workflow of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while loop</span> in python?.<br>",
+		"value": "What is the workflow of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while loop</span> in python?.",
 		"decoration": {
 			"type": "number",
 			"value": 4
@@ -38,7 +38,7 @@
 	},
 	{
 		"component": "text",
-		"value": "What is the work of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter</span> in the while loop?.<br>",
+		"value": "What is the work of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">counter</span> in the while loop?.",
 		"decoration": {
 			"type": "number",
 			"value": 5

@@ -20,13 +20,34 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "magic_square = [<br>    [8, 3, 4],<br>    [1, 5, 9],<br>    [6, 7, 2]<br>]"
+		"value": "magic_square = [<br>&emsp;[8, 3, 4],<br>&emsp;[1, 5, 9],<br>&emsp;[6, 7, 2]<br>]"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "# Rows<br>8 + 3 + 4 = 15<br>1 + 5 + 9 = 15<br>6 + 7 + 2 = 15<br><br># Columns<br>8 + 1 + 6 = 15<br>3 + 5 + 7 = 15<br>4 + 9 + 2 = 15<br><br># Diagonals<br>8 + 5 + 2 = 15<br>4 + 5 + 6 = 15"
+		"component": "header",
+		"variant": 1,
+		"value": "Rows"
+	},
+	{
+		"component": "text",
+		"value": "8 + 3 + 4 = 15<br>1 + 5 + 9 = 15<br>6 + 7 + 2 = 15"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Columns"
+	},
+	{
+		"component": "text",
+		"value": "8 + 1 + 6 = 15<br>3 + 5 + 7 = 15<br>4 + 9 + 2 = 15"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Diagonals"
+	},
+	{
+		"component": "text",
+		"value": "8 + 5 + 2 = 15<br>4 + 5 + 6 = 15"
 	},
 	{
 		"component": "text",
@@ -40,12 +61,10 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "magic_square = [<br>    [5, 3, 7],<br>    [1, 8, 9],<br>    [6, 4, 2]<br>]"
+		"value": "magic_square = [<br>&emsp;[5, 3, 7],<br>&emsp;[1, 8, 9],<br>&emsp;[6, 4, 2]<br>]"
 	},
 	{
-		"component": "code",
-		"type": "python",
-		"title": "",
+		"component": "text",
 		"value": "Rows<br>5 + 3 + 7 = 15<br>1 + 8 + 9 = 18"
 	},
 	{
@@ -74,7 +93,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "magic_square = [<br>    [8, 3, 4, 0],<br>    [1, 5, 9],<br>    [6, 7, 2]<br>]"
+		"value": "magic_square = [<br>&emsp;[8, 3, 4, 0],<br>&emsp;[1, 5, 9],<br>&emsp;[6, 7, 2]<br>]"
 	},
 	{
 		"component": "text",

@@ -14,9 +14,7 @@
 		"value": "Your <span style=\"\">code</span> <span style=\"\">output</span> should be here :"
 	},
 	{
-		"component": "code",
-		"type": "other",
-		"title": "",
+		"component": "text",
 		"value": "kerela<br>punjab<br>rajasthan<br>gujrat<br>delhi"
 	},
 	{
