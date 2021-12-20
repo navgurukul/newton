@@ -46,3 +46,4 @@
 	- debugging-intro.md
 	- debugging-question1.md
 	- debugging-question2.md
+  - Assessment.md
