@@ -10,7 +10,10 @@ Generally jab hum koi bhi data scrape karte hain uss website se toh uss website 
 1. Har movie ka main page khol ke uska data scrape karna.
 2. Uss movie ka cast wala page khol ke saare actors aur actresses ki list scrape karna.
 
-Matlab agar 10 crore movies scrape ho rahi hai, toh around 20 crore requests kar rahe hoge aap IMDB ke servers pe. Itni saari requests se IMDB ki servers pe load padega aur iss chakar mein IMDB ke servers humein block kar denge.
+Matlab agar 10 crore movies scrape ho rahi hai, toh around 20 crore requests kar rahe hoge aap IMDB ke servers pe. Itni saari requests se IMDB ki servers pe load padega aur iss chakar mein IMDB ke servers humein block kar denge. 
+
+Saare computer attacks ke baare mein janne ke liye ye video dekhein:
+@[youtube](https://www.youtube.com/watch?v=AuYNXgO_f3Y)
 
 Bahot important hai yeh samjhna ki websites scrapers ko kyun block karti hai aur hum isko kaise prevent kar sakte hai. You should spend some time researching and understanding this. Aur better hoga ki aap yeh apne kuch friends ke saath padh ke samjho. Akele karke utni clarity nahi milegi. Google karke samjho :) Neeche main kuch links de raha hun jahan se aap apni research shuru kar sakte ho.
 

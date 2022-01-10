@@ -4,6 +4,8 @@ name: Introduction to Loops
 
 ## Understanding `Loop Conditions`
 
+@[youtube](https://www.youtube.com/watch?v=jsUN0NV5RfQ)
+
 Let us see this code.
 
 ```python

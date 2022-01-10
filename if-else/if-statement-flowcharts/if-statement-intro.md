@@ -17,6 +17,9 @@ To do this in `programming`, we use `if statements`. You can observe the applica
 
 ![whatsapp-ticks](assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg)
 
+Watch following video for more clarity
+@[youtube](https://www.youtube.com/watch?v=fVUL-vzrIcM)
+
 
 ## `Flowcharts`
 

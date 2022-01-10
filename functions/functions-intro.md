@@ -6,6 +6,7 @@ name: Functions
 
 Function ek block of code hota hai jo ki run hota hai jab hum use call karte hai. Function mei hum data pass kar sekhte hai jise hum parameter kahete hai. Function data return karta hai. Functions ka use kar ke hum ek baar kuch code likh kar usko bahot baar use kar sakte hai. Isse humara kaam bahot aasan ho jata hai.
 
+@[youtube](https://www.youtube.com/watch?v=8T5acEwfJbw)
 
 ```python
 print("NavGurukul")
