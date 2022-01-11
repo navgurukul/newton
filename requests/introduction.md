@@ -7,7 +7,7 @@ Inn Videos bahut dhyaan se dekhein, aur aapas mei discuss karein. Aap subtitles 
 @[youtube](Nu-18s6EeM8)
 
 ## What are HTTP and HTML?
-@[youtube](https://www.youtube.com/watch?v=kBXQZMmiA4s)
+@[youtube](kBXQZMmiA4s)
 
 ## What is an API?
 
@@ -28,8 +28,8 @@ To learn more about Json go through this @[link](https://guide.freecodecamp.org/
 # Go through the following videos to undertand working of Intenet in a better way
 
 What are IP addresses and DNS?
-@[youtube](https://www.youtube.com/watch?v=5o8CwafCxnU)
+@[youtube](5o8CwafCxnU)
 
 What Packets, Routers and Reliability?
-@[youtube](https://www.youtube.com/watch?v=AYdF7b3nMto)
+@[youtube](AYdF7b3nMto)
 

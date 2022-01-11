@@ -26,7 +26,7 @@ Like leadership skills, there are many training courses to teach you how to work
 
 Creativity and problem-solving skills are highly valued because they are hard to develop. There are many people who believe that creative thinkers are born, not made, and there are certainly some people who find these skills much easier. But, like other skills, you can develop them if you work to do so and our pages on these topics will give you some ideas about how to do this.
 
-@[youtube](https://www.youtube.com/watch?v=eZqKqI8AvnA)
+@[youtube](eZqKqI8AvnA)
 
 ### 7. Time Management and ability to work under pressure
 

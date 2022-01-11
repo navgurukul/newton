@@ -7,7 +7,7 @@ submission_type: url
 
 If we want to do a task again and again, so computers can help us with that task.
 
-@[youtube](https://www.youtube.com/watch?v=hYvcoRkAkOU)
+@[youtube](hYvcoRkAkOU)
 
 ### Not Translated
 
