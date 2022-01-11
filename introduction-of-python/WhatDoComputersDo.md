@@ -15,6 +15,10 @@ Just as wheels removed our physical limitations, the invention of computers, hel
 
 Computers don’t have their brain so they can’t think, we have to give instructions to them to make them solve any complex problem.
 
+#### let's see how computer works
+
+@[youtube](mCq8-xTH7jA) 
+
 
 **Read and search the following questions.**
 --   What did you learn about computers?

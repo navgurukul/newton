@@ -62,6 +62,11 @@ print(a*b)
 
 6
 
+
+#### Now you know how ARITHMETIC OPERATORS work and How do we get output in python. Do you know how the computer gives us the output? If don't watch this video
+
+@[youtube](DKGZlaPlVLY&t=3s)
+
 ### `Division(/):-`
  The `division operator (/)` is used to divide or calculate the quotient of division of values.
 
