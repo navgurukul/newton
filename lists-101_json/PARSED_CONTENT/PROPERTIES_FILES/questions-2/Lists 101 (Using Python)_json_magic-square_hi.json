@@ -14,7 +14,7 @@
     "magic-square_key13": "पंक्तियों<br> 5 + 3 + 7 = 15<br> 1 + 8 + 9 = 18",
     "magic-square_key14": "क्योंकि दूसरी पंक्ति के तत्वों का योग 15 नहीं है, इसलिए यह कोई जादुई वर्ग नहीं है।",
     "magic-square_key15": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case 1</span>",
-    "magic-square_key16": "कृपया देखें कि आपके द्वारा लिखा गया प्रोग्राम केवल 3x3 वर्ग के लिए काम करता है या यह वर्ग के किसी भी आकार के लिए काम करता है।",
+    "magic-square_key16": "कृपया देखें कि आपने जो प्रोग्राम लिखा है वह केवल 3x3 वर्ग के लिए काम करता है या यह वर्ग के किसी भी आकार के लिए काम करता है।",
     "magic-square_key17": "इस प्रोग्राम को किसी भी आकार के वर्ग, किसी भी आकार के वर्ग के लिए लिखें ताकि यदि कोई उपयोगकर्ता किसी भी आकार के वर्ग में प्रवेश करता है, तो आपका प्रोग्राम सही <span style=\"\">output</span> दे।",
     "magic-square_key18": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case 2</span>",
     "magic-square_key19": "इसके लिए <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> , आपका उत्तर क्या होगा - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> ।",
