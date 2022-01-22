@@ -23,5 +23,9 @@
   {
     "component": "text",
     "value": "question2_key6"
+  },
+  {
+    "component": "text",
+    "value": "question2_key7"
   }
 ]

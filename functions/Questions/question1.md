@@ -4,16 +4,14 @@ submission_type: url
 ```
 ## Question 1
 
-eligible_for_vote name ka function likho jo ki user ko bataye ki vo (he/she) vote de sakta hai ya nahi.
-( Consider minimum age of voting to be 18. )
+Create a funciton named eligible_for_vote which tell the user if he/she is eligible to vote or not.( Consider minimum age of voting to be 18. )
+
+
 
 
 ***Example:-***
 
-Agar user input me 18 se kam deta hai to ***“not eligible “***
-print kare aur agar user 18 ya 18 se jyaada input kare to 
-***“you are eligible”***
-print kare.
+If user's age is less than 18 , print ***“not eligible “***,else if user's age is greater than or equal to 18, print ***“you are eligible”***
 
 
 

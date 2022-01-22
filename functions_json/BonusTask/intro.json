@@ -6,11 +6,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Iss Task mai apko function ke bare mai six new concepts padne hai."
+		"value": "In this task we learn about six new concepts of functions."
 	},
 	{
 		"component": "text",
-		"value": "Phele apko function ke three new concepts <span style=\"\">python</span> ki website se padna hai."
+		"value": "First go through the following three concepts of functions from the <span style=\"\">python</span> webite."
 	},
 	{
 		"component": "text",
@@ -21,14 +21,14 @@
 	},
 	{
 		"component": "text",
-		"value": "Fir aap function ke three new concepts <b>Stackoverflow</b> se padh hai."
+		"value": "Then learn these three concepts of functions from the <b>Stackoverflow</b>"
 	},
 	{
 		"component": "text",
-		"value": "App ek google doc par apni understand likh kar apne mentor se share karenge aur concepts se related kuch questions bhi karenge."
+		"value": "As per your understanding of the concepts make one google doc and share it with your mentor.Also do some questions related to concepts."
 	},
 	{
 		"component": "text",
-		"value": "App ek class lenge jisme apne jo new concepts sikhe hai woh explain karenge."
+		"value": "Whatever you learn,take atleast one class on it."
 	}
 ]

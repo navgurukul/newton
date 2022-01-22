@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "eligible<i>for</i>vote name ka function likho jo ki user ko bataye ki vo (he/she) vote de sakta hai ya nahi.<br>( Consider minimum age of voting to be 18. )"
+		"value": "Create a funciton named eligible<i>for</i>vote which tell the user if he/she is eligible to vote or not.( Consider minimum age of voting to be 18. )"
 	},
 	{
 		"component": "text",
@@ -14,7 +14,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar user <span style=\"\">input</span> me 18 se kam deta hai to <b><i>“not eligible “</i></b><br>print kare aur agar user 18 ya 18 se jyaada <span style=\"\">input</span> kare to <br><b><i>“you are eligible”</i></b><br>print kare."
+		"value": "If user's age is less than 18 , print <b><i>“not eligible “</i></b>,else if user's age is greater than or equal to 18, print <b><i>“you are eligible”</i></b>"
 	},
 	{
 		"component": "text",

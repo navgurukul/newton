@@ -4,14 +4,15 @@ submission_type: url
 ```
 ## Question 2
 
-`function_print_lines` naam ka ek function likho jo 2 strings leta ho, aur unko neeche diye hue dhang se print karta ho.
+Write a function named `function_print_lines` which takes 2 strings, and prints them in the following manner.
 
-Jaise agar hum usko `"Mera naam Rishabh hai."` aur `"Main NavGurukul ka co-Founder hun."` denge toh woh yeh print karega
+If we give these 2 arguments - `"My name is Rishabh."` and `"I am the co-founder of NavGurukul"`
+we will get the following output:
 
 ```python 
 # write your function here
 
 #  -output 
-# Mera naam Rishabh hai.
-# Main NavGurukul ka co-founder hun.
+# My name is Rishabh..
+# I am the co-founder of NavGurukul.
 ```

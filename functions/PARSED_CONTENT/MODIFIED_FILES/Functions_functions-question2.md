@@ -9,6 +9,6 @@ functions-question2_key3
 # write your function here
 
 #  -output 
-# Mera naam Rishabh hai.
-# Main NavGurukul ka co-founder hun.
+# My name is Rishabh..
+# I am the co-founder of NavGurukul.
 ```

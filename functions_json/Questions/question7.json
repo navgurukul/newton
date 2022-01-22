@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Ek function define karo jo ki <span style=\"\">input</span> me 2 <span style=\"\">strings</span> lega aur dono <span style=\"\">strings</span> me se jiski length jyaada hogi use print karega aur agar dono <span style=\"\">strings</span> ki length equal hui to dono ko line by line print karega .  Hint :- use len() builtin function.. "
+		"value": "Define a function which takes two arguments(<span style=\"\">strings</span>) and returns the <span style=\"\">string</span> with largest length. If both the <span style=\"\">strings</span> have equal length, print both the <span style=\"\">strings</span> one below the other.<br> Hint :- use len() builtin function.. "
 	},
 	{
 		"component": "text",
@@ -24,10 +24,6 @@
 	},
 	{
 		"component": "text",
-		"value": "welcome"
-	},
-	{
-		"component": "text",
-		"value": "sonu<br>monu"
+		"value": "welcome<br>sonu<br>monu"
 	}
 ]

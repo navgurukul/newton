@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Yeh question 3 parts mein. Teenon parts ka <span style=\"\">code</span> likh ke ek hi <span style=\"\">file</span> mein submit karo."
+		"value": "This question is in 3 parts. Submit the three part of <span style=\"\">code</span> by writing in the same <span style=\"\">file</span>."
 	},
 	{
 		"component": "header",
@@ -15,11 +15,11 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator</span> naam ka ek function banao jo teen argument leta ho - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_x</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_y</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">operation</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_x</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_y</span> mein hum humesha do <span style=\"\">integers</span> denge aur operation mein kaunsa operation karna hai woh denge. Jaise:"
+		"value": "Create a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Calculator</span> which takes three arguments - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_x</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_y</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">operation</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number_y</span> we will take two <span style=\"\">integers</span> and operation parameter defines the type of mathematical operation to be performed on the two <span style=\"\">integers</span>. <br>For ex:"
 	},
 	{
 		"component": "text",
-		"value": "Agar operation mein \"add\" diya toh number<i>x aur number</i>y ko add kar ke returna karega.",
+		"value": "If \"add\" is given in the operation, it will return number<i>x and number</i>y by adding it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -27,7 +27,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar operation mein \"subtract\" diya toh number<i>x aur number</i>y ko subtract kar ke return karenge.",
+		"value": "If \"subtract\" is given in the operation, it will subtract number<i>x and number</i>y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -35,7 +35,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar operation mein \"multiply\" diya toh number<i>x ko number</i>y se multiply kar ke returna karega.",
+		"value": "If \"multifly\" is given in the operation, it will multifly number<i>x and number</i>y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -43,7 +43,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar operation mein \"divide\" diya toh number<i>x ko number</i>y se divide kar ke return karega",
+		"value": "If \"divide\" is given in the operation, it will divide number<i>x and number</i>y and return it.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -51,11 +51,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Neeche kuch function calls ke examples diye hue hain:"
+		"value": "Below are examples of some function calls:"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator(20, 25, \"add\")</span> call karne pe 45 returna karega. 45 hume 20+25 karne se milega.",
+		"value": "Calling <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator(20, 25, \"add\")</span> will return 45. 45 we will get by doing 20+25.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -63,7 +63,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator(40, 3, \"subtract\")</span> call karne pe 37 return karega. 37 hume 40-3 karne se milega.",
+		"value": "Calling <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Calculator(40, 3, \"Subtract\")</span> will return 37 on calling. 37 we will get by doing 40-3.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -71,7 +71,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator(10, 4, \"multiply\")</span> call karne pe 40 return karega. 40 hume 10*4 karne se milega.",
+		"value": "Calling <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Calculator(10, 4, \"Multiply\")</span> will return 40. We will get 40 by doing 10*4.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -79,7 +79,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator(40, 4, \"divide\")</span> call karnse pe 10 return karega. 10 hume 40/3 karne se milega.",
+		"value": "Calling <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">calculator(40, 4, \"Divide\")</span> will return 10 for the call reason. We will get 10 by doing 40/3.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -87,11 +87,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Function likhne ke baad, yeh kaam karne ke liye function call karo aur <span style=\"\">variable</span> mein value daalo."
+		"value": "After writing the function, to do this function call the function and put the value in the <span style=\"\">variable</span>."
 	},
 	{
 		"component": "text",
-		"value": "24 aur 20 ko add karo aur number_1 variable mein value daalo",
+		"value": "Add 24 and 20 and put the value in the number_1 variable",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -99,7 +99,7 @@
 	},
 	{
 		"component": "text",
-		"value": "50 aur 60 ko multiply karo aur number_2 variable mein value daalo",
+		"value": "Multiply 50 and 60 and put the value in the number_2 variable",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -107,7 +107,7 @@
 	},
 	{
 		"component": "text",
-		"value": "80 aur 120 ko divide karo aur number_3 variable mein value daalo",
+		"value": "Divide 80 and 120 and put the value in the number_3 variable",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -115,7 +115,7 @@
 	},
 	{
 		"component": "text",
-		"value": "90 aur 23 ko subtract karo aur number_4 variable mein value daalo",
+		"value": "Subtract 90 and 23 and put the value in the number_4 variable",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -128,19 +128,19 @@
 	},
 	{
 		"component": "text",
-		"value": "Ab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> ka use kar ke user se 2 numbers <span style=\"\">input</span> lo."
+		"value": "Now using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> take 2 numbers <span style=\"\">input</span> from the user."
 	},
 	{
 		"component": "text",
-		"value": "<b>Note: Yeh karne ke liye koi function banane ki zaroorat nahi hai.</b>"
+		"value": "<b>Note: Not neccesary to create any fuction.</b>"
 	},
 	{
 		"component": "text",
-		"value": "Fir calculator function ko 4 baar call call kar ke inn dono numbers do add, subtract, multiply, divide karo aur result ko 4 alag <span style=\"\">variables</span> mein daalo. Woh <span style=\"\">variables</span> ka naam yeh hoga:"
+		"value": "Call the calculator function 4 times again and again to add, substract, multifly, divide the two numbers and show the result in 4 different <span style=\"\">variables</span>. <br>Those <span style=\"\">variables</span> would be named as:"
 	},
 	{
 		"component": "text",
-		"value": "<i>add_result</i> add operation ka result store karega",
+		"value": "<i>add_result</i>  (store the add operation result) ",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -148,7 +148,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<i>subtract_result</i> subtract operation ka result store karega",
+		"value": "<i>subtract_result</i> (store the subtract operation result) ",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -156,7 +156,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<i>multiply_result</i> multiple operation ka result store karega",
+		"value": "<i>multiply_result</i> (store the multiple operation result)",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -164,7 +164,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<i>divide_result</i> divide operation ka result store karega",
+		"value": "<i>divide_result</i> (store the divide operation result)",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -172,11 +172,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Fir upar wale chaaron <span style=\"\">variables</span> ko print karo."
+		"value": "Then print the above four <span style=\"\">variables</span>."
 	},
 	{
 		"component": "text",
-		"value": "Final <span style=\"\">code</span> ko submit karo :)"
+		"value": "submit your final <span style=\"\">code</span> :)"
 	},
 	{
 		"component": "header",
@@ -185,15 +185,15 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_change</span> naam ka ek function ka <span style=\"\">code</span> likho jo 2 lists jisme <span style=\"\">integers</span> arguments ki tarah le aur fir unn lists ki woh items jo same index number (kram) pe hain unko multiply kar ke ek nayi list return karvaye."
+		"value": "Write the <span style=\"\">code</span> of a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">list_change</span> which take 2 lists as <span style=\"\">integer</span> arguments and then multiply the items of those lists which are on the same index number (order) and get them to return a new list."
 	},
 	{
 		"component": "text",
-		"value": "<b>Aapko multiply karne ke liye <i>calculator</i> function ka use karna hai. Normal tareeke se multiply nahi kar sakte ho.</b>"
+		"value": "<b>You have to use <i>calculator</i> function to multiply. Can't multiply normally.</b>"
 	},
 	{
 		"component": "text",
-		"value": "Jaise agar hum function ko aise call karenge toh:"
+		"value": "If we call the function like this:"
 	},
 	{
 		"component": "code",
@@ -203,7 +203,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Yahan <i>multiple_list</i> ki yeh value honi chaiye:"
+		"value": "Here the value should be <i>multiple_list</i> :"
 	},
 	{
 		"component": "code",
@@ -213,6 +213,6 @@
 	},
 	{
 		"component": "text",
-		"value": "10, 5 aur 2 ko multiple kar ke aaya, 200 10 aur 20 ko multiple kar ke, 150 50 aur 3 ko, 100 20 aur 5 ko."
+		"value": "10 is obtained by multiplying 5 and 2, 200 by multiplying 10 and 20, 150 by 50 and 3, 100 by 20 and 5."
 	}
 ]

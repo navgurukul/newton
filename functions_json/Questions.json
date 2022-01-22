@@ -6,11 +6,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Ab aapko kuchh questions solve krna hai pre-define function ka use kr ke."
+		"value": "Now you have to solve some questions by using the pre-define function."
 	},
 	{
 		"component": "text",
-		"value": "<b>Q1 .</b>  Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function ka use krke di hue list me se sbse bada value print krvani hai."
+		"value": "<b>Q1 .</b> You have to print the largest value out of the given list using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function."
 	},
 	{
 		"component": "text",
@@ -28,7 +28,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Q2.</b>  Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function ka use krke di hue list ke element ka sum  print krvana hai."
+		"value": "<b>Q2.</b> You have to print the sum of the elements of the given list by using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function."
 	},
 	{
 		"component": "text",
@@ -46,7 +46,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Q3.</b> Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function ka use kr ke di hue list ko sort krna hai."
+		"value": "<b>Q3.</b> Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function sort the given list."
 	},
 	{
 		"component": "text",
@@ -68,7 +68,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Q4.</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function ka use kr ke aapko di hue list ka revrse print krna hai."
+		"value": "<b>Q4.</b> By using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function print the reverse order of the list."
 	},
 	{
 		"component": "text",
@@ -90,7 +90,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Q5.</b> Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function ka use krke di hue list me se sbse chhoti value print krvani hai."
+		"value": "<b>Q5.</b> Use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function and find the minimun value of the list."
 	},
 	{
 		"component": "text",

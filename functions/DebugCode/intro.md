@@ -4,4 +4,4 @@ submission_type: url
 ```
 ## Debug Code
 
-Ab hum function se related code ko debug karenge.
+Now we will debug the code of function.

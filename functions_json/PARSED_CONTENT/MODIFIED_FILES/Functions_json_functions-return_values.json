@@ -143,7 +143,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def add_numbers_more(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print(\"Hello from NavGurukul ;)\")<br>&emsp;return number_sum<br>&emsp;number_sum = number_x + number_x<br>&emsp;print(\"Kya main yahan tak pahunchunga?\")<br>&emsp;return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
+    "value": "def add_numbers_more(number_x, number_y):<br>&emsp;number_sum = number_x + number_y<br>&emsp;print(\"Hello from NavGurukul ;)\")<br>&emsp;return number_sum<br>&emsp;number_sum = number_x + number_x<br>&emsp;print(\"Will i reach here?\")<br>&emsp;return number_sum<br><br>sum6 = add_numbers_more(100, 20)"
   },
   {
     "component": "text",
@@ -185,7 +185,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;return \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;return \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;return \"Chole Bhature\"<br><br>&emsp;print(\"Kya main print ho payungi? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print(mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print(tues_menu)<br>fri_menu = menu(\"friday\")<br>print(fri_menu)"
+    "value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;return \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;return \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;return \"Chole Bhature\"<br><br>&emsp;print(\"Will I be able to print? :-(\")<br><br>mon_menu = menu(\"monday\")<br>print(mon_menu)<br>tues_menu = menu(\"tuesday\")<br>print(tues_menu)<br>fri_menu = menu(\"friday\")<br>print(fri_menu)"
   },
   {
     "component": "text",
@@ -197,7 +197,11 @@
   },
   {
     "component": "text",
-    "value": "functions-return_values_key33"
+    "value": "functions-return_values_key33",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
   },
   {
     "component": "text",
@@ -239,7 +243,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;food = \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;food = \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;food = \"Chole Bhature\"<br>&emsp;print(\"Kya main print ho payungi? :-(\")<br>&emsp;return food<br>&emsp;print(\"Lekin main toh pakka nahi print hounga :'(\")<br>print(menu(\"monday\"))"
+    "value": "def menu(day):<br>&emsp;if day == \"monday\":<br>&emsp;&emsp;food = \"Butter Chicken\"<br>&emsp;elif day == \"tuesday\":<br>&emsp;&emsp;food = \"Mutton Chaap\"<br>&emsp;else:<br>&emsp;&emsp;food = \"Chole Bhature\"<br>&emsp;print(\"Will I be able to print? :-(\")<br>&emsp;return food<br>&emsp;print(\"But I'm not sure will print? :'(\")<br>print(menu(\"monday\"))"
   },
   {
     "component": "text",

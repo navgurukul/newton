@@ -3,65 +3,69 @@ name: Question 6
 submission_type: url
 ```
 ## Question 6
-Yeh question 3 parts mein. Teenon parts ka code likh ke ek hi file mein submit karo.
+
+This question is in 3 parts. Submit the three part of code by writing in the same file.
 
 ### Question (Part 1)
-`calculator` naam ka ek function banao jo teen argument leta ho - `number_x`, `number_y`, `operation`. `number_x` aur `number_y` mein hum humesha do integers denge aur operation mein kaunsa operation karna hai woh denge. Jaise:
 
-* Agar operation mein "add" diya toh number_x aur number_y ko add kar ke returna karega.
-*  Agar operation mein "subtract" diya toh number_x aur number_y ko subtract kar ke return karenge.
-*  Agar operation mein "multiply" diya toh number_x ko number_y se multiply kar ke returna karega.
-*  Agar operation mein "divide" diya toh number_x ko number_y se divide kar ke return karega
+Create a function named `Calculator` which takes three arguments - `number_x`, `number_y`, `operation`. `number_x` and `number_y` we will take two integers and operation parameter defines the type of mathematical operation to be performed on the two integers. 
+For ex:
+* If "add" is given in the operation, it will return number_x and number_y by adding it.
+* If "subtract" is given in the operation, it will subtract number_x and number_y and return it.
+* If "multifly" is given in the operation, it will multifly number_x and number_y and return it.
+* If "divide" is given in the operation, it will divide number_x and number_y and return it.
 
-Neeche kuch function calls ke examples diye hue hain:
+Below are examples of some function calls:
 
-* `calculator(20, 25, "add")` call karne pe 45 returna karega. 45 hume 20+25 karne se milega.
-* `calculator(40, 3, "subtract")` call karne pe 37 return karega. 37 hume 40-3 karne se milega.
-* `calculator(10, 4, "multiply")` call karne pe 40 return karega. 40 hume 10*4 karne se milega.
-* `calculator(40, 4, "divide")` call karnse pe 10 return karega. 10 hume 40/3 karne se milega.
+* Calling `calculator(20, 25, "add")` will return 45. 45 we will get by doing 20+25.
+* Calling `Calculator(40, 3, "Subtract")` will return 37 on calling. 37 we will get by doing 40-3.
+* Calling `Calculator(10, 4, "Multiply")` will return 40. We will get 40 by doing 10*4.
+* Calling `calculator(40, 4, "Divide")` will return 10 for the call reason. We will get 10 by doing 40/3.
 
-Function likhne ke baad, yeh kaam karne ke liye function call karo aur variable mein value daalo.
+After writing the function, to do this function call the function and put the value in the variable.
 
-* 24 aur 20 ko add karo aur number_1 variable mein value daalo
-* 50 aur 60 ko multiply karo aur number_2 variable mein value daalo
-* 80 aur 120 ko divide karo aur number_3 variable mein value daalo
-* 90 aur 23 ko subtract karo aur number_4 variable mein value daalo
+* Add 24 and 20 and put the value in the number_1 variable
+* Multiply 50 and 60 and put the value in the number_2 variable
+* Divide 80 and 120 and put the value in the number_3 variable
+* Subtract 90 and 23 and put the value in the number_4 variable
 
 
 ### Question (Part 2)
 
-Ab `input` ka use kar ke user se 2 numbers input lo.
-
-**Note: Yeh karne ke liye koi function banane ki zaroorat nahi hai.**
-
-Fir calculator function ko 4 baar call call kar ke inn dono numbers do add, subtract, multiply, divide karo aur result ko 4 alag variables mein daalo. Woh variables ka naam yeh hoga:
-
-* *add_result* add operation ka result store karega
-* *subtract_result* subtract operation ka result store karega
-* *multiply_result* multiple operation ka result store karega
-* *divide_result* divide operation ka result store karega
-
-Fir upar wale chaaron variables ko print karo.
+Now using `input` take 2 numbers input from the user.
 
 
-Final code ko submit karo :)
+**Note: Not neccesary to create any fuction.**
+
+Call the calculator function 4 times again and again to add, substract, multifly, divide the two numbers and show the result in 4 different variables. 
+Those variables would be named as:
+
+* *add_result*  (store the add operation result) 
+* *subtract_result* (store the subtract operation result) 
+* *multiply_result* (store the multiple operation result)
+* *divide_result* (store the divide operation result)
+
+Then print the above four variables.
+
+
+submit your final code :)
 
 ### Question (Part 2)
 
-`list_change` naam ka ek function ka code likho jo 2 lists jisme integers arguments ki tarah le aur fir unn lists ki woh items jo same index number (kram) pe hain unko multiply kar ke ek nayi list return karvaye.
+Write the code of a function named `list_change` which take 2 lists as integer arguments and then multiply the items of those lists which are on the same index number (order) and get them to return a new list.
 
-**Aapko multiply karne ke liye *calculator* function ka use karna hai. Normal tareeke se multiply nahi kar sakte ho.**
+**You have to use *calculator* function to multiply. Can't multiply normally.**
 
-Jaise agar hum function ko aise call karenge toh:
+If we call the function like this:
 
 ```python
 multiple_list = list_change([5, 10, 50, 20], [2, 20, 3, 5])
 ```
 
-Yahan *multiple_list* ki yeh value honi chaiye:
+Here the value should be *multiple_list* :
 
 ```python
 [10, 200, 150, 100]
 ```
 
-10, 5 aur 2 ko multiple kar ke aaya, 200 10 aur 20 ko multiple kar ke, 150 50 aur 3 ko, 100 20 aur 5 ko.
+10 is obtained by multiplying 5 and 2, 200 by multiplying 10 and 20, 150 by 50 and 3, 100 by 20 and 5.

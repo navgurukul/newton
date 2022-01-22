@@ -4,7 +4,7 @@ submission_type: url
 ```
 ## Question 5
 
-Ek function likhiye jo ki ek limit naam ka parameter lega aur 0 se limit tak ke beech ke number jo ki 3 aur 5 ke multiples hain unka sum print karega.jaisa ki niche dikhaya gya hai. 
+Define a function which takes one parameter(positive integer). This function returns the sum of all multiples of 3 and 5 (not neccessary common multiples) in the range 1 to the integer passed as the parameter.
 
 
 

@@ -4,7 +4,9 @@ name: Functions
 
 # Basics of Functions
 
-Function ek block of code hota hai jo ki run hota hai jab hum use call karte hai. Function mei hum data pass kar sekhte hai jise hum parameter kahete hai. Function data return karta hai. Functions ka use kar ke hum ek baar kuch code likh kar usko bahot baar use kar sakte hai. Isse humara kaam bahot aasan ho jata hai.
+Function is a code of block that only runs when it is called.
+In the function we pass the data which we call parameter. Function returns data.
+By using functions, we can write some code once and use it many times. This makes our work very easy.
 
 
 ```python
@@ -12,7 +14,7 @@ print("NavGurukul")
 
 def say_hello():
     print("Hello!")
-    print("Aap kaise ho?")
+    print("How are you?")
 
 say_hello()
 print("Python is awesome")
@@ -21,25 +23,25 @@ print("Hello…")
 say_hello()
 ```
 
-Isko chala ke dekho. Iski output kuch aisi aayegi:
+Run the code, it's output will be something like this.:
 
 
 NavGurukul
 Hello!
-Aap kaise ho?
+How are you?
 Python is awesome
 Hello!
-Aap kaise ho?
+How are you?
 Hello…
 Hello!
-Aap kaise ho?
+How are you?
 
 
-Dhayn se dekho ki code mein jahan bhi `say_hello()` likha hai, wahan `Hello!` aur `Aap kaise ho?` waali lines print ho gayi hain. Yeh isliye hua hai kyunki humne ek baar doosri line mein `def say_hello()` ka use kar ke ek function likh diya. Ab jab bhi yeh function call hoga toh iske andar waala code chal jayega. Iss tareeke se hum baar baar ek code ko user kar sakte hain.
+Note that wherever `say_hello()` is written in the code, there the lines `Hello!` and `How are you?` are printed. This happened because in the second line we used the function `def say_hello()`. Now whenever this function is called, the code inside it will run. In this way we can use the same code again and again.
 
 ## Introduction to Functions
 
-Functions ka use karke hum kuch code ek baar likh ke usse baar baar wahi kaam karva sakte hain. Aap abhi tak bahot functions ka use kar chuke ho. Iss code ko padho:
+By using functions, we can write some code once and make it do the same thing again and again. You have already used too many functions. Read this code:  
 
 ```python
 names_list = ["Fiza", "Shivam", "Imtiyaz", "Deepanshu", "Rahman"]
@@ -50,18 +52,19 @@ print(len(names_list))
 
 `5`
 
-Yahan `len(names_list)` ka use kar ke humne jana ki list mein kitne item hai. Ab hum apne code mein `len` ka use kar kisi bhi list ke items ki ginti kar sakte hain. Yahan `len` ek function hai. Functions ke bina humein list ki items ki ginti nikalne ke liye baar baar code likhna padega. Isko behtar samajhne hum aage wale examples mein iska code khud likhenge.
+Here by using `len(names_list)` we know how many items are in the list.  Now we can count the items of any list by using `len` in our code. Here `len` is the fuction. Without functions, we would have to write code again and again to get the count of the items in the list. To understand this better, we will write its code ourselves in the next example.
 
-Hum ek function likhenge. Iss code ko pehle chala ke dekho, aur fir neeche padiye iske baare mein samajhne ke liye.
+
+We will write a function. Try this code first, and then read below to understand about it.
 
 ```python
 def definition_say_hello():
     print("NavGurukul")
-    print("NavGurukul mei humein apni learning ki responsibility leni padti hai.")
+    print("In Navgurukul, we have to take responsibility for our learning.")
 
 definition_say_hello()
 
-print("NavGurukul mei hum sab logo ko ek tarah se treat karte hai.")
+print("In Navgurukul we treat all the people in the same way.")
 
 definition_say_hello()
 ```
@@ -70,87 +73,88 @@ definition_say_hello()
 
 NavGurukul
 
-NavGurukul mei humein apni learning ki responsibility leni padti hai.
+In Navgurukul, we have to take responsibility for our learning.
 
-NavGurukul mei hum sab logo ko ek tarah se treat karte hai.
+In Navgurukul we treat all the people in the same way.
 
 NavGurukul
 
-NavGurukul mei humein apni learning ki responsibility leni padti hai.
+In Navgurukul, we have to take responsibility for our learning.
 
 
-Ek aur example FUNCTIONS samajhne ke liye. Iss code ko padh ke output socho. Chala ke dekhne ke baad dhyan se padho.
+Another example to understand functions. Think of the output by reading this code. After trying this example, read carefully.
 
-1. Shuruat mein `def` ka use kar ke hum python ko bata rahe ki humne ek `definition_say_hello` naam ka function likha hai.
+1. By using `def` in the beginning, we are telling python that we have written a function name `definition_say_hello`
 ![](assets/function_defn_inst_1.png)
-2. Iss function ka code (do print karne ki lines) kuch indent (space) deke `def definition_say_hello()` ke neeche likha hua hai. Inn spaces se python samajh jata hai ki yeh function ka code hai.
+2. The code of this function (two lines to print) is written under `def definition_say_hello()`by giving some indent (space). With these spaces, Python understands that this is the code of the function.
 ![](assets/function_defn_inst_2.png)
-3. Fir agli line, `definition_say_hello()` mein humne function ko bulaya hai jisse function ke andar wala code chal jata hai. Isko **FUNCTION CALL** karna kehte hain.
+3. Then in the next line, `definition_say_hello()` we have called the function which runs the code inside the function. we can say  **FUNCTION CALL** 
 ![](assets/function_defn_inst_3.png)
-4. Iske baad print statement use kar ke humne ek string print kiya hai.
+4. After this using print statement we print one string.
 ![](assets/function_defn_inst_4.png)
-5. Aakhir mein humne firse `definition_say_hello()` likh ke function call ki hai. Ek aur baar function ek baar andar wale code ko chala deti hai. Isse andar waali jo function ke andar code hai - yaani - *2 print* command chal jati hai.
+5. Finally we called  the function again by writing`definition_say_hello()`. One more time the function runs the code inside once. With this the code inside the function - i.e. - *2 print* command runs.
 ![](assets/function_defn_inst_5.png)
 
 
 ```python
 def function_say_bye():
-    print("Aapko mil ke maza aaya. ")
+    print("It was fun meeting with you. ")
     print("Bye bye")
 function_say_bye()
 function_say_bye()
-print("Python ka istamaal bahot jagah hota hai.")
+print("Python is used a lot.")
 function_say_bye()
 function_say_bye()
  ```
 **Output :-**
 
 
-Aapko mil ke maza aaya. 
+It was fun meeting  withyou. 
 Bye bye
-Aapko mil ke maza aaya. 
+It was fun meeting with you. 
 Bye bye
-Python ka istamaal bahot jagah hota hai.
-Aapko mil ke maza aaya. 
+PPython is used a lot.
+It was fun meeting with you.
 Bye bye
-Aapko mil ke maza aaya. 
+It was fun meeting with you.
 Bye bye
 
+1. We create functions in python by using the `def` keyword. After `def` the name of the function, `function_say_bye` is written. After the name we put two brackets `(` `)`.
+2. The brackets are followed by a colon `:`. The python semicolon understands that the code of the function is starting.
+3. See that the entire function's code is written with an indent (space). Python understand that this is the code inside the function.
+4. The code after print `print ("Bye bye")` is written without space. Python understand that the code of block function has finished.
+5. Functions are also named according to the naming rules of variables.
+Once memorize the naming rules of variables.
 
-1. Hum python mein `def` keyword ka use kar ke function banate hain. `def` ke baad function ka naam, `function_say_bye` likha hain. Naam ke baad hum do bracket `(` `)` lagate hain.
-2. Bracket ke baad ek colon, `:` lagate hain. Python semicolon se samajh jaati hai ki function ka code shuru ho raha hai.
-3. Dekhiye ki sara function ka code indent (space) deke likha hua hai. Isse python ko samajh aata hai ki yeh function ke andar ka code hai.
-4. `print ("Bye bye")` ke baad code space diye bina likha hua hai. Isse python ko samajh aati hai ki function ka code kahatam ho gaya hai
-5. functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.
+## Understand the Function Call 
 
-## Function Call ko samajhna
-
-Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya nahi. Nahi aa raha toh kyun nahi aa rahi?
+Write the code below and see if any output is coming from it. If the output is not come then why is it not coming?
 
 ```python
 def definition_hello_again():
-    print("Firse Hello :)")
-    print("Aap kaise ho?")
+    print("Again Hello :)")
+    print("How are you?")
  ```
 
-Ab apne code mein yeh line add karein aur dekhein ki koi output aati hai.
+Now add this line to your code and see if any output comes.
 
 ```python
 def definition_hello_again():
-    print("Firse Hello :)")
-    print("Aap kaise ho?")
+    print("Again Hello :)")
+    print("How are you?")
 definition_hello_again()
  ```
 
 **Output :-**
 
-Firse Hello :)
-Aap kaise ho?
+Again Hello :)
+How are you?
 
 
-Python mein sirf function likh dene se function ka code chalta nahi hai. Yahan pehle humne def keyword ka use karke python ko function ka code bataya. Isko **"FUNCTION DEFINITION"** kehte hain.
+In Python, just writing the function does not run the code of the function. Here first we told python the code of the function by using the def keyword. It is called **"FUNCTION DEFINITION"**.
 
-Fir humne baad mein `definition_hello_again()` likh ke function ko bulaya aur usme likha hua code chalwaya. Isko **"FUNCTION CALL"** karna kehte hain. **"FUNCTION CALL"** mein hum function ke naam ke baad 2 bracket `(` `)` lagate hain. Isse python ko pata chalta hai ki function ke andar ka code chalana hai.
+Then we later called the function by writing `definition_hello_again()` and the written code try to run. It is called as **"FUNCTION CALL"**. In  **"FUNCTION CALL"** we put 2 brackets `(` `)` after the name of the function. This tells Python that the code inside the function has to run.
+
 
 @[youtube](https://www.youtube.com/watch?v=WkC7ktXM_8k)
 

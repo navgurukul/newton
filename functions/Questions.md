@@ -4,10 +4,10 @@ submission_type: url
 ```
 ## Pre-defined Functions Questions
 
-Ab aapko kuchh questions solve krna hai pre-define function ka use kr ke.
+Now you have to solve some questions by using the pre-define function.
 
 
-**Q1 .**  Aapko `max` function ka use krke di hue list me se sbse bada value print krvani hai.
+**Q1 .** You have to print the largest value out of the given list using the `max` function.
 
 
 `Input`
@@ -20,7 +20,7 @@ numbers = [3, 5, 7, 34, 2, 89, 2, 5]
 89
 
 
-**Q2.**  Aapko `sum` function ka use krke di hue list ke element ka sum  print krvana hai.
+**Q2.** You have to print the sum of the elements of the given list by using the `sum` function.
 
 `Input`
 
@@ -32,7 +32,7 @@ numbers = [1, 2, 3, 4, 5]
 15
 
 
-**Q3.** Aapko `sort` function ka use kr ke di hue list ko sort krna hai.
+**Q3.** Using `sort` function sort the given list.
 
 `Input:-`
 
@@ -45,7 +45,7 @@ unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]
 `unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]`
 
 
-**Q4.** `reverse` function ka use kr ke aapko di hue list ka revrse print krna hai.
+**Q4.** By using `reverse` function print the reverse order of the list.
 
 `Input:-`
 
@@ -58,7 +58,7 @@ reverse_list = ["Z", "A", "A", "B", "E", "M", "A", "R", "D"]
 `reverse_list = ["D", "R", "A", "M", "E", "B", "A", "A", "Z"]`
 
 
-**Q5.** Aapko `min` function ka use krke di hue list me se sbse chhoti value print krvani hai.
+**Q5.** Use the `min` function and find the minimun value of the list.
 
 `Input:-`
 

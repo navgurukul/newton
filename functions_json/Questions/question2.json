@@ -6,7 +6,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Ek perfect() naam ka function define kijiye jo ki ek parameter lega aur uss parameter ko hume check karana hai ki vo perfect number hain ya nahi. Iske baad uss function ko use karke ek program likhiye jo ki 1 se 1000 tak sabhi perfect numbers ko print kare.[ hum ek aise <span style=\"\">integer</span> number ko perfect number kahenge jo ki uske sabhi factors ( including 1 &amp; excluding itself) ka sum uss number ke barabar hota hai. "
+		"value": "Perfect Number?<br>A perfect number is the one which is equal to the sum of all it's factors(including 1 and excluding itself)."
+	},
+	{
+		"component": "text",
+		"value": "Define a function named perfect() which takes one argument(<span style=\"\">integer</span>) and checks if it is a perfect number or not. Now use this <span style=\"\">code</span> to write a program that prints all the perfect numbers between 1-1000. "
 	},
 	{
 		"component": "text",

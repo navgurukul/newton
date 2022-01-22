@@ -5,7 +5,10 @@ submission_type: url
 
 ## Question 2 
 
-Ek perfect() naam ka function define kijiye jo ki ek parameter lega aur uss parameter ko hume check karana hai ki vo perfect number hain ya nahi. Iske baad uss function ko use karke ek program likhiye jo ki 1 se 1000 tak sabhi perfect numbers ko print kare.[ hum ek aise integer number ko perfect number kahenge jo ki uske sabhi factors ( including 1 & excluding itself) ka sum uss number ke barabar hota hai. 
+Perfect Number?
+A perfect number is the one which is equal to the sum of all it's factors(including 1 and excluding itself).
+
+Define a function named perfect() which takes one argument(integer) and checks if it is a perfect number or not. Now use this code to write a program that prints all the perfect numbers between 1-1000. 
 
 `Example:-`
 

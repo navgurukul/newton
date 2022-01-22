@@ -7,10 +7,10 @@ submission_type: url
 
 ### Question 3 (Part 1)
 
-Apko students naam ka ek function define karna hai or uss function mai  list of students name as a parameter pass karna hai(List ka use nahi karna hai)
+You have to define a function named students and pass a parameter to that function which takes a list of students name(don't use the List)
+
 
 
 ### Question 3 (Part 2)
 
-Apko isGreaterThen20 naam ka function define karna hai jismai apko function mai do parameter pass karane hai or first parameter by default 20 hi hona chahiye.
-
+You have to define a function named isGreaterThan20  in which you have to pass two parameters to the function and the first parameter by default should be 20.

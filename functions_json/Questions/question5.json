@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Ek function likhiye jo ki ek limit naam ka parameter lega aur 0 se limit tak ke beech ke number jo ki 3 aur 5 ke multiples hain unka sum print karega.jaisa ki niche dikhaya gya hai. "
+		"value": "Define a function which takes one parameter(positive <span style=\"\">integer</span>). This function returns the sum of all multiples of 3 and 5 (not neccessary common multiples) in the range 1 to the <span style=\"\">integer</span> passed as the parameter."
 	},
 	{
 		"component": "text",

@@ -5,11 +5,12 @@ submission_type: url
 
 ## Question 4
 
-Yeh question 2 parts mein hai. Dono parts ka code same file mein likh ke submit karein.
+This question is in 2 parts. Submit the code of both the parts by writing them in the same file.
+
 
 ### Question (Part 1)
 
-`add_numbers` naam ka function likhiye jo do numbers ko arguments ke tarah le aur fir unka sum print karta hai. Arguments ka naam `number1` aur `number2` hona chaiye.
+Write a function named `add_numbers` which takes two numbers as arguments and then prints their sum. The name of the arguments should be `number1` and `number2`.
 
 
 `Input :-`
@@ -26,11 +27,13 @@ add_numbers(num1,num2)
 
 
 ## Question (Part 2)
-`add_numbers_list` naam ka function likhiye jo do integers ki 2 lists leta ho aur fir same position wale integers ka sum print karta ho.
 
-Same position waale 2 integers ka sum karne ke liye Part 1 mein di gayi add_numbers waale function ka use karo.
+Write a function named `add_numbers_list` which takes 2 lists of two integers and then prints the sum of the integers with the same position.
 
-Jaise agar hum iss function ko [50, 60, 10] aur [10, 20, 13] denge ko woh yeh print karega
+Use the add_numbers function given in Part 1 to count 2 integers that have the same position.
+
+If we give [50, 60, 10] and [10, 20, 13] to this function it will print this
+
 
 60
 ---------------

@@ -3,7 +3,6 @@ question3_key2
 
 
 
-
 ```python
 
 Def Avg(number1,number2,number3):

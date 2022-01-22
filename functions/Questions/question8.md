@@ -5,8 +5,8 @@ submission_type: url
 
 ## Question 8
 
-Ek function likho jo ki ek 
-argument le jo number ho or dictionary return karega jisme keys 1 se lekar argument ke number tak hogi aur values unke squares honge.jaisa ki niche dikhaya gaya hai.
+Create a function which takes one argument (a positive integer) and returns a dictionary which has numbers from 1 to the integer (passed as parameter) as the keys and their respective squares as the values as shown in the examble below.
+
 
 
 `Input :-`

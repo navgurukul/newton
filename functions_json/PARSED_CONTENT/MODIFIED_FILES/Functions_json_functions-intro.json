@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print(\"NavGurukul\")<br><br>def say_hello():<br>&emsp;print(\"Hello!\")<br>&emsp;print(\"Aap kaise ho?\")<br><br>say_hello()<br>print(\"Python is awesome\")<br>say_hello()<br>print(\"Hello…\")<br>say_hello()"
+    "value": "print(\"NavGurukul\")<br><br>def say_hello():<br>&emsp;print(\"Hello!\")<br>&emsp;print(\"How are you?\")<br><br>say_hello()<br>print(\"Python is awesome\")<br>say_hello()<br>print(\"Hello…\")<br>say_hello()"
   },
   {
     "component": "text",
@@ -61,7 +61,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def definition_say_hello():<br>&emsp;print(\"NavGurukul\")<br>&emsp;print(\"NavGurukul mei humein apni learning ki responsibility leni padti hai.\")<br><br>definition_say_hello()<br><br>print(\"NavGurukul mei hum sab logo ko ek tarah se treat karte hai.\")<br><br>definition_say_hello()"
+    "value": "def definition_say_hello():<br>&emsp;print(\"NavGurukul\")<br>&emsp;print(\"In Navgurukul, we have to take responsibility for our learning.\")<br><br>definition_say_hello()<br><br>print(\"In Navgurukul we treat all the people in the same way.\")<br><br>definition_say_hello()"
   },
   {
     "component": "text",
@@ -135,7 +135,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def function_say_bye():<br>&emsp;print(\"Aapko mil ke maza aaya. \")<br>&emsp;print(\"Bye bye\")<br>function_say_bye()<br>function_say_bye()<br>print(\"Python ka istamaal bahot jagah hota hai.\")<br>function_say_bye()<br>function_say_bye()"
+    "value": "def function_say_bye():<br>&emsp;print(\"It was fun meeting with you. \")<br>&emsp;print(\"Bye bye\")<br>function_say_bye()<br>function_say_bye()<br>print(\"Python is used a lot.\")<br>function_say_bye()<br>function_say_bye()"
   },
   {
     "component": "text",
@@ -198,7 +198,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def definition_hello_again():<br>&emsp;print(\"Firse Hello :)\")<br>&emsp;print(\"Aap kaise ho?\")"
+    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")"
   },
   {
     "component": "text",
@@ -208,7 +208,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def definition_hello_again():<br>&emsp;print(\"Firse Hello :)\")<br>&emsp;print(\"Aap kaise ho?\")<br>definition_hello_again()"
+    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")<br>definition_hello_again()"
   },
   {
     "component": "text",

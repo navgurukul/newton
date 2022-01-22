@@ -1,4 +1,4 @@
-Niche diye gye code snippet ki output kya hogi?
+What will be the output of the code given below?
 
 ```python
 def checkKey():

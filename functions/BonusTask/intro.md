@@ -3,15 +3,15 @@ name:  Becoming  A Programmer
 submission_type: url
 ```
 ## Becoming A Programmer
-Iss Task mai apko function ke bare mai six new concepts padne hai.
+In this task we learn about six new concepts of functions.
 
-Phele apko function ke three new concepts python ki website se padna hai.
+First go through the following three concepts of functions from the python webite.
 
 - https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 
-Fir aap function ke three new concepts **Stackoverflow** se padh hai.
+Then learn these three concepts of functions from the **Stackoverflow**
 
+As per your understanding of the concepts make one google doc and share it with your mentor.Also do some questions related to concepts.
 
-App ek google doc par apni understand likh kar apne mentor se share karenge aur concepts se related kuch questions bhi karenge.
+Whatever you learn,take atleast one class on it.
 
-App ek class lenge jisme apne jo new concepts sikhe hai woh explain karenge.

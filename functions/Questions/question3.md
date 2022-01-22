@@ -4,11 +4,11 @@ submission_type: url
 ```
 ## Question 3
 
-3. Ek function banaiye jo 3 numbers ka sum aur average print kare.Hum user se 3 number input karwayenge aur fir unn 3 numbers ka sum aur average print karwayenge jaisa ki niche output diya hua hain.
+3. Create a function which takes 3 arguments(all integers) and prints their sum and average as shown below.
 
 `Input:-` 
 
-enter first number :-3
+Enter first number :-3
 
 Enter second number :-4
 

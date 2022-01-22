@@ -8,7 +8,7 @@ print("NavGurukul")
 
 def say_hello():
     print("Hello!")
-    print("Aap kaise ho?")
+    print("How are you?")
 
 say_hello()
 print("Python is awesome")
@@ -46,17 +46,18 @@ functions-intro_key9
 functions-intro_key10
 
 
+
 functions-intro_key11
 
 
 ```python
 def definition_say_hello():
     print("NavGurukul")
-    print("NavGurukul mei humein apni learning ki responsibility leni padti hai.")
+    print("In Navgurukul, we have to take responsibility for our learning.")
 
 definition_say_hello()
 
-print("NavGurukul mei hum sab logo ko ek tarah se treat karte hai.")
+print("In Navgurukul we treat all the people in the same way.")
 
 definition_say_hello()
 ```
@@ -85,11 +86,11 @@ functions-intro_key18
 
 1. functions-intro_key19
 ![](assets/function_defn_inst_1.png)
-2. Iss function ka code (do print karne ki lines) kuch indent (space) deke `def definition_say_hello()functions-intro_key20
+2. The code of this function (two lines to print) is written under `def definition_say_hello()`by giving some indent (space)functions-intro_key20
 ![](assets/function_defn_inst_2.png)
 3. functions-intro_key21
 ![](assets/function_defn_inst_3.png)
-4. Iske baad print statement use kar ke humne ek string print kiya hai.
+4. After this using print statement we print one string.
 ![](assets/function_defn_inst_4.png)
 5. functions-intro_key22
 ![](assets/function_defn_inst_5.png)
@@ -100,32 +101,32 @@ functions-intro_key18
 **Output :-**
 
 
-Aapko mil ke maza aaya. 
+It was fun meeting  withyou. 
 Bye bye
-Aapko mil ke maza aaya. 
+It was fun meeting with you. 
 Bye bye
-Python ka istamaal bahot jagah hota hai.
-Aapko mil ke maza aaya. 
+PPython is used a lot.
+It was fun meeting with you.
 Bye bye
-Aapko mil ke maza aaya. 
+It was fun meeting with you.
 Bye bye
 
+1. We create functions in python by using the def keyword. After def the name of the function, function_say_bye is written. After the name we put two brackets ( ).
+2. The brackets are followed by a colon :. The python semicolon understands that the code of the function is starting.
+3. See that the entire function's code is written with an indent (space). Python understand that this is the code inside the function.
+4. The code after print print ("Bye bye") is written without space. Python understand that the code of block function has finished.
+5. Functions are also named according to the naming rules of variables.
+Once memorize the naming rules of variables.
 
-1. Hum python mein def keyword ka use kar ke function banate hain. def ke baad function ka naam, function_say_bye likha hain. Naam ke baad hum do bracket ( ) lagate hain.
-2. Bracket ke baad ek colon, : lagate hain. Python semicolon se samajh jaati hai ki function ka code shuru ho raha hai.
-3. Dekhiye ki sara function ka code indent (space) deke likha hua hai. Isse python ko samajh aata hai ki yeh function ke andar ka code hai.
-4. print ("Bye bye") ke baad code space diye bina likha hua hai. Isse python ko samajh aati hai ki function ka code kahatam ho gaya hai
-5. functions ko bhi variables ko naam dene ke rules ke hisaab se hi naam dete hain. yaad rakhne ke liye ek baar variables ko naam dene ke rules yaad rakh li jiye.
+## Understand the Function Call 
 
-## Function Call ko samajhna
-
-Neeche diye gaye code ko likhiye aur dekhiye ki iska koi output aa raha hai ya nahi. Nahi aa raha toh kyun nahi aa rahi?
+Write the code below and see if any output is coming from it. If the output is not come then why is it not coming?
 
 ```
 ```python
 def definition_hello_again():
-    print("Firse Hello :)")
-    print("Aap kaise ho?")
+    print("Again Hello :)")
+    print("How are you?")
  ```
 
 functions-intro_key24
@@ -133,8 +134,8 @@ functions-intro_key24
 
 ```python
 def definition_hello_again():
-    print("Firse Hello :)")
-    print("Aap kaise ho?")
+    print("Again Hello :)")
+    print("How are you?")
 definition_hello_again()
  ```
 
@@ -149,6 +150,7 @@ functions-intro_key27
 
 
 functions-intro_key28
+
 
 
 @[youtube](https://www.youtube.com/watch?v=WkC7ktXM_8k)

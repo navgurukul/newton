@@ -56,7 +56,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def say_hello(name):<br>&emsp;print(\"Hello \", name)<br>&emsp;print(\"Aap kaise ho?\")<br>say_hello(\"Aatif\")"
+    "value": "def say_hello(name):<br>&emsp;print(\"Hello \", name)<br>&emsp;print(\"How are you?\")<br>say_hello(\"Aatif\")"
   },
   {
     "component": "text",
@@ -123,7 +123,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def add_numbers(number1, number2):<br>&emsp;print(\"Main do numbers ko add karunga.\")<br>&emsp;print(number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
+    "value": "def add_numbers(number1, number2):<br>&emsp;print(\"I will add two numbers.\")<br>&emsp;print(number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
   },
   {
     "component": "text",
@@ -264,7 +264,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>&emsp;print(\"Namaste \", name_x) # hindi mein<br>&emsp;print(\"Alah hafiz \", name_y) # urdu mein<br>&emsp;print(\"Bonjour \", name_z) # french mein<br>&emsp;print(\"Hello \", name_a) # english mein<br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
+    "value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>&emsp;print(\"Namaste \", name_x) # In hindi<br>&emsp;print(\"Alah hafiz \", name_y) # In urdu <br>&emsp;print(\"Bonjour \", name_z) # In french <br>&emsp;print(\"Hello \", name_a) # In english <br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
   },
   {
     "component": "text",

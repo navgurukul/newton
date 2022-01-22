@@ -27,7 +27,6 @@ functions-return_values_key4
 functions-return_values_key5
 
 
-
 * functions-return_values_key6
 * functions-return_values_key7
 * functions-return_values_key8
@@ -35,6 +34,9 @@ functions-return_values_key5
 * functions-return_values_key10
 * functions-return_values_key11
 functions-return_values_key12
+
+
+
 
 
 ```python
@@ -57,7 +59,6 @@ functions-return_values_key15
 functions-return_values_key16
 
 
-
 functions-return_values_key17
 
 
@@ -72,6 +73,7 @@ functions-return_values_key19
 
 
 functions-return_values_key20
+
 
 
 functions-return_values_key21
@@ -90,7 +92,7 @@ def add_numbers_more(number_x, number_y):
     print("Hello from NavGurukul ;)")
     return number_sum
     number_sum = number_x + number_x
-    print("Kya main yahan tak pahunchunga?")
+    print("Will i reach here?")
     return number_sum
 
 sum6 = add_numbers_more(100, 20)
@@ -99,6 +101,8 @@ functions-return_values_key25
 
 
 functions-return_values_key26
+
+
 
 
 * functions-return_values_key27
@@ -116,7 +120,7 @@ def menu(day):
     else:
         return "Chole Bhature"
 
-    print("Kya main print ho payungi? :-(")
+    print("Will I be able to print? :-(")
 
 mon_menu = menu("monday")
 print(mon_menu)
@@ -133,9 +137,7 @@ functions-return_values_key32
 
 
 
-functions-return_values_key33
-
-
+* functions-return_values_key33
 * functions-return_values_key34
 * functions-return_values_key35
 * functions-return_values_key36
@@ -151,15 +153,16 @@ def menu(day):
         food = "Mutton Chaap"
     else:
         food = "Chole Bhature"
-    print("Kya main print ho payungi? :-(")
+    print("Will I be able to print? :-(")
     return food
-    print("Lekin main toh pakka nahi print hounga :'(")
+    print("But I'm not sure will print? :'(")
 print(menu("monday"))
 ```
 functions-return_values_key39
 
 
 functions-return_values_key40
+
 
 
 functions-return_values_key41

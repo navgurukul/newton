@@ -5,9 +5,9 @@ submission_type: url
 
 # How to return a value from a function?
 
-Kuch functions jo humne use kare hain, vapas kuch value dete hain. Matlab kuch data vapas dete hain. Abhi tak humne aise functions likhe hain jo kuch bhi vapas nahi dete. 
+We used some functions which returned some values, that is, returned some data.we've written functions that don't return anything.
 
-Ek simple addition ka function likhte hain jo data vapas deta hai.
+Write a simple addition function that returns the data.
 
 ```python
 def add_numbers(number_x, number_y):
@@ -32,15 +32,18 @@ print(number_a)
 1246
 10.0
 
+* Here we have defined the function in the same way as we have been defining the functions till now. But in the last line in the function you will see something new.
+* In the last line, we have used the `return` statement to tell the function that it will return the value of `number_sum`
+* Since this function is returning the value of `number_sum`, we can easily store this value in a variable.
+* Like we have put the value of the sum of `20` and `40` in the `sum1` variable, which is 60.
+* We have returned a value from the function by using `return` in the last line of **function definition**. We call this the return statement. 'Return' means to give back.
+* Functions that return some value, we can do very interesting things with those functions, Have a look in the line `number_a = add_numbers(20,40) / add_numbers(5,1)`. Here we have called two add_numbers in one statement and then the result of both of them (60 of the first and 6 of the second) is divided by these functions, which returns something, We can do that in such a statement. We have done in the division line.
 
-* Yahan humne function ussi tareeke se define kara hai jaise hum abhi tak functions ko define karte aaye hain. Lekin sirf function mein last line aap kuch naya dekhoge.
-* Last line mein humne `return` statement ka use kar ke function ko yeh bataya hai ki voh `number_sum` ki value ko vapas karega
-* Kyunki yeh function `number_sum` ki value vapas kar raha hai, hum iss value ko ek variable mein aasani se daal sakte hain.
-* Jaise humne neeche waali lines mein `sum1` variable mein `20` aur `40` ke sum ki value, 60 daal di hai
-* Humne **function definition** ki last line mein `return` ka use kar ke ek value vapas karvai hai function se. Hum isko return statement bolte hain. `Return` ka matlab hi vapas dena hota hai
-* Jo functions kuch values return karte hain, hum unn functions ke saath kaafi interesting kaam kar sakte hain jaise `number_a = add_numbers(20,40) / add_numbers(5,1)` waali line ko dekho. Yahan humne ek statement mein do add_numbers ko call kiya hai aur fir unn dono ka jo result mila (pehle ka 60 aur dusre ka 6) usko divide kar diya hai Yeh functions jo kuch return karte hain, hum unka use aise kisi statement mein kar sakte hain. Jaise humne division wali line mein kara hai.
 
-Hum same function ko return value ke bina likhte hain.
+We write the same function without the return value.
+
+
+
 
 ```python
 def add_numbers_print(number_x, number_y):
@@ -56,12 +59,11 @@ print(type(sum4))
 None
 <class 'NoneType'>
 
-Humne yahan same upar wale function ka code likha hai, lekin return statement ka use nahi kiya. Iss vajah se hume yeh function kuch return nahi karega Kyunki yeh function kuch return nahi karta hai, hum apne numbers ke sum ko dusre variable mein nahi daal sakte jaise humne pichle example mein kiya tha.
+We have written the code of the above function here, but did not use the return statement. Because of this, this function will not return anything to us because this function does not return anything, We cannot put the sum of our numbers in another variable like we did in the previous example.
 
-Yahan agar aap `sum4` ki value dekhoge toh woh `None` dikhayega. `None` ka matlab hota hai kuch nahi. Basically jo numbers value nahi return karte woh "kuch nahi" return karte hain `None` python mein ek alag tareeke ki type hai integer, float etc. ki tarah. `print (type(sum4))` waali line mein dekhoge ki woh sum4 ki type ko NoneType dikhayega. Iska matlab hota hai ki isme kuch nahi hai.
+Here if you will see the value of `sum4`' then it will show `None`. `None` means nothing. Simply numbers that do not return a value return "nothing". `None` is a data type in python. In the line containing `print (type(number4))` you will see that it will show the type of sum4 as None type. It means that there is nothing in it.
 
-
-Ek baar yeh neeche wale code ko padho aur socho ki kya hoga,. Ab usko chalao aur dekho ki aapne sahi socha tha
+Read the code below and think what will happen.Now run the code and see if you thought right
 
 ```python
 number_b = add_numbers_print(5, 4) / add_numbers_print(2, 1)
@@ -71,15 +73,16 @@ number_b = add_numbers_print(5, 4) / add_numbers_print(2, 1)
 TypeError: unsupported operand type(s) for /: 'NoneType' and 'NoneType'
 
 
-Yahan humne basically aise function ki values ko divide karne ki koshish kari hai jo koi value return nahi karta. Humne abhi padha tha ki jo function return nahi karte , woh None (matlab kuch nahi) return karte hain. Jab hum yahan None ko None se divide karte hain toh python baukhla jata hai aur samajh nahi pata ki kya karna hai. Iss vajah se error return kar deta hai. Python hume error mein bhi yahi bolta hai:
+Here we have tried to simply divide the values ​​of a function that does not return any value. We just read that the functions which do not return, return None (meaning nothing). When we divide None by None here, Python gets freaked out and doesn't know what to do. Because of this the error returns. Python tells us the same in error:
+
 
 **`unsupported operand type(s) for /: 'NoneType' and 'NoneType'`**
 
-Iska matlab yeh hai ki Python NoneType ki value ko NoneType ki value se hi divide nahi kar  aur iss chakar mein error aa gayi hai.
+This means that Python is not dividing the value of NoneType by the value of NoneType itself and an error has occurred.
 
 ## Understandng function execution with a return statement
 
-Iss example ko chalane se pehle, iska code padh ke socho ki yeh function kya return karega aur kya print karega jab hum isko 2 integer argument denge.
+Before running this example, read its code and think about what this function will return and what it will print when we give 2 integer arguments to it.
 
 ```python
 def add_numbers_more(number_x, number_y):
@@ -87,7 +90,7 @@ def add_numbers_more(number_x, number_y):
     print("Hello from NavGurukul ;)")
     return number_sum
     number_sum = number_x + number_x
-    print("Kya main yahan tak pahunchunga?")
+    print("Will i reach here?")
     return number_sum
 
 sum6 = add_numbers_more(100, 20)
@@ -96,11 +99,15 @@ sum6 = add_numbers_more(100, 20)
 
 Hello from NavGurukul ;)
 
-* Yahan yeh function "Hello from NavGurukul ;)" print karega aur 120 ki value return karega. Yeh 120 ki value "return number_sum" waali line ka use kar ke return karega.
-* `sum6` ki value 120 ho jayegi
-* Pehli `return number_sum` waali line se neeche aapne jo bhi code likha hai uss code mein se kuch bhi nahi chalega. Yeh isliye nahi chalega kyunki function chalate hue jab python ko ek return statement milti hai, toh python uss return statement ka use kar ke value return kar deta hai aur fir uske neeche wala koi bhi code nahi chalata hai.
 
-Thodi aur depth mein jake mein function execution samajhte hain python mein. Pehle iss code ko run kare bina samjahne ki try karo. Fir ek baar run kar ke dekho.
+
+* Here this function will print "Hello from Navgurukul ;)" and return the value of 120. It will return the value of 120 using the line "return number_sum".
+
+* The value `sum6` will become 120.
+
+* Whatever code you have written below the first `return number_sum` line, none of that code will work. This won't work because python receives a return statement while the function is running, So Python returns the value using that return statement and then none of the code below runs.
+
+In a little more depth, Understand execution of function in Python. Try to understand without running this code first. Then run it once and see.
 
 ```python
 def menu(day):
@@ -111,7 +118,7 @@ def menu(day):
     else:
         return "Chole Bhature"
 
-    print("Kya main print ho payungi? :-(")
+    print("Will I be able to print? :-(")
 
 mon_menu = menu("monday")
 print(mon_menu)
@@ -128,14 +135,17 @@ Mutton Chaap
 Chole Bhature
 
 
-Humara `menu` function `day` argument ke hisaab se uss din ki menu ki item ki value return kar deta hai
+* Our 'menu' function returns the value of the menu item of that day based on the 'day' argument.
 
-* Yahan mon_menu mein "Butter Chicken" ki value hogi kyunki humari if-elif-else statement yahan dekhti hai ki din "monday" diya hua hai toh "Butter Chicken" return kar deti hai. Jaise hi python ko return statement dikhti hai woh "Butter Chicken" return kar deti hai aur function chalna banda ho jata hai. Iss vajah se aakhir waali print command nahi chalti. Kyunki uss print command se pehle hi humesha return statement ki vajah se function chalna band ho jata hai
-* Aise hi jab day ki value "tuesday" hoti hai toh return "Mutton Chaap" waali return statement execute ho jati hai
-* Aur jab "monday" aur "tuesday" dono hi nahi hote, toh return "Chole Bhature" wali return statement execute ho jati hai.
-* **Lekin kyunki if-elif-else ke andar se hi return statement execute ho jaati hai, humara program kabhi bhi aakhir wali if statement tak pahunchta hi nahi hai aur woh kabhi print nahi hoti.**
+* Here mon_menu will have the value of "Butter Chicken" because our if-elif-else statement here sees that the day is given as "Monday" then return the "Butter-Chicken". As soon as python sees the return statement, it returns "butter chicken" and the function stops running. Because of this the last print command does not run. Because even before that print command, the return statement always causes the function to stop running.
 
-Ab hum same function iss dhang se likhenge ki aakhri wali print command bhi run hoye aur `"Kya main priunt ho payungi? :-("` waali line print ho paye :D
+* Similarly when the value of day is "tuesday" then the return statement with return "Mutton Chaap" is executed
+
+* And when both "Monday" and "Tuesday" are not there, the return statement with "Chole Bhature" gets executed.
+
+* **But the return statement is executed from inside if-elif-else, Our program never reaches the last if statement and it is never printed.**
+
+Now we will write the same function in such a way that the last print command is also run. and `Will I be able to print? :-("` print the line :
 
 ```python
 def menu(day):
@@ -145,14 +155,16 @@ def menu(day):
         food = "Mutton Chaap"
     else:
         food = "Chole Bhature"
-    print("Kya main print ho payungi? :-(")
+    print("Will I be able to print? :-(")
     return food
-    print("Lekin main toh pakka nahi print hounga :'(")
+    print("But I'm not sure will print? :'(")
 print(menu("monday"))
 ```
 **Output :-**
 
-Kya main print ho payungi? :-(
+Will I be able to print? :-(
 Butter Chicken
 
-Yahan humne if-elif-else mein directly return statement ka use nahi kiya. Humne ek `food` naam ke variable mein woh value store karva li jo humne return karvani thi. Ab Jab if-elif-else chal jata hai, toh humara program uske neeche wali print statement pe pahunchta hai. Kyunki python ko abhi tak koi return statement nahi mili hai, woh print command chalata hai. Print karne ke baad woh return statement se *food* variable ki value return kar deta hai Lekin jo akhri wali print statement hai woh nahi print hoyegi. Kyunki uss print statement se pehle return statement chal jati hai aur uski vajah se python needche walai print statement tak pahunchti hi nahi hai
+
+Here we have not used return statement in if-elif-else directly. We took the variable name `food` and stored value which we want into. Now when if-elif-else is run, our program proceeds to the print statement below it. Because python has not yet received a return statement, the print command runs. After printing it returns the value of *food* variable from the return statement but the last one which is the print statement will not get printed. Because the return statement is run before that print statement and because of that python does not reach the required print statement
+

@@ -4,7 +4,7 @@ submission_type: url
 ```
 ## Question 4
 
-Niche diye gye code snippet ki output kya hoga?
+What will be the output of the code given below?
 
 
 ```python

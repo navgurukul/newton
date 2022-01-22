@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Abhi tak humne jo bhi functions <span style=\"\">code</span> kare hain, unme kuch bahot simple print <span style=\"\">statements</span> hain. Hum aise functions bhi likh sakte hain jo kuch data leke uss data ke saath kuch karte hain. Iss <span style=\"\">code</span> ko chala ke dekho."
+		"value": "Some of the functions we've <span style=\"\">code</span>d so far using by simple print <span style=\"\">statements</span>. We can also write functions that take some data and do something with that data. Run this <span style=\"\">code</span>."
 	},
 	{
 		"component": "code",
@@ -20,19 +20,19 @@
 	},
 	{
 		"component": "text",
-		"value": "Yahan humne <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">numbers_list</span> di aur usne usme se sabse badi value hume de di. "
+		"value": "Here we give <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">numbers_list</span> to the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function and it gives us the largest value out of it."
 	},
 	{
 		"component": "text",
-		"value": "<b>max</b> function, <span style=\"\">python</span> ka ek pre-defined function hai jise hum use kar sakte hai aur iske liye hume def max( ) likh kar usme <span style=\"\">code</span> likhne ki koi jarurat nahi hai kyuki <span style=\"\">python</span> banane wale ne humare liye ye kaam pehle hi kar diya hai."
+		"value": "<b>max</b> function, is one of the pre-define function, where no need to defined the def max() to write the <span style=\"\">code</span> of block because the creator of <span style=\"\">Python</span> has already done this work for us."
 	},
 	{
 		"component": "text",
-		"value": "Aise hi len function bhi ek list leke hume list mein items ki ginti deta hai."
+		"value": "Similarly, the len function also takes a list and gives us the count of items in the list."
 	},
 	{
 		"component": "text",
-		"value": "len( ) function ka use hum kisi array ya sequence ki length find karne ke liye karte hai.Yeh  bhi <span style=\"\">python</span> mai pre-define function hai."
+		"value": "We use the len( ) function to find the length of an array or sequence. It is also the <span style=\"\">python</span> pre-define function."
 	},
 	{
 		"component": "text",
@@ -50,13 +50,13 @@
 	},
 	{
 		"component": "text",
-		"value": "Neeche diye gaye <span style=\"\">code</span> ko chala ke dekho aur ek baar socho ki kya ho raha hai."
+		"value": "Try the <span style=\"\">code</span> below and see what is happening."
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def say_hello(name):<br>&emsp;print(\"Hello \", name)<br>&emsp;print(\"Aap kaise ho?\")<br>say_hello(\"Aatif\")"
+		"value": "def say_hello(name):<br>&emsp;print(\"Hello \", name)<br>&emsp;print(\"How are you?\")<br>say_hello(\"Aatif\")"
 	},
 	{
 		"component": "text",
@@ -64,19 +64,19 @@
 	},
 	{
 		"component": "text",
-		"value": "Hello , Aatif<br>Aap kaise ho?"
+		"value": "Hello , Aatif<br>How are you?"
 	},
 	{
 		"component": "text",
-		"value": "Yahan humne function ko ussi tareeke se define kiya hai jaise pichle examples mein kiya tha. Lekin dhyan se dekho toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def say_hello</span> ke baad brackets mein humne <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> likha hai aur, aur neeche ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> <span style=\"\">variable</span> ko print command ke saath use kar rahe hain. Yahan name ko <i>parameter</i> kehte hain jiski value hum function call karne ke time de sakte hain. Aakhri line mein function call karte vakt humne brackets ke andar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Aatif\"</span> likha hai. Function call karte vakt hum jo parameters ko value dete hain, unko arguments kehte hain."
+		"value": "Here we have defined the function in the same way as in the previous example. Notice that the after <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def say_hello</span> in the function brackets we write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and the bellow of that we write the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> <span style=\"\">variable</span> with the  print command. Here the name is called * parameter * whose value we can give at the time of calling the function.While calling the function in the last line, we have written <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Atif\"</span> inside the brackets. The parameters we assign values ​​while calling a function are called arguments."
 	},
 	{
 		"component": "text",
-		"value": "Toh basically humne iss example mein yeh kiya aur seekha:"
+		"value": "In this example we learn:"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello</span> naam ka ek function define kiya jo ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> naam ka parameter leta hai aur uska use kar ke kuch print karta hai",
+		"value": "Defined a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello</span> which takes a parameter named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and prints something using that",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -84,7 +84,7 @@
 	},
 	{
 		"component": "text",
-		"value": "fir humne function call kiya aur function call karne ke time ek argument diya jiski value \"Aatif\" thi",
+		"value": "Then we called the function and at the time of calling the function, we gave an argument whose value was \"Atif\"",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -92,7 +92,7 @@
 	},
 	{
 		"component": "text",
-		"value": "jab yeh function call hota hai toh jo humne string \"Aatif\" argument diya hai. Yahan uski value name parameter mein jaati hai aur. Jab yeh value",
+		"value": "When this function call then which we have given string \"Atif\" argument. Here its value goes to the name parameter and this value",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -100,7 +100,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> parameter mein jaati hai, toh woh function ke andar same naam ke variable mein use kar sakte hain. Humne iss variable ka naam use kar ke print command likhi hai.",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span>  is passed to the parameter, so he can pass it inside the function to a variable named 'name'. We have written the print command by  using variable name.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -108,7 +108,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<b>Note: Yeh thoda sa mushkil concept, agar bahot ache se samajh nahi aaya, toh ek aur baar padh ke aur dusre examples dekh ke zaroor samajh aa jayega ;-)</b>"
+		"value": "<b>Note: This is a tricky concept, if you do not understand it very well, then you will definitely understand by reading it once and looking at other examples. ;-)</b>"
 	},
 	{
 		"component": "header",
@@ -117,13 +117,13 @@
 	},
 	{
 		"component": "text",
-		"value": "Abhi tak humne ek function argument ke saath hi <span style=\"\">code</span> likha hai. Ab hum thode aur function arguments ke saath <span style=\"\">code</span> likhte hain."
+		"value": "We have written the <span style=\"\">code</span> with only one function argument. Now let's write the <span style=\"\">code</span> with a few more function arguments."
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def add_numbers(number1, number2):<br>&emsp;print(\"Main do numbers ko add karunga.\")<br>&emsp;print(number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
+		"value": "def add_numbers(number1, number2):<br>&emsp;print(\"I will add two numbers.\")<br>&emsp;print(number1 + number2)<br>add_numbers(120, 50)<br>num_x = 134<br>name = \"Rinki\"<br>add_numbers(num_x, name)"
 	},
 	{
 		"component": "text",
@@ -131,7 +131,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Main do numbers ko add karunga.<br>170<br>Main do numbers ko add karunga."
+		"value": "I will add two numbers.<br>170<br>I will add two numbers."
 	},
 	{
 		"component": "text",
@@ -139,11 +139,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Yahan humne ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> naam ka function define kara hai. Lekin dekho ki bracket mein humne 2 parameter likhe hain. Ek sa jyada argument lene ke liye arguments ke baad comma laga dete hain Humne add_numbers(120, 50) likh ke function call karte samay do <span style=\"\">integer</span> parameter diye hai. Yahan parameters ka kram / order important hai. Iss function call mein yeh hota "
+		"value": "Here we have defined a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span>. But see that in bracket we have written 2 parameters. To take more than one argument, put a comma after the arguments. We have given two <span style=\"\">integer</span> parameters while calling the function by writing add_numbers(120, 50). Here the sequence/order of parameters is important. In this function call it would have been"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">120</span> ki value <i>pehle parameter</i> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> mein jaati hai jo ki function ke andar same naam ke variable number1 mein hai",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">120</span> goes to <i>first parameter</i> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span>Which is inside the function named variable number1",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -151,7 +151,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">50</span> ki value <i>dusre parameter</i> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> mein jaati hai jo ki function ke andar same naam ke variable number2 mein hai",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">50</span> goes to <i>second parameter</i> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> which is inside the function named variable number2",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -159,7 +159,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Baad mein humne do variable define kare hain, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> aur fir add<i>numbers ko num</i>x aur num_y arguments deke call kiya hai. Yahan bhi:",
+		"value": "Later we have defined two variables, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> and then called add<i>numbers by giving num</i>x and num_y arguments.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -167,7 +167,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> ki value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">134</span> pehle parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> mein jaati hai aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> ki value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rinki</span> dusre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> mein jaati hai.",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_x</span> is  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">134</span> goes to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> and the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">num_y</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Rinki</span> goes to the second parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> .",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -175,11 +175,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Aur ache se samajhne ke liye ek aur example dekhte hain."
+		"value": "Let's see another example for better understanding."
 	},
 	{
 		"component": "text",
-		"value": "Jese ki apne dekha ki <b><span style=\"\">output</span></b> mai <b>Type<span style=\"\">Error</span></b> aa rahi kuki hum kabhi bhi <span style=\"\">string</span> aur <span style=\"\">integer</span> concate nahi kar sakte hai.Humne num_1 mai <b><span style=\"\">integer</span></b> store kiya aur name mai <b><span style=\"\">string</span></b> store kiya hai."
+		"value": "As you saw that <b><span style=\"\">output</span></b> shows the  <b>Type<span style=\"\">Error</span></b> why it is coming because of <span style=\"\">integer</span> and <span style=\"\">string</span> cann't be concatinate. We have store <b><span style=\"\">integer</span></b> in the num1 and in the name store the <b><span style=\"\">string</span></b>"
 	},
 	{
 		"component": "code",
@@ -197,11 +197,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Yeh function do parameter leta hai, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> aur aise kaam karta hai:"
+		"value": "This function takes two parameters, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span>and works like this:"
 	},
 	{
 		"component": "text",
-		"value": "Agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"hindi\"</span> di hai, toh hindi mein kuch print karega",
+		"value": "If <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> is  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"hindi\"</span>, then should be print something in Hindi.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -209,7 +209,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"punjabi\"</span> di hai, toh punjabi mein kuch print karega",
+		"value": "If <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"punjabi\"</span>, then should be print something in Punjabi.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -217,7 +217,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"hindi\"</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"punjabi\"</span> ke ilava koi bhi language di hai toh english mein karega",
+		"value": "If <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"hindi\"</span> or <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"punjabi\"</span>, you have given any langauge other than this, it will print in English.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -225,11 +225,11 @@
 	},
 	{
 		"component": "text",
-		"value": "Yeh karne ke liye humne ek function define kiya jo do arguments leta hai, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span>. Hum jab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello_language(\"Rishabh\", \"punjabi\")</span> call karte hain toh yeh hota hai:"
+		"value": "To do this we defined a function that takes two arguments,  <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span>.When we call <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello_language(\"rishabh\", \"punjabi\")</span> see what happens:"
 	},
 	{
 		"component": "text",
-		"value": "Pehle parameter, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> mein \"Rishabh\" string jata hai aur dusre parameter, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> mein punjabi jaata hai.",
+		"value": "The string value \"Rishabh\" goes the first parameter which is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name</span> and the second parameter, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">language</span> goes for \"punjabi\".",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -237,7 +237,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Fir humara program if-elif-else ka use kar ke dekhta hai language ki value kya hai aur uske hisaab se sahi language mein print kar deta ha",
+		"value": "Then our program uses if-elif-else to see what is the value of the language and print it to the correct language accordingly",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -245,7 +245,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Isi tareeke se upar likhi hui saari function calls mein yeh hi hota hai",
+		"value": "This happenes in the every function calls.",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -254,17 +254,17 @@
 	{
 		"component": "header",
 		"variant": 2,
-		"value": "Ek aur example"
+		"value": "One more example"
 	},
 	{
 		"component": "text",
-		"value": "Chalane se pehle isko padh ke <span style=\"\">output</span> ko sochne ki koshish karo. Fir chala ke dekho ki aapne sahi <span style=\"\">output</span> sochi thi ya nahi."
+		"value": "Try to think about the <span style=\"\">output</span> by reading it before running. Then run it to see if you thought the correct <span style=\"\">output</span> or not."
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>&emsp;print(\"Namaste \", name_x) # hindi mein<br>&emsp;print(\"Alah hafiz \", name_y) # urdu mein<br>&emsp;print(\"Bonjour \", name_z) # french mein<br>&emsp;print(\"Hello \", name_a) # english mein<br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
+		"value": "def say_hello_people(name_x, name_y, name_z, name_a):<br>&emsp;print(\"Namaste \", name_x) # In hindi<br>&emsp;print(\"Alah hafiz \", name_y) # In urdu <br>&emsp;print(\"Bonjour \", name_z) # In french <br>&emsp;print(\"Hello \", name_a) # In english <br>say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")<br>say_hello_people(\"Steve\", \"Saswata\", \"Shakrundin\", \"Rajeev\")"
 	},
 	{
 		"component": "text",
@@ -276,15 +276,15 @@
 	},
 	{
 		"component": "text",
-		"value": "Iss function mein dekho ki yeh 4 argument leta hai, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_x</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_y</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_z</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_a</span>. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span> waali pehli line mein humne 4 parameter ka naam comma (<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">,</span>) laga laga ke likhe hain. Function call karte samay jis kram / order mein humne parameters likhe hain def waali line mein, wahi kram / order mein arguments ki value parameters mein jaati hai."
+		"value": "See in this function that, it takes 4 arguments, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_x</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_y</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_z</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_a</span>. In the first line of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">def</span>, we have written the names of 4 parameters with commas (<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">,</span>). The order in which we have written the parameters while calling the function, in the def line, In the same sequence/ order, the values ​​of the arguments go to the parameters."
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")</span> mein parameters ki value iss hisaab se jaati hain:"
+		"value": "The values ​​of the parameters in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">say_hello_people(\"Imitiyaz\", \"Rishabh\", \"Rahul\", \"Vidya\")</span> are as follows:"
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Imtiyaz\"</span> ki value pehle parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_x</span> mein jaati hai",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Imtiyaz\"</span> is passed to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_x</span>",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -292,7 +292,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Rishabh\"</span> ki value dusre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_y</span> mein jaati hai",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Rishabh\"</span>is passed to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_y</span>",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -300,7 +300,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Rahul\"</span> ki value teesre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_z</span> mein jaati hai",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Rahul\"</span> is passed to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_z</span>",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -308,7 +308,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Vidya\"</span> ki value teesre parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_a</span> mein jaati hai",
+		"value": "The value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Vidya\"</span> is passed to the first parameter <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">name_a</span>",
 		"decoration": {
 			"type": "number",
 			"value": null
@@ -321,7 +321,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Arbitrary arguments hum <span style=\"\">tab</span> use karte hai jab hume pata nahi hota hai ki hume kitne no. of arguments function mai dene hai. Hum arbitrary arguments ke sath function of define karne ke liye parameter se pehle ( * ) ka use karte hai jai ki neeche dikhaya gaya hai."
+		"value": "Arbitrary Arguments we use when do not know how many numbers we have of arguments are to be given in the function. We use ( * ) before parameters to define functions with arbitrary arguments as shown below."
 	},
 	{
 		"component": "text",
@@ -348,7 +348,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Default parameter value se yaha humara ye matlab hai ki hum function ko define karte time kisi parameter ko value assign kar dete hai taaki hum function ko bina kisi argument ke call kare to vo default value ko le le."
+		"value": "Here by default parameter value, we mean that we assign a value to a parameter while defining the function so that if we call the function without any argument, it will take the default value."
 	},
 	{
 		"component": "text",

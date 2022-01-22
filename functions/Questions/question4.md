@@ -4,7 +4,7 @@ submission_type: url
 ```
 ## Question 4
 
-Ek showNumbers() naam ka function define kijiye jo ki ek limit naam ka parameter lega aur 0 se limit tak ke beech ke sabhi even aur odd numbers ko label ke saath print karega jaisa ki niche dikhaya gaya hai.
+Define a function which takes one argument which is the limit upto which the function has to print the numbers and their label(even or odd) as shown below.
 
 
 

@@ -1,8 +1,8 @@
 {
 	"question3_key1": "Question 3\n",
-	"question3_key2": "Ek function banaiye jo 3 numbers ka sum aur average print kare.Hum user se 3 number `input` karwayenge aur fir unn 3 numbers ka sum aur average print karwayenge jaisa ki niche `output` diya hua hain.\n\n\n",
+	"question3_key2": "Create a function which takes 3 arguments(all `integers`) and prints their sum and average as shown below.\n\n\n",
 	"question3_key3": "`Input:-` \n",
-	"question3_key4": "enter first number :-3\n",
+	"question3_key4": "Enter first number :-3\n",
 	"question3_key5": "Enter second number :-4\n",
 	"question3_key6": "Enter third number:-5    \n",
 	"question3_key7": "**`Output` :-**\n",

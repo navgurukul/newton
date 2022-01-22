@@ -4,10 +4,8 @@ submission_type: url
 ```
 ## Debug Code
 
+Now we debug the code related to function.
 
-
-
-Ab hum function se related code ko debug karenge.
 
 **Question 1**
 ```python

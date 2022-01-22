@@ -1,11 +1,8 @@
 {
 	"question6_key1": "Question 6\n",
-	"question6_key2": "Ek function define kijiye jo ki drivers ki speed check karega. Aur ye function speed naam ka ek parameter lega.\n",
-	"question6_key3": "Agar speed 70 se kam hai to ye “ok” print karega.\n\n",
-	"question6_key4": "Agar driver ki speed 70 se jyaada hai to function use har 5 km ke liye 1 point dega (ye 70 ko count nahi karega).\n\n`example ke liye agar speed 80 hai to print karega “points:2”` .\n\n",
-	"question6_key5": "Agar driver ko 12 points se jyaada points milte hai to , function  “License suspended” print karega.\n\n\n\n",
-	"question6_key6": "`Input:-` \n",
-	"question6_key7": "85\n135\n",
-	"question6_key8": "**`Output` :-**\n",
-	"question6_key9": "3\n“License suspended”\n"
+	"question6_key2": "Define a function that checks the speed of drivers. This function will take a parameter named speed, and will satisfy the following conditions:\n1.If speed if less than 70, print 70.\n2.If speed is more than 70, give 1 point per 5km.(NOTE:This won't count 70).\n3. If points are more than 12, print “License suspended”\n",
+	"question6_key3": "`Input:-` \n",
+	"question6_key4": "85\n135\n",
+	"question6_key5": "**`Output` :-**\n",
+	"question6_key6": "3\n“License suspended”\n"
 }

@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Ek function banaiye jo 3 numbers ka sum aur average print kare.Hum user se 3 number input karwayenge aur fir unn 3 numbers ka sum aur average print karwayenge jaisa ki niche output diya hua hain.",
+		"value": "Create a function which takes 3 arguments(all integers) and prints their sum and average as shown below.",
 		"decoration": {
 			"type": "number",
 			"value": 3
@@ -18,7 +18,7 @@
 	},
 	{
 		"component": "text",
-		"value": "enter first number :-3"
+		"value": "Enter first number :-3"
 	},
 	{
 		"component": "text",

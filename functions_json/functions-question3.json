@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Yeh question 2 parts mein hai. Dono pa\u0005rts ka <span style=\"\">code</span> same <span style=\"\">file</span> mein likh ke submit karein."
+		"value": "This question is in 2 parts. Submit the <span style=\"\">code</span> of both the parts by writing them in the same <span style=\"\">file</span>."
 	},
 	{
 		"component": "header",
@@ -15,7 +15,7 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> naam ka function likhiye jo do numbers ko arguments ke tarah le aur fir unka sum print karta hai. Arguments ka naam <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> hona chaiye."
+		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> which takes two numbers as arguments and then prints their sum. The name of the arguments should be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span>."
 	},
 	{
 		"component": "text",
@@ -38,15 +38,15 @@
 	},
 	{
 		"component": "text",
-		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> naam ka function likhiye jo do <span style=\"\">integers</span> ki 2 lists leta ho aur fir same position wale <span style=\"\">integers</span> ka sum print karta ho."
+		"value": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> which takes 2 lists of two <span style=\"\">integers</span> and then prints the sum of the <span style=\"\">integers</span> with the same position."
 	},
 	{
 		"component": "text",
-		"value": "Same position waale 2 <span style=\"\">integers</span> ka sum karne ke liye Part 1 mein di gayi add_numbers waale function ka use karo."
+		"value": "Use the add_numbers function given in Part 1 to count 2 <span style=\"\">integers</span> that have the same position."
 	},
 	{
 		"component": "text",
-		"value": "Jaise agar hum iss function ko [50, 60, 10] aur [10, 20, 13] denge ko woh yeh print karega"
+		"value": "If we give [50, 60, 10] and [10, 20, 13] to this function it will print this"
 	},
 	{
 		"component": "header",

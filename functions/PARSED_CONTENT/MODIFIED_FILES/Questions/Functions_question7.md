@@ -20,6 +20,3 @@ question7_key4
 
 
 question7_key5
-
-
-question7_key6

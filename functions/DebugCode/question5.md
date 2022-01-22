@@ -5,7 +5,8 @@ submission_type: url
 
 ## Question 5
 
-Neeche diye huye codes mai kuch bugs hai. Ab aapko error find kar ke unhe solve karne hai.(number of bugs)
+In the bellow code there have some bugs. you have to find the bugs and solve it.
+(number of bugs)
 
 ```python
 def distance(kms):

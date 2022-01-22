@@ -6,7 +6,7 @@
 	},
 	{
 		"component": "text",
-		"value": "Niche diye gye <span style=\"\">code</span> snippet ki <span style=\"\">output</span> kya hogi?"
+		"value": "What will be the <span style=\"\">output</span> of the <span style=\"\">code</span> given below?"
 	},
 	{
 		"component": "code",

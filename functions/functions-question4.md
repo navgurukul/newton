@@ -4,31 +4,31 @@ submission_type: url
 ```
 ## Question 5
 
-Yeh question 2 parts mein hai. Dono parts ka code same file mein likh ke submit karein.
+This question is in 2 parts. Submit the code of both the parts by writing them in the same file.
 
 ###  Question (Part 1)
 
-`check_numbers` naam ka ek function likhiye jo do numbers le aur fir print kare "Dono even hain" agar dono numbers even (2 se divide hote hain) nahi toh print kare "Dono numbers even nahi hai"
-
+Write a function named `check_numbers` which takes two numbers and then print "both are even" if both numbers are even (divide by 2) otherwise print "both numbers are not even".
 
 
 ###  Question (Part 2)
-Ab ek `check_numbers_list` naam ka ek function likho jo inetgers ki list ko arguments ki tarah le aur fir check kare ki same index waale dono integers even hain ya nahi.
 
-Yeh check karne ke liye pichle `Part 1` mein likhe `check_numbers` function ka use karo.
+Now write a function named `check_numbers_list` Which takes the list of an integer as a argument and then checks whether both the integers with the same index are even or not.
 
-Agar aapne apne function ko `[2, 6, 18, 10, 3, 75]` aur `[6, 19, 24, 12, 3, 87]` Toh usko yeh output deni chaiye:
+To check this, use the `check_numbers` function written in the previous `Part 1`.
+
+If you call your function `[2, 6, 18, 10, 3, 75]` and `[6, 19, 24, 12, 3, 87]` then it should give this output:
 
 
-dono even hain
+both are even
 ---------------
-dono even nahi hai
+both are not even
 ---------------
-dono even hain
+both are even
 ---------------
-dono even hain
+both are even
 ---------------
-dono even nahi hain
+both are not even
 ---------------
-dono even nahi hain
+both are not even
  

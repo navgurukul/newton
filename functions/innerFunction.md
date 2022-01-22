@@ -4,9 +4,7 @@ name: Inner Function
 
 #  Python Inner Functions
 
-Ek function jo ki kisi dusre function ke andar likha jaata hai ya define kiya jaata hai use inner function ya nested function kehte hai. Inner functions, outer function ke scope ke variables
-Ko access kar sakta hai lekin unn variables ko change nahi kar sakta hai.
-
+A function which is written or defined inside another function is called inner function or nested function. In inner functions, we can access the scope of variable of the outer function but we can't change those variables.
 
 **EXAMPLE:-**
 
@@ -25,14 +23,14 @@ f1()
 I Love Navgurukul
 
 
-Upar diye gaye example mein, f2() inner function hai aur f1()outer function. s f1()  ka scope variable hai.
+In the above example, f2() is a inner function and f1() is outer function. s  is a scope of vaiable f1() 
 
     
 # Scope of variable in nested function
 
 
-Aisi jagah jaha hum koi variable find kar sake aur jarurat hone par hum use access bhi kar sake uss jagah ko variable scope kehte hain.
-Humne ye padh liya hai ki hum kaise ek function ke andar global variable ko access kar sakte hain, lekin, hum outerFunction ke andar wale variable ko kaise access karenge ? chaliye Example dekhte hain:
+Such a place where we can find a variable and we can also access it when needed, that place is called variable scope.
+We have read how we can access global variables inside a function, but, How do we access the variable inside the outer function? let's see the example:
 
 **Example :-**
 
