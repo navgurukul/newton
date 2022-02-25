@@ -7,6 +7,8 @@ submission_type: url
 
 If we want to do a task again and again, so computers can help us with that task.
 
+@[youtube](hYvcoRkAkOU)
+
 ### Not Translated
 
 If I want to send mail to my 100 friends to inform about certain event. If I send the mails one by one it will be a very tedious task for me and I might commit a mistake also. With the help of loops we can do this work very easily and efficiently.

@@ -6,6 +6,9 @@ Inn Videos bahut dhyaan se dekhein, aur aapas mei discuss karein. Aap subtitles 
 
 @[youtube](Nu-18s6EeM8)
 
+## What are HTTP and HTML?
+@[youtube](kBXQZMmiA4s)
+
 ## What is an API?
 
 @[youtube](s7wmiS2mSXY)
@@ -21,3 +24,12 @@ To learn more about rest Api go through this @[link](https://guide.freecodecamp.
 @[youtube](7mj-p1Os6QA)
 
 To learn more about Json go through this @[link](https://guide.freecodecamp.org/javascript/standard-objects/json/json-syntax/)
+
+# Go through the following videos to undertand working of Intenet in a better way
+
+What are IP addresses and DNS?
+@[youtube](5o8CwafCxnU)
+
+What Packets, Routers and Reliability?
+@[youtube](AYdF7b3nMto)
+

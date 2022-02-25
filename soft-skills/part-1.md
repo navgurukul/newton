@@ -25,6 +25,9 @@ Like leadership skills, there are many training courses to teach you how to work
 ### 6. Creativity and Problem Solving Skills
 
 Creativity and problem-solving skills are highly valued because they are hard to develop. There are many people who believe that creative thinkers are born, not made, and there are certainly some people who find these skills much easier. But, like other skills, you can develop them if you work to do so and our pages on these topics will give you some ideas about how to do this.
+
+@[youtube](eZqKqI8AvnA)
+
 ### 7. Time Management and ability to work under pressure
 
 Many would say that these two skills, which often go hand-in-hand, are more an attitude than a skill. However they can also be developed and honed, which is why we include them as skills. Highly valued by employers, they are also very useful for organising a family or a team, and for making sure that the job gets done.
