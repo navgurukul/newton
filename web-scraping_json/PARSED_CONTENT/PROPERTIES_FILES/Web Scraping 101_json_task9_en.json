@@ -3,7 +3,7 @@
 	"task9_key2": "Generally jab hum koi bhi data scrape karte hain uss website se toh uss website ke servers pe bahot load padta hai. Abhi toh aap sirf bahot thodi si requests maar rahe ho IMDB ke servers pe. Lekin aap yeh socho ki agar aapko IMDB ki saari movies scrape karni hai. IMDB pe duniya bhar ki movies ka data hai. Matlab kuch crore movie hongi. Agar aap 10 crore movies ka data scrape kar rahe ho toh yeh karna padega:",
 	"task9_key3": "Har movie ka main page khol ke uska data scrape karna.",
 	"task9_key4": "Uss movie ka cast wala page khol ke saare actors aur actresses ki list scrape karna.",
-	"task9_key5": "Matlab agar 10 crore movies scrape ho rahi hai, toh around 20 crore requests kar rahe hoge aap IMDB ke servers pe. Itni saari requests se IMDB ki servers pe load padega aur iss chakar mein IMDB ke servers humein block kar denge.",
+	"task9_key5": "Matlab agar 10 crore movies scrape ho rahi hai, toh around 20 crore requests kar rahe hoge aap IMDB ke servers pe. Itni saari requests se IMDB ki servers pe load padega aur iss chakar mein IMDB ke servers humein block kar denge. ",
 	"task9_key6": "Bahot important hai yeh samjhna ki websites scrapers ko kyun block karti hai aur hum isko kaise prevent kar sakte hai. You should spend some time researching and understanding this. Aur better hoga ki aap yeh apne kuch friends ke saath padh ke samjho. Akele karke utni clarity nahi milegi. Google karke samjho :) Neeche main kuch links de raha hun jahan se aap apni research shuru kar sakte ho.",
 	"task9_key7": "https://www.quora.com/I-was-scraping-a-website-and-they-blocked-me-How-can-I-get-around-this",
 	"task9_key8": "https://www.quora.com/How-do-you-prevent-yourself-from-being-blocked-when-scraping-a-websites-data-like-Oodle-does-to-craigslist",

@@ -1,4 +1,4 @@
 {
     "question3_key1": "प्रश्न 3",
-    "question3_key2": "कुछ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">bugs</span> <span style=\"\">code</span> नीचे दिए गए में हैं। अब आपको उन <span style=\"\">errors(\u001fG</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">щ՝�</span> का नंबर बताना है।"
+    "question3_key2": "नीचे दिए गए <span style=\"\">code</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> हैं। अब आपको उन <span style=\"\">errors</span> को ढूंढ़ना है और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">bugs</span> का नंबर बताना है।"
 }

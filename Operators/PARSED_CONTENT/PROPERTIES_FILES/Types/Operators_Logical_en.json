@@ -32,5 +32,6 @@
 	"Logical_key31": "`False`\n",
 	"Logical_key32": "c is actually greater than b so the condition c > b is `true` but adding `not` in front of it gives the opposite `output`, that is, `false`.\n\n#### Example :-\n\n\n",
 	"Logical_key33": "`Output` :-\n",
-	"Logical_key34": "`True`\n"
+	"Logical_key34": "`True`\n",
+	"Logical_key35": "To understand logical `operator` and circuits watch this video\n"
 }

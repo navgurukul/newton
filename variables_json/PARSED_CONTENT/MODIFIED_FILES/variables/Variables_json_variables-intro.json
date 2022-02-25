@@ -49,6 +49,15 @@
     "value": "variables-intro_key7"
   },
   {
+    "component": "header",
+    "variant": 4,
+    "value": "variables-intro_key8"
+  },
+  {
+    "component": "youtube",
+    "value": "15aqFQQVBWU"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
@@ -57,11 +66,11 @@
   {
     "component": "header",
     "variant": 3,
-    "value": "variables-intro_key8"
+    "value": "variables-intro_key9"
   },
   {
     "component": "text",
-    "value": "variables-intro_key9"
+    "value": "variables-intro_key10"
   },
   {
     "component": "youtube",
@@ -70,7 +79,7 @@
   {
     "component": "header",
     "variant": 4,
-    "value": "variables-intro_key10"
+    "value": "variables-intro_key11"
   },
   {
     "component": "code",
@@ -116,7 +125,7 @@
   },
   {
     "component": "text",
-    "value": "variables-intro_key11"
+    "value": "variables-intro_key12"
   },
   {
     "component": "youtube",

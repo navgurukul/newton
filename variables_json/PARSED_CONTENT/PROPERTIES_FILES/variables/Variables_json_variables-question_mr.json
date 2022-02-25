@@ -1,0 +1,12 @@
+{
+    "variables-question_key1": "<i>कोणत्याही प्रश्नाचे उत्तर देण्यासाठी तुम्ही <span style=\"\">file</span> <span style=\"\">upload</span> करू शकता.</i>",
+    "variables-question_key2": "<i>लक्षात ठेवा <span style=\"\">python</span> <span style=\"\">file</span> विस्तार <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py</span> आहे.</i>",
+    "variables-question_key3": "<b>फक्त तुमच्या सहजतेसाठी आम्ही हा प्रश्न अनेक भागात विभागला आहे. परंतु तुम्हाला सबमिशन फक्त <span style=\"\">file</span> मध्येच करावे लागेल.</b>",
+    "variables-question_key4": "प्रश्न भाग १",
+    "variables-question_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> नावाच्या व्हेरिएबलला पूर्णांक मूल्य नियुक्त करा.",
+    "variables-question_key6": "नंतर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> प्रिंट करा.",
+    "variables-question_key7": "प्रश्न भाग २",
+    "variables-question_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span> नावाचे नवीन व्हेरिएबल घ्या आणि त्याला कोणतेही STRING मूल्य नियुक्त करा.",
+    "variables-question_key9": "dmFyaWFibGVfbmF2 ला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\u0014��</span> मूल्य नियुक्त करा आणि ते सेट करा.",
+    "variables-question_key10": "आता <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable_nav</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">gurukul</span> चे मूल्य प्रिंट करा."
+}

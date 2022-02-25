@@ -6,9 +6,10 @@
 	"variables-intro_key5": "As you remember that 123 and 9999 are `INTEGERS`.\n",
 	"variables-intro_key6": "We can give another value to `variable_x`, by this `variable_x` will be updated. As you can see below that we have given a value 9.9 to the `variable_x` now.\n",
 	"variables-intro_key7": "As you remember that `9.9` is `float`. That means we can give different values to a `variable`. Value of `a` is not changed because we have not updated it. Now we can update `a` and make a new `variable` `b`.\n",
-	"variables-intro_key8": "`Dry Run`\n",
-	"variables-intro_key9": "You all have to do these questions using pen and paper. Solve all the exercises in your notebooks and ask other people around you to check the solution.\n",
-	"variables-intro_key10": "To understand about the `dry run` of `variables`, please see this video.\n",
-	"variables-intro_key11": "Examples :-\n",
-	"variables-intro_key12": "To understand and verify this solution you can watch these videos.\n"
+	"variables-intro_key8": "Now you know in a `variable` we can store some data but how computer store data do you know\n",
+	"variables-intro_key9": "`Dry Run`\n",
+	"variables-intro_key10": "You all have to do these questions using pen and paper. Solve all the exercises in your notebooks and ask other people around you to check the solution.\n",
+	"variables-intro_key11": "To understand about the `dry run` of `variables`, please see this video.\n",
+	"variables-intro_key12": "Examples :-\n",
+	"variables-intro_key13": "To understand and verify this solution you can watch these videos.\n"
 }

@@ -8,8 +8,17 @@
     "value": "UlpurGz1-TU"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 3,
     "value": "Introduction_key2"
+  },
+  {
+    "component": "youtube",
+    "value": "NYzN0a1U8mI&t=31s"
+  },
+  {
+    "component": "text",
+    "value": "Introduction_key3"
   },
   {
     "component": "youtube",

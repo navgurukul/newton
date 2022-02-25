@@ -24,7 +24,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "[<br>    {<br>        \"name\": \"Anand\"<br>        \"director\": [\"Hrishikesh Mukherjee\"],<br>        \"country\": \"India\",<br>        \"language\": [\"Hindi\"],<br>        \"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>        \"bio\": \"The story of a terminally ill man who wishes to live life to the3 full before the inevitable occurs, as told by his best friend.\",<br>        \"runtime\": 183,<br>        \"genre\": [<br>            \"Drama\"<br>        ]<br>    },<br>    {},<br>    {},<br>    {},<br>    {},<br>    {},<br>    {}<br>]"
+    "value": "[<br>&emsp;{<br>&emsp;&emsp;\"name\": \"Anand\"<br>&emsp;&emsp;\"director\": [\"Hrishikesh Mukherjee\"],<br>&emsp;&emsp;\"country\": \"India\",<br>&emsp;&emsp;\"language\": [\"Hindi\"],<br>&emsp;&emsp;\"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>&emsp;&emsp;\"bio\": \"The story of a terminally ill man who wishes to live life to the3 full before the inevitable occurs, as told by his best friend.\",<br>&emsp;&emsp;\"runtime\": 183,<br>&emsp;&emsp;\"genre\": [<br>&emsp;&emsp;&emsp;\"Drama\"<br>&emsp;&emsp;]<br>&emsp;},<br>&emsp;{},<br>&emsp;{},<br>&emsp;{},<br>&emsp;{},<br>&emsp;{},<br>&emsp;{}<br>]"
   },
   {
     "component": "text",
@@ -38,7 +38,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "{<br>  \"Hrishikesh Mukherjee\": {<br>    \"Hindi\": 2,<br>    \"Bengali\": 1<br>  },<br>  \"Director Name\": {<br>    \"Hindi\": 2,<br>    \"Malayalam\": 2<br>  }<br>}"
+    "value": "{<br>  \"Hrishikesh Mukherjee\": {<br>&emsp;\"Hindi\": 2,<br>&emsp;\"Bengali\": 1<br>  },<br>  \"Director Name\": {<br>&emsp;\"Hindi\": 2,<br>&emsp;\"Malayalam\": 2<br>  }<br>}"
   },
   {
     "component": "text",

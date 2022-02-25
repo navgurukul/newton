@@ -49,6 +49,15 @@
 		"value": "As you remember that <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">9.9</span> is <span style=\"\">float</span>. That means we can give different values to a <span style=\"\">variable</span>. Value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> is not changed because we have not updated it. Now we can update <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a</span> and make a new <span style=\"\">variable</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">b</span>."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "Now you know in a <span style=\"\">variable</span> we can store some data but how computer store data do you know"
+	},
+	{
+		"component": "youtube",
+		"value": "15aqFQQVBWU"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",

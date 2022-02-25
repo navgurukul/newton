@@ -1,7 +1,7 @@
 {
     "if-flowchart-question1_key1": "प्रश्न 1",
     "if-flowchart-question1_key2": "<b>अगले कुछ प्रश्नों में दिए गए निर्देशों के आधार पर फ़्लोचार्ट को पूरा करें। फ़्लोचार्ट के रंगों पर ध्यान केंद्रित न करें।</b>",
-    "if-flowchart-question1_key3": "जांचें कि क्या 100, 99 से बड़ा है? यदि हां, तो <b>&quot;बड़ा है&quot;</b> प्रिंट करें, अन्यथा <b>&quot;छोटा है&quot;</b> प्रिंट करें। इस प्रश्न में <span style=\"\">��7F\u0017FV�V�</span> को पूरा करें।",
+    "if-flowchart-question1_key3": "जांचें कि क्या 100, 99 से बड़ा है? यदि हां, तो <b>&quot;बड़ा है&quot;</b> प्रिंट करें, अन्यथा <b>&quot;छोटा है&quot;</b> प्रिंट करें। इस प्रश्न में if <span style=\"\">statement</span> को पूरा करें।",
     "if-flowchart-question1_key4": "फ़्लोचार्ट छवि",
     "if-flowchart-question1_key5": "आपको यह संपूर्ण फ़्लोचार्ट <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">draw.io</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">upload</span> अंतिम <span style=\"\">file</span> यहाँ बनाना होगा।"
 }

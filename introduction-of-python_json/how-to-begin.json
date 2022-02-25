@@ -2,6 +2,15 @@
 	{
 		"component": "header",
 		"variant": 1,
+		"value": "Anyone can do anything in this video is just related to this"
+	},
+	{
+		"component": "youtube",
+		"value": "ip051U7Rvds&t=1s"
+	},
+	{
+		"component": "header",
+		"variant": 1,
 		"value": "How to begin this course?"
 	},
 	{

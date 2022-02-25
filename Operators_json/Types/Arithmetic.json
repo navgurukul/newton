@@ -138,6 +138,15 @@
 	},
 	{
 		"component": "header",
+		"variant": 4,
+		"value": "Now you know how ARITHMETIC <span style=\"\">OPERATORS</span> work and How do we get <span style=\"\">output</span> in <span style=\"\">python</span>. Do you know how the computer gives us the <span style=\"\">output</span>? If don't watch this video"
+	},
+	{
+		"component": "youtube",
+		"value": "DKGZlaPlVLY&t=3s"
+	},
+	{
+		"component": "header",
 		"variant": 3,
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division(/):-</span>"
 	},

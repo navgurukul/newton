@@ -17,7 +17,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "big_list = [[1,2,3], [5,8,9], [4,3,77,521,31,311]]<br>counter1 = 0<br>while counter1 < len(big_list):<br>    small_list_length = len(big_list[counter1])<br>    counter2 = 0<br>    while counter2 < small_list_length:<br>        print (big_list[counter1][counter2])<br>        counter2 = counter2 + 1<br>    counter1 = counter1 + 1<br>    print ('-----')"
+		"value": "big_list = [[1,2,3], [5,8,9], [4,3,77,521,31,311]]<br>counter1 = 0<br>while counter1 < len(big_list):<br>&emsp;small_list_length = len(big_list[counter1])<br>&emsp;counter2 = 0<br>&emsp;while counter2 < small_list_length:<br>&emsp;&emsp;print (big_list[counter1][counter2])<br>&emsp;&emsp;counter2 = counter2 + 1<br>&emsp;counter1 = counter1 + 1<br>&emsp;print ('-----')"
 	},
 	{
 		"component": "text",

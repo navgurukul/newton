@@ -24,6 +24,9 @@ print (variable_x)
 variables-intro_key7
 
 
+variables-intro_key8
+@[youtube](15aqFQQVBWU)
+
 ```python
 a='hello world'
 b='navgurukul'
@@ -34,14 +37,14 @@ print (variable_x, a, b)
 
 
 
-variables-intro_key8
 variables-intro_key9
-
-
 variables-intro_key10
-@[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
+
 
 variables-intro_key11
+@[youtube](https://www.youtube.com/watch?v=9PnmC9NAvzU)
+
+variables-intro_key12
 ```python
 a = 3
 b = 4
@@ -94,7 +97,7 @@ a = c*2
  c = a * c
 ```
 
-variables-intro_key12
+variables-intro_key13
 
 
 @[youtube](https://www.youtube.com/watch?v=fny5w_YKSc8)

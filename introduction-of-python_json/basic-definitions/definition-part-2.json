@@ -16,6 +16,15 @@
 	{
 		"component": "header",
 		"variant": 3,
+		"value": "To understand binary numbers please watch this video"
+	},
+	{
+		"component": "youtube",
+		"value": "USCBCmwMCDA"
+	},
+	{
+		"component": "header",
+		"variant": 3,
 		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Interpreter</span>"
 	},
 	{

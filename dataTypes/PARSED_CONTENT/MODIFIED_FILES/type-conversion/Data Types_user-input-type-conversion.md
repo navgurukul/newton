@@ -46,7 +46,10 @@ print (type(number3))
 ```
 
 user-input-type-conversion_key14
+@[youtube](xnyFYiK2rSY&t=2s)
+
 user-input-type-conversion_key15
+user-input-type-conversion_key16
 
 
 ```python
@@ -57,8 +60,8 @@ number_y = int(number_y) # user_input se hume number_y string type mein mila
 print (number_x * number_y) # number_x aur number_y ka multiple kar ke result print hoga
 ```
 
-user-input-type-conversion_key16
-
-
 user-input-type-conversion_key17
+
+
 user-input-type-conversion_key18
+user-input-type-conversion_key19

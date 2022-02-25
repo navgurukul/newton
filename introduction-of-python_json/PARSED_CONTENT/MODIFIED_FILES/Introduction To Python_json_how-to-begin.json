@@ -6,15 +6,24 @@
   },
   {
     "component": "youtube",
+    "value": "ip051U7Rvds&t=1s"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "how-to-begin_key2"
+  },
+  {
+    "component": "youtube",
     "value": "ccPrUbz1oto"
   },
   {
     "component": "text",
-    "value": "how-to-begin_key2"
+    "value": "how-to-begin_key3"
   },
   {
     "component": "text",
-    "value": "how-to-begin_key3"
+    "value": "how-to-begin_key4"
   },
   {
     "component": "code",
@@ -30,10 +39,6 @@
   },
   {
     "component": "text",
-    "value": "how-to-begin_key4"
-  },
-  {
-    "component": "text",
     "value": "how-to-begin_key5"
   },
   {
@@ -45,12 +50,6 @@
     "value": "how-to-begin_key7"
   },
   {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "print(\"This line will be printed in python.\")"
-  },
-  {
     "component": "text",
     "value": "how-to-begin_key8"
   },
@@ -58,7 +57,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print(\"This, another line will also be printed in python\")"
+    "value": "print(\"This line will be printed in python.\")"
   },
   {
     "component": "text",
@@ -68,7 +67,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print(2 + 5)"
+    "value": "print(\"This, another line will also be printed in python\")"
   },
   {
     "component": "text",
@@ -78,7 +77,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print(\"This line will be printed in python.\")<br>print(\"This, another line will also be printed in python\")<br>print(2 + 5)"
+    "value": "print(2 + 5)"
   },
   {
     "component": "text",
@@ -88,7 +87,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "i = 0<br>print(i)"
+    "value": "print(\"This line will be printed in python.\")<br>print(\"This, another line will also be printed in python\")<br>print(2 + 5)"
   },
   {
     "component": "text",
@@ -98,7 +97,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "i = 0<br>while i < 100:<br>&emsp;print(\"I will be printed again and again.:)\""
+    "value": "i = 0<br>print(i)"
   },
   {
     "component": "text",
@@ -108,7 +107,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "i = 0<br>while i < 100:<br>&emsp;print(\"I will be printed again and again:)\")<br>&emsp;i = i+1"
+    "value": "i = 0<br>while i < 100:<br>&emsp;print(\"I will be printed again and again.:)\""
   },
   {
     "component": "text",
@@ -118,27 +117,30 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print(\"This line will be printed in python.\")<br>print(\"This, another line will also be printed in python\")<br>print(2 + 5)<br>i = 0<br>print (i)<br>while i < 100:<br>&emsp;print(\"I will be printed again and again.:)\")"
+    "value": "i = 0<br>while i < 100:<br>&emsp;print(\"I will be printed again and again:)\")<br>&emsp;i = i+1"
   },
   {
     "component": "text",
     "value": "how-to-begin_key15"
   },
   {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print(\"This line will be printed in python.\")<br>print(\"This, another line will also be printed in python\")<br>print(2 + 5)<br>i = 0<br>print (i)<br>while i < 100:<br>&emsp;print(\"I will be printed again and again.:)\")"
+  },
+  {
     "component": "text",
     "value": "how-to-begin_key16"
   },
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "how-to-begin_key17"
   },
   {
-    "component": "text",
-    "value": "how-to-begin_key18",
-    "decoration": {
-      "type": "bullet"
-    }
+    "component": "header",
+    "variant": 2,
+    "value": "how-to-begin_key18"
   },
   {
     "component": "text",
@@ -157,6 +159,13 @@
   {
     "component": "text",
     "value": "how-to-begin_key21",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "how-to-begin_key22",
     "decoration": {
       "type": "bullet"
     }

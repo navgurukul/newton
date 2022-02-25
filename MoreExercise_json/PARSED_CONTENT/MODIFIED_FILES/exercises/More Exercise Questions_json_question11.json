@@ -31,7 +31,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "words = \"navgurukul is great\"<br>counter = 0<br>while counter < len(words)<br>    print (words[counter])"
+    "value": "words = \"navgurukul is great\"<br>counter = 0<br>while counter < len(words)<br>&emsp;print (words[counter])"
   },
   {
     "component": "text",

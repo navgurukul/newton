@@ -3,5 +3,17 @@
     "component": "header",
     "variant": 2,
     "value": "internet-of-things_key1"
+  },
+  {
+    "component": "text",
+    "value": "internet-of-things_key2"
+  },
+  {
+    "component": "youtube",
+    "value": "Dxcc6ycZ73M"
+  },
+  {
+    "component": "youtube",
+    "value": "ZhEf7e4kopM"
   }
 ]

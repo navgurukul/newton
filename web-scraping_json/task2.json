@@ -26,7 +26,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "movies = [<br>  {<br>    \"name\": \"Anand\",<br>    \"year\": 1971,<br>    \"position\": 1,<br>    \"rating\": 8.7,<br>    \"url\": \"https://www.imdb.com/title/tt0066763/\"<br>  },<br>  {<br>    \"name\": \"Drishyam\",<br>    \"position\": 2,<br>    \"year\": 2013,<br>    \"rating\": 8.6,<br>    \"url\": \"https://www.imdb.com/title/tt3417422/\"<br>  },<br>  {<br>    \"position\": 3,<br>    \"name\": \"Andhadhun\",<br>    \"year\": 2018,<br>    \"rating\": 8.6,<br>    \"url\": \"https://www.imdb.com/title/tt8108198/\"<br>  }<br>]"
+		"value": "movies = [<br>  {<br>&emsp;\"name\": \"Anand\",<br>&emsp;\"year\": 1971,<br>&emsp;\"position\": 1,<br>&emsp;\"rating\": 8.7,<br>&emsp;\"url\": \"https://www.imdb.com/title/tt0066763/\"<br>  },<br>  {<br>&emsp;\"name\": \"Drishyam\",<br>&emsp;\"position\": 2,<br>&emsp;\"year\": 2013,<br>&emsp;\"rating\": 8.6,<br>&emsp;\"url\": \"https://www.imdb.com/title/tt3417422/\"<br>  },<br>  {<br>&emsp;\"position\": 3,<br>&emsp;\"name\": \"Andhadhun\",<br>&emsp;\"year\": 2018,<br>&emsp;\"rating\": 8.6,<br>&emsp;\"url\": \"https://www.imdb.com/title/tt8108198/\"<br>  }<br>]"
 	},
 	{
 		"component": "text",
@@ -36,7 +36,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "{<br>  1956: [<br>    {'name': 'Koi movie ka naam', 'year': 1956, 'position': 1, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Kuch aur naam', 'year': 1956, 'position': 4, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Ek aur naam', 'year': 1956, 'position': 8, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'}<br>  ],<br>  1959: [<br>    {'name': 'Koi movie ka naam 2', 'year': 1959, 'position':34, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>    {'name': 'Kuch aur naam 2', 'year': 1959, 'position': 42, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>  ],<br>  2000: [{}, {}, {}, {}, {}],<br>  2002: [{}, {}, {}, {}, {}],<br>  2001: [{}, {}]<br>}"
+		"value": "{<br>  1956: [<br>&emsp;{'name': 'Koi movie ka naam', 'year': 1956, 'position': 1, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>&emsp;{'name': 'Kuch aur naam', 'year': 1956, 'position': 4, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>&emsp;{'name': 'Ek aur naam', 'year': 1956, 'position': 8, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'}<br>  ],<br>  1959: [<br>&emsp;{'name': 'Koi movie ka naam 2', 'year': 1959, 'position':34, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>&emsp;{'name': 'Kuch aur naam 2', 'year': 1959, 'position': 42, 'rating': 8.7, 'url': 'https://imdb.com/title/koi-title-ka-link'},<br>  ],<br>  2000: [{}, {}, {}, {}, {}],<br>  2002: [{}, {}, {}, {}, {}],<br>  2001: [{}, {}]<br>}"
 	},
 	{
 		"component": "text",

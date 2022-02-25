@@ -9,6 +9,10 @@
 		"value": "Function is a <span style=\"\">code</span> of block that only runs when it is called.<br>In the function we pass the data which we call parameter. Function returns data.<br>By using functions, we can write some <span style=\"\">code</span> once and use it many times. This makes our work very easy."
 	},
 	{
+		"component": "youtube",
+		"value": "8T5acEwfJbw"
+	},
+	{
 		"component": "code",
 		"type": "python",
 		"title": "",

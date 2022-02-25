@@ -4,6 +4,10 @@
 		"value": "Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them like below given example."
 	},
 	{
+		"component": "text",
+		"value": "@[<span style=\"\">youtube</span>]OAx_6-wdslM"
+	},
+	{
 		"component": "code",
 		"type": "javascript",
 		"title": "",

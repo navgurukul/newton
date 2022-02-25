@@ -33,6 +33,15 @@
 		"value": "Computers don’t have their brain so they can’t think, we have to give instructions to them to make them solve any complex problem."
 	},
 	{
+		"component": "header",
+		"variant": 4,
+		"value": "let's see how computer works"
+	},
+	{
+		"component": "youtube",
+		"value": "mCq8-xTH7jA"
+	},
+	{
 		"component": "text",
 		"value": "<b>Read and search the following questions.</b><br>--   What did you learn about computers?<br>--   What are the <span style=\"\">applications</span> of computers? What kinds of problems do these <span style=\"\">applications</span> solve? Think about what kind of instructions were given to computers for these <span style=\"\">applications</span>?"
 	}

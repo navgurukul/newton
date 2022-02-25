@@ -4,14 +4,14 @@
     "value": "What-is-an-Operator?_key1"
   },
   {
+    "component": "text",
+    "value": "What-is-an-Operator?_key2"
+  },
+  {
     "component": "code",
     "type": "javascript",
     "title": "",
     "value": "console.log(1+2); // output: 3"
-  },
-  {
-    "component": "text",
-    "value": "What-is-an-Operator?_key2"
   },
   {
     "component": "text",
@@ -26,16 +26,13 @@
     "value": "What-is-an-Operator?_key5"
   },
   {
-    "component": "header",
-    "variant": 4,
+    "component": "text",
     "value": "What-is-an-Operator?_key6"
   },
   {
-    "component": "text",
-    "value": "What-is-an-Operator?_key7",
-    "decoration": {
-      "type": "bullet"
-    }
+    "component": "header",
+    "variant": 4,
+    "value": "What-is-an-Operator?_key7"
   },
   {
     "component": "text",
@@ -54,6 +51,13 @@
   {
     "component": "text",
     "value": "What-is-an-Operator?_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "What-is-an-Operator?_key11",
     "decoration": {
       "type": "bullet"
     }

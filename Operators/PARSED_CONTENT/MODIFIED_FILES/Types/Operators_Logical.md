@@ -101,3 +101,8 @@ print( a and b or a or not b)
 
 Logical_key33
 Logical_key34
+
+
+
+Logical_key35
+@[youtube](ZoqMiFKspAA&t=1s)

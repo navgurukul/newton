@@ -45,7 +45,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "[<br>  {<br>    \"name\": \"Anand\"<br>    \"director\": [\"Hrishikesh Mukherjee\"],<br>    \"country\": \"India\",<br>    \"language\": [\"Hindi\"],<br>    \"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>    \"bio\": \"The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.\",<br>    \"runtime\": 183,<br>    \"genre\": [<br>        \"Drama\"<br>    ]<br>    \"cast\": [<br>      {<br>        \"imdb_id\": \"nm0004435\",<br>        \"name\": \"Rajesh Khanna\"<br>      },<br>      {<br>        \"imdb_id\": \"nm0000821\",<br>        \"name\": \"Amitabh Bachan\"<br>      },<br>      {},<br>      {},<br>      {},<br>      {}<br>    ]<br>  },<br>  {},<br>  {},<br>  {},<br>  {}<br>]"
+    "value": "[<br>  {<br>&emsp;\"name\": \"Anand\"<br>&emsp;\"director\": [\"Hrishikesh Mukherjee\"],<br>&emsp;\"country\": \"India\",<br>&emsp;\"language\": [\"Hindi\"],<br>&emsp;\"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>&emsp;\"bio\": \"The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.\",<br>&emsp;\"runtime\": 183,<br>&emsp;\"genre\": [<br>&emsp;&emsp;\"Drama\"<br>&emsp;]<br>&emsp;\"cast\": [<br>&emsp;  {<br>&emsp;&emsp;\"imdb_id\": \"nm0004435\",<br>&emsp;&emsp;\"name\": \"Rajesh Khanna\"<br>&emsp;  },<br>&emsp;  {<br>&emsp;&emsp;\"imdb_id\": \"nm0000821\",<br>&emsp;&emsp;\"name\": \"Amitabh Bachan\"<br>&emsp;  },<br>&emsp;  {},<br>&emsp;  {},<br>&emsp;  {},<br>&emsp;  {}<br>&emsp;]<br>  },<br>  {},<br>  {},<br>  {},<br>  {}<br>]"
   },
   {
     "component": "text",
@@ -55,7 +55,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "{<br>  \"nm0004435\": {<br>    \"name\": \"Rajesh Khanna\",<br>    \"frequent_co_actors\": [<br>      {<br>        \"imdb_id\": \"nm0000821\",<br>        \"name\": \"Amitabh Bachan\"<br>        \"num_movies\": 2<br>      }<br>    ]<br>  },<br>  \"nm0000821\": {<br>    \"name\": \"Amitabh Bachan\",<br>    \"frequent_co_actors\": [<br>      {}, {}, {}<br>    ]<br>  }<br>}"
+    "value": "{<br>  \"nm0004435\": {<br>&emsp;\"name\": \"Rajesh Khanna\",<br>&emsp;\"frequent_co_actors\": [<br>&emsp;  {<br>&emsp;&emsp;\"imdb_id\": \"nm0000821\",<br>&emsp;&emsp;\"name\": \"Amitabh Bachan\"<br>&emsp;&emsp;\"num_movies\": 2<br>&emsp;  }<br>&emsp;]<br>  },<br>  \"nm0000821\": {<br>&emsp;\"name\": \"Amitabh Bachan\",<br>&emsp;\"frequent_co_actors\": [<br>&emsp;  {}, {}, {}<br>&emsp;]<br>  }<br>}"
   },
   {
     "component": "text",

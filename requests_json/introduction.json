@@ -20,6 +20,15 @@
 	{
 		"component": "header",
 		"variant": 2,
+		"value": "What are HTTP and HTML?"
+	},
+	{
+		"component": "youtube",
+		"value": "kBXQZMmiA4s"
+	},
+	{
+		"component": "header",
+		"variant": 2,
 		"value": "What is an API?"
 	},
 	{
@@ -51,5 +60,18 @@
 	{
 		"component": "text",
 		"value": "To learn more about Json go through this @<a href=\"https://guide.freecodecamp.org/javascript/standard-objects/json/json-syntax/\">link</a>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Go through the following videos to undertand working of Intenet in a better way"
+	},
+	{
+		"component": "youtube",
+		"value": "5o8CwafCxnU"
+	},
+	{
+		"component": "youtube",
+		"value": "AYdF7b3nMto"
 	}
 ]

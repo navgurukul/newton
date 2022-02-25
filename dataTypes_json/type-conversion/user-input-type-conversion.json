@@ -81,6 +81,15 @@
 	},
 	{
 		"component": "header",
+		"variant": 4,
+		"value": "Now you know how to take user <span style=\"\">input</span> in <span style=\"\">python</span>. Do you know how computer take user <span style=\"\">input</span> from user if don't know you can watch this video"
+	},
+	{
+		"component": "youtube",
+		"value": "xnyFYiK2rSY&t=2s"
+	},
+	{
+		"component": "header",
 		"variant": 2,
 		"value": "One more <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type conversion and raw_input</span> example."
 	},

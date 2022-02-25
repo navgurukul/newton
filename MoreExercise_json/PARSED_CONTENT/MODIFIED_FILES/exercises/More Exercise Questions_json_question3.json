@@ -31,7 +31,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "string_name = \"navgurukul\"<br>if \"n\" in string_name:<br>    print (\"n hai\")<br>else:<br>    print (\"n nahi hai\")"
+    "value": "string_name = \"navgurukul\"<br>if \"n\" in string_name:<br>&emsp;print (\"n hai\")<br>else:<br>&emsp;print (\"n nahi hai\")"
   },
   {
     "component": "text",

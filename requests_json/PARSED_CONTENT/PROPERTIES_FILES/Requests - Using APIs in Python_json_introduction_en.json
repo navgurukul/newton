@@ -2,9 +2,11 @@
 	"introduction_key1": "Introduction",
 	"introduction_key2": "Inn Videos bahut dhyaan se dekhein, aur aapas mei discuss karein. Aap subtitles <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">on</span> kar sakte hai, inn videos ko acche se samajhne ke liye.",
 	"introduction_key3": "What is a Server?",
-	"introduction_key4": "What is an API?",
-	"introduction_key5": "Understanding REST API",
-	"introduction_key6": "To learn more about rest Api go through this @<a href=\"https://guide.freecodecamp.org/rest-api/\">link</a>",
-	"introduction_key7": "What is JSON?",
-	"introduction_key8": "To learn more about Json go through this @<a href=\"https://guide.freecodecamp.org/javascript/standard-objects/json/json-syntax/\">link</a>"
+	"introduction_key4": "What are HTTP and HTML?",
+	"introduction_key5": "What is an API?",
+	"introduction_key6": "Understanding REST API",
+	"introduction_key7": "To learn more about rest Api go through this @<a href=\"https://guide.freecodecamp.org/rest-api/\">link</a>",
+	"introduction_key8": "What is JSON?",
+	"introduction_key9": "To learn more about Json go through this @<a href=\"https://guide.freecodecamp.org/javascript/standard-objects/json/json-syntax/\">link</a>",
+	"introduction_key10": "Go through the following videos to undertand working of Intenet in a better way"
 }
