@@ -4,6 +4,8 @@ name: What is an Operator?
 
 Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them like below given example.
 
+@[youtube]OAx_6-wdslM
+
 ```javascript
 console.log(1+2); // output: 3
  ```

@@ -1,3 +1,7 @@
+# Anyone can do anything in this video is just related to this
+
+@[youtube](ip051U7Rvds&t=1s)
+
 # How to begin this course?
 
 How to use Python? Please see this video to understand.

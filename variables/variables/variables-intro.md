@@ -32,6 +32,10 @@ print (variable_x)
 
 As you remember that `9.9` is float. That means we can give different values to a variable. Value of `a` is not changed because we have not updated it. Now we can update `a` and make a new variable `b`.
 
+#### Now you know in a variable we can store some data but how computer store data do you know
+
+@[youtube](15aqFQQVBWU)
+
 ```python
 a='hello world'
 b='navgurukul'

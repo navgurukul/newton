@@ -110,3 +110,8 @@ print( a and b or a or not b)
 #### Output :-
 
 `True`
+
+
+#### To understand logical operator and circuits watch this video
+
+@[youtube](ZoqMiFKspAA&t=1s)

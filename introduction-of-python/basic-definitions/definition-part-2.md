@@ -4,6 +4,10 @@
 
 `Binary numbers` are known as machine language or low level language, binary numbers are made of 0 and 1 which humans cannot understand but computers can.
 
+### To understand binary numbers please watch this video
+
+@[youtube](USCBCmwMCDA)
+
 
 ### `Interpreter` 
 
