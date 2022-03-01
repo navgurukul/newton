@@ -1,8 +1,0 @@
-{
-	"Question-9_key1": "Take 1 list and have some objects inside it as sample data given below, and create a new list with unique values and console the unique values list.\n",
-	"Question-9_key2": "Example :\n",
-	"Question-9_key3": "`Input` :\n",
-	"Question-9_key4": "[\n     {\"first\":\"1\"}, \n     {\"second\": \"2\"}, \n     {\"third\": \"1\"}, \n     {\"four\": \"5\"}, \n     {\"five\":\"5\"}, \n     {\"six\":\"9\"},\n     {\"seven\":\"7\"}\n]\n",
-	"Question-9_key5": "`Output` :-\n",
-	"Question-9_key6": "[2', '7', '9', '5', '1']\n"
-}

@@ -1,7 +1,0 @@
-{
-	"if-code-question7_key1": "Question 7",
-	"if-code-question7_key2": "Create a flowchart to take two numbers as <span style=\"\">input</span> from the user. Print the number which is greater.",
-	"if-code-question7_key3": "question 12 png",
-	"if-code-question7_key4": "For example, if user enters <b>100</b> and <b>30</b>, then print <b>100</b> as it is greater.",
-	"if-code-question7_key5": "Submit the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowchart</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">code</span> for this question."
-}

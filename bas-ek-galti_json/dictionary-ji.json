@@ -1,8 +1,0 @@
-[
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "<br># Create a dictionary of these authors and<br># the year they died<br># print the dictionary in the following format:<br><br># Charles Dickens died in 1870.<br><br># Dictionary mei yeh values use karni hai<br># Charles Dickens, 1870<br># William Thackeray, 1863<br># Anthony Trollope, 1882<br># Gerard Manley Hopkins, 1889<br><br>authrs = {<br>    \"Charles Dickens\": \"1870\",<br>    \"William Thackeray\": \"1863\",<br>    \"Anthony Trollope\": \"1882\",<br>    \"Gerard Manley Hopkins\": \"1889\"<br><br>for author date in authors.items{}:<br>    print \"%s\" % authors + \" died in \" + \"%d.\" % Date<br>}<br>"
-	}
-]

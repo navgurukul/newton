@@ -1,7 +1,0 @@
-{
-    "variables-naming-question4_key1": "नाम: चर नामकरण व्यायाम 4\nसबमिशन_टाइप: यूआरएल\n",
-    "variables-naming-question4_key2": "## सवाल\n\n\n",
-    "variables-naming-question4_key3": "एक `variable` को `Varx` नाम से एक STRING मान असाइन करें।\n",
-    "variables-naming-question4_key4": "एक `variable` को `vaRx` नाम से एक FLOAT मान असाइन करें।\n",
-    "variables-naming-question4_key5": "इसे प्रिंट करने का प्रयास करें, यह देखने के लिए कि क्या `Varx` और `vaRx` समान हैं या नहीं। यदि नहीं, तो अपने `file` में टिप्पणी में अपना कारण लिखें।\n"
-}

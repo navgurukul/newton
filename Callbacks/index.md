@@ -1,3 +1,0 @@
-- callbacks.md
-- callbacks-in-synchronous-functions.md
-- callbacks-in-asynchronous-functions.md

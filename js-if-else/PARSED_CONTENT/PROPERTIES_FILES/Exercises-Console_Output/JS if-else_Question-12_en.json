@@ -1,5 +1,0 @@
-{
-	"Question-12_key1": "Takes a number as user `input`. Check if this number is divisible by 5 and 15 both\n",
-	"Question-12_key2": "If it is divisibe by both prints **\"Divisible by both\"**.\n",
-	"Question-12_key3": "else prints **\"Not divisible by both\"**\n\n\n"
-}

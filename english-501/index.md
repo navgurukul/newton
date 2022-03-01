@@ -1,4 +1,0 @@
-- Reading_Practice.md
-- Reading_Strategies.md
-- Vocabulary.md
-- Samvaad.md

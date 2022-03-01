@@ -1,8 +1,0 @@
-[
-  {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "sleep 10<br>sleep 3; echo \"hello\"<br>echo \"h\"; sleep 1; echo \"e\"; sleep 1; echo \"l\"; sleep 1; echo \"l\"; sleep 1; echo \"o\""
-  }
-]

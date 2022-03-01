@@ -1,8 +1,0 @@
-{
-	"Question-7_key1": "Write a program that removes the first <span style=\"\">key</span> and value of a nested object.",
-	"Question-7_key2": "Example :-",
-	"Question-7_key3": "<span style=\"\">Input</span> :-",
-	"Question-7_key4": "myDict= {<br>    1: 'NAVGURUKUL',<br>    2: 'IN',  <br>    3:{    <br>            'A' : 'WELCOME',<br>            'B' : 'To',<br>            'C' : 'DHARAMSALA'<br>        }<br>    }",
-	"Question-7_key5": "<span style=\"\">Output</span> :-",
-	"Question-7_key6": "myDict= {<br>    1: 'NAVGURUKUL',<br>    2: 'IN',  <br>      3:<br>      { 'B' : 'To',<br>        'C' : 'DHARAMSALA'<br>       }<br>    }"
-}

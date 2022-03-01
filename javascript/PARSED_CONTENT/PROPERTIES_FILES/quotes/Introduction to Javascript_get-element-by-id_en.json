@@ -1,6 +1,0 @@
-{
-	"get-element-by-id_key1": "Part III\n",
-	"get-element-by-id_key3": "Link",
-	"get-element-by-id_key4": " - iss mein &quot;kuch aur!&quot; button par click kar kar dekho. Ab quote ke peeche ka, aur background dono ka background change ho jayega.",
-	"get-element-by-id_key5": "**Hint**: Iske liye aapko document.getElementById(\"aapki_id_ka_naam\").style.backgroundColor use karna hoga.\n"
-}

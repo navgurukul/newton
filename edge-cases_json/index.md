@@ -1,7 +1,0 @@
-- introduction.json
-- calculator.json
-- prime.json
-- sum.json
-- list_sum.json
-- split.json
-- split_solution.json

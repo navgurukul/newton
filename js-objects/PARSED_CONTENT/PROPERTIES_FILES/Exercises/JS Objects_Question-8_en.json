@@ -1,9 +1,0 @@
-{
-	"Question-8_key1": "Take two lists and make an object, 1st list elements be as `keys`, and 2nd lists elements as values.\n",
-	"Question-8_key2": "Example :-\n",
-	"Question-8_key3": "`Input` :-\n",
-	"Question-8_key4": "var list1=[“one”,”two”,”three”,”four”,”five”]\n",
-	"Question-8_key5": "var list2=[1,2,3,4,5,]\n",
-	"Question-8_key6": "`Output` :-\n",
-	"Question-8_key7": "{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}\n"
-}

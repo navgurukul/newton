@@ -1,9 +1,0 @@
-{
-	"question2_key1": "Question 2\n",
-	"question2_key2": "Perfect Number?\nA perfect number is the one which is equal to the sum of all it's factors(including 1 and excluding itself).\n",
-	"question2_key3": "Define a function named perfect() which takes one argument(`integer`) and checks if it is a perfect number or not. Now use this `code` to write a program that prints all the perfect numbers between 1-1000. \n",
-	"question2_key4": "`Example:-`\n",
-	"question2_key5": " 6 ek perfect number hai 6=1+2+3.\n",
-	"question2_key6": "`Expected Output :- `\n",
-	"question2_key7": "6,28,496\n"
-}

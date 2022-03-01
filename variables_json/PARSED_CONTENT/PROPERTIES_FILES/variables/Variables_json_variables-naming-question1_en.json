@@ -1,7 +1,0 @@
-{
-	"variables-naming-question1_key1": "Question",
-	"variables-naming-question1_key2": "Assign FLOAT value to a VARIABLE named as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_12</span>.  ",
-	"variables-naming-question1_key3": "Assign STRING value to a VARIABLE named as<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_var</span>.  ",
-	"variables-naming-question1_key4": "Assign INTEGER value to a VARIABLE named as<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_12</span>.  ",
-	"variables-naming-question1_key5": "After doing the above 3 steps, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> those three variables."
-}

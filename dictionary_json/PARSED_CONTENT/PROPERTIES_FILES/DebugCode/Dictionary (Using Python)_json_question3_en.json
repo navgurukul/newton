@@ -1,6 +1,0 @@
-{
-	"question3_key1": "Question 3",
-	"question3_key2": "Below is a program in which the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> are between <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 15</span> and the values ​​are the squares of the <span style=\"\">keys</span>.",
-	"question3_key3": "The <span style=\"\">output</span> should be something like this:-<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;br&gt;{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64,&lt;br&gt;9: 81, 10: 100, 11: 121, 12: 144, 13: 169, 14: 196, 15: 225}</span>",
-	"question3_key4": "Now, you have to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> this :-"
-}

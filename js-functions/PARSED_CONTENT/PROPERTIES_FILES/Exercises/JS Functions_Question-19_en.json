@@ -1,8 +1,0 @@
-{
-	"Question-19_key1": "Write a function named multiplesOfNumbers which takes an argument as limit, and runs a `loop` from o to that limit and prints the multiples of 3 and 5. Like the below.\n",
-	"Question-19_key2": "`Input`:\n",
-	"Question-19_key3": "10\n",
-	"Question-19_key4": "3 and 5  multiples => 3, 5, 6, 9, 10\n",
-	"Question-19_key5": "`Output` :\n",
-	"Question-19_key6": "33\n"
-}

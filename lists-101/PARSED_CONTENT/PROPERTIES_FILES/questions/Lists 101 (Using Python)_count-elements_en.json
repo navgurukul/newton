@@ -1,4 +1,0 @@
-{
-	"count-elements_key1": "Write a program that tells how many elements are there in a given list. It is similar to `len() function`, so in order to implement this program we will not use `len() function` but we will try to understand that how did any programmer implemented this `len()` function.\n",
-	"count-elements_key2": "After writing this `code`, `upload` this `code` :)\n"
-}

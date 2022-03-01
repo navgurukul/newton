@@ -1,9 +1,0 @@
-{
-	"If-Statement_key1": "If you want to run a piece of `code`, based on a certain condition, then you should use the if `statement`. The `key`word if tells JavaScript to `execute` the `code` in the curly braces under certain conditions, that defined in the parentheses (). \n",
-	"If-Statement_key2": "### Note: These conditions are known as Boolean conditions and they are only be `true` or `false`. \n\n\n",
-	"If-Statement_key3": "When the condition evaluates to `true`, the program `executes` the `statement` inside the curly braces. When the Boolean condition evaluates to `false`, the `statement` inside the curly braces will not `execute`.\n",
-	"If-Statement_key4": "Let us see some more examples.\n",
-	"If-Statement_key5": "### Example:\n\n\n",
-	"If-Statement_key6": "### Explanation: \n\n\n",
-	"If-Statement_key7": "Here 12 is greater than 10. So, the console will show us the `output` as 12, is greater than, 10.\n"
-}

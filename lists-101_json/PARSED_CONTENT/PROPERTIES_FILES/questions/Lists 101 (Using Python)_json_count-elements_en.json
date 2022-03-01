@@ -1,4 +1,0 @@
-{
-	"count-elements_key1": "Write a program that tells how many elements are there in a given list. It is similar to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len() function</span>, so in order to implement this program we will not use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len() function</span> but we will try to understand that how did any programmer implemented this <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">len()</span> function.",
-	"count-elements_key2": "After writing this <span style=\"\">code</span>, <span style=\"\">upload</span> this <span style=\"\">code</span> :)"
-}

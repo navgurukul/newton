@@ -1,4 +1,0 @@
-- Academic_Circle_Or_Learning_Circle.md
-- Coach_Mentor_Mentee_Meetings.md
-- Hackathons.md
-- Tech_Fest.md

@@ -1,8 +1,0 @@
-{
-	"question6_key1": "Question 6",
-	"question6_key2": "Define a function that checks the speed of drivers. This function will take a parameter named speed, and will satisfy the following conditions:<br>1.If speed if less than 70, print 70.<br>2.If speed is more than 70, give 1 point per 5km.(NOTE:This won't count 70).<br>3. If points are more than 12, print “License suspended”",
-	"question6_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> ",
-	"question6_key4": "85<br>135",
-	"question6_key5": "<b><span style=\"\">Output</span> :-</b>",
-	"question6_key6": "3<br>“License suspended”"
-}

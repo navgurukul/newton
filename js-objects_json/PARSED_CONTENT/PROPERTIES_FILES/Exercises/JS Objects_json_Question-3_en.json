@@ -1,6 +1,0 @@
-{
-	"Question-3_key1": "Write a program to print count a sub<span style=\"\">string</span> in a Main <span style=\"\">string</span>.",
-	"Question-3_key2": "var main<span style=\"\">String</span>=\"My name is kumar, and my friend’s name is Dhamu\"<br>var sub<span style=\"\">String</span>=\"is\"",
-	"Question-3_key3": "<span style=\"\">Output</span>:",
-	"Question-3_key4": "The sub<span style=\"\">string</span> is there 2 times in main <span style=\"\">string</span>."
-}

@@ -1,7 +1,0 @@
-{
-	"Question1_key1": "what is the <span style=\"\">output</span> of the following <span style=\"\">code</span>?",
-	"Question1_key2": "Feedback after submit:",
-	"Question1_key3": "10<br>13",
-	"Question1_key4": "Explanation:",
-	"Question1_key5": "A display named function is there, inside that we have 1 if block. Inside the function  block we defined two <span style=\"\">variables</span> a and b with var and let <span style=\"\">key</span>words respectively. Here both a and b are working as function scoped <span style=\"\">variables</span> aka local scoped to that function you can use them inside a function anywhere."
-}

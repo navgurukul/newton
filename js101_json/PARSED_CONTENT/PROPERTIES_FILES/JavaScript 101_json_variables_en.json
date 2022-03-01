@@ -1,7 +1,0 @@
-{
-	"variables_key1": "Explain the concept of how variable is a store of value. It's like an empty box which can take in any content.",
-	"variables_key2": "Currently instead of doing the explaining work, we can just refer them to the variable section in the Python course.",
-	"variables_key3": "Print things like var a = 12; console.log(a);",
-	"variables_key4": "Show how to change value of a variable.",
-	"variables_key5": "//<span style=\"\">Variables</span><br>var a = 3;<br>var b = 4;<br>console.log(a + b)"
-}

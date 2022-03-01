@@ -1,9 +1,0 @@
-{
-	"project-1_key1": "<a href=\"https://employee-database-system.herokuapp.com/\">Project demo</a>",
-	"project-1_key2": "Description : We have to create a management system in which we can easily find out the employee names by entering their surnames or any alphabet of their names so it will show the employee details related to our search, and show the levels and salary of the employees.",
-	"project-1_key3": "Before writing the functions read this basic concept of Html which will help you to write the js <span style=\"\">file</span>.",
-	"project-1_key4": ".get element by id <a href=\"https://www.javatpoint.com/document-getElementById()-method\">link</a>",
-	"project-1_key5": ".innerHtml <a href=\"https://www.javatpoint.com/javascript-innerHTML\">link</a>",
-	"project-1_key6": "Here is the HTML and CSS code for the project <a href=\"https://github.com/shwetasharma18/Project_1\">link</a>",
-	"project-1_key7": "Clone the link mentioned above as all the instructions for writing the function are provided in the same <span style=\"\">file</span> and start editing the <span style=\"\">code</span> in the same <span style=\"\">file</span> only."
-}

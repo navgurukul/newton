@@ -1,8 +1,0 @@
-- Operators
-    - What-is-an-Operator?.md
-- Types-Of-Operators
-    - Arithmetic-operators.md
-    - Comparison-operators.md
-    - Assignment-operators.md
-    - Logical-operators.md
-    - Operations-on-primitive-datatypes.md

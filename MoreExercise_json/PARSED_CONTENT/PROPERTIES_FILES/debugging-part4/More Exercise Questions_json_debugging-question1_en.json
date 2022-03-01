@@ -1,8 +1,0 @@
-{
-	"debugging-question1_key1": "Encrypt function ek message <span style=\"\">input</span> leta hai aur firr uss message ko encrypt karta hai. Encrypt karne ke liye yeh har character ko 3 character aage wale character se change kar deta hai. Aisa karne ke liye yeh har character ki ascii value ko 3 se increase kar deta hai. Jaise:",
-	"debugging-question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">v</span> ki ASCII value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">118</span> hai, agar hum isse <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span> se increase kar de <span style=\"\">tab</span> yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">121</span> ho jayegi. Jo ki 'y' ki ascii value hai. ASCII value nikalne ke liye hum ord() ka use karte hai. Aur ascii value ko <span style=\"\">string</span> mei convert karne ke liye chr function ka use karte hai. Jaise:",
-	"debugging-question1_key3": "Decrypt function encrypt function ka ultaa hai. Yeh value ko 3 se incresae karne ki jagah 3 se kam kar deta hai.",
-	"debugging-question1_key4": "Topics covered",
-	"debugging-question1_key5": "semantic/syntactic problems in if/else",
-	"debugging-question1_key6": "problems in while loop"
-}

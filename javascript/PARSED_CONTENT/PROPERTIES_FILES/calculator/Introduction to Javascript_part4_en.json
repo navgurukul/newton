@@ -1,6 +1,0 @@
-{
-	"part4_key1": "Part IV\n",
-	"part4_key3": "Link",
-	"part4_key4": " ~ Ismei hum on`key`press event karenge. Isse jab hum koi bhi `key` press karenge toh usse calculator mei changes aayenge.",
-	"part4_key5": "Jaise onclick, onmouseover, on`key`down events, aise hi on`key`press bhi ek event hai. Event kisi object se bind hota hai. Hume\n"
-}

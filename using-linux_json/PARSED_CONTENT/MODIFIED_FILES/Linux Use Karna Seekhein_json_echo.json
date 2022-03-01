@@ -1,8 +1,0 @@
-[
-  {
-    "component": "code",
-    "type": "other",
-    "title": "",
-    "value": "echo \"hello\"<br>echo \"hello\"; echo \"hi\"<br>echo \"hi\""
-  }
-]

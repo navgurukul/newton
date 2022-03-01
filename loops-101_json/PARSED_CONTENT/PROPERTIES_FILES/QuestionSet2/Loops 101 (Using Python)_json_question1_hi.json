@@ -1,8 +1,0 @@
-{
-    "question1_key1": "प्रश्न 1",
-    "question1_key2": "एक प्रोग्राम बनाएं जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> से उन सभी नंबरों को प्रिंट करे जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span> हैं।",
-    "question1_key3": "ध्यान दें :",
-    "question1_key4": "<span style=\"\">loop</span> जो आप लिखेंगे वह 556 से शुरू होगा।",
-    "question1_key5": "आपका <span style=\"\">output</span> इस प्रकार होना चाहिए।",
-    "question1_key6": "7<br> 14<br> 21<br> 28<br> 35<br> 42<br> 49<br> 56<br> 63<br> 70<br> 77<br> 84<br> 91<br> 98"
-}

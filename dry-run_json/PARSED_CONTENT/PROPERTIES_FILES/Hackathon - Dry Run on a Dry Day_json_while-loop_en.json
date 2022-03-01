@@ -1,7 +1,0 @@
-{
-	"while-loop_key1": "Aap pehle iss video ko dekhein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> program ka dry run samajhne ke liye. ",
-	"while-loop_key2": "While <span style=\"\">loop</span> kya hota hai yeh samajhne ke liye aap yeh dono videos dekh sakte ho.  ",
-	"while-loop_key3": "yeh <span style=\"\">loop</span> hai is mei hum <span style=\"\">loop</span> kise kam kar raha hai voh hum dry run kar ke dekhna hai",
-	"while-loop_key4": "Ab aap yeh questions solve karein.",
-	"while-loop_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> ke saath <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">else</span> ka bhi use ho sakta hai. Jab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> <span style=\"\">loop</span> khatam ho jata hai, toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">else</span> wala <span style=\"\">code</span> <span style=\"\">execute</span> hota hai. Yeh trick kaafi baar useful hoti hai."
-}

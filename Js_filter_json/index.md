@@ -1,5 +1,0 @@
-- introduction.json
-- Exercise
-    - Question1.json
-    - Question2.json
-    - Question3.json

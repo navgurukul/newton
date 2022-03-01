@@ -1,3 +1,0 @@
-- Admission-Criteria.json
-- Assessment-Process-Stage-Wise.json
-- Admission-Process-Videos.json

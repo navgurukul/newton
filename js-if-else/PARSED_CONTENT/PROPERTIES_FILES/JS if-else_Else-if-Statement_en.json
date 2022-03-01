@@ -1,8 +1,0 @@
-{
-	"Else-if-Statement_key1": "Example:\n",
-	"Else-if-Statement_key2": "Explanation:\n",
-	"Else-if-Statement_key3": "if the course is equal to English, `output` “Tutorial content is there in English”.else if the course is equal to Hindi, `output` “Tutorial content is there in Hindi”.if nothing of the above condition is `true`, then `output` “I am not understanding of Languaget”\n",
-	"Else-if-Statement_key4": "else If condition specifies a new condition if the first condition will be  `false` then it checks other conditions. \n",
-	"Else-if-Statement_key5": "Note\n",
-	"Else-if-Statement_key6": "When we have many conditions to check and we want a condition to be `true` then we use an else-if `key`word.\n"
-}

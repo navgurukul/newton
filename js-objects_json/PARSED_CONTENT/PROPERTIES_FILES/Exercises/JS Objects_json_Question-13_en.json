@@ -1,7 +1,0 @@
-{
-	"Question-13_key1": "Write a programme to find the 3 maximum values of an object and print them.",
-	"Question-13_key2": "<span style=\"\">Input</span> :-",
-	"Question-13_key3": "var my_dict = {<br>    'a':50, <br>    'b':58, <br>    'c':56,<br>    'd':40, <br>    'e':100, <br>    'f':20<br>    }",
-	"Question-13_key4": "<span style=\"\">Output</span> :-",
-	"Question-13_key5": "[58,56,100]"
-}

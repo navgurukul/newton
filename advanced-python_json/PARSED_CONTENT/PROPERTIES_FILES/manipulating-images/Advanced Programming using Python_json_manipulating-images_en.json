@@ -1,8 +1,0 @@
-{
-	"manipulating-images_key1": "Manipulating Images",
-	"manipulating-images_key2": "If you have a digital camera or even if you just <span style=\"\">upload</span> photos from your phone to Facebook, you probably cross paths with digital image <span style=\"\">files</span> all the time. You may know how to use basic graphics software, such as Microsoft Paint or Paintbrush, or even more advanced <span style=\"\">applications</span> such as Adobe Photoshop. But if you need to edit a massive number of images, editing them by hand can be a lengthy, boring job.",
-	"manipulating-images_key3": "Enter <span style=\"\">Python</span>. Pillow is a third-party <span style=\"\">Python</span> module for interacting with image <span style=\"\">files</span>. The module has several functions that make it easy to crop, resize, and edit the content of an image. With the power to manipulate images the same way you would with software such as Microsoft Paint or Adobe Photoshop, <span style=\"\">Python</span> can automatically edit hundreds or thousands of images with ease.",
-	"manipulating-images_key4": "Computer Image Fundamentals",
-	"manipulating-images_key5": "In order to manipulate an image, you need to understand the basics of how computers deal with colors and coordinates in images and how you can work with colors and coordinates in Pillow. But before you continue, install the pillow module. See Appendix A for help installing third-party modules.",
-	"manipulating-images_key6": "Installing Pillow has had slight changes. StackOverflow has guides on installing on Windows and Mac. For Linux, run sudo apt-get install <span style=\"\">python3</span>-tk, sudo apt-get install <span style=\"\">python3</span>-dev, then sudo pip3 install pillow."
-}

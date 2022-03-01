@@ -1,7 +1,0 @@
-{
-	"disconnecting-from-the-imap-server_key1": "Disconnecting from the IMAP Server",
-	"disconnecting-from-the-imap-server_key2": "When your program has finished retrieving or deleting emails, simply call the IMAPClient’s logout() method to disconnect from the IMAP server.",
-	"disconnecting-from-the-imap-server_key3": "If your program runs for several minutes or more, the IMAP server may time out, or automatically disconnect. In this case, the next method call your program makes on the IMAPClient object will raise an exception like the following:",
-	"disconnecting-from-the-imap-server_key4": "imaplib.abort: socket <span style=\"\">error</span>: [Win<span style=\"\">Error</span> 10054] An existing connection was<br>forcibly closed by the remote host<br>In this event, your program will have to call imapclient.IMAPClient() to connect again.",
-	"disconnecting-from-the-imap-server_key5": "Whew! That’s it. There were a lot of hoops to jump through, but you now have a way to get your <span style=\"\">Python</span> programs to log in to an email account and fetch emails. You can always consult the overview in Retrieving and Deleting Emails with IMAP whenever you need to remember all of the steps."
-}

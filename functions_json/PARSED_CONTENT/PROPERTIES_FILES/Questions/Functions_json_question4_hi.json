@@ -1,9 +1,0 @@
-{
-    "question4_key1": "प्रश्न 4",
-    "question4_key2": "एक फ़ंक्शन को परिभाषित करें जो एक तर्क लेता है जो कि वह सीमा है जिस तक फ़ंक्शन को संख्याओं और उनके लेबल (सम या विषम) को प्रिंट करना होता है जैसा कि नीचे दिखाया गया है।",
-    "question4_key3": "<b><i>उदाहरण के लिए :-</i></b>",
-    "question4_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
-    "question4_key5": "3",
-    "question4_key6": "<b><span style=\"\">Output</span> :-</b>",
-    "question4_key7": "0 ईवन<br> 1 विषम<br> 2 ईवन<br> 3 विषम"
-}

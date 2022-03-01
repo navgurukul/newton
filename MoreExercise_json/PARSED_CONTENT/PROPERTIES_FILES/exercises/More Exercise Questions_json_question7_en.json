@@ -1,6 +1,0 @@
-{
-	"question7_key1": "Socho aapke paas 2 lists hain. Aapne aisa <span style=\"\">code</span> likhna hain jisse ek nayi list banne jisme inn dono lists ke woh item hone chaiye ho dono list mein aa rahe hain. Socho aapki do list yeh hain:",
-	"question7_key2": "Inn dono list se aapki nayi list yeh banni chaiye:",
-	"question7_key3": "Iss nayi list mein sirf <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">75</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">98</span> isliye hain kyunki aur koi bhi items dono lists mein nahi aa rahi. Dusri saari items ya toh pehli list mein aa rahi hai ya dusri mein.",
-	"question7_key4": "<i>Note: Aapka yeh <span style=\"\">code</span> kitne bhi items ki list pe kaam karna chaiye. Aur dono lists ki length alag bhi ho sakti hai.</i>"
-}

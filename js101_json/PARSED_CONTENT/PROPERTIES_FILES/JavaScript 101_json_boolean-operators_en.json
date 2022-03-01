@@ -1,5 +1,0 @@
-{
-	"boolean-operators_key1": "Explain them the concept of and/or and then ask them to enter three different numbers using prompt. After this it returns maximum of those three numbers //Operators like less than, greater than and boolean operators //Operators like less than, greater than and boolean operators",
-	"boolean-operators_key2": "var a = Number(prompt('Pehle number likho', '12'))<br>var b = Number(prompt('Dusra number likho', '34'))<br>var c = Number(prompt('Teesra number likho', '-10'))",
-	"boolean-operators_key3": "if (a &gt;= b &amp;&amp; a &gt;= c) {<br>        console.log('sabse badha number: ' + a)<br>} else if(b &gt;= a &amp;&amp; b &gt;= c) {<br>        console.log('sabse badha number: ' + b)<br>} else if(c &gt;= a &amp;&amp; c &gt;= b) {<br>        console.log('sabse badha number: ' + c)<br>}"
-}

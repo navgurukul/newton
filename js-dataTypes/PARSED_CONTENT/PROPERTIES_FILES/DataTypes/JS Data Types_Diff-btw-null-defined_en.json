@@ -1,9 +1,0 @@
-{
-	"Diff-btw-null-defined_key1": "Example:\n",
-	"Diff-btw-null-defined_key2": "Explanation:\n",
-	"Diff-btw-null-defined_key3": "Null is the value which we can assign to a `variable` and it means nothing. As you can see in the above example we have assigned a value “null” to a `variable` named “empty”. when we check the type of it, It will show us its type as object, which is the by default `error` in javascript which should not be there, but it can’t be changed also. \n",
-	"Diff-btw-null-defined_key4": "Where as,\n",
-	"Diff-btw-null-defined_key5": "Example:\n",
-	"Diff-btw-null-defined_key6": "Explanation:\n",
-	"Diff-btw-null-defined_key7": "Here in notDefined `variable` we have declared a `variable` but didn’t assign a value to it which means the `variable` is there but nothing is stored in it, so when we try to console it the `output` will be “undefined” as it is not defined yet. Here the value of a `variable` is not defined so it shows the type also as undefined.\n"
-}

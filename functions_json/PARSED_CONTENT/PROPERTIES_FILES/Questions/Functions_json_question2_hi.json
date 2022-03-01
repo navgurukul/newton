@@ -1,9 +1,0 @@
-{
-    "question2_key1": "प्रश्न 2",
-    "question2_key2": "बिल्कुल सही संख्या?<br> एक पूर्ण संख्या वह होती है जो अपने सभी कारकों के योग के बराबर होती है (1 सहित और स्वयं को छोड़कर)।",
-    "question2_key3": "परफेक्ट () नाम के एक फंक्शन को परिभाषित करें जो एक तर्क ( <span style=\"\">integer</span> ) लेता है और जांचता है कि यह एक पूर्ण संख्या है या नहीं। अब इस <span style=\"\">code</span> का उपयोग एक प्रोग्राम लिखने के लिए करें जो 1-1000 के बीच सभी पूर्ण संख्याओं को प्रिंट करता है।",
-    "question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example:-</span>",
-    "question2_key5": "6 ek perfect number hai 6=1+2+3.",
-    "question2_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Expected Output :-</span>",
-    "question2_key7": "6,28,496"
-}

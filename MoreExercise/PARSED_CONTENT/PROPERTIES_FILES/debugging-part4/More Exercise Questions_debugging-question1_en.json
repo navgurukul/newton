@@ -1,8 +1,0 @@
-{
-	"debugging-question1_key1": "Encrypt function ek message `input` leta hai aur firr uss message ko encrypt karta hai. Encrypt karne ke liye yeh har character ko 3 character aage wale character se change kar deta hai. Aisa karne ke liye yeh har character ki ascii value ko 3 se increase kar deta hai. Jaise:\n",
-	"debugging-question1_key2": "`v` ki ASCII value `118` hai, agar hum isse `3` se increase kar de `tab` yeh `121` ho jayegi. Jo ki 'y' ki ascii value hai. ASCII value nikalne ke liye hum ord() ka use karte hai. Aur ascii value ko `string` mei convert karne ke liye chr function ka use karte hai. Jaise:\n",
-	"debugging-question1_key3": "Decrypt function encrypt function ka ultaa hai. Yeh value ko 3 se incresae karne ki jagah 3 se kam kar deta hai.\n",
-	"debugging-question1_key4": "Topics covered\n",
-	"debugging-question1_key5": "semantic/syntactic problems in if/else\n",
-	"debugging-question1_key6": "problems in while `loop`\n\n\n"
-}

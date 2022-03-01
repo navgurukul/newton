@@ -1,9 +1,0 @@
-{
-	"Question10_key1": "Write a program to reverse the element of the array.\n",
-	"Question10_key2": "Hint\n",
-	"Question10_key3": "When we have to take last element of array we can use length-1.\n",
-	"Question10_key4": "Sample `Input`:\n",
-	"Question10_key5": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7]\n",
-	"Question10_key6": "sample `Output`:\n",
-	"Question10_key7": "[7, 10, 5, 12, 56, 70, 23, 40, 50]\n"
-}

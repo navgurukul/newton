@@ -1,5 +1,0 @@
-{
-	"arithmetic-intro_key1": "Explain them how to do addition/subtraction/multiplication or power of two numbers.",
-	"arithmetic-intro_key2": "Also tell them about division by zero error",
-	"arithmetic-intro_key3": "//<span style=\"\">Variables</span><br>var a = 3;<br>var b = 4;<br>console.log(a + b)"
-}

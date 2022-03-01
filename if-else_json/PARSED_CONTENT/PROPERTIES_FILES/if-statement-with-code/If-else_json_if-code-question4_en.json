@@ -1,7 +1,0 @@
-{
-	"if-code-question4_key1": "Question 4",
-	"if-code-question4_key2": "If water in the filter is less than 1L then more water needs to be filled. If the water quantity is between 1L and 10L then there is no need to fill water. If water is more than 10L then the water will overflow. Based on these conditions, complete the flowchart given below.",
-	"if-code-question4_key3": "For water level, take user <span style=\"\">input</span> in a <span style=\"\">variable</span> named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">water</span> and convert it to an <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span>.",
-	"if-code-question4_key4": "question 6 png",
-	"if-code-question4_key5": "Complete and submit both the flowchart and the <span style=\"\">code</span>."
-}

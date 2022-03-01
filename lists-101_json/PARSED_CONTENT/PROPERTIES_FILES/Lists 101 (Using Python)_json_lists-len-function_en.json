@@ -1,7 +1,0 @@
-{
-	"lists-len-function_key1": "How to iterate on two lists together?",
-	"lists-len-function_key2": "Let's say you have two lists of the same length. How will you iterate through both the lists together ?",
-	"lists-len-function_key3": "See if both the lists have same length as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6</span>. Below we have written a <span style=\"\">code</span> on how to iterate through these lists.",
-	"lists-len-function_key4": "You will notice here that elements of both the lists will be printed.",
-	"lists-len-function_key5": "This lesson has only this much to read :D"
-}

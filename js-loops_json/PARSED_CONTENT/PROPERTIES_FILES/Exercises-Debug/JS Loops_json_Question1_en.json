@@ -1,5 +1,0 @@
-{
-	"Question1_key1": "Debug the <span style=\"\">code</span> as per the given sample <span style=\"\">input</span> and <span style=\"\">output</span>",
-	"Question1_key2": "Sample <span style=\"\">Input</span>: if i give <span style=\"\">input</span> 2 it needs to give characters a and b because 95 is the ascii character of a, and 96 is the ascii character of b. <span style=\"\">Loop</span> needs to run from 95 to those many times that user entered.",
-	"Question1_key3": "<span style=\"\">Input</span> 3<br><span style=\"\">Output</span>: a b c"
-}

@@ -1,5 +1,0 @@
-{
-	"Question-10_key1": "Take 10 student <span style=\"\">inputs</span> and marks and <span style=\"\">save</span> them in an object.",
-	"Question-10_key2": "<span style=\"\">Output</span> :-",
-	"Question-10_key3": "{<br>    'sonu':85,<br>    'Kartik':90,<br>    'Deepak':96,<br>    'Aman':76,<br>    'Somesh':60,<br>    'Umesh':85,<br>    'Amarpal':70,<br>    'Roshan':57,<br>    'Riyaz':98,<br>    'Shabid':56<br>}"
-}

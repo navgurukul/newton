@@ -1,3 +1,0 @@
-{
-	"Question-8_key1": "If water in the filter is less than 1L then more water needs to be filled. If the water quantity is between 1L and 10L then there is no need to fill water. If water is more than 10L then the water will overflow. take user <span style=\"\">input</span> in a <span style=\"\">variable</span> named water ."
-}

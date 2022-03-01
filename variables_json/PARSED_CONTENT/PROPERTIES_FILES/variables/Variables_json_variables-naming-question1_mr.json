@@ -1,7 +1,0 @@
-{
-    "variables-naming-question1_key1": "प्रश्न",
-    "variables-naming-question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var_12</span> नावाच्या व्हेरिएबलला फ्लोट मूल्य नियुक्त करा.",
-    "variables-naming-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_var</span> नावाच्या व्हेरिएबलला STRING मूल्य नियुक्त करा.",
-    "variables-naming-question1_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_12</span> नावाच्या व्हेरिएबलला पूर्णांक मूल्य नियुक्त करा.",
-    "variables-naming-question1_key5": "वरील ३ पायऱ्या केल्यानंतर, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">print</span> ते तीन व्हेरिएबल्स."
-}

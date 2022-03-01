@@ -1,5 +1,0 @@
-{
-	"functions-question2_key1": "Question 2\n",
-	"functions-question2_key2": "Write a function named `function_print_lines` which takes 2 `strings`, and prints them in the following manner.\n",
-	"functions-question2_key3": "If we give these 2 arguments - `\"My name is Rishabh.\"` and `\"I am the co-founder of NavGurukul\"`\nwe will get the following `output`:\n"
-}

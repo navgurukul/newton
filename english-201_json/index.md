@@ -1,8 +1,0 @@
-- Contents.json
-- Conjunctions.json
-- Adjectives.json
-- Prepositions.json
-- Word_Order.json
-- Samvaad.json
-- Vocabulary.json
-- Talk_About_Daily_Routine.json

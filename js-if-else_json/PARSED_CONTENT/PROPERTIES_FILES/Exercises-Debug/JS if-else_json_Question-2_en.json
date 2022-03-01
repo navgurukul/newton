@@ -1,9 +1,0 @@
-{
-	"Question-2_key1": "<span style=\"\">code</span> the change like if I give number as 21, 21 is divisible by both 3 and 7 so it should give Chacolate as answer to me.",
-	"Question-2_key2": "sample <span style=\"\">inputs</span> and <span style=\"\">outputs</span>:",
-	"Question-2_key3": "for 21 answer Chacolate",
-	"Question-2_key4": "for 15 answer choco",
-	"Question-2_key5": "for 14 answer late",
-	"Question-2_key6": "for 13 answer Not divisible by 3 , 7",
-	"Question-2_key7": "Debug the <span style=\"\">code</span> and try to get exact solutions with different <span style=\"\">inputs</span>"
-}

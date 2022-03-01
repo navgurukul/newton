@@ -1,8 +1,0 @@
-{
-	"question2_key1": "Question 2",
-	"question2_key2": "Write  a program to print 'exists' if entered <span style=\"\">key</span> already exists in the dictionary and print 'not exists' if the entered <span style=\"\">key</span> does not exist.",
-	"question2_key3": "Example :-",
-	"question2_key4": "Note :-",
-	"question2_key5": "If <span style=\"\">input</span> is “name” then <span style=\"\">output</span> will be “exist”",
-	"question2_key6": "If <span style=\"\">input</span> is “class” then <span style=\"\">output</span> will be “not exists”."
-}

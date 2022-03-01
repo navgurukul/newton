@@ -1,8 +1,0 @@
-{
-	"modulus_key1": "Modulus/Remainder yani ki % and divide /, computers mai aise kaam karte hai,<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x = 3</span>, agar x ko 2 se divide karenge to kya answer aayega?",
-	"modulus_key2": "Modulus kya hota hai, yeh samajhne ke liye yeh yeh video dekho. ",
-	"modulus_key3": "yaad rakhiyega ki interger nos ke liye, hamesha <span style=\"\">integer</span> hi answer aata hai, mtlb usme <span style=\"\">float</span> nahi aata<br>so jab 3 ko 2 se divide karenge to answer 1 aayega and Remainder bhi 1 hi aayega",
-	"modulus_key4": "Yeh video bhi dekho.",
-	"modulus_key5": "ye program mai kuch galti hai isko aap ko sahi karna hai<br>Ye program ye batata hai ki <b>x</b> 3 ka multiple hai ya nahi, is program ko dry run kare or fir sahi bhi kare<br><b>x</b> ki diff values ke liye <span style=\"\">code</span> likhe jaise 3, 10, 25, 6",
-	"modulus_key6": "Iska solution verify ya samajhne k liye aap yeh video dekh sakte ho."
-}

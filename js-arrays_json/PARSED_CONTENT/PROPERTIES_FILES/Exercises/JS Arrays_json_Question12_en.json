@@ -1,5 +1,0 @@
-{
-	"Question12_key1": "Given two arrays, find which numbers are not present in the second array.",
-	"Question12_key2": "var list1 = [1,2,3,4,5,6]",
-	"Question12_key3": "var list2 = [2,3,1,0,6,7]"
-}

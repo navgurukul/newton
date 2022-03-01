@@ -1,9 +1,0 @@
-{
-	"dmerge_key1": "DMerge -&gt; dmerge('some_other.db')",
-	"dmerge_key2": "Iss function ko banane ke liye",
-	"dmerge_key3": "aap current database mei, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dmerge</span> naam ka function define karoge",
-	"dmerge_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dmerge</span> ek doosre database ka naam doge",
-	"dmerge_key5": "Current database mei aapko, naya wala database jo argument diya hai, woh load karna hai",
-	"dmerge_key6": "Iske liye Aap existing class ke andar khud ka ek naya object bana sakte ho",
-	"dmerge_key7": "Phir uss database ki saari <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> aur unki corresponding <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">values</span> apne existing <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">database</span> mei add karo"
-}

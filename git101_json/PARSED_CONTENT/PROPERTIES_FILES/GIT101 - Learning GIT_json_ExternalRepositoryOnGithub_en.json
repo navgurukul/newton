@@ -1,7 +1,0 @@
-{
-	"ExternalRepositoryOnGithub_key1": "Aapne abhi tak apne project repository ko apne system mein hi rakha hai.<br>Iss project repository ko ab app GitHub (ek cloud) pe daal sakte hain taaki aapke peers bhi aapka project dekh sake.",
-	"ExternalRepositoryOnGithub_key2": "Iske liye pehle aapko GitHub pe ek empty project repository banani hogi aur usme apne existing project ko <b>push</b> karna hoga.",
-	"ExternalRepositoryOnGithub_key3": "Detail mein aisa kaise karte hain, ye janne ke liye <a href=\"https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/\">iss</a> ke instructions ko follow karein.",
-	"ExternalRepositoryOnGithub_key4": "<b>Assignment</b>",
-	"ExternalRepositoryOnGithub_key5": "Upar diye hue instructions ko follow karte hue apne code ko GitHub ke repository pe push karein"
-}

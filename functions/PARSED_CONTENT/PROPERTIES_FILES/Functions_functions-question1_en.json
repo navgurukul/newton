@@ -1,9 +1,0 @@
-{
-	"functions-question1_key1": "Question 1\n",
-	"functions-question1_key2": "Question 1 (Part 1)\n",
-	"functions-question1_key3": "Write a function named `ask_question` which will print the text \"Once\".\n",
-	"functions-question1_key4": "Then call this function 5 times and get this text printed 5 times.\n",
-	"functions-question1_key5": "Question 1 (Part 2)\n",
-	"functions-question1_key6": "Then using the while `loop` wrote the `code` to call this function 100 times.\n",
-	"functions-question1_key7": "`Upload` the two part of `code` of in the same `file`!\n"
-}

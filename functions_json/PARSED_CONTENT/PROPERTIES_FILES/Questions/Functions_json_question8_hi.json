@@ -1,7 +1,0 @@
-{
-    "question8_key1": "प्रश्न 8",
-    "question8_key2": "एक फ़ंक्शन बनाएं जो एक तर्क लेता है (एक सकारात्मक <span style=\"\">integer</span> ) और एक शब्दकोश देता है जिसमें 1 से <span style=\"\">integer</span> (पैरामीटर के रूप में पारित) के रूप में <span style=\"\">keys</span> और उनके संबंधित वर्गों को मान के रूप में दिखाया गया है जैसा कि परीक्षा में दिखाया गया है नीचे।",
-    "question8_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input :-</span><br> 20",
-    "question8_key4": "<b><span style=\"\">Output</span> :-</b>",
-    "question8_key5": "{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81, 10: 100, 11: 121, 12: 144, 13 : 169, 14: 196, 15: 225, 16: 256, 17: 289, 18: 324, 19: 361, 20: 400}"
-}

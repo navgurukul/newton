@@ -1,1 +1,0 @@
-You can practice your readng skills reading [this book](https://www.researchgate.net/publication/258339295_FUNDAMENTALS_OF_COMPUTER_STUDIES) about computer fundamentals.

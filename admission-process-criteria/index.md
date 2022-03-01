@@ -1,3 +1,0 @@
-- Admission-Criteria.md
-- Assessment-Process-Stage-Wise.md
-- Admission-Process-Videos.md

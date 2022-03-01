@@ -1,9 +1,0 @@
-{
-	"merging-and-unmerging-cells_key1": "Merging and Unmerging Cells",
-	"merging-and-unmerging-cells_key2": "A rectangular area of cells can be merged into a single cell with the merge_cells() sheet method. Enter the following into the interactive <span style=\"\">shell</span>:",
-	"merging-and-unmerging-cells_key3": "The argument to merge_cells() is a single <span style=\"\">string</span> of the top-left and bottom-right cells of the rectangular area to be merged: 'A1:D3' merges 12 cells into a single cell. To set the value of these merged cells, simply set the value of the top-left cell of the merged group.",
-	"merging-and-unmerging-cells_key4": "When you run this <span style=\"\">code</span>, merged.xlsx will look like Figure 12-7.",
-	"merging-and-unmerging-cells_key5": "Figure 12-7. Merged cells in a spreadsheet",
-	"merging-and-unmerging-cells_key6": "To unmerge cells, call the unmerge_cells() sheet method. Enter this into the interactive <span style=\"\">shell</span>.",
-	"merging-and-unmerging-cells_key7": "If you <span style=\"\">save</span> your changes and then take a look at the spreadsheet, you’ll see that the merged cells have gone back to being individual cells."
-}

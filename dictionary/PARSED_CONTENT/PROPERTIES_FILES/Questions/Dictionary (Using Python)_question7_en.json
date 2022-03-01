@@ -1,7 +1,0 @@
-{
-	"question7_key1": "Take a `list having dictionary` elements as shown below (Sample Data) and then store all the `unique values` into a `list` and print.\n",
-	"question7_key2": "Example :-\n",
-	"question7_key3": "`Input` :-\n",
-	"question7_key4": "`Output` :-\n",
-	"question7_key5": "['2', '7', '9', '5', '1']\n"
-}

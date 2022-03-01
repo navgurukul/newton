@@ -1,3 +1,0 @@
-- What-is-javascript?.json
-- History-of-JS.json
-- How-can-we-run-JS-on-our-laptop?.json

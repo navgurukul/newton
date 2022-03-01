@@ -1,2 +1,0 @@
-- Assessments.md
-- exercises.md

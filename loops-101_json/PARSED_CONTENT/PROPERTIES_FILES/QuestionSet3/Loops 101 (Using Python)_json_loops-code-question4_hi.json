@@ -1,4 +1,0 @@
-{
-    "loops-code-question4_key1": "प्रश्न 4",
-    "loops-code-question4_key2": "एक <span style=\"\">code</span> लिखें जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">30 to 420</span> से उन संख्याओं के योग की गणना करता है जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">multiples of 8</span> हैं, जिसका अर्थ है कि वे संख्याएँ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">8</span> के <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">table</span> में आती हैं।"
-}

@@ -1,8 +1,0 @@
-{
-	"const-scopes_key1": "`output`:\n",
-	"const-scopes_key2": "Type`Error`: Assignment to constant `variable`.\n",
-	"const-scopes_key3": "Const cannot be updated.\n",
-	"const-scopes_key4": "Const cannot be redeclared.\n",
-	"const-scopes_key5": "We can also use Const for declaring `variables`. As like let, const also has block scope. Const declarations are only accessible inside a block only.\n",
-	"const-scopes_key6": "For every const `variable` we must and should be declared with const.\n"
-}

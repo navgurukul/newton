@@ -1,7 +1,0 @@
-{
-	"managing-multiple-db_key1": "Managing Multiple DB\n",
-	"managing-multiple-db_key2": "Kisi bhi da`tab`ase ko load karne ke liye, humei uss da`tab`ase ka naam `load` function mei dena hota hai. Aise hum ek saath multiple `databases` ke saath kaam kar sakte hai.\n",
-	"managing-multiple-db_key3": "Jaise yeh `code` chala kar dekhe, `python` `terminal` mei:\n",
-	"managing-multiple-db_key4": "Toh aap same `file` ko use kar kar, kitne bhi da`tab`ases ko simultaneously (ek saath) use / load kar sakte ho.\n",
-	"managing-multiple-db_key5": "Thodi der apne likhe hue functions ke saath khelo, before you move to the next course.\n"
-}

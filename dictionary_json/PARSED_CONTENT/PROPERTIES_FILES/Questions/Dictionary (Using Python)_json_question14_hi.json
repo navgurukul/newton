@@ -1,9 +1,0 @@
-{
-    "question14_key1": "प्रश्न 14",
-    "question14_key2": "शब्दकोश को उसके मूल्यों के अनुसार आरोही या अवरोही में क्रमबद्ध करने के लिए एक प्रोग्राम लिखें।",
-    "question14_key3": "<span style=\"\">Input</span> :-",
-    "question14_key4": "आरोही क्रम में अपेक्षित परिणाम:",
-    "question14_key5": "{'param':20,'anjili':30,'bijender':45,'roshini':50,'deepak':60}",
-    "question14_key6": "अवरोही क्रम में अपेक्षित परिणाम:",
-    "question14_key7": "{'deepak':60,'roshini':50,'bijender':45,'anjili':30,'param':20}"
-}

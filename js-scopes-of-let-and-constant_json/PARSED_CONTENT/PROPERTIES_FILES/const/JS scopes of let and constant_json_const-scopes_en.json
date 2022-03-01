@@ -1,8 +1,0 @@
-{
-	"const-scopes_key1": "<span style=\"\">output</span>:",
-	"const-scopes_key2": "Type<span style=\"\">Error</span>: Assignment to constant <span style=\"\">variable</span>.",
-	"const-scopes_key3": "Const cannot be updated.",
-	"const-scopes_key4": "Const cannot be redeclared.",
-	"const-scopes_key5": "We can also use Const for declaring <span style=\"\">variables</span>. As like let, const also has block scope. Const declarations are only accessible inside a block only.",
-	"const-scopes_key6": "For every const <span style=\"\">variable</span> we must and should be declared with const."
-}

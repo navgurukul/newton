@@ -1,8 +1,0 @@
-{
-	"substituting-strings-with-the-sub()-method_key1": "Substituting <span style=\"\">Strings</span> with the sub() Method",
-	"substituting-strings-with-the-sub()-method_key2": "Regular expressions can not only find text patterns but can also substitute new text in place of those patterns. The sub() method for Regex objects is passed two arguments. The first argument is a <span style=\"\">string</span> to replace any matches. The second is the <span style=\"\">string</span> for the regular expression. The sub() method returns a <span style=\"\">string</span> with the substitutions applied.",
-	"substituting-strings-with-the-sub()-method_key3": "For example, enter the following into the interactive <span style=\"\">shell</span>:",
-	"substituting-strings-with-the-sub()-method_key4": "Sometimes you may need to use the matched text itself as part of the substitution. In the first argument to sub(), you can type \\1, \\2, \\3, and so on, to mean “Enter the text of group 1, 2, 3, and so on, in the substitution.”",
-	"substituting-strings-with-the-sub()-method_key5": "For example, say you want to censor the names of the secret agents by showing just the first letters of their names. To do this, you could use the regex Agent (\\w)\\w* and pass r'\\1****' as the first argument to sub(). The \\1 in that <span style=\"\">string</span> will be replaced by whatever text was matched by group 1—that is, the (\\w) group of the regular expression.",
-	"substituting-strings-with-the-sub()-method_key6": "A<b><i>* told C</i></b>* that E<b><i>* knew B</i></b>* was a double agent.'"
-}

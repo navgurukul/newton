@@ -1,8 +1,0 @@
-[
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "# Calculating Grades (ok, let me think about this one)<br><br># Write a program that will average 3 numeric exam grades, return an average test score, a corresponding letter grade, and a message stating whether the student is passing.<br><br># Average    Grade<br># 90+    A<br># 80-89    B<br># 70-79    C<br># 60-69    D<br># 0-59    F<br><br># Exams: 89, 90, 90<br># Average: 90<br># Grade: A<br># Student is passing.<br><br># Exams: 50, 51, 0<br># Average: 33<br># Grade: F<br># Student iis failing.<br><br>exam_one = int(input(\"Input exam grade one: \"))<br><br>exam_two = input(\"Input exam grade two: \"))<br><br>exam_3 = str(input(\"Input exam grade three: \"))<br><br>grades = [exam_one exam_two exam_three]<br>sum = 0<br>for grade in grade:<br>  sum = sum + grade<br><br>avg = sum / len(grdes)<br><br>if avg >= 90:<br>    letter_grade = \"A\"<br>elif avg >= 80 and avg < 90<br>    letter_grade = \"B\"<br>elif avg > 69 and avg < 80:<br>    letter_grade = \"C'<br>elif avg <= 69 and avg >= 65:<br>    letter_grade = \"D\"<br>elif:<br>    letter_grade = \"F\"<br><br>for grade in grades:<br>    print(\"Exam: \" + str(grade))<br><br>    print(\"Average: \" + str(avg))<br><br>    print(\"Grade: \" + letter_grade)<br><br>if letter-grade is \"F\":<br>    print \"Student is failing.\"<br>else:<br>    print \"Student is passing.\"<br>"
-	}
-]

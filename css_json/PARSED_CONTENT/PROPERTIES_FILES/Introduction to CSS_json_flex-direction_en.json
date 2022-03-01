@@ -1,8 +1,0 @@
-{
-	"flex-direction_key1": "flex-direction : Container Property",
-	"flex-direction_key2": "row | row-reverse | column | column-reverse",
-	"flex-direction_key3": "Aapne notice kiya hoga ki jab aap display flex lihte hai tab items ek row mei aa jaatei hai.",
-	"flex-direction_key4": "Aisa isliye hota hai kyunki jab hum <b>display: flex</b> likhte hai tab by default yaani pehle se hi <b>flex-direction row</b> set hoti hai.",
-	"flex-direction_key5": "<b>flex-direction</b> se pata chalta hai ki flex items kis direction mei flex container mein aayegi. Jaise, <b>flex-direction: row-reverse</b> karne se items ulte order mein container mei aatein hai.",
-	"flex-direction_key6": "Iss <a href=\"http://codepen.io/navgurukul/pen/YNbNjV\">example</a> ko dekho aur container ki css mein flex-direction ki saari values daal kar dekho kya hota hai."
-}

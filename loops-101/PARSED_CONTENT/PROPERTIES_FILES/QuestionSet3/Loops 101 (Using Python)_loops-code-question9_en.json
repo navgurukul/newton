@@ -1,5 +1,0 @@
-{
-	"loops-code-question9_key1": "Make an algorithm that takes `2 numbers as inputs` from the user. Then we will multiply those numbers and print the result. Example :-, if we `input` `5 and 4` then `20` should be printed. \n",
-	"loops-code-question9_key2": "Note :-\n",
-	"loops-code-question9_key3": " Don't use `*` multiply `operator` to `multiply` , you can use any other `operators` like `+,-`).\n"
-}

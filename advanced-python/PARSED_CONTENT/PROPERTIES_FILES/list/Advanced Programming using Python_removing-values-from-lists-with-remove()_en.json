@@ -1,7 +1,0 @@
-{
-	"removing-values-from-lists-with-remove()_key1": "Removing Values from Lists with remove()\n",
-	"removing-values-from-lists-with-remove()_key2": "The remove() method is passed the value to be removed from the list it is called on. Enter the following into the interactive `shell`:\n",
-	"removing-values-from-lists-with-remove()_key3": "Attempting to delete a value that does not exist in the list will result in a Value`Error` `error`. For example, enter the following into the interactive `shell` and notice the `error` that is displayed:\n",
-	"removing-values-from-lists-with-remove()_key4": "If the value appears multiple times in the list, only the first instance of the value will be removed. Enter the following into the interactive `shell`:\n",
-	"removing-values-from-lists-with-remove()_key5": "The del `statement` is good to use when you know the index of the value you want to remove from the list. The remove() method is good when you know the value you want to remove from the list.\n"
-}

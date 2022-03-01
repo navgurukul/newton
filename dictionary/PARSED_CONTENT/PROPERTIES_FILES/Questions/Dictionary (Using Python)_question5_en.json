@@ -1,8 +1,0 @@
-{
-	"question5_key1": "Question 5\n",
-	"question5_key2": "Create a `dictionary` from 2 `lists`, where the elements of 1st list are the `keys` and the elements of the 2nd list are the corresponding values.\n",
-	"question5_key3": "Example :-\n",
-	"question5_key4": "`Input` :-\n",
-	"question5_key5": "`Output` :-\n",
-	"question5_key6": "{“one”:1,”two”:2,”three”:3,”four”:4,”five”:5}\n"
-}

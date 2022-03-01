@@ -1,7 +1,0 @@
-{
-	"the-multiple-assignment-trick_key1": "The Multiple Assignment Trick",
-	"the-multiple-assignment-trick_key2": "The multiple assignment trick is a shortcut that lets you assign multiple <span style=\"\">variables</span> with the values in a list in one line of <span style=\"\">code</span>. So instead of doing this:",
-	"the-multiple-assignment-trick_key3": "you could type this line of <span style=\"\">code</span>:",
-	"the-multiple-assignment-trick_key4": "The number of <span style=\"\">variables</span> and the length of the list must be exactly equal, or <span style=\"\">Python</span> will give you a Value<span style=\"\">Error</span>:",
-	"the-multiple-assignment-trick_key5": "The multiple assignment trick can also be used to swap the values in two <span style=\"\">variables</span>:"
-}

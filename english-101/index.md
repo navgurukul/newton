@@ -1,9 +1,0 @@
-- Contents.md
-- Pehle_100_Words.md
-- Introduction.md
-- Nouns.md
-- Pronouns.md
-- Reading_Practice
-  - stories.md
-- Common_Mistakes_While_Speaking.md
-- There_or_Their.md

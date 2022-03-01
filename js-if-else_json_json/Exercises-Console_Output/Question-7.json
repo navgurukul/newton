@@ -1,6 +1,0 @@
-[
-	{
-		"component": "text",
-		"value": "[<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"You have a <span style=\\\"\\\"><span style=\"\">variable</span></span> called number with the value as shown:\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"var number1 = 44 * 30\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Check if this number1 is greater than or equal to number2. If the entered number2 is greater than or equal to number1, console  <b>\\\"number2 is greater than or equal\\\"</b> else console  <b>\\\"number2 is lesser\\\"</b>.\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"// please write <span style=\"\">code</span> here\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"solution\",<br>        \"value\": \"var number1 = 44 * 30;<br>let readlineSync = require(\\\"readline-sync\\\");<br>var number2=readlineSync.questionInt(\\\"enter a number\\\");<br>if(number2&gt;=number2){<br>   console.log(\\\"number2 is greater than or equal\\\");<br>}<br>else{<br>   console.log(\\\"number2 is lesser\\\");<br>}\"<br>    }<br>]"
-	}
-]

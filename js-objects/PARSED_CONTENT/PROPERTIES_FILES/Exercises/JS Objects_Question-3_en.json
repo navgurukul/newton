@@ -1,6 +1,0 @@
-{
-	"Question-3_key1": "Write a program to print count a sub`string` in a Main `string`.\n",
-	"Question-3_key2": "var main`String`=\"My name is kumar, and my friend’s name is Dhamu\"\nvar sub`String`=\"is\"\n",
-	"Question-3_key3": "`Output`:\n",
-	"Question-3_key4": "The sub`string` is there 2 times in main `string`.\n"
-}

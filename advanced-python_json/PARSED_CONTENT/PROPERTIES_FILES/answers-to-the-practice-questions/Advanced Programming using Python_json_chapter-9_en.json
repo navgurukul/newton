@@ -1,7 +1,0 @@
-{
-	"chapter-9_key1": "Chapter 9",
-	"chapter-9_key2": "The shutil.copy() function will copy a single <span style=\"\">file</span>, while shutil.copytree() will copy an entire folder, along with all its contents.",
-	"chapter-9_key3": "The shutil.move() function is used for renaming <span style=\"\">files</span>, as well as moving them.",
-	"chapter-9_key4": "The send2trash functions will move a <span style=\"\">file</span> or folder to the recycle bin, while shutil functions will permanently delete <span style=\"\">files</span> and folders.",
-	"chapter-9_key5": "The zip<span style=\"\">file</span>.Zip<span style=\"\">File</span>() function is equivalent to the open() function; the first argument is the <span style=\"\">file</span>name, and the second argument is the mode to open the ZIP <span style=\"\">file</span> in (read, write, or append)."
-}

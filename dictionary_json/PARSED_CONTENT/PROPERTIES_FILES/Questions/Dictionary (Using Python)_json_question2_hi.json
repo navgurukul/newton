@@ -1,8 +1,0 @@
-{
-    "question2_key1": "प्रश्न 2",
-    "question2_key2": "यदि प्रवेश किया <span style=\"\">key</span> पहले से ही शब्दकोश में मौजूद है मुद्रित करने के लिए &#39;मौजूद है&#39; और प्रिंट &#39;मौजूद नहीं&#39; यदि प्रवेश किया <span style=\"\">key</span> मौजूद नहीं है एक कार्यक्रम लिखें।",
-    "question2_key3": "उदाहरण :-",
-    "question2_key4": "ध्यान दें :-",
-    "question2_key5": "अगर <span style=\"\">input</span> &quot;नाम&quot; है तो <span style=\"\">output</span> &quot;अस्तित्व&quot; होगा",
-    "question2_key6": "यदि <span style=\"\">input</span> &quot;वर्ग&quot; है तो <span style=\"\">output</span> &quot;अस्तित्व में नहीं&quot; होगा।"
-}

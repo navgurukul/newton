@@ -1,6 +1,0 @@
-{
-	"the-copy-module’s-copy()-and-deepcopy()-functions_key1": "The copy Module’s copy() and deepcopy() Functions\n",
-	"the-copy-module’s-copy()-and-deepcopy()-functions_key2": "Although passing around references is often the handiest way to deal with lists and dictionaries, if the function modifies the list or dictionary that is passed, you may not want these changes in the original list or dictionary value. For this, `Python` provides a module named copy that provides both the copy() and deepcopy() functions. The first of these, copy.copy(), can be used to make a duplicate copy of a mu`tab`le value like a list or dictionary, not just a copy of a reference. Enter the following into the interactive `shell`:\n",
-	"the-copy-module’s-copy()-and-deepcopy()-functions_key3": "Now the spam and cheese `variables` refer to separate lists, which is why only the list in cheese is modified when you assign 42 at index 1. As you can see in Figure 4-7, the reference ID numbers are no longer the same for both `variables` because the `variables` refer to independent lists.\n",
-	"the-copy-module’s-copy()-and-deepcopy()-functions_key4": " if you want to make changes to a list in one `variable` without modifying the original list.\n"
-}

@@ -1,8 +1,0 @@
-- Introduction.json
-- syntax.json
-- Questions
-    - Question1.json
-    - Question2.json
-    - Question3.json
-    - Question4.json
-    - Question5.json

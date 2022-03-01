@@ -1,7 +1,0 @@
-{
-	"Question2_key1": "Question 3\n",
-	"Question2_key2": "Question 3 (Part 1)\n",
-	"Question2_key3": "You have to define a function named students and pass a parameter to that function which takes a list of students name(don't use the List)\n",
-	"Question2_key4": "Question 3 (Part 2)\n",
-	"Question2_key5": "You have to define a function named isGreaterThan20  in which you have to pass two parameters to the function and the first parameter by default should be 20.\n"
-}

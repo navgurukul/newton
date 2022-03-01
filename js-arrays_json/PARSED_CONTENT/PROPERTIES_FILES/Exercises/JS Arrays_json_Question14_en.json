@@ -1,8 +1,0 @@
-{
-	"Question14_key1": "How to find all pairs in an array of <span style=\"\">integers</span> whose sum is equal to the given number?",
-	"Question14_key2": "Sample <span style=\"\">Input</span>:",
-	"Question14_key3": "var number = 30",
-	"Question14_key4": "var n = [10, 11, 12, 13, 14, 17, 18, 19]",
-	"Question14_key5": "Sample <span style=\"\">Output</span>:",
-	"Question14_key6": "[<br>  [ 11, 19 ],<br>  [ 12, 18 ],<br>  [ 13, 17 ],<br>  [ 17, 13 ],<br>  [ 18, 12 ],<br>  [ 19, 11 ]<br>]"
-}

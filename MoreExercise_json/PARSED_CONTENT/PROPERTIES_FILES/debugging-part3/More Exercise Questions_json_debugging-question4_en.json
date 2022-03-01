@@ -1,9 +1,0 @@
-{
-	"debugging-question4_key1": "Iss game mein aap ek alien se fight karoge. Game mei alien ka stamina 10 se shuru hoga. Aapko uska stamina khatam karna hai yaani ki 0 karna hai. Aisa karne ke liye aap alien ke against in 4 options mei se koi option use kar sakte ho.",
-	"debugging-question4_key2": "Hit",
-	"debugging-question4_key3": "Attack",
-	"debugging-question4_key4": "Fight",
-	"debugging-question4_key5": "Run",
-	"debugging-question4_key6": "Hit aur attack karne se alien ka stamina 0-9 ke beech kisse random number se kam hoga. Har bar stamina kam karne par <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">report()</span> se report aayegi jo alien ke stamina ke hisab se uski condition bateygi.",
-	"debugging-question4_key7": "Iss program ko sahi kar ke <span style=\"\">file</span> submit karo."
-}

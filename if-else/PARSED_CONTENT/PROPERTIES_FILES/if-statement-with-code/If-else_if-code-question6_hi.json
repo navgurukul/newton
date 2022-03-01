@@ -1,7 +1,0 @@
-{
-    "if-code-question6_key1": "नाम: प्रश्न 6\nसबमिशन_टाइप: यूआरएल\n",
-    "if-code-question6_key2": "इस प्रश्न का फ़्लोचार्ट बनाइए और प्रोग्राम लिखिए।\n",
-    "if-code-question6_key3": "`variables` `varx` और `vary` में उपयोगकर्ता से `input` के रूप में दो नंबर लें।\n",
-    "if-code-question6_key4": "जांचें कि क्या `varx` `vary` से विभाज्य है।\n\n\n",
-    "if-code-question6_key5": "यदि हाँ, तो `Divisible` प्रिंट करें अन्यथा `Not Divisible` प्रिंट करें।\n"
-}

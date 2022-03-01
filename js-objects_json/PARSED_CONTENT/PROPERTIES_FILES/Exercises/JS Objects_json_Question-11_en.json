@@ -1,6 +1,0 @@
-{
-	"Question-11_key1": "You need to count the number of occurrences of each unique character of a word \"MISSISSIPPI\" and store them in an object in <span style=\"\">key</span>, value pairs.",
-	"Question-11_key2": "Example:-",
-	"Question-11_key3": "<span style=\"\">Output</span> :-",
-	"Question-11_key4": "{M:1,I:4,S:4,P:2}"
-}

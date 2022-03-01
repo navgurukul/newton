@@ -1,8 +1,0 @@
-{
-    "intro_key1": "## `Operators` क्या हैं?\n\n\n",
-    "intro_key2": "हम `variables` के बीच कुछ ऑपरेशन (गणना या मूल्य में परिवर्तन) करने के लिए `operators` का उपयोग करते हैं। जैसे गणित में '+' का जोड़ `operator` होता है, उसी तरह `Python` में `operators` होते हैं।\n",
-    "intro_key3": "#### उदाहरण :-\n\n\n",
-    "intro_key4": "#### `Output`: -\n\n\n",
-    "intro_key5": "``\n",
-    "intro_key6": "उपरोक्त उदाहरण में, हमने `variables` `a` और `b` के मानों को `+` यानी `addition ` ऑपरेटर`���\u0018�Gw�Zѽ\u0006�`Kw==``b3BlcmF0b3I=`�6`dmFyaWFibGVz`�`b3BlcmF0b3I=`\u001b��\u001c�F`b3BlcmFuZHM=`���"
-}

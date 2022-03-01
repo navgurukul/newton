@@ -1,9 +1,0 @@
-{
-	"objects-combining_key1": "var silverScreenDetails={name:\"Chiranjeevi\",realTag:\"super star\"}\nvar realLifeDetails={realName:\"Konidela siva prasad\",oldTag:\"Mega star\"}\n",
-	"objects-combining_key2": "var allActors={...silverScreenDetails,...realLifeDetails}\nconsole.log(allActors);\n",
-	"objects-combining_key3": "// {\n//   name: 'Chiranjeevi',\n//   realTag: 'super star',\n//   realName: 'Konidera siva prasad',\n//   oldTag: 'Mega star'\n// }\n",
-	"objects-combining_key4": "Here you will combine two objects of the same person which have silver screen details and his real life details, you will get all `key` and value pairs in a new `variable` i.e., allActors.\n",
-	"objects-combining_key5": "var silverScreenDetails={name:\"Chiranjeevi\",tag:\"super star\"}\nvar realLifeDetails={realName:\"Konidela siva prasad\",tag:\"Mega star\"}\n",
-	"objects-combining_key6": "var allActors={...silverScreenDetails,...realLifeDetails}\nconsole.log(allActors);\n",
-	"objects-combining_key7": "If it has the same `key` , you have to recognize the object didn’t have duplicate `keys` so it won't have two properties at same time.\n"
-}

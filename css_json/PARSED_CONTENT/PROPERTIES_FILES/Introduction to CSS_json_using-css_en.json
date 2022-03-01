@@ -1,9 +1,0 @@
-{
-	"using-css_key1": "Using CSS",
-	"using-css_key2": "Ek \"styles.css\" naam ki <span style=\"\">file</span> banao, jisme neeche diya hua <span style=\"\">code</span> likho. Ab aap iss <span style=\"\">file</span> ko uss folder mei <span style=\"\">save</span> karo jaha apki HTML course ki index.html <span style=\"\">files</span> stored hain.",
-	"using-css_key3": "<i>Dhyaan rakhe, agar <span style=\"\">file</span> kisi aur folder mei hogi jaha index.html nahi hai toh aapka <span style=\"\">code</span> sahi se nahi chalega.</i>",
-	"using-css_key4": "Niche jo line di hain use index.html aur kindness.html ke \"head\" section mei add karo.",
-	"using-css_key5": "Ab agar aap index.html ya kindness.html ko browser mei khologe toh aapko CSS ke vajah se kuch colors, aur baaki style jo humne uss CSS <span style=\"\">file</span> mei diye hai dikhenge.",
-	"using-css_key6": "Yeh gaur karne wali baat hai ki, aapne same CSS <span style=\"\">file</span> se dono HTML mei style daal pa rahe ho. Aise hi aap kitni bhi <span style=\"\">files</span> ko, same CSS <span style=\"\">file</span> se style kar sakte ho.",
-	"using-css_key7": "Apki website kuch <a href=\"https://abhishekgupta92.github.io/equality2/\">iss tarah</a> se dikhegi."
-}

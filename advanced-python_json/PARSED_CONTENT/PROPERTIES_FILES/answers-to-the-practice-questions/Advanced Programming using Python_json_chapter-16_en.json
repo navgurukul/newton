@@ -1,8 +1,0 @@
-{
-	"chapter-16_key1": "Chapter 16",
-	"chapter-16_key2": "SMTP and IMAP, respectively",
-	"chapter-16_key3": "smtplib.SMTP(), smtpObj.ehlo(), smptObj.starttls(), and smtpObj.login()",
-	"chapter-16_key4": "imapclient.IMAPClient() and imapObj.login()",
-	"chapter-16_key5": "A list of <span style=\"\">strings</span> of IMAP <span style=\"\">key</span>words, such as 'BEFORE <date>', 'FROM <<span style=\"\">string</span>>', or 'SEEN'",
-	"chapter-16_key6": "Assign the <span style=\"\">variable</span> imaplib._MAXLINE a large <span style=\"\">integer</span> value, such as 10000000.<br>The pyzmail module reads downloaded emails.<br>You will need the Twilio account SID number, the authentication token number, and your Twilio phone number."
-}

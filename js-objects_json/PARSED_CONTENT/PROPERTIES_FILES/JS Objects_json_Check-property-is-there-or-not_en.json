@@ -1,8 +1,0 @@
-{
-	"Check-property-is-there-or-not_key1": "You can check whether property exists or not in an object. ",
-	"Check-property-is-there-or-not_key2": "We can use the .hasOwnProperty(propname) method of objects to determine if that object has the given property name. ",
-	"Check-property-is-there-or-not_key3": "<b>.hasOwnProperty()</b> returns <span style=\"\">true</span> or <span style=\"\">false</span> if the property is found or not.",
-	"Check-property-is-there-or-not_key4": "For checking property is there or not,",
-	"Check-property-is-there-or-not_key5": "<b>objectName.hasOwnProperty(PropertyName);</b> will gives either <span style=\"\">true</span> or <span style=\"\">false</span>.",
-	"Check-property-is-there-or-not_key6": "<b>myDetails.hasOwnProperty(\"name\");</b> this will returns <span style=\"\">true</span> because property name is there object named myDetails."
-}

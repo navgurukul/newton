@@ -1,7 +1,0 @@
-{
-	"Question1_key1": "what is the `output` of the following `code`?\n",
-	"Question1_key2": "Feedback after submit:\n",
-	"Question1_key3": "10\n13\n",
-	"Question1_key4": "Explanation:\n",
-	"Question1_key5": "A display named function is there, inside that we have 1 if block. Inside the function  block we defined two `variables` a and b with var and let `key`words respectively. Here both a and b are working as function scoped `variables` aka local scoped to that function you can use them inside a function anywhere.\n"
-}

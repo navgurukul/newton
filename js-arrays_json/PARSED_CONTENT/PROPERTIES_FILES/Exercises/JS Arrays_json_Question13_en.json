@@ -1,7 +1,0 @@
-{
-	"Question13_key1": "Report Card",
-	"Question13_key2": "See this list:",
-	"Question13_key3": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65, 76],<br>    [95, 45, 78, 52, 49]<br>]",
-	"Question13_key4": "Think that this is marks of some students from last 3 years, you need to calculate the marks of all subjects.",
-	"Question13_key5": "For the above given list the total sum is- 1142."
-}

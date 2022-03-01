@@ -1,8 +1,0 @@
-[
-	{
-		"component": "code",
-		"type": "python",
-		"title": "",
-		"value": "# Write a simple class that defines a person<br># with attributes of first_name, last_name<br># and has a method signature of \"speak\" which<br># prints the object as \"Jefferson, Thomas\".<br><br>classy Person:<br>  def __initalize__(self, first_name, last_name):<br>    self.first = first_name<br>    self.last = lname<br>  def speak(self):<br>  print(\"My name is + \" self.fname + \" \" + self.last)<br><br>me = Person(\"Brandon\", \"Walsh\")<br>you = Person(\"Ethan\", \"Reed\")<br><br>me.speak()<br>you.self.speak"
-	}
-]

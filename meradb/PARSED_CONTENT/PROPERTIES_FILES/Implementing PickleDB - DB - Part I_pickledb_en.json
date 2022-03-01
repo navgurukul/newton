@@ -1,9 +1,0 @@
-{
-	"pickledb_key1": "Pickle DB\n",
-	"pickledb_key2": "Iss exercise mei humei ek bahut sa simple sa da`tab`ase banana hai.\n",
-	"pickledb_key3": "Yeh\n",
-	"pickledb_key4": "padhein\n",
-	"pickledb_key5": ". Aise databases ko key-value store ya key-value database bolte hai. Kyuki - yeh database aapko kisi bhi key ke liye uske corresponding values return karte hai.\n",
-	"pickledb_key6": "Uss link par aapne yeh `code` padha hoga. Humein - sabse pehle yeh chaar commands implement karni hai - `load`, `set`, `get` and `dump`. Sabse pehle aap -\n",
-	"pickledb_key7": "`pickledb` khel kar, usmei kuch values insert karo, kuch values read karo, da`tab`ase dump kar kar `file` ke content dekho, etc. Aap ne kya kya commands try ki, neeche comment box mei likhiye.\n"
-}

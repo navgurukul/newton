@@ -1,6 +1,0 @@
-[
-	{
-		"component": "text",
-		"value": "[<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"What is the <span style=\\\"\\\"><span style=\"\">output</span></span> of the following <span style=\\\"\\\"><span style=\"\">code</span></span>?\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"var x = 10;<br>var y = 12<br>var z = 90<br> <br>if (x &gt; y){<br>  if (x < z){<br>      x = y<br>  }<br>  else{<br>      m = z<br>  }<br>}<br>else {<br>  if(y &gt; z){<br>      m = y<br>  }<br>  else {<br>      m = x<br>  }<br>   <br>}<br>console.log(m)<br>\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"solution\",<br>        \"value\": \"10\"<br>    }<br>]"
-	}
-]

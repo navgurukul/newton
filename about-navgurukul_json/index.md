@@ -1,2 +1,0 @@
-- About-NavGurukul.json
-- Introductory-Videos.json

@@ -1,6 +1,0 @@
-{
-	"Question-6_key1": "You have a `variable` called var num1 with the value as shown:\n",
-	"Question-6_key2": "var num1 = 300 - 123\n",
-	"Question-6_key3": "Take one user `input` and check that number is equal or not.\n",
-	"Question-6_key4": "If the new user `input` is equal to num1, console **\"Equal\"** else console  **\"Not equal\"**.\n"
-}

@@ -1,5 +1,0 @@
-{
-	"Question-5_key1": "In a <span style=\"\">variable</span> named number, take the <span style=\"\">input</span> from the user and convert it to int.",
-	"Question-5_key2": "If this number is less than 10 then print <b>\"number is less than 10\"</b>. If it is greater than 10 and less than 20 then print <b>\"number is less than 20\"</b>. Else if it is greater than 20 then print \"<b>greater than 20\"</b>.",
-	"Question-5_key3": "For knowing how to take inputs please go through this <a href=\"https://www.merakilearn.org/course/153/exercise/3738\">page</a>"
-}

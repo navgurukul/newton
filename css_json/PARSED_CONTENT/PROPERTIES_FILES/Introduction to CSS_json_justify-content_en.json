@@ -1,7 +1,0 @@
-{
-	"justify-content_key1": "justify-content : Container property",
-	"justify-content_key2": "flex-start | flex-end | center | space-between | space-around",
-	"justify-content_key3": "Hum upar di gayi 5 values mei se justify-content ko koi bhi value de sakte hai.",
-	"justify-content_key4": "Iski default yaani ki pehle se value flex-start hoti hai. Flex-start se flex items flex container ki <b>shuruaat</b> mein aa jate hai.",
-	"justify-content_key5": "Iss <a href=\"http://codepen.io/navgurukul/pen/MJdegq?editors=1100#0\">example</a> ko dekho aur container ki css mein justify-content ki value change karke dekho ki kya hota hai."
-}

@@ -1,7 +1,0 @@
-{
-	"while-loop_key1": "Aap pehle iss video ko dekhein `while` program ka dry run samajhne ke liye. \n",
-	"while-loop_key2": "While `loop` kya hota hai yeh samajhne ke liye aap yeh dono videos dekh sakte ho.  \n",
-	"while-loop_key3": "yeh `loop` hai is mei hum `loop` kise kam kar raha hai voh hum dry run kar ke dekhna hai\n",
-	"while-loop_key4": "Ab aap yeh questions solve karein.\n",
-	"while-loop_key5": "`while` ke saath `else` ka bhi use ho sakta hai. Jab `while` `loop` khatam ho jata hai, toh `else` wala `code` `execute` hota hai. Yeh trick kaafi baar useful hoti hai.\n"
-}

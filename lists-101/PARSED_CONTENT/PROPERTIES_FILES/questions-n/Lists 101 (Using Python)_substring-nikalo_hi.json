@@ -1,6 +1,0 @@
-{
-    "substring-nikalo_key1": "## उप `string` Remove निकालें\n\n\n",
-    "substring-nikalo_key2": "आपको एक प्रोग्राम इस तरह से लिखना है जो `mainStr` से `subStr` की सभी घटनाओं को हटा दे। अर्थात उपरोक्त प्रोग्राम का `output` नीचे दिया गया है।\n",
-    "substring-nikalo_key3": "### बोनस भाग\n\n",
-    "substring-nikalo_key4": "`subStr` को `mainStr` से `replacementStr` का उपयोग करके बदलें और फिर इसे प्रिंट करें।\n"
-}

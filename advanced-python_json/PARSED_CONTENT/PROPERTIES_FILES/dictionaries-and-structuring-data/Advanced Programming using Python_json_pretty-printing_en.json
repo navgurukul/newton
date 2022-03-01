@@ -1,8 +1,0 @@
-{
-	"pretty-printing_key1": "Pretty Printing",
-	"pretty-printing_key2": "If you import the pprint module into your programs, you’ll have access to the pprint() and pformat() functions that will “pretty print” a dictionary’s values. This is helpful when you want a cleaner display of the items in a dictionary than what print() provides. Modify the previous characterCount.py program and <span style=\"\">save</span> it as prettyCharacterCount.py.",
-	"pretty-printing_key3": "This time, when the program is run, the <span style=\"\">output</span> looks much cleaner, with the <span style=\"\">keys</span> sorted.",
-	"pretty-printing_key4": "{' ': 13,<br> ',': 1,<br> '.': 1,<br> 'A': 1,<br> 'I': 1,<br> 'a': 4,<br> 'b': 1,<br> 'c': 3,<br> 'd': 3,<br> 'e': 5,<br> 'g': 2,<br> 'h': 3,<br> 'i': 6,<br> 'k': 2,<br> 'l': 3,<br> 'n': 4,<br> 'o': 2,<br> 'p': 1,<br> 'r': 5,<br> 's': 3,<br> 't': 6,<br> 'w': 2,<br> 'y': 1}<br>The pprint.pprint() function is especially helpful when the dictionary itself contains nested lists or dictionaries.",
-	"pretty-printing_key5": "If you want to obtain the prettified text as a <span style=\"\">string</span> value instead of displaying it on the screen, call pprint.pformat() instead. These two lines are equivalent to each other:",
-	"pretty-printing_key6": "pprint.pprint(someDictionaryValue)<br>print(pprint.pformat(someDictionaryValue))"
-}

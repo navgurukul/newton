@@ -1,5 +1,0 @@
-{
-	"arrays-iteration_key1": "Explain the concept of traversing and accessing elements in a list",
-	"arrays-iteration_key2": "//Concept of arrays and iteration over them<br>var taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];",
-	"arrays-iteration_key3": "var listLength = taskList.length;<br>var index = 0;<br>while(index < listLength)<br>        console.log(taskList[i]);<br>        index = index + 1;<br>}"
-}

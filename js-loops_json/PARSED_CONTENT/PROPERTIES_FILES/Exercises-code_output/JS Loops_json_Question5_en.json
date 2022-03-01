@@ -1,6 +1,0 @@
-{
-	"Question5_key1": "Given a <span style=\"\">string</span>, write a program to check if it is palindrome or not. ",
-	"Question5_key2": "A <span style=\"\">string</span> is said to be palindrome if the reverse of the <span style=\"\">string</span> is the same as the <span style=\"\">string</span>. ",
-	"Question5_key3": "For example :",
-	"Question5_key4": "“RADAR” is a palindrome, but “RADIX” is not a palindrome"
-}

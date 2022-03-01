@@ -1,9 +1,0 @@
-{
-	"lots-of-words_key1": "Lots of Words\n",
-	"lots-of-words_key2": "Abhi sirf teen-chaar words mei se ek word user ko de diya jaata hai. (Check `words.py`)\nAapko `words.txt` `file` ko `code` mei read kar kar, `words.py` `file` ko modify karna hai. \nJisse ki `words.txt` mei se koi random word computer use kare user se guess karane ke liye.\n",
-	"lots-of-words_key3": "Hint\n",
-	"lots-of-words_key4": "`words.txt` ko read kar kar, ek `array/list` bana kar `load_words` se return kar sakte ho\n",
-	"lots-of-words_key5": "`file` padhne ke liye, `readline()` function use kar sakte ho \n\n\n",
-	"lots-of-words_key6": "Solution\n",
-	"lots-of-words_key7": "Possible Solution\n"
-}

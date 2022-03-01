@@ -1,7 +1,0 @@
-{
-	"align-items_key1": "align-items: Container Property",
-	"align-items_key2": "flex-start | flex-end | center | baseline | stretch",
-	"align-items_key3": "Iss property se hum yeh set karte hai ki flex-items container ke andar kaise height lengi.",
-	"align-items_key4": "By default iski value <b>stretch</b> hoti hai yaani ki flex-items container mein <b>jitne height</b> unhe chahiye utni height leni ki koshish karte hai.",
-	"align-items_key5": "Iss <a href=\"http://codepen.io/navgurukul/pen/egavZJ\">example</a> ko dekho aur isme container ki css se <b>align-items:center</b> waali line se comment hata kar dekho ki kya hota hai. Aur align-items ki alag alag value daal kar bhi dekho."
-}

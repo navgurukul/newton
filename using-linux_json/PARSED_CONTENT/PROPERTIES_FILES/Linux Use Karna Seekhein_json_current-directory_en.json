@@ -1,5 +1,0 @@
-{
-	"current-directory_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.</span> aapki current directory ko represent karti hai",
-	"current-directory_key2": "Agar aap apne home folder mei ho, toh<br>yeh dono commands same hi hai",
-	"current-directory_key3": "Aisa isliye kyuki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.</span> current directory ko represent karta hai."
-}

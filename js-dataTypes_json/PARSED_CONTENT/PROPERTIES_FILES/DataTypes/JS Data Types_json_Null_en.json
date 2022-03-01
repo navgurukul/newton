@@ -1,8 +1,0 @@
-{
-	"Null_key1": "Example:",
-	"Null_key2": "This is another special data type that can have only one value-the null value. A null value means that there is no value. It is not equivalent to an empty <span style=\"\">string</span> (\"\") or 0, it is simply nothing.",
-	"Null_key3": "A <span style=\"\">variable</span> can be explicitly emptied of its current contents by assigning it the null value.",
-	"Null_key4": "Exercises:",
-	"Null_key5": "Write a program to print null when I console a variable name is y?<br><br>",
-	"Null_key6": "What is the output of the following code?<br><br>"
-}

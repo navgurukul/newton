@@ -1,7 +1,0 @@
-{
-	"if-code-question8_key1": "Question 6",
-	"if-code-question8_key2": "Create a flowchart that takes a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> as user <span style=\"\">input</span>. Check if this number is divisible by <b>5 and 15 both</b>.",
-	"if-code-question8_key3": "question 13 png",
-	"if-code-question8_key4": "<i>Hint: You will need to use nested if-else for this question.</i>",
-	"if-code-question8_key5": "Submit flowchart as well as <span style=\"\">code</span>."
-}

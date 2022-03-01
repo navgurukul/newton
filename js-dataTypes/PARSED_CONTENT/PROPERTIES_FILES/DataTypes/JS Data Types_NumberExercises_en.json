@@ -1,8 +1,0 @@
-{
-	"NumberExercises_key1": "Exercises:\n",
-	"NumberExercises_key2": "Write the program that has the `variable` name as num1 and assign a deciimal value to it ?\n\n\n",
-	"NumberExercises_key3": "What is the `output` of the following program?\n\n\n",
-	"NumberExercises_key4": "What is the `error` in the following program?\n\n\n",
-	"NumberExercises_key5": "What kind of operation can be done on a number `variable` that, in one particular case, can't be done on a `string` `variable`?\n\n\n",
-	"NumberExercises_key6": "Rewrite this `statement` so the `variable` can be used in a math operation.\n\n\n"
-}

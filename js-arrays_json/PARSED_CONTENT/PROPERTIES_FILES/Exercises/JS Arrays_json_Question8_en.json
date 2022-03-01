@@ -1,7 +1,0 @@
-{
-	"Question8_key1": "Write the program, to find the max element of the array,and console it.",
-	"Question8_key2": "Sample <span style=\"\">Input</span>:",
-	"Question8_key3": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7]",
-	"Question8_key4": "sample <span style=\"\">Output</span>:",
-	"Question8_key5": "70"
-}

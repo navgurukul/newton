@@ -1,3 +1,0 @@
-ImplementationEasyQuestion4_key1
-
-

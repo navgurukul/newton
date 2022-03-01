@@ -1,9 +1,0 @@
-{
-	"using-json_key1": "Using JSON\n",
-	"using-json_key2": "Jo `code` humne likha tha, requests library kar kar, courses download karne ke liye, uss `code` mei yeh changes karo.\n",
-	"using-json_key3": "Abhi tak woh `code` kya karta hai?\n",
-	"using-json_key4": "`requests` module use kar kar, courses ka `API Endpoint` ya `URL` call kar kar, data `courses.json` `file` mei store karta hai.\n",
-	"using-json_key5": "Ab aapko kya karna hai?\n",
-	"using-json_key6": "Yeh karne se pehle aap apne `code` mei ek chota sa change karo, ki\n",
-	"using-json_key7": "isse aap fast debugging kar paoge, nahi toh baar baar\naapko API call khatam hone ka wait karna padega.\n"
-}

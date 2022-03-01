@@ -1,6 +1,0 @@
-{
-	"clicking-the-page_key1": "Clicking the Page\n",
-	"clicking-the-page_key2": "WebElement objects returned from the find_element_* and find_elements_* methods have a click() method that simulates a mouse click on that element. This method can be used to follow a link, make a selection on a radio button, click a Submit button, or trigger whatever else might happen when the element is clicked by the mouse. For example, enter the following into the interactive `shell`:\n",
-	"clicking-the-page_key3": "<class 'selenium.webdriver.remote.webelement.WebElement'>\n",
-	"clicking-the-page_key4": "This opens Firefox to <span><a href=\"http://inventwith`python`.com/\">http://inventwith`python`.com/</a></span>, gets the WebElement object for the <a> element with the text Read It Online, and then simulates clicking that <a> element. It’s just like if you clicked the link yourself; the browser then follows that link.\n"
-}

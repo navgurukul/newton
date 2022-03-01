@@ -1,4 +1,0 @@
-{
-	"question4_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> ka use kar ke 3 alag <span style=\"\">variables</span> mein 3 <span style=\"\">integers</span> ka <span style=\"\">input</span> lein. <span style=\"\">Input</span> lene ke baad inn 3 mein se sabse bade number ko print karo",
-	"question4_key2": "<i>Note: Isme aap <span style=\"\">loops</span> ka use nahi kar sakte.</i>"
-}

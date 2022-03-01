@@ -1,9 +1,0 @@
-{
-	"practice-projects_key1": "Practice Projects",
-	"practice-projects_key2": "For practice, write programs to do the following tasks.",
-	"practice-projects_key3": "Strong Password Detection",
-	"practice-projects_key4": "Write a function that uses regular expressions to make sure the password <span style=\"\">string</span> it is passed is strong. A strong password is defined as one that is at least eight characters long, contains both uppercase and lowercase characters, and has at least one digit. You may need to test the <span style=\"\">string</span> against multiple regex patterns to validate its strength.",
-	"practice-projects_key5": "Regex Version of strip()",
-	"practice-projects_key6": "Write a function that takes a <span style=\"\">string</span> and does the same thing as the strip() <span style=\"\">string</span> method. If no other arguments are passed other than the <span style=\"\">string</span> to strip, then whitespace characters will be removed from the beginning and end of the <span style=\"\">string</span>. Otherwise, the characters specified in the second argument to the function will be removed from the <span style=\"\">string</span>.",
-	"practice-projects_key7": "[1] Cory Doctorow, “Here’s what ICT should really teach kids: how to do regular expressions,” Guardian, December 4, 2012, <span><a href=\"http://www.theguardian.com/technology/2012/dec/04/ict-teach-kids-regular-expressions/.\">http://www.theguardian.com/technology/2012/dec/04/ict-teach-kids-regular-expressions/.</a></span>"
-}

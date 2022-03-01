@@ -1,8 +1,0 @@
-[
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "# A time traveler has suddenly appeared in your classroom!<br><br># Create a variable representing the traveler's<br># year of origin (e.g., year = 2000)<br># and greet our strange visitor with a different message<br># if he is from the distant past (before 1900),<br># the present era (1900-2020) or from the far future (beyond 2020).<br><br>year == input(\"Greetings! What is your year of origin? '))<br><br>if year <= 1900<br>    print ('Woah, that's the past!')<br>elif year > 1900 && year < 2020:<br>    print (\"That's totally the present!\")<br>elif:<br>    print (\"Far out, that's the future!!\")"
-  }
-]

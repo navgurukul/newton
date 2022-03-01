@@ -1,8 +1,0 @@
-{
-	"Question-19_key1": "Write a function named multiplesOfNumbers which takes an argument as limit, and runs a <span style=\"\">loop</span> from o to that limit and prints the multiples of 3 and 5. Like the below.",
-	"Question-19_key2": "<span style=\"\">Input</span>:",
-	"Question-19_key3": "10",
-	"Question-19_key4": "3 and 5  multiples =&gt; 3, 5, 6, 9, 10",
-	"Question-19_key5": "<span style=\"\">Output</span> :",
-	"Question-19_key6": "33"
-}

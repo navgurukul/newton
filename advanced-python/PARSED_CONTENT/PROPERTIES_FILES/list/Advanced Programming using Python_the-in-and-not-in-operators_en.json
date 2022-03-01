@@ -1,7 +1,0 @@
-{
-	"the-in-and-not-in-operators_key1": "The in and not in `Operators`\n",
-	"the-in-and-not-in-operators_key2": "You can determine whether a value is or isn’t in a list with the in and not in `operators`. Like other `operators`, in and not in are used in expressions and connect two values: a value to look for in a list and the list where it may be found. These expressions will evaluate to a Boolean value. Enter the following into the interactive `shell`:\n",
-	"the-in-and-not-in-operators_key3": "For example, the following program lets the user type in a pet name and then checks to see whether the name is in a list of pets. Open a new `file` `editor` window, enter the following `code`, and `save` it as myPets.py:\n",
-	"the-in-and-not-in-operators_key4": "The `output` may look something like this:\n",
-	"the-in-and-not-in-operators_key5": "Enter a pet name:\nFootfoot\nI do not have a pet named Footfoot\n"
-}

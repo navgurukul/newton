@@ -1,8 +1,0 @@
-{
-	"practice-projects_key1": "Practice Projects",
-	"practice-projects_key2": "For practice, write programs that do the following.",
-	"practice-projects_key3": "Extending and Fixing the Chapter Project Programs<br>The resizeAndAddLogo.py program in this chapter works with PNG and JPEG <span style=\"\">files</span>, but Pillow supports many more formats than just these two. Extend resizeAndAddLogo.py to process GIF and BMP images as well.",
-	"practice-projects_key4": "Another small issue is that the program modifies PNG and JPEG <span style=\"\">files</span> only if their <span style=\"\">file</span> extensions are set in lowercase. For example, it will process zophie.png but not zophie.PNG. Change the <span style=\"\">code</span> so that the <span style=\"\">file</span> extension check is case insensitive.",
-	"practice-projects_key5": "Figure 17-16. When the image isn’t much larger than the logo, the results look ugly.",
-	"practice-projects_key6": "Finally, the logo added to the bottom-right corner is meant to be just a small mark, but if the image is about the same size as the logo itself, the result will look like Figure 17-16. Modify resizeAndAddLogo.py so that the image must be at least twice the width and height of the logo image before the logo is pasted. Other wise, it should skip adding the logo."
-}

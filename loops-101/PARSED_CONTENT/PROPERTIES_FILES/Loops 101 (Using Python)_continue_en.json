@@ -1,7 +1,0 @@
-{
-	"continue_key1": "`continue`\n",
-	"continue_key2": "`continue` is also a `python` **`key`word**. `continue statement` skips some of the `statements` of the `loop` and `executes` the other `statements`.\n",
-	"continue_key3": "`Output` :-\n",
-	"continue_key4": "1\n2\n3\n4\nSkipped Element: 5\n6\n7\n8\n9\n10\n",
-	"continue_key5": "Please, watch this video to understand this `code`.\n"
-}

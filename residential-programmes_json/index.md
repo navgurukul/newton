@@ -1,5 +1,0 @@
-- Why-Navgurukul-and-life-at-campuses.json
-- Pune-Bangalore-Sarjapur.json
-- Dharamshala.json
-- Delhi.json
-- Tripura.json

@@ -1,4 +1,0 @@
-{
-    "loops-code-question1_key1": "प्रश्न 1",
-    "loops-code-question1_key2": "एक <span style=\"\">code</span> लिखें जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20 to 100</span> के बीच उन सभी नंबरों को प्रिंट करता है जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> से विभाज्य हैं, इसका मतलब है कि जब आप किसी भी संख्या को <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2</span> से विभाजित करते हैं तो शेष <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0</span> के रूप में आता है।"
-}

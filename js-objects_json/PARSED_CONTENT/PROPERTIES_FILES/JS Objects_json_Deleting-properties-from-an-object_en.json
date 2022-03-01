@@ -1,7 +1,0 @@
-{
-	"Deleting-properties-from-an-object_key1": "isGood property is deleted from an object myHome.",
-	"Deleting-properties-from-an-object_key2": "For deleting a particular property:",
-	"Deleting-properties-from-an-object_key3": "delete objectName.PropertyName;",
-	"Deleting-properties-from-an-object_key4": "delete myHome.isGood;",
-	"Deleting-properties-from-an-object_key5": "Then in myHome object we are going to delete a property named isGood and we are deleting isGood property."
-}
