@@ -4,6 +4,10 @@ name: changing-individual-pixels
 # Changing Individual Pixels
 The color of an individual pixel can be retrieved or set with the getpixel() and putpixel() methods. These methods both take a tuple representing the x- and y-coordinates of the pixel. The putpixel() method also takes an additional tuple argument for the color of the pixel. This color argument is a four-integer RGBA tuple or a three-integer RGB tuple. Enter the following into the interactive shell:
 
+Let's hear Instagram creator, Kevin and Photographer, Piper. In the following video they explains how digital images works and how it's stored in computers. They also explained how RGB values creates a image and how images can be enhanced by changing this values.
+
+@[youtube](15aqFQQVBWU)
+
 ```python
 ❶ >>> im = Image.new('RGBA', (100, 100))
 ❷ >>> im.getpixel((0, 0))

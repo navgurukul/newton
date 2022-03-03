@@ -7,6 +7,8 @@ submission_type: url
 
 If we want to do a task again and again, so computers can help us with that task.
 
+You may have used Facebook, Instagram and Whatsapp. All of them are part of Meta today which is run by Mark Zuckerberg. A coder since and early age, he founded Facebook - and now run many more products. Let's hear his explanation of Loops in the following video.
+
 @[youtube](hYvcoRkAkOU)
 
 ### Not Translated

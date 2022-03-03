@@ -12,9 +12,10 @@ Generally jab hum koi bhi data scrape karte hain uss website se toh uss website 
 
 Matlab agar 10 crore movies scrape ho rahi hai, toh around 20 crore requests kar rahe hoge aap IMDB ke servers pe. Itni saari requests se IMDB ki servers pe load padega aur iss chakar mein IMDB ke servers humein block kar denge. 
 
-Saare computer attacks ke baare mein janne ke liye ye video dekhein:
+Isko DOS(Denial of Service) attack bhi bolte hai jahan kisi website pr itni zyada request bheji jaati hain ki vo website crash ho sakti hai. Hackers is tarah ke attack ko use karke kisi website ko kuch daer ke liye crash kr sakte hain. DOS jaise aur bhi attack ke baare mein jaanne ke liye neeche di gayi video dekhein jismein Jenny(Director of Cyber Security at Symantec) aur Parisa(Google Security Princess) ne aise hi kuch attacks ke baare mein samjhaya hai.
 
 @[youtube](AuYNXgO_f3Y)
+
 
 Bahot important hai yeh samjhna ki websites scrapers ko kyun block karti hai aur hum isko kaise prevent kar sakte hai. You should spend some time researching and understanding this. Aur better hoga ki aap yeh apne kuch friends ke saath padh ke samjho. Akele karke utni clarity nahi milegi. Google karke samjho :) Neeche main kuch links de raha hun jahan se aap apni research shuru kar sakte ho.
 

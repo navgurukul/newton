@@ -63,9 +63,10 @@ print(a*b)
 6
 
 
-#### Now you know how ARITHMETIC OPERATORS work and How do we get output in python. Do you know how the computer gives us the output? If don't watch this video
+Now you know how ARITHMETIC OPERATORS work and How do we get output in python. Do you know how the computer gives us the output? Watch this video where Madison(Fabric Designer at Loomia) and Danielle(CEO, Other Machine Company) explains how computers take input, process it and provide output. Both Madison and Danielle creates smart clothes where they combine computers with clothes. Hope you'd enjoy this video.
 
-@[youtube](DKGZlaPlVLY&t=3s)
+@[youtube](DKGZlaPlVLY)
+
 
 ### `Division(/):-`
  The `division operator (/)` is used to divide or calculate the quotient of division of values.

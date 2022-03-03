@@ -8,6 +8,8 @@ Function is a code of block that only runs when it is called.
 In the function we pass the data which we call parameter. Function returns data.
 By using functions, we can write some code once and use it many times. This makes our work very easy.
 
+Christopher Wesson Bosh who is an American former professional basketball player and actively learning how to code along with helping others to learn programming once said, "I began to notice that the world around me was spinning on an axis powered by varying patterns of 1s and 0s. We’d be fools to ignore the power of mastering the designing and coding of those patterns." Let's hear his explanation about functions in the following video.
+
 @[youtube](8T5acEwfJbw)
 
 ```python
