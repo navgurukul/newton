@@ -1,0 +1,32 @@
+[
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Basic Features of Email"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=ZHgyNZ0pGPc"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "How to Reply to an Email"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=uJKy4Jp-84w"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://docs.google.com/presentation/d/1sjVwBhlkIudcKKPEEF09Kiw82FRZbtcjcQfXfTFSfFA/edit#slide=id.p\">Part One</a>"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://docs.google.com/presentation/d/1gTWSspgNILJpfZzoBwBy6v0YI7GxNQezlwg5NG8AI5c/edit#slide=id.p\">Part Two</a>"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://docs.google.com/presentation/d/1UBrqZ4DNvdAHJgaOPmMi9FvQCn4QAIBtPtuM4-DSWU4/edit#slide=id.p\">Part Three</a>"
+	}
+]

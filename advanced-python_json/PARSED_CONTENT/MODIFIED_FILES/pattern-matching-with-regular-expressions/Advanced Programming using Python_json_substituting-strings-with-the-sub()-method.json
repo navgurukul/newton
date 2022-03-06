@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "substituting-strings-with-the-sub()-method_key1"
+  },
+  {
+    "component": "text",
+    "value": "substituting-strings-with-the-sub()-method_key2"
+  },
+  {
+    "component": "text",
+    "value": "substituting-strings-with-the-sub()-method_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> namesRegex = re.compile(r'Agent \\w+')<br>>>> namesRegex.sub('CENSORED', 'Agent Alice gave the secret documents to Agent Bob.')<br>'CENSORED gave the secret documents to CENSORED.'"
+  },
+  {
+    "component": "text",
+    "value": "substituting-strings-with-the-sub()-method_key4"
+  },
+  {
+    "component": "text",
+    "value": "substituting-strings-with-the-sub()-method_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> agentNamesRegex = re.compile(r'Agent (\\w)\\w*')<br>>>> agentNamesRegex.sub(r'\\1****', 'Agent Alice told Agent Carol that Agent'<br>Eve knew Agent Bob was a double agent.')'"
+  },
+  {
+    "component": "text",
+    "value": "substituting-strings-with-the-sub()-method_key6"
+  }
+]

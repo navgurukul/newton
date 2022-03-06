@@ -1,0 +1,101 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Logging to a <span style=\"\">File</span>"
+	},
+	{
+		"component": "text",
+		"value": "Instead of displaying the log messages to the screen, you can write them to a text <span style=\"\">file</span>. The logging.basicConfig() function takes a <span style=\"\">file</span>name <span style=\"\">key</span>word argument, like so:"
+	},
+	{
+		"component": "text",
+		"value": "import logging<br>logging.basicConfig(<span style=\"\">file</span>name='myProgramLog.txt', level=logging.DEBUG, format='<br>%(asctime)s - %(levelname)s - %(message)s')<br>The log messages will be <span style=\"\">save</span>d to myProgramLog.txt. While logging messages are helpful, they can clutter your screen and make it hard to read the program’s <span style=\"\">output</span>. Writing the logging messages to a <span style=\"\">file</span> will keep your screen clear and store the messages so you can read them after running the program. You can open this text <span style=\"\">file</span> in any text <span style=\"\">editor</span>, such as Notepad or TextEdit."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "IDLE’s Debugger"
+	},
+	{
+		"component": "text",
+		"value": "The debugger is a feature of IDLE that allows you to <span style=\"\">execute</span> your program one line at a time. The debugger will run a single line of <span style=\"\">code</span> and then wait for you to tell it to continue. By running your program “under the debugger” like this, you can take as much time as you want to examine the values in the <span style=\"\">variables</span> at any given point during the program’s lifetime. This is a valuable tool for tracking down bugs."
+	},
+	{
+		"component": "text",
+		"value": "To enable IDLE’s debugger, click Debug▸Debugger in the interactive <span style=\"\">shell</span> window. This will bring up the Debug Control window, which looks like Figure 10-1."
+	},
+	{
+		"component": "text",
+		"value": "When the Debug Control window appears, select all four of the Stack, Locals, Source, and Globals checkboxes so that the window shows the full set of debug information. While the Debug Control window is displayed, any time you run a program from the <span style=\"\">file</span> <span style=\"\">editor</span>, the debugger will pause execution before the first instruction and display the following:"
+	},
+	{
+		"component": "text",
+		"value": "The line of <span style=\"\">code</span> that is about to be <span style=\"\">execute</span>d"
+	},
+	{
+		"component": "text",
+		"value": "A list of all local <span style=\"\">variables</span> and their values"
+	},
+	{
+		"component": "text",
+		"value": "A list of all global <span style=\"\">variables</span> and their values"
+	},
+	{
+		"component": "text",
+		"value": "The Debug Control window"
+	},
+	{
+		"component": "text",
+		"value": "You’ll notice that in the list of global <span style=\"\">variables</span> there are several <span style=\"\">variables</span> you haven’t defined, such as <b>builtins</b>, <b>doc</b>, <b><span style=\"\">file</span></b>, and so on. These are <span style=\"\">variables</span> that <span style=\"\">Python</span> automatically sets whenever it runs a program. The meaning of these <span style=\"\">variables</span> is beyond the scope of this book, and you can comfor<span style=\"\">tab</span>ly ignore them."
+	},
+	{
+		"component": "text",
+		"value": "The program will stay paused until you press one of the five buttons in the Debug Control window: Go, Step, Over, Out, or Quit."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Go"
+	},
+	{
+		"component": "text",
+		"value": "Clicking the Go button will cause the program to <span style=\"\">execute</span> normally until it terminates or reaches a breakpoint. (Breakpoints are described later in this chapter.) If you are done debugging and want the program to continue normally, click the Go button."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step"
+	},
+	{
+		"component": "text",
+		"value": "Clicking the Step button will cause the debugger to <span style=\"\">execute</span> the next line of <span style=\"\">code</span> and then pause again. The Debug Control window’s list of global and local <span style=\"\">variables</span> will be updated if their values change. If the next line of <span style=\"\">code</span> is a function call, the debugger will “step into” that function and jump to the first line of <span style=\"\">code</span> of that function."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Over"
+	},
+	{
+		"component": "text",
+		"value": "Clicking the Over button will <span style=\"\">execute</span> the next line of <span style=\"\">code</span>, similar to the Step button. However, if the next line of <span style=\"\">code</span> is a function call, the Over button will “step over” the <span style=\"\">code</span> in the function. The function’s <span style=\"\">code</span> will be <span style=\"\">execute</span>d at full speed, and the debugger will pause as soon as the function call returns. For example, if the next line of <span style=\"\">code</span> is a print() call, you don’t really care about <span style=\"\">code</span> inside the built-in print() function; you just want the <span style=\"\">string</span> you pass it printed to the screen. For this reason, using the Over button is more common than the Step button."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Out"
+	},
+	{
+		"component": "text",
+		"value": "Clicking the Out button will cause the debugger to <span style=\"\">execute</span> lines of <span style=\"\">code</span> at full speed until it returns from the current function. If you have stepped into a function call with the Step button and now simply want to keep executing instructions until you get back out, click the Out button to “step out” of the current function call."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Quit"
+	},
+	{
+		"component": "text",
+		"value": "If you want to stop debugging entirely and not bother to continue executing the rest of the program, click the Quit button. The Quit button will immediately terminate the program. If you want to run your program normally again, select Debug▸Debugger again to disable the debugger."
+	}
+]

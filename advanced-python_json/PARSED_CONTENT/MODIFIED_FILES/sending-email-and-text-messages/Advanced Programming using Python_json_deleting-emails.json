@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "deleting-emails_key1"
+  },
+  {
+    "component": "text",
+    "value": "deleting-emails_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> imapObj.select_folder('INBOX', readonly=False)<br>❷ >>> UIDs = imapObj.search(['ON 09-Jul-2015'])<br>   >>> UIDs"
+  },
+  {
+    "component": "text",
+    "value": "deleting-emails_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> imapObj.delete_messages(UIDs)"
+  },
+  {
+    "component": "text",
+    "value": "deleting-emails_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> imapObj.expunge()"
+  },
+  {
+    "component": "text",
+    "value": "deleting-emails_key5"
+  }
+]

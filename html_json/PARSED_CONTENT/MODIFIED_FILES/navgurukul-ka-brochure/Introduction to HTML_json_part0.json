@@ -1,0 +1,51 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "part0_key1"
+  },
+  {
+    "component": "text",
+    "value": "part0_key2"
+  },
+  {
+    "component": "text",
+    "value": "part0_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "<!doctype html><br><html><br><head><br>    <title><br>        HTML Seekhen<br>    </title><br></head><br><body><br>    Mai coding seekh rahi hu. <br></body><br></html>"
+  },
+  {
+    "component": "text",
+    "value": "part0_key4"
+  },
+  {
+    "component": "text",
+    "value": "part0_key5"
+  },
+  {
+    "component": "text",
+    "value": "part0_key6"
+  },
+  {
+    "component": "text",
+    "value": "part0_key7"
+  },
+  {
+    "component": "text",
+    "value": "part0_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "part0_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+    "innerFunction_key1": "<span style=\"\">Python</span> आंतरिक कार्य",
+    "innerFunction_key2": "एक फ़ंक्शन जो किसी अन्य फ़ंक्शन के अंदर लिखा या परिभाषित किया जाता है, उसे आंतरिक फ़ंक्शन या नेस्टेड फ़ंक्शन कहा जाता है। आंतरिक कार्यों में, हम बाहरी फ़ंक्शन के <span style=\"\">variable</span> के दायरे तक पहुंच सकते हैं लेकिन हम उन <span style=\"\">variables</span> को नहीं बदल सकते हैं।",
+    "innerFunction_key3": "<b>उदाहरण:-</b>",
+    "innerFunction_key4": "<b><span style=\"\">Output</span> :-</b>",
+    "innerFunction_key5": "आई लव नवगुरुकुल",
+    "innerFunction_key6": "उपरोक्त उदाहरण में, f2() एक आंतरिक कार्य है और f1() बाहरी कार्य है। s व्यवहार्य f1() का दायरा है",
+    "innerFunction_key7": "<span style=\"\">variable?</span> नेस्टेड फ़ंक्शन में",
+    "innerFunction_key8": "ऐसी जगह जहां हमें <span style=\"\">variable</span> मिल जाए और जरूरत पड़ने पर हम उसे एक्सेस भी कर सकें, वह जगह <span style=\"\">variable</span> स्कोप कहलाती है।<br> हमने पढ़ा है कि हम किसी फ़ंक्शन के अंदर वैश्विक <span style=\"\">variables</span> तक कैसे पहुंच सकते हैं, लेकिन, हम बाहरी फ़ंक्शन के अंदर <span style=\"\">variable</span> तक कैसे पहुंच सकते हैं? आइए उदाहरण देखें:",
+    "innerFunction_key9": "<b>उदाहरण :-</b>",
+    "innerFunction_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT;</span>",
+    "innerFunction_key11": "मैं भारत से प्यार करता हूँ",
+    "innerFunction_key12": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT;</span>",
+    "innerFunction_key13": "मेरा नाम जैक है",
+    "innerFunction_key14": "मैं भारत से प्यार करता हूँ"
+}

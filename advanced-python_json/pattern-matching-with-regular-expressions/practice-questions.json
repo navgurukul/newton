@@ -1,0 +1,359 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Questions"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the function that creates Regex objects?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Why are raw strings often used when creating Regex objects?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does the search() method return?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you get the actual strings that match the pattern from a Match object?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "In the regex created from r'(\\d\\d\\d)-(\\d\\d\\d-\\d\\d\\d\\d)', what does group 0 cover? Group 1? Group 2?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Parentheses and periods have specific meanings in regular expression syntax. How would you specify that you want a regex to match actual parentheses and period characters?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "The findall() method returns a list of strings or a list of tuples of strings. What makes it return one or the other?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does the | character signify in regular expressions?",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What two things does the ? character signify in regular expressions?",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between the + and * characters in regular expressions?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between {3} and {3,5} in regular expressions?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What do the \\d, \\w, and \\s shorthand character classes signify in regular expressions?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What do the \\D, \\W, and \\S shorthand character classes signify in regular expressions?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you make a regular expression case-insensitive?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does the . character normally match? What does it match if re.DOTALL is passed as the second argument to re.compile()?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between these two: .* and .*?Q:",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is the character class syntax to match all numbers and lowercase letters?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If numRegex = re.compile(r'\\d+'), what will numRegex.sub('X', '12 drummers, 11 pipers, five rings, 3 hens') return?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What does passing re.VERBOSE as the second argument to re.compile() allow you to do?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How would you write a regex that matches a number with commas for every three digits? It must match the following:",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "'42'"
+	},
+	{
+		"component": "text",
+		"value": "'1,234'"
+	},
+	{
+		"component": "text",
+		"value": "'6,368,745'"
+	},
+	{
+		"component": "text",
+		"value": "but not the following:"
+	},
+	{
+		"component": "text",
+		"value": "'12,34,567' (which has only two digits between the commas)"
+	},
+	{
+		"component": "text",
+		"value": "'1234' (which lacks commas)"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How would you write a regex that matches the full name of someone whose last name is Nakamoto? You can assume that the first name that comes before it will always be one word that begins with a capital letter. The regex must match the following:",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "'Satoshi Nakamoto'"
+	},
+	{
+		"component": "text",
+		"value": "'Alice Nakamoto'"
+	},
+	{
+		"component": "text",
+		"value": "'Robocop Nakamoto'"
+	},
+	{
+		"component": "text",
+		"value": "but not the following:"
+	},
+	{
+		"component": "text",
+		"value": "'satoshi Nakamoto' (where the first name is not capitalized)"
+	},
+	{
+		"component": "text",
+		"value": "'Mr. Nakamoto' (where the preceding word has a nonletter character)"
+	},
+	{
+		"component": "text",
+		"value": "'Nakamoto' (which has no first name)"
+	},
+	{
+		"component": "text",
+		"value": "'Satoshi nakamoto' (where Nakamoto is not capitalized)"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How would you write a regex that matches a sentence where the first word is either Alice, Bob, or Carol; the second word is either eats, pets, or throws; the third word is apples, cats, or baseballs; and the sentence ends with a period? This regex should be case-insensitive. It must match the following:",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "'Alice eats apples.'"
+	},
+	{
+		"component": "text",
+		"value": "'Bob pets cats.'"
+	},
+	{
+		"component": "text",
+		"value": "'Carol throws baseballs.'"
+	},
+	{
+		"component": "text",
+		"value": "'Alice throws Apples.'"
+	},
+	{
+		"component": "text",
+		"value": "'BOB EATS CATS.'"
+	},
+	{
+		"component": "text",
+		"value": "but not the following:"
+	},
+	{
+		"component": "text",
+		"value": "'Robocop eats apples.'"
+	},
+	{
+		"component": "text",
+		"value": "'ALICE THROWS FOOTBALLS.'"
+	},
+	{
+		"component": "text",
+		"value": "'Carol eats 7 cats.'"
+	}
+]

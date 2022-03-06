@@ -1,0 +1,30 @@
+[
+  {
+    "component": "text",
+    "value": "Question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question4_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "{<br>    '4': 5, <br>    '6': 7, <br>    '1': 3, <br>    '2': 4}"
+  },
+  {
+    "component": "text",
+    "value": "Question4_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "{<br>    \"1\": 3,<br>    \"2\": 4,<br>    \"4\": 5,<br>    \"6\": 7<br>}"
+  }
+]

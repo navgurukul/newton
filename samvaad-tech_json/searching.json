@@ -1,0 +1,159 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What is Searching"
+	},
+	{
+		"component": "text",
+		"value": "A search is a that where find or searching any data, roll number, and type information from list.<br>That is called search."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "There are two type of search."
+	},
+	{
+		"component": "text",
+		"value": "Linear Search",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Binary Search",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Linear searching :--"
+	},
+	{
+		"component": "text",
+		"value": "Linear search is a searching any data by sequence or series.that is call Linear searching."
+	},
+	{
+		"component": "text",
+		"value": "Example:--<br>a= array<br>n= number of elements<br>x= which number you want to search<br>         1          2          3            4         5         6    <br>4<br>8<br>6<br>12<br>15<br>3"
+	},
+	{
+		"component": "text",
+		"value": "Linear search(a,n,x)<br>For i=a to n;(using for <span style=\"\">loop</span>)<br>If a[i]==x;<br>    Return i;<br>Return 0; (there is no element which you want to search)"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Searching ko aur samjne ke liye aap ye video dekh skte hai"
+	},
+	{
+		"component": "youtube",
+		"value": "U55MOdjEWKY"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Advatages of Linear Search"
+	},
+	{
+		"component": "text",
+		"value": "It is very easy to understand and implement;",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "It does not require the data in the array to be stored in any particular order.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Binary Searching"
+	},
+	{
+		"component": "text",
+		"value": "Binary search works on sorted arrays. Binary search begins by comparing the middle element of the array with the target value. If the target value matches the middle element, its position in the array is returned. If the target value is less than the middle element, the search continues in the lower half of the array.<br><span style=\"\">syntax</span>:--<br>Find the location of value"
+	},
+	{
+		"component": "text",
+		"value": "0         1          2            3         4         5"
+	},
+	{
+		"component": "text",
+		"value": "While low<=high<br><br>Do mid=(low+high)/2<br><br>If v=a[mid]<br><br>    Return mid<br><br>If v&gt;a[mid]<br><br>low=mid+1<br><br>Else high =mid +1<br><br>Return nill<br> "
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Binary Searching ko detail main samjne ke liye ye video dekhe"
+	},
+	{
+		"component": "youtube",
+		"value": "1HIFzve0zCM"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "About detail of Binary search:"
+	},
+	{
+		"component": "text",
+		"value": "https://en.wikipedia.org/wiki/Binary<i>search</i>algorithm"
+	},
+	{
+		"component": "text",
+		"value": "."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Advantages of Binary search:-"
+	},
+	{
+		"component": "text",
+		"value": "If the array being searched contains 20,000 elements, the algorithm will have to look at all 20,000 elements in order to find a value in the last element.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The binary search is much more efficient than the linear search.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai.<br>Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai."
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"auragaraapkapartnerkoiaisatechwordboltahaijoaapkonahipatayaaapgenerallyusenahikarteininnwordskobhisamajhnekiphirkoshishkarein\">Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein</h2>"
+	},
+	{
+		"component": "text",
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "1.Search Engine Kya hai?<br><br>2.Kitne types ke Search Engine hote hai?"
+	}
+]

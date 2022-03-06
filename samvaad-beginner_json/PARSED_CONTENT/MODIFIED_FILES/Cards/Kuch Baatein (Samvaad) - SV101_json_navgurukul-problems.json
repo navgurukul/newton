@@ -1,0 +1,144 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "navgurukul-problems_key1"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "navgurukul-problems_key5"
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key11",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key12",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key13",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key14",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key15",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key16",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key17",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key18",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul-problems_key19",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  }
+]

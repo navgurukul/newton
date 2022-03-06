@@ -1,0 +1,12 @@
+{
+	"loops-code-question10_key1": "Question 10\n",
+	"loops-code-question10_key2": "Make an algorithm that prints the first 100 numbers of the `fibonacci series`.\n",
+	"loops-code-question10_key3": "`Fibonacci series` is shown here,\n**0, 1, 1, 2, 3, 5, 8, 13, 21, 34**\n",
+	"loops-code-question10_key4": "In this series `first_number` is 0 and`second_number ` is 1. After this, the next number will be the sum of the `last two numbers`.\n",
+	"loops-code-question10_key5": "Like, third_number = `first_number` + `second_number`\n",
+	"loops-code-question10_key6": "`1 = 0 + 1`\n",
+	"loops-code-question10_key7": "`fourth_number` = `second_number` + `third_number`\n",
+	"loops-code-question10_key8": "`2 = 1 + 1`\n\n\n",
+	"loops-code-question10_key9": "Hint :\n",
+	"loops-code-question10_key10": "Now, think about how you can access the `current counter` and previous counter value.\n"
+}

@@ -1,0 +1,154 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Don’t Debug with print()"
+	},
+	{
+		"component": "text",
+		"value": "Typing import logging and logging.basicConfig(level=logging.DEBUG, format= '%(asctime)s - %(levelname)s - %(message)s') is somewhat unwieldy. You may want to use print() calls instead, but don’t give in to this temptation! Once you’re done debugging, you’ll end up spending a lot of time removing print() calls from your <span style=\"\">code</span> for each log message. You might even accidentally remove some print() calls that were being used for nonlog messages. The nice thing about log messages is that you’re free to fill your program with as many as you like, and you can always disable them later by adding a single logging.disable(logging.CRITICAL) call. Unlike print(), the logging module makes it easy to switch between showing and hiding log messages."
+	},
+	{
+		"component": "text",
+		"value": "Log messages are intended for the programmer, not the user. The user won’t care about the contents of some dictionary value you need to see to help with debugging; use a log message for something like that. For messages that the user will want to see, like <span style=\"\">File</span> not found or Invalid <span style=\"\">input</span>, please enter a number, you should use a print() call. You don’t want to deprive the user of useful information after you’ve disabled log messages."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Logging Levels"
+	},
+	{
+		"component": "text",
+		"value": "Logging levels provide a way to categorize your log messages by importance. There are five logging levels, described in <span style=\"\">Tab</span>le 10-1 from least to most important. Messages can be logged at each level using a different logging function."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Tab</span>le 10-1. Logging Levels in <span style=\"\">Python</span>"
+	},
+	{
+		"component": "text",
+		"value": "Level"
+	},
+	{
+		"component": "text",
+		"value": "Logging Function"
+	},
+	{
+		"component": "text",
+		"value": "Description"
+	},
+	{
+		"component": "text",
+		"value": "DEBUG"
+	},
+	{
+		"component": "text",
+		"value": "logging.debug()"
+	},
+	{
+		"component": "text",
+		"value": "The lowest level. Used for small details. Usually you care about these messages only when diagnosing problems."
+	},
+	{
+		"component": "text",
+		"value": "INFO"
+	},
+	{
+		"component": "text",
+		"value": "logging.info()"
+	},
+	{
+		"component": "text",
+		"value": "Used to record information on general events in your program or confirm that things are working at their point in the program."
+	},
+	{
+		"component": "text",
+		"value": "WARNING"
+	},
+	{
+		"component": "text",
+		"value": "logging.warning()"
+	},
+	{
+		"component": "text",
+		"value": "Used to indicate a potential problem that doesn’t prevent the program from working but might do so in the future."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">ERROR</span>"
+	},
+	{
+		"component": "text",
+		"value": "logging.<span style=\"\">error</span>()"
+	},
+	{
+		"component": "text",
+		"value": "Used to record an <span style=\"\">error</span> that caused the program to fail to do something."
+	},
+	{
+		"component": "text",
+		"value": "CRITICAL"
+	},
+	{
+		"component": "text",
+		"value": "logging.critical()"
+	},
+	{
+		"component": "text",
+		"value": "The highest level. Used to indicate a fatal <span style=\"\">error</span> that has caused or is about to cause the program to stop running entirely."
+	},
+	{
+		"component": "text",
+		"value": "Your logging message is passed as a <span style=\"\">string</span> to these functions. The logging levels are suggestions. Ultimately, it is up to you to decide which category your log message falls into. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import logging<br>>>> logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s -'<br>%(levelname)s - %(message)s')'<br>>>> logging.debug('Some debugging details.')"
+	},
+	{
+		"component": "text",
+		"value": "2015-05-18 19:04:26,901 - DEBUG - Some debugging details."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> logging.info('The logging module is working.')"
+	},
+	{
+		"component": "text",
+		"value": "2015-05-18 19:04:35,569 - INFO - The logging module is working."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> logging.warning('An error message is about to be logged.')"
+	},
+	{
+		"component": "text",
+		"value": "2015-05-18 19:04:56,843 - WARNING - An <span style=\"\">error</span> message is about to be logged."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> logging.error('An error has occurred.')"
+	},
+	{
+		"component": "text",
+		"value": "2015-05-18 19:05:07,737 - <span style=\"\">ERROR</span> - An <span style=\"\">error</span> has occurred."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> logging.critical('The program is unable to recover!')"
+	},
+	{
+		"component": "text",
+		"value": "2015-05-18 19:05:45,794 - CRITICAL - The program is unable to recover!<br>The benefit of logging levels is that you can change what priority of logging message you want to see. Passing logging.DEBUG to the basicConfig() function’s level <span style=\"\">key</span>word argument will show messages from all the logging levels (DEBUG being the lowest level). But after developing your program some more, you may be interested only in <span style=\"\">errors</span>. In that case, you can set basicConfig()’s level argument to logging.<span style=\"\">ERROR</span>. This will show only <span style=\"\">ERROR</span> and CRITICAL messages and skip the DEBUG, INFO, and WARNING messages."
+	}
+]

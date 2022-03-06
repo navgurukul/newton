@@ -1,0 +1,10 @@
+{
+	"bin-folder_key1": "/usr/bin folder\n",
+	"bin-folder_key2": "`/usr/bin` folder in linux isn't the `recycle bin` jo shayad aapne kabhi windows mei dekha hoga\n",
+	"bin-folder_key3": "`bin` ka yaha matlab `binary files` se hota hai. jo aapke programs hai, jo `execute` kiye ja sakte hai linux ke alawa, woh yaha par store hote hai.\n",
+	"bin-folder_key4": "Dekhiye kya aapko koi familiar names dikhayi de rahe hai?\n",
+	"bin-folder_key5": "Iss folder mei jo bhi `executable` `files` hongi, woh aap kahi se bhi sirf uss `file` ka naam likh kar `execute` kar sakte ho. Hum aage aisa ek program banayenge.\n",
+	"bin-folder_key6": "Aise hi\n",
+	"bin-folder_key7": "ke contents ko samajh kar, observe kariye, ki kya contents hai, aur in mei se koi `commands/programs/executables` aapne kabhi use kiye hai kya?\n",
+	"bin-folder_key8": "Note:\nJo bhi `file` `executable` hogi, uss `file` ki permission mei aapko 'x' character dikhega `ls -l` karnei par.\n"
+}

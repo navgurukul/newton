@@ -1,0 +1,23 @@
+[
+	{
+		"component": "text",
+		"value": "<b>To understand more about list, we will make a game similar to Kaun Banega Crorepati using <span style=\"\">python</span>.</b> "
+	},
+	{
+		"component": "text",
+		"value": "Please look at the <span style=\"\">code</span> and try to understand that in order to understand KBC game, we have defined some inportant things like"
+	},
+	{
+		"component": "text",
+		"value": "questions, options and their  solutions.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "question_list = [<br>&emsp;\"How many continents are there?\",&emsp;&emsp;&emsp;  # pehla question<br>&emsp;\"What is the capital of India?\",&emsp;&emsp;&emsp;# doosra question<br>&emsp;\"NG mei kaun se course padhaya jaata hai?\"&emsp;# teesra question<br>]<br><br>options_list = [<br>&emsp;#pehle question ke liye options<br>&emsp;[\"Four\", \"Nine\", \"Seven\", \"Eight\"],<br>&emsp;#second question ke liye options<br>&emsp;[\"Chandigarh\", \"Bhopal\", \"Chennai\", \"Delhi\"],<br>&emsp;#third question ke liye options<br>&emsp;[\"Software Engineering\", \"Counseling\", \"Tourism\", \"Agriculture\"]<br>]<br><br># har ek question ke liye, uski solution key (yeh index nahi hai)<br>solution_list = [3, 4, 1]"
+	}
+]

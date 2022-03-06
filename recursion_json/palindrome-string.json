@@ -1,0 +1,63 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Palindrome"
+	},
+	{
+		"component": "text",
+		"value": "Palindrome woh <span style=\"\">string</span> ya number hota hai, jo left se right aur right se left same hota hai. Jaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nayan</span> <span style=\"\">string</span>. Aap isse left se dekhoge toh bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nayan</span> hai, aur right se dekhoge toh bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nayan</span> hai."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">naina</span> jaise palindrome nahi hai. Left se yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">naina</span> hai, par right se <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">anian</span> hai. Aur dono alag alag hai."
+	},
+	{
+		"component": "text",
+		"value": "Aapko ek function likhna hai recursion use kar kar jo dekhega ki given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">palindrome</span> hai ya nahi."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Agar pehla aur aakhiri character list mei alag hoga, toh list palindrome nahi hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar pehla aur aakhiri character list mei same hai, toh list palindrome hai agar bacchi hui list (list mei agar pehla aur aakhiri element hata do toh) palindrome hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar list mei ek character hai, toh woh hamesha palindrome hoga.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar list mei do character hai, aur woh dono same hai toh palindrome hoga, else palindrome nahi hoga.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def ifPalindrome(string):<br>    if string == \"\":  # BASE CASE CONDITION<br>        return True<br>    elif len(string) == 1:  # BASE CASE CONDITION<br>        return True<br>    elif string[0] == string[len(string)-1]:  # RECURSION<br>        return ifPalindrome(string[1:][:-1])<br>    else:<br>        return False"
+	}
+]

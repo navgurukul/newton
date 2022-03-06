@@ -1,0 +1,23 @@
+{
+    "type-conversion-question_key1": "नाम: प्रकार रूपांतरण प्रश्न 1\nसबमिशन_टाइप: यूआरएल\n",
+    "type-conversion-question_key2": "### यह एक व्यायाम है\n\n",
+    "type-conversion-question_key3": "*आप प्रत्येक प्रश्न का उत्तर `upload` से `file` करके दे सकते हैं।*\n",
+    "type-conversion-question_key4": "*याद रखें `python` `files` में .py एक्सटेंशन है।*\n",
+    "type-conversion-question_key5": "**आपके लिए, हमने इस प्रश्न को कई भागों में विभाजित किया है। लेकिन आपको एक ही `file` में सबमिट करना होगा।**\n",
+    "type-conversion-question_key6": "## भाग ---- पहला\n\n",
+    "type-conversion-question_key7": "एक `STRING` मान को `var12` value में संग्रहित करें\n",
+    "type-conversion-question_key8": "फिर `STRING` मान को `FLOAT` टाइप करें और `var13` में स्टोर करें\n\n\n",
+    "type-conversion-question_key9": "## भाग 2\n\n",
+    "type-conversion-question_key10": "`FLOAT` मान को `var23` . में संग्रहित करें\n",
+    "type-conversion-question_key11": "फिर `FLOAT` मान को `INTEGER` टाइप करें और `var24` में स्टोर करें\n\n\n",
+    "type-conversion-question_key12": "## भाग 3\n\n",
+    "type-conversion-question_key13": "एक `INTEGER` मान को `var34` . में संग्रहित करें\n",
+    "type-conversion-question_key14": "फिर `INTEGER` मान को `STRING` में टाइप करें और `var35` में स्टोर करें\n\n\n",
+    "type-conversion-question_key15": "## भाग 4\n\n",
+    "type-conversion-question_key16": "`FLOAT` मान को `var45` . में संग्रहित करें\n",
+    "type-conversion-question_key17": "फिर `FLOAT` मान को `STRING` टाइप करें और `var46` में स्टोर करें\n\n\n",
+    "type-conversion-question_key18": "## भाग 5\n\n",
+    "type-conversion-question_key19": "एक `STRING` मान को `var56` value में संग्रहित करें\n",
+    "type-conversion-question_key20": "फिर `STRING` मान को `INTEGER` टाइप करें और `var57` में स्टोर करें\n\n\n",
+    "type-conversion-question_key21": "`Upload` `code` इस प्रश्न के सभी भागों को एक `python` `file` में लिखकर।\n"
+}

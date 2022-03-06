@@ -1,0 +1,77 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-3_key1"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-3_key2"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-3_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-3_key4"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-3_key5"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-3_key6"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Eg:<br>  Apko ek saal di jayegi jese 1998.<br>  Toh apko ush saal ke piche aye hue 3 leap year nikalne hai 1996, 1992, 1988<br>  aur Jab nikal jaye toh apko aage ane wale 3 leap year nikalne hai 2000, 2004, 2008"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-3_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Task-2-3_key8"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 1000<br>  Output:<br>    Pichle 3 Leap Year : 996 992 988<br>    Agle 3 Leap Year : 1004 1008 1012"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 2:<br>  Input: 1460<br>  Output:<br>    Pichle 3 Leap Year : 1456 1452 1448<br>    Agle 3 Leap Year : 1464 1468 1472"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 3:<br>  Input: 1570<br>  Output:<br>    Pichle 3 Leap Year : 1568 1564 1560<br>    Agle 3 Leap Year : 1572 1576 1580"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 2000<br>  Output:<br>    Pichle 3 Leap Year : 1996 1992 1988<br>    Agle 3 Leap Year : 2004 2008 2012"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-3_key9"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-3_key10"
+  }
+]

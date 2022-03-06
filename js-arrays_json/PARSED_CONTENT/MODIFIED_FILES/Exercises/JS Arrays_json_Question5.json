@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question5_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let myFavouriteGames = [\"chess\", \"Ludo\", \"Badminton\"];<br>console.log(myFavouriteGames.2);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "Syntax error!"
+  }
+]

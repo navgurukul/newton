@@ -1,0 +1,36 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Introduction of Self"
+	},
+	{
+		"component": "text",
+		"value": "Watch this video to learn about introductions:@<a href=\"D91bOKIfKCI\">youtube</a>@<a href=\"https://youtu.be/q22JrhzFEuQ\">youtube</a>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Excercise"
+	},
+	{
+		"component": "text",
+		"value": "Prepare a short introduction about yourself. Write it and share it. ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Go and introduce yourself to two people from outside NavGurukul.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

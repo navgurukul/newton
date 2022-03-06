@@ -1,0 +1,93 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Copying and Pasting Images onto Other Images"
+	},
+	{
+		"component": "text",
+		"value": "The copy() method will return a new Image object with the same image as the Image object it was called on. This is useful if you need to make changes to an image but also want to keep an untouched version of the original. For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> catIm = Image.open('zophie.png')<br>>>> catCopyIm = catIm.copy()"
+	},
+	{
+		"component": "text",
+		"value": "The catIm and catCopyIm <span style=\"\">variables</span> contain two separate Image objects, which both have the same image on them. Now that you have an Image object stored in catCopyIm, you can modify catCopyIm as you like and <span style=\"\">save</span> it to a new <span style=\"\">file</span>name, leaving zophie.png untouched. For example, let’s try modifying catCopyIm with the paste() method."
+	},
+	{
+		"component": "text",
+		"value": "The paste() method is called on an Image object and pastes another image on top of it. Let’s continue the <span style=\"\">shell</span> example by pasting a smaller image onto catCopyIm."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> faceIm = catIm.crop((335, 345, 565, 560))<br>>>> faceIm.size"
+	},
+	{
+		"component": "text",
+		"value": "(230, 215)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> catCopyIm.paste(faceIm, (0, 0))<br>>>> catCopyIm.paste(faceIm, (400, 500))<br>>>> catCopyIm.save('pasted.png')"
+	},
+	{
+		"component": "text",
+		"value": "First we pass crop() a box tuple for the rectangular area in zophie.png that contains Zophie’s face. This creates an Image object representing a 230×215 crop, which we store in faceIm. Now we can paste faceIm onto catCopyIm. The paste() method takes two arguments: a “source” Image object and a tuple of the x- and y-coordinates where you want to paste the top-left corner of the source Image object onto the main Image object. Here we call paste() twice on catCopyIm, passing (0, 0) the first time and (400, 500) the second time. This pastes faceIm onto catCopyIm twice: once with the top-left corner of faceIm at (0, 0) on catCopyIm, and once with the top-left corner of faceIm at (400, 500). Finally, we <span style=\"\">save</span> the modified catCopyIm to pasted.png. The pasted.png image looks like Figure 17-5."
+	},
+	{
+		"component": "text",
+		"value": "Figure 17-5. Zophie the cat, with her face pasted twice"
+	},
+	{
+		"component": "text",
+		"value": "Note<br>Despite their names, the copy() and paste() methods in Pillow do not use your computer’s clipboard."
+	},
+	{
+		"component": "text",
+		"value": "Note that the paste() method modifies its Image object in place; it does not return an Image object with the pasted image. If you want to call paste() but also keep an untouched version of the original image around, you’ll need to first copy the image and then call paste() on that copy."
+	},
+	{
+		"component": "text",
+		"value": "Say you want to tile Zophie’s head across the entire image, as in Figure 17-6. You can achieve this effect with just a couple for <span style=\"\">loops</span>. Continue the interactive <span style=\"\">shell</span> example by entering the following:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> catImWidth, catImHeight = catIm.size<br>   >>> faceImWidth, faceImHeight = faceIm.size<br>❶  >>> catCopyTwo = catIm.copy()<br>❷ >>> for left in range(0, catImWidth, faceImWidth):<br>❸         for top in range(0, catImHeight, faceImHeight):<br>               print(left, top)<br>               catCopyTwo.paste(faceIm, (left, top))"
+	},
+	{
+		"component": "text",
+		"value": "0 0<br>   0 215<br>   0 430<br>   0 645<br>   0 860<br>   0 1075<br>   230 0<br>   230 215<br>   --snip--<br>   690 860<br>   690 1075"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> catCopyTwo.save('tiled.png')"
+	},
+	{
+		"component": "text",
+		"value": "Here we store the width of height of catIm in catImWidth and catImHeight. At ❶ we make a copy of catIm and store it in catCopyTwo. Now that we have a copy that we can paste onto, we start <span style=\"\">loop</span>ing to paste faceIm onto catCopyTwo. The outer for <span style=\"\">loop</span>’s left <span style=\"\">variable</span> starts at 0 and increases by faceImWidth(230) ❷. The inner for <span style=\"\">loop</span>’s top <span style=\"\">variable</span> start at 0 and increases by faceImHeight(215) ❸. These nested for <span style=\"\">loops</span> produce values for left and top to paste a grid of faceIm images over the catCopyTwo Image object, as in Figure 17-6. To see our nested <span style=\"\">loops</span> working, we print left and top. After the pasting is complete, we <span style=\"\">save</span> the modified catCopyTwo to tiled.png."
+	},
+	{
+		"component": "text",
+		"value": "Figure 17-6. Nested for <span style=\"\">loops</span> used with paste() to duplicate the cat’s face (a duplicat, if you will)."
+	},
+	{
+		"component": "text",
+		"value": "Pasting Transparent Pixels"
+	},
+	{
+		"component": "text",
+		"value": "Normally transparent pixels are pasted as white pixels. If the image you want to paste has transparent pixels, pass the Image object as the third argument so that a solid rectangle isn’t pasted. This third argument is the “mask” Image object. A mask is an Image object where the alpha value is significant, but the red, green, and blue values are ignored. The mask tells the paste() function which pixels it should copy and which it should leave transparent. Advanced usage of masks is beyond this book, but if you want to paste an image that has transparent pixels, pass the Image object again as the third argument."
+	}
+]

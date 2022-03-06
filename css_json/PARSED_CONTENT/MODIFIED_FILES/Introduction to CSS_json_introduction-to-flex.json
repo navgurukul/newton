@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "introduction-to-flex_key1"
+  },
+  {
+    "component": "text",
+    "value": "introduction-to-flex_key2"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/css_json/images/flex-layout-1.png",
+    "alt": "introduction-to-flex_key3"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/css_json/images/flex-layout-2.png",
+    "alt": "introduction-to-flex_key4"
+  },
+  {
+    "component": "text",
+    "value": "introduction-to-flex_key5"
+  },
+  {
+    "component": "text",
+    "value": "introduction-to-flex_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "introduction-to-flex_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  }
+]

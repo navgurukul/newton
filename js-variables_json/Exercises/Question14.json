@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "<span style=\"\">Code</span> a console that displays the message \"Hello!\""
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "//please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "console.log(\" Hello!\");"
+	}
+]

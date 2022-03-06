@@ -1,0 +1,70 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Conventions"
+	},
+	{
+		"component": "text",
+		"value": "This cource is not designed as a reference manual; it’s a guide for beginners. The coding style sometimes goes against best practices (for example, some programs use global <span style=\"\">variables</span>), but that’s a trade-off to make the <span style=\"\">code</span> simpler to learn. This book is made for people to write throwaway <span style=\"\">code</span>, so there’s not much time spent on style and elegance. Sophisticated programming concepts—like object-oriented programming, list comprehensions, and generators—aren’t covered because of the complexity they add. Veteran programmers may point out ways the <span style=\"\">code</span> in this book could be changed to improve efficiency, but this book is mostly concerned with getting programs to work with the least amount of effort."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "What Is Programming?"
+	},
+	{
+		"component": "text",
+		"value": "Television shows and films often show programmers furiously typing cryptic streams of 1s and 0s on glowing screens, but modern programming isn’t that mysterious. Programming is simply the act of entering instructions for the computer to perform. These instructions might crunch some numbers, modify text, look up information in <span style=\"\">files</span>, or communicate with other computers over the Internet."
+	},
+	{
+		"component": "text",
+		"value": "All programs use basic instructions as building blocks. Here are a few of the most common ones, in English:"
+	},
+	{
+		"component": "text",
+		"value": "Do this; then do that.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "If this condition is true, perform this action; otherwise, do that action.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Do this action that number of times.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Keep doing that until this condition is true.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "You can combine these building blocks to implement more intricate decisions, too. For example, here are the programming instructions, called the source <span style=\"\">code</span>, for a simple program written in the <span style=\"\">Python</span> programming language. Starting at the top, the <span style=\"\">Python</span> software runs each line of <span style=\"\">code</span> (some lines are run only if a certain condition is <span style=\"\">true</span> or else <span style=\"\">Python</span> runs some other line) until it reaches the bottom."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "❶ passwordFile = open('SecretPasswordFile.txt')<br>❷ secretPassword = passwordFile.read()<br>❸ print('Enter your password.')<br>typedPassword = input()<br>❹ if typedPassword == secretPassword:<br>❺        print('Access granted')<br>❻    if typedPassword == '12345':<br>❼    print('That password is one that an idiot puts on their luggage.')<br>else:<br>❽     print('Access denied')"
+	},
+	{
+		"component": "text",
+		"value": "You might not know anything about programming, but you could probably make a reasonable guess at what the previous <span style=\"\">code</span> does just by reading it. First, the <span style=\"\">file</span> SecretPassword<span style=\"\">File</span>.txt is opened ❶, and the secret password in it is read ❷. Then, the user is prompted to <span style=\"\">input</span> a password (from the <span style=\"\">key</span>board) ❸. These two passwords are compared ❹, and if they’re the same, the program prints Access granted to the screen ❺. Next, the program checks to see whether the password is 12345 ❻ and hints that this choice might not be the best for a password ❼. If the passwords are not the same, the program prints Access denied to the screen ❽."
+	}
+]

@@ -1,0 +1,183 @@
+[
+	{
+		"component": "text",
+		"value": "As you previously read about different data types in javascript. There are some primitive data types on which some operations can be performed which we are going to know about it now."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Operations on <span style=\"\">Strings</span>"
+	},
+	{
+		"component": "text",
+		"value": "<h3> Finding the length of a string</h3>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "To find the length of a <span style=\"\">string</span> you just need to use a simple property called length."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let browserType = 'mozi lla';<br>console.log(browserType.length); // output 8"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "In the above example we have found the length of a <span style=\"\">string</span>. This means by using length function it is possible in <span style=\"\">strings</span> as well, like arrays. Just the difference is in this it counts each and every alphabet of a <span style=\"\">string</span> including space as well."
+	},
+	{
+		"component": "text",
+		"value": "If you see, upto m-length is 1, for o-length is 2, for z-length is 3, for i-length is 4, for space -length is 5, for l-length is 6, for again l-length is 7, for a-length is 8."
+	},
+	{
+		"component": "text",
+		"value": "But in the list the elements are separated by commas."
+	},
+	{
+		"component": "text",
+		"value": "<h3> Retrieving a specific string character</h3>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let browserType = 'mozilla';<br>browserType[0]; // output ‘m’"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "If we want a particular alphabet of a <span style=\"\">string</span> so we can access it too by using square brackets same as arrays. Just specify the <span style=\"\">variable</span> name and the position(Index) of the particular alphabet in [ ] (square brackets). Indexing starts from the same number 0."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let browserType = 'mozilla';<br>browserType[browserType.length-1]; // output ‘a’"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "In the case of accessing the last element first like <span style=\"\">python</span>, negative indexing is not available but To retrieve the last character of any <span style=\"\">string</span>, we could use the following line, combining this technique with the length property we looked at above. The length of \"mozilla\" is 8, but because the count starts at 0, the character position is 7; using  length-1 gets us the last character."
+	},
+	{
+		"component": "text",
+		"value": "Finding a substring inside a string and extracting it"
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let browserType = 'mozilla is a company';<br>browserType.indexOf(‘company’); // output 13"
+	},
+	{
+		"component": "text",
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "This gives us a result of 13, because the sub<span style=\"\">string</span> \"company\" starts at position 13 (0, 1, 2  — so 13 characters in) inside \"mozilla is a company\". Such <span style=\"\">code</span> could be used to filter <span style=\"\">strings</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let browserType = 'mozilla is a company';<br>browserType.indexOf(‘are’); // output -1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "This should give you a result of -1 — this is returned when the sub<span style=\"\">string</span>, in this case 'are', is not found in the main <span style=\"\">string</span>."
+	},
+	{
+		"component": "text",
+		"value": "Changing case"
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let radData = 'My NaMe Is MuD';<br>radData.toLowerCase();  // output ‘my name is mud’<br>radData.toUpperCase();  // output ‘MY NAME IS MUD’"
+	},
+	{
+		"component": "text",
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "The string methods toLowerCase() and toUpperCase() take a string and convert all the characters to lower- or uppercase, respectively."
+	},
+	{
+		"component": "text",
+		"value": "<h3> Updating parts of a string</h3>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let browserType = 'mozilla';<br>browserType.replace(‘moz’, ’van’); // output ‘vanilla’"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "This returns \"vanilla\" in the console. But if you check the value of browserType, it is still \"mozilla\". To actually update the value of the browserType <span style=\"\">variable</span> in a real program, you'd have to set the <span style=\"\">variable</span> value to be the result of the operation; it doesn't just update the sub<span style=\"\">string</span> value automatically. So you'd have to actually write this: browserType = browserType.replace('moz','van');"
+	}
+]

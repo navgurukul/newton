@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Pickle DB"
+	},
+	{
+		"component": "text",
+		"value": "Iss exercise mei humei ek bahut sa simple sa da<span style=\"\">tab</span>ase banana hai."
+	},
+	{
+		"component": "text",
+		"value": "Yeh <a href=\"https://pythonhosted.org/pickleDB/\">padhein</a>. Aise databases ko key-value store ya key-value database bolte hai. Kyuki - yeh database aapko kisi bhi key ke liye uske corresponding values return karte hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": ">>> import pickledb<br><br>>>> db = pickledb.load('example.db', False)<br><br>>>> db.set('key', 'value')<br>True<br><br>>>> db.get('key')<br>'value'<br><br>>>> db.dump()<br>True"
+	},
+	{
+		"component": "text",
+		"value": "Uss link par aapne yeh <span style=\"\">code</span> padha hoga. Humein - sabse pehle yeh chaar commands implement karni hai - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">load</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">set</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dump</span>. Sabse pehle aap -"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "# For Python 2.7<br>sudo apt install python-pip<br>pip install pickledb<br><br># For Python 3.0+<br>sudo apt install python3-pip<br>pip3 install pickledb"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pickledb</span> khel kar, usmei kuch values insert karo, kuch values read karo, da<span style=\"\">tab</span>ase dump kar kar <span style=\"\">file</span> ke content dekho, etc. Aap ne kya kya commands try ki, neeche comment box mei likhiye."
+	}
+]

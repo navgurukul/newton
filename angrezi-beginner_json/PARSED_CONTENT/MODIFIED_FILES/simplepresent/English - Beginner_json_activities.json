@@ -1,0 +1,31 @@
+[
+  {
+    "component": "blockquote",
+    "value": "activities_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "activities_key2"
+  },
+  {
+    "component": "text",
+    "value": "activities_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "activities_key4"
+  },
+  {
+    "component": "text",
+    "value": "activities_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+	"access_element_dictionary_key1": "`Accessing` Elements from a Dictionary:-\n",
+	"access_element_dictionary_key2": "We can `access` dictionary values with the use of square brackets. Look at the example below to understand.\n",
+	"access_element_dictionary_key3": "Example :-\n",
+	"access_element_dictionary_key4": "`Output` :-\n",
+	"access_element_dictionary_key5": "`organisation male 20 ` \n",
+	"access_element_dictionary_key6": "`get()` :-\n",
+	"access_element_dictionary_key7": "We can also make use of the **get()** function to access dictionary values.\n",
+	"access_element_dictionary_key8": "Example :-\n",
+	"access_element_dictionary_key9": "`Output` :-\n",
+	"access_element_dictionary_key10": "male \n{'organisation': 'navgurukul', 'place': 'dharamsala'}\n dharamsala\n"
+}

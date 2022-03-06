@@ -1,0 +1,10 @@
+{
+	"report-card_key1": "`Report Card`\n",
+	"report-card_key2": "Please see this list :\n",
+	"report-card_key3": "These are the marks of any student for the last three years. You have to calculate total marks for all the three years.\n",
+	"report-card_key4": "Sum of the nested list given above - 1142.\n",
+	"report-card_key5": "`Edge Cases`\n",
+	"report-card_key6": "Check your program for following nested lists as well (your `code` should run without making any change, if its not running properly then that means that you have not written the `code` properly ) :\n",
+	"report-card_key7": "Sum of the nested list given above - 965.\n",
+	"report-card_key8": "Sum of the nested list given above - 1324.\n"
+}

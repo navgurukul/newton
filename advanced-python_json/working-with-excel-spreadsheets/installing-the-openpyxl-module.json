@@ -1,0 +1,174 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Installing the openpyxl Module"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Python</span> does not come with OpenPyXL, so you’ll have to install it. Follow the instructions for installing third-party modules in Appendix A; the name of the module is openpyxl. To test whether it is installed correctly, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import openpyxl"
+	},
+	{
+		"component": "text",
+		"value": "If the module was correctly installed, this should produce no <span style=\"\">error</span> messages. Remember to import the openpyxl module before running the interactive <span style=\"\">shell</span> examples in this chapter, or you’ll get a Name<span style=\"\">Error</span>: name 'openpyxl' is not defined <span style=\"\">error</span>."
+	},
+	{
+		"component": "text",
+		"value": "This book covers version 2.3.3 of OpenPyXL, but new versions are regularly released by the OpenPyXL team. Don’t worry, though: New versions should stay backward compatible with the instructions in this book for quite some time. If you have a newer version and want to see what additional features may be available to you, you can check out the full documentation for OpenPyXL at <span><a href=\" http://openpyxl.readthedocs.org/.\"> http://openpyxl.readthedocs.org/.</a></span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Reading Excel Documents"
+	},
+	{
+		"component": "text",
+		"value": "The examples in this chapter will use a spreadsheet named example.xlsx stored in the root folder. You can either create the spreadsheet yourself or download it from <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span>. Figure 12-1 shows the <span style=\"\">tabs</span> for the three default sheets named Sheet1, Sheet2, and Sheet3 that Excel automatically provides for new workbooks. (The number of default sheets created may vary between operating systems and spreadsheet programs.)"
+	},
+	{
+		"component": "text",
+		"value": "Figure 12-1. The <span style=\"\">tabs</span> for a workbook’s sheets are in the lower-left corner of Excel."
+	},
+	{
+		"component": "text",
+		"value": "Sheet 1 in the example <span style=\"\">file</span> should look like <span style=\"\">Tab</span>le 12-1. (If you didn’t download example.xlsx from the website, you should enter this data into the sheet yourself.)"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Tab</span>le 12-1. The example.xlsx Spreadsheet"
+	},
+	{
+		"component": "text",
+		"value": "A"
+	},
+	{
+		"component": "text",
+		"value": "B"
+	},
+	{
+		"component": "text",
+		"value": "C"
+	},
+	{
+		"component": "text",
+		"value": "1"
+	},
+	{
+		"component": "text",
+		"value": "4/5/2015 1:34:02 PM"
+	},
+	{
+		"component": "text",
+		"value": "Apples"
+	},
+	{
+		"component": "text",
+		"value": "73"
+	},
+	{
+		"component": "text",
+		"value": "2"
+	},
+	{
+		"component": "text",
+		"value": "4/5/2015 3:41:23 AM"
+	},
+	{
+		"component": "text",
+		"value": "Cherries"
+	},
+	{
+		"component": "text",
+		"value": "85"
+	},
+	{
+		"component": "text",
+		"value": "3"
+	},
+	{
+		"component": "text",
+		"value": "4/6/2015 12:46:51 PM"
+	},
+	{
+		"component": "text",
+		"value": "Pears"
+	},
+	{
+		"component": "text",
+		"value": "14"
+	},
+	{
+		"component": "text",
+		"value": "4"
+	},
+	{
+		"component": "text",
+		"value": "4/8/2015 8:59:43 AM"
+	},
+	{
+		"component": "text",
+		"value": "Oranges"
+	},
+	{
+		"component": "text",
+		"value": "52"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "text",
+		"value": "4/10/2015 2:07:00 AM"
+	},
+	{
+		"component": "text",
+		"value": "Apples"
+	},
+	{
+		"component": "text",
+		"value": "152"
+	},
+	{
+		"component": "text",
+		"value": "6"
+	},
+	{
+		"component": "text",
+		"value": "4/10/2015 6:10:37 PM"
+	},
+	{
+		"component": "text",
+		"value": "Bananas"
+	},
+	{
+		"component": "text",
+		"value": "23"
+	},
+	{
+		"component": "text",
+		"value": "7"
+	},
+	{
+		"component": "text",
+		"value": "4/10/2015 2:40:46 AM"
+	},
+	{
+		"component": "text",
+		"value": "Strawberries"
+	},
+	{
+		"component": "text",
+		"value": "98"
+	},
+	{
+		"component": "text",
+		"value": "Now that we have our example spreadsheet, let’s see how we can manipulate it with the openpyxl module."
+	}
+]

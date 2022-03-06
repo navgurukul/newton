@@ -1,0 +1,8 @@
+{
+	"question1_key1": "Question 1\n",
+	"question1_key2": "Make a program that prints all those numbers from `1 to 100` which are `divisible by 7`.\n",
+	"question1_key3": "Note :\n",
+	"question1_key4": "The `loop` that you will write will start from 556.\n",
+	"question1_key5": "Your `output` should be as follows.\n",
+	"question1_key6": "7\n14\n21\n28\n35\n42\n49\n56\n63\n70\n77\n84\n91\n98\n"
+}

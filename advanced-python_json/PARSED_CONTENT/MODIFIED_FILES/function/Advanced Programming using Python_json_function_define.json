@@ -1,0 +1,33 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "function_define_key1"
+  },
+  {
+    "component": "text",
+    "value": "function_define_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ def hello(name):<br>❷     print('Hello ' + name)<br><br>❸ hello('Alice')<br>  hello('Bob')"
+  },
+  {
+    "component": "text",
+    "value": "function_define_key3"
+  },
+  {
+    "component": "text",
+    "value": "function_define_key4"
+  },
+  {
+    "component": "text",
+    "value": "function_define_key5"
+  },
+  {
+    "component": "text",
+    "value": "function_define_key6"
+  }
+]

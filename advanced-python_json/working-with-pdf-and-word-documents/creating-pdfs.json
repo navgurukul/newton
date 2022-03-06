@@ -1,0 +1,110 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Creating PDFs"
+	},
+	{
+		"component": "text",
+		"value": "PyPDF2’s counterpart to Pdf<span style=\"\">File</span>Reader objects is Pdf<span style=\"\">File</span>Writer objects, which can create new PDF <span style=\"\">files</span>. But PyPDF2 cannot write arbitrary text to a PDF like <span style=\"\">Python</span> can do with plaintext <span style=\"\">files</span>. Instead, PyPDF2’s PDF-writing capabilities are limited to copying pages from other PDFs, rotating pages, overlaying pages, and encrypting <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "PyPDF2 doesn’t allow you to directly edit a PDF. Instead, you have to create a new PDF and then copy content over from an existing document. The examples in this section will follow this general approach:"
+	},
+	{
+		"component": "text",
+		"value": "Open one or more existing PDFs (the source PDFs) into Pdf<span style=\"\">File</span>Reader objects."
+	},
+	{
+		"component": "text",
+		"value": "Create a new Pdf<span style=\"\">File</span>Writer object."
+	},
+	{
+		"component": "text",
+		"value": "Copy pages from the Pdf<span style=\"\">File</span>Reader objects into the Pdf<span style=\"\">File</span>Writer object."
+	},
+	{
+		"component": "text",
+		"value": "Finally, use the Pdf<span style=\"\">File</span>Writer object to write the <span style=\"\">output</span> PDF."
+	},
+	{
+		"component": "text",
+		"value": "Creating a Pdf<span style=\"\">File</span>Writer object creates only a value that represents a PDF document in <span style=\"\">Python</span>. It doesn’t create the actual PDF <span style=\"\">file</span>. For that, you must call the Pdf<span style=\"\">File</span>Writer’s write() method."
+	},
+	{
+		"component": "text",
+		"value": "The write() method takes a regular <span style=\"\">File</span> object that has been opened in write-binary mode. You can get such a <span style=\"\">File</span> object by calling <span style=\"\">Python</span>’s open() function with two arguments: the <span style=\"\">string</span> of what you want the PDF’s <span style=\"\">file</span>name to be and 'wb' to indicate the <span style=\"\">file</span> should be opened in write-binary mode."
+	},
+	{
+		"component": "text",
+		"value": "If this sounds a little confusing, don’t worry—you’ll see how this works in the following <span style=\"\">code</span> examples."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Copying Pages"
+	},
+	{
+		"component": "text",
+		"value": "You can use PyPDF2 to copy pages from one PDF document to another. This allows you to combine multiple PDF <span style=\"\">files</span>, cut unwanted pages, or reorder pages."
+	},
+	{
+		"component": "text",
+		"value": "Download meetingminutes.pdf and meetingminutes2.pdf from <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span> and place the PDFs in the current working directory. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import PyPDF2<br>   >>> pdf1File = open('meetingminutes.pdf', 'rb')<br>   >>> pdf2File = open('meetingminutes2.pdf', 'rb')<br>❶ >>> pdf1Reader = PyPDF2.PdfFileReader(pdf1File)<br>❷ >>> pdf2Reader = PyPDF2.PdfFileReader(pdf2File)<br>❸ >>> pdfWriter = PyPDF2.PdfFileWriter()<br><br>   >>> for pageNum in range(pdf1Reader.numPages):<br>❹         pageObj = pdf1Reader.getPage(pageNum)<br>❺         pdfWriter.addPage(pageObj)<br><br>   >>> for pageNum in range(pdf2Reader.numPages):<br>❻         pageObj = pdf2Reader.getPage(pageNum)<br>❼         pdfWriter.addPage(pageObj)<br><br>❽ >>> pdfOutputFile = open('combinedminutes.pdf', 'wb')<br>   >>> pdfWriter.write(pdfOutputFile)<br>   >>> pdfOutputFile.close()<br>   >>> pdf1File.close()<br>   >>> pdf2File.close()"
+	},
+	{
+		"component": "text",
+		"value": "Open both PDF <span style=\"\">files</span> in read binary mode and store the two resulting <span style=\"\">File</span> objects in pdf1<span style=\"\">File</span> and pdf2<span style=\"\">File</span>. Call PyPDF2.Pdf<span style=\"\">File</span>Reader() and pass it pdf1<span style=\"\">File</span> to get a Pdf<span style=\"\">File</span>Reader object for meetingminutes.pdf ❶. Call it again and pass it pdf2<span style=\"\">File</span> to get a Pdf<span style=\"\">File</span>Reader object for meetingminutes2.pdf ❷. Then create a new Pdf<span style=\"\">File</span>Writer object, which represents a blank PDF document ❸."
+	},
+	{
+		"component": "text",
+		"value": "Next, copy all the pages from the two source PDFs and add them to the Pdf<span style=\"\">File</span>Writer object. Get the Page object by calling getPage() on a Pdf<span style=\"\">File</span>Reader object ❹. Then pass that Page object to your Pdf<span style=\"\">File</span>Writer’s addPage() method ❺. These steps are done first for pdf1Reader and then again for pdf2Reader. When you’re done copying pages, write a new PDF called combinedminutes.pdf by passing a <span style=\"\">File</span> object to the Pdf<span style=\"\">File</span>Writer’s write() method ❻."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "PyPDF2 cannot insert pages in the middle of a Pdf<span style=\"\">File</span>Writer object; the addPage() method will only add pages to the end."
+	},
+	{
+		"component": "text",
+		"value": "You have now created a new PDF <span style=\"\">file</span> that combines the pages from meetingminutes.pdf and meetingminutes2.pdf into a single document. Remember that the <span style=\"\">File</span> object passed to PyPDF2.Pdf<span style=\"\">File</span>Reader() needs to be opened in read-binary mode by passing 'rb' as the second argument to open(). Likewise, the <span style=\"\">File</span> object passed to PyPDF2.Pdf<span style=\"\">File</span>Writer() needs to be opened in write-binary mode with 'wb'."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Rotating Pages"
+	},
+	{
+		"component": "text",
+		"value": "The pages of a PDF can also be rotated in 90-degree increments with the rotateClockwise() and rotateCounterClockwise() methods. Pass one of the <span style=\"\">integers</span> 90, 180, or 270 to these methods. Enter the following into the interactive <span style=\"\">shell</span>, with the meetingminutes.pdf <span style=\"\">file</span> in the current working directory:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import PyPDF2<br>   >>> minutesFile = open('meetingminutes.pdf', 'rb')<br>   >>> pdfReader = PyPDF2.PdfFileReader(minutesFile)<br>❶ >>> page = pdfReader.getPage(0)<br>❷ >>> page.rotateClockwise(90)<br>   {'/Contents': [IndirectObject(961, 0), IndirectObject(962, 0),<br>   --snip--<br>   }<br>   >>> pdfWriter = PyPDF2.PdfFileWriter()<br>   >>> pdfWriter.addPage(page)<br>❸ >>> resultPdfFile = open('rotatedPage.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdfFile)<br>   >>> resultPdfFile.close()<br>   >>> minutesFile.close()"
+	},
+	{
+		"component": "text",
+		"value": "Here we use getPage(0) to select the first page of the PDF ❶, and then we call rotateClockwise(90) on that page ❷. We write a new PDF with the rotated page and <span style=\"\">save</span> it as rotatedPage.pdf ❸."
+	},
+	{
+		"component": "text",
+		"value": "The resulting PDF will have one page, rotated 90 degrees clockwise, as in Figure 13-2. The return values from rotateClockwise() and rotateCounterClockwise() contain a lot of information that you can ignore."
+	},
+	{
+		"component": "text",
+		"value": "Figure 13-2. The rotatedPage.pdf <span style=\"\">file</span> with the page rotated 90 degrees clockwise"
+	}
+]

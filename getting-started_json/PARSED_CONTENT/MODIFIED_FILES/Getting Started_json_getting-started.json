@@ -1,0 +1,117 @@
+[
+  {
+    "component": "text",
+    "value": "getting-started_key1"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key2"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key3"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key4"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key5"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key9"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "getting-started_key10"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key11"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "getting-started_key12"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key13"
+  },
+  {
+    "component": "youtube",
+    "value": "vgkahOzFH2Q"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "getting-started_key14"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key17",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "getting-started_key19"
+  },
+  {
+    "component": "text",
+    "value": "getting-started_key20",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

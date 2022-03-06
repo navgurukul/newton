@@ -1,0 +1,73 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Binary Search"
+	},
+	{
+		"component": "text",
+		"value": "Humei ek list mei koi element search karna hai. Ek example lete hai."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "to_find_list = [2, 5, 9, 12, 81, 23, 71, 28, 90, 67]<br>to_find_element = 81"
+	},
+	{
+		"component": "text",
+		"value": "Ab aise sochiye ki humein dekhna hai ki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_element</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_list</span> mei hai ya nahi. Agar aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_list</span> ko do parts mei divide kar doge, toh kya aap yeh dekh paa rahe hai, ki agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_element</span> - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_list</span> mei hai, toh woh inn dono mei se kisi part mei toh jaroor hoga."
+	},
+	{
+		"component": "text",
+		"value": "Kyuki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_list</span> mei 10 elements hai, toh dono parts ko 5-5 elements each milenge."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "first_part = [2 , 5, 9, 12, 81]<br>second_part = [23, 71, 28, 90, 67]"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">81</span> element jo humei search karna tha woh pehle list mei hai."
+	},
+	{
+		"component": "text",
+		"value": "Toh agar aap dekhein toh"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_element</span> - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_list</span> mei hoga agar woh uske dono mei se kisi part mei hai, nahi toh nahi hoga. Toh aap iss information ko use kar kar <span style=\"\">code</span> likhein jo element ko search karta hai."
+	},
+	{
+		"component": "text",
+		"value": "Dhyaan rakhein ki dheere dheere dono parts ya toh empty ho jayenge, ya usmei ek single element bachega jo <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">to_find_element</span> ke equal hoga."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def is_present_in_list(number_to_search, list_to_search):<br>    length_of_list = len(list_to_search)<br><br>    if length_of_list == 0:<br>        return False<br><br>    if length_of_list == 1:<br>        # list_to_search[0] is the only element left in this list<br>        if number_to_search == list_to_search[0]:<br>            return True<br>        else:<br>            return False<br><br>    first_half_of_list = list_to_search[:length_of_list/2]<br>    second_half_of_list = list_to_search[length_of_list/2:]<br><br>    return is_present_in_list(number_to_search, first_half_of_list) or is_present_in_list(number_to_search, second_half_of_list)<br><br>print is_present_in_list(3, [3, 5, 7, 8, 4, 6, 2, 1, 9])<br>print is_present_in_list(10, [3, 5, 7, 8, 4, 6, 2, 1, 9])"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Dhyaan Rakhein"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def is_present_in_list(number_to_search, list_to_search):<br>    counter = 0<br>    while (counter < len(list_to_search)):<br>        if number_to_search == list_to_search[counter]:<br>            return True<br>        counter += 1<br><br>    return False<br><br>print is_present_in_list(3, [3, 5, 7, 8, 4, 6, 2, 1, 9])<br>print is_present_in_list(10, [3, 5, 7, 8, 4, 6, 2, 1, 9])"
+	},
+	{
+		"component": "text",
+		"value": "use kar kar abhi tak humne yeh <span style=\"\">code</span> likha tha. Yeh kaafi efficient tareeka bhi hai. Par humne recursion wala tareeka apni understanding build karne ke liye hi kiya hai."
+	}
+]

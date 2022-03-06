@@ -1,0 +1,82 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Calculate"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def operate(num1, operator, num2):<br>    if operator=='+':<br>        return num1 + num2<br>    elif operator=='-':<br>        return num1 - num2<br>    elif operator=='*':<br>        return num1 * num2<br>    else:<br>        return num1 / num2"
+	},
+	{
+		"component": "text",
+		"value": "Yeh ek simple sa function hai, jo do numbers leta hai, <span style=\"\">operator</span> leta hai, aur unn numbers par woh operation kar kar return kar deta hai."
+	},
+	{
+		"component": "text",
+		"value": "Maan lo user aap ko yeh <span style=\"\">input</span> deta hai:"
+	},
+	{
+		"component": "text",
+		"value": "'3 + 5 - 2 * 4 / 2 + 8 - 10 * 9 / 3'"
+	},
+	{
+		"component": "text",
+		"value": "Aap ko ek function banana hai jo iss <span style=\"\">string</span> ko evaluate karega, left se right ke order mei. Yaani agar sabhi <span style=\"\">operators</span> ki same precedence (yaani importance) hoti, toh hum left se right chalte aur ek ek kar kar result calculate kar lete."
+	},
+	{
+		"component": "text",
+		"value": "Jaise:<br>'3 + 5 - 2 * 4 / 2 + 8 - 10 * 9 / 3'<br>'8 - 2 * 4 / 2 + 8 - 10 * 9 / 3'<br>'6 * 4 / 2 + 8 - 10 * 9 / 3'<br>'24 / 2 + 8 - 10 * 9 / 3'<br>'12 + 8 - 10 * 9 / 3'<br>'20 - 10 * 9 / 3'<br>'10 * 9 / 3'<br>'90 / 3'<br>'30'<br>30 is the answer.<br>Agar aap dhyaan se sochenge toh yeh bhi ek recursion hai."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Kya yaha par aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">split</span> function use kar sakte hai?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Base case kya hoga?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "What's the problem? Kya aap uss problem ko choti problem mei break kar sakte ho?Yaani aap ke paas agar ek badi string hai, toh kis chotti string ka agar aapke paas answer hota toh, aapki problem bahut easily solve ho jaati.## Solution'3 + 5 - 2 * 4 / 2 + 8 - 10 * 9 / 3'ko pehle split karein:['3', '+', '5', '-', '2', '<i>', '4', '/', '2', '+', '8', '-', '10', '</i>', '9', '/', '3']",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ab yeh dekhein:<br>[num1]<br>[num1, <span style=\"\">operator</span>, num2]<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">base cases</span> hai. Kyuki agar in dono mei se koi bhi <span style=\"\">input</span> hoga, toh aapko answer bahut easily find kar sakte hai, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">operate</span> function use kar kar."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">['3', '+', '5', '-', '2', '*', '4', '/', '2', '+', '8', '-', '10', '*', '9']</span> - Agar aapke paas iska answer hai toh, maan lo, woh answer value hai. Toh aapke question ka answer<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">[value, '/', '3']</span> hai. Yaani list ke last ke do elements skip kar kar, jo remaining hui list hai uska answer ka use kar kar, aap apne question ko solve kar sakte ho."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def operate(num1, operator, num2):<br>    if operator=='+':<br>        return num1 + num2<br>    elif operator=='-':<br>        return num1 - num2<br>    elif operator=='*':<br>        return num1 * num2<br>    else:<br>        return num1 / num2<br><br>def solve(question_list):<br>    if len(question_list)==1:<br>        return int(question_list[0])<br>    elif len(question_list)==3:<br>        return operate(int(question_list[0]), question_list[1], int(question_list[2]))<br>    else:<br>        return operate(solve(question_list[:-2]), question_list[-2], int(question_list[-1])) <br><br>solve(['3', '+', '5', '-', '2', '*', '4', '/', '2', '+', '8', '-', '10', '*', '9', '/', '3'])"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Aage"
+	},
+	{
+		"component": "text",
+		"value": "Yeh function aap bina recursion ke bhi likh sakte hai. Kya aap bina recursion ke bhi likh kar implemment kar sakte hai?"
+	}
+]

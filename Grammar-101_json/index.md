@@ -1,0 +1,2 @@
+- Assessments.json
+- exercises.json

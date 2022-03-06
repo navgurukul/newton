@@ -1,0 +1,26 @@
+[
+  {
+    "component": "text",
+    "value": "Question-2_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-2_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-2_key3"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var prompt = require('readline-sync');<br>var n = prompt.questionInt('How many more times? ');<br>d = {}<br>for (let i = 0; i <= n; i++) {<br>   d[i] = i ** 2<br>}<br>console.log(d);"
+  }
+]

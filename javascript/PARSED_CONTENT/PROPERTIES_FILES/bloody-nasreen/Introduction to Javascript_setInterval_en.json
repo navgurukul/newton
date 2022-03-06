@@ -1,0 +1,9 @@
+{
+	"setInterval_key1": "Part II\n",
+	"setInterval_key2": "Link\n",
+	"setInterval_key3": "- Ab hum bloody nasreen ko ek button click kar kar hilayenge. Iss button ko \nbanane ke liye neeche di gayi cheezon ka dhyan rakhe.\n",
+	"setInterval_key4": "Button par **click event Listener** add karna hoga.\n\n",
+	"setInterval_key5": "Agar hum koi kam kuch der mein bar bar karne chahte hai to setInterval ka use \nkarte hai.\n  - Jaise aapko bloody nasreen ko move karne ke liye uski position har kuch miliSecond mein change\n     karni hai. Aise cheezon ke liye hum javascript ke timing events ka use karte hai.\n\n",
+	"setInterval_key6": "Click karne par **setInterval** js event call hona chahiye jo bloody narseen ki \nposition change karega.\n\n",
+	"setInterval_key7": "**Timing events** ke barre mein aap aur w3schools se padh sakte hai.\n"
+}

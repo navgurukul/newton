@@ -1,0 +1,60 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Basic Financial Literacy - Part Two"
+	},
+	{
+		"component": "text",
+		"value": "Credit - credit cards, loans, credit score, debt terms, collateral",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Learn from here"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.debt.org/credit/\">Credit</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.debt.org/credit/\">What is Credit</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.creditkarma.com/credit-scores\">What is Credit Score</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.investopedia.com/terms/c/collateral.asp\">Collateral</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.investopedia.com/terms/l/loan.asp\">Loans</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

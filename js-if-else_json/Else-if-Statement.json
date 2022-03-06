@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var course = \"Hindi\";<br>if (course == \"English\"){<br>    console.log(\"Tutorial content is there in English\");<br>    }<br>else if (course == \"Hindi\"){<br>    console.log(\"Tutorial content is there in Hindi\");<br>    }<br>else {<br>    console.log(\"I am not understanding of Language\");<br>}<br><br>// Output : Tutorial content is there in Hindi<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "if the course is equal to English, <span style=\"\">output</span> “Tutorial content is there in English”.else if the course is equal to Hindi, <span style=\"\">output</span> “Tutorial content is there in Hindi”.if nothing of the above condition is <span style=\"\">true</span>, then <span style=\"\">output</span> “I am not understanding of Languaget”"
+	},
+	{
+		"component": "text",
+		"value": "else If condition specifies a new condition if the first condition will be  <span style=\"\">false</span> then it checks other conditions. "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "When we have many conditions to check and we want a condition to be <span style=\"\">true</span> then we use an else-if <span style=\"\">key</span>word."
+	}
+]

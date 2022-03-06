@@ -1,0 +1,11 @@
+{
+	"chapter-5_key1": "Chapter 5\n",
+	"chapter-5_key2": "Two curly brackets: {}\n",
+	"chapter-5_key3": "{'foo': 42}\n",
+	"chapter-5_key4": "The items stored in a dictionary are unordered, while the items in a list are ordered.\n",
+	"chapter-5_key5": "You get a `KeyE`rror `error`.\n",
+	"chapter-5_key6": "There is no difference. The in `operator` checks whether a value exists as a `key` in the dictionary.\n",
+	"chapter-5_key7": "'cat' in spam checks whether there is a 'cat' `key` in the dictionary, while 'cat' in spam.values() checks whether there is a value 'cat' for one of the `keys` in spam.\n",
+	"chapter-5_key8": "spam.setdefault('color', 'black')\n",
+	"chapter-5_key9": "pprint.pprint()\n"
+}

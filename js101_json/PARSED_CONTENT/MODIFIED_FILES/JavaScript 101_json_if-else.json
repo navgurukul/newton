@@ -1,0 +1,31 @@
+[
+  {
+    "component": "text",
+    "value": "if-else_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-else_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-else_key3"
+  },
+  {
+    "component": "text",
+    "value": "if-else_key4"
+  },
+  {
+    "component": "text",
+    "value": "if-else_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

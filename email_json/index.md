@@ -1,0 +1,8 @@
+- lessons.json
+- phrases
+  - phrases.json
+  - opening.json
+  - mainbody.json
+  - closing.json
+  - job.json
+- jobapplications.json

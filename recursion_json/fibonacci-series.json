@@ -1,0 +1,55 @@
+[
+	{
+		"component": "text",
+		"value": "Fibonacci series yeh hoti hai:"
+	},
+	{
+		"component": "text",
+		"value": "<b>0, 1, 1, 2, 3, 5, 8, 13, 21, 34</b>"
+	},
+	{
+		"component": "text",
+		"value": "Iss series ka <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pehla_number 0</span> hai aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dusra_number</span> 1 hai. Aur uske baad har number <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">peechle do</span> numbers ka <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> hota hai"
+	},
+	{
+		"component": "text",
+		"value": "Jaise,<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">teesra number</span> = <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pehla_number</span> + <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dusra_number</span><br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 = 0 + 1</span><br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">chautha_number</span> = <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dusra_number</span> + <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">teesra_number</span><br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 = 1 + 1</span>"
+	},
+	{
+		"component": "text",
+		"value": "Aap isse recursion ka use kar kar - ek function banaye <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">fib</span> jo <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> parameter lekar uske corresponding <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">fibonacci number</span> return karta ho."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Yeh ek aisi recursion hai jismei current value - ussi function ki last do values par depend karta hai."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def getFibNumber(number):<br>    if number == 1:<br>        return 0<br>    elif number == 2:<br>        return 1<br>    else:<br>        return getFibNumber(number-1) + getFibNumber(number-2)"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Aage"
+	},
+	{
+		"component": "text",
+		"value": "Aap apni understanding expand karne ke liye yeh video dekh sakte hai."
+	},
+	{
+		"component": "youtube",
+		"value": "koFsRrJgioA"
+	}
+]

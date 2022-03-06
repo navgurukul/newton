@@ -1,0 +1,21 @@
+{
+	"chapter-11_key1": "Chapter 11",
+	"chapter-11_key2": "The webbrowser module has an open() method that will launch a web browser to a specific URL, and that’s it. The requests module can download <span style=\"\">files</span> and pages from the Web. The BeautifulSoup module parses HTML. Finally, the selenium module can launch and control a browser.",
+	"chapter-11_key3": "The requests.get() function returns a Response object, which has a text attribute that contains the downloaded content as a <span style=\"\">string</span>.",
+	"chapter-11_key4": "The raise<i>for</i>status() method raises an exception if the download had problems and does nothing if the download succeeded.",
+	"chapter-11_key5": "The status_<span style=\"\">code</span> attribute of the Response object contains the HTTP status <span style=\"\">code</span>.",
+	"chapter-11_key6": "After opening the new <span style=\"\">file</span> on your computer in 'wb' “write binary” mode, use a for <span style=\"\">loop</span> that iterates over the Response object’s iter_content() method to write out chunks to the <span style=\"\">file</span>. Here’s an example:",
+	"chapter-11_key7": "<span style=\"\">save</span><span style=\"\">File</span> = open('<span style=\"\">file</span>name.html', 'wb')<br>for chunk in res.iter_content(100000):<br>    <span style=\"\">save</span><span style=\"\">File</span>.write(chunk)<br>F12 brings up the developer tools in Chrome. Pressing CTRL-SHIFT-C (on Windows and Linux) or ⌘-OPTION-C (on OS X) brings up the developer tools in Firefox.",
+	"chapter-11_key8": "Right-click the element in the page, and select Inspect Element from the menu.",
+	"chapter-11_key9": "'#main'",
+	"chapter-11_key10": "'.highlight'",
+	"chapter-11_key11": "'div div'",
+	"chapter-11_key12": "'button[value=\"favorite\"]'",
+	"chapter-11_key13": "spam.getText()",
+	"chapter-11_key14": "linkElem.attrs",
+	"chapter-11_key15": "The selenium module is imported with from selenium import webdriver.",
+	"chapter-11_key16": "The find<i>element</i>* methods return the first matching element as a WebElement object. The find<i>elements</i>* methods return a list of all matching elements as WebElement objects.",
+	"chapter-11_key17": "The click() and send_<span style=\"\">keys</span>() methods simulate mouse clicks and <span style=\"\">key</span>board <span style=\"\">keys</span>, respectively.",
+	"chapter-11_key18": "Calling the submit() method on any element within a form submits the form.",
+	"chapter-11_key19": "The forward(), back(), and refresh() WebDriver object methods simulate these browser buttons."
+}

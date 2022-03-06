@@ -1,0 +1,118 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Getting the Full Text from a .docx <span style=\"\">File</span>"
+	},
+	{
+		"component": "text",
+		"value": "If you care only about the text, not the styling information, in the Word document, you can use the getText() function. It accepts a <span style=\"\">file</span>name of a .docx <span style=\"\">file</span> and returns a single <span style=\"\">string</span> value of its text. Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and enter the following <span style=\"\">code</span>, saving it as readDocx.py:"
+	},
+	{
+		"component": "text",
+		"value": "#! python3"
+	},
+	{
+		"component": "text",
+		"value": "import docx"
+	},
+	{
+		"component": "text",
+		"value": "def getText(<span style=\"\">file</span>name):<br>    doc = docx.Document(<span style=\"\">file</span>name)<br>    fullText = []<br>    for para in doc.paragraphs:<br>        fullText.append(para.text)<br>    return '\\n'.join(fullText)<br>The getText() function opens the Word document, <span style=\"\">loops</span> over all the Paragraph objects in the paragraphs list, and then appends their text to the list in fullText. After the <span style=\"\">loop</span>, the <span style=\"\">strings</span> in fullText are joined together with newline characters."
+	},
+	{
+		"component": "text",
+		"value": "The readDocx.py program can be imported like any other module. Now if you just need the text from a Word document, you can enter the following:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import readDocx<br>>>> print(readDocx.getText('demo.docx'))"
+	},
+	{
+		"component": "text",
+		"value": "Document Title<br>A plain paragraph with some bold and some italic<br>Heading, level 1<br>Intense quote<br>first item in unordered list<br>first item in ordered list<br>You can also adjust getText() to modify the <span style=\"\">string</span> before returning it. For example, to indent each paragraph, replace the append() call in readDocx.py with this:"
+	},
+	{
+		"component": "text",
+		"value": "fullText.append(' ' + para.text)<br>To add a double space in between paragraphs, change the join() call <span style=\"\">code</span> to this:"
+	},
+	{
+		"component": "text",
+		"value": "return '\\n\\n'.join(fullText)<br>As you can see, it takes only a few lines of <span style=\"\">code</span> to write functions that will read a .docx <span style=\"\">file</span> and return a <span style=\"\">string</span> of its content to your liking."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Styling Paragraph and Run Objects"
+	},
+	{
+		"component": "text",
+		"value": "In Word for Windows, you can see the styles by pressing CTRL-ALT-SHIFT-S to display the Styles pane, which looks like Figure 13-5. On OS X, you can view the Styles pane by clicking the View▸Styles menu item."
+	},
+	{
+		"component": "text",
+		"value": "Figure 13-5. Display the Styles pane by pressing CTRL-ALT-SHIFT-S on Windows."
+	},
+	{
+		"component": "text",
+		"value": "Word and other word processors use styles to keep the visual presentation of similar types of text consistent and easy to change. For example, perhaps you want to set body paragraphs in 11-point, Times New Roman, left-justified, ragged-right text. You can create a style with these settings and assign it to all body paragraphs. Then, if you later want to change the presentation of all body paragraphs in the document, you can just change the style, and all those paragraphs will be automatically updated."
+	},
+	{
+		"component": "text",
+		"value": "For Word documents, there are three types of styles: Paragraph styles can be applied to Paragraph objects, character styles can be applied to Run objects, and linked styles can be applied to both kinds of objects. You can give both Paragraph and Run objects styles by setting their style attribute to a <span style=\"\">string</span>. This <span style=\"\">string</span> should be the name of a style. If style is set to None, then there will be no style associated with the Paragraph or Run object."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">string</span> values for the default Word styles are as follows:"
+	},
+	{
+		"component": "text",
+		"value": "'Normal'               'Heading5'             'ListBullet'                     'ListParagraph'"
+	},
+	{
+		"component": "text",
+		"value": "'BodyText'             'Heading6'              'ListBullet2'                    'MacroText'"
+	},
+	{
+		"component": "text",
+		"value": "'BodyText2'            'Heading7'               'ListBullet3'                   'NoSpacing'"
+	},
+	{
+		"component": "text",
+		"value": "'BodyText3'             'Heading8'               'ListContinue'                 'Quote'"
+	},
+	{
+		"component": "text",
+		"value": "'Caption'               'Heading9'               'ListContinue2'                'Subtitle'"
+	},
+	{
+		"component": "text",
+		"value": "'Heading1'              'IntenseQuote'            'ListContinue3'                'TOCHeading'"
+	},
+	{
+		"component": "text",
+		"value": "'Heading2'               'List'                    'ListNumber'                   'Title'"
+	},
+	{
+		"component": "text",
+		"value": "'Heading3'               'List2'                   'ListNumber2'"
+	},
+	{
+		"component": "text",
+		"value": "'Heading4'               'List3'                    'ListNumber3'"
+	},
+	{
+		"component": "text",
+		"value": "When setting the style attribute, do not use spaces in the style name. For example, while the style name may be Subtle Emphasis, you should set the style attribute to the <span style=\"\">string</span> value 'SubtleEmphasis' instead of 'Subtle Emphasis'. Including spaces will cause Word to misread the style name and not apply it."
+	},
+	{
+		"component": "text",
+		"value": "When using a linked style for a Run object, you will need to add 'Char' to the end of its name. For example, to set the Quote linked style for a Paragraph object, you would use paragraphObj.style = 'Quote', but for a Run object, you would use runObj.style = 'QuoteChar'."
+	},
+	{
+		"component": "text",
+		"value": "In the current version of <span style=\"\">Python</span>-Docx (0.7.4), the only styles that can be used are the default Word styles and the styles in the opened .docx. New styles cannot be created—though this may change in future versions of <span style=\"\">Python</span>-Docx."
+	}
+]

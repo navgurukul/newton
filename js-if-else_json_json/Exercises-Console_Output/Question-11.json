@@ -1,0 +1,6 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Take two numbers as <span style=\\\"\\\"><span style=\"\">input</span></span> from the user. Console  the number which is greater.\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"// please write <span style=\"\">code</span> here\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"solution\",<br>        \"value\": \"let readlineaSync = require(\\\"readline-sync\\\");<br>var number1=readlineaSync.questionInt(\\\"enter a number\\\");<br>var number2=readlineaSync.questionInt(\\\"enter a number\\\");<br>if(number1&gt;number2){<br>   console.log(\\\"number1 is greater\\\");<br>}<br>else{<br>   console.log(\\\"number2 is greater\\\");<br>}\"<br>    }<br>]"
+	}
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Logical_key1"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key2"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Logical_key4"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key5"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = True <br>b = False <br>print(a and b and a)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key8"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key9"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "number = int(input(\"enter the number\"))<br>print(number and 1)"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key11"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key12"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Logical_key13"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key14"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key15"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 4 > 5<br>a = 899 < 887<br>print(a or a or 7 < 8)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key17"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key18"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key19"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = \"apple\"<br>y = \"mango\"<br>print(x or y)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key20"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key21"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key22",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Logical_key23",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Logical_key24",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Logical_key25",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Logical_key26",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Logical_key27"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key28"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key29"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 19<br>b = 34<br>c = 56<br>print(not c > b)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key30"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key31"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key32",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var1 =True<br>print(not var1)<br>a =True<br>b= False<br>print( a and b or a or not b)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key33"
+  },
+  {
+    "component": "text",
+    "value": "Logical_key34"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Logical_key35"
+  },
+  {
+    "component": "youtube",
+    "value": "ZoqMiFKspAA&t=1s"
+  }
+]

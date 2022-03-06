@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "Iss program ko run karo aur dekho ki num<i>list aur num</i>list<i>sub</i>20 ki value same aa rahi. Iss <span style=\"\">code</span> ko ais chane karo jisse hume num_list ki intial value bhi mil jaye."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def numbers_less_than_twenty(list):<br>  counter = 0<br>  while counter < len(list):<br>&emsp;item = list[counter]<br>&emsp;if item > 20:<br>&emsp;  list.remove(item)<br>&emsp;else:<br>&emsp;  counter += 1<br>  return list<br><br>num_list = [12, 312, 42, 123, 5, 12, 53, 75, 123, 62, 9]<br><br>num_list_sub_20 = numbers_less_than_twenty(num_list)<br><br>print (\"Initial list\", num_list)<br>print (\"List that doesn't contain numbers greate than 20\", num_list_sub_20)"
+	}
+]

@@ -1,0 +1,77 @@
+[
+	{
+		"component": "text",
+		"value": "Write a program to take 10 user <span style=\"\">input</span>, and print the sum of that 10 <span style=\"\">inputs</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "For this program you need to initialize with 50, and try to use decrement and run <span style=\"\">loop</span>."
+	},
+	{
+		"component": "text",
+		"value": "Program may run like this. Everytime by using readline sync we will take an <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 10"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 16"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 9"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 10"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 56"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 78"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 98"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 43"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 21"
+	},
+	{
+		"component": "text",
+		"value": "Koi bhi number daaliye &gt; 76"
+	},
+	{
+		"component": "text",
+		"value": "Total Sum: 417"
+	},
+	{
+		"component": "text",
+		"value": "In the final line we print Total Sum: 417. "
+	},
+	{
+		"component": "text",
+		"value": "This one prints 417 because 10+16+9+10+56+78+98+43+21+76 ka sum 417 hai."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	}
+]

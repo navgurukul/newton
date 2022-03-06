@@ -1,0 +1,51 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "rounding-numbers_key1"
+  },
+  {
+    "component": "text",
+    "value": "rounding-numbers_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import time<br>>>> now = time.time()<br>>>> now"
+  },
+  {
+    "component": "text",
+    "value": "rounding-numbers_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> round(now, 2)"
+  },
+  {
+    "component": "text",
+    "value": "rounding-numbers_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> round(now, 4)"
+  },
+  {
+    "component": "text",
+    "value": "rounding-numbers_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> round(now)"
+  },
+  {
+    "component": "text",
+    "value": "rounding-numbers_key6"
+  }
+]

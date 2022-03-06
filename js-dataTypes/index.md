@@ -1,0 +1,17 @@
+- DataTypes
+  - Introduction.md
+  - String.md
+  - StringExercises.md
+  - Number.md
+  - NumberExercises.md
+  - Boolean.md
+  - BooleanExercises.md
+  - Undefined.md
+  - Null.md
+  - Diff-btw-null-defined.md
+  - Object.md
+  - ObjectExercises.md
+  - Array.md
+  - ArrayExercises.md
+  - TypeOf.md
+  - TypeOfExercises.md

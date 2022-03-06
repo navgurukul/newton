@@ -1,0 +1,20 @@
+{
+	"introduction_key1": "JSON",
+	"introduction_key2": "<b>JSON</b> <i>( Javascript Object Notation)</i> mai hum data ko <span style=\"\">keys</span> and values ki form mai likhtain hain. Ismain <span style=\"\">keys</span> <span style=\"\">string</span> hoti hai aur values kisi bhi data type main ho sakti hain. <span style=\"\">Keys</span> and values  colon ( : ) se separated hoti hain. Curly braces ” { }” Json ko represent karta hain. Json <span style=\"\">files</span> ka extension ( .json ) hota hain.",
+	"introduction_key3": "<b>Uses of Json</b>",
+	"introduction_key4": "Json Jyada tar  server se web application or web application se server  ke beech data transmit karne ke kaam aata hain.<br>",
+	"introduction_key5": "Web services and APIs json format ka use  public data dene me use karte hain.<br>",
+	"introduction_key6": "Aur ye modern programming mai bhi use hota hai etc.<br><br>",
+	"introduction_key7": "<b>Characteristics of Json</b>",
+	"introduction_key8": "Json padhne aur likhne mai aasan hota hai.<br>",
+	"introduction_key9": "Json language ek independent language hai. Ye kisi par nirbhar nahi hain.<br>",
+	"introduction_key10": "Ye light weight and text-based interchange format hai.<br><br><br>",
+	"introduction_key11": "<b>Json <span style=\"\">Syntax</span></b>",
+	"introduction_key12": "Data humesha keys and values ki form mai hona chahiye.<br>",
+	"introduction_key13": "Data humesha comma se separated hona chahiye.<br>",
+	"introduction_key14": "Data curly braces ({ }) mai hota hai.<br>",
+	"introduction_key15": "Data jo square brackets ( [ ] ) mai hota hai usse Array kehte hai.<br>",
+	"introduction_key16": "Hum kuch data ko python se json format mai kar sakte hai jaise(dict,list,tuple,string,int,float,True,False,None).<br><br>",
+	"introduction_key17": "<i>Jum hum <span style=\"\">python</span> se data json mai convert karte hai toh unka Data type change ho jata hai. Jaise ki neeche diya gaya hai:-</i>",
+	"introduction_key18": "| <span style=\"\">Python</span>        | Json           | <br>| ------------- |:-------------:| -----:|<br>| Dict     | Object |<br>| List      | Array    |   <br>|Tuple | Array   |  <br>| Str     | <span style=\"\">String</span> |<br>| int      | Number    |   <br>|<span style=\"\">True</span> | <span style=\"\">true</span>   |   <br>| <span style=\"\">False</span>     | <span style=\"\">false</span> | <br>|None | null   |"
+}

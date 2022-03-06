@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question2_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "//please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var myFavouriteFruits = [\"Mango\", \"Orange\", \"Banana\", \"Grapes\"];<br><br>console.log(myFavouriteFruits[2]);"
+  }
+]

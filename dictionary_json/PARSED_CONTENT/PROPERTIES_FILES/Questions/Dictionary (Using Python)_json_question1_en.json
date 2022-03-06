@@ -1,0 +1,8 @@
+{
+	"question1_key1": "Question 1",
+	"question1_key2": "Write a program such that the below given <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionaries</span> are into a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">single dictionary</span> and add the values having same <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">key</span>.",
+	"question1_key3": "Example :-",
+	"question1_key4": "<span style=\"\">Input</span> :-",
+	"question1_key5": "<span style=\"\">Output</span> :-",
+	"question1_key6": "{1: 10, 2: 60, 3: 30,  5: 50, 6: 60}"
+}

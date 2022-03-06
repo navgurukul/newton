@@ -1,0 +1,20 @@
+[
+	{
+		"component": "text",
+		"value": "Explain them how to do addition/subtraction/multiplication or power of two numbers.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Also tell them about division by zero error",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "//<span style=\"\">Variables</span><br>var a = 3;<br>var b = 4;<br>console.log(a + b)"
+	}
+]

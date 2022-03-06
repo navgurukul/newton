@@ -1,0 +1,83 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Keeping Time, Scheduling Tasks, and Launching Programs"
+	},
+	{
+		"component": "text",
+		"value": "Running programs while you’re sitting at your computer is fine, but it’s also useful to have programs run without your direct supervision. Your computer’s clock can schedule programs to run <span style=\"\">code</span> at some specified time and date or at regular intervals. For example, your program could scrape a website every hour to check for changes or do a CPU-intensive task at 4 AM while you sleep. <span style=\"\">Python</span>’s time and datetime modules provide these functions."
+	},
+	{
+		"component": "text",
+		"value": "You can also write programs that launch other programs on a schedule by using the subprocess and threading modules. Often, the fastest way to program is to take advantage of <span style=\"\">applications</span> that other people have already written."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The time Module"
+	},
+	{
+		"component": "text",
+		"value": "Your computer’s system clock is set to a specific date, time, and time zone. The built-in time module allows your <span style=\"\">Python</span> programs to read the system clock for the current time. The time.time() and time.sleep() functions are the most useful in the time module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The time.time() Function"
+	},
+	{
+		"component": "text",
+		"value": "The Unix epoch is a time reference commonly used in programming: 12 AM on January 1, 1970, Coordinated Universal Time (UTC). The time.time() function returns the number of seconds since that moment as a <span style=\"\">float</span> value. (Recall that a <span style=\"\">float</span> is just a number with a decimal point.) This number is called an epoch timestamp. For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import time<br>>>> time.time()"
+	},
+	{
+		"component": "text",
+		"value": "1425063955.068649<br>Here I’m calling time.time() on February 27, 2015, at 11:05 Pacific Standard Time, or 7:05 PM UTC. The return value is how many seconds have passed between the Unix epoch and the moment time.time() was called."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "The interactive <span style=\"\">shell</span> examples will yield dates and times for when I wrote this chapter in February 2015. Unless you’re a time traveler, your dates and times will be different."
+	},
+	{
+		"component": "text",
+		"value": "Epoch timestamps can be used to pro<span style=\"\">file</span> <span style=\"\">code</span>, that is, measure how long a piece of <span style=\"\">code</span> takes to run. If you call time.time() at the beginning of the <span style=\"\">code</span> block you want to measure and again at the end, you can subtract the first timestamp from the second to find the elapsed time between those two calls. For example, open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and enter the following program:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "import time<br>❶ def calcProd():<br>       # Calculate the product of the first 100,000 numbers.<br>       product = 1<br>       for i in range(1, 100000):<br>           product = product * i<br>       return product<br><br>❷ startTime = time.time()<br>   prod = calcProd()<br>❸ endTime = time.time()<br>❹ print('The result is %s digits long.' % (len(str(prod))))<br>❺ print('Took %s seconds to calculate.' % (endTime - startTime))"
+	},
+	{
+		"component": "text",
+		"value": "At ❶, we define a function calcProd() to <span style=\"\">loop</span> through the <span style=\"\">integers</span> from 1 to 99,999 and return their product. At ❷, we call time.time() and store it in startTime. Right after calling calcProd(), we call time.time() again and store it in endTime ❸. We end by printing the length of the product returned by calcProd() ❹ and how long it took to run calcProd() ❺."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> this program as calcProd.py and run it. The <span style=\"\">output</span> will look something like this:"
+	},
+	{
+		"component": "text",
+		"value": "The result is 456569 digits long.<br>Took 2.844162940979004 seconds to calculate."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "Another way to pro<span style=\"\">file</span> your <span style=\"\">code</span> is to use the cPro<span style=\"\">file</span>.run() function, which provides a much more informative level of detail than the simple time.time() technique. The cPro<span style=\"\">file</span>.run() function is explained at <span><a href=\"https://docs.<span style=\"\">python</span>.org/3/library/pro<span style=\"\">file</span>.html.\"&gt;https://docs.<span style=\"\">python</span>.org/3/library/pro<span style=\"\">file</span>.html.</a></span>"
+	}
+]

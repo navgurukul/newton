@@ -1,0 +1,9 @@
+{
+	"introduction-to-flex_key1": "Introduction to flex",
+	"introduction-to-flex_key2": "Page ka layout banane ke liye hum <b>display flex</b> ka use karte hai. Hum alag-alag tarah ke layout bana sakte hai. Jaise neeche di gayi images mein colored boxes flex items hai.",
+	"introduction-to-flex_key3": "Layout 1",
+	"introduction-to-flex_key4": "Layout 2",
+	"introduction-to-flex_key5": "Ab hum flex ko use karna seekhenge. Flex mein 2 cheezein bahut important hoti hai. Yeh naam baar baar aayenge, toh inhe acche se samajh le:",
+	"introduction-to-flex_key6": "<b>Items</b>  Jin HTML tags ka humein layout banana hai unko hum items bolte hai. Items ko flex mei hum kuch properties de sakte hai jaise - <b>align-self, flex-grow, flex-basis,</b> etc.   ",
+	"introduction-to-flex_key7": "<b>Container</b>  Items kisi container ke andar hote hai, aur ussi container ke hisaab se items ka layout banta hai.Agar container ki width 200px hai, toh items bhi usi 200px jagah mei arrange honge. Hum <b>display:flex</b> property ka use karke, batate hai ki kaunsa tag container hai. Container mei <b>justify-content, align-items,</b> <b>flex-wrap, flex-direction,</b> etc. jaisi properties hoti hai."
+}

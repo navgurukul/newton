@@ -1,0 +1,35 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "absolute-vs-relative-paths_key1"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key2"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key3"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key4"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key5"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key6"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key7"
+  },
+  {
+    "component": "text",
+    "value": "absolute-vs-relative-paths_key8"
+  }
+]

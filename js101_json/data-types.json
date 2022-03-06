@@ -1,0 +1,30 @@
+[
+	{
+		"component": "text",
+		"value": "Show an example how addition of string and addition of numbers work.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Tell them how the two addition are fundamentally really different.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "From here build the concept of data types and how variables can store different types of data to do different things.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Tell them there are 2 types of data types - strings &amp; numbers.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

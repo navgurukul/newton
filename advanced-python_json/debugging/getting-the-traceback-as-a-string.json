@@ -1,0 +1,49 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Getting the Traceback as a <span style=\"\">String</span>"
+	},
+	{
+		"component": "text",
+		"value": "When <span style=\"\">Python</span> encounters an <span style=\"\">error</span>, it produces a treasure trove of <span style=\"\">error</span> information called the traceback. The traceback includes the <span style=\"\">error</span> message, the line number of the line that caused the <span style=\"\">error</span>, and the sequence of the function calls that led to the <span style=\"\">error</span>. This sequence of calls is called the call stack."
+	},
+	{
+		"component": "text",
+		"value": "Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window in IDLE, enter the following program, and <span style=\"\">save</span> it as <span style=\"\">errorE</span>xample.py:"
+	},
+	{
+		"component": "text",
+		"value": "def spam():<br>    bacon()<br>def bacon():<br>    raise Exception('This is the <span style=\"\">error</span> message.')"
+	},
+	{
+		"component": "text",
+		"value": "spam()<br>When you run <span style=\"\">errorE</span>xample.py, the <span style=\"\">output</span> will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "Traceback (most recent call last):<br>  <span style=\"\">File</span> \"<span style=\"\">errorE</span>xample.py\", line 7, in <module><br>    spam()<br>  <span style=\"\">File</span> \"<span style=\"\">errorE</span>xample.py\", line 2, in spam<br>    bacon()<br>  <span style=\"\">File</span> \"<span style=\"\">errorE</span>xample.py\", line 5, in bacon<br>    raise Exception('This is the <span style=\"\">error</span> message.')<br>Exception: This is the <span style=\"\">error</span> message.<br>From the traceback, you can see that the <span style=\"\">error</span> happened on line 5, in the bacon() function. This particular call to bacon() came from line 2, in the spam() function, which in turn was called on line 7. In programs where functions can be called from multiple places, the call stack can help you determine which call led to the <span style=\"\">error</span>."
+	},
+	{
+		"component": "text",
+		"value": "The traceback is displayed by <span style=\"\">Python</span> whenever a raised exception goes unhandled. But you can also obtain it as a <span style=\"\">string</span> by calling traceback.format_exc(). This function is useful if you want the information from an exception’s traceback but also want an except <span style=\"\">statement</span> to gracefully handle the exception. You will need to import <span style=\"\">Python</span>’s traceback module before calling this function."
+	},
+	{
+		"component": "text",
+		"value": "For example, instead of crashing your program right when an exception occurs, you can write the traceback information to a log <span style=\"\">file</span> and keep your program running. You can look at the log <span style=\"\">file</span> later, when you’re ready to debug your program. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import traceback<br>>>> try:<br>         raise Exception('This is the error message.')<br>except:<br>         errorFile = open('errorInfo.txt', 'w')<br>         errorFile.write(traceback.format_exc())<br>         errorFile.close()<br>         print('The traceback info was written to errorInfo.txt.')"
+	},
+	{
+		"component": "text",
+		"value": "116<br>The traceback info was written to <span style=\"\">error</span>Info.txt.<br>The 116 is the return value from the write() method, since 116 characters were written to the <span style=\"\">file</span>. The traceback text was written to <span style=\"\">error</span>Info.txt."
+	},
+	{
+		"component": "text",
+		"value": "Traceback (most recent call last):<br>  <span style=\"\">File</span> \"<py<span style=\"\">shell</span>#28>\", line 2, in <module><br>Exception: This is the <span style=\"\">error</span> message."
+	}
+]

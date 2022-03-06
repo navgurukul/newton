@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Friends"
+	},
+	{
+		"component": "text",
+		"value": "Who are your closest friends?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "How and when did you meet them?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What are your favourite memories together?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What activities do you like to do together?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "youtube",
+		"value": "wGMcDgsMx_4"
+	},
+	{
+		"component": "youtube",
+		"value": "GJ0mAzJ9yTw"
+	}
+]

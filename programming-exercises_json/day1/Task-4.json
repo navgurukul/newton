@@ -1,0 +1,69 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Reading Material"
+	},
+	{
+		"component": "text",
+		"value": "<b>Perfect Number</b> woh hota hai jiske sare factors ka agar sum kare toh wapas wahi number milta hai.<br>Jese 28 ek <b>Perfect Number</b> hai kyunki 28 ke factors hai.<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 2 4 7 14</span> jiska sum kare toh wapas 28 ajata hai."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "Apko ish sawal me ek program likhna hai jishme ek value di jayegi manlo <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1000</span> toh apko jitne bi number <b>Perfect Number</b> hai <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">0</span> se <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1000</span> ke bich me ushe <i>print</i> karna ha."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Eg:<br>  Input: 1000<br>  Output:<br>      6<br>     28<br>    496<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Test"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 1000<br>  Output:<br>      6<br>     28<br>    496<br>"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 2:<br>  Input: 300<br>  Output:<br>      6<br>     28"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 3:<br>  Input: 4<br>  Output:<br>      Kuch nahi"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 4:<br>  Input: 9000<br>  Output:<br>      6<br>     28<br>    496<br>   8128"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "No Hints"
+	}
+]

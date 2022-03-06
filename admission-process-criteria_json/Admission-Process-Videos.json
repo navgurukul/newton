@@ -1,0 +1,23 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Helper Videos for our Admission Process"
+	},
+	{
+		"component": "text",
+		"value": "Admission Process Explain: "
+	},
+	{
+		"component": "youtube",
+		"value": "H7MpjykWV5k"
+	},
+	{
+		"component": "text",
+		"value": "How to crack Navgurukul Admission Test "
+	},
+	{
+		"component": "youtube",
+		"value": "ivHrBBRAp9s"
+	}
+]

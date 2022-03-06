@@ -1,0 +1,48 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What is a Data Type ?"
+	},
+	{
+		"component": "text",
+		"value": "As we read the English book, every word in it is English, means the <i>information is in English</i>. Whatever knowledge we are taking from the book is <i>data</i>, and the language is its <i>type</i>."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Data type</span> indicates the type of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">information</span>."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Data type</span> represents a type of value that determines which operation can be performed per data. For example, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">numeric</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">non-numeric</span> or <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean (true/false)</span> data are the most commonly used data types."
+	},
+	{
+		"component": "text",
+		"value": "Data Type is a very important concept in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Programming</span>."
+	},
+	{
+		"component": "text",
+		"value": "We can store different type of data type in a <span style=\"\">variable</span>. Like <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Numeric</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Characters</span>. Every <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">programming</span> language has data types."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Below are some data types in <span style=\"\">Python</span>"
+	},
+	{
+		"component": "text",
+		"value": "Numeric type - (<span style=\"\">Integer</span>, <span style=\"\">Float</span>, complex)"
+	},
+	{
+		"component": "text",
+		"value": "Text type - (<span style=\"\">String</span>)"
+	},
+	{
+		"component": "text",
+		"value": "Boolean type - (<span style=\"\">True</span>, <span style=\"\">False</span>)"
+	},
+	{
+		"component": "text",
+		"value": "Sequence type - (List, Tuple, Range)"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"component": "text",
+		"value": "Write a function named function<i>print</i>lines which will take two <span style=\"\">strings</span> as <span style=\"\">inputs</span> and it will print according to the text given below"
+	},
+	{
+		"component": "text",
+		"value": "If we are giving \"Mera naam Nayak hai.\" and \"Main NavGurukul ka Academic Associate hun.\" then it has to print like "
+	},
+	{
+		"component": "text",
+		"value": "Mera naam Nayak hai"
+	},
+	{
+		"component": "text",
+		"value": "Main NavGurukul ka Academic Associate hun."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "<br>function function_print_lines(str1,str2){<br>   console.log(str1);<br>   console.log(str2);<br>}<br>function_print_lines(\"Mera naam Nayak hai.\", \"Main NavGurukul ka Academic Associate hun.\")"
+	}
+]

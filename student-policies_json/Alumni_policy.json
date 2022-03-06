@@ -1,0 +1,169 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Alumni Policy"
+	},
+	{
+		"component": "text",
+		"value": "<i>The policy is subject to change as and when required by the management & agreements.</i>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Introduction:</b> This policy is created to define the guideline and roles and responsibility of the Alumni with the facilities which will be rendered by Nav Gurukul during the Alumni period. "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Life Cycle from Student to Alumni in Nav Gurukul:"
+	},
+	{
+		"component": "text",
+		"value": "Students who join Nav Gurukul Campus and complete the prescribed course on a given period",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Once the course is successfully completed, students are placed for an interview by the Nav Gurukul team",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Based on the skill set of the student, he/she gets selected for the Job",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Once the student gets selected and onboarded on Job they are known as Alumni",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "During the initial phase of Job <b>(Internship periods/ Training Period)</b>, Navgurukul extends their support by providing accommodation to the Alumni in the Campus",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alumni have to follow certain guidelines which are mentioned below",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Guidelines and Roles and Responsibilities of Alumni:"
+	},
+	{
+		"component": "text",
+		"value": "From the first date of joining the job until 45 days, Navgurukul will extend their support by providing <b>food, shared accommodation, wifi, and first aid</b> to the Alumni within the campus. ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alumni stay can be extended only if the Alumni internship/training period is more than 45 days which can vary from 1 month to 6 months",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "During this period (45 days), alumni are advised to look for another option to stay outside the campus premises.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alumni can rejoin the campus post the completion of one year residential course on below condition:",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "For skill enhancement - specifically coding, programming languages.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alumni can rejoin interim while the period of internship is not over upto his/her internship period",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Incase if the Alumni willing to continue their stay in the campus after internship/training period he/she have to pay a monthly rent which will be <b>INR 4,500/-</b> per month which will include food, accommodation and other utilities",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "In addition to being the alumnus/ae of Nav Gurukul, the alumni should also contribute to the culture and community of Navgurukul. The primary responsibility of the Alumni will be which is as follows:",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Community Work</b>- Once in 15 days Cooking, Campus Cleaning, Shopping Vegetable/ Groceries ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Community Engagement</b>- Cultural Activity, Appreciation Circle, Townhall, Life mapping. ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Student Engagement</b>- Mentoring students in their areas of expertise, guiding students on their career path, building the confidence of the student by sharing his/her personal work experience",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Sponsorship</b>: A voluntary contribution towards the scholarship for the deserving student from the campus by Pay Forward plan",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"component": "text",
+		"value": "Var Arr = [34,54,56,78,43,87,09]"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span> for whose elements is the reverse number in the array?"
+	},
+	{
+		"component": "text",
+		"value": "Sample <span style=\"\">output</span> [78,87,34,43]"
+	}
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key8"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key9"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key12"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key13"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key15"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key16"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key17"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key18"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key19"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key20"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key21"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key22"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key23"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key24"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key25"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key26"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key27"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key28"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key29"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key30"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key31"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key32"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key33"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key34"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key35"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key36"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key37"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key38"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key39"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key40"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-removing-the-header-from-csv-files_key41"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key42"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key43"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Write out the CSV file.<br>       csvFileObj = open(os.path.join('headerRemoved', csvFilename), 'w',<br>                    newline='')<br>       csvWriter = csv.writer(csvFileObj)<br>       for row in csvRows:<br>           csvWriter.writerow(row)<br>       csvFileObj.close()"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key44"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key45"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key46"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key47"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key48"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key49"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key50"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key51"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key52"
+  },
+  {
+    "component": "text",
+    "value": "project-removing-the-header-from-csv-files_key53"
+  }
+]

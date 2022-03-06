@@ -1,0 +1,130 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof 15;  // Returns: \"number\"<br>    typeof (42.7);  // Returns: \"number\"<br>    typeof “Nayak”;  // Returns: \"string\""
+	},
+	{
+		"component": "text",
+		"value": "The typeof <span style=\"\">operator</span> can be used to find out what type of data a <span style=\"\">variable</span> or operand contains. "
+	},
+	{
+		"component": "text",
+		"value": "The typeof can be used with or without parentheses (typeof(x) or typeof x). "
+	},
+	{
+		"component": "text",
+		"value": "In the example given above, the operand contains 15 so it returns the type of that operand i.e., number."
+	},
+	{
+		"component": "text",
+		"value": "The typeof <span style=\"\">operator</span> is particularly useful in the situations when you need to process the values of different types differently, but you need to be very careful, because it may produce unexpected result in some cases, as demonstrated in the following example:"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Null"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof Null;  // Output: \"object\""
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "As you can clearly see in the above example when we test the null value using the typeof <span style=\"\">operator</span> , it returns \"object\" instead of \"null\"."
+	},
+	{
+		"component": "text",
+		"value": "This is a long-standing bug in JavaScript, but since lots of <span style=\"\">codes</span> on the web are written around this behavior, and thus fixing it would create a lot more problems, so the idea of fixing this issue was rejected by the committee that design and maintains JavaScript."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Numbers"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof 15;  // Output: \"number\"<br>typeof 42.7;  // Output: \"number\"<br>typeof 5.5e-6;  // Output: \"number\"<br>typeof Infinity;  // Output: \"number\"<br>typeof NaN;  <br>// Output: \"number\". Despite being \"Not-A-Number\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Strings</span>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof '';  // Output: \"string\"<br>typeof 'hello';  // Output: \"string\"<br>typeof '12';  // Output: \"string\". Number within quotes is typeof string"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Booleans"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof true;  // Output: \"boolean\"<br>typeof false;  // Output: \"boolean\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Undefined"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof undefined;  // Output: \"undefined\"<br>typeof undeclaredVariable; // Output: \"undefined\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Objects"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof {name: \"John\", age: 18};  // Output: \"object\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Arrays"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof [1, 2, 4];  // Output: \"object\""
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Functions"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "typeof addNumbers(){};  // Output: \"function\""
+	}
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def a():<br>    b() + c()<br><br>def b():<br>    return 3<br><br>def c():<br>    return 7 * b()<br><br>print a()"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "n = 10<br>def a(n):<br>    return n+2<br><br>print a(4)"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def sum1(n):<br>    if (n==0):<br>        return 0<br>    return sum1(n-1) + n<br><br>print sum1(6)"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def sum2(n):<br>    if (n==0):<br>        return 0<br>    else:<br>        return sum2(n-1) + n<br>print sum2(8)"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def fib(n):<br>    if (n==0):<br>        return 1<br>    elif (n==1):<br>        return 1<br>    else:<br>        return fib(n-1)+fib(n-2)<br><br>print fib(6)"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def fib_series(n):<br>    if (n==1):<br>        return [1, 1]<br>    else:<br>        series = fib_series(n-1)<br>        return [series[0] + series[1]] + series<br><br>print fib_series(8)"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def hcf(a,b):<br>    if(b==0):<br>        return a<br>    else:<br>        return hcf(b,a%b)<br><br>print hcf(120, 100)"
+  },
+  {
+    "component": "text",
+    "value": "functions-dry-run_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "https://youtu.be/aUgYYhe-nUc"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def is_present_in_list(number_to_search, list_to_search):<br>    length_of_list = len(list_to_search)<br><br>    if length_of_list == 1:<br>        if number_to_search == list_to_search[0]:<br>            return True<br>        else:<br>            return False<br>    <br>    if length_of_list == 2:<br>        if number_to_search == list_to_search[0] or number_to_search == list_to_search[1]:<br>            return True<br>        else:<br>            return False<br>            <br><br>    first_half_of_list = list_to_search[:length_of_list/2]<br>    second_half_of_list = list_to_search[length_of_list/2:]<br><br>    return is_present_in_list(number_to_search, first_half_of_list) or is_present_in_list(number_to_search, second_half_of_list)<br><br>print is_present_in_list(3, [3, 5, 7, 8, 4, 6, 2, 1, 9])<br>print is_present_in_list(10, [3, 5, 7, 8, 4, 6, 2, 1, 9])<br><br>Jab Hum ek list ko as an argument pass karte hai, toh woh list copy ho kar nahi jaati, balki bas uska ek reference jaata hai. Iska matlab, jub hum uss function mei jaha par woh list bheji hai, ussmei jo hamari main item thi, wohi modify karte hai.<br><br>Jaise iss program mei, jab hum a(example) call karenge, toh jo def a mei changes honge, woh example variable ke andar ho jayenge. Jba hum example ko print karenge, toh example updated hoga."
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def a(l):<br>    al = len(l)<br>    i = 0<br>    while(i<al/2):<br>        i += 1<br>        l[i] = l[al-i -1]<br><br><br>example = [3, 9, 1, 2, 7]<br>a(example)<br>print example"
+  },
+  {
+    "component": "text",
+    "value": "functions-dry-run_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def partition(l, s, e):<br>    pos = s<br>    i = s<br>    while(i<e)<br>        if l[i] < l[e]:<br>            l[i],l[pos] = l[pos],l[i]<br>            pos += 1<br>        i = i+1<br><br>    l[pos],l[e] = l[e],l[pos]<br>    return pos<br><br>def so(l, s, e):<br>    if s < e:<br>        pos = partition(l, s, e)<br>        so(l, s, pos - 1)<br>        so(l, pos + 1, e)<br><br>example = [3, 9, 1, 2, 7]<br>so(example, 0, len(example) - 1)<br>print example"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def so(l):<br>    i = 0<br>    while(i< len(l)-1):<br>        n = l[i]<br>        if l[i+1] < n:<br>            l[i] = l[i+1]<br>            l[i+1] = n<br>            so(l)<br>        i = i + 1    <br>    return l<br> <br>l = [9, 2, 7, 5]<br>so(l)<br> <br>print l"
+  },
+  {
+    "component": "text",
+    "value": "functions-dry-run_key3"
+  }
+]

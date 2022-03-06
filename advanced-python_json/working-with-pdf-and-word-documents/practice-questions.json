@@ -1,0 +1,175 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Questions"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "A string value of the PDF filename is not passed to the PyPDF2.PdfFileReader() function. What do you pass to the function instead?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What modes do the File objects for PdfFileReader() and PdfFileWriter() need to be opened in?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you acquire a Page object for About This Book from a PdfFileReader object?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What PdfFileReader variable stores the number of pages in the PDF document?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If a PdfFileReader object’s PDF is encrypted with the password swordfish, what must you do before you can obtain Page objects from it?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What methods do you use to rotate a page?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What method returns a Document object for a file named demo.docx?",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between a Paragraph object and a Run object?",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you obtain a list of Paragraph objects for a Document object that’s stored in a variable named doc?",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What type of object has bold, underline, italic, strike, and outline variables?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between setting the bold variable to True, False, or None?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you create a Document object for a new Word document?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "How do you add a paragraph with the text 'Hello there!' to a Document object stored in a variable named doc?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What integers represent the levels of headings available in Word documents?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	}
+]

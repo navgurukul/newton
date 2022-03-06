@@ -1,0 +1,42 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Tic Tac Toe"
+	},
+	{
+		"component": "text",
+		"value": "Yeh project clone karo - "
+	},
+	{
+		"component": "text",
+		"value": "https://github.com/alphawing/Multiplayer-TicTacToe"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Task 0"
+	},
+	{
+		"component": "text",
+		"value": "Aap iss <span style=\"\">code</span> ko dekh kar samjho ki socket library ka kaise use kiya hai, communication enable karne mei. Iske baad kisi ko aap samjhayein aur yeh ensure karein ki aapko socket library samajh aa rahi hai. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Task 1"
+	},
+	{
+		"component": "text",
+		"value": "Add an AI player that does not play optimally (introduce random <span style=\"\">errors</span> in current ai)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Task 2"
+	},
+	{
+		"component": "text",
+		"value": "Change game from a 3x3 grid to a 5x5 grid. Iska matlab ab aapko 9 possible moves nahi, 25 possible moves dikhenge."
+	}
+]

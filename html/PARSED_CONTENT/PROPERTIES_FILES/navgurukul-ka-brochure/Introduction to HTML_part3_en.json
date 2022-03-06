@@ -1,0 +1,12 @@
+{
+	"part3_key1": "Part III - Images\n",
+	"part3_key2": "**Iss document ka**\n",
+	"part3_key3": "HTML use karke clone banayein; isme\n",
+	"part3_key4": "**in images**\n",
+	"part3_key5": "ka use karein.\n",
+	"part3_key6": "Jis folder mei images.html `file` hai, usi folder mei inn images ko daalein. Image ka naam **src property** mein aayega. Dhyaan rakhe ki image ka extension jaise - .jpg, .png ko image ke naam se na hataye.\n",
+	"part3_key7": "Image ke width aur height attributes change karke dekhe aur browser me refresh kar kar check karein.\n",
+	"part3_key8": "_Assignment karne se pehle, yeh concepts padho aur samjho:_\n",
+	"part3_key10": "Image",
+	"part3_key11": " Tags"
+}

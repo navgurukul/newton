@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "merging-and-unmerging-cells_key1"
+  },
+  {
+    "component": "text",
+    "value": "merging-and-unmerging-cells_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.Workbook()<br>>>> sheet = wb.active<br>>>> sheet.merge_cells('A1:D3')<br>>>> sheet['A1'] = 'Twelve cells merged together.'<br>>>> sheet.merge_cells('C5:D5')<br>>>> sheet['C5'] = 'Two merged cells.'<br>>>> wb.save('merged.xlsx')"
+  },
+  {
+    "component": "text",
+    "value": "merging-and-unmerging-cells_key3"
+  },
+  {
+    "component": "text",
+    "value": "merging-and-unmerging-cells_key4"
+  },
+  {
+    "component": "text",
+    "value": "merging-and-unmerging-cells_key5"
+  },
+  {
+    "component": "text",
+    "value": "merging-and-unmerging-cells_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import openpyxl<br>>>> wb = openpyxl.load_workbook('merged.xlsx')<br>>>> sheet = wb.active<br>>>> sheet.unmerge_cells('A1:D3')<br>>>> sheet.unmerge_cells('C5:D5')<br>>>> wb.save('merged.xlsx')"
+  },
+  {
+    "component": "text",
+    "value": "merging-and-unmerging-cells_key7"
+  }
+]

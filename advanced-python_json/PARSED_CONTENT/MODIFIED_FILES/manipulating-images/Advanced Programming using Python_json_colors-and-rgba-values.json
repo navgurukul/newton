@@ -1,0 +1,82 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "colors-and-rgba-values_key1"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key2"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key3"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key4"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key5"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key6"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key7"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key8"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key9"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key10"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key11"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key12"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "colors-and-rgba-values_key13"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key14"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key15"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> from PIL import ImageColor<br>❷ >>> ImageColor.getcolor('red', 'RGBA')<br>   (255, 0, 0, 255)<br>❸ >>> ImageColor.getcolor('RED', 'RGBA')<br>   (255, 0, 0, 255)<br>   >>> ImageColor.getcolor('Black', 'RGBA')<br>   (0, 0, 0, 255)<br>   >>> ImageColor.getcolor('chocolate', 'RGBA')<br>   (210, 105, 30, 255)<br>   >>> ImageColor.getcolor('CornflowerBlue', 'RGBA')<br>   (100, 149, 237, 255)"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key17"
+  },
+  {
+    "component": "text",
+    "value": "colors-and-rgba-values_key18"
+  }
+]

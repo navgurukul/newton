@@ -1,0 +1,288 @@
+[
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key1"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "spoken-english-week9_key2"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key3"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week9_key7"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key8"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key9",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key10",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key11",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key12",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key13",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key14",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key15",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key16",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key17",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key18",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week9_key19"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "spoken-english-week9_key21"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key22"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key23",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key24",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key25",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key26",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week9_key27"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key28"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key29",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key30",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key31",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key32",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key33",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key34",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key35",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key36",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key37",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key38",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "spoken-english-week9_key39"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key40"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key41"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key42"
+  },
+  {
+    "component": "text",
+    "value": "spoken-english-week9_key43"
+  }
+]

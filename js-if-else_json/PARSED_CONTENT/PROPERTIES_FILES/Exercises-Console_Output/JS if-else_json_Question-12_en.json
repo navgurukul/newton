@@ -1,0 +1,5 @@
+{
+	"Question-12_key1": "Takes a number as user <span style=\"\">input</span>. Check if this number is divisible by 5 and 15 both",
+	"Question-12_key2": "If it is divisibe by both prints <b>\"Divisible by both\"</b>.",
+	"Question-12_key3": "else prints <b>\"Not divisible by both\"</b><br><br>"
+}

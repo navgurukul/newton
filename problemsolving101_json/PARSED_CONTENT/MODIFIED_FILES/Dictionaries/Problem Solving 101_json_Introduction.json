@@ -1,0 +1,11 @@
+[
+  {
+    "component": "text",
+    "value": "Introduction_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Introduction_key2"
+  }
+]

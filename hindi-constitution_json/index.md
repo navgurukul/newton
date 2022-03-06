@@ -1,0 +1,28 @@
+- ng-constitution.json
+- section-0
+	- section-0.json
+	- right-to-dissent.json
+	- right-to-audit.json
+- section-1-council
+	- section-1-council.json
+	- gensec.json
+	- food.json
+	- information.json
+	- treasurer.json
+	- outreach.json
+	- training.json
+	- maintenance.json
+	- happiness.json
+	- eligibility.json
+	- gbm.json
+	- recall.json
+	- resignation-and-dismissal.json
+	- intrim-responsibilities.json
+- section-2-discipline
+	- section-2-discipline.json
+	- appointment.json
+- section-3-complaints.json
+- section-4-elections.json
+- ethics.json
+- section-5-rules.json
+- section-6-center.json

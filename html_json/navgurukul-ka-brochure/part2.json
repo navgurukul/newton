@@ -1,0 +1,22 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Part II - Links"
+	},
+	{
+		"component": "text",
+		"value": "Apne document me main heading ke neeche <a href=\"http://www.navgurukul.org/\">navgurukul.org</a> ka link daaliye. Finally, aapka webpage <a href=\"https://docs.google.com/document/d/12AMjSeLPN9SE80PFkWKMYruhl-bo5p95JM158RLJXX0/edit#heading=h.1mbhds6yyb2z\">aisa dikhna</a> chaiye!"
+	},
+	{
+		"component": "text",
+		"value": "<i>Assignment karne se pehle, yeh concepts padho aur samjho:</i>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Anchor</b> Tags - <a href=\"http://www.html-5-tutorial.com/a-tag.htm\">en</a>, <a href=\"https://docs.google.com/document/d/1eYFUg9QoZHRz6Ofo_tYUc2\">hi</a>",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

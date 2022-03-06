@@ -1,0 +1,400 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key3"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key8"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key9"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key12"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key13"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key15"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key16"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key17"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key18"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key19"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key20"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key21"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key22"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key23"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key24"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key25"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key26"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key27"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key28"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key29"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key30"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key31"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key32"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key33"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key34"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key35"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key36"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key37"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key38"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key39"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key40"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key41"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key42"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key43"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key44"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key45"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key46"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key47"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key48"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key49"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "formData = [{'name': 'Alice', 'fear': 'eavesdroppers', 'source': 'wand',<br>            'robocop': 4, 'comments': 'Tell Bob I said hi.'},<br>            {'name': 'Bob', 'fear': 'bees', 'source': 'amulet', 'robocop': 4,<br>            'comments': 'n/a'},<br>            {'name': 'Carol', 'fear': 'puppets', 'source': 'crystal ball',<br>            'robocop': 1, 'comments': 'Please take the puppets out of thebreak room.'},{'name': 'Alex Murphy', 'fear': 'ED-209', 'source': 'money',<br>            'robocop': 5, 'comments': 'Protect the innocent. Serve the publictrust. Uphold the law.'},]"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key50"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key51"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key52"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key53"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key54"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key55"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key56"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key57"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "for person in formData:<br>       # Give the user a chance to kill the script.<br>       print('>>> 5 SECOND PAUSE TO LET USER PRESS CTRL-C <<<')<br>❶     time.sleep(5)<br><br>       # Wait until the form page has loaded.<br>❷     while not pyautogui.pixelMatchesColor(submitButton[0], submitButton[1],<br>       submitButtonColor):<br>           time.sleep(0.5)"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key58"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key59"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key60"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key61"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key62"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶     print('Entering %s info...' % (person['name']))<br>❷     pyautogui.click(nameField[0], nameField[1])<br><br>       # Fill out the Name field.<br>❸     pyautogui.typewrite(person['name'] + '\\t')<br><br>       # Fill out the Greatest Fear(s) field.<br>❹     pyautogui.typewrite(person['fear'] + '\\t')"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key63"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key64"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key65"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key66"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key67"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key68"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key69"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key70"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Fill out the Source of Wizard Powers field.<br>❶     if person['source'] == 'wand':<br>❷         pyautogui.typewrite(['down', '\\t'])<br>       elif person['source'] == 'amulet':<br>           pyautogui.typewrite(['down', 'down', '\\t'])<br>       elif person['source'] == 'crystal ball':<br>           pyautogui.typewrite(['down', 'down', 'down', '\\t'])<br>       elif person['source'] == 'money':<br>           pyautogui.typewrite(['down', 'down', 'down', 'down', '\\t'])<br><br>       # Fill out the Robocop field.<br>❸     if person['robocop'] == 1:<br>❹         pyautogui.typewrite([' ', '\\t'])<br>       elif person['robocop'] == 2:<br>           pyautogui.typewrite(['right', '\\t'])<br>       elif person['robocop'] == 3:<br>           pyautogui.typewrite(['right', 'right', '\\t'])<br>       elif person['robocop'] == 4:<br>           pyautogui.typewrite(['right', 'right', 'right', '\\t'])<br>       elif person['robocop'] == 5:<br>           pyautogui.typewrite(['right', 'right', 'right', 'right', '\\t'])"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key71"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key72"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key73"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key74"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key75"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key76"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key77"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key78"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key79"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key80"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Fill out the Additional Comments field.<br>    pyautogui.typewrite(person['comments'] + '\\t')<br><br>    # Click Submit.<br>    pyautogui.press('enter')<br><br>    # Wait until form page has loaded.<br>    print('Clicked Submit.')<br>    time.sleep(5)<br><br>    # Click the Submit another response link."
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key81"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key82"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-automatic-form-filler_key83"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key84"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key85"
+  },
+  {
+    "component": "text",
+    "value": "project-automatic-form-filler_key86"
+  }
+]

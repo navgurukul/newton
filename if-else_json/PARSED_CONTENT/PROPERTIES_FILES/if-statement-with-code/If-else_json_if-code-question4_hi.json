@@ -1,0 +1,7 @@
+{
+    "if-code-question4_key1": "प्रश्न 4",
+    "if-code-question4_key2": "अगर फिल्टर में पानी 1 लीटर से कम है तो ज्यादा पानी भरने की जरूरत है। अगर पानी की मात्रा 1 लीटर से 10 लीटर के बीच है तो पानी भरने की जरूरत नहीं है। अगर पानी 10 लीटर से ज्यादा है तो पानी ओवरफ्लो हो जाएगा। इन शर्तों के आधार पर नीचे दिए गए फ़्लोचार्ट को पूरा करें।",
+    "if-code-question4_key3": "जल स्तर के लिए, उपयोगकर्ता <span style=\"\">input</span> को <span style=\"\">variable</span> नाम <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">water</span> में लें और इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span> में बदलें।",
+    "if-code-question4_key4": "प्रश्न 6 पीएनजी",
+    "if-code-question4_key5": "फ़्लोचार्ट और <span style=\"\">code</span> दोनों को पूरा करें और सबमिट करें।"
+}

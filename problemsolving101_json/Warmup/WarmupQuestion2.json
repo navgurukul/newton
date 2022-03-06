@@ -1,0 +1,11 @@
+[
+	{
+		"component": "text",
+		"value": "WarmUp waale section mein se koi bhi ek bhi ek \"Easy\" category wala question solve karo."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<a href=\"https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges\">Click here to see Problems</a>"
+	}
+]

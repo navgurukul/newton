@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question-6_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>function getResult(num1,num2,num3,num4){<br> console.log(num1-num2+num3-num4)<br>}<br>getResult(2,3,4,5);"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "-2"
+  }
+]

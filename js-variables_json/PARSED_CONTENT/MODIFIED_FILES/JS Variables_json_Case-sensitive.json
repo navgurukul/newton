@@ -1,0 +1,42 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Case-sensitive_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var Name = \"komal\";<br>var name = \"swati\";<br>console.log(Name+name)<br>// output: komalswati<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Case-sensitive_key2"
+  },
+  {
+    "component": "text",
+    "value": "Case-sensitive_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Case-sensitive_key4"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var num_12 = 24;<br>console.log(12num)<br><br>// Output : SyntaxError: Invalid or unexpected token<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Case-sensitive_key5"
+  },
+  {
+    "component": "text",
+    "value": "Case-sensitive_key6"
+  }
+]

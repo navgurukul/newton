@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Part I"
+	},
+	{
+		"component": "text",
+		"value": "Aapko <b>iss website</b> ka clone banana hai. Clone banane se pehle hum <b><span style=\"\">files</span> aur folders</b> ke bare mein jaanenge. Jaise hum almaari mein cheezein rakhte hai. Ussi tarah hum folders (almaari) mein <span style=\"\">files</span>(cheezein) rakhte hai."
+	},
+	{
+		"component": "text",
+		"value": "Folders banane se hume apni <span style=\"\">files</span> dhundne mei aasaani hoti hai. Isliye abse hum her assignment ke liye ek naya folder banayenge. App <b>ctrl+shift+n</b> press kar kar ek naya folder bana sakte hai. Iss folder ka naam apni assignment ke naam se milta julta rakhe. Jaise <b>kindness-part-1.</b> Ab iss folder mein apni <span style=\"\">files</span> ko copy kar de. "
+	},
+	{
+		"component": "text",
+		"value": "Iss website mein aapko pehle banaye gaye 2 pages ko link karna hai. Apne page per kissi dusre page ka link daalne ke liye hum <b>‘anchor tag’</b> ya ‘a tag’ ka use karte hai. Jaise,"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "<a href=\"html_file_ka_path\"> Link per jo display karna hai</a>"
+	},
+	{
+		"component": "text",
+		"value": "<i>Assignment karne se pehle, yeh concepts Internet se padho aur samjho:</i>    "
+	},
+	{
+		"component": "text",
+		"value": "Linking pages",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Files &amp; Folders",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

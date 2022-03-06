@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "Write a program to store two <span style=\"\">float</span> values as num1 and num2 respectively and show the multiplication of those two values?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var num1=1.2;<br>var num2=3.1;<br>console.log(num1*num2);"
+	}
+]

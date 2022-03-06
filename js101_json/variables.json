@@ -1,0 +1,34 @@
+[
+	{
+		"component": "text",
+		"value": "Explain the concept of how variable is a store of value. It's like an empty box which can take in any content.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Currently instead of doing the explaining work, we can just refer them to the variable section in the Python course.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Print things like var a = 12; console.log(a);",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Show how to change value of a variable.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "//<span style=\"\">Variables</span><br>var a = 3;<br>var b = 4;<br>console.log(a + b)"
+	}
+]

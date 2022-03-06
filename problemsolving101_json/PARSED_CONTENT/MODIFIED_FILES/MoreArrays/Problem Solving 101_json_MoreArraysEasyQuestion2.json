@@ -1,0 +1,15 @@
+[
+  {
+    "component": "text",
+    "value": "MoreArraysEasyQuestion2_key1"
+  },
+  {
+    "component": "text",
+    "value": "MoreArraysEasyQuestion2_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "MoreArraysEasyQuestion2_key3"
+  }
+]

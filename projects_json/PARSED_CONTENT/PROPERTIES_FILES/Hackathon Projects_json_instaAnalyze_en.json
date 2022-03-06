@@ -1,0 +1,12 @@
+{
+	"instaAnalyze_key1": "Insta Analyze",
+	"instaAnalyze_key2": "Humein ek instagram ke liye <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">bot</span> banana hai, jo mere instagram followers ki posts ka sentiment analysis karega.",
+	"instaAnalyze_key3": "Iske liye aapko:",
+	"instaAnalyze_key4": "Instagram se data scrap karne ke liye aapko <a href=\"https://github.com/timgrossmann/InstaPy\">InstaPy</a> library use karni hai.\nSentiment analysis ke liye aapko - <a href=\"http://www.nltk.org/howto/sentiment.html\">NLTK</a> library use karni hai.",
+	"instaAnalyze_key5": "Process",
+	"instaAnalyze_key6": "Aapko apne saare instagram followers ki saari descriptions download kar kar {username}.txt naame ki files mei dump karna hai. Har ek new line mei ek nayi post ka content store hoga.<br><br>Toh agar aapke 10 followers hai, toh 10 files hongi, jismei unki har ek instagram post ke liye ek nayi line hogi.<br>Jaisa agar mai aapko follow karta hu, toh abhishekgupta921.txt mei meri saari instagram posts ek ek line mei hogi.<br>",
+	"instaAnalyze_key7": "Ab aapko sentiment analysis padh kar samajhna hai ki kya hota hai. Aap NLTK use kar kar ek simple sa sentiment analyser banaye jo <a href=\"https://www.kaggle.com/c/si650winter11\">iss</a> data par kaam karta hai. Dhyaan rakhein, ki simply Naive Bayes Classifier use karna, isse aapko kam efforts lagenge. Internet par bahut saare tutorials hai jo yeh karne mei aapki help karenge.<br>",
+	"instaAnalyze_key8": "Ab iss code ko aise modify karo ki aap ka analyzer jo kaggle se jo data hai, uss par train ho, par instagram posts ko analyse karein. Iske baad aap aisa kuch print karoge:<br><br>",
+	"instaAnalyze_key9": "Yaani<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{username} {number_of_positive_posts}/{number_of_total_posts}</span>",
+	"instaAnalyze_key10": "Good luck and happy coding."
+}

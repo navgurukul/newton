@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "To know more about us, please see these introductory videos"
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul Intro:"
+	},
+	{
+		"component": "youtube",
+		"value": "mK8VpkiuLgg"
+	},
+	{
+		"component": "text",
+		"value": "What is NavGurukul &amp; Residential Program (English)"
+	},
+	{
+		"component": "youtube",
+		"value": "FNMj0EnmdXI"
+	},
+	{
+		"component": "text",
+		"value": "Why you should join NavGurukul - Telugu (Video in English and Hindi coming soon)"
+	},
+	{
+		"component": "youtube",
+		"value": "yv8qMgoHOWw"
+	}
+]

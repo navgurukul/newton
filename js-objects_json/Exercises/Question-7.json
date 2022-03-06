@@ -1,0 +1,38 @@
+[
+	{
+		"component": "text",
+		"value": "Write a program that removes the first <span style=\"\">key</span> and value of a nested object."
+	},
+	{
+		"component": "text",
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "myDict= {<br>    1: 'NAVGURUKUL',<br>    2: 'IN',  <br>    3:{    <br>            'A' : 'WELCOME',<br>            'B' : 'To',<br>            'C' : 'DHARAMSALA'<br>        }<br>    }"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "myDict= {<br>    1: 'NAVGURUKUL',<br>    2: 'IN',  <br>      3:<br>      { 'B' : 'To',<br>        'C' : 'DHARAMSALA'<br>       }<br>    }"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var myDict= {<br>   1: 'NAVGURUKUL',<br>   2: 'IN',<br>   3:{  <br>        'A' : 'WELCOME',<br>        'B' : 'To',<br>        'C' : 'DHARAMSALA'<br>       }<br>   }<br>for (i in myDict){<br>   if ((typeof myDict[i]) === \"object\"){<br>       delete myDict[i]['A']<br>   }<br>}<br>console.log(myDict);"
+	}
+]

@@ -1,0 +1,138 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "for(var i = 0; i < 3; i++){<br>   console.log(i)<br>}<br>// Output :-<br>// 0<br>// 1<br>// 2    <br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the first time, the value of i is 0, 0&lt;3 is <span style=\"\">true</span>, and it is incremented due to i++, i value will become 1, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the second time, the value of i is 1, 1&lt;3 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 2, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the third time, the value of i is 2, 2&lt;3 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 3, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the fourth time, the value of i is 3. Clearly, 3&lt;3, so the for <span style=\"\">loop</span> will stop."
+	},
+	{
+		"component": "text",
+		"value": "When we are using a for <span style=\"\">loop</span>, we can in one line initialize the <span style=\"\">variable</span>, give the condition, and increment or decrement the <span style=\"\">variable</span>. For <span style=\"\">loop</span> runs for a specific number of times."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "for(var n=9;n>0;n--){<br>   console.log(n)<br>}<br><br>// Output:-<br>// 9<br>// 8<br>// 7<br>// 6<br>// 5<br>// 4<br>// 3<br>// 2<br>// 1<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the first time, the value of n is 9, n&gt;0 is <span style=\"\">true</span>, and it is decremented due to n--, n value will become 8, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the second time, the value of n is 8, n&gt;0 is <span style=\"\">true</span>, and it is decremented due to n--,n value will become 7, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the third time, the value of n is 7, n&gt;0 is <span style=\"\">true</span>, and it is decremented due to n--, n value will become 6, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the fourth time, the value of n is 6, n&gt;0 is <span style=\"\">true</span>, and it is decremented due to n--, n value will become 5, therefore i is printed"
+	},
+	{
+		"component": "text",
+		"value": "…."
+	},
+	{
+		"component": "text",
+		"value": "…."
+	},
+	{
+		"component": "text",
+		"value": "…."
+	},
+	{
+		"component": "text",
+		"value": "…."
+	},
+	{
+		"component": "text",
+		"value": "…."
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the tenth time, the value of n is 0, 0&gt;0 is <span style=\"\">false</span>, and the <span style=\"\">loop</span> breaks."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "for (var s=25;s<=30;s++){<br>   console.log(s)<br>}<br><br><br>// Output:-<br>// 25<br>// 26<br>// 27<br>// 28<br>// 29<br>// 30"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the first time, the value of s is 25, 25&lt;=30 is <span style=\"\">true</span>, and it is incremented due to i++, i value will become 26, therefore 25 is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the second time, the value of i is 26, 26&lt;=30 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 27, therefore 26 is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the third time, the value of i is 27, 27&lt;=30 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 28, therefore 27 is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the third time, the value of i is 28, 28&lt;=30 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 29, therefore 28 is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the third time, the value of i is 29, 29&lt;=30 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 30, therefore 29 is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the third time, the value of i is 30, 30&lt;=30 is <span style=\"\">true</span>, and it is incremented due to i++,i value will become 31, therefore 30 is printed"
+	},
+	{
+		"component": "text",
+		"value": "When this <span style=\"\">loop</span> runs the fourth time, the value of i is 3. Clearly, 31&lt;=30 <span style=\"\">false</span>, so the for <span style=\"\">loop</span> will stop."
+	}
+]

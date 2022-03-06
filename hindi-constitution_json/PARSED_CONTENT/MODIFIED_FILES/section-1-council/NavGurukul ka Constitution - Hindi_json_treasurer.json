@@ -1,0 +1,32 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "treasurer_key1"
+  },
+  {
+    "component": "text",
+    "value": "treasurer_key2"
+  },
+  {
+    "component": "text",
+    "value": "treasurer_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "treasurer_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "treasurer_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

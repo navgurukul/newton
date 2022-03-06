@@ -1,0 +1,241 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "functions-intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key2"
+  },
+  {
+    "component": "youtube",
+    "value": "8T5acEwfJbw"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print(\"NavGurukul\")<br><br>def say_hello():<br>&emsp;print(\"Hello!\")<br>&emsp;print(\"How are you?\")<br><br>say_hello()<br>print(\"Python is awesome\")<br>say_hello()<br>print(\"Hello…\")<br>say_hello()"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key3"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key4"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-intro_key6"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "names_list = [\"Fiza\", \"Shivam\", \"Imtiyaz\", \"Deepanshu\", \"Rahman\"]<br>print(len(names_list))"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key8"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def definition_say_hello():<br>&emsp;print(\"NavGurukul\")<br>&emsp;print(\"In Navgurukul, we have to take responsibility for our learning.\")<br><br>definition_say_hello()<br><br>print(\"In Navgurukul we treat all the people in the same way.\")<br><br>definition_say_hello()"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key12"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key13"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key14"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key15"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key16"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key17"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key18"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key19",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key20",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key21",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key22",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key23",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def function_say_bye():<br>&emsp;print(\"It was fun meeting with you. \")<br>&emsp;print(\"Bye bye\")<br>function_say_bye()<br>function_say_bye()<br>print(\"Python is used a lot.\")<br>function_say_bye()<br>function_say_bye()"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key24"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key25"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key26",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key27",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key28",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key29",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key30",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-intro_key31"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key33"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")<br>definition_hello_again()"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key34"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key35"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key36"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key37"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=WkC7ktXM_8k"
+  },
+  {
+    "component": "youtube",
+    "value": "https://youtu.be/AJJpGImQWLc"
+  }
+]

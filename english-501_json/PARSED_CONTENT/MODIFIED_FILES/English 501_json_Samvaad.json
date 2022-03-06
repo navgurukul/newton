@@ -1,0 +1,264 @@
+[
+  {
+    "component": "text",
+    "value": "Samvaad_key1"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "Samvaad_key2"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Samvaad_key7"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key8",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key9",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key10",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key11",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key12",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key13",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key14",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key15",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key16",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key17",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key18"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Samvaad_key19"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key20",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key21",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key22",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key23",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key24",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key25",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key26"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key27",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key28",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key29",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Samvaad_key30"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key31"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key32"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Samvaad_key33"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key34",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key35",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key36",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Samvaad_key37"
+  },
+  {
+    "component": "text",
+    "value": "Samvaad_key38",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

@@ -1,0 +1,25 @@
+[
+	{
+		"component": "text",
+		"value": "Aapne abhi tak apne project repository ko apne system mein hi rakha hai.<br>Iss project repository ko ab app GitHub (ek cloud) pe daal sakte hain taaki aapke peers bhi aapka project dekh sake."
+	},
+	{
+		"component": "text",
+		"value": "Iske liye pehle aapko GitHub pe ek empty project repository banani hogi aur usme apne existing project ko <b>push</b> karna hoga."
+	},
+	{
+		"component": "text",
+		"value": "Detail mein aisa kaise karte hain, ye janne ke liye <a href=\"https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/\">iss</a> ke instructions ko follow karein."
+	},
+	{
+		"component": "text",
+		"value": "<b>Assignment</b>"
+	},
+	{
+		"component": "text",
+		"value": "Upar diye hue instructions ko follow karte hue apne code ko GitHub ke repository pe push karein",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

@@ -1,0 +1,11 @@
+{
+	"Problem-in-var_key1": "Imagine you are writing a <span style=\"\">code</span> for storing and displaying someone's aadhar card number.As you can imagine an aadhar card number cannot change for a person. But if you declare a <span style=\"\">variable</span> with var you can change its content.",
+	"Problem-in-var_key2": "explantion",
+	"Problem-in-var_key3": "Now programmatically there is no problem in this <span style=\"\">code</span>, you can declare a <span style=\"\">variable</span> aadharCardNumber you can store a value in it like abcd1234 and you can redeclare it like xyz0987. But your program should not be changing people's aadhar card numbers because those numbers are constant. This is where const and let can be used for.",
+	"Problem-in-var_key4": "Example:",
+	"Problem-in-var_key5": "<span style=\"\">output</span>",
+	"Problem-in-var_key6": "// please use Atm<br>// while using Atm :1234<br>// Thank you for using Atm<br>// After using Atm :1234",
+	"Problem-in-var_key7": "Think of a situation where you want to use atm, while using atm, machine ask you to enter pin or  store your atm pin for only sometime and not let it to remember even after using the atm, well it is not secure if it is storing your atm pin after you are using also.",
+	"Problem-in-var_key8": "Explantion:",
+	"Problem-in-var_key9": "In the above example, think of a block as an atm, and you entered it because you have to use atm, after entering it took your atm pin and stored it into a <span style=\"\">variable</span> which is declared with var. And you also felt that it is safe only but actually which is not. You can clearly see in the above example that after coming out of a block or after using atm still it knows your atm pin which is not secure. That happened only because of <span style=\"\">key</span>word var. So, we want something which holds your values for a particular block. This is where let can be used for."
+}

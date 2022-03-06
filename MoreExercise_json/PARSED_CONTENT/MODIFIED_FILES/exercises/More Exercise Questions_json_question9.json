@@ -1,0 +1,32 @@
+[
+  {
+    "component": "text",
+    "value": "question9_key1"
+  },
+  {
+    "component": "text",
+    "value": "question9_key2"
+  },
+  {
+    "component": "text",
+    "value": "question9_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 42<br>x_digits = list(str(x))"
+  },
+  {
+    "component": "text",
+    "value": "question9_key4"
+  },
+  {
+    "component": "text",
+    "value": "question9_key5"
+  },
+  {
+    "component": "text",
+    "value": "question9_key6"
+  }
+]

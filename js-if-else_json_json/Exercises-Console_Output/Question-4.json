@@ -1,0 +1,6 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Please tell <span style=\\\"\\\"><span style=\"\">output</span></span> on different value of time <span style=\\\"\\\"><span style=\"\">variable</span></span> :\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"var time = 9;<br>if (time &gt;= 5 &amp;&amp; time <= 6) {<br> console.log(\\\"sleep well\\\");<br>}<br>else if (time &gt;= 6 &amp;&amp; time <= 7) {<br> console.log(\\\"Morning Exercise\\\");<br>}<br>else if(time &gt; 7 &amp;&amp; time < 8.30){<br> console.log(\\\"Break+Breakfast\\\");<br>}<br>else if ( time &gt; 8.30 &amp;&amp; time < 12){<br> console.log(\\\"Study\\\");<br>}<br> <br>// Try for these time values and understand yourself <br>// what is the <span style=\"\">output</span> will come<br>// time= 5<br>// time=8<br>// time=10\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"solution\",<br>        \"value\": \"Study\"<br>    }<br>]"
+	}
+]

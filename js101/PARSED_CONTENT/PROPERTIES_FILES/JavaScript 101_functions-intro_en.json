@@ -1,0 +1,6 @@
+{
+	"functions-intro_key1": "Convert the print list to a function and perform different operations on list and print this list\n\n\n",
+	"functions-intro_key2": "function printList(listToPrint) {\n        var listLength = listToPrint.length;\n        var index = 0;\n        while(index < listLength)\n            console.log(listToPrint[i]);\n            index = index + 1;\n        }\n}\n",
+	"functions-intro_key3": "var taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];\ntaskList.push('Be honest');\nprintList(taskList)\n",
+	"functions-intro_key4": "taskList.splice(0, 1)\nprintList(taskList)\n"
+}

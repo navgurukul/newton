@@ -1,0 +1,8 @@
+{
+	"StringExercises_key1": "Exercises:",
+	"StringExercises_key2": "Write a program that contains a variable name as firstName and assign the value of your first name?<br><br>",
+	"StringExercises_key3": "What is the output of the following code?<br><br>",
+	"StringExercises_key4": "What is the error in this code?<br><br>",
+	"StringExercises_key5": "Declare a variable named city without declaring a value it. Then, in a second statement, assign it a string.<br><br>",
+	"StringExercises_key6": "If a number is enclosed in quotes, it's a <b><i></b></i>.<br><br>"
+}

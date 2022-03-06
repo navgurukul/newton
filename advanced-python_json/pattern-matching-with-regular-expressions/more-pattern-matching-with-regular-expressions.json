@@ -1,0 +1,104 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "More Pattern Matching with Regular Expressions"
+	},
+	{
+		"component": "text",
+		"value": "Now that you know the basic steps for creating and finding regular expression objects with <span style=\"\">Python</span>, you’re ready to try some of their more powerful pattern-matching capabilities."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Grouping with Parentheses"
+	},
+	{
+		"component": "text",
+		"value": "Say you want to separate the area <span style=\"\">code</span> from the rest of the phone number. Adding parentheses will create groups in the regex: (\\d\\d\\d)-(\\d\\d\\d-\\d\\d\\d\\d). Then you can use the group() match object method to grab the matching text from just one group."
+	},
+	{
+		"component": "text",
+		"value": "The first set of parentheses in a regex <span style=\"\">string</span> will be group 1. The second set will be group 2. By passing the <span style=\"\">integer</span> 1 or 2 to the group() match object method, you can grab different parts of the matched text. Passing 0 or nothing to the group() method will return the entire matched text. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> phoneNumRegex = re.compile(r'(\\d\\d\\d)-(\\d\\d\\d-\\d\\d\\d\\d)')<br>>>> mo = phoneNumRegex.search('My number is 415-555-4242.')<br>>>> mo.group(1)<br>'415'<br>>>> mo.group(2)<br>'555-4242'<br>>>> mo.group(0)<br>'415-555-4242'<br>>>> mo.group()<br>'415-555-4242'"
+	},
+	{
+		"component": "text",
+		"value": "If you would like to retrieve all the groups at once, use the groups() method—note the plural form for the name."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> mo.groups()<br>('415', '555-4242')<br>>>> areaCode, mainNumber = mo.groups()<br>>>> print(areaCode)<br>415<br>>>> print(mainNumber)<br>555-4242"
+	},
+	{
+		"component": "text",
+		"value": "Since mo.groups() returns a tuple of multiple values, you can use the multiple-assignment trick to assign each value to a separate <span style=\"\">variable</span>, as in the previous area<span style=\"\">Code</span>, mainNumber = mo.groups() line."
+	},
+	{
+		"component": "text",
+		"value": "Parentheses have a special meaning in regular expressions, but what do you do if you need to match a parenthesis in your text? For instance, maybe the phone numbers you are trying to match have the area <span style=\"\">code</span> set in parentheses. In this case, you need to escape the ( and ) characters with a backslash. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> phoneNumRegex = re.compile(r'(\\(\\d\\d\\d\\)) (\\d\\d\\d-\\d\\d\\d\\d)')<br>>>> mo = phoneNumRegex.search('My phone number is (415) 555-4242.')<br>>>> mo.group(1)<br>'(415)'<br>>>> mo.group(2)<br>'555-4242'"
+	},
+	{
+		"component": "text",
+		"value": "The ( and ) escape characters in the raw <span style=\"\">string</span> passed to re.compile() will match actual parenthesis characters."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Matching Multiple Groups with the Pipe"
+	},
+	{
+		"component": "text",
+		"value": "The | character is called a pipe. You can use it anywhere you want to match one of many expressions. For example, the regular expression r'Batman|Tina Fey' will match either 'Batman' or 'Tina Fey'."
+	},
+	{
+		"component": "text",
+		"value": "When both Batman and Tina Fey occur in the searched <span style=\"\">string</span>, the first occurrence of matching text will be returned as the Match object. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> heroRegex = re.compile (r'Batman|Tina Fey')<br>>>> mo1 = heroRegex.search('Batman and Tina Fey.')<br>>>> mo1.group()<br>'Batman'<br><br>>>> mo2 = heroRegex.search('Tina Fey and Batman.')<br>>>> mo2.group()<br>'Tina Fey'"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "You can find all matching occurrences with the findall() method that’s discussed in The findall() Method."
+	},
+	{
+		"component": "text",
+		"value": "You can also use the pipe to match one of several patterns as part of your regex. For example, say you wanted to match any of the <span style=\"\">strings</span> 'Batman', 'Batmobile', 'Batcopter', and 'Batbat'. Since all these <span style=\"\">strings</span> start with Bat, it would be nice if you could specify that prefix only once. This can be done with parentheses. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> batRegex = re.compile(r'Bat(man|mobile|copter|bat)')<br>>>> mo = batRegex.search('Batmobile lost a wheel')<br>>>> mo.group()<br>'Batmobile'<br>>>> mo.group(1)<br>'mobile'"
+	},
+	{
+		"component": "text",
+		"value": "The method call mo.group() returns the full matched text 'Batmobile', while mo.group(1) returns just the part of the matched text inside the first parentheses group, 'mobile'. By using the pipe character and grouping parentheses, you can specify several alternative patterns you would like your regex to match."
+	},
+	{
+		"component": "text",
+		"value": "If you need to match an actual pipe character, escape it with a backslash, like |."
+	}
+]

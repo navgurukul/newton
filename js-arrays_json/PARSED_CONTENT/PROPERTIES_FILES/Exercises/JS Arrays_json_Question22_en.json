@@ -1,0 +1,6 @@
+{
+	"Question22_key1": "var mainStr = \"the quick brown fox jumped over the lazy dog. the dog slept over the verandah.\"",
+	"Question22_key2": "subStr = \"over\"",
+	"Question22_key3": "You need to remove the all occurrences of subStr in mainStr and give the <span style=\"\">output</span>",
+	"Question22_key4": "<span style=\"\">Output</span>: the quick brown fox jumped the lazy dog. The dog slept on the verandah."
+}

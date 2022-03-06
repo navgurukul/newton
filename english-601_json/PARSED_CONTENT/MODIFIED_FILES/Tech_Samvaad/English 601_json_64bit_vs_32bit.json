@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "64bit_vs_32bit_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "8Q5GfoSZ54c"
+  },
+  {
+    "component": "youtube",
+    "value": "hv1xTnaLsRg"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "64bit_vs_32bit_key2"
+  },
+  {
+    "component": "text",
+    "value": "64bit_vs_32bit_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "64bit_vs_32bit_key4"
+  },
+  {
+    "component": "text",
+    "value": "64bit_vs_32bit_key5"
+  },
+  {
+    "component": "text",
+    "value": "64bit_vs_32bit_key6"
+  },
+  {
+    "component": "text",
+    "value": "64bit_vs_32bit_key7"
+  }
+]

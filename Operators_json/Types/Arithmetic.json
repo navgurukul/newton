@@ -1,0 +1,264 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "ARITHMETIC <span style=\"\">OPERATORS</span>"
+	},
+	{
+		"component": "text",
+		"value": "We use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">arithmetic operators</span> just like we do in mathematics, to perform common calculations with numeric values (numbers)."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "`OPERATORS",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">+</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">-</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">*</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">/</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">%</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">**</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">//</span>"
+				]
+			},
+			{
+				"header": "NAME",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Addition</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtraction</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponents</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division</span>"
+				]
+			},
+			{
+				"header": "EXAMPLE",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 + 5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 - 5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 * 5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 / 5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 % 5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 ** 5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2 // 5</span>"
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Addition(+) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">addition operator (+)</span> is used to add or calculate the sum of values. "
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=25<br>y=10<br>print(x+y)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "35"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtraction(-):-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">subtraction operator (-)</span> is used to subtract or calculate the difference in values."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "var1=5<br>var2=3<br>print(var1-var2)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "2"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply(*) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">multiplication operator (*)</span> is used to multiply or calculate the product of values."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=2<br>b=3<br>print(a*b)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "6"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Now you know how ARITHMETIC <span style=\"\">OPERATORS</span> work and How do we get <span style=\"\">output</span> in <span style=\"\">python</span>. Do you know how the computer gives us the <span style=\"\">output</span>? If don't watch this video"
+	},
+	{
+		"component": "youtube",
+		"value": "DKGZlaPlVLY&t=3s"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division(/):-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">division operator (/)</span> is used to divide or calculate the quotient of division of values."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=5<br>y=2<br>print(x/y)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "2.5"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus(%) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">modulus operator (%)</span> is used to find the remainder of division of one value by another. It gives you only the remainder and not the quotient of division."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num=5<br>num1=2<br>print(num%num1)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponents(**) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">exponent/exponentiation operator (**)</span> is used to raise one number to the power of the value of the second number such that 2 raised to the power of 3 which is 8 will be written as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">2**3</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=2<br>y=5<br>print(x**y)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "32"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division(//) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">floor division operator (//)</span> is used to calculate the largest <span style=\"\">integer</span> quotient of a division. This means that it will only give you the quotient of division until the number can be divided. It follows the rule:-<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Dividend = Quotient x Divisor + Remainder</span>. So, in floor division the answer for <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3//2 is 1</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5//8 is 0</span>. It does not go into decimal and only gives you the highest quotient. You can think of it like division when you first learned it, you did not know how to divide with decimals so you only calculated the answer until the number could be divided."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=15<br>b=2<br>print(a//b)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "7"
+	}
+]

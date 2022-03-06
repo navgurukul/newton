@@ -1,0 +1,54 @@
+[
+  {
+    "component": "text",
+    "value": "Problem-in-var_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var aadharCardNumber= \"abcd1234\"<br>var aadharCardNumber=\"xyz0987\"<br>console.log(aadharCardNumber); // xyz0987"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Problem-in-var_key2"
+  },
+  {
+    "component": "text",
+    "value": "Problem-in-var_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Problem-in-var_key4"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "isHeUsingAtm = true<br>if (isHeUsingAtm){<br>   var secretPin=1234<br>   console.log('please use Atm');<br>   console.log('while using Atm :'+secretPin);<br>   console.log('Thank you for using Atm');<br> <br>}<br>console.log('After using Atm :'+ secretPin);"
+  },
+  {
+    "component": "header",
+    "variant": 5,
+    "value": "Problem-in-var_key5"
+  },
+  {
+    "component": "text",
+    "value": "Problem-in-var_key6"
+  },
+  {
+    "component": "text",
+    "value": "Problem-in-var_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Problem-in-var_key8"
+  },
+  {
+    "component": "text",
+    "value": "Problem-in-var_key9"
+  }
+]

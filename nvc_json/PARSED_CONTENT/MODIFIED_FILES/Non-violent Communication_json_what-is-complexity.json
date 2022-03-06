@@ -1,0 +1,19 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "what-is-complexity_key1"
+  },
+  {
+    "component": "text",
+    "value": "what-is-complexity_key2"
+  },
+  {
+    "component": "text",
+    "value": "what-is-complexity_key3"
+  },
+  {
+    "component": "text",
+    "value": "what-is-complexity_key4"
+  }
+]

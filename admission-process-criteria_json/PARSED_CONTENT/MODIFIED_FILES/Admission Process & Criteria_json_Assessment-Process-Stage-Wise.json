@@ -1,0 +1,152 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Assessment-Process-Stage-Wise_key1"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key2"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key8"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key12"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key16"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key17",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key19"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key20",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key21",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key22"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key23"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key24"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key25"
+  },
+  {
+    "component": "text",
+    "value": "Assessment-Process-Stage-Wise_key26"
+  }
+]

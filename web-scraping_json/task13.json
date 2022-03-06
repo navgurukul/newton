@@ -1,0 +1,37 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Task 13"
+	},
+	{
+		"component": "text",
+		"value": "<b>Task 12</b> mein aapne ek movie ki cast ki details nikaalne ka function toh likh liya."
+	},
+	{
+		"component": "text",
+		"value": "Lekin abhi tak humra <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_details</span> wala function caste ki details nhi nikaal raha. Sirf movie ki details nikaal raha hai. Uss function edit kar ke aise change karo ki wahi function caste ke URL ke saath apne andar se <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_cast</span> wala function call kar raha hai."
+	},
+	{
+		"component": "text",
+		"value": "Toh finally aapke <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_details</span> waale function ko yeh dictionary return karni hogi:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "{<br>&emsp;\"name\": \"Anand\"<br>&emsp;\"director\": [\"Hrishikesh Mukherjee\"],<br>&emsp;\"country\": \"India\",<br>&emsp;\"language\": [\"Hindi\"],<br>&emsp;\"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>&emsp;\"bio\": \"The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.\",<br>&emsp;\"runtime\": 183,<br>&emsp;\"genre\": [<br>&emsp;&emsp;\"Drama\"<br>&emsp;]<br>  \"cast\": [<br>&emsp;{<br>&emsp;  \"imdb_id\": \"nm0004435\",<br>&emsp;  \"name\": \"Rajesh Khanna\"<br>&emsp;},<br>&emsp;{<br>&emsp;  \"imdb_id\": \"nm0000821\",<br>&emsp;  \"name\": \"Amitabh Bachan\"<br>&emsp;},<br>&emsp;{},<br>&emsp;{},<br>&emsp;{},<br>&emsp;{}<br>  ]<br>}"
+	},
+	{
+		"component": "text",
+		"value": "Dekho ki kaise <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_cast</span> wale function ki returned list issi dictionary mein ek <span style=\"\">key</span> ki value hai."
+	},
+	{
+		"component": "text",
+		"value": "Finally apna <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get_movie_list_details</span> wala function bhi chala ke test karo ki woh ab movie ki details aur cast saari ek list mein return kar raha hai."
+	},
+	{
+		"component": "text",
+		"value": "Saath saath yeh bhi test kar lo ki aapka <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_cast</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">scrape_movie_details</span> wale function aapki caching functionality kaam karni chaiye."
+	}
+]

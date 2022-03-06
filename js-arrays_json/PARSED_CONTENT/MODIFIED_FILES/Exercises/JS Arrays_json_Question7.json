@@ -1,0 +1,34 @@
+[
+  {
+    "component": "text",
+    "value": "Question7_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question7_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question7_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question7_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question7_key5"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7];<br>var count_element=0;<br>for(var i=0; i<numbers.length;i++){<br>   count_element++<br>}<br>console.log(count_element);"
+  }
+]

@@ -1,0 +1,71 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chapter 3"
+	},
+	{
+		"component": "text",
+		"value": "Functions reduce the need for duplicate <span style=\"\">code</span>. This makes programs shorter, easier to read, and easier to update."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">code</span> in a function <span style=\"\">executes</span> when the function is called, not when the function is defined."
+	},
+	{
+		"component": "text",
+		"value": "The def <span style=\"\">statement</span> defines (that is, creates) a function."
+	},
+	{
+		"component": "text",
+		"value": "A function consists of the def <span style=\"\">statement</span> and the <span style=\"\">code</span> in its def clause."
+	},
+	{
+		"component": "text",
+		"value": "A function call is what moves the program execution into the function, and the function call evaluates to the function’s return value."
+	},
+	{
+		"component": "text",
+		"value": "There is one global scope, and a local scope is created whenever a function is called."
+	},
+	{
+		"component": "text",
+		"value": "When a function returns, the local scope is destroyed, and all the <span style=\"\">variables</span> in it are forgotten."
+	},
+	{
+		"component": "text",
+		"value": "A return value is the value that a function call evaluates to. Like any value, a return value can be used as part of an expression."
+	},
+	{
+		"component": "text",
+		"value": "If there is no return <span style=\"\">statement</span> for a function, its return value is None."
+	},
+	{
+		"component": "text",
+		"value": "A global <span style=\"\">statement</span> will force a <span style=\"\">variable</span> in a function to refer to the global <span style=\"\">variable</span>."
+	},
+	{
+		"component": "text",
+		"value": "The data type of None is NoneType."
+	},
+	{
+		"component": "text",
+		"value": "That import <span style=\"\">statement</span> imports a module named areallyourpetsnamederic. (This isn’t a real <span style=\"\">Python</span> module, by the way.)"
+	},
+	{
+		"component": "text",
+		"value": "This function can be called with spam.bacon()."
+	},
+	{
+		"component": "text",
+		"value": "Place the line of <span style=\"\">code</span> that might cause an <span style=\"\">error</span> in a try clause."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">code</span> that could potentially cause an <span style=\"\">error</span> goes in the try clause."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">code</span> that <span style=\"\">executes</span> if an <span style=\"\">error</span> happens goes in the except clause."
+	}
+]

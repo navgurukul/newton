@@ -1,0 +1,11 @@
+{
+	"sab-saath-mei_key1": "All together\n",
+	"sab-saath-mei_key2": "Write a `code` that works for all lists. It should print the `output` as the following like for all the `odd numbers` and all the `even numbers` and for all the numbers in the given list, it should calculate the following :\n",
+	"sab-saath-mei_key3": "count\n",
+	"sab-saath-mei_key4": "sum\n",
+	"sab-saath-mei_key5": "average\n\n\n",
+	"sab-saath-mei_key6": "and then print it.\n",
+	"sab-saath-mei_key7": "Sample `Input`\n",
+	"sab-saath-mei_key8": "Sample `Output`\n",
+	"sab-saath-mei_key9": "count of odd numbers  .... \ncount of even numbers ....\ncount of all the numbers .... \nsum of odd numbers ....\nsum of even numbers ....\nsum of all the numbers .... \naverage of odd numbers ....\naverage of even numbers .... \naverage of all the numbers ka ....\n"
+}

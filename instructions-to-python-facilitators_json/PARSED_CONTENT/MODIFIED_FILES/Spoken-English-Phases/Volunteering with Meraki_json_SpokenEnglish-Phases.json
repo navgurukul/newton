@@ -1,0 +1,183 @@
+[
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key1"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key2"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key3"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key4"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key5"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key6"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "SpokenEnglish-Phases_key9"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "SpokenEnglish-Phases_key17"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key19",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key20",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key21",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key22"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key23"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key24"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key25"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key26"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key27"
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key28",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key29",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key30",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "SpokenEnglish-Phases_key31",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  }
+]

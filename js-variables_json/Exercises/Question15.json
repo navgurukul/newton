@@ -1,0 +1,16 @@
+[
+	{
+		"component": "text",
+		"value": "Fill in the bank that displays “You won”?"
+	},
+	{
+		"component": "text",
+		"value": "<b><i></b></i>(\"You won!\");"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "solution",
+		"value": "console.log(“ You won!”);"
+	}
+]

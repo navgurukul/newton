@@ -1,0 +1,18 @@
+[
+  {
+    "component": "text",
+    "value": "Question-2_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var x = 10;<br>var y = 12<br>var z = 90<br> <br>if (x > y){<br>  if (x < z){<br>      x = y<br>  }<br>  else{<br>      m = z<br>  }<br>}<br>else {<br>  if(y > z){<br>      m = y<br>  }<br>  else {<br>      m = x<br>  }<br>   <br>}<br>console.log(m)<br>"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "10"
+  }
+]

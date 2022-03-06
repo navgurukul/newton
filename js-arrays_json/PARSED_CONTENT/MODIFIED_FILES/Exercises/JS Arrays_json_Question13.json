@@ -1,0 +1,35 @@
+[
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Question13_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question13_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question13_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question13_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question13_key5"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var marks = [<br>   [78, 76, 94, 86, 88],<br>   [91, 71, 98, 65, 76],<br>   [95, 45, 78, 52, 49]<br>];<br>var sum=0;<br>for(var i of marks){<br>   for(var j of i){<br>       sum+=j<br>   }<br>}<br>console.log(sum);<br>"
+  }
+]

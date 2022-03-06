@@ -1,0 +1,34 @@
+[
+	{
+		"component": "text",
+		"value": "Write the program, to find the max element of the array,and console it."
+	},
+	{
+		"component": "text",
+		"value": "Sample <span style=\"\">Input</span>:"
+	},
+	{
+		"component": "text",
+		"value": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7]"
+	},
+	{
+		"component": "text",
+		"value": "sample <span style=\"\">Output</span>:"
+	},
+	{
+		"component": "text",
+		"value": "70"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7];<br>var max_num=0;<br>for(var i=0; i<numbers.length;i++){<br>   if (numbers[i]>max_num){<br>       max_num=numbers[i]<br> <br>   }<br>}<br>"
+	}
+]

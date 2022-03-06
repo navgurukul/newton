@@ -1,0 +1,275 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Simple Future Tense"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "First see this video."
+	},
+	{
+		"component": "text",
+		"value": "@<a href=\"https://www.youtube.com/watch?v=rSTGU4cs9wY\">First video.</a>"
+	},
+	{
+		"component": "text",
+		"value": "@<a href=\"https://www.youtube.com/watch?v=c37Q_c_O9Jo\">Second video</a>"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Let's go to read about simple future tense."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Go to this tutorial for know about simple future tense."
+	},
+	{
+		"component": "text",
+		"value": "@<a href=\"http://grammar.ccc.commnet.edu/GRAMMAr/tenses/simple_future.htm\">English</a>\n@<a href=\"https://www.successcds.net/learn-english/simple-future-tense-definition-examples-types-exercise.html\">Hindi</a>"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Fill in the blanks:-"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"aaffirmativesentence\">(A). Affirmative sentence:-</h2>"
+	},
+	{
+		"component": "text",
+		"value": "He <b><i><i></i></b></i>___ eat.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "We <b><i><i></i></b></i>___ play.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "They <b><i><i></i></b></i>_ sing.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b><i><i></i></b><b></i></b> come tommarow.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "She <b><i><i></i></b></i>__ buy a laptop at the end of this month.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"bnegativesentence\">(B). Negative sentence:-</h2>"
+	},
+	{
+		"component": "text",
+		"value": "We <b><i><i></i></b></i>___ go to market today.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b><i><i></i></b><b></i></b> meet you.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Alice <b><i><i></i></b></i>_ help us decorate for the party.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"cinterrogativesentence\">(C). Interrogative sentence:-</h2>"
+	},
+	{
+		"component": "text",
+		"value": "<b><i><i></i></b></i> you meet me.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b><i><i></i></b></i> you marry me.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b><i><i></i></b></i>_ Dave burn the CD for you?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"dmixsentence\">(D) Mix sentence:-</h2>"
+	},
+	{
+		"component": "text",
+		"value": "Sam <b><i>_</i></b> the documents over to you tomorrow. (bring)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The managers <b><i><i></i></b></i> about the budget until next Thursday. (not decide)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b><i><i></i></b> your sister <b></i></b>_ in a large church? (get married)",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b><i><i></i></b></i> he <b>_</b> you move to your new apartment? (not help)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "I <b><i><i></i></b></i>_ him this time. He mustn’t do that again. (forgive)",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"einfinitivesentencesbr1ben__________mrdavistogivehimagoodgradepersuadebr2we__________arefundonthattvthatbrokedowndemandbr3________msthompson__________youextraforthatworkpaybr4i_______losangelesnextyearleavebr5turner_______acarwhenhelandsattheairporthirehelltakethetrain\">(E). Infinitive sentences:-<br>1.Ben<b><i><i></i></b><b></i> Mr. Davis to give him a good grade. (persuade)<br>2.We <b><i><i></i></b></b></i> a refund on that TV that broke down. (demand)<br>3. <b><i><i></i></b></i>Ms. Thompson <b><i><i></i></b></i>__ you extra for that work?(pay)<br>4.I <b><i><i></i></b> Los Angeles next year. (leave)<br>5.Turner <b><i></i></i></b> a car when he lands at the airport. (hire) He’ll take the train.</h2>"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"exercise1\">Exercise1</h2>\n@<a href=\"https://www.perfect-english-grammar.com/simple-future-exercise-1.html\">more practice</a>\n@<a href=\"https://www.englisch-hilfen.de/en/exercises/tenses/future.htm\">practice1</a>\n@<a href=\"https://www.ego4u.com/en/cram-up/grammar/future-1-will/exercises\">using will</a>"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"aanswer\">(A) Answer</h2>"
+	},
+	{
+		"component": "text",
+		"value": "will",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "shall",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "will",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "will",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "will",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"banswer\">(B) Answer</h2>"
+	},
+	{
+		"component": "text",
+		"value": "will not",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "will not",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "will not",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"canswerbr1willbr2willbr3will\">(C) Answer<br>1.will<br>2.will<br>3.will</h2>"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"danswerbr1willbringbr2wontdecidebr3willgetmarriedbr4wonthelpbr5willforgive\">(D) Answer<br>1.will bring <br>2.won’t decide<br>3.Will/ get married<br>4. Won’t/help<br>5. will forgive</h2>"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"eanswerbr1isgoingtopersuadebr2aregoingtodemandbr3isgoingtopaybr4amgoingtoleavebr5isntgoingtohire\">(E) Answer<br>1.is going to persuade<br>2.are going to demand<br>3.Is/going to pay<br>4. am going to leave<br>5.isn’t going to hire</h2>"
+	}
+]

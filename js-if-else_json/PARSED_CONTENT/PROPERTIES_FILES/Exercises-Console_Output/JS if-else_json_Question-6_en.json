@@ -1,0 +1,6 @@
+{
+	"Question-6_key1": "You have a <span style=\"\">variable</span> called var num1 with the value as shown:",
+	"Question-6_key2": "var num1 = 300 - 123",
+	"Question-6_key3": "Take one user <span style=\"\">input</span> and check that number is equal or not.",
+	"Question-6_key4": "If the new user <span style=\"\">input</span> is equal to num1, console <b>\"Equal\"</b> else console  <b>\"Not equal\"</b>."
+}

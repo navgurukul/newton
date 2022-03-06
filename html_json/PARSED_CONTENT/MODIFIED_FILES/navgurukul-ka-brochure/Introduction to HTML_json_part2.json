@@ -1,0 +1,22 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "part2_key1"
+  },
+  {
+    "component": "text",
+    "value": "part2_key2"
+  },
+  {
+    "component": "text",
+    "value": "part2_key3"
+  },
+  {
+    "component": "text",
+    "value": "part2_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

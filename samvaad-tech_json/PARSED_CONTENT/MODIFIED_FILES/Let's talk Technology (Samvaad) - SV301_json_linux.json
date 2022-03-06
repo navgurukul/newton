@@ -1,0 +1,117 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "linux_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "IslerGR3Ptc"
+  },
+  {
+    "component": "youtube",
+    "value": "xRX6ZI_P-LA&vl=en"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "linux_key2"
+  },
+  {
+    "component": "text",
+    "value": "linux_key3"
+  },
+  {
+    "component": "text",
+    "value": "linux_key4"
+  },
+  {
+    "component": "text",
+    "value": "linux_key5"
+  },
+  {
+    "component": "text",
+    "value": "linux_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key9",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key10",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key11",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key12",
+    "decoration": {
+      "type": "number",
+      "value": 7
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key13",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "linux_key14"
+  },
+  {
+    "component": "text",
+    "value": "linux_key15",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "linux_key16",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  }
+]

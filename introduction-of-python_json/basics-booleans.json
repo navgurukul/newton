@@ -1,0 +1,110 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "What are Booleans ?"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Booleans</span> are  special type of constants, (till now we have studied about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Strings</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Integers</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floats</span> )."
+	},
+	{
+		"component": "text",
+		"value": "Boolean values are of two types:"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> ",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "These <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean</span> values help us in doing some interesting things. We can use them to do some really interesting work."
+	},
+	{
+		"component": "text",
+		"value": "If any <span style=\"\">variable</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> then we tell the computer to do something and if it is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> then we tell the computer to do something else."
+	},
+	{
+		"component": "text",
+		"value": "As of know this much understanding is enough but we will study it in depth further :)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Operators</span> that give Boolean answers."
+	},
+	{
+		"component": "text",
+		"value": "Whenever we ask any question to computer then we use some special type of <span style=\"\">operators</span> to ask these questions. These <span style=\"\">operators</span> always give answers in Boolean form i.e. either <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True or False</span>. All the <span style=\"\">operators</span> are listed in the <span style=\"\">tab</span>le given below."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "<b>`Operator</b>",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">==</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&gt;=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&gt;</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">!=</span>"
+				]
+			},
+			{
+				"header": "<b>Meaning</b>",
+				"items": [
+					"Which is lesser?",
+					"Which is less than equal to?",
+					"Which is equal?",
+					"Which is greater than equal to?",
+					"Which is greater?",
+					"Which is not equal to?"
+				]
+			},
+			{
+				"header": "<b>Example</b>",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">7 &lt; 6</span> # False Why because 7 is greater than 6<br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6 &lt; 10</span> # True Because  6  is less than 10",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">7 &lt;= 10</span> #True because 7 is less than 10 <br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">23 &lt;= 23</span> # True because 23 is equal to 23",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx = 10</span> <br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx == 10</span> # True because varx is equal to 10 <br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">67 == 43</span> # False because 67 is not equal to 43",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">56 &gt;= 32</span> # True Because 56 is greater than 32  <br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">43 &gt;= 70</span> # False because 43 is neither greater nor equal to 70 .",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1 = 43</span> <br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1 &gt; 20</span> # True because number1 contains value 43 which is greater than 20 .",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">45 != 45</span> # False because 45 is equal to 45 <br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">45 != 34</span> # True because 45 is not equal to 34."
+				]
+			}
+		]
+	},
+	{
+		"component": "text",
+		"value": "Play with all these <span style=\"\">operators</span> in <span style=\"\">Python</span> <span style=\"\">shell</span>. You will gain a better understanding."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print(4 < 5) # True"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "print(56 == 45) # False"
+	},
+	{
+		"component": "text",
+		"value": "If you will use these <span style=\"\">operators</span> in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Python shell</span> then it will automatically show its Boolean answer."
+	}
+]

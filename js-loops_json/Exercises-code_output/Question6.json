@@ -1,0 +1,24 @@
+[
+	{
+		"component": "text",
+		"value": "write a program to console all the numbers from 1 to 100."
+	},
+	{
+		"component": "text",
+		"value": "Sample : <span style=\"\">Input</span> 100"
+	},
+	{
+		"component": "text",
+		"value": "Sample <span style=\"\">output</span> : "
+	},
+	{
+		"component": "text",
+		"value": "1<br>2 <br>3 <br>4 <br>5 <br>6 <br>… <br>………<br>………<br>100"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	}
+]

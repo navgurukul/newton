@@ -1,0 +1,64 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "StringQ_key1"
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "StringQ_key3"
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key7",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key8",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "StringQ_key9",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  }
+]

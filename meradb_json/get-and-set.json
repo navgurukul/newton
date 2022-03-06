@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Get and Set"
+	},
+	{
+		"component": "text",
+		"value": "Ab aapko jo <span style=\"\">code</span> humne peechle part mei samjha tha, usko modify karna hai. Usmei aap ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">set</span> naam ka function define karna hai class mei."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Get"
+	},
+	{
+		"component": "text",
+		"value": "Get as an argument ek <span style=\"\">key</span> lega, aur uske corresponding value return kar dega."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Set"
+	},
+	{
+		"component": "text",
+		"value": "Set as an argument ek <span style=\"\">key</span> aur corresponding value lega, aur usko jObject mei daal dega. Isse jab dump function call hoga, toh apne aap woh values da<span style=\"\">tab</span>ase mei add ho jayengi."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Testing"
+	},
+	{
+		"component": "text",
+		"value": "Apne dono functions ko acche se test karo, aur check karo jo values aapne set karne ke baad dump ki hai, woh da<span style=\"\">tab</span>ase mei likhi jaa chuki hai."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Edge Case"
+	},
+	{
+		"component": "text",
+		"value": "Jab <span style=\"\">key</span> exist nahi karti toh aapka program kya return karta hai? Kya aapne <span style=\"\">code</span> karte hue, iss case ko consider kiya tha?"
+	}
+]

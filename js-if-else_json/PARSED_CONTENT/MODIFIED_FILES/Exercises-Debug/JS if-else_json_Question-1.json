@@ -1,0 +1,12 @@
+[
+  {
+    "component": "text",
+    "value": "Question-1_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let isTrue = \"True\";<br>if(isTrue){<br>  console.log(\"Output should show\")<br>}<br>if(isTrue === \"False\"){<br>  console.log(\"Both are same\")<br>}<br>else {<br>  console.log(\"Please run it. if all conditions false\")<br>}"
+  }
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "number = input(\"please enter a decimal number\")<br>print(\"your number divided by 2 is equal to = \" + number/2)"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Debug <span style=\"\">Code</span>"
+	},
+	{
+		"component": "text",
+		"value": "Now we will debug the <span style=\"\">code</span> of function."
+	}
+]

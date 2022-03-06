@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "03```ngMeta<br>name: Lists"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "<br>python<br>a = [32, 23, 46, 19, 90, 12, 23, 95, 100, 1]<br><br>l = len(a)<br>while (i < l/2):<br>    a[i] = a[l-i]<br><br>print a"
+	},
+	{
+		"component": "text",
+		"value": "Yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">program</span> kya karta hai, yeh acche se samjhe aur <span style=\"\">code</span> karne ke style ko bhi samjhein."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = [32, 23, 46, 19, 90, 12, 23, 95, 100, 1]<br>l = len(a)<br>i = 0<br>s = 0<br>m1 = a[0]<br>m2 = a[0]<br>while (i < l):<br>    s += a[i]<br>    if a[i] > m1:<br>        m1 = a[i]<br>    if a[i] < m1:<br>        m2 = a[i]<br>    i = i + 1<br>print s, m1, m2"
+	},
+	{
+		"component": "text",
+		"value": "Yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">program</span> kya karta hai, yeh acche se samjhein. Iss program ko dobara bina dekhe <b>proper <span style=\"\">variable</span> names</b> ke saath, bina dekhein likhnein ki koshish karein."
+	}
+]

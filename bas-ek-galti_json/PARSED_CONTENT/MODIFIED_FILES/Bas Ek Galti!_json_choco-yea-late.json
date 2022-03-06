@@ -1,0 +1,14 @@
+[
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a=1<br>while(a<=100):<br>    if(a%3==0):<br>        print(\"choco\")<br>    elif(a%7):<br>        print(\"late\")<br>    elif(a%3==0 and a%7==0):<br>        print(\"Chocotate\")<br>    else:<br>        print(\"Not divisible by 3 ,7\")<br>    a=a+1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>while( i < 100):<br>  if (a%3==0):<br>    print(\"choco\")<br>  elif a%4==0:<br>    print(\"late\")"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "component": "text",
+    "value": "debugging-question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key5",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "from random import randint # allows you to generate a random number<br><br># variables for the alien<br>alive = True<br>stamina = 10<br><br># this function runs each time you attack the alien<br>def report(stamin):<br># syntactic error in if else statements<br>&emsp;if s > 8:<br>&emsp;&emsp;print (\"The alien is strong! It resists your pathetic attack!\")<br>&emsp;else: s > 5<br>&emsp;&emsp;print (\"With a loud grunt, the alien stands firm.\")<br>&emsp;else s > 3:<br>&emsp;&emsp;print (\"Your attack seems to be having an effect! The alien stumbles!\")<br>&emsp;else s > 0:<br>&emsp;&emsp;print (\"The alien is certain to fall soon! It staggers and reels!\")<br>&emsp;else:<br>&emsp;&emsp;print (\"That's it! The alien is finished!\")<br><br># main function - accepts your input for fight with the alien<br>def fight(stam): # stamina<br>&emsp;while stam < 0:<br>&emsp;  # won't enter this loop ever. The function will always return False.<br>&emsp;&emsp;response = input(\"> Enter a move 1.Hit 2.attack 3.fight 4.run\")<br>&emsp;&emsp;# chose a response from ( hit, attack, fight and run)<br>&emsp;&emsp;# fight scene<br>&emsp;&emsp;if \"hit\" in response or \"attack\" in response:<br>&emsp;&emsp;&emsp;less = randint(0, stam)<br>&emsp;&emsp;&emsp;stam -= less # subtract random int from stamina<br>&emsp;&emsp;&emsp;report(stam) # see function above<br>&emsp;&emsp;elif \"fight\" in response:<br>&emsp;&emsp;&emsp;print (\"Fight how? You have no weapons, silly space traveler!\")<br>&emsp;&emsp;elif \"run\" in response:<br>&emsp;&emsp;&emsp;print (\"Sadly, there is nowhere to run.\"),<br>&emsp;&emsp;&emsp;print (\"The spaceship is not very big.\")<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print (\"The alien zaps you with its powerful ray gun!\")<br>&emsp;&emsp;&emsp;return True<br>&emsp;return False<br><br>print (\"A threatening alien wants to fight you!\\n)<br># quotes at the end.<br><br># call the function - what it returns will be the value of alive<br>alive = fight(stamina)<br><br>if alive: # means if alive == True<br>&emsp;print (\"\\nThe alien lives on, and you, sadly, do not.\\n\")<br>else:<br>&emsp;print (\"\\nThe alien has been vanquished. Good work!\\n\")"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question4_key7"
+  }
+]

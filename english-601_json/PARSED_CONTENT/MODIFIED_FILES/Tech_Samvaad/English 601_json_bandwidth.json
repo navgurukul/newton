@@ -1,0 +1,73 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "bandwidth_key1"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key2"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "bandwidth_key4"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key5"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key6"
+  },
+  {
+    "component": "youtube",
+    "value": "2qpFgKVmyMc"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "bandwidth_key7"
+  },
+  {
+    "component": "youtube",
+    "value": "4i3pmmXuS8s"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "bandwidth_key8"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "bandwidth_key9"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key10"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "bandwidth_key11"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key12"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "bandwidth_key13"
+  },
+  {
+    "component": "text",
+    "value": "bandwidth_key14"
+  }
+]

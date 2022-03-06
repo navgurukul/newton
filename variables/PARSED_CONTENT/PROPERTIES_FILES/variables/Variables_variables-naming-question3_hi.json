@@ -1,0 +1,5 @@
+{
+    "variables-naming-question3_key1": "नाम: चर नामकरण व्यायाम 3\nसबमिशन_टाइप: यूआरएल\n",
+    "variables-naming-question3_key2": "## सवाल\n\n\n",
+    "variables-naming-question3_key3": "1. एक `VARIABLE` को INTEGER मान असाइन करें जिसका नाम `var.123` है।\n2. अगर आपका `code` आसानी से चलता है तो `upload` इसे। अगर यह नहीं चलता है तो कमेंट में कारण बताएं और फिर `upload` `code`।\n"
+}

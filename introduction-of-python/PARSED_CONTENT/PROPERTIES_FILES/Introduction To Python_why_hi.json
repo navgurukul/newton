@@ -1,0 +1,17 @@
+{
+    "why_key1": "अंग्रेजी में `Python` का परिचय\n\n",
+    "why_key2": "हिन्दी में `Python` का परिचय\n\n",
+    "why_key3": "`Python2` और `Python3` के बीच का अंतर\n",
+    "why_key4": "** `Python2` **\n",
+    "why_key5": "यह `python` का पुराना संस्करण है।\n",
+    "why_key6": "`Python2` का एक प्रिंट `statement` है।\n",
+    "why_key7": "में `Python2` छपाई करते समय हम इस तरह लिखते हैं,\n\n\n\n",
+    "why_key8": "`Python2` में हम raw_`input` ka उपयोग उपयोगकर्ता के लिए `input` का उपयोग करते हैं।\n\n\n",
+    "why_key9": "`Python2` में 31 `key` शब्द हैं।\n\n\n\n\n",
+    "why_key10": "** `Python3` **\n",
+    "why_key11": "यह `python` का नया संस्करण है।\n",
+    "why_key12": "`Python3` में एक प्रिंट() है।\n",
+    "why_key13": "`Python3` me में प्रिंट करते समय हम कोष्ठक () का उपयोग करते हैं।\n\n",
+    "why_key14": "`Python3` में हम उपयोगकर्ता के `input` के लिए `input` का उपयोग करते हैं।\n\n\n",
+    "why_key15": "`Python3` में 35 `key` शब्द हैं।\n"
+}

@@ -1,0 +1,60 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Basic Financial Literacy - Four"
+	},
+	{
+		"component": "text",
+		"value": "Income Tax",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Employee Benefits",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Retirement and Pensions",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Learn from Here"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://cleartax.in/s/income-tax-basics-for-beginners\">Basics of Income Tax for Beginners</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.peoplekeep.com/blog/small-business-101-the-definition-of-employee-benefits\">Employee Benefits</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.thebalance.com/what-is-a-pension-and-how-do-you-get-one-2388766\">What is a pension plan?</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

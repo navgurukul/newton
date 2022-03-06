@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 7"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# input ka use kar ke user se din aur abhi ka samay (lunch, dinner) input<br># leke uss samay ka menu print karvana hai. Abhi hum sirf monday aur tuesday ke<br># liye likh rahe hain<br># Monday aur Tuesday dono time daal roti banegi, bas Tuesday raat ko Pav Bhaji banegi<br># Neeche waale program mein jab tuesday daalte ho toh pav bhaji print nahi hota.<br># Isko sahi karo.<br>day = input(\"Aaj ka din kya hai? (monday/tuesday) > \")<br>time = input(\"Kaunse samay ka khana banana hai? (lunch/dinner) > \")<br>if day == \"monday\" or day == \"tuesday\":<br>&emsp;print(\"Daal-Roti banegi aaj\")<br>elif day == \"tuesday\" and time == \"dinner\":<br>&emsp;print(\"Pav-Bhaji banegi aaj toh :)\")"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
+	}
+]

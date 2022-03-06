@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "In this <span style=\"\">code</span>, name of the user should be printed but the <span style=\"\">code</span> is not running properly and not giving the correct <span style=\"\">output</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "name = [\"Savitri\", \"Phule\", \"26\"]<br># Ab hum iss list ko use karke poora naam (full name) print karna chaste hai<br>print(name[1]+name[2])<br># Code mei dekhiye naam theek se print kyu nahi ho raha"
+	},
+	{
+		"component": "text",
+		"value": "Correct this <span style=\"\">code</span> and <span style=\"\">upload</span> it."
+	}
+]

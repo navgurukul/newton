@@ -1,0 +1,9 @@
+{
+	"list-to-dictionary-function-for-fantasy-game-inventory_key1": "List to Dictionary Function for Fantasy Game Inventory\n",
+	"list-to-dictionary-function-for-fantasy-game-inventory_key2": "Imagine that a vanquished dragon’s loot is represented as a list of `strings` like this:\n",
+	"list-to-dictionary-function-for-fantasy-game-inventory_key3": "dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']\nWrite a function named addToInventory(inventory, addedItems), where the inventory parameter is a dictionary representing the player’s inventory (like in the previous project) and the addedItems parameter is a list like dragonLoot. The addToInventory() function should return a dictionary that represents the updated inventory. Note that the addedItems list can contain multiples of the same item. Your `code` could look something like this:\n",
+	"list-to-dictionary-function-for-fantasy-game-inventory_key4": "def addToInventory(inventory, addedItems):\n    # your `code` goes here\n",
+	"list-to-dictionary-function-for-fantasy-game-inventory_key5": "The previous program (with your displayInventory() function from the previous project) would `output` the following:\n",
+	"list-to-dictionary-function-for-fantasy-game-inventory_key6": "Inventory:\n45 gold coin\n1 rope\n1 ruby\n1 dagger\n",
+	"list-to-dictionary-function-for-fantasy-game-inventory_key7": "Total number of items: 48\n"
+}

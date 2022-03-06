@@ -1,0 +1,6 @@
+{
+	"part-4_key1": "<span style=\"\">Input</span> from the User",
+	"part-4_key2": "Now, everytime after asking the question, you need to take <span style=\"\">input</span> from the user ,so that he can guess about what will be the correct answer.",
+	"part-4_key3": "User can answer either 1, 2, 3 or 4.<br>Now, you have taken answer as an <span style=\"\">input</span> from the user, now you need to check if the user has given correct answer or not.",
+	"part-4_key4": "If the answer is correct then print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Congrats! Aapka answer sahi hai\"</span> otherwise<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Sadly aapka javab ga1lat hai.</span>"
+}

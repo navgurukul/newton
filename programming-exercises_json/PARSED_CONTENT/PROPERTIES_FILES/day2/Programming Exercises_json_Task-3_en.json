@@ -1,0 +1,10 @@
+{
+	"Task-3_key1": "Reading Material",
+	"Task-3_key2": "<b>Concatination</b><br>2 <span style=\"\">string</span> ko plus karne ko Concatination bolte hai",
+	"Task-3_key3": "Question",
+	"Task-3_key4": "Pichle wale question meh app ek <span style=\"\">string</span> di ja rahi ti jiske akhir me agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ing'</span> hogi toh ushe aage apko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ly'</span> add karna ta ab apko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ing'</span> ko hata ke <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">'ly'</span> add karna hai aur baki sab wese hi honge.",
+	"Task-3_key5": "Test",
+	"Task-3_key6": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare",
+	"Task-3_key7": "Hint",
+	"Task-3_key8": "No Hints"
+}

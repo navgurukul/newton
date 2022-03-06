@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "In the bellow <span style=\"\">code</span> there have some bugs. you have to find the bugs and solve it.<br>(number of bugs)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def calculate_sum(a,b):<br>&emsp;sum = a+b<br>&emsp;print(sum)<br>sum(4,5)<br>"
+	}
+]

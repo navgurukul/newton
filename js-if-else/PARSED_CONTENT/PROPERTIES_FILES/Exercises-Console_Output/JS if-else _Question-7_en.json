@@ -1,0 +1,5 @@
+{
+	"Question-7_key1": "You have a `variable` called number with the value as shown:\n",
+	"Question-7_key2": "var number1 = 44 * 30\n",
+	"Question-7_key3": "Check if this number1 is greater than or equal to number2. If the entered number2 is greater than or equal to number1, console  **\"number2 is greater than or equal\"** else console  **\"number2 is lesser\"**.\n"
+}

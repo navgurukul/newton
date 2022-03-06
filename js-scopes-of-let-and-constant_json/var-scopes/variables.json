@@ -1,0 +1,19 @@
+[
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "What is <span style=\"\">variable</span> scope?"
+	},
+	{
+		"component": "text",
+		"value": "Scope essentially means upto where in our programme we can access these <span style=\"\">variables</span> and are ready for use."
+	},
+	{
+		"component": "text",
+		"value": "In Javascript, the scope of a <span style=\"\">variable</span> is handled or controlled by the location where the <span style=\"\">variable</span> declaration has been declared."
+	},
+	{
+		"component": "text",
+		"value": "Scopings may differ from one language to another language. In Javascript, it has two scopes,<br>Local / Function and global scope."
+	}
+]

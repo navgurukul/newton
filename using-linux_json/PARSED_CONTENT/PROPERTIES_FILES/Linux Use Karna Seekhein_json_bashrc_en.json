@@ -1,0 +1,10 @@
+{
+	"bashrc_key1": "Using .bashrc <span style=\"\">file</span>",
+	"bashrc_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.bashrc</span> naam se ek <span style=\"\">file</span> aapki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">home directory</span> mei hogi. Jab bhi aap <span style=\"\">terminal</span> ka naya session kholte ho, toh woh <span style=\"\">file</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">execute</span> ho jaati hai.",
+	"bashrc_key3": "Aap uss <span style=\"\">file</span> ko apne kisi bhi pasand ke <span style=\"\">editor</span> mei khol kar, yeh content paste karein.",
+	"bashrc_key4": "Ab aap <span style=\"\">file</span> ko <span style=\"\">save</span> kar kar, close kar sakte hai.",
+	"bashrc_key5": "Ab aap ek naya <span style=\"\">terminal</span> ka window khol kar dekhein.",
+	"bashrc_key6": "Agar aapne galti nahi ki hogi, toh aapko apne <span style=\"\">terminal</span> mei \"I am learning programming\" dikhega.",
+	"bashrc_key7": "Dhyaan rakhein kyuki <span style=\"\">file</span> <span style=\"\">tab</span> <span style=\"\">execute</span> hoti hai - jab naya <span style=\"\">terminal</span> khulta hai toh, isliye, purane <span style=\"\">terminal</span> mei koi change nahi dikhayi dega.",
+	"bashrc_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.bashrc</span> <span style=\"\">file</span> mei aap koi aur bhi program call kar sakte hai. Jaise, yeh contents <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.bashrc</span> <span style=\"\">file</span> mei daalein:"
+}

@@ -1,0 +1,89 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "SMTP"
+	},
+	{
+		"component": "text",
+		"value": "Much like HTTP is the protocol used by computers to send web pages across the Internet, Simple Mail Transfer Protocol (SMTP) is the protocol used for sending email. SMTP dictates how email messages should be formatted, encrypted, and relayed between mail servers, and all the other details that your computer handles after you click Send. You don’t need to know these technical details, though, because <span style=\"\">Python</span>’s smtplib module simplifies them into a few functions."
+	},
+	{
+		"component": "text",
+		"value": "SMTP just deals with sending emails to others. A different protocol, called IMAP, deals with retrieving emails sent to you and is described in IMAP."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Sending Email"
+	},
+	{
+		"component": "text",
+		"value": "You may be familiar with sending emails from Outlook or Thunderbird or through a website such as Gmail or Yahoo! Mail. Unfortunately, <span style=\"\">Python</span> doesn’t offer you a nice graphical user interface like those services. Instead, you call functions to perform each major step of SMTP, as shown in the following interactive <span style=\"\">shell</span> example."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "Don’t enter this example in IDLE; it won’t work because smtp.example.com, "
+	},
+	{
+		"component": "text",
+		"value": "bob@example.com"
+	},
+	{
+		"component": "text",
+		"value": ", MY<i>SECRET</i>PASSWORD, and "
+	},
+	{
+		"component": "text",
+		"value": "alice@example.com"
+	},
+	{
+		"component": "text",
+		"value": "are just placeholders. This <span style=\"\">code</span> is just an overview of the process of sending email with <span style=\"\">Python</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import smtplib<br>>>> smtpObj = smtplib.SMTP('smtp.example.com', 587)<br>>>> smtpObj.ehlo()"
+	},
+	{
+		"component": "text",
+		"value": "(250, b'mx.example.com at your service, [216.172.148.131]\\nSIZE 35882577\\<br>n8BITMIME\\nSTARTTLS\\nENHANCEDSTATUS<span style=\"\">CODES</span>\\nCHUNKING')"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.starttls()"
+	},
+	{
+		"component": "text",
+		"value": "(220, b'2.0.0 Ready to start TLS')"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.login('bob@example.com', ' MY_SECRET_PASSWORD')"
+	},
+	{
+		"component": "text",
+		"value": "(235, b'2.7.0 Accepted')"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> smtpObj.sendmail('bob@example.com', 'alice@example.com', 'Subject: Solong.\\nDear Alice, so long and thanks for all the fish. Sincerely, Bob')<br>{}<br>>>> smtpObj.quit()"
+	},
+	{
+		"component": "text",
+		"value": "(221, b'2.0.0 closing connection ko10sm23097611pbd.52 - gsmtp')<br>In the following sections, we’ll go through each step, replacing the placeholders with your information to connect and log in to an SMTP server, send an email, and disconnect from the server."
+	}
+]

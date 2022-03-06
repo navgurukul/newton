@@ -1,0 +1,52 @@
+[
+  {
+    "component": "text",
+    "value": "Logical-operators_key1"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Logical-operators_key2",
+        "items": [
+          "Logical-operators_key3",
+          "Logical-operators_key4",
+          "Logical-operators_key5"
+        ]
+      },
+      {
+        "header": "Logical-operators_key6",
+        "items": [
+          "Logical-operators_key7",
+          "Logical-operators_key8",
+          "Logical-operators_key9"
+        ]
+      },
+      {
+        "header": "Logical-operators_key10",
+        "items": [
+          "Logical-operators_key11",
+          "Logical-operators_key12",
+          "Logical-operators_key13"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Logical-operators_key14"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 5, b = 10;<br>console.log((a != b) && (a < b));<br>console.log((a > b) || (a == b));<br>console.log((a < b) || (a == b));<br>console.log(!(a < b));<br>console.log(!(a > b));"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "true<br>false<br>true<br>false<br>true"
+  }
+]

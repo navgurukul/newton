@@ -1,0 +1,84 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "mental-health_key1"
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "mental-health_key8"
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key9",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key10",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "mental-health_key11",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

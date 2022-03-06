@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chalo Android mei Games banayein!"
+	},
+	{
+		"component": "text",
+		"value": "Aapko <b>Learning Java by Building Android Games</b> book se chapters padh kar, games banane hai. Jab aap woh games successfully bana lenge, toh aapke interview honge. Agar aap unn interview mei theek perform karte hai, toh aapka project complete maana jayega."
+	},
+	{
+		"component": "text",
+		"value": "Aapko sirf ek chance hi milega interview ke liye. Iske liye aap pehle aapas mei interviews conduct karo, jisse ki aap ko confidence aaye."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Interviews English mei honge"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Kaunsa chapter karna hai?"
+	},
+	{
+		"component": "text",
+		"value": "Agar aapko 4 ya 4 se kam mahine hue hai - Chapter 4<br>Agar aapko 5 ya 5 se kam mahine hue hai - Chapter 5<br>Agar aapko 7 ya 7 se kam mahine hue hai - Chapter 6<br>Agar aapko 9 ya 9 se kam mahine hue hai - Chapter 7<br>Agar aapko 9 se jyada mahine ho gaye hai - Chapter 8"
+	},
+	{
+		"component": "text",
+		"value": "Aap apna time calculate karte hue apne manthan ka time hata sakte hai."
+	}
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "component": "text",
+    "value": "data_mining_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "data_mining_key2"
+  },
+  {
+    "component": "youtube",
+    "value": "dvRZ1VYXMJ0"
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key3"
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key4"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "data_mining_key5"
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key9"
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key10"
+  },
+  {
+    "component": "text",
+    "value": "data_mining_key11"
+  }
+]

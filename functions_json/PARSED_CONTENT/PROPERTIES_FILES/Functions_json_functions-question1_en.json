@@ -1,0 +1,9 @@
+{
+	"functions-question1_key1": "Question 1",
+	"functions-question1_key2": "Question 1 (Part 1)",
+	"functions-question1_key3": "Write a function named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> which will print the text \"Once\".",
+	"functions-question1_key4": "Then call this function 5 times and get this text printed 5 times.",
+	"functions-question1_key5": "Question 1 (Part 2)",
+	"functions-question1_key6": "Then using the while <span style=\"\">loop</span> wrote the <span style=\"\">code</span> to call this function 100 times.",
+	"functions-question1_key7": "<span style=\"\">Upload</span> the two part of <span style=\"\">code</span> of in the same <span style=\"\">file</span>!"
+}

@@ -1,0 +1,113 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Pre-defined Functions Questions"
+	},
+	{
+		"component": "text",
+		"value": "Now you have to solve some questions by using the pre-define function."
+	},
+	{
+		"component": "text",
+		"value": "<b>Q1 .</b> You have to print the largest value out of the given list using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "numbers = [3, 5, 7, 34, 2, 89, 2, 5]"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b><br>89"
+	},
+	{
+		"component": "text",
+		"value": "<b>Q2.</b> You have to print the sum of the elements of the given list by using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "numbers = [1, 2, 3, 4, 5]"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b><br>15"
+	},
+	{
+		"component": "text",
+		"value": "<b>Q3.</b> Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function sort the given list."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "unorder_list = [6, 8, 4, 3, 9, 56, 0, 34, 7, 15]"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]</span>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Q4.</b> By using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function print the reverse order of the list."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "reverse_list = [\"Z\", \"A\", \"A\", \"B\", \"E\", \"M\", \"A\", \"R\", \"D\"]"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]</span>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Q5.</b> Use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function and find the minimun value of the list."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "list = [8, 6, 4, 8, 4, 50, 2, 7]"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "2"
+	}
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "component": "text",
+    "value": "Question-10_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-10_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-10_key3"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var readline = require('readline-sync');<br>var students={}<br>for (let step = 0; step <10; step++){<br>   var name =readline.question(\"Enter your name:\");<br>   var marks=readline.questionInt(\"Enter the marks\");<br>   students[name]=marks;<br>}<br>console.log(students);"
+  }
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"component": "text",
+		"value": "You can do lots of projects from here, try to do projects from these."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.freecodecamp.org/news/javascript-projects-for-beginners/#how-to-create-a-counter\">Link1</a>"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://jsbeginners.com/javascript-projects-for-beginners/\">Link2</a>"
+	}
+]

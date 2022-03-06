@@ -1,0 +1,19 @@
+{
+	"better_exceptions_key1": "HiPy\n",
+	"better_exceptions_key2": "Iss project mei hum `python` ko seekhne mei hamari help karne ke liye hum ek extension banayenge.\n",
+	"better_exceptions_key3": "Using `better_exceptions`\n",
+	"better_exceptions_key4": "Iss module\n",
+	"better_exceptions_key5": "ko install aur use karne ki instructions dekhein.\nJiss python shell mei better_exceptions enabled hai, waha par yeh code execute karne ki koshish karein:\n",
+	"better_exceptions_key6": "Iss function ko normal `python` `shell` mei bhi `execute` kar kar dekhein, difference samajhne ke liye.\n",
+	"better_exceptions_key7": "Step 1\n",
+	"better_exceptions_key8": "Create a fork of this project\n",
+	"better_exceptions_key9": "Aap ko better_exceptions project ko fork karna hai, aur isko ng_exceptions ke naam se plugin banana hai. Dekho `code` mei kaha kaha changes karne padenge to ensure ki ab plugin ka naam `ng-exceptions` ho jaye.\n",
+	"better_exceptions_key10": "Samajhne ke liye aisa socho, ki aapne aaj decide kiya aap ko aaj apna naam change karna hai. Iske liye aapko bahut saara kaam karna hoga - apna naam apni bank `statement`, apne friends mei, apne school mei, har jagah change karana hoga. Agar kahi par abhi aap ka poorana naam hai, toh woh `error` throw karega kyuki uski jagah ab naya naam hona chahiye tha.\n",
+	"better_exceptions_key11": "Using `ng_exceptions`\n",
+	"better_exceptions_key12": "Aise aap apne naye plugin ko install karein.\nJaise aapne `better-exceptions` use kiya tha, waise hi verify karein ki `ng-exceptions` bhi aap chala paa rahe hai.\n",
+	"better_exceptions_key13": "Step 2\n",
+	"better_exceptions_key14": "Ab aapko ek better_exceptions.py folder ke andar ek `file` create karni hai - `translate.py` ke naam se. Iss `file` ka kaam hoga ki jo bhi `errors` aati hai English mei, woh aapko Hindi mei print karni hai.\n",
+	"better_exceptions_key15": "Aapko iss `file` ko aisa load karna hai ki aapka naya plugin `ng-exceptions` hindi mei user ko bataye, ki usne kya galti ki hai. Yeh kaise hai, sabse important step hai. Is ke liye aapko samajhna hoga ki `formatter.py` `file` kaise kaam kar rahi hai. `formatter.py` aur `__init__.py` `files` ko acche se padh kar samjho ki aap yeh kaise achieve kar sakte hai.\n",
+	"better_exceptions_key16": "Hai na useful? :)\n",
+	"better_exceptions_key17": "Happy Coding!\n"
+}

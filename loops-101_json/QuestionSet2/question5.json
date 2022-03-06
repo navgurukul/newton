@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 5"
+	},
+	{
+		"component": "text",
+		"value": "Take an <span style=\"\">integer</span> <span style=\"\">input</span> in a <span style=\"\">variable</span> named <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">n</span>. Take user <span style=\"\">input</span> as many times as the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">n</span>."
+	},
+	{
+		"component": "text",
+		"value": "Finally, print the sum of all those numbers which you have taken as an <span style=\"\">input</span>."
+	},
+	{
+		"component": "text",
+		"value": "Example: If the user has put <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">n</span> value as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">6</span>, then take <span style=\"\">input</span> for 6 times."
+	},
+	{
+		"component": "text",
+		"value": "Number of <span style=\"\">inputs</span> to be taken?  6<br>Enter a number &gt; 10<br>Enter a number &gt; 1<br>Enter a number &gt; 56<br>Enter a number &gt; 89<br>Enter a number &gt; 11<br>Enter a number &gt; 12<br>Sum: 179"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">n</span> value  is taken as an <span style=\"\">input</span> in this line<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Number of inputs to be taken?</span> "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Sum 179</span> is written because <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">10+1+56+89+11+12</span> result into <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">179</span>."
+	},
+	{
+		"component": "text",
+		"value": "Example: Suppose if the user has given the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">n</span> as <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">10</span>, then the program will run as below, you can give the value of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">n</span> as per your choice."
+	},
+	{
+		"component": "text",
+		"value": "Number of <span style=\"\">inputs</span> to be taken?' 10<br>Enter a number &gt; 11<br>Enter a number &gt; 7<br>Enter a number &gt; 14<br>Enter a number &gt; 76<br>Enter a number &gt; 21<br>Enter a number &gt; 34<br>Enter a number &gt; 86<br>Enter a number &gt; 5<br>Enter a number &gt; 78<br>Enter a number &gt; 64<br>Sum: 396"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Sum 396</span> is because the sum of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">11+7+14+76+21+34+86+5+78+64</span> is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">396</span>."
+	}
+]

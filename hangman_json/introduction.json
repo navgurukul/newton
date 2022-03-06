@@ -1,0 +1,83 @@
+[
+	{
+		"component": "text",
+		"value": "Iss project mei hum log <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">hangman</span> game develop karenge. "
+	},
+	{
+		"component": "image",
+		"value": "assets/hangman.png",
+		"alt": "hangman"
+	},
+	{
+		"component": "text",
+		"value": "Game ko samajhne ke liye aap <a href=\"https://hangmanwordgame.com\">yaha</a> par ja kar iss game ko khel sakte hai. Bahut simple sa game hai. Fir neeche diye hue video ko dekh lo. "
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=H4c9QEWsLmo"
+	},
+	{
+		"component": "text",
+		"value": "Computer ek word sochta hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Jitne uss words mei characters hote hai, utne letters ke jagah computer <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_</span> show karta hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "User koi letter guess karta hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar woh letter uss word mei hota hai, toh computer aapko woh word mei uss jagah <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">_</span> replace kar kar, woh letters show karta hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aisa chalta rehta hai, jab tak aap word ko sahi se guess nahi kar paatein",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Game mei aur bhi bahut saari cheezein ki jaa sakti hai"
+	},
+	{
+		"component": "text",
+		"value": "<b>Hint</b>User ek baar hint maang sakta hai, aur computer user ko ek letter reveal kar sakta hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Limited Lives</b>User ko kuch hi lives do, agar woh lives khatam ho jaye, toh \"Game Over\" dikhao",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Animation ya Design</b>Aap game ko improve karne ke liye animations ya design add kar sakte hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aap apne bhi ideas soch kar implement kar sakte hai.<br>Chalo baatein bahut hui, ab <span style=\"\">code</span> karna shuru karte hai :-)"
+	}
+]

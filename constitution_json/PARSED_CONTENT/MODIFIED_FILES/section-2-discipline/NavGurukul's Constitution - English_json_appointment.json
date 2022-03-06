@@ -1,0 +1,24 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "appointment_key1"
+  },
+  {
+    "component": "text",
+    "value": "appointment_key2"
+  },
+  {
+    "component": "text",
+    "value": "appointment_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "appointment_key4"
+  },
+  {
+    "component": "text",
+    "value": "appointment_key5"
+  }
+]

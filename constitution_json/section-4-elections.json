@@ -1,0 +1,63 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Elections"
+	},
+	{
+		"component": "text",
+		"value": "Every three months, the DISCO will conduct elections to choose members of the Council."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Nominations"
+	},
+	{
+		"component": "text",
+		"value": "DISCO will call for nominations 7 days prior to the date of elections through a message visible to all, and a reminder 4 days prior to the date of elections. Candidates who are interested to contest elections for a particular pro<span style=\"\">file</span> in the Council can nominate themselves for the respective pro<span style=\"\">file</span>. A student can nominate himself/herself for two pro<span style=\"\">files</span> at most."
+	},
+	{
+		"component": "text",
+		"value": "Nominations will be open only after announcement by DISCO. This is the <a href=\"https://goo.gl/forms/5MgDqDviAdSvI1s12\">form</a> for collecting nominations."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Voting"
+	},
+	{
+		"component": "text",
+		"value": "In the election, each student will vote for one candidate for each of the pro<span style=\"\">files</span>. The counting of the votes will be done by members of DISCO. The voting will be anonymous."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Appointment to the council:"
+	},
+	{
+		"component": "text",
+		"value": "The candidate that gets majority of votes is elected for the respective pro<span style=\"\">file</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Appointment of GenSec:"
+	},
+	{
+		"component": "text",
+		"value": "The GenSec will be chosen from amongst the members of the Council. After the Council has been elected, DISCO will call for nominations from amongst the elected members for the pro<span style=\"\">file</span> of GenSec. "
+	},
+	{
+		"component": "text",
+		"value": "The DISCO will conduct another round of elections to vote for the GenSec. All general body members will be eligible to vote once for their choice of GenSec."
+	},
+	{
+		"component": "text",
+		"value": "Two candidates who receive the maximum number of votes will be interviewed by the Board of Governors and one of them will be appointed as the GenSec."
+	},
+	{
+		"component": "text",
+		"value": "The one who is appointed as the GenSec will drop the Council pro<span style=\"\">file</span> and whosoever has gotten the second highest votes for that pro<span style=\"\">file</span>, will be selected for the respective pro<span style=\"\">file</span>."
+	}
+]

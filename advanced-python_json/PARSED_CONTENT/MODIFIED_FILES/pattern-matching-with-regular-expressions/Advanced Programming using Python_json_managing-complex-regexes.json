@@ -1,0 +1,27 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "managing-complex-regexes_key1"
+  },
+  {
+    "component": "text",
+    "value": "managing-complex-regexes_key2"
+  },
+  {
+    "component": "text",
+    "value": "managing-complex-regexes_key3"
+  },
+  {
+    "component": "text",
+    "value": "managing-complex-regexes_key4"
+  },
+  {
+    "component": "text",
+    "value": "managing-complex-regexes_key5"
+  },
+  {
+    "component": "text",
+    "value": "managing-complex-regexes_key6"
+  }
+]

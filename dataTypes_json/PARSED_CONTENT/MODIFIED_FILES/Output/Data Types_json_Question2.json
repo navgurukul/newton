@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Question2_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print(bool(False))<br>print(bool(None))<br>print(bool(0))<br>print(bool(\"\"))<br>print(bool(1))"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 20<br>y = 5<br>result = x + True + y - False<br>print(result)"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "str3='''Hello'''  \"\"\" \"\"\"+ \"\"\"World\"\"\"<br>print(str3)"
+  },
+  {
+    "component": "text",
+    "value": "Question2_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num=6.8<br>print(num)<br>num=12<br>print(num)<br>print(num + num)<br>num = num + 10<br>print(num)"
+  }
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 5"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 0<br>while(x<7):<br>&emsp;if (x == 3 or x==5):<br>&emsp;&emsp;x = x + 1<br>&emsp;&emsp;continue<br>&emsp;print(x)<br>&emsp;x = x + 1"
+	}
+]

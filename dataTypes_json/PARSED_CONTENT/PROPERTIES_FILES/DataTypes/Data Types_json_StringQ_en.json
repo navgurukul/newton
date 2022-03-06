@@ -1,0 +1,11 @@
+{
+	"StringQ_key1": "Note :",
+	"StringQ_key2": "Please read about <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Concatenation</span>.",
+	"StringQ_key3": "Question 1",
+	"StringQ_key4": "You have to take two inputs from the user whose data type is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span>.",
+	"StringQ_key5": "Then in variable by name <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+	"StringQ_key6": "Print the variable <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>.## Question 2",
+	"StringQ_key7": "Take one <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> type input and one <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> type input from the user.",
+	"StringQ_key8": "Then in variable by name <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>, store the sum of both the user inputs.",
+	"StringQ_key9": "Print the variable <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span>."
+}

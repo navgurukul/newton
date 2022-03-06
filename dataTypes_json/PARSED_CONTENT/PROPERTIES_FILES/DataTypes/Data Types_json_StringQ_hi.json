@@ -1,0 +1,11 @@
+{
+    "StringQ_key1": "ध्यान दें :",
+    "StringQ_key2": "कृपया <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Concatenation</span> के बारे में पढ़ें।",
+    "StringQ_key3": "प्रश्न 1",
+    "StringQ_key4": "आपको उस यूजर से दो इनपुट लेने होंगे जिसका डेटा टाइप <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> है।",
+    "StringQ_key5": "फिर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> नाम से चर में, दोनों उपयोगकर्ता इनपुट का योग संग्रहीत करें।",
+    "StringQ_key6": "चर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> प्रिंट करें। ## प्रश्न 2",
+    "StringQ_key7": "उपयोगकर्ता से एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> टाइप इनपुट और एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> टाइप इनपुट लें।",
+    "StringQ_key8": "फिर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> नाम से चर में, दोनों उपयोगकर्ता इनपुट का योग संग्रहीत करें।",
+    "StringQ_key9": "चर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> प्रिंट करें।"
+}

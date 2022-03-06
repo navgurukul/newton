@@ -1,0 +1,6 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"<span style=\\\"\\\"><span style=\"\">Output</span></span> Should be \\\"Both are same\\\". Debug the question as per <span style=\\\"\\\"><span style=\"\">output</span></span>.\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"let is<span style=\"\">True</span> = \\\"<span style=\"\">True</span>\\\";<br>if(is<span style=\"\">True</span>){<br>  console.log(\\\"<span style=\"\">Output</span> should show\\\")<br>}<br>if(is<span style=\"\">True</span> === \\\"<span style=\"\">False</span>\\\"){<br>  console.log(\\\"Both are same\\\")<br>}<br>else {<br>  console.log(\\\"Please run it. if all conditions <span style=\"\">false</span>\\\")<br>}\"<br>    }<br>]"
+	}
+]

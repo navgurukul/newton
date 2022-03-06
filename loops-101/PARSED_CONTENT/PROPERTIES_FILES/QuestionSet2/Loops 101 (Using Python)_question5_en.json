@@ -1,0 +1,12 @@
+{
+	"question5_key1": "Question 5\n",
+	"question5_key2": "Take an `integer` `input` in a `variable` named `n`. Take user `input` as many times as the value of `n`.\n",
+	"question5_key3": "Finally, print the sum of all those numbers which you have taken as an `input`.\n",
+	"question5_key4": "Example: If the user has put `n` value as `6`, then take `input` for 6 times.\n",
+	"question5_key5": "Number of `inputs` to be taken?  6\nEnter a number > 10\nEnter a number > 1\nEnter a number > 56\nEnter a number > 89\nEnter a number > 11\nEnter a number > 12\nSum: 179\n",
+	"question5_key6": "`n` value  is taken as an `input` in this line`Number of inputs to be taken?` \n",
+	"question5_key7": "`Sum 179` is written because `10+1+56+89+11+12` result into `179`.\n",
+	"question5_key8": "Example: Suppose if the user has given the value of `n` as `10`, then the program will run as below, you can give the value of `n` as per your choice.\n",
+	"question5_key9": "Number of `inputs` to be taken?' 10\nEnter a number > 11\nEnter a number > 7\nEnter a number > 14\nEnter a number > 76\nEnter a number > 21\nEnter a number > 34\nEnter a number > 86\nEnter a number > 5\nEnter a number > 78\nEnter a number > 64\nSum: 396\n",
+	"question5_key10": "`Sum 396` is because the sum of `11+7+14+76+21+34+86+5+78+64` is `396`.\n"
+}

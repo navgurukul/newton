@@ -1,0 +1,7 @@
+{
+	"managing-multiple-db_key1": "Managing Multiple DB",
+	"managing-multiple-db_key2": "Kisi bhi da<span style=\"\">tab</span>ase ko load karne ke liye, humei uss da<span style=\"\">tab</span>ase ka naam <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">load</span> function mei dena hota hai. Aise hum ek saath multiple <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">databases</span> ke saath kaam kar sakte hai.",
+	"managing-multiple-db_key3": "Jaise yeh <span style=\"\">code</span> chala kar dekhe, <span style=\"\">python</span> <span style=\"\">terminal</span> mei:",
+	"managing-multiple-db_key4": "Toh aap same <span style=\"\">file</span> ko use kar kar, kitne bhi da<span style=\"\">tab</span>ases ko simultaneously (ek saath) use / load kar sakte ho.",
+	"managing-multiple-db_key5": "Thodi der apne likhe hue functions ke saath khelo, before you move to the next course."
+}

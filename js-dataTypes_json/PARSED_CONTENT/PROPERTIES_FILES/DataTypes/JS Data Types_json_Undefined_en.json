@@ -1,0 +1,11 @@
+{
+	"Undefined_key1": "Example:",
+	"Undefined_key2": "<span style=\"\">variable</span> a is just declared and not assigned any value in it, whenever you will try to print before assigning a vlaue you will get undefined.",
+	"Undefined_key3": "<span style=\"\">variable</span> b is declared and assigned a value i.e., Hello World!",
+	"Undefined_key4": "Note",
+	"Undefined_key5": "The <b>undefined</b> data type can only have one value-the special value undefined. If a <span style=\"\">variable</span> has been declared, but has not been assigned a value, it has the value undefined.",
+	"Undefined_key6": "Exercises:",
+	"Undefined_key7": "Write a program that prints undefined when I print with its variable name?<br><br>",
+	"Undefined_key8": "What is the output of the following code?<br><br>",
+	"Undefined_key9": "What is the error in the following code?"
+}

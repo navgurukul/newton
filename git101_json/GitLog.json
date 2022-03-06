@@ -1,0 +1,35 @@
+[
+	{
+		"component": "text",
+		"value": "Aap apne <span style=\"\">file</span> repository mein bahut saare changes/ commits kar sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "Abhi tak ke saare commits aur commit messages ko dekhne ke liye - "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Terminal</span> mein apne git directory mein navigate kijiye aur fir ye command run kijiye:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "git log"
+	},
+	{
+		"component": "text",
+		"value": "Aapko <span style=\"\">output</span> screen par saare git commits aur messages dikhenge."
+	},
+	{
+		"component": "text",
+		"value": "<b>Assignment</b>"
+	},
+	{
+		"component": "text",
+		"value": "git ka documentation dekh kar \"git log\" ka use samajhiye.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-startswith()-and-endswith()-string-methods_key1"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'Hello world!'.startswith('Hello')<br>True<br>>>> 'Hello world!'.endswith('world!')<br>True<br>>>> 'abc123'.startswith('abcdef')<br>False<br>>>> 'abc123'.endswith('12')<br>False<br>>>> 'Hello world!'.startswith('Hello world!')<br>True<br>>>> 'Hello world!'.endswith('Hello world!')<br>True"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key3"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> ', '.join(['cats', 'rats', 'bats'])<br>'cats, rats, bats'<br>>>> ' '.join(['My', 'name', 'is', 'Simon'])<br>'My name is Simon'<br>>>> 'ABC'.join(['My', 'name', 'is', 'Simon'])<br>'MyABCnameABCisABCSimon'"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key5"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'My name is Simon'.split()<br>['My', 'name', 'is', 'Simon']"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'MyABCnameABCisABCSimon'.split('ABC')<br>['My', 'name', 'is', 'Simon']<br>>>> 'My name is Simon'.split('m')<br>['My na', 'e is Si', 'on']"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = '''Dear Alice,<br>How have you been? I am fine.<br>There is a container in the fridge<br>that is labeled \"Milk Experiment\".<br><br>Please do not drink it.<br>Sincerely,<br>Bob'''<br>>>> spam.split('\\n')<br>['Dear Alice,', 'How have you been? I am fine.', 'There is a container in the'<br>fridge', 'that is labeled \"Milk Experiment\".', '', 'Please do not drink it.','<br>'Sincerely,', 'Bob']"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key9"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'Hello'.rjust(10)<br>'     Hello'<br>>>> 'Hello'.rjust(20)<br>'               Hello'<br>>>> 'Hello World'.rjust(20)<br>'         Hello World'<br>>>> 'Hello'.ljust(10)<br>'Hello     '"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key11"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'Hello'.rjust(20, '*')<br>'***************Hello'<br>>>> 'Hello'.ljust(20, '-')<br>'Hello---------------'"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'Hello'.center(20)<br>'       Hello       '<br>>>> 'Hello'.center(20, '=')<br>'=======Hello========'"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def printPicnic(itemsDict, leftWidth, rightWidth):<br>    print('PICNIC ITEMS'.center(leftWidth + rightWidth, '-'))<br>    for k, v in itemsDict.items():<br>        print(k.ljust(leftWidth, '.') + str(v).rjust(rightWidth))<br>picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}<br>printPicnic(picnicItems, 12, 5)<br>printPicnic(picnicItems, 20, 6)"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key15"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key16"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key17"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key18"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key19"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key20"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key21"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key22"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = '    Hello World     '<br>>>> spam.strip()<br>'Hello World'<br>>>> spam.lstrip()<br>'Hello World '<br>>>> spam.rstrip()<br>'    Hello World'"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key23"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = 'SpamSpamBaconSpamEggsSpamSpam'<br>>>> spam.strip('ampS')<br>'BaconSpamEggs'"
+  },
+  {
+    "component": "text",
+    "value": "the-startswith()-and-endswith()-string-methods_key24"
+  }
+]

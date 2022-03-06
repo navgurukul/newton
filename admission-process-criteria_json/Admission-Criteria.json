@@ -1,0 +1,49 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Admission Criteria"
+	},
+	{
+		"component": "text",
+		"value": "Education Qualification: Minimum 10th Pass",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Age: 17-30",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "School or college dropouts who want high-paying jobs",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Students from any stream (arts/science/humanities)",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Finished school and/or college but looking for financial stability",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Constrained by money or social situations but have high-growth career dreams",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

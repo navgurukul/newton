@@ -1,0 +1,44 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Introduction of verbs."
+	},
+	{
+		"component": "text",
+		"value": "Defination :- Jisse kisi kam ko karne ya hone ka pata chalta hai use Verb kahte hai."
+	},
+	{
+		"component": "text",
+		"value": "Ex :- <br>      Eat = Khana (Kuchh karne ka pata chalta hai)"
+	},
+	{
+		"component": "text",
+		"value": "Rohan is eating food. = Rohan khana kha raha hai.(Iska matlab vah kuchh kar raha hia aur vah kiya kar raha hai kha raha hai, so isse kuchh karne ka pata chalta hai, Isliye yah ak verb hai.)<br>  <br>  Go = Jana<br>  <br>  I am going. = mai ja raha hu.(ja raha hai means kuchh kar raha hai.)<br>  <br>  Break = Torna<br>  <br>  She broke my pen. = Usne mera pen tod diya. (means usne tod diya tha, kuchh karne ka pata chalta hai yani ye verb hai.)<br>  <br>  Catch = Pakarna<br>  <br>  She can catch the ball. = Vaha ball pakar sakti hai. (Means vah pakar sakti hai, isse bhi kuchh karne ka pata chalta<br>  hai.)<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Agar apko or information leni hai toh aap inn video ko dekh skte ho:-"
+	},
+	{
+		"component": "youtube",
+		"value": "PE3-4g5Lqmk"
+	},
+	{
+		"component": "youtube",
+		"value": "ScywAwMbBQY"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.worldclasslearning.com/english/five-verb-forms.html\">Forms of 1000 verbs</a>"
+	},
+	{
+		"component": "text",
+		"value": "We think about you so we are giving you exercise for practice:-"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.ecenglish.com/learnenglish/lessons/10-questions-choose-right-verb-0\">Exercise1</a>"
+	}
+]

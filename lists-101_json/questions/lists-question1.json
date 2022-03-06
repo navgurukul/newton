@@ -1,0 +1,16 @@
+[
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span>, that counts the numbers between 20 and 40 and then print its count."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "numbers=[50, 40, 23, 70, 56, 12, 5, 10, 7]"
+	},
+	{
+		"component": "text",
+		"value": "Write the <span style=\"\">code</span> and <span style=\"\">upload</span> the <span style=\"\">file</span>:)"
+	}
+]

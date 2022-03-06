@@ -1,0 +1,224 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-iteration_key1"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key2"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key3"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key4"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-iteration_key5"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-iteration_key8"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-iteration_key12"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-iteration_key14"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key16"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key18"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key19",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key20",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key21",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key22",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key23",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key24",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key25"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "lists-iteration_key26"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "students_list = [\"robin\", \"anamika\", \"faisal\", \"valmiki\", \"waseem\", \"amara\"]<br>list_length = len(students_list)<br>index = 0<br>while index < list_length:<br>&emsp;print(students_list[index])<br>&emsp;index = index + 1"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key27"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "lists-iteration_key28"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key29"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "student_marks = [23, 45, 89, 90, 56, 80] <br>length = len(student_marks)<br>index = 0<br>total_marks = 0<br>while index < len(student_marks):<br>&emsp;total_marks = student_marks[index] + total_marks<br>&emsp;index = index + 1<br>print(\"Total Marks: \" + str(total_marks))"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key30"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "lists-iteration_key31"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key32"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "student_marks = [23, 45, 67, 89, 90, 54, 34, 21, 34, 23, 19, 28, 10, 45, 86, 87, 9]<br>list_length = len(student_marks)<br>index = 0<br>less_than50 = 0<br>more_than50 = 0<br>while index < list_length:<br>&emsp;marks = student_marks[index]<br>&emsp;if marks < 50:<br>&emsp;&emsp;less_than50 = less_than50 + 1<br>&emsp;else:<br>&emsp;&emsp;more_than50 = more_than50 + 1<br>&emsp;index = index + 1<br>print(\"Marks more than 50: \" + str(more_than50))<br>print(\"Marks less than 50: \" + str(less_than50))"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "lists-iteration_key33"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key34"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key35"
+  },
+  {
+    "component": "text",
+    "value": "lists-iteration_key36"
+  }
+]

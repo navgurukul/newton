@@ -1,0 +1,97 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "loop_key1"
+  },
+  {
+    "component": "text",
+    "value": "loop_key2"
+  },
+  {
+    "component": "text",
+    "value": "loop_key3"
+  },
+  {
+    "component": "text",
+    "value": "loop_key4"
+  },
+  {
+    "component": "text",
+    "value": "loop_key5"
+  },
+  {
+    "component": "text",
+    "value": "loop_key6"
+  },
+  {
+    "component": "text",
+    "value": "loop_key7"
+  },
+  {
+    "component": "text",
+    "value": "loop_key8"
+  },
+  {
+    "component": "text",
+    "value": "loop_key9"
+  },
+  {
+    "component": "text",
+    "value": "loop_key10"
+  },
+  {
+    "component": "text",
+    "value": "loop_key11"
+  },
+  {
+    "component": "text",
+    "value": "loop_key12"
+  },
+  {
+    "component": "text",
+    "value": "loop_key13"
+  },
+  {
+    "component": "text",
+    "value": "loop_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "loop_key15"
+  },
+  {
+    "component": "text",
+    "value": "loop_key16"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "loop_key17"
+  },
+  {
+    "component": "text",
+    "value": "loop_key18"
+  },
+  {
+    "component": "text",
+    "value": "loop_key19"
+  },
+  {
+    "component": "text",
+    "value": "loop_key20"
+  },
+  {
+    "component": "text",
+    "value": "loop_key21"
+  },
+  {
+    "component": "text",
+    "value": "loop_key22"
+  },
+  {
+    "component": "text",
+    "value": "loop_key23"
+  }
+]

@@ -1,0 +1,5 @@
+{
+	"Question-7_key1": "You have a <span style=\"\">variable</span> called number with the value as shown:",
+	"Question-7_key2": "var number1 = 44 * 30",
+	"Question-7_key3": "Check if this number1 is greater than or equal to number2. If the entered number2 is greater than or equal to number1, console  <b>\"number2 is greater than or equal\"</b> else console  <b>\"number2 is lesser\"</b>."
+}

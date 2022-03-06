@@ -1,0 +1,14 @@
+{
+	"flow_control_key1": "Elements of Flow Control",
+	"flow_control_key2": "Conditions<br>The Boolean expressions you’ve seen so far could all be considered conditions, which are the same thing as expressions; condition is just a more specific name in the context of flow control <span style=\"\">statements</span>. Conditions always evaluate down to a Boolean value, <span style=\"\">True</span> or <span style=\"\">False</span>. A flow control <span style=\"\">statement</span> decides what to do based on whether its condition is <span style=\"\">True</span> or <span style=\"\">False</span>, and almost every flow control <span style=\"\">statement</span> uses a condition.",
+	"flow_control_key3": "Blocks of <span style=\"\">Code</span>",
+	"flow_control_key4": "Lines of <span style=\"\">Python</span> <span style=\"\">code</span> can be grouped together in blocks. You can tell when a block begins and ends from the <span style=\"\">indentation</span> of the lines of <span style=\"\">code</span>. There are three rules for blocks.",
+	"flow_control_key5": "Blocks begin when the indentation increases.",
+	"flow_control_key6": "Blocks can contain other blocks.",
+	"flow_control_key7": "Blocks end when the indentation decreases to zero or to a containing block’s indentation.",
+	"flow_control_key8": "Blocks are easier to understand by looking at some indented <span style=\"\">code</span>, so let’s find the blocks in part of a small game program, shown here:",
+	"flow_control_key9": "The first block of <span style=\"\">code</span> ❶ starts at the line print('Hello Mary') and contains all the lines after it. Inside this block is another block ❷, which has only a single line in it: print('Access Granted.'). The third block ❸ is also one line long: print('Wrong password.').",
+	"flow_control_key10": "Program Execution",
+	"flow_control_key11": "In the previous chapter’s hello.py program, <span style=\"\">Python</span> started executing instructions at the top of the program going down, one after another. The program execution (or simply, execution) is a term for the current instruction being <span style=\"\">execute</span>d. If you print the source <span style=\"\">code</span> on paper and put your finger on each line as it is <span style=\"\">execute</span>d, you can think of your finger as the program execution.",
+	"flow_control_key12": "Not all programs <span style=\"\">execute</span> by simply going straight down, however. If you use your finger to trace through a program with flow control <span style=\"\">statements</span>, you’ll likely find yourself jumping around the source <span style=\"\">code</span> based on conditions, and you’ll probably skip entire clauses."
+}

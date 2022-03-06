@@ -1,0 +1,44 @@
+[
+  {
+    "component": "text",
+    "value": "files-question4_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "rishabh - meerut<br>imtiyaz - delhi<br>nilima - cochin<br>rati - shimla<br>ayishah - delhi<br>raghu - shimla<br>naseer - kanpur<br>karthikeyan - delhi<br>salma - jaipur<br>pankaj - delhi<br>brijesh - delhi<br>govind - delhi<br>puneet - shimla<br>siddhi - delhi<br>suman - jaipur<br>rajeev - shimla<br>mohinder - delhi<br>rajendra - jaipur<br>priyanka - shimla<br>neela - delhi<br>sashi - jaipur<br>sarika - delhi<br>deepti - shimla<br>harshad - delhi<br>trishna - raipur<br>pradeep - jaipur<br>sekhar - delhi<br>nand - delhi<br>anoop - delhi<br>balwinder - tokyo"
+  },
+  {
+    "component": "text",
+    "value": "files-question4_key2"
+  },
+  {
+    "component": "text",
+    "value": "files-question4_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "files-question4_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "files-question4_key5",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "files-question4_key6"
+  }
+]

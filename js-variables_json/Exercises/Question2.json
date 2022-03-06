@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "Define a <span style=\"\">variable</span> a with var a and initialize it to a value of [1,2,3,4]."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var a =[1,2,3,4];<br><br>### Expalanation<br><br>As we know we can assign any value or any datatype to a variable, here we have a list as a value to a variable named as a."
+	}
+]

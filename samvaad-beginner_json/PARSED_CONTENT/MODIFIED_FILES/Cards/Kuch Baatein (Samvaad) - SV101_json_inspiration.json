@@ -1,0 +1,120 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "inspiration_key1"
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key5"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "inspiration_key6"
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key7",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key8",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key9",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key10",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key11",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key12",
+    "decoration": {
+      "type": "number",
+      "value": 8
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key13",
+    "decoration": {
+      "type": "number",
+      "value": 9
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key14",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key15",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "inspiration_key16",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task1_key1"
+  },
+  {
+    "component": "text",
+    "value": "task1_key2"
+  },
+  {
+    "component": "text",
+    "value": "task1_key3"
+  },
+  {
+    "component": "text",
+    "value": "task1_key4"
+  },
+  {
+    "component": "text",
+    "value": "task1_key5"
+  },
+  {
+    "component": "text",
+    "value": "task1_key6"
+  },
+  {
+    "component": "text",
+    "value": "task1_key7",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key8",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key9",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key10",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key11",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task1_key12"
+  },
+  {
+    "component": "text",
+    "value": "task1_key13",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key14",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key15",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key16",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key17",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "task1_key18"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task1_key19"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=PNv9cD-ene8"
+  },
+  {
+    "component": "text",
+    "value": "task1_key20"
+  }
+]

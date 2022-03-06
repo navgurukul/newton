@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "opening-your-browser’s-developer-tools_key1"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key2"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key3"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key4"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key5"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key6"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key7"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key8"
+  },
+  {
+    "component": "text",
+    "value": "opening-your-browser’s-developer-tools_key9"
+  }
+]

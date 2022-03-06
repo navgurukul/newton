@@ -1,0 +1,40 @@
+[
+  {
+    "component": "text",
+    "value": "question11_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "sentence = \"NavGurukul is an alternative to higher education reducing the barriers of current formal education system\""
+  },
+  {
+    "component": "text",
+    "value": "question11_key2"
+  },
+  {
+    "component": "text",
+    "value": "question11_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "['NavGurukul', 'is', 'an', 'alternative', 'to', 'higher', 'education', 'reducing', 'the', 'barriers', 'of', 'current', 'formal', 'education', 'system']"
+  },
+  {
+    "component": "text",
+    "value": "question11_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "words = \"navgurukul is great\"<br>counter = 0<br>while counter < len(words)<br>&emsp;print (words[counter])"
+  },
+  {
+    "component": "text",
+    "value": "question11_key5"
+  }
+]

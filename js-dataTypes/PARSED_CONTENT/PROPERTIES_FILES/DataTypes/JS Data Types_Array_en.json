@@ -1,0 +1,13 @@
+{
+	"Array_key1": "Think about a list of your favourite things. \n",
+	"Array_key2": "For example, \n",
+	"Array_key3": "your mother’s name, Ramani  \n",
+	"Array_key4": "Your favourite colour, Black  \n",
+	"Array_key5": "Your favourite number, 1  \n",
+	"Array_key6": "Your birthdate, Jan 2, 1996  \n",
+	"Array_key7": "Now imagine you had to store them together as myFavourtiThings in JS. To do this you will use an Array Data Type.\n",
+	"Array_key8": "An array is a type of object used for storing multiple values in a single `variable`.\n",
+	"Array_key9": "The simplest way to create an array is by specifying the array elements as a comma-separated list enclosed by square brackets, as shown in the example below:\n",
+	"Array_key10": "Each value (also called an element) in an array has a numeric position, known as its index, and it may contain data of any data type-numbers, `strings`, booleans, functions, objects, and even other arrays. The array index starts from 0, so that the first array element is arr[0] not arr[1].  \n",
+	"Array_key11": "For the example above, cities[0] refers to Dharamshala.\n"
+}

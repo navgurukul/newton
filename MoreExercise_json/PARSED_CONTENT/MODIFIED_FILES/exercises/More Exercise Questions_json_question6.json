@@ -1,0 +1,60 @@
+[
+  {
+    "component": "text",
+    "value": "question6_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_list = [\"Rishabh\", \"Rishabh\", \"Abhishek\", \"Rishabh\", \"Divyashish\", \"Divyashish\"]"
+  },
+  {
+    "component": "text",
+    "value": "question6_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "new_list = [\"Rishabh\", \"Abhishek\", \"Divyashish\"]"
+  },
+  {
+    "component": "text",
+    "value": "question6_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_list = [\"Delhi\", \"Delhi\", \"Mumbai\", \"Mumbai\", \"Delhi\", \"Chennai\", 'Chennai']"
+  },
+  {
+    "component": "text",
+    "value": "question6_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "new_list = [\"Delhi\", \"Mumbai\", \"Chennai\"]"
+  },
+  {
+    "component": "text",
+    "value": "question6_key5"
+  },
+  {
+    "component": "text",
+    "value": "question6_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_list = [\"Empathy\", \"Empathy\", \"Kindness\", \"Kindness\", \"Compassion\", \"Humble\", \"Humble\"]"
+  },
+  {
+    "component": "text",
+    "value": "question6_key7"
+  }
+]

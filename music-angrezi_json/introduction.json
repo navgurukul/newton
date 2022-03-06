@@ -1,0 +1,24 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Angrezi Music"
+	},
+	{
+		"component": "text",
+		"value": "Learning language requires a lot of exposure with the language, you have to talk English, walk English and dress English ;) Just kidding just - listen, speak, read and write in English, and you shall be fine. "
+	},
+	{
+		"component": "text",
+		"value": "We are adding some songs here, with lyrics so that you can listen to these songs and <b>improve your Angrezzzi</b>. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "Kuch gaane mei lyrics video ke andar hai, kuch gaane mei aapko caption on karne honge. Uske liye aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">c key</span> press kar sakte hai, video par click karte hue. Usse agar captions hoti hai, toh <span style=\"\">YouTube</span> captions on kar dete hai."
+	}
+]

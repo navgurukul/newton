@@ -1,0 +1,24 @@
+[
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = (4 + 5) / 3<br>a = a * 8 / 4<br>a = a / 2 * 10<br>a = a + 2 * 10<br>a = a + 2 * 10 - 5"
+	},
+	{
+		"component": "text",
+		"value": "Iska solution verify ya samajhne k liye aap yeh <a href=\"https://www.youtube.com/watch?v=qdhtGlLBj-Y\">video</a> dekh sakte ho."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = (4 + 5) / 3<br>b = a * 8 / 4 - 10<br>a = b / 2 * 10<br>a = a + 2 * 10<br>a = b + 2 * 10 - 5"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = 20<br>b = 10<br>c = 15<br>d = 5<br>e = 0<br><br>e = (a + b) * c / d<br>print \"Value of (a + b) * c / d is \",  e<br><br>e = ((a + b) * c) / d<br>print \"Value of ((a + b) * c) / d is \",  e<br><br>e = (a + b) * (c / d)<br>print \"Value of (a + b) * (c / d) is \",  e<br><br>e = a + (b * c) / d<br>print \"Value of a + (b * c) / d is \",  e"
+	}
+]

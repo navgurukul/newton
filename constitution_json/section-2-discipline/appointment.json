@@ -1,0 +1,24 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Appointment of DISCO"
+	},
+	{
+		"component": "text",
+		"value": "The BOG will call for nominations for appointment to the DISCO. The students can self-nominate themselves or nominate someone else. The appointment will be made on the basis of an interview with one or more members from the Board of Governors. "
+	},
+	{
+		"component": "text",
+		"value": "Nominations for DISCO will be collected through this <a href=\"https://goo.gl/forms/NAAbfURpuHd1oe923\">form</a>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Punishments/ Corrective Measures"
+	},
+	{
+		"component": "text",
+		"value": "In case of an act of violation of rules or misbehaviour by a student, the DISCO is eligible to take disciplinary action by in consultation with the Board of Governors."
+	}
+]

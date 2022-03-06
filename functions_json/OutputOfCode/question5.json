@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 5"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the <span style=\"\">code</span> given below?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def  meal(day,time):<br>&emsp;if day==\"sunday\":<br>&emsp;&emsp;if time==\"breakfast\":<br>&emsp;&emsp;&emsp;return \"dosa\"<br>&emsp;&emsp;elif time==\"lunch\":<br>&emsp;&emsp;&emsp;return \"dal rice\"<br>&emsp;&emsp;elif time==\"dinner\":<br>&emsp;&emsp;&emsp;return \"paneer and  chapati\"<br>&emsp;&emsp;else :<br>&emsp;&emsp;&emsp;return \"time not found\"<br>&emsp;elif day==\"monday\":<br>&emsp;&emsp;if time==\"breakfast\":<br>&emsp;&emsp;&emsp;return \"fried rice\"<br>&emsp;&emsp;elif time==\"lunch\":<br>&emsp;&emsp;&emsp;return \"aloo rice\"<br>&emsp;&emsp;elif time==\"dinner\":<br>&emsp;&emsp;&emsp;return \"chhole bhature\"<br>&emsp;&emsp;else :<br>&emsp;&emsp;&emsp;return \"time not found\"<br>&emsp;elif day==\"other\":<br>&emsp;&emsp;if time==\"breakfast\":<br>&emsp;&emsp;&emsp;return \"aloo\"<br>&emsp;&emsp;elif time==\"lunch\":<br>&emsp;&emsp;&emsp;return \"rajma rice\"<br>&emsp;&emsp;elif time==\"dinner\"&emsp;:<br>&emsp;&emsp;&emsp;return \"veg-chapati\"<br>&emsp;&emsp;else :<br>&emsp;&emsp;&emsp;return \"time not found\"<br>&emsp;&emsp;&emsp;<br>print(meal(\"sunday\",\"lunch\"))<br>print(meal(\"monday\",\"dinner\"))"
+	}
+]

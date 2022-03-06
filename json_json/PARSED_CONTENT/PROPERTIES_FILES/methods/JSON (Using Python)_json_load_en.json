@@ -1,0 +1,5 @@
+{
+	"load_key1": "Load  and Loads",
+	"load_key2": "<b>load():-</b> load() method ek json object or json <span style=\"\">file</span> ko json data ke sath <span style=\"\">python</span> object(dictionaries) mai karta hai.",
+	"load_key3": "<b>loads()</b> method ek json <span style=\"\">string</span> leta hai or use json objects mai convert ker deta hai."
+}

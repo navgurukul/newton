@@ -1,0 +1,90 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-pdf-and-word-documents_key1"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key2"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-pdf-and-word-documents_key4"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key5"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key6"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-pdf-and-word-documents_key7"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "working-with-pdf-and-word-documents_key9"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key10"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key11"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import PyPDF2<br>   >>> pdfFileObj = open('meetingminutes.pdf', 'rb')<br>   >>> pdfReader = PyPDF2.PdfFileReader(pdfFileObj)<br>❶ >>> pdfReader.numPages"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❷ >>> pageObj = pdfReader.getPage(0)<br>❸ >>> pageObj.extractText()"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key14"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key15"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key16"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key17"
+  },
+  {
+    "component": "text",
+    "value": "working-with-pdf-and-word-documents_key18"
+  }
+]

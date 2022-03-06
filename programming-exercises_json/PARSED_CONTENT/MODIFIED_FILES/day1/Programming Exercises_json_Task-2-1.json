@@ -1,0 +1,73 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-1_key1"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-1_key2"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-1_key3"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-1_key4"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-1_key5"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Eg:<br>  Jese manlo apko ek input mila 1000<br>  toh 1000 joh hai woh 4 se divisible hai aur woh 100 se bi divisible hai lekin 400 se nhi hai."
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-1_key6"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Task-2-1_key7"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 1000<br>  Output: Nhi hai"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 2:<br>  Input: 1460<br>  Output: hai"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 3:<br>  Input: 1568<br>  Output: hai"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 2004<br>  Output: hai"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2-1_key8"
+  },
+  {
+    "component": "text",
+    "value": "Task-2-1_key9"
+  }
+]

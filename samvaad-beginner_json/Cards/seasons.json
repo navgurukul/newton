@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Seasons"
+	},
+	{
+		"component": "text",
+		"value": "Which is your favourite season?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "What do you like about this season?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "youtube",
+		"value": "1x1HndNAh88"
+	},
+	{
+		"component": "youtube",
+		"value": "FodOPGbxJb8"
+	}
+]

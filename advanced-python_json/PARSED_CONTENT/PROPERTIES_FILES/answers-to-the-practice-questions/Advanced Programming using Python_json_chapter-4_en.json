@@ -1,0 +1,12 @@
+{
+	"chapter-4_key1": "Chapter 4",
+	"chapter-4_key2": "The empty list value, which is a list value that contains no items. This is similar to how '' is the empty <span style=\"\">string</span> value.",
+	"chapter-4_key3": "spam[2] = 'hello' (Notice that the third value in a list is at index 2 because the first index is 0.)",
+	"chapter-4_key4": "'d' (Note that '3' * 2 is the <span style=\"\">string</span> '33', which is passed to int() before being divided by 11. This eventually evaluates to 3. Expressions can be used wherever values are used.)",
+	"chapter-4_key5": "'d' (Negative indexes count from the end.)",
+	"chapter-4_key6": "['a', 'b']",
+	"chapter-4_key7": "1",
+	"chapter-4_key8": "[3.14, 'cat', 11, 'cat', <span style=\"\">True</span>, 99]",
+	"chapter-4_key9": "[3.14, 11, 'cat', <span style=\"\">True</span>]",
+	"chapter-4_key10": "The <span style=\"\">operator</span> for list concatenation is +, while the <span style=\"\">operator</span> for replication is *. (This is the same as for <span style=\"\">strings</span>.)<br>While append() will add values only to the end of a list, insert() can add them anywhere in the list.<br>The del <span style=\"\">statement</span> and the remove() list method are two ways to remove values from a list.<br>Both lists and <span style=\"\">strings</span> can be passed to len(), have indexes and slices, be used in for <span style=\"\">loops</span>, be concatenated or replicated, and be used with the in and not in <span style=\"\">operators</span>.<br>Lists are mu<span style=\"\">tab</span>le; they can have values added, removed, or changed. Tuples are immu<span style=\"\">tab</span>le; they cannot be changed at all. Also, tuples are written using parentheses, ( and ), while lists use the square brackets, [ and ].<br>(42,) (The trailing comma is mandatory.)<br>The tuple() and list() functions, respectively<br>They contain references to list values.<br>The copy.copy() function will do a shallow copy of a list, while the copy.deepcopy() function will do a deep copy of a list. That is, only copy.deepcopy() will duplicate any lists inside the list."
+}

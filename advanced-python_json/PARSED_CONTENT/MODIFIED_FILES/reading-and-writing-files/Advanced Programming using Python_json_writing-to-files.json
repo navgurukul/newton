@@ -1,0 +1,61 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "writing-to-files_key1"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key2"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key3"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key4"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> baconFile = open('bacon.txt', 'w')<br>>>> baconFile.write('Hello world!\\n')"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> baconFile.close()<br>>>> baconFile = open('bacon.txt', 'a')<br>>>> baconFile.write('Bacon is not a vegetable.')"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> baconFile.close()<br>>>> baconFile = open('bacon.txt')<br>>>> content = baconFile.read()<br>>>> baconFile.close()<br>>>> print(content)"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key8"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key9"
+  },
+  {
+    "component": "text",
+    "value": "writing-to-files_key10"
+  }
+]

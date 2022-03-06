@@ -1,0 +1,98 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Your Question"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Part 1"
+	},
+	{
+		"component": "text",
+		"value": "We have to use those lists to print this information :"
+	},
+	{
+		"component": "text",
+		"value": "Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">question_list</span> <span style=\"\">variable</span> print <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosra question</span>.Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">options_list</span>, print the four options of "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">question_list</span> <span style=\"\">variable</span> ko use kar kar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosra question</span> print karo<br><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">options_list</span> ka use kar kar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosre question</span> ke chaaron options ko print karo <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosre question</span>."
+	},
+	{
+		"component": "text",
+		"value": "Your <span style=\"\">output</span> should look like this :"
+	},
+	{
+		"component": "text",
+		"value": "Aapka Sawaal hai:<br>What is the capital of India?"
+	},
+	{
+		"component": "text",
+		"value": "Aapke options hai:"
+	},
+	{
+		"component": "text",
+		"value": "Chandigarh",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Bhopal",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Chennai",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Delhi",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Keep in Mind :"
+	},
+	{
+		"component": "text",
+		"value": "With each option , we should also print its <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Hint:"
+	},
+	{
+		"component": "text",
+		"value": "Remember what learnt about the indexes.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Use loop to print the options.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	}
+]

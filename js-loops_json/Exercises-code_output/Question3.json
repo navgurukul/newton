@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "What is the ouput of the following <span style=\"\">code</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "for (var i=0;i<10;) {<br>   console.log(i)<br>}"
+	}
+]

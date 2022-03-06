@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Header using Flex"
+	},
+	{
+		"component": "text",
+		"value": "Aayie thoda aur flex seekhte hai :) Flex ka use kare top menu header ko change karne\nke liye jaise iss <a href=\"http://abhishekgupta92.github.io/equality9\">exercise</a> main kiya gaya hai."
+	},
+	{
+		"component": "text",
+		"value": "<i>Dhyaan rakhe:</i>"
+	},
+	{
+		"component": "text",
+		"value": "Navgurukul ka logo \"index.html\" ko link karta hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Page ka naam h2 tag ke saath center mei likha hua hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

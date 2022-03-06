@@ -1,0 +1,7 @@
+{
+	"deleting-emails_key1": "Deleting Emails",
+	"deleting-emails_key2": "To delete emails, pass a list of message UIDs to the IMAPClient object’s delete_messages() method. This marks the emails with the \\Deleted flag. Calling the expunge() method will permanently delete all emails with the \\Deleted flag in the currently selected folder. Consider the following interactive <span style=\"\">shell</span> example:",
+	"deleting-emails_key3": "[40066]",
+	"deleting-emails_key4": "❸ {40066: ('\\Seen', '\\Deleted')}",
+	"deleting-emails_key5": "('Success', [(5452, 'EXISTS')])<br>Here we select the inbox by calling select<i>folder() on the IMAPClient object and passing 'INBOX' as the first argument; we also pass the <span style=\"\">key</span>word argument readonly=<span style=\"\">False</span> so that we can delete emails ❶. We search the inbox for messages received on a specific date and store the returned message IDs in UIDs ❷. Calling delete</i>message() and passing it UIDs returns a dictionary; each <span style=\"\">key</span>-value pair is a message ID and a tuple of the message’s flags, which should now include \\Deleted ❸. Calling expunge() then permanently deletes messages with the \\Deleted flag and returns a success message if there were no problems expunging the emails. Note that some email providers, such as Gmail, automatically expunge emails deleted with delete_messages() instead of waiting for an expunge command from the IMAP client."
+}

@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Leave Policy"
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul’s one-year residential program is an intensive program. It requires your <b>extraordinary commitment</b>, <b>passion</b> &amp; <b>hard work</b>. The program relies on <b>peer learning</b>, and expects you to be <b>available all throughout the year</b> to maximising your learning and ensure that every student learns well. "
+	},
+	{
+		"component": "text",
+		"value": "NavGurukul isn’t a conventional school or college, instead is like a family or a home. Students are expected to stay here, learn, celebrate their joys and festivals, share their sorrows and help each other in their journeys. "
+	},
+	{
+		"component": "text",
+		"value": "There are no official leaves including that of festivals like Diwali, Eid or Christmas. Hpwever there are a few exceptions as follows:"
+	},
+	{
+		"component": "text",
+		"value": "Upto <b>12 days leaves</b> in case of death of an immediate family member - father, mother and siblings",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Upto <b>4 days leaves</b> in case of death of close family members - grandparents, uncles, aunts",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Upto <b>20 days leaves</b> (once in the entire year) for university/college exams",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yet, if the student needs to take leaves for any other purpose - health (personal or family), important event or ceremony which can’t be avoided, etc. student needs to inform about his leave to the Center Incharge <b>at least 3 days in advance</b>. The student has to spend <b>two days in community serving</b> for each leave that he or she takes. The rationale of this policy is the realisation, that <b>any leave by the student hurts the interest of the entire group</b>. Hence, by engaging in community serving student can think responsibly and also add value to the community."
+	}
+]

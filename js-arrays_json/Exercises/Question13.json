@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Report Card"
+	},
+	{
+		"component": "text",
+		"value": "See this list:"
+	},
+	{
+		"component": "text",
+		"value": "marks = [<br>    [78, 76, 94, 86, 88],<br>    [91, 71, 98, 65, 76],<br>    [95, 45, 78, 52, 49]<br>]"
+	},
+	{
+		"component": "text",
+		"value": "Think that this is marks of some students from last 3 years, you need to calculate the marks of all subjects."
+	},
+	{
+		"component": "text",
+		"value": "For the above given list the total sum is- 1142."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var marks = [<br>   [78, 76, 94, 86, 88],<br>   [91, 71, 98, 65, 76],<br>   [95, 45, 78, 52, 49]<br>];<br>var sum=0;<br>for(var i of marks){<br>   for(var j of i){<br>       sum+=j<br>   }<br>}<br>console.log(sum);<br>"
+	}
+]

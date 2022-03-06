@@ -1,0 +1,35 @@
+[
+  {
+    "component": "text",
+    "value": "client_server_model_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "L5BlpPU_muY"
+  },
+  {
+    "component": "youtube",
+    "value": "XhSWx4ktFPQ"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "client_server_model_key2"
+  },
+  {
+    "component": "text",
+    "value": "client_server_model_key3"
+  },
+  {
+    "component": "text",
+    "value": "client_server_model_key4"
+  },
+  {
+    "component": "text",
+    "value": "client_server_model_key5"
+  },
+  {
+    "component": "text",
+    "value": "client_server_model_key6"
+  }
+]

@@ -1,0 +1,46 @@
+[
+	{
+		"component": "text",
+		"value": "Count the values of an object property; mostly they contain lists as values."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "var dict =  {"
+	},
+	{
+		"component": "text",
+		"value": "'Alex': ['subj1', 'subj2', 'subj3'], "
+	},
+	{
+		"component": "text",
+		"value": "'David': ['subj1', 'subj2']"
+	},
+	{
+		"component": "text",
+		"value": "}"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "total count:5"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var dict =  {<br>   'Alex': ['subj1', 'subj2', 'subj3'],<br>   'David': ['subj1', 'subj2']<br>}<br>var count = 0<br>for(i in dict){<br>   for (a in dict[i]){<br>       count ++<br>   }<br>}<br> <br>console.log(count);<br>"
+	}
+]

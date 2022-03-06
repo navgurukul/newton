@@ -1,0 +1,110 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "creating-pdfs_key1"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key2"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key3"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key4"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key5"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key6"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key7"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key8"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key9"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key10"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "creating-pdfs_key11"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key12"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import PyPDF2<br>   >>> pdf1File = open('meetingminutes.pdf', 'rb')<br>   >>> pdf2File = open('meetingminutes2.pdf', 'rb')<br>❶ >>> pdf1Reader = PyPDF2.PdfFileReader(pdf1File)<br>❷ >>> pdf2Reader = PyPDF2.PdfFileReader(pdf2File)<br>❸ >>> pdfWriter = PyPDF2.PdfFileWriter()<br><br>   >>> for pageNum in range(pdf1Reader.numPages):<br>❹         pageObj = pdf1Reader.getPage(pageNum)<br>❺         pdfWriter.addPage(pageObj)<br><br>   >>> for pageNum in range(pdf2Reader.numPages):<br>❻         pageObj = pdf2Reader.getPage(pageNum)<br>❼         pdfWriter.addPage(pageObj)<br><br>❽ >>> pdfOutputFile = open('combinedminutes.pdf', 'wb')<br>   >>> pdfWriter.write(pdfOutputFile)<br>   >>> pdfOutputFile.close()<br>   >>> pdf1File.close()<br>   >>> pdf2File.close()"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key14"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key15"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "creating-pdfs_key16"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key17"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key18"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "creating-pdfs_key19"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import PyPDF2<br>   >>> minutesFile = open('meetingminutes.pdf', 'rb')<br>   >>> pdfReader = PyPDF2.PdfFileReader(minutesFile)<br>❶ >>> page = pdfReader.getPage(0)<br>❷ >>> page.rotateClockwise(90)<br>   {'/Contents': [IndirectObject(961, 0), IndirectObject(962, 0),<br>   --snip--<br>   }<br>   >>> pdfWriter = PyPDF2.PdfFileWriter()<br>   >>> pdfWriter.addPage(page)<br>❸ >>> resultPdfFile = open('rotatedPage.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdfFile)<br>   >>> resultPdfFile.close()<br>   >>> minutesFile.close()"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key21"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key22"
+  },
+  {
+    "component": "text",
+    "value": "creating-pdfs_key23"
+  }
+]

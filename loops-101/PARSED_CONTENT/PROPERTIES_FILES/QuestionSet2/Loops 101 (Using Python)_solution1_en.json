@@ -1,0 +1,15 @@
+{
+	"solution1_key1": "Solution\n",
+	"solution1_key2": "Question\n",
+	"solution1_key3": "Print this pattern.\n",
+	"solution1_key4": "Solution\n",
+	"solution1_key5": "The solution to this question is given. This solution is written to give you more clarity on the concept. But, it would be much better if you try to solve it at first by yourself without looking at the solution.\n",
+	"solution1_key6": "We will understand a very small concept before understanding the solution. Suppose if we write `4*3` then `12` will come as we are multiplying two `integers`.\n",
+	"solution1_key7": "Similarly, if we multiply a `string` with an `integer` then it will behave differently.\n",
+	"solution1_key8": "See carefully, here if we write `\"navgurukul\"*3` then `navgurukul` is printed `3` times. Similarly, if we do `hello * 5`, then `hello` is printed `5` times.\n",
+	"solution1_key9": "Before writing the program we will observe some important things.\n",
+	"solution1_key10": "In this pattern there are `7` lines.\n",
+	"solution1_key11": "the First line has one `#`, the second line has 2 `#`, the third line has 3 `#`.\n",
+	"solution1_key12": "Means the number of `#` increases with the number of lines.\n\n\n",
+	"solution1_key13": "Its solution will be as follows:-\n"
+}

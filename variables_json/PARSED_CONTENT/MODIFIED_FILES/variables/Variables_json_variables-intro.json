@@ -1,0 +1,142 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "variables-intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key2"
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key3",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key4",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "variable_x=123<br>a=9999<br># Let's see what happens when we print variable_x and a.<br>print (variable_x, a)"
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "variable_x=9.9<br># Now print variable_x to see its value.<br>print (variable_x)"
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key7"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "variables-intro_key8"
+  },
+  {
+    "component": "youtube",
+    "value": "15aqFQQVBWU"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a='hello world'<br>b='navgurukul'<br># Now print them to see the output.<br>print (variable_x, a, b)"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "variables-intro_key9"
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key10"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=9PnmC9NAvzU"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "variables-intro_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 3<br>b = 4<br>c = a * b<br>a = b * c<br>b = a + c<br>c = a + b + c"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>b = 2<br>b = a"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 7<br>b = 8 * 4<br>b = a"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>b = 2<br>c = b<br>b = a <br>a = c"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 1<br>b = a*2<br>c = b*2<br>a = c*2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 100<br> a = a + 50<br> a = a / 3<br> a = a * 2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = 10<br> b = 10<br> c = a * b<br> a = c - b<br> b = c + a<br> c = a * c"
+  },
+  {
+    "component": "text",
+    "value": "variables-intro_key12"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=fny5w_YKSc8"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=RsmMloOHrRQ"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=pyFetzD0b38"
+  }
+]

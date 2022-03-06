@@ -1,0 +1,179 @@
+[
+	{
+		"component": "text",
+		"value": "** First you have to watch this video**"
+	},
+	{
+		"component": "youtube",
+		"value": "1YCLDC_Eqos"
+	},
+	{
+		"component": "youtube",
+		"value": "ys_qlQIWvhA"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "present continuous"
+	},
+	{
+		"component": "text",
+		"value": "1."
+	},
+	{
+		"component": "text",
+		"value": "http://www.studyandexam.com/present-continuous-tense.html"
+	},
+	{
+		"component": "text",
+		"value": "Questions"
+	},
+	{
+		"component": "text",
+		"value": "Hurry up! We ……………………….. for you.a.waitingb.are waitingc.wait",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "‘What are you ……………………….?' ‘I ………………………. letters.’a.doing, writingb.done, writingc.doing, write",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "He …………………………. in Italy at the moment.a.worksb.workinc.is working",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "She doesn’t like to be disturbed when she …………………………..a.worksb.workingc.is working",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "That child ……………………………… bigger everyday.a.getsb.gettingc.goted",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Who is that girl …………………………….. on the table?a.standb.standing  c.is standing",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "I …………………………….. for the shops to open. a.waitb.am waitingc.waiting",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "I …………………………….. Jane tomorrow.a.seeb.am seeingc.seeing",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "The universe ………………………, and has been so since its beginning.a.expandsb.is expandingc.expanding",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "My sister ……………………. at home for the moment.a.livesb.livingc.is living",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I have to change my shoes. These _ me. I'm sure I have a blister.a.are killingb.kill",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I feel a bit lost. I've just finished a really good novel and now I _ anything.a.am not readingb.do not read",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Coming to London for Christmas was a great I idea. I _ it here.a.loveb.am loving",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The company _ its offices to a bigger building next month.a.movesb.is moving",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "John really knows his subject. He _ a lecture on social media at university every Wednesday. You should come.a.givesb.is giving",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Sarah _ me when I speak. It's so irritating.a.is always interruptingb.always interrupts",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Can you help me with these boxes or _ ?a.are you busyb.are you being busy",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I _ people who never really listen to what you say.a.am hatingb.hateExercise1:https://www.grammarbank.com/present-continuous-tense-exercises.html",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Answer</b><br>1.a, 2.a, 3.c, 4.c, 5.b, 6.b,7.b, 8.b, 9.b, 10.c,11.a, 12.a, 13.b, 14.b, 15.b, 16.a, 17.b, 18.a"
+	}
+]

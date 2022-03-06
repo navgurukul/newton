@@ -1,0 +1,19 @@
+{
+	"Question12_key1": "Write a program to take 10 user `input`, and print the sum of that 10 `inputs`.\n",
+	"Question12_key2": "Note:\n",
+	"Question12_key3": "For this program you need to initialize with 50, and try to use decrement and run `loop`.\n",
+	"Question12_key4": "Program may run like this. Everytime by using readline sync we will take an `input`.\n",
+	"Question12_key5": "Koi bhi number daaliye > 10\n",
+	"Question12_key6": "Koi bhi number daaliye > 16\n",
+	"Question12_key7": "Koi bhi number daaliye > 9\n",
+	"Question12_key8": "Koi bhi number daaliye > 10\n",
+	"Question12_key9": "Koi bhi number daaliye > 56\n",
+	"Question12_key10": "Koi bhi number daaliye > 78\n",
+	"Question12_key11": "Koi bhi number daaliye > 98\n",
+	"Question12_key12": "Koi bhi number daaliye > 43\n",
+	"Question12_key13": "Koi bhi number daaliye > 21\n",
+	"Question12_key14": "Koi bhi number daaliye > 76\n",
+	"Question12_key15": "Total Sum: 417\n",
+	"Question12_key16": "In the final line we print Total Sum: 417. \n",
+	"Question12_key17": "This one prints 417 because 10+16+9+10+56+78+98+43+21+76 ka sum 417 hai.\n"
+}

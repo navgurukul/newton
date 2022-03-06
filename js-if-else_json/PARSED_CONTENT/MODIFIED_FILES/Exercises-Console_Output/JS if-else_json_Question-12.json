@@ -1,0 +1,32 @@
+[
+  {
+    "component": "text",
+    "value": "Question-12_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-12_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-12_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "let readlineaSync = require(\"readline-sync\");<br>var number=readlineaSync.questionInt(\"enter a number\");<br>if(number%5===0 && number%15===0){<br>   console.log(\"Divisible by both\");<br>}<br>else{<br>   console.log(\"Not divisible by both\");<br>}"
+  }
+]

@@ -1,0 +1,13 @@
+{
+	"loops-code-question7_key1": "Question 7\n",
+	"loops-code-question7_key2": "Now, we will make a game using `loops`. We will call this game a **guessing game**.\n",
+	"loops-code-question7_key3": "In this game we take any number, let us suppose this number is **`number 5`**.\n\n",
+	"loops-code-question7_key4": "After this we take any number as an `input` from the user between **`1 to 10`**. The user tries to guess this number.\n\n",
+	"loops-code-question7_key5": "Suppose the user gives `3`as an `input`. We will then check if `3` is equal to 5 or not?\n",
+	"loops-code-question7_key6": "`3 is not equal to 5` so we will ask the user for another `input`.\n",
+	"loops-code-question7_key7": "Now, we will check if that number is equal to 5 or not.\n",
+	"loops-code-question7_key8": "User will get **`5 chances`** to guess.\n\n\n",
+	"loops-code-question7_key9": "If he guessed right within the 5 chances he wins and if he guesses wrong then loses the game.\n",
+	"loops-code-question7_key10": "Hint :\n",
+	"loops-code-question7_key11": " Study about `break statement` in `python`.\n"
+}

@@ -1,0 +1,21 @@
+{
+    "examples_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Counter Examples</span>",
+    "examples_key2": "इस खंड में, कुछ उदाहरण दिए गए हैं। आपको इन उदाहरणों को बहुत ध्यान से समझने की ज़रूरत है, यह पता लगाने के लिए कि वे कैसे काम करते हैं? आपको प्रत्येक उदाहरण का <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dry run</span> करना होगा और ध्यान देना होगा कि ड्राई रन कैसे काम करता है।",
+    "examples_key3": "आप टिप्पणियों के रूप में कुछ और उदाहरण भी जोड़ सकते हैं ताकि आपकी और आपके साथियों की अवधारणा स्पष्ट हो जाए।",
+    "examples_key4": "उदाहरण 1",
+    "examples_key5": "आपको 3 के गुणज 1 से 40 तक प्रिंट करने हैं। <span style=\"\">code</span> लिखते समय ध्यान रखें कि काउंटर 891 से शुरू होता है।",
+    "examples_key6": "उदाहरण 1 का हल",
+    "examples_key7": "उदाहरण 2",
+    "examples_key8": "1 से 50 तक 5 के सभी गुणजों को प्रिंट करने के लिए <span style=\"\">code</span> लिखें। लेकिन आपको % (मापांक <span style=\"\">operator</span> ) का उपयोग करने की आवश्यकता नहीं है। इसके बिना करो।",
+    "examples_key9": "उदाहरण 2 . का हल",
+    "examples_key10": "उदाहरण 3",
+    "examples_key11": "50 से 100 के बीच की सभी विषम संख्याओं को प्रिंट करें।",
+    "examples_key12": "समाधान 1 से उदाहरण 3",
+    "examples_key13": "समाधान 2 से उदाहरण 3",
+    "examples_key14": "हल 3 से उदाहरण 3",
+    "examples_key15": "उदाहरण 4",
+    "examples_key16": "1 से 10 तक की संख्याओं को बिना वेतन वृद्धि के प्रिंट करें।",
+    "examples_key17": "समाधान 1 से उदाहरण 4",
+    "examples_key18": "समाधान 2 से उदाहरण 4",
+    "examples_key19": "हल 3 से उदाहरण 4"
+}

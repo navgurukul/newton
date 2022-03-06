@@ -1,0 +1,13 @@
+{
+	"objects-destructuring_key1": "Example:",
+	"objects-destructuring_key2": "This is what you do for extracting values from an object writing navgurukul two times for getting values, Here you have created two new <span style=\"\">variables</span>, mentor and mentee, and used dot notation for getting values from an object.",
+	"objects-destructuring_key3": "Here navgurukul.mentor is referring to Priya and that is assigning to name a new <span style=\"\">variable</span>.<br>And one navgurukul.mentee is referring to Sapna and it is assigned to mentee another new <span style=\"\">variable</span>.",
+	"objects-destructuring_key4": "A neater <span style=\"\">code</span> for that is rather than create new <span style=\"\">variables</span>",
+	"objects-destructuring_key5": "Here is where the concept of destructuring the object introduced for, To write a neater and structured <span style=\"\">code</span> like this and for removing the extra <span style=\"\">variables</span> from the program.",
+	"objects-destructuring_key6": "As you can see in the above example, the object from the Left hand side has the properties mentor and mentee with the values Priya and Sapna respectively. Note that you need to give the same property names in ({mentor,mentee} = navgurukul); , so that mentor’s value from navgurukul will store into mentor in curly braces and same for mentee. If you do not do so it will throw a reference <span style=\"\">error</span> that the property name you have mentioned is not defined.",
+	"objects-destructuring_key7": "( ) why we are using the parenthesis around ({mentor,mentee} = navgurukul);  that may be a question to you is right. If I am not taking parenthesis it will give me an <span style=\"\">error</span> as <span style=\"\">SyntaxE</span>rror: Unexpected token '='.",
+	"objects-destructuring_key8": "Why the <span style=\"\">error</span> is coming is because when the <span style=\"\">code</span> will see {} curly braces it will feel it as block <span style=\"\">code</span>. That's why for avoiding this <span style=\"\">error</span> we used () parenthesis.",
+	"objects-destructuring_key9": "You can extract properties from an object.",
+	"objects-destructuring_key10": "Without parenthesis you can do like also:",
+	"objects-destructuring_key11": "By putting const you are declaring them and you are destructuring (formatting the data in the structured manner)the mentor and mentee from the navgurukul object. It is important to maintain the data in the <span style=\"\">code</span> by using less space and it helps to write the <span style=\"\">code</span> neatly as well."
+}

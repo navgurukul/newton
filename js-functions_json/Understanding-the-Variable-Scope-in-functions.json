@@ -1,0 +1,47 @@
+[
+	{
+		"component": "text",
+		"value": "<span style=\"\">variables</span> declared within a function have local scope that means they cannot be viewed or used from outside of that function, as shown in the example below:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// Defining function<br><br>function greetWorld() {<br> var greet = \"Hello World!\";<br> console.log(greet);<br>}<br>greetWorld(); // Outputs: Hello World!<br>console.log(greet); // Uncaught ReferenceError: greet is not defined"
+	},
+	{
+		"component": "text",
+		"value": "See in the above example, if you see greet is declared inside a function and we tried to print it outside. So, it gave a Reference <span style=\"\">error</span>. Here we will get to know that greet has local scope (inside the function block). "
+	},
+	{
+		"component": "text",
+		"value": "However, any <span style=\"\">variables</span> declared in a program at outside of a function have global scope(defined outside the function block) i.e. it will be available to the whole <span style=\"\">file</span>, whether that <span style=\"\">variable</span> we are going to use in inside a function or outside. "
+	},
+	{
+		"component": "text",
+		"value": "Here's an <b>example</b>:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>var greet = \"Hello World!\";<br>// Defining function<br>function greetWorld() {<br>  console.log(greet);<br>}<br>greetWorld();  // Outputs: Hello World!<br>console.log(greet); // Outputs: Hello World!<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">variable</span> greet is defined outside of our function, it will have the global that means we can use it inside a function or anywhere in the whole <span style=\"\">code</span>. "
+	},
+	{
+		"component": "text",
+		"value": "inside the function we asked to console greet, it printed Hello World!."
+	},
+	{
+		"component": "text",
+		"value": "Outside of the function somewhere in the <span style=\"\">code</span> we asked to print greet again, it again printed Hello World!."
+	}
+]

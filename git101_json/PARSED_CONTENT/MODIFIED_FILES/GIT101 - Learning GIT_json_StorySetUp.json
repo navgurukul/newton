@@ -1,0 +1,51 @@
+[
+  {
+    "component": "text",
+    "value": "StorySetUp_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "$ mkdir Stories"
+  },
+  {
+    "component": "text",
+    "value": "StorySetUp_key2"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "cd Stories"
+  },
+  {
+    "component": "text",
+    "value": "StorySetUp_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "git init"
+  },
+  {
+    "component": "text",
+    "value": "StorySetUp_key4"
+  },
+  {
+    "component": "text",
+    "value": "StorySetUp_key5"
+  },
+  {
+    "component": "text",
+    "value": "StorySetUp_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "StorySetUp_key7"
+  }
+]

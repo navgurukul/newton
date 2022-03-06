@@ -1,0 +1,7 @@
+{
+	"reading-data-from-reader-objects-in-a-for-loop_key1": "Reading Data from Reader Objects in a for `Loop`\n",
+	"reading-data-from-reader-objects-in-a-for-loop_key2": "For large CSV `files`, you’ll want to use the Reader object in a for `loop`. This avoids loading the entire `file` into memory at once. For example, enter the following into the interactive `shell`:\n",
+	"reading-data-from-reader-objects-in-a-for-loop_key3": "Row #1 ['4/5/2015 13:34', 'Apples', '73']\nRow #2 ['4/5/2015 3:41', 'Cherries', '85']\nRow #3 ['4/6/2015 12:46', 'Pears', '14']\nRow #4 ['4/8/2015 8:59', 'Oranges', '52']\nRow #5 ['4/10/2015 2:07', 'Apples', '152']\nRow #6 ['4/10/2015 18:10', 'Bananas', '23']\nRow #7 ['4/10/2015 2:40', 'Strawberries', '98']\nAfter you import the csv module and make a Reader object from the CSV `file`, you can `loop` through the rows in the Reader object. Each row is a list of values, with each value representing a cell.\n",
+	"reading-data-from-reader-objects-in-a-for-loop_key4": "The print() function call prints the number of the current row and the contents of the row. To get the row number, use the Reader object’s line_num `variable`, which contains the number of the current line.\n",
+	"reading-data-from-reader-objects-in-a-for-loop_key5": "The Reader object can be `loope`d over only once. To reread the CSV `file`, you must call csv.reader to create a Reader object\n"
+}

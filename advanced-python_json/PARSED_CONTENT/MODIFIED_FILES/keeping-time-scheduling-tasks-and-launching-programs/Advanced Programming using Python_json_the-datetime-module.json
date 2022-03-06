@@ -1,0 +1,97 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-datetime-module_key1"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key2"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import datetime<br>❶ >>> datetime.datetime.now()<br>❷ datetime.datetime(2015, 2, 27, 11, 10, 49, 55, 53)<br>❸ >>> dt = datetime.datetime(2015, 10, 21, 16, 29, 0)<br>❹ >>> dt.year, dt.month, dt.day<br>   (2015, 10, 21)<br>❺ >>> dt.hour, dt.minute, dt.second"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key4"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> datetime.datetime.fromtimestamp(1000000)"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> datetime.datetime.fromtimestamp(time.time())"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key7"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key8"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❶ >>> halloween2015 = datetime.datetime(2015, 10, 31, 0, 0, 0)<br>❷ >>> newyears2016 = datetime.datetime(2016, 1, 1, 0, 0, 0)<br>   >>> oct31_2015 = datetime.datetime(2015, 10, 31, 0, 0, 0)<br>❸ >>> halloween2015 == oct31_2015"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❹ >>> halloween2015 > newyears2016"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❺ >>> newyears2016 > halloween2015"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key12"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> newyears2016 != oct31_2015"
+  },
+  {
+    "component": "text",
+    "value": "the-datetime-module_key13"
+  }
+]

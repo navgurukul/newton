@@ -1,0 +1,12 @@
+{
+    "count-occurences_key1": "घटनाओं की गणना करें",
+    "count-occurences_key2": "<b>Occurences</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">��\u001b���\\</span> से बना है जिसका अर्थ है कि एक निश्चित वर्ण या शब्द कितनी बार प्रकट होता है।",
+    "count-occurences_key3": "<b>नमूना सूची</b>",
+    "count-occurences_key4": "<b>नमूना सूची का <span style=\"\">Output</span></b>",
+    "count-occurences_key5": "[[\"ए\", 6], [\"एन\", 3], [\"टी\", 2], [\"एक्स\", 2], [\"यू\", 1], [\"जी\", 1]]",
+    "count-occurences_key6": "ए - 6 बार<br> एन - 3 बार<br> टी - 2 बार<br> एक्स - 2 बार<br> यू - 1 बार<br> जी - 1 बार",
+    "count-occurences_key7": "हम <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">char_list</span> में पात्रों की <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> गिनती करने के लिए है और हम <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> में <span style=\"\">save</span> करने के लिए है <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> तो हम <span style=\"\">output</span> मुद्रित करने के लिए है कि नेस्टेड सूची का उपयोग करने के लिए है।",
+    "count-occurences_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+    "count-occurences_key9": "समाधान",
+    "count-occurences_key10": "[]"
+}

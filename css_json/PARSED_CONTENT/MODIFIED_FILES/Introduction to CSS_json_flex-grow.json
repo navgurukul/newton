@@ -1,0 +1,54 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "flex-grow_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "flex-grow_key2"
+  },
+  {
+    "component": "text",
+    "value": "flex-grow_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "flex-grow_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "flex-grow_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "flex-grow_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "flex-grow_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "flex-grow_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

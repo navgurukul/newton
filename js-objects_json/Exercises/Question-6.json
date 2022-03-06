@@ -1,0 +1,42 @@
+[
+	{
+		"component": "text",
+		"value": "Write a program that calculates the sum of the values of an object."
+	},
+	{
+		"component": "text",
+		"value": "Example :"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span> :"
+	},
+	{
+		"component": "text",
+		"value": "my_dict = {"
+	},
+	{
+		"component": "text",
+		"value": "'data1':100,<br><br>'data2': -54,<br><br>'data3': 247<br><br>}"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "293"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var my_dict = {<br>    'data1':100,<br>    'data2': -54,<br>    'data3': 247<br>   }<br>var sum=0<br><br>for(i in my_dict){<br>    sum+=my_dict[i]<br>}<br>console.log(\"Total:\",sum)"
+	}
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "css-selectors_key1"
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key2"
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "youtube",
+    "value": "WrImGwPqy9Y"
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key4"
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key5"
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key13",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "css-selectors_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

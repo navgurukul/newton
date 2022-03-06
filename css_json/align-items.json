@@ -1,0 +1,33 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "align-items: Container Property"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "flex-start | flex-end | center | baseline | stretch"
+	},
+	{
+		"component": "text",
+		"value": "Iss property se hum yeh set karte hai ki flex-items container ke andar kaise height lengi.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "By default iski value <b>stretch</b> hoti hai yaani ki flex-items container mein <b>jitne height</b> unhe chahiye utni height leni ki koshish karte hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Iss <a href=\"http://codepen.io/navgurukul/pen/egavZJ\">example</a> ko dekho aur isme container ki css se <b>align-items:center</b> waali line se comment hata kar dekho ki kya hota hai. Aur align-items ki alag alag value daal kar bhi dekho.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

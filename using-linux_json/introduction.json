@@ -1,0 +1,20 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Learn how to use linux"
+	},
+	{
+		"component": "text",
+		"value": "Iss course ko use kar kar hum linux karna seekhenge. Aapko ensure karna hai, aapko yeh commands theek se samajh aur use karna aata hai."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"\">Terminal</span> ko dhang se use karne ke liye, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">errors</span> ko sahi se padhna sabse jyada important hai."
+	},
+	{
+		"component": "text",
+		"value": "Agar aap <span style=\"\">errors</span> ko theek se nahi padhoge, toh aap bahut jyada stuck feel karoge. <span style=\"\">Error</span> ko English mei padh kar, hindi mei samjhiye, aur phir thoda time de yeh samajhne ke liye ki <span style=\"\">terminal</span> aap se kya bolna chahta hoga."
+	}
+]

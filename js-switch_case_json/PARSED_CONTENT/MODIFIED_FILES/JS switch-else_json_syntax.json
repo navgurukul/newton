@@ -1,0 +1,48 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "syntax_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "syntax_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "syntax_key3"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>var num = \"w\"<br>switch (true){<br>case num > 0:<br>console.log(\"It is a positive number\")<br>      break;<br>case num < 0:<br>console.log(\"It is a negative number\")<br>      break;<br>case num == 0:<br>console.log(\"It is a zero\")<br>      break;<br>default:<br>console.log(\"Invalid input\")<br>    }"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "syntax_key4"
+  },
+  {
+    "component": "text",
+    "value": "syntax_key5"
+  },
+  {
+    "component": "text",
+    "value": "syntax_key6"
+  },
+  {
+    "component": "text",
+    "value": "syntax_key7"
+  },
+  {
+    "component": "text",
+    "value": "syntax_key8"
+  },
+  {
+    "component": "text",
+    "value": "syntax_key9"
+  }
+]

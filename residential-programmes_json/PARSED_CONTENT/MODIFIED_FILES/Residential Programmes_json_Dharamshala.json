@@ -1,0 +1,75 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "Dharamshala_key1"
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Dharamshala_key9"
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Dharamshala_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

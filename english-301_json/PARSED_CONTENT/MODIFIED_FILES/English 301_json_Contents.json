@@ -1,0 +1,58 @@
+[
+  {
+    "component": "text",
+    "value": "Contents_key1"
+  },
+  {
+    "component": "text",
+    "value": "Contents_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Contents_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Contents_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "Contents_key5"
+  },
+  {
+    "component": "text",
+    "value": "Contents_key6",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Contents_key7",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Contents_key8",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  }
+]

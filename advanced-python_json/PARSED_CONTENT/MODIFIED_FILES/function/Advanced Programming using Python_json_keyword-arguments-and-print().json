@@ -1,0 +1,59 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "keyword-arguments-and-print()_key1"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key2"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key3"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key4"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key5"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key6"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key7"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key8"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> print('cats', 'dogs', 'mice')"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> print('cats', 'dogs', 'mice', sep=',')"
+  },
+  {
+    "component": "text",
+    "value": "keyword-arguments-and-print()_key11"
+  }
+]

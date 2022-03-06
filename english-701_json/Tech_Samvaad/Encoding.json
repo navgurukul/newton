@@ -1,0 +1,130 @@
+[
+	{
+		"component": "text",
+		"value": "<h2 id=\"encodinganddecodingbraappahleyevideosdekhlijiyeishseaapkaconceptclearhojayegaandaagesamajhnemeaasanihogi\">Encoding and Decoding :-<br>Aap pahle ye videos dekh lijiye, ishse aapka concept clear ho jayega and aage samajhne me aasani hogi.</h2>"
+	},
+	{
+		"component": "youtube",
+		"value": "kfPPmmd9CRE"
+	},
+	{
+		"component": "youtube",
+		"value": "3KBfiOKMaWo"
+	},
+	{
+		"component": "text",
+		"value": "<h3 id=\"encoding\">Encoding:-</h3>"
+	},
+	{
+		"component": "text",
+		"value": "Encoding ek aishi prakriya hai jisame daata ko ek aise formet mein badal diya jaata hai jise kee kishi dooshre system dwara upayog kiya ja sakata hai.  Eg.  yadi hamaare paas kuchh daata aur hamen is daata ko kishi doosare system ya computer ko process karane ke liye dena hai to hamen apne daata ko us formet mein hi badalana hoga jise ki yah doosara process ya computer samajhata hai, anyatha yah system hamaare daata ko proses hi nahi kar paayega kyonki is system ko ek vishesh formet mein hi daata chaahie hoga.  encoding ko computer, networking, elwctronics etc. kshetron mein upayog kiya jaata hai."
+	},
+	{
+		"component": "text",
+		"value": "<span><img src=\"https://i.ytimg.com/vi/90fME0sT7ko/maxresdefault.jpg<br>\"></span>"
+	},
+	{
+		"component": "youtube",
+		"value": "90fME0sT7ko"
+	},
+	{
+		"component": "text",
+		"value": "Ya ish link per jaye <br>"
+	},
+	{
+		"component": "text",
+		"value": "http://techhindistuff.blogspot.com/2018/06/what-is-encoding-in-computing-in-hindi.html"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"decodingbrdicodingspanstylecodespankosaadapaathyakishibhipraaroopmeinbadalnekiprakriyahaijobaadkiprakriyaonkeliyeupayogeehaidecodingencodingkeoppositehaiyahenspanstylecodespanddetasanchaarprasaaranaurspanstylefilesspankounakeoriginalstatesmeinchangekaratahai\">Decoding:-<br>dicoding <span style=\"\">code</span> ko saada paath ya kishi bhi praaroop mein badalne ki prakriya hai jo baad ki prakriyaon ke liye upayogee hai. decoding encoding ke opposite hai. yah en<span style=\"\">code</span>d deta sanchaar prasaaran aur <span style=\"\">files</span> ko unake original states mein change karata hai.</h2>"
+	},
+	{
+		"component": "text",
+		"value": "<span><img src=\"https://i.ytimg.com/vi/3per0Uq3BnA/maxresdefault.jpg<br>\"></span>"
+	},
+	{
+		"component": "text",
+		"value": "Behtar jaankari ke liye aap ish video ko poora dekhiye.."
+	},
+	{
+		"component": "youtube",
+		"value": "0qTnewnVRLo"
+	},
+	{
+		"component": "text",
+		"value": "<h2 id=\"lettercoding\">Letter coding:-</h2>"
+	},
+	{
+		"component": "text",
+		"value": "In letter coding type of questions, the real alphabets in a word are replaced be certain other alphabets according to a specific rule to form its <span style=\"\">code</span>. The candidate is required to detect the common rule and answer the questions accordingly."
+	},
+	{
+		"component": "youtube",
+		"value": "jRHLrfJC6Rk"
+	},
+	{
+		"component": "text",
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "What is encoding?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is decoding?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between encoding and decoding?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is letter coding?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is encoding and decoding in java?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Tips</b>:"
+	},
+	{
+		"component": "text",
+		"value": "Aap subtitles/captions on kar sakte hai, YouTube Video dekhte hue",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	}
+]

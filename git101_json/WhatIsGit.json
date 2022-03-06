@@ -1,0 +1,54 @@
+[
+	{
+		"component": "text",
+		"value": "Aapne computer <span style=\"\">applications</span> (jaise android apps, operating systems, games etc.) use karte hue, unke versions ke naam sune honge."
+	},
+	{
+		"component": "text",
+		"value": "Jaise yeh padhe:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Ubuntu version 12.04<br>Ubuntu version 16.04<br>...<br>...<br>Ubuntu version 17.01 etc."
+	},
+	{
+		"component": "text",
+		"value": "Developers <span style=\"\">application</span> ke har naye version ke saath user ke liye naye features introduce karte hain aur purane buggy (jisme bugs ho) features ko improve karte hain."
+	},
+	{
+		"component": "text",
+		"value": "Kya aapko pata hai ki kabhi-kabhi ek <span style=\"\">application</span> pe 1-100 ya usse bhi jyada developers saath mein kaam kar sakte hain!<br><span style=\"\">Application</span> ke har feature ko developers pehle alag-alag aur fir saath mein test karte hain!"
+	},
+	{
+		"component": "text",
+		"value": "Aise mein alag-alag version ke saath aur itne saare logon ke saath, developers <span style=\"\">application</span> development kaise manage karte hain??"
+	},
+	{
+		"component": "text",
+		"value": "Version control system <span style=\"\">application</span> use karke. Version control system use karke hum <span style=\"\">application</span> ke alag-alag versions aur multiple logon ke saath ek hi <span style=\"\">application</span> par simultaneously kaam kar sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "<b>Git</b> ek version control system <span style=\"\">application</span> hai."
+	},
+	{
+		"component": "text",
+		"value": "<b>Assignment</b>"
+	},
+	{
+		"component": "text",
+		"value": "Git kya hai aur use hum kyon use karte hain? Ye janne ke liye app <a href=\"https://www.quora.com/What-is-git-and-why-should-I-use-it\">ye link</a> padhe.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Upar diye hue link padhne ke baad apne kisi peer ko git ke baare mein samjhaye. Samjhate hue apne peer ke doubts clear karne ki kosish karein.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

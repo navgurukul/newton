@@ -1,0 +1,81 @@
+[
+	{
+		"component": "text",
+		"value": "Git humare working directory ke <span style=\"\">files</span> mein kiye hue changes ko track karta hai. "
+	},
+	{
+		"component": "text",
+		"value": "Lekin…"
+	},
+	{
+		"component": "text",
+		"value": "abhi git koi bhi <span style=\"\">files</span> track nahi kar raha hai. Hume git ko batana hoga ki usey kaun si <span style=\"\">files</span> track karni hai."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Terminal</span> khol kar apne <b>stories</b> directory mein navigate kijiye"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "$ cd Stories<br>"
+	},
+	{
+		"component": "text",
+		"value": "<b>ls</b> command use karke aap apne directory ke saare <span style=\"\">files</span> ko dekh sakte hain.<br>Iss directory mein \"git status\" command run kijiye."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "$ git status"
+	},
+	{
+		"component": "text",
+		"value": "\"git status\" command use karke aap apne directory ke saare <i>tracked</i> aur <i>untracked <span style=\"\">files</span></i> ko dekh sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "Directory ke kisi bhi <span style=\"\">file</span> ko track karne ke liye"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "git add <filename>"
+	},
+	{
+		"component": "text",
+		"value": "ka use kar sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "\"git add *\" directory ke saare <span style=\"\">files</span> ko track kar sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "<b>Assignment</b>"
+	},
+	{
+		"component": "text",
+		"value": "Apne Story ki file ko \"git add\" use karke git ke through track hone dijiye.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "\"git add\" ka documentation padhiye aur uska use samajhiyehttps://git-scm.com/docs/git-add",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "\"git add\" use karke hum untracked files ko track karte hain. Tracked files ko wapas se untracked banane ke liye git kya use karta hoga. Pehle Sochiye!!Fir git ka <a href=\"https://git-scm.com/doc\">documentation</a> khol kar pata lagane ki koiis kijiye.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

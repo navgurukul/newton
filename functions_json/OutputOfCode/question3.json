@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 3"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the <span style=\"\">code</span> given below?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "<br>def greet(*names):<br>&emsp;for name in names:<br>&emsp;&emsp;print(\"Hello\", name)<br>greet(\"sonu\", \"kartik\", \"umesh\", \"bijender\")<br>"
+	}
+]

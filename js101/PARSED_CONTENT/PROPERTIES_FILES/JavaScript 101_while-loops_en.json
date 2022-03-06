@@ -1,0 +1,6 @@
+{
+	"while-loops_key1": "Introduce the concept of `loops`.\n\n",
+	"while-loops_key2": "A while `loop` to take in user `input` 10 times before it stops.\n\n\n",
+	"while-loops_key3": "// while `loop`\nwhile(`true`) {\n        var operation = prompt('Kaunse operation karna chahenge', 'a:addition/s:subtraction/d:division/m:multiplication')\n        var a = Number(prompt('Pehle number likho', '12'))\n        var b = Number(prompt('Dusra number likho', '34'))\n",
+	"while-loops_key4": "}\n"
+}

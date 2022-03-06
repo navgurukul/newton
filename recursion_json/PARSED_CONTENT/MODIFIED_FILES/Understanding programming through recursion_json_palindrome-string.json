@@ -1,0 +1,63 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "palindrome-string_key1"
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key2"
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key3"
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key4"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "palindrome-string_key5"
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "palindrome-string_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "palindrome-string_key10"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def ifPalindrome(string):<br>    if string == \"\":  # BASE CASE CONDITION<br>        return True<br>    elif len(string) == 1:  # BASE CASE CONDITION<br>        return True<br>    elif string[0] == string[len(string)-1]:  # RECURSION<br>        return ifPalindrome(string[1:][:-1])<br>    else:<br>        return False"
+  }
+]

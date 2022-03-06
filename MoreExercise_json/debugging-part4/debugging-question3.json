@@ -1,0 +1,46 @@
+[
+	{
+		"component": "text",
+		"value": "Iss program ko attempt karne ke liye pehle ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> naam ki <span style=\"\">file</span> mein neeche diye hue text ko <span style=\"\">save</span> karein."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{<br>&emsp;\"users\": [{<br>&emsp;&emsp;&emsp;\"firstName\": \"vidur\",<br>&emsp;&emsp;&emsp;\"lastName\": \"singla\",<br>&emsp;&emsp;&emsp;\"details\": {<br>&emsp;&emsp;&emsp;&emsp;\"age\": 21,<br>&emsp;&emsp;&emsp;&emsp;\"mobileNo\": 1234567890,<br>&emsp;&emsp;&emsp;&emsp;\"City\": \"Delhi\"<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;},<br>&emsp;&emsp;{<br>&emsp;&emsp;&emsp;\"firstName\": \"rishabh\",<br>&emsp;&emsp;&emsp;\"lastName\": \"verma\",<br>&emsp;&emsp;&emsp;\"details\": {<br>&emsp;&emsp;&emsp;&emsp;\"age\": 22,<br>&emsp;&emsp;&emsp;&emsp;\"mobileNo\": 12345678320,<br>&emsp;&emsp;&emsp;&emsp;\"City\": \"Chandigarh\"<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;},<br>&emsp;&emsp;{<br>&emsp;&emsp;&emsp;\"firstName\": \"abhishek\",<br>&emsp;&emsp;&emsp;\"lastName\": \"gupta\",<br>&emsp;&emsp;&emsp;\"details\": {<br>&emsp;&emsp;&emsp;&emsp;\"age\": 25,<br>&emsp;&emsp;&emsp;&emsp;\"mobileNo\": 12332567890,<br>&emsp;&emsp;&emsp;&emsp;\"City\": \"Gurgaon\"<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;}<br>&emsp;]<br>}"
+	},
+	{
+		"component": "text",
+		"value": "Uske baad aapne jiss directory mein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> <span style=\"\">save</span> kiya hai, usse directory mein yeh <span style=\"\">python</span> ka <span style=\"\">code</span> <span style=\"\">save</span> kariye ek dusri <span style=\"\">file</span> mein."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "import json<br>with open('user.json') as data_file:&emsp;<br>&emsp;data = json.load(data_file)<br><br>users = data['users']<br><br>for user in data:<br>  counter = 0<br>  print (\"users full name is \" + user['firstName'] + ' ' + user['lastName'])<br>  while counter < len(user['details']):<br>&emsp;print (\"users mobile number is \" + user['details'][counter]['mobileNo'])<br>&emsp;print (\"users age  is \" + user['details'][counter]['age'])<br>&emsp;print (\"users city is \" + user['details'][counter]['city'])"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> <span style=\"\">file</span> mein users ka data padha hai. Yeh program <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">users.json</span> <span style=\"\">file</span> ko read kar kar usmein se users ka data print karega. Iss <span style=\"\">file</span> ko debug kar kar run karo."
+	},
+	{
+		"component": "text",
+		"value": "Topics covered:"
+	},
+	{
+		"component": "text",
+		"value": "Key error",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "loop iterates over the wrong list.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

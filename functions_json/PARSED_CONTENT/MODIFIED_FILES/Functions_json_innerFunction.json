@@ -1,0 +1,78 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "innerFunction_key1"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key2"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def f1():<br>   s = \"I Love Navgurukul\"<br>   def f2():<br>&emsp;   print(s)<br>   f2()<br><br>f1()"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key4"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key5"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key6"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "innerFunction_key7"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key8"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>first_function()"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key10"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;s = \"MY NAME IS JACK\"<br>&emsp;&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>&emsp;print(s)&emsp;<br> <br>first_function()"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key12"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key13"
+  },
+  {
+    "component": "text",
+    "value": "innerFunction_key14"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "bonus-task1_key1"
+  },
+  {
+    "component": "text",
+    "value": "bonus-task1_key2"
+  },
+  {
+    "component": "text",
+    "value": "bonus-task1_key3"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/web-scraping_json/images/anand_similar_movies.png",
+    "alt": "bonus-task1_key4"
+  },
+  {
+    "component": "text",
+    "value": "bonus-task1_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "bonus-task1_key6"
+  },
+  {
+    "component": "text",
+    "value": "bonus-task1_key7"
+  }
+]

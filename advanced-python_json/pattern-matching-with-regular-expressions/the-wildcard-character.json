@@ -1,0 +1,54 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The Wildcard Character"
+	},
+	{
+		"component": "text",
+		"value": "The . (or dot) character in a regular expression is called a wildcard and will match any character except for a newline. For example, enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> atRegex = re.compile(r'.at')<br>>>> atRegex.findall('The cat in the hat sat on the flat mat.')<br>['cat', 'hat', 'sat', 'lat', 'mat']"
+	},
+	{
+		"component": "text",
+		"value": "Remember that the dot character will match just one character, which is why the match for the text flat in the previous example matched only lat. To match an actual dot, escape the dot with a backslash: .."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Matching Everything with Dot-Star"
+	},
+	{
+		"component": "text",
+		"value": "Sometimes you will want to match everything and anything. For example, say you want to match the <span style=\"\">string</span> 'First Name:', followed by any and all text, followed by 'Last Name:', and then followed by anything again. You can use the dot-star (.*) to stand in for that “anything.” Remember that the dot character means “any single character except the newline,” and the star character means “zero or more of the preceding character.”<br>Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> nameRegex = re.compile(r'First Name: (.*) Last Name: (.*)')<br>>>> mo = nameRegex.search('First Name: Al Last Name: Sweigart')<br>>>> mo.group(1)<br>'Al'<br>>>> mo.group(2)<br>'Sweigart'"
+	},
+	{
+		"component": "text",
+		"value": "The dot-star uses greedy mode: It will always try to match as much text as possible. To match any and all text in a nongreedy fashion, use the dot, star, and question mark (.*?). Like with curly brackets, the question mark tells <span style=\"\">Python</span> to match in a nongreedy way."
+	},
+	{
+		"component": "text",
+		"value": "Enter the following into the interactive <span style=\"\">shell</span> to see the difference between the greedy and nongreedy versions:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> nongreedyRegex = re.compile(r'<.*?>')<br>>>> mo = nongreedyRegex.search('<To serve man> for dinner.>')<br>>>> mo.group()<br>'<To serve man>'<br><br>>>> greedyRegex = re.compile(r'<.*>')<br>>>> mo = greedyRegex.search('<To serve man> for dinner.>')<br>>>> mo.group()<br>'<To serve man> for dinner.>'"
+	},
+	{
+		"component": "text",
+		"value": "Both regexes roughly translate to “Match an opening angle bracket, followed by anything, followed by a closing angle bracket.” But the <span style=\"\">string</span> '<To serve man> for dinner.&gt;' has two possible matches for the closing angle bracket. In the nongreedy version of the regex, <span style=\"\">Python</span> matches the shortest possible <span style=\"\">string</span>: '<To serve man>'. In the greedy version, <span style=\"\">Python</span> matches the longest possible <span style=\"\">string</span>: '<To serve man> for dinner.&gt;'."
+	}
+]

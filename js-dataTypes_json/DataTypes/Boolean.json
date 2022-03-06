@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "The Boolean data type can hold only two values: <span style=\"\">true</span> or <span style=\"\">false</span>. It is typically used to store values like yes (<span style=\"\">true</span>) or no (<span style=\"\">false</span>), on (<span style=\"\">true</span>) or off (<span style=\"\">false</span>), etc. as demonstrated below:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var isStanding = true;   // this means -- yes, I'm standing<br>var isStudying = false; // this means -- no, I'm not studying"
+	},
+	{
+		"component": "text",
+		"value": "Boolean values also come as a result of comparisons in a program. The following example compares two <span style=\"\">variables</span> and shows the result."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var a = 2, b = 5, c = 10;<br>console.log(b > a); // Output: true<br>console.log(b > c); // Output: false"
+	},
+	{
+		"component": "text",
+		"value": "Don't worry we will learn more on operations and comparisions in <b><span style=\"\">operators</span></b>."
+	}
+]

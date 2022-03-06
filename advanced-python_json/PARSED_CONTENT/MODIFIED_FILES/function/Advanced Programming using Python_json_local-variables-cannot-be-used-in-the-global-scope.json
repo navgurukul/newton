@@ -1,0 +1,31 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "local-variables-cannot-be-used-in-the-global-scope_key1"
+  },
+  {
+    "component": "text",
+    "value": "local-variables-cannot-be-used-in-the-global-scope_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def spam():<br>    eggs = 31337<br>spam()<br>print(eggs)"
+  },
+  {
+    "component": "text",
+    "value": "local-variables-cannot-be-used-in-the-global-scope_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "Traceback (most recent call last):<br>  File \"C:/test3784.py\", line 4, in <module><br>    print(eggs)<br>NameError: name 'eggs' is not defined"
+  },
+  {
+    "component": "text",
+    "value": "local-variables-cannot-be-used-in-the-global-scope_key4"
+  }
+]

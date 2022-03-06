@@ -1,0 +1,77 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Pending Tasks"
+	},
+	{
+		"component": "text",
+		"value": "<b>Yogendra</b> Simple Series (Alternative Series 1) Video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Pavan</b> Simple Series (Alternative Series 2) Video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Yogendra</b> Factorial video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Satyam</b> Sum of a list solution video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Yogendra</b> palindrome string solution video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "~~<b>Satyam</b> fibonacci series solution Video~~",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Pralhad</b> fibonacci series advanced solution Video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Pralhad</b> binary search solution Video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Pavan</b> calculate solution Video",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Pavan/Pralhad</b> nested lists",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

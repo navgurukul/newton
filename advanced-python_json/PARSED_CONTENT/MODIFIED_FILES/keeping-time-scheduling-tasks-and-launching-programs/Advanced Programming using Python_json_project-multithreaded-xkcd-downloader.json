@@ -1,0 +1,165 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key9"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key12"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key13"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key14"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key15"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key16"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key17"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key18"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key19"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key21"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key22"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key23"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key24"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key25"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key26"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key27"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Create and start the Thread objects.<br>downloadThreads = []             # a list of all the Thread objects<br>for i in range(0, 1400, 100):    # loops 14 times, creates 14 threads<br>    downloadThread = threading.Thread(target=downloadXkcd, args=(i, i + 99))<br>    downloadThreads.append(downloadThread)<br>    downloadThread.start()"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key28"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key29"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key30"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key31"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key32"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-multithreaded-xkcd-downloader_key33"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key34"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# Wait for all threads to end.<br>for downloadThread in downloadThreads:<br>    downloadThread.join()<br>print('Done.')"
+  },
+  {
+    "component": "text",
+    "value": "project-multithreaded-xkcd-downloader_key35"
+  }
+]

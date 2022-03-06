@@ -1,0 +1,14 @@
+[
+  {
+    "component": "text",
+    "value": "assessment_key1"
+  },
+  {
+    "component": "text",
+    "value": "assessment_key2"
+  },
+  {
+    "component": "text",
+    "value": "assessment_key3"
+  }
+]

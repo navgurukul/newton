@@ -1,0 +1,60 @@
+[
+	{
+		"component": "text",
+		"value": "Socho aapko paas ek list hai jisme kuch values baar baar aa rahi hain. Ek aisa <span style=\"\">code</span> likho jisse aap ek nayi list banayein jisme iss list ki items ek ek baar hi aaye. Jaise:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "string_list = [\"Rishabh\", \"Rishabh\", \"Abhishek\", \"Rishabh\", \"Divyashish\", \"Divyashish\"]"
+	},
+	{
+		"component": "text",
+		"value": "Aapke <span style=\"\">code</span> ko iss <span style=\"\">string</span>_list se ek nayi list banani chaiye jo yeh hogi:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "new_list = [\"Rishabh\", \"Abhishek\", \"Divyashish\"]"
+	},
+	{
+		"component": "text",
+		"value": "Yeh list dekhiye isme saare naam ek ek baar aa rahe hain. Farak nahi padta ki pichli list mein kitne baar aa rahe the. Samajhne ke liye ek aur example padho"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "string_list = [\"Delhi\", \"Delhi\", \"Mumbai\", \"Mumbai\", \"Delhi\", \"Chennai\", 'Chennai']"
+	},
+	{
+		"component": "text",
+		"value": "Isse aapke <span style=\"\">code</span> ko yeh nayi list banani hogi:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "new_list = [\"Delhi\", \"Mumbai\", \"Chennai\"]"
+	},
+	{
+		"component": "text",
+		"value": "Iss nayi list mein sirf saare shehron ka naam sirf ek baar aa raha hai."
+	},
+	{
+		"component": "text",
+		"value": "Yeh rahi aapki pehli items repeat hone waali list:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "string_list = [\"Empathy\", \"Empathy\", \"Kindness\", \"Kindness\", \"Compassion\", \"Humble\", \"Humble\"]"
+	},
+	{
+		"component": "text",
+		"value": "Iss upar di gayi list ka use kar <span style=\"\">code</span> likho."
+	}
+]

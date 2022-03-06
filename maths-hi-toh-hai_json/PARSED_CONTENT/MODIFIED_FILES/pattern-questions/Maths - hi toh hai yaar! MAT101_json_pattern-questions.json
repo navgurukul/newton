@@ -1,0 +1,101 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "pattern-questions_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "pattern-questions_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "pattern-questions_key3"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key7",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key8"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key9"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key10"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key11"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key12"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key13"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key14"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key15",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key16"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key17"
+  },
+  {
+    "component": "text",
+    "value": "pattern-questions_key18",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  }
+]

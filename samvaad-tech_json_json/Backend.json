@@ -1,0 +1,278 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 2,<br>        \"value\": \"Do log ko mil kar sabse pehle yeh videos dekhni hai\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"xXpwMzyhBqI&amp;t=335s\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"j9wWPEmxSZg\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 3,<br>        \"value\": \"What is Back-end Development?\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Back-end development includes the ‘server-side’ of a software, &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">application</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "or website.  Back-end development is the process of making the website or program functional. Back-end &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">code</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "makes it possible for a website to access the da&lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">tab</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "ase and fetch information. The most common languages used in this process are &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">Python</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": ", C/C++, Swift  and PHP. \"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Iska mtlb hai ki Back-end development me hum software ya program ko karyatmak (functional) banate hai. Jo sabse zyada common languages isme use hoti hai vo hai &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">Python</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": ", C/C++, Swift  aur PHP. Is me hum ‘serve-side’ par kaam karte hai."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "Agar aapko Back-end development ke bare me detail me padna hai to aap neeche diye gaye links pe ja sakte hai :\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 3,<br>        \"value\": \"Ab aapko 30 mins ke liye aapas mei &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  english\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "mei inn topics ke baarein mei baat karni hai.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Back-end kya hai?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 1<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Framework kya hota hai ?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 2<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Kya Back-end ke bina website chal sakti hai ?"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 3<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Agar aapko Back-end development ke bare me detail me padna hai to aap neeche diye gaye links pe ja sakte hai :\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \""
+	},
+	{
+		"component": "text",
+		"value": "<span>"
+	},
+	{
+		"component": "text",
+		"value": "&lt;a href="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "https://en.wikipedia.org/wiki/Front<i>and</i>back_ends\\\"&gt;yaha"
+	},
+	{
+		"component": "text",
+		"value": "click kare"
+	},
+	{
+		"component": "text",
+		"value": "</a>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<span>"
+	},
+	{
+		"component": "text",
+		"value": "&lt;a href="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "https://www.coursereport.com/blog/front-end-development-vs-back-end-development-where-to-start\\\"&gt;Yaha"
+	},
+	{
+		"component": "text",
+		"value": "click kare"
+	},
+	{
+		"component": "text",
+		"value": "</a>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \""
+	},
+	{
+		"component": "text",
+		"value": "<b>"
+	},
+	{
+		"component": "text",
+		"value": "Tips"
+	},
+	{
+		"component": "text",
+		"value": "</b>"
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "1 - Aap subtitles/captions on kar sakte hai, &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">YouTube</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "Video dekhte hue"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\"<br>    }<br>]"
+	}
+]

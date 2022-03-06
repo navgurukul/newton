@@ -1,0 +1,21 @@
+{
+	"examples_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Counter Examples</span>",
+	"examples_key2": "In this section, some examples are given. You need to understand these examples very carefully, to figure out how they work? You have to do a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dry run</span> of each of the examples and notice that how the dry run works.",
+	"examples_key3": "You can also add some more examples as comments so that your, as well as your peer's concept, becomes clear.",
+	"examples_key4": "Example 1",
+	"examples_key5": "You have to print multiples of 3 from 1 to 40. While writing the <span style=\"\">code</span> keep in mind that the counter starts from 891.",
+	"examples_key6": "Solution to Example 1",
+	"examples_key7": "Example 2",
+	"examples_key8": "Write a <span style=\"\">code</span> to print all the multiples of 5 from 1 to 50. But you don't need to use % (modulus <span style=\"\">operator</span>). Do without it.",
+	"examples_key9": "Solution to Example 2",
+	"examples_key10": "Example 3",
+	"examples_key11": "Print all the odd numbers between 50 to 100.",
+	"examples_key12": "Solution 1 to Example 3",
+	"examples_key13": "Solution 2 to Example 3",
+	"examples_key14": "Solution 3 to Example 3",
+	"examples_key15": "Example 4",
+	"examples_key16": "Print the numbers from 1 to 10 without using increment.",
+	"examples_key17": "Solution 1 to Example 4",
+	"examples_key18": "Solution 2 to Example 4",
+	"examples_key19": "Solution 3 to Example 4"
+}

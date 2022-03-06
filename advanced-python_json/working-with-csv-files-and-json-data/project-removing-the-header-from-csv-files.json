@@ -1,0 +1,231 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project: Removing the Header from CSV <span style=\"\">Files</span>"
+	},
+	{
+		"component": "text",
+		"value": "Say you have the boring job of removing the first line from several hundred CSV <span style=\"\">files</span>. Maybe you’ll be feeding them into an automated process that requires just the data and not the headers at the top of the columns. You could open each <span style=\"\">file</span> in Excel, delete the first row, and re<span style=\"\">save</span> the <span style=\"\">file</span>—but that would take hours. Let’s write a program to do it instead."
+	},
+	{
+		"component": "text",
+		"value": "The program will need to open every <span style=\"\">file</span> with the .csv extension in the current working directory, read in the contents of the CSV <span style=\"\">file</span>, and rewrite the contents without the first row to a <span style=\"\">file</span> of the same name. This will replace the old contents of the CSV <span style=\"\">file</span> with the new, headless contents."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "As always, whenever you write a program that modifies <span style=\"\">files</span>, be sure to back up the <span style=\"\">files</span>, first just in case your program does not work the way you expect it to. You don’t want to accidentally erase your original <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "At a high level, the program must do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Find all the CSV <span style=\"\">files</span> in the current working directory."
+	},
+	{
+		"component": "text",
+		"value": "Read in the full contents of each <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "Write out the contents, skipping the first line, to a new CSV <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "At the <span style=\"\">code</span> level, this means the program will need to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Loop</span> over a list of <span style=\"\">files</span> from os.listdir(), skipping the non-CSV <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "Create a CSV Reader object and read in the contents of the <span style=\"\">file</span>, using the line_num attribute to figure out which line to skip."
+	},
+	{
+		"component": "text",
+		"value": "Create a CSV Writer object and write out the read-in data to the new <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "For this project, open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and <span style=\"\">save</span> it as removeCsvHeader.py."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 1: <span style=\"\">Loop</span> Through Each CSV <span style=\"\">File</span>"
+	},
+	{
+		"component": "text",
+		"value": "The first thing your program needs to do is <span style=\"\">loop</span> over a list of all CSV <span style=\"\">file</span>names for the current working directory. Make your removeCsvHeader.py look like this:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "removeCsvHeader.py - Removes the header from all CSV <span style=\"\">files</span> in the current"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "working directory."
+	},
+	{
+		"component": "text",
+		"value": "import csv, os"
+	},
+	{
+		"component": "text",
+		"value": "os.makedirs('headerRemoved', exist_ok=<span style=\"\">True</span>)"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "<span style=\"\">Loop</span> through every <span style=\"\">file</span> in the current working directory."
+	},
+	{
+		"component": "text",
+		"value": "for csv<span style=\"\">File</span>name in os.listdir('.'):<br>       if not csv<span style=\"\">File</span>name.endswith('.csv'):<br>❶         continue    # skip non-csv <span style=\"\">files</span>"
+	},
+	{
+		"component": "text",
+		"value": "print('Removing header from ' + csvFilename + '...')<br><br>   # TODO: Read the CSV file in (skipping first row).<br><br>   # TODO: Write out the CSV file."
+	},
+	{
+		"component": "text",
+		"value": "The os.makedirs() call will create a headerRemoved folder where all the headless CSV <span style=\"\">files</span> will be written. A for <span style=\"\">loop</span> on os.listdir('.') gets you partway there, but it will <span style=\"\">loop</span> over all <span style=\"\">files</span> in the working directory, so you’ll need to add some <span style=\"\">code</span> at the start of the <span style=\"\">loop</span> that skips <span style=\"\">file</span>names that don’t end with .csv. The continue <span style=\"\">statement</span> ❶ makes the for <span style=\"\">loop</span> move on to the next <span style=\"\">file</span>name when it comes across a non-CSV <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "Just so there’s some <span style=\"\">output</span> as the program runs, print out a message saying which CSV <span style=\"\">file</span> the program is working on. Then, add some TODO comments for what the rest of the program should do."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 2: Read in the CSV <span style=\"\">File</span>"
+	},
+	{
+		"component": "text",
+		"value": "The program doesn’t remove the first line from the CSV <span style=\"\">file</span>. Rather, it creates a new copy of the CSV <span style=\"\">file</span> without the first line. Since the copy’s <span style=\"\">file</span>name is the same as the original <span style=\"\">file</span>name, the copy will overwrite the original."
+	},
+	{
+		"component": "text",
+		"value": "The program will need a way to track whether it is currently <span style=\"\">loop</span>ing on the first row. Add the following to removeCsvHeader.py."
+	},
+	{
+		"component": "text",
+		"value": "#! python3<br># removeCsvHeader.py - Removes the header from all CSV files in the current<br># working directory."
+	},
+	{
+		"component": "text",
+		"value": "--snip--<br>    # Read the CSV <span style=\"\">file</span> in (skipping first row).<br>csvRows = []<br>csv<span style=\"\">File</span>Obj = open(csv<span style=\"\">File</span>name)<br>readerObj = csv.reader(csv<span style=\"\">File</span>Obj)<br>for row in readerObj:<br>    if readerObj.line_num == 1:<br>        continue    # skip first row<br>    csvRows.append(row)<br>csv<span style=\"\">File</span>Obj.close()"
+	},
+	{
+		"component": "text",
+		"value": "# TODO: Write out the CSV file."
+	},
+	{
+		"component": "text",
+		"value": "The Reader object’s line_num attribute can be used to determine which line in the CSV <span style=\"\">file</span> it is currently reading. Another for <span style=\"\">loop</span> will <span style=\"\">loop</span> over the rows returned from the CSV Reader object, and all rows but the first will be appended to csvRows."
+	},
+	{
+		"component": "text",
+		"value": "As the for <span style=\"\">loop</span> iterates over each row, the <span style=\"\">code</span> checks whether readerObj.line_num is set to 1. If so, it <span style=\"\">executes</span> a continue to move on to the next row without appending it to csvRows. For every row afterward, the condition will be always be <span style=\"\">False</span>, and the row will be appended to csvRows."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 3: Write Out the CSV <span style=\"\">File</span> Without the First Row"
+	},
+	{
+		"component": "text",
+		"value": "Now that csvRows contains all rows but the first row, the list needs to be written out to a CSV <span style=\"\">file</span> in the headerRemoved folder. Add the following to removeCsvHeader.py:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "removeCsvHeader.py - Removes the header from all CSV <span style=\"\">files</span> in the current"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "working directory."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "<span style=\"\">Loop</span> through every <span style=\"\">file</span> in the current working directory."
+	},
+	{
+		"component": "text",
+		"value": "❶ for csv<span style=\"\">File</span>name in os.listdir('.'):<br>       if not csv<span style=\"\">File</span>name.endswith('.csv'):<br>           continue    # skip non-CSV <span style=\"\">files</span>"
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Write out the CSV file.<br>       csvFileObj = open(os.path.join('headerRemoved', csvFilename), 'w',<br>                    newline='')<br>       csvWriter = csv.writer(csvFileObj)<br>       for row in csvRows:<br>           csvWriter.writerow(row)<br>       csvFileObj.close()"
+	},
+	{
+		"component": "text",
+		"value": "The CSV Writer object will write the list to a CSV <span style=\"\">file</span> in headerRemoved using csv<span style=\"\">File</span>name (which we also used in the CSV reader). This will overwrite the original <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "Once we create the Writer object, we <span style=\"\">loop</span> over the sublists stored in csvRows and write each sublist to the <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "After the <span style=\"\">code</span> is <span style=\"\">execute</span>d, the outer for <span style=\"\">loop</span> ❶ will <span style=\"\">loop</span> to the next <span style=\"\">file</span>name from os.listdir('.'). When that <span style=\"\">loop</span> is finished, the program will be complete."
+	},
+	{
+		"component": "text",
+		"value": "To test your program, download removeCsvHeader.zip from <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span> and unzip it to a folder. Run the removeCsvHeader.py program in that folder. The <span style=\"\">output</span> will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "Removing header from NAICS<i>data</i>1048.csv…<br>Removing header from NAICS<i>data</i>1218.csv…<br>--snip--<br>Removing header from NAICS<i>data</i>9834.csv…<br>Removing header from NAICS<i>data</i>9986.csv…<br>This program should print a <span style=\"\">file</span>name each time it strips the first line from a CSV <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "Ideas for Similar Programs<br>The programs that you could write for CSV <span style=\"\">files</span> are similar to the kinds you could write for Excel <span style=\"\">files</span>, since they’re both spreadsheet <span style=\"\">files</span>. You could write programs to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Compare data between different rows in a CSV <span style=\"\">file</span> or between multiple CSV <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "Copy specific data from a CSV <span style=\"\">file</span> to an Excel <span style=\"\">file</span>, or vice versa."
+	},
+	{
+		"component": "text",
+		"value": "Check for invalid data or formatting mistakes in CSV <span style=\"\">files</span> and alert the user to these <span style=\"\">errors</span>."
+	},
+	{
+		"component": "text",
+		"value": "Read data from a CSV <span style=\"\">file</span> as <span style=\"\">input</span> for your <span style=\"\">Python</span> programs."
+	}
+]

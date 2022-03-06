@@ -1,0 +1,44 @@
+[
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def string_both_ends(str):<br>    if len(str) => 2:<br>      return ''<br>    return str[0:2] + str[-2:]<br><br>Print (string_both_ends(w3resource))<br>Print (string_both_ends(w3)<br>Print (string_both_ends(w)"
+  },
+  {
+    "component": "header",
+    "variant": 6,
+    "value": "string-both_key1"
+  },
+  {
+    "component": "header",
+    "variant": 6,
+    "value": "string-both_key2"
+  },
+  {
+    "component": "header",
+    "variant": 6,
+    "value": "string-both_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "string_both_ends(str):<br>    if len(str) => 2<br>      return \"<br>    return str[0:2] + str(-2:)<br><br>Print (string_both_ends(w3resource))<br>Print (string_both_ends(w3)<br>Print (string_both_ends(w)"
+  },
+  {
+    "component": "header",
+    "variant": 6,
+    "value": "string-both_key4"
+  },
+  {
+    "component": "header",
+    "variant": 6,
+    "value": "string-both_key5"
+  },
+  {
+    "component": "header",
+    "variant": 6,
+    "value": "string-both_key6"
+  }
+]

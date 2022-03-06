@@ -1,0 +1,89 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "connecting-to-an-imap-server_key1"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key2"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key3"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key4"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key5"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key6"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key7"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key8"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key9"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key10"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import imapclient<br>>>> imapObj = imapclient.IMAPClient('imap.gmail.com', ssl=True)"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key12"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "connecting-to-an-imap-server_key13"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key14"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> imapObj.login(' my_email_address@gmail.com ', ' MY_SECRET_PASSWORD ')"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key15"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "connecting-to-an-imap-server_key16"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key17"
+  },
+  {
+    "component": "text",
+    "value": "connecting-to-an-imap-server_key18"
+  }
+]

@@ -1,0 +1,64 @@
+[
+	{
+		"component": "text",
+		"value": "JavaScript includes assignment <span style=\"\">operators</span> to assign values to <span style=\"\">variables</span>."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "`Operators",
+				"items": [
+					"=",
+					"+=",
+					"-=",
+					"*=",
+					"/=",
+					"%=",
+					"<ul>\n<li>* =</li>\n</ul>"
+				]
+			},
+			{
+				"header": "Name",
+				"items": [
+					"Assignment operator",
+					"Addition assignment",
+					"Subtraction Assignment",
+					"Multiplication Assignment",
+					"Division Assignment",
+					"Remainder Assignment",
+					"Exponential  Assignment"
+				]
+			},
+			{
+				"header": "Example",
+				"items": [
+					"x = 7; // 7",
+					"x += 5; // x = x + 5",
+					"x -= 2; // x= x- 2",
+					"x *= 3; // x = x * 3",
+					"x /= 2; // x = x/ 2",
+					"x %= 2; // x = x % 2",
+					"x * * = 2; // x = x * * 2"
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Exercises:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var x = 5, y = 10, z = 15;<br><br>console.log(x = y);<br>console.log( x+= 1);<br>console.log(x -= 1);<br>console.log(x *= 5);<br>console.log(x /= 5);<br>console.log(x %= 2);"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "10<br>11<br>10<br>50<br>10<br>0"
+	}
+]

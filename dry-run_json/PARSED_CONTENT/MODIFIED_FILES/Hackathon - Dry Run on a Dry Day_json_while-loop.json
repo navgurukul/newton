@@ -1,0 +1,58 @@
+[
+  {
+    "component": "text",
+    "value": "while-loop_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=s_7YgktIJFo"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "c = 0<br>d = 1<br><br>while c < 3:<br>    c = c + 1<br>    d = d * c<br>    print \"Loop Ke Andar\", c, d<br>else:<br>    print \"Loop Ke Bahar\", c, d"
+  },
+  {
+    "component": "text",
+    "value": "while-loop_key2"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=efg169eYEqo"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=oG_jCqPVJYA"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "c = 0<br><br>while c < 5:<br>    print \"Loop Ke Andar\"<br>    c = c + 1<br>else:<br>    print \"Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai\""
+  },
+  {
+    "component": "text",
+    "value": "while-loop_key3"
+  },
+  {
+    "component": "text",
+    "value": "while-loop_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "n = 6<br>s = 0<br>i = 1<br><br>while i <= n:<br>    s = s + i<br>    i = i + 1<br><br>print s"
+  },
+  {
+    "component": "text",
+    "value": "while-loop_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num = 407<br><br>i = 2<br>while (i<num):<br>    if (num%i == 0):<br>        print num, 'is not a prime number'<br>        break<br>    i = i + 1<br>else:<br>    print num, 'is a prime number'"
+  }
+]

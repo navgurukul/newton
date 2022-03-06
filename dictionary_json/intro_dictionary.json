@@ -1,0 +1,167 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Dictionary"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Definition :-"
+	},
+	{
+		"component": "text",
+		"value": "To create a dictionary we put in the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">key value pairs</span> in a comma separated form inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">curly brackets { }</span> and use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">colon \":\"</span> to assign values to <span style=\"\">keys`</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "city_population = {<br>&emsp;\"NewYorkCity\":8550405,<br>&emsp;\"LosAngeles\":3971883, <br>&emsp;\"Toronto\":2731571, <br>&emsp;\"Chicago\":2720546, <br>&emsp;\"Houston\":2296224, <br>&emsp;\"Montreal\":1704694, <br>&emsp;\"Calgary\":1239220, <br>&emsp;\"Vancouver\":631486, <br>&emsp;\"Boston\":667137<br>}<br><br>print(city_population[\"NewYorkCity\"])<br>print(city_population)<br>print(type(city_population))"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "8550405"
+	},
+	{
+		"component": "text",
+		"value": "{<br>   \"NewYorkCity\":8550405,<br>    \"LosAngeles\":3971883, <br>    \"Toronto\":2731571, <br>    \"Chicago\":2720546, <br>    \"Houston\":2296224, <br>    \"Montreal\":1704694, <br>    \"Calgary\":1239220, <br>    \"Vancouver\":631486, <br>    \"Boston\":667137<br>}"
+	},
+	{
+		"component": "text",
+		"value": "<type 'dict'>"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Keys Case Sensitive</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Dictionary <span style=\"\">keys</span> should be <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">case sensitive</span>, means we can write <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> with same names but different case. <span style=\"\">Python</span> treats them as different <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "<br> Dict = {<br>&emsp;   'ball' : 'green',<br>&emsp;   'Ball': 'red'<br>&emsp; }<br>print(Dict['ball'])<br>print(Dict['Ball'])<br>print(Dict['bat'])"
+	},
+	{
+		"component": "text",
+		"value": "green<br>red<br><span style=\"\">KeyE</span>rror: bat"
+	},
+	{
+		"component": "text",
+		"value": "// <span style=\"\">KeyE</span>rror <span style=\"\">tab</span> aati hai jab <span style=\"\">key</span> dictionay mai nahi hoti hai."
+	},
+	{
+		"component": "text",
+		"value": "In the dictionary, <i>dict</i> , <i>ball</i> a <span style=\"\">key</span> which has value <i>\"green\"</i>, similarly <i>\"Ball\"</i> is another <span style=\"\">key</span> which has value <i>\"red\"</i>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "dict() function"
+	},
+	{
+		"component": "text",
+		"value": "You can create a dictionary using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dict()</span> function."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "student=dict(name= \"Ravina\",age= 20)<br>print(student)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'age': 20, 'name': 'Ravina'}</span>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "DataType of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Keys</span> and <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Values</span>"
+	},
+	{
+		"component": "text",
+		"value": "A <i>\"dictionary\"</i>  can have values of any data type and can also be same, but <span style=\"\">keys</span> are always to be unique."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:-"
+	},
+	{
+		"component": "text",
+		"value": "<i>dictionary with <span style=\"\">integer</span> <span style=\"\">keys</span>:-</i>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "my_dict = {<br>&emsp;1: 'apple', <br>&emsp;2: 'ball'<br>&emsp;}<br>"
+	},
+	{
+		"component": "text",
+		"value": "<i>dictionary with mixed <span style=\"\">keys</span>:-</i>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "my_dict = {<br>&emsp;'name': 'John',<br>&emsp; 1: [2, 4, 3]<br>&emsp;}"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Nested Dictionary</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "Dic= {<br> 1: 'NAVGURUKUL',<br> 2: 'IN',  <br> 3:{<br>&emsp; 'A' : 'WELCOME',<br>&emsp; 'B' : 'To', <br>&emsp; 'C' : 'DHARAMSALA'<br>&emsp; }<br>}<br>print(Dic)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{1: 'NAVGURUKUL', 2: 'IN', 3: {'A': 'WELCOME', 'B': 'To', 'C': 'DHARAMSALA'}}</span>"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=daefaLgNkw0"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=0g1ogNP5doA"
+	}
+]

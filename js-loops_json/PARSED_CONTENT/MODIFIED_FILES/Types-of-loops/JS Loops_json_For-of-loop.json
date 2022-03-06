@@ -1,0 +1,162 @@
+[
+  {
+    "component": "text",
+    "value": "For-of-loop_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key2"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let name=[\"komal\",\"shweta\",\"rani\",\"swati\",\"mahi\",\"shanti\",\"sarmistha\"]<br>for(let lname of name){<br>   console.log(lname);<br>}<br><br>// Output: <br>// komal<br>// shweta<br>// rani<br>// swati<br>// mahi    <br>// shanti<br>// sarmistha<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key3"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key4"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key5"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key6"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key7"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key8"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key9"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key10"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key11"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key12"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "arr=[\"a\",\"b\",\"g\",\"r\",\"t\"]<br>for(let character of arr){<br>console.log(character);<br>}<br><br>// Output:<br><br>// a<br>// b<br>// g<br>// r<br>// t   <br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key13"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key14"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key15"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key16"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key17"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key18"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key19"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key20"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "number_list=[23,\"maan\",67,\"gouri\",90,45,34]<br>for(let num of number_list){<br>console.log(num);<br>}<br> <br><br>// Output: <br><br>// 23<br>// maan<br>// 67<br>// gouri        <br>// 90<br>// 45<br>// 34<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key21"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key22"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key23"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key24"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key25"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key26"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key27"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key28"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key29"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key30"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "<br>let obj={\"name\":\"sharmistha\",\"age\":21,\"hobby\":\"watching movie\",<br>   \"goal\":\"fullstack_developer\"}<br>for(let prop of obj){<br>   console.log(prop)<br>}<br> <br><br>//  Output:<br><br>// TypeError: obj is not iterable.<br>"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "For-of-loop_key31"
+  },
+  {
+    "component": "text",
+    "value": "For-of-loop_key32"
+  }
+]

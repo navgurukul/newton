@@ -1,0 +1,53 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "information_key1"
+  },
+  {
+    "component": "text",
+    "value": "information_key2"
+  },
+  {
+    "component": "text",
+    "value": "information_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "information_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "information_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "information_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "information_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "information_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

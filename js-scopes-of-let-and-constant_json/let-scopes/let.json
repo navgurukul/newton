@@ -1,0 +1,124 @@
+[
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "{<br>   let num=10;<br>   console.log(num);<br>}<br>console.log(num);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "<span style=\"\">Output</span>: 10"
+	},
+	{
+		"component": "text",
+		"value": "Reference<span style=\"\">Error</span>: num is not defined"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "Here we used curly braces for creating a block, inside that we declared a <span style=\"\">variable</span> with let and printed num, it gives us 10, but outside of the block it won’t work, because of that it will give a reference <span style=\"\">error</span>."
+	},
+	{
+		"component": "text",
+		"value": "we use let for <span style=\"\">variable</span> declarations too. Let is block scoped. It is limited upto a some place only."
+	},
+	{
+		"component": "text",
+		"value": "Block means the set of rules that are written inside curly braces."
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "isHeUsingAtm = true<br>if (isHeUsingAtm){<br> let secretPin=1234<br> console.log('please use Atm');<br> console.log('while using Atm :'+secretPin);<br> console.log('Thank you for using Atm');<br>}<br>console.log('After using Atm :'+ secretPin);"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "<span style=\"\">Output</span>:"
+	},
+	{
+		"component": "text",
+		"value": "please use Atm<br>while using Atm :1234<br>Thank you for using Atm<br>Reference<span style=\"\">Error</span>: secretPin is not defined"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "Here in this <span style=\"\">code</span> secretPin is declared with let and because of let is block scoped. That's why when you tried to print console.log('After using Atm :'+ secretPin) outside of the if block also it didn’t work. This is the behaviour we want there in the atm. But this won’t be possible with var in if and for, while blocks."
+	},
+	{
+		"component": "text",
+		"value": "I want to give a clarity here, the same kind of behaviour you will get with var also in function block but it won’t be possible with if and for, while blocks etc.,"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "isHeUsingAtm = true<br>function UsingAtm(){<br>  if (isHeUsingAtm){<br>      var secretPinWithVar=1234<br>      console.log('please use Atm with secretPinWithVar');<br>      console.log('while using Atm with secretPinWithVar :'+secretPinWithVar);<br>      console.log('Thank you for using Atm with secretPinWithVar ');<br>}}<br><br>UsingAtm()<br>console.log('After using Atm :'+ secretPinWithVar);"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "NOTE:"
+	},
+	{
+		"component": "text",
+		"value": "var is function scoped when a <span style=\"\">variable</span> with var is defined inside a function it will act as a local to that function and not be able to use that <span style=\"\">variable</span> outside of the function. And if var is declared outside anywhere in the <span style=\"\">code</span> that will act as a global <span style=\"\">variable</span> and can be used anywhere in the <span style=\"\">code</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Expalantion:"
+	},
+	{
+		"component": "text",
+		"value": "In this example your atm is not stored at all after you are using atm, this happened because you created a <span style=\"\">variable</span> secretPinWithVar inside a function which means it is locally scooped inside a function and you can’t get that outside of function."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "We can update the let <span style=\"\">variables</span>. Let will allow us to update the <span style=\"\">variables</span> as same as var."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let myCampus = \"Navgurukul Dharamshala Campus\";<br>let myCampus = \"Navgurukul Sarjapur Campus\";"
+	},
+	{
+		"component": "text",
+		"value": "// <span style=\"\">SyntaxE</span>rror: Identifier 'myCampus' has already been declared"
+	},
+	{
+		"component": "text",
+		"value": "It will throw an <span style=\"\">error</span> because the <span style=\"\">variables</span> with let can’t redeclare"
+	}
+]

@@ -1,0 +1,7 @@
+{
+	"augmented-assignment-operators_key1": "Augmented Assignment <span style=\"\">Operators</span>",
+	"augmented-assignment-operators_key2": "When assigning a value to a <span style=\"\">variable</span>, you will frequently use the <span style=\"\">variable</span> itself. For example, after assigning 42 to the <span style=\"\">variable</span> spam, you would increase the value in spam by 1 with the following <span style=\"\">code</span>:",
+	"augmented-assignment-operators_key3": "As a shortcut, you can use the augmented assignment <span style=\"\">operator</span> += to do the same thing:",
+	"augmented-assignment-operators_key4": "There are augmented assignment <span style=\"\">operators</span> for the +, -, *, /, and % <span style=\"\">operators</span>, described in <span style=\"\">Tab</span>le 4-1.<br><span style=\"\">Tab</span>le 4-1. The Augmented Assignment <span style=\"\">Operators</span><br>Augmented assignment <span style=\"\">statement</span><br>Equivalent assignment <span style=\"\">statement</span>",
+	"augmented-assignment-operators_key5": "The += <span style=\"\">operator</span> can also do <span style=\"\">string</span> and list concatenation, and the *= <span style=\"\">operator</span> can do <span style=\"\">string</span> and list replication. Enter the following into the interactive <span style=\"\">shell</span>:"
+}

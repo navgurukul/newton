@@ -1,0 +1,57 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "count-occurences_key1"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key2"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "char_list = [\"a\", \"n\", \"t\", \"a\", \"a\", \"t\", \"n\", \"n\", \"a\", \"x\", \"u\", \"g\", \"a\", \"x\", \"a\"]"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key4"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key5"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key6"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key7"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "count-occurences_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "char_list = []"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "count-occurences_key9"
+  },
+  {
+    "component": "text",
+    "value": "count-occurences_key10"
+  }
+]

@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "hat is the <span style=\"\">output</span> of the following <span style=\"\">code</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>function display(){<br>  var a=10;<br>  let b=13;<br>  if (true){<br>      console.log(a);<br>      console.log(b);<br>  }<br>}<br>display()"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Feedback after submit:"
+	},
+	{
+		"component": "text",
+		"value": "10<br>13"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "A display named function is there, inside that we have 1 if block. Inside the function  block we defined two <span style=\"\">variables</span> a and b with var and let <span style=\"\">key</span>words respectively. Here both a and b are working as function scoped <span style=\"\">variables</span> aka local scoped to that function you can use them inside a function anywhere."
+	}
+]

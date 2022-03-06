@@ -1,0 +1,8 @@
+{
+	"understanding-json_key1": "JSON",
+	"understanding-json_key2": "Sabse pehle hum JSON objects ke saath <span style=\"\">code</span> karna seekhenge. Aapne <b>introduction</b> mei yeh padha hoga ki JSON objects kya hote hai. Ab yeh video dekho, aur iss example ko likh kar run karne ki koshish karo.",
+	"understanding-json_key3": "JSON aur Dictionary mei kya difference hai?",
+	"understanding-json_key4": "Dictionary aapka ek data structure hai jo memory (jaise RAM) mei store hota hai.<br>JSON ek <span style=\"\">file</span> based <b>exchange</b> format jisse ki alag alag programs ek doosre se baat kar sakte hai ya information exchange kar sakte hai. Jaise:",
+	"understanding-json_key5": "Ek program json mei kuch information output kar sakta hai, jo doosra program padh sakta hai",
+	"understanding-json_key6": "Server apna data <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">json</span> mei available kara sakta hai, jisko koi bhi client use kar kar apna programs aur behetar kar sakte hai"
+}

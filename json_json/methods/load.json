@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Load  and Loads"
+	},
+	{
+		"component": "text",
+		"value": "<b>load():-</b> load() method ek json object or json <span style=\"\">file</span> ko json data ke sath <span style=\"\">python</span> object(dictionaries) mai karta hai."
+	},
+	{
+		"component": "text",
+		"value": "<b>loads()</b> method ek json <span style=\"\">string</span> leta hai or use json objects mai convert ker deta hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Notes :-<br><br>String =>  json.loads() => json objects<br><br>Json object => json.dumps() => string<br><br>Python object=> json.dump() => json object<br><br>Json object => json.load() => python object"
+	}
+]

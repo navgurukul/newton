@@ -1,0 +1,22 @@
+{
+	"Questions_key1": "Pre-defined Functions Questions\n",
+	"Questions_key2": "Now you have to solve some questions by using the pre-define function.\n",
+	"Questions_key3": "**Q1 .** You have to print the largest value out of the given list using the `max` function.\n",
+	"Questions_key4": "`Input`\n",
+	"Questions_key5": "**`Output` :-**\n89\n",
+	"Questions_key6": "**Q2.** You have to print the sum of the elements of the given list by using the `sum` function.\n",
+	"Questions_key7": "`Input`\n",
+	"Questions_key8": "**`Output` :-**\n15\n",
+	"Questions_key9": "**Q3.** Using `sort` function sort the given list.\n",
+	"Questions_key10": "`Input:-`\n",
+	"Questions_key11": "**`Output` :-**\n",
+	"Questions_key12": "`unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]`\n",
+	"Questions_key13": "**Q4.** By using `reverse` function print the reverse order of the list.\n",
+	"Questions_key14": "`Input:-`\n",
+	"Questions_key15": "**`Output` :-**\n",
+	"Questions_key16": "`reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]`\n",
+	"Questions_key17": "**Q5.** Use the `min` function and find the minimun value of the list.\n",
+	"Questions_key18": "`Input:-`\n",
+	"Questions_key19": "**`Output` :-**\n",
+	"Questions_key20": "2\n"
+}

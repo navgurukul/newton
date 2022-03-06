@@ -1,0 +1,12 @@
+{
+	"count-occurences_key1": "Count Occurences\n",
+	"count-occurences_key2": "**Occurences** - is made from the word `occur` which means that how many times a certain character or word appears.\n",
+	"count-occurences_key3": "**Sample List**\n",
+	"count-occurences_key4": "**`Output` of the Sample List**\n",
+	"count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]\n",
+	"count-occurences_key6": "a - 6 times\nn - 3 times\nt - 2 times\nx - 2 times\nu - 1 times\ng - 1 times\n",
+	"count-occurences_key7": "We have to count the `occurences` of characters present in the `char_list` and we have to `save` in the `nested list`, then we have to use that nested list to print the `output`.\n",
+	"count-occurences_key8": "`Edge Case`\n",
+	"count-occurences_key9": "Solution\n",
+	"count-occurences_key10": "[]\n"
+}

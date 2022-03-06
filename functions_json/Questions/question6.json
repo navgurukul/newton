@@ -1,0 +1,27 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 6"
+	},
+	{
+		"component": "text",
+		"value": "Define a function that checks the speed of drivers. This function will take a parameter named speed, and will satisfy the following conditions:<br>1.If speed if less than 70, print 70.<br>2.If speed is more than 70, give 1 point per 5km.(NOTE:This won't count 70).<br>3. If points are more than 12, print “License suspended”"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> "
+	},
+	{
+		"component": "text",
+		"value": "85<br>135"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "3<br>“License suspended”"
+	}
+]

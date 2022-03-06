@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "Aap multiple <span style=\"\">statements</span> ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">;</span> use kar kar, ek saath likh sakte hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "echo \"hello\"; a=7; b=3; echo $a, \"is the value of a\"; echo $b, \"is the value of b\""
+	}
+]

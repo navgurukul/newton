@@ -1,0 +1,21 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question1_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "marks = [\"10\", \"32\", \"42\", \"65\", \"67\", \"89\", \"76\", \"38\", \"67\"]<br>total_marks = 0<br>counter = 0<br>while counter < len(marks):<br>&emsp;total_marks = total_marks + marks[counter]<br>&emsp;counter = counter + 1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question1_key3"
+  }
+]

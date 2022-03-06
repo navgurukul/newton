@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "average-kitna-hai_key1"
+  },
+  {
+    "component": "text",
+    "value": "average-kitna-hai_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+  }
+]

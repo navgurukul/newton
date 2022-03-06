@@ -1,0 +1,7 @@
+{
+	"adding-headings_key1": "Adding Headings",
+	"adding-headings_key2": "Calling add_heading() adds a paragraph with one of the heading styles. Enter the following into the interactive <span style=\"\">shell</span>:",
+	"adding-headings_key3": "The arguments to add<i>heading() are a <span style=\"\">string</span> of the heading text and an <span style=\"\">integer</span> from 0 to 4. The <span style=\"\">integer</span> 0 makes the heading the Title style, which is used for the top of the document. <span style=\"\">Integers</span> 1 to 4 are for various heading levels, with 1 being the main heading and 4 the lowest subheading. The add</i>heading() function returns a Paragraph object to <span style=\"\">save</span> you the step of extracting it from the Document object as a separate step.",
+	"adding-headings_key4": "The resulting headings.docx <span style=\"\">file</span> will look like Figure 13-10.",
+	"adding-headings_key5": "Figure 13-10. The headings.docx document with headings 0 to 4"
+}

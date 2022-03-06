@@ -1,0 +1,13 @@
+[
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "What is the <span style=\"\">output</span> of the following <span style=\"\">code</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>let fruit=’mango’;<br>let fruit = ‘orange’;<br>console.log(fruit)<br>"
+	}
+]

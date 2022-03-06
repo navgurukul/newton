@@ -1,0 +1,55 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "decrypting-pdfs_key1"
+  },
+  {
+    "component": "text",
+    "value": "decrypting-pdfs_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import PyPDF2<br>   >>> pdfReader = PyPDF2.PdfFileReader(open('encrypted.pdf', 'rb'))<br>❶ >>> pdfReader.isEncrypted"
+  },
+  {
+    "component": "text",
+    "value": "decrypting-pdfs_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> pdfReader.getPage(0)"
+  },
+  {
+    "component": "text",
+    "value": "decrypting-pdfs_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❸ >>> pdfReader.decrypt('rosebud')"
+  },
+  {
+    "component": "text",
+    "value": "decrypting-pdfs_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> pageObj = pdfReader.getPage(0)"
+  },
+  {
+    "component": "text",
+    "value": "decrypting-pdfs_key6"
+  },
+  {
+    "component": "text",
+    "value": "decrypting-pdfs_key7"
+  }
+]

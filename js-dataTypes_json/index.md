@@ -1,0 +1,17 @@
+- DataTypes
+  - Introduction.json
+  - String.json
+  - StringExercises.json
+  - Number.json
+  - NumberExercises.json
+  - Boolean.json
+  - BooleanExercises.json
+  - Undefined.json
+  - Null.json
+  - Diff-btw-null-defined.json
+  - Object.json
+  - ObjectExercises.json
+  - Array.json
+  - ArrayExercises.json
+  - TypeOf.json
+  - TypeOfExercises.json

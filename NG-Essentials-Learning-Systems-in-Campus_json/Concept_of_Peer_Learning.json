@@ -1,0 +1,59 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Concept of Peer Learning"
+	},
+	{
+		"component": "text",
+		"value": "Navgurukul follows the concept of peer learning and supports the Mentor and Coach System. So, let's deep dive to understand what is meant by peer learning, Mentor as well as Coach system."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Peer Learning"
+	},
+	{
+		"component": "text",
+		"value": "It means that one student teaches another student. At Navgurukul, <b>peer learning</b> is strongly recommended because it builds good understanding skills and brings concept clarity."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example :-"
+	},
+	{
+		"component": "text",
+		"value": "In this, first the student will try to study any concept on her own, if she faces any difficulty then she will sit with another student who is doing the same topic and discuss it with her. If a weak student makes a pair with a good or fast-paced student. This will not only reduce her time of understanding but will also inculcate confidence in her. By discussing, they can share new ways of understanding the same concept and the <span style=\"\">codes</span> that they have written."
+	},
+	{
+		"component": "text",
+		"value": "It depends on the peer learners how much time they can devote to peer learning."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Benefits of Peer Learning :-"
+	},
+	{
+		"component": "text",
+		"value": "It helps students to think individually on a given topic and discuss it with their peer learners so that she may come to know whether she is thinking in the right direction or not.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "It teaches students to share ideas with their peers and builds communication skills as well as helps in increasing their self-confidence.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "It strengthens focus and engages students in comprehending the reading material and gains a better understanding of the given topic if they have any language barriers.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

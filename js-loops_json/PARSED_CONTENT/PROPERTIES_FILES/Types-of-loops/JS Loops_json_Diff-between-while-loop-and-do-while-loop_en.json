@@ -1,0 +1,7 @@
+{
+	"Diff-between-while-loop-and-do-while-loop_key1": "From do while : 2",
+	"Diff-between-while-loop-and-do-while-loop_key2": "From while : nothing will print",
+	"Diff-between-while-loop-and-do-while-loop_key3": "Explanation:",
+	"Diff-between-while-loop-and-do-while-loop_key4": "In the above example, if you see from do while it is printed 2  because in do while first it won’t check <span style=\"\">loop</span> condition and it will run <span style=\"\">loop</span> for 1 time and after a while it will check the <span style=\"\">loop</span> condition i&gt; 10 means 2&gt;10 which is <span style=\"\">false</span>.  So, it will never run.",
+	"Diff-between-while-loop-and-do-while-loop_key5": "In the while <span style=\"\">loop</span> it will check the <span style=\"\">loop</span> condition first. It is <span style=\"\">false</span> so it won’t <span style=\"\">execute</span> a block of <span style=\"\">code</span> written inside that, so that’s why it won’t print anything."
+}

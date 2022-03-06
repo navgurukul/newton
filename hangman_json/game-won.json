@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Game Won?"
+	},
+	{
+		"component": "text",
+		"value": "Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">is_word_guessed</span> function update karna hai, jisse ki aap check kar payein ki jo characters user ne guess kiye hai, kya secret word unhi characters se ban sakta hai. Agar haa, toh aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> return karoge, nahi toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> return karoge."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "Yeh karne ke liye aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get_guessed_word</span> function use kar sakte hai",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=tBLsbWy1oSw"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Possible Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def is_word_guessed(secret_word, letters_guessed):<br>&emsp;'''<br>&emsp;secret_word: ek string word jo ki user ko guess karna hai<br>&emsp;letters_guessed: ek list hai, jisme wo letters hai jo ki user nai abhi tak guess kare hai<br>&emsp;returns: return True kare agar saare letters jo ki user ne guess kiye hai wo secret_word mai hai, warna no<br>&emsp;  False otherwise<br>&emsp;'''<br><br>&emsp;if secret_word === get_guessed_word(secret_word, letters_guessed):<br>&emsp;&emsp;return True<br><br>&emsp;return False"
+	},
+	{
+		"component": "text",
+		"value": "Aap yeh kaam alag tarah se bhi kar sakte hai, yeh sirf ek possible solution hai."
+	}
+]

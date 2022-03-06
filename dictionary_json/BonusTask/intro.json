@@ -1,0 +1,34 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Becoming A Programmer"
+	},
+	{
+		"component": "text",
+		"value": "In this task, you have to learn six new concepts about the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span>."
+	},
+	{
+		"component": "text",
+		"value": "Firstly, you have to read the three new concepts of the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> from <span style=\"\">Python</span>'s website."
+	},
+	{
+		"component": "text",
+		"value": "https://docs.python.org/3/tutorial/datastructures.html",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Then you have to read three new concepts from <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">stackoverflow</span>."
+	},
+	{
+		"component": "text",
+		"value": "You will share your understanding on a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Google doc</span> and share it with your mentor and do some questions related to concepts."
+	},
+	{
+		"component": "text",
+		"value": "You will take a class in which you will explain the new concepts you have learned."
+	}
+]

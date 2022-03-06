@@ -1,0 +1,70 @@
+[
+	{
+		"component": "text",
+		"value": "Aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span> ka use kar kar bhi ek execu<span style=\"\">tab</span>le program bana sakte ho. Uske liye, aapko"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "#!/usr/bin/python"
+	},
+	{
+		"component": "text",
+		"value": "line ko apni <span style=\"\">file</span> mei sabse pehli line mei daalna hoga."
+	},
+	{
+		"component": "text",
+		"value": "Ek example ke through dekhte hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "touch merapythonprogram"
+	},
+	{
+		"component": "text",
+		"value": "Ab iss <span style=\"\">file</span> ko apni pasand ke <span style=\"\">editor</span> se khol kar, kuch content daalte hai"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "#!/usr/bin/python<br>print \"Yeh mera PYTHON program hai\"<br>print \"Jab mai ismei PYTHON KA code add karunga, toh mera program ANACONDA ban jayega\""
+	},
+	{
+		"component": "text",
+		"value": "Ab aap iss program ko <span style=\"\">execute</span> karne ki permissions de"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "chmod +x merapythonprogram"
+	},
+	{
+		"component": "text",
+		"value": "Ab iss program ko aap, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">/usr/bin</span> directory mei move kar de. Yaha move karne se, yeh program kahi se bhi aap <span style=\"\">execute</span> kar payenge."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "sudo mv merapythonprogram /usr/bin/"
+	},
+	{
+		"component": "text",
+		"value": "Ab aap apne program ko <span style=\"\">execute</span> kar sakte ho"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "merapythonprogram<br>cd ~/Desktop<br>merapythonprogram<br>cd / <br>merapythonprogram"
+	},
+	{
+		"component": "text",
+		"value": "Aap apna program kahi se bhi <span style=\"\">execute</span> kar paoge."
+	}
+]

@@ -1,0 +1,11 @@
+{
+	"Question-18_key1": "Write a function named showNumbers() which takes 1 argument named limit and program starts from o to limit and checks the numbers in between 0 to limit and prints whether the number is Even or odd like the below.",
+	"Question-18_key2": "For example :",
+	"Question-18_key3": "<span style=\"\">Input</span>:-",
+	"Question-18_key4": "3",
+	"Question-18_key5": "<span style=\"\">Output</span> :",
+	"Question-18_key6": "0 EVEN",
+	"Question-18_key7": "1 ODD",
+	"Question-18_key8": "2 EVEN",
+	"Question-18_key9": "3 ODD"
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "kindness_key1"
+  },
+  {
+    "component": "text",
+    "value": "kindness_key2"
+  },
+  {
+    "component": "text",
+    "value": "kindness_key3"
+  },
+  {
+    "component": "text",
+    "value": "kindness_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "<a href=\"html_file_ka_path\"> Link per jo display karna hai</a>"
+  },
+  {
+    "component": "text",
+    "value": "kindness_key5"
+  },
+  {
+    "component": "text",
+    "value": "kindness_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "kindness_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

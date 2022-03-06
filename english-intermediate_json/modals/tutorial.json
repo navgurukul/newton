@@ -1,0 +1,26 @@
+[
+	{
+		"component": "youtube",
+		"value": "hRFyAUgfKaA"
+	},
+	{
+		"component": "youtube",
+		"value": "ZC710CZYv6k"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.englisch-hilfen.de/en/grammar/hilfsverben2.htm\">Lesson</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.myenglishpages.com/site_php_files/grammar-exercise-modals.php\">Worksheets to Practice</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

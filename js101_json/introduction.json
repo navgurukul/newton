@@ -1,0 +1,145 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "JavaScript se kya kar sate hain?"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">insert video/link</span>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Aakhir JavaScript kya hai?"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/\">Things you can build with JavaScript?</a>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio\">What are some of the cool projects that I can build using Pure JavaScript?</a>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Kuch aur companies jo JS use karti hain"
+	},
+	{
+		"component": "text",
+		"value": "Aaj kal duniya mein bahot log aur companies JavaScript use kar rahe hain. Duniya ki saari achi companies JavaScript kisi na kisi tareeke se use kar sakte hain. JavaScript ki sabse khaas baat hai ki woh bahot saare platforms pe run hoti hai. Jaise:"
+	},
+	{
+		"component": "text",
+		"value": "JavaScript browsers mein chalti hai.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Mobile apps banane ke liye bhi use ho sakti hai.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Server pe backend banane ke liye bhi use ho sakti hai.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Digital smart watches pe JS waali application chalti hai.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Drones mein bhi JS use hoti hai. Thoda online padho drones kya hote hain :wink: ",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Waise toh bahot saari companies JS use kar rahi hain, lekin yeh kuch naam hain:"
+	},
+	{
+		"component": "text",
+		"value": "Flipkart",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Myntra",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "PayTM aur Freecharge",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "IRCTC (Indian Railways ki website)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Instagram ki mobile app bhi JS mein bani hai ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Google",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Facebook ka bahot saara backend aur Mobile apps JS mein bane hain.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

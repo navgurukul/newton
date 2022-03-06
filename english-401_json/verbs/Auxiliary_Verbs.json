@@ -1,0 +1,172 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Auxiliary Verbs"
+	},
+	{
+		"component": "text",
+		"value": "Auxiliary verbs ke baare me jaanne ke liye yeh video dekhein."
+	},
+	{
+		"component": "youtube",
+		"value": "gUcT2rKMU00"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Primary Auxiliary Verbs"
+	},
+	{
+		"component": "text",
+		"value": "TO BE, TO HAVE and TO DO are the three primary auxiliary verbs in English."
+	},
+	{
+		"component": "text",
+		"value": "TO BE has the following forms: Am, is, are, was, were, being, been",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "TO HAVE has the following forms: Have, has, had, having",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "TO DO has the following forms: Do, does, did, doing, done",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercises:"
+	},
+	{
+		"component": "text",
+		"value": "Fill in the blanks with the correct forms of Primary Auxiliary Verbs:"
+	},
+	{
+		"component": "text",
+		"value": "You must come to my house after you <b><i><i></i></b><b></i></b>_ completed your work.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "He <b><i><i></i></b></i>__ playing in the park.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b><i><i></i></b></i>_ he say where he came from?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "There <b><i><i></i></b></i>___ many things which the man _<i><b></i></b>__ not know.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The foreman <b><i><i></i></b></i>___ made the call to Gopal after the man came.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "The manager <b><i><i></i></b></i>__ a decent man because he helps others.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "There <b><i><i></i></b></i>_ several episodes about which I must tell you.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "He <b><i><i></i></b></i>___ (not) want to share his secret with the officer.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "The man <b><i><i></i></b></i>__ a plan for the revolution.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "The workers have <b><i><i></i></b></i> their job.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Practice:"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.myenglishpages.com/site_php_files/grammar-exercise-auxiliary-verbs.php\">Exercise 1</a>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.myenglishpages.com/site_php_files/grammar-exercise-auxiliary-verbs-2.php\">Exercise 2</a>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.englishgrammar.org/auxiliary-verbs-exercise-7/\">Exercise 3</a>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.ego4u.com/en/cram-up/grammar/auxiliary-verbs/exercises?ex03\">Exercise 4</a>",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	}
+]

@@ -1,0 +1,39 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 3"
+	},
+	{
+		"component": "text",
+		"value": "Create a function which takes 3 arguments(all integers) and prints their sum and average as shown below.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> "
+	},
+	{
+		"component": "text",
+		"value": "Enter first number :-3"
+	},
+	{
+		"component": "text",
+		"value": "Enter second number :-4"
+	},
+	{
+		"component": "text",
+		"value": "Enter third number:-5    "
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "Sum of three numbers :-12<br>Average of three numbers :-4"
+	}
+]

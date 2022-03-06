@@ -1,0 +1,25 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "creating-new-folders-with-os-makedirs()_key1"
+  },
+  {
+    "component": "text",
+    "value": "creating-new-folders-with-os-makedirs()_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import os<br>>>> os.makedirs('C:\\\\delicious\\\\walnut\\\\waffles')"
+  },
+  {
+    "component": "text",
+    "value": "creating-new-folders-with-os-makedirs()_key3"
+  },
+  {
+    "component": "text",
+    "value": "creating-new-folders-with-os-makedirs()_key4"
+  }
+]

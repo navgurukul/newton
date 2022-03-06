@@ -1,0 +1,244 @@
+[
+	{
+		"component": "text",
+		"value": "Hello!! <br>This is your Class 4 for Spoken English course module."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 1 ( Easy level )"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Pair and Share:"
+	},
+	{
+		"component": "text",
+		"value": "Where do you go regularly apart from home and school ?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is your favourite place to visit?( park, beach, friends<br>place)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why is it your favourite place to visit?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "When do you usually visit this place?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Who would you usually visit this place with ?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Objective</b> - The aim of this Level 1 pair share is to encourage comprehension and the difference between who-what-when-where-why. "
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game Time:"
+	},
+	{
+		"component": "text",
+		"value": "First, explain what is a tense, and the difference between the simple tenses - Past, Present, Future. A tense is a verb that helps us understand time in grammar."
+	},
+	{
+		"component": "text",
+		"value": "Past Tense - Things that already happened<br>Present Tense - Things that are happening now<br>Future Tense - Things that are going to happen."
+	},
+	{
+		"component": "text",
+		"value": "TENSE GAME - Volunteer will state the word, and the student will attempt to form 3 sentences based on past - present - future. For students who need additional assistance, please use the following question prompts in the example below:"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example: “Paint”"
+	},
+	{
+		"component": "text",
+		"value": "Past: What did you do yesterday? I painted yesterday"
+	},
+	{
+		"component": "text",
+		"value": "Present: What are you doing now? I am painting now"
+	},
+	{
+		"component": "text",
+		"value": "Future: What will you do tomorrow? I will paint tomorrow"
+	},
+	{
+		"component": "text",
+		"value": "Additional Regular Verbs to practice: Play, Cook, Ask, Climb, Push, Jump, Paint, Join, Try, Like"
+	},
+	{
+		"component": "text",
+		"value": "All regular verbs follow this pattern of Past tense ending in “ed”, Present ending in “ing” and Future by adding “will”. Irregular verbs do not follow this format.<br>Provide an example and practice some irregular verbs, if the student is ready."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example: “Run”"
+	},
+	{
+		"component": "text",
+		"value": "Past: What did you do yesterday? I ran yesterday"
+	},
+	{
+		"component": "text",
+		"value": "Present: What are you doing now? I am running now"
+	},
+	{
+		"component": "text",
+		"value": "Future: What will you do tomorrow? I will run tomorrow"
+	},
+	{
+		"component": "text",
+		"value": "Additional Irregular Verbs to Practice - Eat, Drink, Draw, Write, Speak, Do, Speak, Hold, Sit, Sleep, Fall, Give"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "Imagine (verb)<br>Meaning: form a mental image or concept of.<br>Imagination (noun)<br>Meaning: form a mental image or concept of.<br>Usage: He has no imagination."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Homework:"
+	},
+	{
+		"component": "text",
+		"value": "Use the word when talking to teachers/friends/others this week and make a note of how many times you used it."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Level 2 ( Intermediate Level )"
+	},
+	{
+		"component": "text",
+		"value": "Pair and Share: <br>What is your favorite place other than home and school? Describe this place, and why you like it."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Objective - The aim of this Level 2 pair share is to use their vocabulary to describe this place and the activities they do when they are in this place, as well as to use reasoning to describe their attraction to this place."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Game Time: First, explain what is a tense, and the difference between the simple tenses - Past, Present, Future."
+	},
+	{
+		"component": "text",
+		"value": "A tense is a verb that helps us understand time in grammar.<br>Past Tense - Things that already happened<br>Present Tense - Things that are happening now<br>Future Tense - Things that are going to happen."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example: “Paint”"
+	},
+	{
+		"component": "text",
+		"value": "Past: What did you do yesterday? I painted a bird yesterday"
+	},
+	{
+		"component": "text",
+		"value": "Present: What are you doing now? I am painting a bird now"
+	},
+	{
+		"component": "text",
+		"value": "Future: What will you do tomorrow? I will paint a bird tomorrow"
+	},
+	{
+		"component": "text",
+		"value": "Additional Regular Verbs to practice: <br>Accept, Allow, Arrive, Calculate, Develop, Enjoy, Include, Laugh, Manage, Protect."
+	},
+	{
+		"component": "text",
+		"value": "All regular verbs follow this pattern of Past tense ending in “ed”, Present ending in “ing” and Future by adding “will”. Irregular verbs do not follow this format<br>for the past tense. Provide an example and practice some irregular verbs, if the student is ready."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example: “Run”"
+	},
+	{
+		"component": "text",
+		"value": "Past: What did you do yesterday? I ran to catch the bus yesterday"
+	},
+	{
+		"component": "text",
+		"value": "Present: What are you doing now? I am running to catch the bus now"
+	},
+	{
+		"component": "text",
+		"value": "Future: What will you do tomorrow? I will run to catch the bus tomorrow"
+	},
+	{
+		"component": "text",
+		"value": "Additional Irregular Verbs to Practice - Forget, Think, Buy, Catch, Choose, Get, Do, Be (was), Hear, Hurt (hurt), Blow, Break"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Word of the Week"
+	},
+	{
+		"component": "text",
+		"value": "<b>Depend</b> (verb)"
+	},
+	{
+		"component": "text",
+		"value": "Meaning: 1. rely on; 2. to rely for support"
+	},
+	{
+		"component": "text",
+		"value": "Usage: You may depend on the accuracy of the report.<br><b>Children depend on their parents.</b>"
+	},
+	{
+		"component": "text",
+		"value": "<b>Imagination</b> (noun)"
+	},
+	{
+		"component": "text",
+		"value": "Meaning: form a mental image or concept of.<br>Usage: He has no imagination."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Homework:"
+	},
+	{
+		"component": "text",
+		"value": "Use the word when talking to teachers/friends/others this week and make a note of how many times you used it."
+	}
+]

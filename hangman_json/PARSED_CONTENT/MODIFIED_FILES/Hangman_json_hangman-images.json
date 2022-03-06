@@ -1,0 +1,48 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hangman-images_key1"
+  },
+  {
+    "component": "text",
+    "value": "hangman-images_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hangman-images_key3"
+  },
+  {
+    "component": "text",
+    "value": "hangman-images_key4"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hangman-images_key5"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=T1WK-Rutm-Q"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "hangman-images_key6"
+  },
+  {
+    "component": "text",
+    "value": "hangman-images_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "&emsp;from images import IMAGES<br>&emsp;while (True):<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print (\"Oops! That letter is not in my word: \" + get_guessed_word(secret_word, letters_guessed))<br>&emsp;&emsp;&emsp;print (IMAGES[8-remaining_lives])<br>&emsp;&emsp;&emsp;print (\"Remaining Lives : \", remaining_lives)<br>&emsp;&emsp;&emsp;print (\"\")<br>&emsp;&emsp;&emsp;letters_guessed.append(letter)<br>&emsp;&emsp;&emsp;remaining_lives -= 1"
+  },
+  {
+    "component": "text",
+    "value": "hangman-images_key8"
+  }
+]

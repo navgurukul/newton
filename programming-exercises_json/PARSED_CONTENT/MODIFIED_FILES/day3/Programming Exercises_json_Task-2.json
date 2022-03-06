@@ -1,0 +1,63 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2_key1"
+  },
+  {
+    "component": "text",
+    "value": "Task-2_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2_key3"
+  },
+  {
+    "component": "text",
+    "value": "Task-2_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2_key5"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Task-2_key6"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 1:<br>  Input: 2345<br>  Output: 14"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 2:<br>  Input:  3456<br>  Output: 18"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 3:<br>  Input: 8788<br>  Output: 31"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "Test Case 4:<br>  Input: 1<br>  Output: 1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Task-2_key7"
+  },
+  {
+    "component": "text",
+    "value": "Task-2_key8"
+  }
+]

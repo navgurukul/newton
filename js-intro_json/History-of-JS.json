@@ -1,0 +1,103 @@
+[
+	{
+		"component": "text",
+		"value": "In 1995, JavaScript was created by a developer named Brendan Eich. First, it was called Mocha that later was renamed to LiveScript and then Javascript. "
+	},
+	{
+		"component": "text",
+		"value": "You will get some more Information about browser and importance of Javascript from this video."
+	},
+	{
+		"component": "youtube",
+		"value": "9WfPJKiKs_I"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "What You Can Do with JavaScript"
+	},
+	{
+		"component": "youtube",
+		"value": "VePxnvFBZAs"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://intersog.com/blog/cool-stuff-you-can-build-with-javascript/\">Things you can build with JavaScript?</a><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.quora.com/What-are-some-cool-things-to-build-with-Javascript-that-look-good-in-a-portfolio\">What are some of the cool projects that I can build using Pure JavaScript?</a><br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Some more companies which is using JS"
+	},
+	{
+		"component": "text",
+		"value": "Nowadays, in the world so many are using javascript. The best companies in the world use javascript somewhere in their company. Javascripts speciality they can run on any platform."
+	},
+	{
+		"component": "text",
+		"value": "- Javascript run on browsers<br>- For making mobile apps also we can use javascript<br>- for making backend code on server<br>- We can run JS applications on Digital smart watches<br>- In Drones also we will use JS"
+	},
+	{
+		"component": "text",
+		"value": "So many companies using Javascript in that some company names are:"
+	},
+	{
+		"component": "text",
+		"value": "Flipkart",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Myntra",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "PayTM and Freecharge",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "IRCTC (Indian Railways website)",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Instagram's mobile app is made on JS",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Google",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Facebook's so many apps made on JS.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

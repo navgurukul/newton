@@ -1,0 +1,36 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "question1_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question1_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question1_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dic1={1:10, 2:20}<br>dic2={3:30,2:40}<br>dic3={5:50,6:60}"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question1_key5"
+  },
+  {
+    "component": "text",
+    "value": "question1_key6"
+  }
+]

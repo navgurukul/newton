@@ -1,0 +1,17 @@
+{
+	"DataTypes_key1": "Data Types\n",
+	"DataTypes_key2": "Aapne Javscript mein 4 tarah ke Data Types padhe:\n",
+	"DataTypes_key3": "Numbers\n",
+	"DataTypes_key4": "`Strings`\n",
+	"DataTypes_key5": "Booleans\n",
+	"DataTypes_key6": "Undefined\n\n\n",
+	"DataTypes_key7": "javascript mein *typeof* ka use karke aap kisi bhi `variable` ya data ka type pata laga sakte hain.\n",
+	"DataTypes_key8": "Aap ek data type ko doosre data type mein convert bhi kar sakte hain. Iske liye javascript mein pehle se pre-defined methods\n",
+	"DataTypes_key9": "1\n",
+	"DataTypes_key10": "[2] (\n",
+	"DataTypes_key11": "https://www.w3schools.com/jsref/jsref_tostring_number.asp)hain\n",
+	"DataTypes_key12": ".\n",
+	"DataTypes_key13": "**Homework**\n",
+	"DataTypes_key14": "parseInt() ka use karke `string` data \"25\" ko number mein convert karein. `Output` ko `variable` mein store karein aur *typeof* use karke check karein ki data type change hua ya nahi\n",
+	"DataTypes_key15": ".to`String`() ka use karke number data 51 ko `string` mein convert karein. `Output` ko `variable` mein store karein aur *typeof* use karke check karein ki data type change hua ya nahi.\n"
+}

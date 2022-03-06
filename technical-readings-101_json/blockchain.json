@@ -1,0 +1,152 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Blockchain"
+	},
+	{
+		"component": "text",
+		"value": "Blockchain is an universal digital ledger in which transactions made in bitcoin<br>or another cryptocurrency are recorded serially and publicly."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Ledger"
+	},
+	{
+		"component": "text",
+		"value": "Ledger is a book of records which maintain financial transactions."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Bitcoins"
+	},
+	{
+		"component": "text",
+		"value": "Bitcoin is a digital and global money system currency. It allows people to send or<br>receive money across the internet, even to someone they don't know or don't trust. <br>Money can be exchanged without being linked to a real identity."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Cryptocurrency"
+	},
+	{
+		"component": "text",
+		"value": "Cryptocurrency is a form of digital currency based on mathematics, where encryption<br>techniques are used to regulate the generation of units of currency and verify the<br>transfer of funds. Farthermore, cryptocurrencies operate independently of a central bank."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Important points:"
+	},
+	{
+		"component": "text",
+		"value": "A Blockchain is a type of double entry book keeping containing information about transactions.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Each transaction generates a hash.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "A hash is a string of numbers and letters.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Transactions are entered in the order in which they occurred. Order is very important.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "The hash depends not only on the transaction but the previous transaction's hash.Even a small change in a transaction creates a completely new hash.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "The nodes check to make sure a transaction has not been changed by inspecting the hash. If a transaction is approved by a majority of the nodes than it is written into a block.",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Each block refers to the previous block and together make the Blockchain.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "A Blockchain is effective as it is spread over many computers, each of which have a copy of the Blockchain.",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "These computers are called nodes.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "The Blockchain updates itself every 10 minutes.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Read about this topic from here."
+	},
+	{
+		"component": "text",
+		"value": "In simple English : <a href=\"https://simple.wikipedia.org/wiki/Blockchain\">Link</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "In medium English : <a href=\"https://cointelegraph.com/bitcoin-for-beginners/how-blockchain-technology-works-guide-for-beginners#hash-function\">Link</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "In advanced English : <a href=\"https://medium.com/@yannmjl/what-is-blockchain-in-simple-english-25e684c1cea3\">Link</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

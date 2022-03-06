@@ -1,0 +1,62 @@
+[
+  {
+    "component": "text",
+    "value": "callbacks_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// Create a function that accepts another function as an argument<br> <br>const callbackWaalaFunction = (fn) => {<br>  // Calls the function with any required arguments<br> <br>  return fn(\"kumar\", 24, \"chocolates\")<br>}<br>// Callback gets arguments from the above call<br> <br>const myDescription = (arg1, arg2, arg3) => {<br> <br>  return \"My name is \"+arg1+\" and I am \"+arg2+\"years old\"+\". I like \"+arg3<br>}<br>// Passing a callback into a callback accepting function<br> <br>const result = callbackWaalaFunction(myDescription)<br>console.log(result) // My name is kumar and I am 24years old. I like chocolates"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key2"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key3"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key4"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key5"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key6"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key7"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "function Gurukul(){<br>   console.log(\"I am Navgurukul\");<br>}<br> <br>function Nav(callback){<br>   console.log(\"I am Nav\");<br>   callback();<br>}<br> <br>Nav(Gurukul);  //I am Nav I am Navgurukul"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key8"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let calc= function (num1,num2,calcType){<br>  <br>   if (calcType==\"add\"){<br>       return num1+num2;<br>   }<br>   else if(calcType ==\"multiply\"){<br>       return num1*num2;<br>   }<br>}<br> <br>console.log(calc(2,3,\"add\"));<br> <br>//Output<br>5"
+  },
+  {
+    "component": "text",
+    "value": "callbacks_key9"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "let add = function(num1,num2){<br>   return num1+num2;<br>}<br> <br>let multiply= function(num1,num2){<br>   return num1*num2;<br>}<br> <br>let calc= function (num1,num2,callback){<br>   console.log(callback(num1,num2));<br>}<br> <br>calc(2,3,add);<br>calc(2,3,multiply);<br> <br>//output<br>5<br>6"
+  }
+]

@@ -1,0 +1,16 @@
+[
+	{
+		"component": "text",
+		"value": "Give introduction to a basic calculator project that we are going to use as a base project for the following topics",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Students will be exposed to a working prototype of this project to get a feel of what exactly they will be building.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

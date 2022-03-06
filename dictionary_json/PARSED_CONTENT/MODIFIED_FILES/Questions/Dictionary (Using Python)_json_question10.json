@@ -1,0 +1,33 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question10_key1"
+  },
+  {
+    "component": "text",
+    "value": "question10_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question10_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "dict1 =  {<br>   'Alex': ['subj1', 'subj2', 'subj3'], <br>   'David': ['subj1', 'subj2']}"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question10_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "total count:5"
+  }
+]

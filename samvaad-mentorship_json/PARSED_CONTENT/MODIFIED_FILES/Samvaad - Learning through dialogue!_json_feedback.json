@@ -1,0 +1,24 @@
+[
+  {
+    "component": "text",
+    "value": "feedback_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "feedback_key2"
+  },
+  {
+    "component": "text",
+    "value": "feedback_key3"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "feedback_key4"
+  },
+  {
+    "component": "text",
+    "value": "feedback_key5"
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "chapter-8_key1"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key2"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key3"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key4"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key5"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key6"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key7"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key8"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key9"
+  },
+  {
+    "component": "text",
+    "value": "chapter-8_key10"
+  }
+]

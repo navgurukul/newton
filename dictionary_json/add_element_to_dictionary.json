@@ -1,0 +1,75 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Adding Elements to a  Dictionary:-"
+	},
+	{
+		"component": "text",
+		"value": "In a <span style=\"\">python</span> dictionary we can add only one <span style=\"\">key</span> value pair at a time. To add to a dictionary we mention the <span style=\"\">key</span> inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">square brackets \"[ ]\"</span> and use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">equal to \"=\" operator</span> to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">assign</span> a value."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dic= {<br>&emsp;'Name': 'RAM', <br>&emsp;'Age': 17,<br>&emsp;}<br>&emsp;<br>dic['ORGANIZATION'] = \"NAV GURUKUL\"<br><br>dic['place'] = 'dharamsala'<br><br>print(dic)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'Name': 'RAM', 'Age': 17,'ORGANIZATION': 'NAVGURUKUL', 'place':'dharamsala}</span>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "dic= {<br>   'Name': 'RAM',<br>   'Age': 17,<br>&emsp;}<br>dic['student']={<br>&emsp;   'id':22, <br>&emsp;   'place':'dharamsala'<br>   }<br>print(dic)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}</span>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Key</span> Exists or not"
+	},
+	{
+		"component": "text",
+		"value": "We use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">in</span> <span style=\"\">key</span>word to check whether a given <span style=\"\">key</span> exists or not in a dictionary."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "car ={<br>&emsp;\"brand\":  \"ford\",<br>&emsp;\"model\":  \"mustang\",<br>&emsp;\"year\":  1964<br>}<br>if \"model\" in car:<br>&emsp;print(\"Yes, 'model' is one of the keys in the car dictionary.\")<br><br>else:<br>&emsp;print(\"No, 'model' key dictionary mai nahi hai.\")"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Yes, 'model' is one of the keys in the this dict dictionary.</span>"
+	}
+]

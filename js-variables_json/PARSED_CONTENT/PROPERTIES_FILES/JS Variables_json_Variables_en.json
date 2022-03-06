@@ -1,0 +1,11 @@
+{
+	"Variables_key1": "Example:",
+	"Variables_key2": "Explanation:",
+	"Variables_key3": "In the above example it creates a <span style=\"\">variable</span> called myName.",
+	"Variables_key4": "We tell JavaScript to create or declare a <span style=\"\">variable</span> by putting the <span style=\"\">key</span>word var. Some other <span style=\"\">key</span>words are also there to declare <span style=\"\">variables</span> like let and const, about them we will learn in later of this document.",
+	"Variables_key5": "In javascript <span style=\"\">statements</span> end with semicolons(;). <span style=\"\">Variable</span> names can be made up of numbers, letters, and $ or _, but may not contain spaces or start with a number.",
+	"Variables_key6": "In the computer world data is everything which is meaningful to computers. We have so many different types of data types which are <span style=\"\">string</span>, number, boolean, object , undefined , null etc.,<br>We tell JavaScript to create or declare a <span style=\"\">variable</span> by putting the <span style=\"\">key</span>word var.",
+	"Variables_key7": "Some Exercises:",
+	"Variables_key8": "Use the var keyword to create a variable called ourCampusName?<br><br>",
+	"Variables_key9": "Use the var keyword to create a variable called myVillage?<br><br>"
+}

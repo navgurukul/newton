@@ -1,0 +1,16 @@
+{
+    "remove_element_dictionary_key1": "शब्दकोश से तत्वों को हटाना:-",
+    "remove_element_dictionary_key2": "हम कई तरीकों से डिक्शनरी एलिमेंट को हटा सकते हैं।<br> जैसा नीचे दिया गया है।",
+    "remove_element_dictionary_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">pop()</span> :-",
+    "remove_element_dictionary_key4": "<b>पॉप ()</b> विधि का उपयोग करके हम शब्दकोश से एक निर्दिष्ट तत्व को हटा सकते हैं।",
+    "remove_element_dictionary_key5": "<span style=\"\">Output</span> :-",
+    "remove_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'brand': 'Ford', 'year': 1964}</span>",
+    "remove_element_dictionary_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">popitem()</span> :-",
+    "remove_element_dictionary_key8": "<b>popitem()</b> विधि अंतिम सम्मिलित आइटम को हटा देती है:",
+    "remove_element_dictionary_key9": "<span style=\"\">Output</span> :-",
+    "remove_element_dictionary_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'name':'jack','id':22}</span>",
+    "remove_element_dictionary_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\u001b</span> : -",
+    "remove_element_dictionary_key12": "<b>डेल</b> <span style=\"\">key</span> शब्द का उपयोग करके हम डिक्शनरी से एक निर्दिष्ट तत्व को हटा सकते हैं।",
+    "remove_element_dictionary_key13": "<span style=\"\">Output</span> :-",
+    "remove_element_dictionary_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'name':'jack','id':22}</span>"
+}

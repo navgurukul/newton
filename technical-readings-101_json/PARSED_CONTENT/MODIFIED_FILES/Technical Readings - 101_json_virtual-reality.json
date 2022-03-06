@@ -1,0 +1,57 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "virtual-reality_key1"
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key2"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "virtual-reality_key3"
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key4"
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key5"
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "virtual-reality_key9"
+  },
+  {
+    "component": "text",
+    "value": "virtual-reality_key10"
+  }
+]

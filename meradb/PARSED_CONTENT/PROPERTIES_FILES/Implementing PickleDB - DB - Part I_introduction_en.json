@@ -1,0 +1,19 @@
+{
+	"introduction_key1": "Da`tab`ase\n",
+	"introduction_key2": "Yaani jaha aapka data store hota hai. \n",
+	"introduction_key3": "Querying Da`tab`ase\n",
+	"introduction_key4": "Agar aapne data store kar liya hai toh, ab aapko uss data ko kabhi kabhi mangwana bhi padega. Jaise maan lo, humne saare students ka data kahi store kar liya hai. Toh kabhi kabhi yeh question aa sakta hai ki, A naam ke student ka phone number kya hai?\n",
+	"introduction_key5": "`Tab` da`tab`ase se aap A ka phone number check karenge. Iss process ko bolte hai `database` se `query` karna.\n",
+	"introduction_key6": "Spreadsheet / Excel\n",
+	"introduction_key7": "`Spreadsheet` / `Excel` ek kaafi acche da`tab`ase ka example hai. Waha par hum bahut saara data structured form mei store bhi karte hai, aur jab jaroorat padti hai query bhi karte hai. Aap `Excel` ya `Spreadsheet` use kar kar, apna koi bhi data store kar sakte hai.\n",
+	"introduction_key8": "MySQL & MongoDB\n",
+	"introduction_key9": "`MySQL` and `MongoDB` sabse popular da`tab`ases mei se ek hai, jo kaafi badi badi companies use karti hai. Hum inn da`tab`ases ke baarein mei alag se details mei padhenge, aur aap khud bhi thoda google kar kar samajh sakte hai.\n",
+	"introduction_key10": "PickleDB\n",
+	"introduction_key11": "Yeh bahut simple sa database hai, jo python mei hi likha hua hai. Iska source code\n",
+	"introduction_key12": "yaha\n",
+	"introduction_key13": "par hai. Hum sabse pehle aisa hi implementaion karenge.\n",
+	"introduction_key14": "TinyDB\n",
+	"introduction_key15": "Yeh database bhi python mei likha hua hai. Iska source code\n",
+	"introduction_key16": "yaha\n",
+	"introduction_key17": "par available hai. Iss course ke next part mei hum, yeh wala database implement karenge.\n"
+}

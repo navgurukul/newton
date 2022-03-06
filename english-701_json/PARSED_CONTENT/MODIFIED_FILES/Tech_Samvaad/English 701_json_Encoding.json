@@ -1,0 +1,130 @@
+[
+  {
+    "component": "text",
+    "value": "Encoding_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "kfPPmmd9CRE"
+  },
+  {
+    "component": "youtube",
+    "value": "3KBfiOKMaWo"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key2"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key3"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key4"
+  },
+  {
+    "component": "youtube",
+    "value": "90fME0sT7ko"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key5"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key6"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key7"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key8"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key9"
+  },
+  {
+    "component": "youtube",
+    "value": "0qTnewnVRLo"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key10"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key11"
+  },
+  {
+    "component": "youtube",
+    "value": "jRHLrfJC6Rk"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key12"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key13",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key14",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key15",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key16",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key17",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key18"
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key19",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Encoding_key20",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  }
+]

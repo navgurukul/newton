@@ -1,0 +1,46 @@
+[
+  {
+    "component": "text",
+    "value": "StagingArea_key1"
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key2"
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key3"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "git diff <filename>"
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key4"
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key5"
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key6"
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "StagingArea_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

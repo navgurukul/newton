@@ -1,0 +1,47 @@
+[
+	{
+		"component": "text",
+		"value": "Is process ko kaam karne ke liye time time par ye ensure karna important hai ki saare projects me kaam smoothly chal raha hai. Saare students apni puri efficiency ke sath seva me participate kar pa rahe hain ya nahi. Iske liye ek process setup kiya gaya hai. Ek weekly review process hoga jisme saare students ka evaluation hoga. "
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Flow of Feedback"
+	},
+	{
+		"component": "text",
+		"value": "Feedback process will be carried out in the following manner:"
+	},
+	{
+		"component": "text",
+		"value": "The Governor will have a feedback session with the GenSec and DISCO.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "The GenSec will have a feedback session with the Council members, which will be shadowed by the Governor.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "The Council members will have a feedback session with their respective teams.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "The feedback will be completely transparent in manner."
+	},
+	{
+		"component": "text",
+		"value": "<b>Here is the form for SEVA feedback:</b> <a href=\"https://goo.gl/forms/pR3mbFX704vHVVjB3\">Feedback - Seva</a>"
+	}
+]

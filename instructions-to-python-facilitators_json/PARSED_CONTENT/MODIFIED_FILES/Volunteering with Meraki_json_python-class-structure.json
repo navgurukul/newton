@@ -1,0 +1,157 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "python-class-structure_key1"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key2"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key5",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key7",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key8",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key9",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key10",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key11"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "python-class-structure_key12"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key13",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key14",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key15",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key16",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "blockquote",
+    "value": "python-class-structure_key17"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key18"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "python-class-structure_key19"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key20"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key21"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key22"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key23"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key24"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key25"
+  },
+  {
+    "component": "text",
+    "value": "python-class-structure_key26"
+  }
+]

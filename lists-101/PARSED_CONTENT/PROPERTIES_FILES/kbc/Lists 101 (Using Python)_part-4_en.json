@@ -1,0 +1,6 @@
+{
+	"part-4_key1": "`Input` from the User\n",
+	"part-4_key2": "Now, everytime after asking the question, you need to take `input` from the user ,so that he can guess about what will be the correct answer.\n",
+	"part-4_key3": "User can answer either 1, 2, 3 or 4.\nNow, you have taken answer as an `input` from the user, now you need to check if the user has given correct answer or not.\n",
+	"part-4_key4": "If the answer is correct then print `\"Congrats! Aapka answer sahi hai\"` otherwise`Sadly aapka javab ga1lat hai.`\n"
+}

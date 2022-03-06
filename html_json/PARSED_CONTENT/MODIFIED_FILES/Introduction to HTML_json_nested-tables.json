@@ -1,0 +1,22 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "nested-tables_key1"
+  },
+  {
+    "component": "text",
+    "value": "nested-tables_key2"
+  },
+  {
+    "component": "text",
+    "value": "nested-tables_key3"
+  },
+  {
+    "component": "text",
+    "value": "nested-tables_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

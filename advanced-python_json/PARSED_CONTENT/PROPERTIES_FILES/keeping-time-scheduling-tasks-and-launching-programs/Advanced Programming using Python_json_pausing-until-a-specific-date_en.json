@@ -1,0 +1,5 @@
+{
+	"pausing-until-a-specific-date_key1": "Pausing Until a Specific Date",
+	"pausing-until-a-specific-date_key2": "The time.sleep() method lets you pause a program for a certain number of seconds. By using a while <span style=\"\">loop</span>, you can pause your programs until a specific date. For example, the following <span style=\"\">code</span> will continue to <span style=\"\">loop</span> until Halloween 2016:",
+	"pausing-until-a-specific-date_key3": "The time.sleep(1) call will pause your <span style=\"\">Python</span> program so that the computer doesn’t waste CPU processing cycles simply checking the time over and over. Rather, the while <span style=\"\">loop</span> will just check the condition once per second and continue with the rest of the program after Halloween 2016 (or whenever you program it to stop)."
+}

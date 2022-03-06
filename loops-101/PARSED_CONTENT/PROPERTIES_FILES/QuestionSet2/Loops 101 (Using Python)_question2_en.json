@@ -1,0 +1,10 @@
+{
+	"question2_key1": "Question 2\n",
+	"question2_key2": "Make a program that should do the following thing from `1 to 100`.\n",
+	"question2_key3": "Numbers that are divisible by `3`, you have to print \"`Nav\"`. \n\n",
+	"question2_key4": "Numbers that are divisible by `7` so that `\"Gurukul\"` is printed.\n",
+	"question2_key5": "Numbers that are divisible by both `3` and `7`, print `\"NavGurukul\"` there.\n\n",
+	"question2_key6": "If the number does not come in the above three cases then print the number only.\n\n\n",
+	"question2_key7": "Your `output` should look like this.\n",
+	"question2_key8": "1\n2\nNav\n4\n5\nNav\nGurukul\n8\nNav\n10\n11\nNav\n13\nGurukul\nNav\n16\n17\nNav\n19\n20\nNavGurukul\n22\n23\nNav\n25\n26\nNav\nGurukul\n29\nNav\n31\n32\nNav\n34\nGurukul\nNav\n37\n38\nNav\n40\n41\nNavGurukul\n43\n44\nNav\n46\n47\nNav\nGurukul\n50\nNav\n52\n53\nNav\n55\nGurukul\nNav\n58\n59\nNav\n61\n62\nNavGurukul\n64\n65\nNav\n67\n68\nNav\nGurukul\n71\nNav\n73\n74\nNav\n76\nGurukul\nNav\n79\n80\nNav\n82\n83\nNavGurukul\n85\n86\nNav\n88\n89\nNav\nGurukul\n92\nNav\n94\n95\nNav\n97\nGurukul\nNav\n100\n"
+}

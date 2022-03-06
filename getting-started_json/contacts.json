@@ -1,0 +1,149 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Important Contacts"
+	},
+	{
+		"component": "text",
+		"value": "Here are some important contact numbers:"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Council Dharamsala"
+	},
+	{
+		"component": "text",
+		"value": "GenSec - Ajay Dohre - 8770212379",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Food &amp; Hygiene Coordinator - Raushan Kumar - 9911784903",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Information Technology Coordinator - ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Cultural Coordinator - ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Facility Maintainence Incharge - ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Outreach &amp; Communication Coordinator -",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Training &amp; Placement Coordinator - ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Treasurer - Ajay Dohre - 7088373643",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "DISCO - Akhil Rawat - 7088373643",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Council Bangalore"
+	},
+	{
+		"component": "text",
+		"value": "GenSec - Meenakshi Patel - 9617535175",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Food &amp; Hygiene Coordinator - Divya Parmar - ",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Information Technology Coordinator - Priya Pandey - 7974501081",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Outreach &amp; Communication Coordinator - Komal Bhatt - 7302629612",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Training &amp; Placement Coordinator - Priya Pandey - 7974501081",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Treasurer - Meenakshi Patel - 9617535175",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "DISCO - Shivani Sharma",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"question1_key1": "Question 1\n",
+	"question1_key2": "Create a funciton named eligible_for_vote which tell the user if he/she is eligible to vote or not.( Consider minimum age of voting to be 18. )\n",
+	"question1_key3": "***Example:-***\n",
+	"question1_key4": "If user's age is less than 18 , print ***“not eligible “***,else if user's age is greater than or equal to 18, print ***“you are eligible”***\n",
+	"question1_key5": "`Input:- `\n",
+	"question1_key6": "18\n16\n",
+	"question1_key7": "**`Output` :-**\n",
+	"question1_key8": "“you are eligible”\n“not eligible”\n"
+}

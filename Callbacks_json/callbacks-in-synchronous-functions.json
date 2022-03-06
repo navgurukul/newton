@@ -1,0 +1,66 @@
+[
+	{
+		"component": "text",
+		"value": "Callbacks are used in two different ways — in <b>*synchronous functions</b> and <b>asynchronous functions</b>."
+	},
+	{
+		"component": "text",
+		"value": "If your <span style=\"\">code</span> <span style=\"\">executes</span> in a top to bottom, left to right fashion, sequentially, and waiting until one <span style=\"\">code</span> has finished before the next line begins, then your <span style=\"\">code</span> is synchronous."
+	},
+	{
+		"component": "text",
+		"value": "Let’s look at an example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const addOne = (n) => n + 1<br>addOne(1) // 2<br>addOne(2) // 3<br>addOne(3) // 4<br>addOne(4) // 5"
+	},
+	{
+		"component": "text",
+		"value": "In the example above, addOne(1) <span style=\"\">executes</span> first. Once it’s done, addOne(2) begins to <span style=\"\">execute</span>. Once addOne(2) is done, addOne(3) <span style=\"\">executes</span>. This process goes on until the last line of <span style=\"\">code</span> gets <span style=\"\">execute</span>d."
+	},
+	{
+		"component": "text",
+		"value": "Callbacks are used in synchronous functions when you want a part of the <span style=\"\">code</span> to be easily swapped with something else."
+	},
+	{
+		"component": "text",
+		"value": "Let’s go through another example. This time, let’s say you wanted to filter an array of numbers to get a list that’s less than five. Here, you pass a callback into the filter function:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const numbers = [3, 4, 10, 20]<br>const lesserThanFive = numbers.filter(num => num < 5)"
+	},
+	{
+		"component": "text",
+		"value": "Now, if you do the above <span style=\"\">code</span> with named functions, filtering the array would look like this instead:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const numbers = [3, 4, 10, 20]<br>const getLessThanFive = num => num < 5<br> <br>// Passing getLessThanFive function into filter<br>const lesserThanFive = numbers.filter(getLessThanFive)"
+	},
+	{
+		"component": "text",
+		"value": "In this case, getLessThanFive is the callback. Array.filter is a function that accepts a callback function."
+	},
+	{
+		"component": "text",
+		"value": "So, back in the Array.filter example above, although we filtered the array to contain numbers that are less than five, you could easily reuse Array.filter to obtain an array of numbers that are greater than ten:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const numbers = [3, 4, 10, 20]<br>const getLessThanFive = num => num < 5<br>const getMoreThanTen = num => num > 10<br> <br>// Passing getLessThanFive function into filter<br>const lesserThanFive = numbers.filter(getLessThanFive)<br> <br>// Passing getMoreThanTen function into filter<br>const moreThanTen = numbers.filter(getMoreThanTen)"
+	},
+	{
+		"component": "text",
+		"value": "This is why you’d use callbacks in a synchronous function. Now, let’s move on and look at why we use callbacks in asynchronous functions."
+	}
+]

@@ -1,0 +1,10 @@
+{
+	"working-with-the-screen_key1": "Working with the Screen",
+	"working-with-the-screen_key2": "Your GUI automation programs don’t have to click and type blindly. PyAutoGUI has screenshot features that can create an image <span style=\"\">file</span> based on the current contents of the screen. These functions can also return a Pillow Image object of the current screen’s appearance. If you’ve been skipping around in this book, you’ll want to read Chapter 17 and install the pillow module before continuing with this section.",
+	"working-with-the-screen_key3": "On Linux computers, the scrot program needs to be installed to use the screenshot functions in PyAutoGUI. In a <span style=\"\">Terminal</span> window, run sudo apt-get install scrot to install this program. If you’re on Windows or OS X, skip this step and continue with the section.",
+	"working-with-the-screen_key4": "Getting a Screenshot",
+	"working-with-the-screen_key5": "To take screenshots in <span style=\"\">Python</span>, call the pyautogui.screenshot() function. Enter the following into the interactive <span style=\"\">shell</span>:",
+	"working-with-the-screen_key6": "The im <span style=\"\">variable</span> will contain the Image object of the screenshot. You can now call methods on the Image object in the im <span style=\"\">variable</span>, just like any other Image object. Enter the following into the interactive <span style=\"\">shell</span>:",
+	"working-with-the-screen_key7": "(176, 176, 175)",
+	"working-with-the-screen_key8": "(130, 135, 144)<br>Pass getpixel() a tuple of coordinates, like (0, 0) or (50, 200), and it’ll tell you the color of the pixel at those coordinates in your image. The return value from getpixel() is an RGB tuple of three <span style=\"\">integers</span> for the amount of red, green, and blue in the pixel. (There is no fourth value for alpha, because screenshot images are fully opaque.) This is how your programs can “see” what is currently on the screen."
+}

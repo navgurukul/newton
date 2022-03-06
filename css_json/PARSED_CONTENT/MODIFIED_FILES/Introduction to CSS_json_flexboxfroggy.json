@@ -1,0 +1,44 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "flexboxfroggy_key1"
+  },
+  {
+    "component": "text",
+    "value": "flexboxfroggy_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "flexboxfroggy_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "flexboxfroggy_key4",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "flexboxfroggy_key5"
+  },
+  {
+    "component": "text",
+    "value": "flexboxfroggy_key6",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

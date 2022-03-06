@@ -1,0 +1,12 @@
+{
+	"fibonacci-series_key1": "Fibonacci series yeh hoti hai:\n",
+	"fibonacci-series_key2": "**0, 1, 1, 2, 3, 5, 8, 13, 21, 34**\n",
+	"fibonacci-series_key3": "Iss series ka `pehla_number 0` hai aur `dusra_number` 1 hai. Aur uske baad har number `peechle do` numbers ka `sum` hota hai\n",
+	"fibonacci-series_key4": "Jaise,\n`teesra number` = `pehla_number` + `dusra_number`\n`1 = 0 + 1`\n`chautha_number` = `dusra_number` + `teesra_number`\n`2 = 1 + 1`\n",
+	"fibonacci-series_key5": "Aap isse recursion ka use kar kar - ek function banaye `fib` jo `number` parameter lekar uske corresponding `fibonacci number` return karta ho.\n",
+	"fibonacci-series_key6": "Hint\n",
+	"fibonacci-series_key7": "Yeh ek aisi recursion hai jismei current value - ussi function ki last do values par depend karta hai.\n",
+	"fibonacci-series_key8": "Solution\n",
+	"fibonacci-series_key9": "Aage\n",
+	"fibonacci-series_key10": "Aap apni understanding expand karne ke liye yeh video dekh sakte hai.\n"
+}

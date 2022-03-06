@@ -1,0 +1,105 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Auto Dumping"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "import meradb<br>db = meradb.load('ektha.db')<br>db.set('key1', 'value1')<br>db2.get('key1')<br>db.set('key2', 'value2')<br>db1.get('key2')"
+	},
+	{
+		"component": "text",
+		"value": "Yeh <span style=\"\">code</span> <span style=\"\">execute</span> karo. Kya iss <span style=\"\">code</span> ko <span style=\"\">execute</span> karne ke baad <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ektha.db</span> <span style=\"\">file</span> ke contents change honge?"
+	},
+	{
+		"component": "text",
+		"value": "Agar haa, kya yeh theek hai?<br>Agar naa, toh aisa kyu hua?<br><br>Kya woh changes important hai?"
+	},
+	{
+		"component": "text",
+		"value": "Agar hum chahte hai, ki hamare changes, hamari <span style=\"\">file</span> (yaani Hard Disk mei) <b>persistently</b> jaaye, toh hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dump</span> function abhi tak call kar rahe the."
+	},
+	{
+		"component": "text",
+		"value": "Par hum ab kuch aisa karenge, ki bina <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dump</span> function call karein bhi, jaise jaise, hum values set karte jaye, toh woh changes hamari <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">hard disk</span> yaani <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">file</span> mei bhi write ho jaye."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Task"
+	},
+	{
+		"component": "text",
+		"value": "Humein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">load</span> function (aur accordingly MeraDB Class) ko aise modify karna hai, ki agar second argument <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> ho toh - <span style=\"\">file</span> mei <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">auto dumping</span> enable ho jaye."
+	},
+	{
+		"component": "text",
+		"value": "Iska matlab hai ki, jaise hi koi bhi value <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">set</span> ki jaye, toh woh da<span style=\"\">tab</span>ase mei <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">write</span> ho jaye."
+	},
+	{
+		"component": "text",
+		"value": "Sochiye, agar aap aisa nahi karenge toh kya hoga.<br>To hum jo bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">set</span> operations karenge, jab tak da<span style=\"\">tab</span>ase mei <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dump</span> nahi karenge, <span style=\"\">tab</span> tak hamari <span style=\"\">file</span> mei write nahi honge."
+	},
+	{
+		"component": "text",
+		"value": "Par <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">auto dumping</span> enable karne se, hamara <span style=\"\">code</span> har <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">set</span> operation ke baad automatically update kar dega. Par yeh update sirf <span style=\"\">tab</span> hi karega jab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">load</span> ko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> as an argument milega. Agar usse ya toh"
+	},
+	{
+		"component": "text",
+		"value": "koi second argument nahi milega",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "ya <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> argument milega",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "toh <span style=\"\">code</span> pehle ki tarah hi chalega. Yaani agar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dump</span> function call nahi kiya hoga, toh da<span style=\"\">tab</span>ase mei koi change nahi hoga."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Dhyaan Rakhein"
+	},
+	{
+		"component": "text",
+		"value": "Jab bhi aap ko koi aisa task milta hai, toh aapko poore dhyaan se questions poochne chahiye."
+	},
+	{
+		"component": "text",
+		"value": "Humein kya karna hai?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Woh kar ne ke liye koi smaller steps jo humei karne hi padenge?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Jo hum kar rahe hai, uska kya use hai?",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Kya usko kisi behtar tarah se kar sakte hai?etc.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

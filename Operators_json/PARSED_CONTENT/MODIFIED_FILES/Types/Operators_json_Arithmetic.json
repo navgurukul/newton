@@ -1,0 +1,264 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Arithmetic_key1"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key2"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "Arithmetic_key3",
+        "items": [
+          "Arithmetic_key4",
+          "Arithmetic_key5",
+          "Arithmetic_key6",
+          "Arithmetic_key7",
+          "Arithmetic_key8",
+          "Arithmetic_key9",
+          "Arithmetic_key10"
+        ]
+      },
+      {
+        "header": "Arithmetic_key11",
+        "items": [
+          "Arithmetic_key12",
+          "Arithmetic_key13",
+          "Arithmetic_key14",
+          "Arithmetic_key15",
+          "Arithmetic_key16",
+          "Arithmetic_key17",
+          "Arithmetic_key18"
+        ]
+      },
+      {
+        "header": "Arithmetic_key19",
+        "items": [
+          "Arithmetic_key20",
+          "Arithmetic_key21",
+          "Arithmetic_key22",
+          "Arithmetic_key23",
+          "Arithmetic_key24",
+          "Arithmetic_key25",
+          "Arithmetic_key26"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key27"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key28"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key29"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=25<br>y=10<br>print(x+y)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key30"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key31"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key32"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key33"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key34"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "var1=5<br>var2=3<br>print(var1-var2)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key35"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key36"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key37"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key38"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key39"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a=2<br>b=3<br>print(a*b)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key40"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key41"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key42"
+  },
+  {
+    "component": "youtube",
+    "value": "DKGZlaPlVLY&t=3s"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key43"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key44"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key45"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=5<br>y=2<br>print(x/y)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key46"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key47"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key48"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key49"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key50"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "num=5<br>num1=2<br>print(num%num1)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key51"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key52"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key53"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key54"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key55"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x=2<br>y=5<br>print(x**y)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key56"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key57"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Arithmetic_key58"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key59"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key60"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a=15<br>b=2<br>print(a//b)"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "Arithmetic_key61"
+  },
+  {
+    "component": "text",
+    "value": "Arithmetic_key62"
+  }
+]

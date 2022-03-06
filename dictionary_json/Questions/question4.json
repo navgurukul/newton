@@ -1,0 +1,36 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Write a program remove the first <span style=\"\">key</span> value pair from a nested <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "&emsp;   Dic= {<br>&emsp;&emsp;1: 'NAVGURUKUL',<br>&emsp;&emsp;2: 'IN',  <br>&emsp;&emsp;  3:{&emsp;<br>&emsp;&emsp;&emsp; 'A' : 'WELCOME',<br>&emsp;&emsp;&emsp; 'B' : 'To',<br>&emsp;&emsp;&emsp; 'C' : 'DHARAMSALA'<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;}"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "Dic= {<br>    1: 'NAVGURUKUL',<br>    2: 'IN',  <br>      3:<br>      { 'B' : 'To',<br>        'C' : 'DHARAMSALA'<br>       }<br>    }"
+	}
+]

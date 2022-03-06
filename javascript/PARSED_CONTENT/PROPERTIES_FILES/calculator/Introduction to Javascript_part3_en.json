@@ -1,0 +1,12 @@
+{
+	"part3_key1": "Part III\n",
+	"part3_key2": "Link\n",
+	"part3_key3": "~ Ismei hum numbers store karna seekhenge.\n",
+	"part3_key4": "Jab user ek ke baad ek karke kuch numbers daalta hai, `tab` hume jo number banta hai woh display karana hai.\n",
+	"part3_key5": "Matlab agar user ne 2, 4, 6 press kiya toh 246 display par aana chahiye. Saath saath mei 246 number ko ek `variable` mei `string` form mei store karo. Iss tarah se hum iss `variable` ko baad mei use kar payenge. Iss `variable` ka naam aap **currentNumber** rakh sakte ho. Yeh `variable` global hona chahiye.\n",
+	"part3_key6": "Decimal Functionality\n",
+	"part3_key7": "Ab hum **decimal** ki functionality daalenge. Jab user decimal daalega toh current number mei decimal bhi jod dena.\n\n",
+	"part3_key8": "Jab user do baar **decimal** likhega toh hum alert function ko use karenge aur message dikhayenge ki - decimal already \napplied hai, isliye dobara nahi add kiya ja sakta.\n\n",
+	"part3_key9": "Agar user decimal press karta hai jab **currentNumber** kuch nahi hota, toh **currentNumber** ko \"0.\" se set karo.\n\n",
+	"part3_key10": "Jab user `operator` click karta hai, toh currentNumber aur decimal count karne ke liye jo `variable` hai unko reset kar do. `Operator` toh display mei chotte letters mei aayega.\n"
+}

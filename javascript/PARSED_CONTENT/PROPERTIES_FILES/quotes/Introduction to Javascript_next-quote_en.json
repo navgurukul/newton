@@ -1,0 +1,17 @@
+{
+	"next-quote_key1": "Part IV\n",
+	"next-quote_key3": "Link",
+	"next-quote_key4": " - Ismei aapko iss list ko use karna hai quotes ko change karne ke liye. Jab bhi user &quot;Kuch Aur!&quot; click karega toh aapko list mei se agli quote aur uska author dikhani hai. Aapko quote aur author ",
+	"next-quote_key6": "yaha",
+	"next-quote_key7": " par milegi.",
+	"next-quote_key8": "**Hints**:\n",
+	"next-quote_key9": "Koi `variable` banao jo current quote ka index store kar kar rakhe jaise 0, 1, 2, 3 ya 4. Yeh \n`variable` function ke bahar likha hoga.\n\n",
+	"next-quote_key10": "Ab jo pichle part mei function likha tha usko aise modify karo ki\n\n  - uss `variable` ko use kar kar agli quote dikha do\n\n  - Ab iss `variable` ko update kar do (jaise - pehle agar `variable` second index ko point kar raha tha, toh ab third         ko, yaani uski value ek se badha do)\n\n",
+	"next-quote_key11": "Dhyaan Rakhe ki Iss mein aapko for `loop` ka use nahi karna hai.\n\n\n\n",
+	"next-quote_key12": "Part IV  continued\n",
+	"next-quote_key13": "5 baar \"Kuch Aur!\" click karne par **undefined** aa raha hai? Socho aisa kyu.\n\n",
+	"next-quote_key14": "Yeh `error` isliye aa rahi hai kyuki kuch steps ke baad aapka index array ki length se jyada ho jaata hai. Jaise maan lo aap ka index 6 hai, aur array ki length 5.\n\n",
+	"next-quote_key15": "Toh jab aap 6th element access karoge toh kya hoga? Console par try karo.\n\n",
+	"next-quote_key16": "Iss se bachne ke liye index ki value jab length ke paas pahuche, toh usse aise set kar do ki wapas se pehli quote dikhein\n\n",
+	"next-quote_key17": "**Concept**: Arrays in Javascript\n"
+}

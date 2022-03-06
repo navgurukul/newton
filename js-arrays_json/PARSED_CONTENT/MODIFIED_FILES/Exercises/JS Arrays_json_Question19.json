@@ -1,0 +1,55 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Question19_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key5"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key6"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key7"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key8"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key9"
+  },
+  {
+    "component": "text",
+    "value": "Question19_key10"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "var kitna_paisa_hai = [3000, 600000, 324990909, 90990900, 30000, 5600000, 690909090, 31010101, 532010, 510, 4100]<br> <br>var count_of_crorepati=0;<br>var count_of_lakhpati=0;<br>var count_of_dilwale=0;<br>for( var  i of kitna_paisa_hai){<br>   if(i>= 10000000){<br>       count_of_crorepati+=1<br>   }<br>   else if(i>=100000){<br>       count_of_lakhpati+=1<br>   }<br>   else{<br>       count_of_dilwale+=1<br>   }<br>}<br> <br>console.log(count_of_crorepati);<br>console.log(count_of_lakhpati);<br>console.log(count_of_dilwale);"
+  }
+]

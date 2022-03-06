@@ -1,0 +1,23 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Machine Learning"
+	},
+	{
+		"component": "text",
+		"value": "Go through the following video to get an idea about Machine Learning"
+	},
+	{
+		"component": "youtube",
+		"value": "OeU5m6vRyCk"
+	},
+	{
+		"component": "text",
+		"value": "How search engine uses Machine Learning."
+	},
+	{
+		"component": "youtube",
+		"value": "LVV_93mBfSU"
+	}
+]

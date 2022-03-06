@@ -1,0 +1,9 @@
+{
+	"align-self_key1": "align-self: Item Property\n",
+	"align-self_key2": "auto | flex-start | flex-end | center | baseline | stretch\n",
+	"align-self_key3": "Yeh property **align-items** ki tarah hai. Magar yeh flex-item par lagti hai. \n\n",
+	"align-self_key4": "Isse hum yeh set karte hai ki flex-container ke andar ek flex-item kiss jagah par aayegi. \n\n",
+	"align-self_key6": "Yeh ",
+	"align-self_key7": "example",
+	"align-self_key8": " dekho aur item ki css mein upar de gayi values daal kar dekho ki kya hota hai."
+}

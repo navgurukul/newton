@@ -1,0 +1,52 @@
+[
+	{
+		"component": "text",
+		"value": "Logical <span style=\"\">operators</span> are used to combine two or more conditions."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "`Operator",
+				"items": [
+					"&amp;&amp;",
+					"OR",
+					"!"
+				]
+			},
+			{
+				"header": "Description",
+				"items": [
+					"&amp;&amp; is known as AND operator.  It checks that two conditions are true then it returns true otherwise returns false",
+					"is known as OR operator.  It checks that two conditions and at least 1 condition is true it returns true otherwise returns false",
+					"! is known as NOT operator. It reverses the boolean result of the operand (or condition)"
+				]
+			},
+			{
+				"header": "Example",
+				"items": [
+					"(10==20 &amp;&amp; 20==33) = false",
+					"(10==20 || 20==33) = false",
+					"!(10==20) = true"
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Exercises:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var a = 5, b = 10;<br>console.log((a != b) && (a < b));<br>console.log((a > b) || (a == b));<br>console.log((a < b) || (a == b));<br>console.log(!(a < b));<br>console.log(!(a > b));"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "true<br>false<br>true<br>false<br>true"
+	}
+]

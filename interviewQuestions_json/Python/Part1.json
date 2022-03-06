@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "Difference between primitive and non-primitive data types.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Why python is interpreter language?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	}
+]

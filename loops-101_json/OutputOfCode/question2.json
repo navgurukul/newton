@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "n = 6<br>s = 0<br>i = 1<br><br>while i <= n:<br>&emsp;s = s + i<br>&emsp;i = i + 1<br><br>print(s)"
+	}
+]

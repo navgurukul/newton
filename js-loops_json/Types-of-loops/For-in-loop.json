@@ -1,0 +1,74 @@
+[
+	{
+		"component": "text",
+		"value": "for in <span style=\"\">loop</span> is a special type of <span style=\"\">loop</span> that iterates over the object or an array of elements."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var cars = [\"Maruti\", \"Mercedes\", \"BMW\"];<br>for (car in cars){<br>   console.log(cars[car]),<br>}<br><br>// Output:<br>// Maruti<br>// Mercedes<br>// BMW"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "By for in when you are <span style=\"\">loop</span>ing on an array, in the car each time its <span style=\"\">key</span> (index number) will come like 0, 1 ,2 respectively. "
+	},
+	{
+		"component": "text",
+		"value": "When the first time <span style=\"\">loop</span> is running the car value is 0, we said to print cars[car] means cars[0] so it prints Maruti because in the zeroth position of cars we have Maruthi."
+	},
+	{
+		"component": "text",
+		"value": "When the second time <span style=\"\">loop</span> is running, the car value is 1, we said to print cars[car] means cars[1] so it print Mercedes because in the first position of cars we have Mercedes."
+	},
+	{
+		"component": "text",
+		"value": "When the third time <span style=\"\">loop</span> is running, the car value is 2, we said to print cars[car] means cars[2] so it prints BMW because in the first position of cars we have BMW."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const campus_list=[\"Bangalore\",\"Dharamshala\",\"Pune\",\"Bangalore_another\"]<br>for(let campus in campus_list){<br>   console.log(campus)<br>}<br><br>// Output: <br>// 0<br>// 1<br>// 2<br>// 3<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "By for in when you are <span style=\"\">loop</span>ing  on Array, in  the campus each time its <span style=\"\">key</span> (index number) will come like 0,1 ,2, 3 respectively. "
+	},
+	{
+		"component": "text",
+		"value": "In the above example, we used index number to get element from list. In this cureent example we prinnted the index number only be the varibale campus, and in the campus 0, 1, 2, 3 will come respectively."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "For more understanding about for in <span style=\"\">loop</span> go through this link:"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for…in\">click here</a>",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

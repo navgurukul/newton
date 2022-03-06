@@ -1,0 +1,60 @@
+[
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var day = \"Wednesday\"<br> <br>switch (day) {<br>  case \"Sunday\":<br>      console.log(\"Meeting with curriculum team\")<br>       break;<br> <br>  case \"Wednesday\":<br>       console.log(\"Meeting with academics team\")<br>        break;<br> <br>  case \"Tuesday\":<br>       console.log(\"Normal working day\")<br>        break;<br> }<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation"
+	},
+	{
+		"component": "text",
+		"value": "The above example shows here the meetings scheduled of a person according to the days. Here in this situation the user wants to find that on \"Wednesday\" with whom he has a meeting? By using this switch <span style=\"\">statement</span> program it will show \"Meeting with academics team\".  As on \"Wednesday\"  it is already mentioned in the schedule which we are depicting with the help of the switch <span style=\"\">statement</span> mentioned above."
+	},
+	{
+		"component": "text",
+		"value": "Here the program will check  var day = \"Wednesday\" this <span style=\"\">statement</span> very first;"
+	},
+	{
+		"component": "text",
+		"value": "Then it move to the switch <span style=\"\">statement</span> where it is mentioned switch (day);"
+	},
+	{
+		"component": "text",
+		"value": "Then it moves to the case 1 that is \"Sunday\" is not equal to day(Wednesday) and that means the day mentioned is not similar to the case so it will directly jump to the case 2."
+	},
+	{
+		"component": "text",
+		"value": "Here in case 2 it will again check whether \"Wednesday\" is similar to the day mentioned above. This time it will find the similar <span style=\"\">input</span> as mentioned in case 2. So it will console the <span style=\"\">statement</span> mentioned inside the case that is \"Meeting with academics team\" ;"
+	},
+	{
+		"component": "text",
+		"value": "Then it will check the next <span style=\"\">statement</span> which is break; and as you all know break <span style=\"\">statements</span> help in breaking the flow of a program it will come out of the flow and the program ends."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note :"
+	},
+	{
+		"component": "text",
+		"value": "Here after the each case break; <span style=\"\">statement</span> is there because we don’t want it to check the whole program, once it will get the right case it will break the flow and come out of the program and this is the reason that it works faster than the if-else <span style=\"\">statements</span> which you have read in the basics doc already."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Definition"
+	},
+	{
+		"component": "text",
+		"value": "Switch <span style=\"\">statement</span> <span style=\"\">executes</span> a block of <span style=\"\">code</span> which depends on different cases, if there is a match with any of the cases, that particular block of <span style=\"\">code</span> will <span style=\"\">execute</span> and the program will stop."
+	}
+]

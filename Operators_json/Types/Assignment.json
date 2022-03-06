@@ -1,0 +1,287 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ASSIGNMENT OPERATORS</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Assignment operators</span> are used to assign values to <span style=\"\">variables</span>. They ultimately give the value on the right of the <span style=\"\">operator</span> to the <span style=\"\">variable</span> on the left."
+	},
+	{
+		"component": "table",
+		"value": [
+			{
+				"header": "`OPERATOR",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">+=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">-=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">*=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">/=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">//=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">%=</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">**=</span>"
+				]
+			},
+			{
+				"header": "NAME",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Assignment</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add And</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract And</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply And</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division And</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division And</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus And</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent And</span>"
+				]
+			},
+			{
+				"header": "EXAMPLE",
+				"items": [
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x=5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x+=5 or x=x+5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x-=5 or x=x-5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x*=5 or x=x*5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x/=5 or x=x/5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x//=5 or x=x//5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x%=5 or x=x%5</span>",
+					"<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">x**=5 or x=x**5</span>"
+				]
+			}
+		]
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Assignment Operator(=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">asignment operator(=)</span> assigns values to the left hand operand from the right side operand. (This <span style=\"\">operator</span> gives the value of the operand on the right to the operand on the left).<br>(Operands are values that any <span style=\"\">operator</span> works/operates on)."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=5<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add AND Operator(+=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Add AND Operator (+=)</span> adds the value of right operand to the value of left hand operand and then gives the sum (result of addition) to the left operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a+=b is the same as a=a+b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=5<br>y=10<br>x+=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "15"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract AND Operator(-=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Subtract AND Operator (-=)</span> subtracts the value of the right operand from the left side operand and gives the result to the left operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a-=b is the same as a=a-b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=10<br>y=5<br>x-=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply AND Operator(*=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Multiply AND Operator (*=)</span> multiplies the left hand operand with the right hand operand and returns the value as <span style=\"\">output</span>, that is gives the result to the left hand operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a*=b is the same as a=a*b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=5<br>y=10<br>x*=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "50"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Division AND Operator(/=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Divide AND Operator (/=)</span> divides the left hand operand with the right hand operand value and gives the result, that is gives the value to the left hand side operand.Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a/=b is the same as a=a/b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=50<br>y=10<br>x/=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus AND Operator(%=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Modulus AND Operator (%=)</span> divides the value of left hand operand with the right hand one and the reminder of this division becomes the new value of the left hand side operand, that is it is given to the left hand side <span style=\"\">operator</span>. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a%=b is the same as a=a%b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=25<br>y=10<br>x/=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "5"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent AND Operator(**=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Exponent Operator</span> gives us the exponentiated value of the left hand operand when raised to the power of the value found on the right hand side. This value is then given to the left hand side operand. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a**=b is the same as a=a**b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=5<br>y=2<br>x**=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "25"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor Division AND(//=) :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Floor division AND(//=)</span> divides the value found in the left hand side with the value of the right hand side operand. The <span style=\"\">integer</span> value becomes the left hand operand value. This means that the <span style=\"\">integer</span> part of the quotient of division is given to the left hand side operand and it it contains the decimal part, it is ignored. Here, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">a//=b is the same as a=a//b</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x=5<br>y=2<br>x//=y<br>print(x)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "2"
+	}
+]

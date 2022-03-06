@@ -1,0 +1,131 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myLuckyNumber= 3;"
+	},
+	{
+		"component": "text",
+		"value": "Here, we stored 3 as a value and it is stored in a <span style=\"\">variable</span> named myLuckynumber."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myResult= 2+3;<br>console.log(myResult);<br>// output: 5"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "A <span style=\"\">variable</span> is simply the name of a storage location and <span style=\"\">variables</span> work like a container to hold the value that we give after equal to (=). = (equal to ) is used to assign a value to a <span style=\"\">variable</span>, if you do any operation such as addition, multiplication and it will compute first and assign the <span style=\"\">output</span> to the <span style=\"\">variable</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "we use this console.log(); for printing the <span style=\"\">output</span> in logs."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Examples:"
+	},
+	{
+		"component": "text",
+		"value": "Assign a boolean to a variable isHealthy?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var isHealthy = true;<br><br>### Explanation:<br><br>In the above question we stored true a boolean value in a variable named as isHealthy, by this you can get to know we can store any data type as a value to a variable."
+	},
+	{
+		"component": "text",
+		"value": "Multiply two numbers and store it in variable multiplyTwoNumbers?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var multiplyTwoNumbers =3*3;<br>console.log(multiplyTwoNumbers);<br>// output: 9<br><br>### Explanation:<br><br>9 is the output because first it will compute 3*3 and assign it to a variable named multiplyTwoNumbers and print 9."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName;<br>myName = \"kumar\";<br>var myFullName;<br>myFullName = myName;<br>console.log(myFullName);<br>// output: kumar"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "The above myName is declared with no value, then assigns a value “kumar” in it. And after that we declare a <span style=\"\">variable</span> myFullName with no value. If you want to define “kumar” in myFullName you can do it by  directly assigning  myName to myFullname."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note: You can assign a <span style=\"\">variable</span> to another <span style=\"\">variable</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myName;<br>myName = \"kumar\";<br>var myFullName;<br>myFullName=\"nayak Vadthya\";<br>var FullName = myName+\" \"+myFullName;<br>console.log(FullName);<br>// output: kumar nayak Vadthya"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "As you know from the previous example,you learnt how to store a <span style=\"\">variable</span> into another <span style=\"\">variable</span>. Now in this example We added two <span style=\"\">variables</span> myName and myFullName which contain the values “kumar” and “nayak vadthya” respectively and store it in FullName. So when we printed FullName it showed the value as kumar nayak Vadthya."
+	}
+]

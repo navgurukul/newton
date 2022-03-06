@@ -1,0 +1,174 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "JSON"
+	},
+	{
+		"component": "text",
+		"value": "Json ek aasaan text-based open source data-interchange ka format hai . yah pooree tarah se independent language hai aur is ka jyadatar hisaa modern programming languages ke saath use kiya ja sakata hai ."
+	},
+	{
+		"component": "text",
+		"value": "json javascript object notation par sthir hai . json object server aur client ke beech data ko transfer karane ke lie upayog kiya jaata hai .<br>json xml par kaee phaayade hain haalaanki xml ek hee purpose ke lie work karata hai .<br>json <span style=\"\">file</span> ko .json extension se banaya jaata hai . json ka internet media type \"<span style=\"\">application</span>/json\" hai .<br>json array,object, <span style=\"\">string</span>, number aur values ko supports karata hai"
+	},
+	{
+		"component": "youtube",
+		"value": "bMqevPKAPD4"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "JSON Example"
+	},
+	{
+		"component": "text",
+		"value": "aapako is example se maloom hoga ki apane topic aur edition ke aadhaar par books se sambandhit jaanakaaree store karane ke lie json ka upayog kaise karate hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{<br>   \"book\": [<br>    <br>    {<br>         \"id\":\"01\",<br>         \"language\": \"Java\",<br>         \"edition\": \"First\",<br>         \"author\": \"‎James Gosling\"<br>      },<br>    <br>      {<br>         \"id\":\"07\",<br>         \"language\": \"C++\",<br>         \"edition\": \"second\",<br>         \"author\": \"E.Balagurusamy\"<br>      }<br>   ]<br>}"
+	},
+	{
+		"component": "text",
+		"value": "uparokt example dekhane ke baad aap neeche ek aur example dekh sakate hai jisko json.htm ke roop mein <span style=\"\">save</span> kiya gaya hai ."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "<html><br>   <head><br>      <title>JSON Example</title><br>        <br>      <script language = \"javascript\" ><br>  <br>         var object1 = { \"language\" : \"Java\", \"author\"  : \"James Gosling\" };<br>         document.write(\"<h1>JSON with JavaScript example</h1>\");<br>         document.write(\"<br>\");<br>         document.write(\"<h3>Language = \" + object1.language+\"</h3>\");  <br>         document.write(\"<h3>Author = \" + object1.author+\"</h3>\");   <br><br>         var object2 = { \"language\" : \"C++\", \"author\"  : \"E-Balagurusamy\" };<br>         document.write(\"<br>\");<br>         document.write(\"<h3>Language = \" + object2.language+\"</h3>\");  <br>         document.write(\"<h3>Author = \" + object2.author+\"</h3>\");   <br>  <br>         document.write(\"<hr />\");<br>         document.write(object2.language + \" programing language will be studied \" <br>            + \"from book written by \" + object2.author);<br>         document.write(\"<hr />\")  <br>      </script><br>        <br>   </head><br>    <br>   <body><br>   </body><br>    <br></html>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "XML"
+	},
+	{
+		"component": "text",
+		"value": "xml ka upayog vyaapak roop se data-interchange pattarn ke roop mein bhi kiya jaata hai. isalie ham un donon ke beech compare karane kee koshish karenge ."
+	},
+	{
+		"component": "text",
+		"value": "hamaara compare karane ka purpose yah nahin hai ki kaun nishchit roop se us line mein nahin hai balki ham yah samajhane kee koshish karenge ki kaun sa specefic data store karane ke lie upyukt hai ."
+	},
+	{
+		"component": "text",
+		"value": "xml json ke compare mein bahut adhik complex hai .",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "xml ke lie schhaim(metadata) ko discribe karane ke lie kai characteristics hain.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "xml mein xml data se query karane ke lie Xquery specify hai.lekin json maano JAQL, JSONiq aadi shaamil hote hai lekin ye general roop se upayog nahin hote hai.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "xml mein XSLT ko specification kiya gaya hai.jo kisee bhee xml document mein ek style ko laagoo karane ke lie upayog kiya ja sakata hai. haalaanki json mein kuchh nahin hai.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Do log ko mil kar sabse pehle yeh videos dekhni hai"
+	},
+	{
+		"component": "youtube",
+		"value": "F7a_6r575RQ"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "JSON Example"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "{\"employees\":[  <br>    {\"name\":\"Alia\", \"email\":\"alia050@gmail.com\"},  <br>    {\"name\":\"Kareena\", \"email\":\"kareenal12@gmail.com\"},  <br>    {\"name\":\"Salman\", \"email\":\"salman0202@gmail.com\"}  <br>]}"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "XML Example"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "<employees>  <br>    <employee>  <br>        <name>Alia</name>   <br>        <email>alia050@gmail.com</email>  <br>    </employee>  <br>    <employee>  <br>        <name>Kareena</name>   <br>        <email>kareenal12@gmail.com</email>  <br>    </employee>  <br>    <employee>  <br>        <name>Salman</name>   <br>        <email>salman0202@gmail.com</email>  <br>    </employee>  <br></employees>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Ab aapko 30 mins ke liye aapas mei english mei inn topics ke baarein mei baat karni hai."
+	},
+	{
+		"component": "text",
+		"value": "Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.<br>Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:"
+	},
+	{
+		"component": "text",
+		"value": "What is Json?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is XML?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Json aur XML mai antar kya hain?",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Xml Html se kaise alag hain?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "XML ke benifits kya hain?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	}
+]

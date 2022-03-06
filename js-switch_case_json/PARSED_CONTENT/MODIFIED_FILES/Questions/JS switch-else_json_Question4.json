@@ -1,0 +1,20 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question4_key2"
+  },
+  {
+    "component": "header",
+    "variant": 5,
+    "value": "Question4_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question4_key4"
+  }
+]

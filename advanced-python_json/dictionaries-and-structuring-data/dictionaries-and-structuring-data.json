@@ -1,0 +1,96 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Dictionaries and Structuring Data"
+	},
+	{
+		"component": "text",
+		"value": "In this chapter, I will cover the dictionary data type, which provides a flexible way to access and organize data. Then, combining dictionaries with your knowledge of lists from the previous chapter, you’ll learn how to create a data structure to model a tic-tac-toe board."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The Dictionary Data Type"
+	},
+	{
+		"component": "text",
+		"value": "Like a list, a dictionary is a collection of many values. But unlike indexes for lists, indexes for dictionaries can use many different data types, not just <span style=\"\">integers</span>. Indexes for dictionaries are called <span style=\"\">keys</span>, and a <span style=\"\">key</span> with its associated value is called a <span style=\"\">key</span>-value pair."
+	},
+	{
+		"component": "text",
+		"value": "In <span style=\"\">code</span>, a dictionary is typed with braces, {}. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> myCat = {'size': 'fat', 'color': 'gray', 'disposition': 'loud'}"
+	},
+	{
+		"component": "text",
+		"value": "This assigns a dictionary to the myCat <span style=\"\">variable</span>. This dictionary’s <span style=\"\">keys</span> are 'size', 'color', and 'disposition'. The values for these <span style=\"\">keys</span> are 'fat', 'gray', and 'loud', respectively. You can access these values through their <span style=\"\">keys</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> myCat['size']<br>'fat'<br>>>> 'My cat has ' + myCat['color'] + ' fur.'<br>'My cat has gray fur.'"
+	},
+	{
+		"component": "text",
+		"value": "Dictionaries can still use <span style=\"\">integer</span> values as <span style=\"\">keys</span>, just like lists use <span style=\"\">integers</span> for indexes, but they do not have to start at 0 and can be any number."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = {12345: 'Luggage Combination', 42: 'The Answer'}"
+	},
+	{
+		"component": "text",
+		"value": "Dictionaries vs. Lists<br>Unlike lists, items in dictionaries are unordered. The first item in a list named spam would be spam[0]. But there is no “first” item in a dictionary. While the order of items matters for determining whether two lists are the same, it does not matter in what order the <span style=\"\">key</span>-value pairs are typed in a dictionary. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = ['cats', 'dogs', 'moose']<br>>>> bacon = ['dogs', 'moose', 'cats']<br>>>> spam == bacon<br>False<br>>>> eggs = {'name': 'Zophie', 'species': 'cat', 'age': '8'}<br>>>> ham = {'species': 'cat', 'age': '8', 'name': 'Zophie'}<br>>>> eggs == ham<br>True"
+	},
+	{
+		"component": "text",
+		"value": "Because dictionaries are not ordered, they can’t be sliced like lists."
+	},
+	{
+		"component": "text",
+		"value": "Trying to access a <span style=\"\">key</span> that does not exist in a dictionary will result in a <span style=\"\">KeyE</span>rror <span style=\"\">error</span> message, much like a list’s “out-of-range” Index<span style=\"\">Error</span> <span style=\"\">error</span> message. Enter the following into the interactive <span style=\"\">shell</span>, and notice the <span style=\"\">error</span> message that shows up because there is no 'color' <span style=\"\">key</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> spam = {'name': 'Zophie', 'age': 7}<br>>>> spam['color']<br>Traceback (most recent call last):<br>  File \"<pyshell#1>\", line 1, in <module><br>    spam['color']<br>KeyError: 'color'"
+	},
+	{
+		"component": "text",
+		"value": "Though dictionaries are not ordered, the fact that you can have arbitrary values for the <span style=\"\">keys</span> allows you to organize your data in powerful ways. Say you wanted your program to store data about your friends’ birthdays. You can use a dictionary with the names as <span style=\"\">keys</span> and the birthdays as values. Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and enter the following <span style=\"\">code</span>. <span style=\"\">Save</span> it as birthdays.py."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "❶ birthdays = {'Alice': 'Apr 1', 'Bob': 'Dec 12', 'Carol': 'Mar 4'}<br><br>   while True:<br>       print('Enter a name: (blank to quit)')<br>       name = input()<br>       if name == '':<br>           break<br><br>❷     if name in birthdays:<br>❸         print(birthdays[name] + ' is the birthday of ' + name)<br>       else:<br>           print('I do not have birthday information for ' + name)<br>           print('What is their birthday?')<br>           bday = input()<br>❹         birthdays[name] = bday<br>           print('Birthday database updated.')"
+	},
+	{
+		"component": "text",
+		"value": "You create an initial dictionary and store it in birthdays ❶. You can see if the entered name exists as a <span style=\"\">key</span> in the dictionary with the in <span style=\"\">key</span>word ❷, just as you did for lists. If the name is in the dictionary, you access the associated value using square brackets ❸; if not, you can add it using the same square bracket <span style=\"\">syntax</span> combined with the assignment <span style=\"\">operator</span> ❹."
+	},
+	{
+		"component": "text",
+		"value": "When you run this program, it will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "Enter a name: (blank to quit)<br>Alice<br>Apr 1 is the birthday of Alice<br>Enter a name: (blank to quit)<br>Eve<br>I do not have birthday information for Eve<br>What is their birthday?<br>Dec 5<br>Birthday da<span style=\"\">tab</span>ase updated.<br>Enter a name: (blank to quit)<br>Eve<br>Dec 5 is the birthday of Eve<br>Enter a name: (blank to quit)<br>Of course, all the data you enter in this program is forgotten when the program terminates. You’ll learn how to <span style=\"\">save</span> data to <span style=\"\">files</span> on the hard drive in Chapter 8."
+	}
+]

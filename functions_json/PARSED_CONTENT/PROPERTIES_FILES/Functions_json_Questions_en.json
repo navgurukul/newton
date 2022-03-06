@@ -1,0 +1,22 @@
+{
+	"Questions_key1": "Pre-defined Functions Questions",
+	"Questions_key2": "Now you have to solve some questions by using the pre-define function.",
+	"Questions_key3": "<b>Q1 .</b> You have to print the largest value out of the given list using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">max</span> function.",
+	"Questions_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>",
+	"Questions_key5": "<b><span style=\"\">Output</span> :-</b><br>89",
+	"Questions_key6": "<b>Q2.</b> You have to print the sum of the elements of the given list by using the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> function.",
+	"Questions_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input</span>",
+	"Questions_key8": "<b><span style=\"\">Output</span> :-</b><br>15",
+	"Questions_key9": "<b>Q3.</b> Using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sort</span> function sort the given list.",
+	"Questions_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+	"Questions_key11": "<b><span style=\"\">Output</span> :-</b>",
+	"Questions_key12": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">unorder_list = [0, 3, 4, 6, 7, 8, 9, 15, 34, 56]</span>",
+	"Questions_key13": "<b>Q4.</b> By using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse</span> function print the reverse order of the list.",
+	"Questions_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+	"Questions_key15": "<b><span style=\"\">Output</span> :-</b>",
+	"Questions_key16": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">reverse_list = [\"D\", \"R\", \"A\", \"M\", \"E\", \"B\", \"A\", \"A\", \"Z\"]</span>",
+	"Questions_key17": "<b>Q5.</b> Use the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">min</span> function and find the minimun value of the list.",
+	"Questions_key18": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+	"Questions_key19": "<b><span style=\"\">Output</span> :-</b>",
+	"Questions_key20": "2"
+}

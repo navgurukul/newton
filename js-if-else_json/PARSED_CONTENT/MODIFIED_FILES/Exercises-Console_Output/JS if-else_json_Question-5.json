@@ -1,0 +1,26 @@
+[
+  {
+    "component": "text",
+    "value": "Question-5_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-5_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-5_key3"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "let readlineSync = require(\"readline-sync\");<br>var number=readlineSync.questionInt(\"enter a number\");<br>if (number<10){<br>   console.log(\"num is less than 10\");<br>}<br>else if(number>10 && number<20){<br>   console.log(\"num is less than 20\");<br>}<br>else{<br>   console.log(\"greater than 20\");<br>}"
+  }
+]

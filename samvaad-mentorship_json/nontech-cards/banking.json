@@ -1,0 +1,92 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Basic Financial Literacy - Banking"
+	},
+	{
+		"component": "text",
+		"value": "Overview of Banking",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Interest Rate and Time value of Money",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Inflation",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Risk - Return",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Liquidity",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Resources:"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.thebalance.com/what-is-banking-3305812\">What is Banking</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"http://www.technofunc.com/index.php/domain-knowledge/banking-domain/item/what-is-a-bank\">What is a Bank</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.thebalance.com/what-is-interest-315436\">What is Interest</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://youtu.be/UMAELCrJxt0\">Inflation</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://youtu.be/SaGmRqL-B2c\">Liquidity</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

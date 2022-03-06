@@ -1,0 +1,58 @@
+[
+	{
+		"component": "text",
+		"value": "Aap pehle iss video ko dekhein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> program ka dry run samajhne ke liye. "
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=s_7YgktIJFo"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "c = 0<br>d = 1<br><br>while c < 3:<br>    c = c + 1<br>    d = d * c<br>    print \"Loop Ke Andar\", c, d<br>else:<br>    print \"Loop Ke Bahar\", c, d"
+	},
+	{
+		"component": "text",
+		"value": "While <span style=\"\">loop</span> kya hota hai yeh samajhne ke liye aap yeh dono videos dekh sakte ho.  "
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=efg169eYEqo"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=oG_jCqPVJYA"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "c = 0<br><br>while c < 5:<br>    print \"Loop Ke Andar\"<br>    c = c + 1<br>else:<br>    print \"Loop Khatam, Hajmola Hajam, Ab Else Ki Baari hai\""
+	},
+	{
+		"component": "text",
+		"value": "yeh <span style=\"\">loop</span> hai is mei hum <span style=\"\">loop</span> kise kam kar raha hai voh hum dry run kar ke dekhna hai"
+	},
+	{
+		"component": "text",
+		"value": "Ab aap yeh questions solve karein."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "n = 6<br>s = 0<br>i = 1<br><br>while i <= n:<br>    s = s + i<br>    i = i + 1<br><br>print s"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> ke saath <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">else</span> ka bhi use ho sakta hai. Jab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">while</span> <span style=\"\">loop</span> khatam ho jata hai, toh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">else</span> wala <span style=\"\">code</span> <span style=\"\">execute</span> hota hai. Yeh trick kaafi baar useful hoti hai."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "num = 407<br><br>i = 2<br>while (i<num):<br>    if (num%i == 0):<br>        print num, 'is not a prime number'<br>        break<br>    i = i + 1<br>else:<br>    print num, 'is a prime number'"
+	}
+]

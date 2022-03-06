@@ -1,0 +1,6 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"If water in the filter is less than 1L then more water needs to be filled. If the water quantity is between 1L and 10L then there is no need to fill water. If water is more than 10L then the water will overflow. take user <span style=\\\"\\\"><span style=\"\">input</span></span> in a <span style=\\\"\\\"><span style=\"\">variable</span></span> named water .\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"\",<br>        \"value\": \"// please write <span style=\"\">code</span> here\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">code</span>\",<br>        \"type\": \"javascript\",<br>        \"title\": \"solution\",<br>        \"value\": \"let readlineSync = require(\\\"readline-sync\\\");<br>var water=readlineSync.questionInt(\\\"enter water level\\\");<br>if (water<1){<br>   console.log(\\\"more water needs to fill\\\");<br>}<br>else if (water&gt;=1 &amp;&amp; water<=10){<br>   console.log(\\\"no need to fill water\\\");<br>}<br>else{<br>   console.log(\\\"overflow\\\");<br>}\"<br>    }<br>]"
+	}
+]

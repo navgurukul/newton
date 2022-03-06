@@ -1,0 +1,61 @@
+[
+  {
+    "component": "text",
+    "value": "looping_key1"
+  },
+  {
+    "component": "text",
+    "value": "looping_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "looping_key3"
+  },
+  {
+    "component": "text",
+    "value": "looping_key4"
+  },
+  {
+    "component": "text",
+    "value": "looping_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "looping_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "looping_key7"
+  },
+  {
+    "component": "youtube",
+    "value": "https://www.youtube.com/watch?v=SZGo7oa8vsc"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "looping_key8"
+  },
+  {
+    "component": "text",
+    "value": "looping_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def hangman(secret_word):<br>&emsp;'''<br>&emsp;secret_word: string, the secret word to guess.<br><br>&emsp;Hangman game yeh start karta hai:<br><br>&emsp;* Game ki shuruaat mei hi, user ko bata dete hai ki<br>&emsp;  secret_word mei kitne letters hai<br><br>&emsp;* Har round mei user se ek letter guess karne ko bolte hai<br><br>&emsp;* Har guess ke baad user ko feedback do ki woh guess uss<br>&emsp;  word mei hai ya nahi<br><br>&emsp;* Har round ke baar, user ko uska guess kiya hua partial word<br>&emsp;  display karo, aur underscore use kar kar woh letters bhi dikhao<br>&emsp;  jo user ne abhi tak guess nahi kiye hai<br><br>&emsp;'''<br>&emsp;print (\"Welcome to the game, Hangman!\")<br>&emsp;print (\"I am thinking of a word that is \" + str(len(secret_word)) + \" letters long.\")<br>&emsp;print (\"\")<br><br>&emsp;letters_guessed = []<br>&emsp;<br>&emsp;while (True):<br>&emsp;&emsp;available_letters = get_available_letters(letters_guessed)<br>&emsp;&emsp;print (\"Available letters: \" + available_letters)<br><br>&emsp;&emsp;guess = input(\"Please guess a letter: \")<br>&emsp;&emsp;letter = guess.lower()<br><br>&emsp;&emsp;if letter in secret_word:<br>&emsp;&emsp;&emsp;letters_guessed.append(letter)<br>&emsp;&emsp;&emsp;print (\"Good guess: \" + get_guessed_word(secret_word, letters_guessed))<br>&emsp;&emsp;&emsp;print (\"\")<br><br>&emsp;&emsp;&emsp;if is_word_guessed(secret_word, letters_guessed) == True:<br>&emsp;&emsp;&emsp;&emsp;print (\" * * Congratulations, you won! * * \")<br>&emsp;&emsp;&emsp;&emsp;print (\"\")<br>&emsp;&emsp;&emsp;&emsp;break<br><br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;print (\"Oops! That letter is not in my word: \" + get_guessed_word(secret_word,letters_guessed))<br>&emsp;&emsp;&emsp;letters_guessed.append(letter)<br>&emsp;&emsp;&emsp;print (\"\")"
+  },
+  {
+    "component": "text",
+    "value": "looping_key10"
+  }
+]

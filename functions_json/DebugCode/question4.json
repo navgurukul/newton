@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "In the bellow <span style=\"\">code</span> there have some bugs. you have to find the bugs and solve it.<br>(number of bugs)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def voter(age):<br>if age < 18:<br>&emsp;print(\"eligible\")<br>else:<br>&emsp;print(\"not eligible\")<br>&emsp;voter(20)<br>"
+	}
+]

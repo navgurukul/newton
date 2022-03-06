@@ -1,0 +1,36 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question4_key1"
+  },
+  {
+    "component": "text",
+    "value": "question4_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question4_key3"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question4_key4"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "&emsp;   Dic= {<br>&emsp;&emsp;1: 'NAVGURUKUL',<br>&emsp;&emsp;2: 'IN',  <br>&emsp;&emsp;  3:{&emsp;<br>&emsp;&emsp;&emsp; 'A' : 'WELCOME',<br>&emsp;&emsp;&emsp; 'B' : 'To',<br>&emsp;&emsp;&emsp; 'C' : 'DHARAMSALA'<br>&emsp;&emsp;&emsp;}<br>&emsp;&emsp;}"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question4_key5"
+  },
+  {
+    "component": "text",
+    "value": "question4_key6"
+  }
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "PROJECT - Whatsapp.com"
+	},
+	{
+		"component": "text",
+		"value": "Congrats, aapne HTML &amp; CSS ka pehla phase complete kar liya hai. Aap thoda time apne <span style=\"\">code</span> ko <b>revise</b> karne mei spend karein, jiske turant baad aap yeh project shuru kar sakte hai."
+	},
+	{
+		"component": "text",
+		"value": "Iss project mei hum whatsapp ka landing page banayenge, yaani hum <a href=\"http://whatsapp.com\">whatsapp.com</a> kholne par jo page aata hai usko HTML &amp; CSS use karke dobara banayenge.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Agar aap <a href=\"http://whatsapp.com\">whatsapp.com</a> khologe toh, aap dekhne ki koshish karo ki kaise <b>flex</b> use karke aap whatsapp ka <b>layout</b> bana sakte hai.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Aapko apna yeh project banane ke baad apne aas paas ke logo ko dikha kar unse help leni hai, ki aap apne page ko kaise exactly <a href=\"http://whatsapp.com\">whatsapp.com</a> jaisa bana sakte ho.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Jab aapka page ek dum <a href=\"http://whatsapp.com\">whatsapp.com</a> jaisa dikhne lag jaye, toh aap apni assignment submit kar sakte ho. ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Yeh code aap sambhaal kar rakhna, aage aapka <b>CV</b> yaani",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Curriculum Vitae</b> banate waqt kaafi kaam aayega."
+	}
+]

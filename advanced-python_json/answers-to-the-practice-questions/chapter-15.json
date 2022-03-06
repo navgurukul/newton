@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Chapter 15"
+	},
+	{
+		"component": "text",
+		"value": "A reference moment that many date and time programs use. The moment is January 1st, 1970, UTC."
+	},
+	{
+		"component": "text",
+		"value": "time.time()"
+	},
+	{
+		"component": "text",
+		"value": "time.sleep(5)"
+	},
+	{
+		"component": "text",
+		"value": "It returns the closest <span style=\"\">integer</span> to the argument passed. For example, round(2.4) returns 2."
+	},
+	{
+		"component": "text",
+		"value": "A datetime object represents a specific moment in time. A timedelta object represents a duration of time."
+	},
+	{
+		"component": "text",
+		"value": "threadObj = threading.Thread(target=spam)"
+	},
+	{
+		"component": "text",
+		"value": "threadObj.start()"
+	},
+	{
+		"component": "text",
+		"value": "Make sure that <span style=\"\">code</span> running in one thread does not read or write the same <span style=\"\">variables</span> as <span style=\"\">code</span> running in another thread."
+	},
+	{
+		"component": "text",
+		"value": "subprocess.Popen('c:\\Windows\\System32\\calc.exe')"
+	}
+]

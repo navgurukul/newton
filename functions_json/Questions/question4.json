@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 4"
+	},
+	{
+		"component": "text",
+		"value": "Define a function which takes one argument which is the limit upto which the function has to print the numbers and their label(even or odd) as shown below."
+	},
+	{
+		"component": "text",
+		"value": "<b><i>For example :-</i></b> "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> "
+	},
+	{
+		"component": "text",
+		"value": "3"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "0 EVEN<br>1 ODD<br>2 EVEN<br>3 ODD"
+	}
+]

@@ -1,0 +1,9 @@
+{
+	"If-Statement_key1": "If you want to run a piece of <span style=\"\">code</span>, based on a certain condition, then you should use the if <span style=\"\">statement</span>. The <span style=\"\">key</span>word if tells JavaScript to <span style=\"\">execute</span> the <span style=\"\">code</span> in the curly braces under certain conditions, that defined in the parentheses (). ",
+	"If-Statement_key2": "Note: These conditions are known as Boolean conditions and they are only be <span style=\"\">true</span> or <span style=\"\">false</span>.",
+	"If-Statement_key3": "When the condition evaluates to <span style=\"\">true</span>, the program <span style=\"\">executes</span> the <span style=\"\">statement</span> inside the curly braces. When the Boolean condition evaluates to <span style=\"\">false</span>, the <span style=\"\">statement</span> inside the curly braces will not <span style=\"\">execute</span>.",
+	"If-Statement_key4": "Let us see some more examples.",
+	"If-Statement_key5": "Example:",
+	"If-Statement_key6": "Explanation:",
+	"If-Statement_key7": "Here 12 is greater than 10. So, the console will show us the <span style=\"\">output</span> as 12, is greater than, 10."
+}

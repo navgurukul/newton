@@ -1,0 +1,12 @@
+{
+	"todo_key1": "'''\nthere should be two options in any submission box\n",
+	"todo_key2": "maine yeh kar liya hai\n",
+	"todo_key3": "mai yeh baad mei karunga (skip)\n\n\n",
+	"todo_key4": "or\n",
+	"todo_key5": "custom text for button - e.g. \n    Maine `Code`Pen Use Karna Seekh Liya Hai\n'''\n",
+	"todo_key6": "import of giphy or images as per relative paths\n",
+	"todo_key7": "wiki page on how to edit these markdown `files` apart from the convention markDown and a link to existing markDown documentation\n",
+	"todo_key8": "timer running on an assignment (optional) e.g. if it says 5 minutes, so after 5 minutes it remind you to take help in your peer group or the Slack Channel\n",
+	"todo_key9": "each batch entity should have a corresponding Slack Channel Id as well so that they can form a tight Slack Channel\n",
+	"todo_key10": "for peer checking - there should be optional notes which can be shown to the peers so that they can have a checklist to understand what to reject or what to accept\n"
+}

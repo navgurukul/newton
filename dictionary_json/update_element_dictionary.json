@@ -1,0 +1,80 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Updating Dictionary</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "To <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">update dictionary</span> ,we can make an entry in it or we can add a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">key-value</span> pair or we can change the value of an existing <span style=\"\">key</span>. As given in the example explained:-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "person= {'1': 'RAM', '2': 17,}<br>person[3] = 'male'<br>print(person)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'1': 'RAM', '2': 17,'3':'male'}</span>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 2 :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "details={<br>&emsp;'Name': 'RAM',<br>&emsp; 'Age': 17, <br>&emsp; 'student': {<br>&emsp;  'id': 22,<br>&emsp;  'place': 'dharamsala'<br>&emsp;  }<br>&emsp; } <br>details['student']['id']=35<br>print(details);"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span>:-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'Name': 'RAM', 'Age': 17, 'student': {'id': 35, 'place': 'dharamsala'}}</span>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Copy of Dictionary :-"
+	},
+	{
+		"component": "text",
+		"value": "We can copy a dictionary in two ways,first method is using <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">copy()</span> and second method by using built-in function <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dict()</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1 :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "classes ={<br>&emsp;\"room1\":  \"6th\",<br>&emsp;\"room2\":  \"7th\",<br>&emsp;\"room3\":  \"8th\"<br>&emsp;&emsp;}<br>mydict=classes.copy()<br>print(mydict)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'room2': '7th', 'room3': '8th', 'room1': '6th'}</span>"
+	}
+]

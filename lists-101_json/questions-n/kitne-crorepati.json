@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "How many Crorepati?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "kitna_paisa_hai = [3000, 600000, 324990909, 90990900, 30000, 5600000, 690909090, 31010101, 532010, 510, 4100]"
+	},
+	{
+		"component": "text",
+		"value": "Write a program that tells in the above list that how many people are there in the above list who are :"
+	},
+	{
+		"component": "text",
+		"value": "1 - `Crorepati` <br>2 - `Lakhpati` <br>3 - `Dilwale`<br><br>All those who have money more than or equal to 1 crore are known as Crorepati. All those who have money money greater than or equal to 1 lakh, those are called Lakhpati. Rest of the people are called Dilwale."
+	},
+	{
+		"component": "text",
+		"value": "For example, the <span style=\"\">output</span> of the list given above is as follows."
+	},
+	{
+		"component": "text",
+		"value": "4 Crorepati <br>3 Lakhpati <br>4 Dilwale"
+	}
+]

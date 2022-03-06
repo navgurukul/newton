@@ -1,0 +1,26 @@
+[
+  {
+    "component": "text",
+    "value": "lists_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "<br>python<br>a = [32, 23, 46, 19, 90, 12, 23, 95, 100, 1]<br><br>l = len(a)<br>while (i < l/2):<br>    a[i] = a[l-i]<br><br>print a"
+  },
+  {
+    "component": "text",
+    "value": "lists_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = [32, 23, 46, 19, 90, 12, 23, 95, 100, 1]<br>l = len(a)<br>i = 0<br>s = 0<br>m1 = a[0]<br>m2 = a[0]<br>while (i < l):<br>    s += a[i]<br>    if a[i] > m1:<br>        m1 = a[i]<br>    if a[i] < m1:<br>        m2 = a[i]<br>    i = i + 1<br>print s, m1, m2"
+  },
+  {
+    "component": "text",
+    "value": "lists_key3"
+  }
+]

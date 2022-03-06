@@ -1,0 +1,98 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "firewall_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "KZc1KaE1OKU"
+  },
+  {
+    "component": "youtube",
+    "value": "etlBvkAkhyE"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "firewall_key2"
+  },
+  {
+    "component": "text",
+    "value": "firewall_key3"
+  },
+  {
+    "component": "text",
+    "value": "firewall_key4"
+  },
+  {
+    "component": "text",
+    "value": "firewall_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "firewall_key6"
+  },
+  {
+    "component": "text",
+    "value": "firewall_key7",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "firewall_key8",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "firewall_key9",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "firewall_key10",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "firewall_key11",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "firewall_key12",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "text",
+    "value": "firewall_key13"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "firewall_key14"
+  },
+  {
+    "component": "text",
+    "value": "firewall_key15"
+  }
+]

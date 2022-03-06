@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question5_key1"
+  },
+  {
+    "component": "text",
+    "value": "question5_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "x = 0<br>while(x<7):<br>&emsp;if (x == 3 or x==5):<br>&emsp;&emsp;x = x + 1<br>&emsp;&emsp;continue<br>&emsp;print(x)<br>&emsp;x = x + 1"
+  }
+]

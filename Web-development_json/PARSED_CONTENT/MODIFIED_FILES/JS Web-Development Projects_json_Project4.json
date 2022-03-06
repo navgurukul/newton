@@ -1,0 +1,77 @@
+[
+  {
+    "component": "text",
+    "value": "Project4_key1"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key2"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key3"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key4"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/Web-development_json/images/color_changing_box.png",
+    "alt": "Project4_key5"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key6"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Project4_key7"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key8"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project4_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project4_key11"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "Project4_key12"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key13"
+  },
+  {
+    "component": "text",
+    "value": "Project4_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project4_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

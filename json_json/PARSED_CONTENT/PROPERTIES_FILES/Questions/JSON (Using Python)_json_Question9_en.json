@@ -1,0 +1,10 @@
+{
+	"Question9_key1": "Q.9 Apki pass ek shopping name ki ek dictionary hai",
+	"Question9_key2": "Apki dictionary ka use kar ke ek json <span style=\"\">file</span> create karna hai.<br>Aur apko kuch task perform karne hai jaise ki ",
+	"Question9_key3": "main dekhna chahta hu shopping list ko json file dekhna.<br>",
+	"Question9_key4": "phir main user se poochu ga ki kon sa item khareedna chahte ho.",
+	"Question9_key5": "uske baad user name dega phir user se input poochege jaise ki tum kitne item chahte ho.<br>",
+	"Question9_key6": "phir aapka wo number of items json file se remove karna hai.<br>",
+	"Question9_key7": "Agar tumhe shopping items add karna hai to tumko json file main insert karna hoga.<br><br><br><br><br>",
+	"Question9_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Output:-</span>"
+}

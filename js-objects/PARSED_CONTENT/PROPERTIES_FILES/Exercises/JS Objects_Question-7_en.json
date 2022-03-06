@@ -1,0 +1,8 @@
+{
+	"Question-7_key1": "Write a program that removes the first `key` and value of a nested object.\n",
+	"Question-7_key2": "Example :-\n",
+	"Question-7_key3": "`Input` :-\n",
+	"Question-7_key4": "myDict= {\n    1: 'NAVGURUKUL',\n    2: 'IN',  \n    3:{    \n            'A' : 'WELCOME',\n            'B' : 'To',\n            'C' : 'DHARAMSALA'\n        }\n    }\n",
+	"Question-7_key5": "`Output` :-\n",
+	"Question-7_key6": "myDict= {\n    1: 'NAVGURUKUL',\n    2: 'IN',  \n      3:\n      { 'B' : 'To',\n        'C' : 'DHARAMSALA'\n       }\n    }\n"
+}

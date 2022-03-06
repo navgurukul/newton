@@ -1,0 +1,74 @@
+[
+	{
+		"component": "text",
+		"value": "Consider the following rules:"
+	},
+	{
+		"component": "text",
+		"value": "People <b>5 years and above</b> in age can go to school."
+	},
+	{
+		"component": "text",
+		"value": "People <b>18 years and above</b> in age can vote in elections."
+	},
+	{
+		"component": "text",
+		"value": "People <b>21 years and above</b> in age can drive a car."
+	},
+	{
+		"component": "text",
+		"value": "People <b>24 years and above</b> in age can marry."
+	},
+	{
+		"component": "text",
+		"value": "People <b>25 years and above</b> in age can legally drink."
+	},
+	{
+		"component": "text",
+		"value": "takes the <b>age</b> of the user as <span style=\"\">input</span>. console what all activities the user can do from the list above. "
+	},
+	{
+		"component": "text",
+		"value": "For example, if user enters <b>age as 20</b>, the <span style=\"\">code</span> should console:"
+	},
+	{
+		"component": "text",
+		"value": "You can go to school"
+	},
+	{
+		"component": "text",
+		"value": "You can vote in elections"
+	},
+	{
+		"component": "text",
+		"value": "If user enters <b>age as 24</b>, the <span style=\"\">code</span> will print:"
+	},
+	{
+		"component": "text",
+		"value": "You can go to school"
+	},
+	{
+		"component": "text",
+		"value": "You can vote in elections"
+	},
+	{
+		"component": "text",
+		"value": "You can drive a car"
+	},
+	{
+		"component": "text",
+		"value": "You can marry"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "let readlineaSync = require(\"readline-sync\");<br>var age=readlineaSync.questionInt(\"enter age\");<br>if(age>=5){<br>   console.log(\"You can go school\");<br>}<br>if(age>=18){<br>   console.log(\"You can vote in elections.\");<br>}<br>if(age>=21){<br>   console.log(\"You can drive a car\");<br>} <br>if(age>=24){<br>   console.log(\"You can marry\");<br>}<br>if(age>=25){<br>   console.log(\"You can drink\");<br>}<br>"
+	}
+]

@@ -1,0 +1,21 @@
+{
+	"APIrequests_key1": "Apne browser ke address box mein \"\n",
+	"APIrequests_key2": "http://quotes.rest/qod.json?category=inspire&quot;\n",
+	"APIrequests_key3": " daale.\n",
+	"APIrequests_key4": "Aapko aisa kuch `output` dikhega\n",
+	"APIrequests_key5": "Ye output\n",
+	"APIrequests_key6": "**JSON format**\n",
+	"APIrequests_key7": "mein hai. JSON format data ko arrange karne ka ek tareeka hai. JSON format ke baare mein janne ke liye\n",
+	"APIrequests_key8": "yahan\n",
+	"APIrequests_key9": "padhe.\nData store karne ke liye JSON ek standard format hai.\n",
+	"APIrequests_key10": "Jab apne browser ke address mein \"\n",
+	"APIrequests_key11": "http://quotes.rest/qod.json?category=inspire&quot;\n",
+	"APIrequests_key12": " daala toh aapne quotes.rest/qod.json ko ek quote ki request bheji. Request mein aapne bola ki aapko \n",
+	"APIrequests_key13": "*inspire*\n",
+	"APIrequests_key14": " category ke quotes chahiye.\n",
+	"APIrequests_key15": "Quotes.rest ek service provide karti hai jo aapko quote of the day deti hai. Iss service ko hum **API service** kehte hain.\nAap Quotes.rest ke server ko request bhej kar quotes JSON format mein receive kar sakte hain.\n",
+	"APIrequests_key16": "Jaise aapne upar mein category supply ki, usi tarah kisi kisi API mein aapko apne aap ko authenticate(authorize, taaki service providers ko pata chale ki kaun request bhej raha hai) karna par sakta hai. Authenticate karne ke kayi tareeke hai - jasie API `key`(ek tarah ka passwork) supply karna ya OAuth(ek tarah ka account validation) use karna. Hum inko use karna aage seekhenge.\n",
+	"APIrequests_key17": "**Assignment**\n",
+	"APIrequests_key18": "OpenWeatherMap.org/api pe \"Current Weather Data\" ke liye apne aap ko subscribe kijiye.\n",
+	"APIrequests_key19": "API docs padh kar, browser ke through ek API request bhejiye jisse aap kisi city ka weather information JSON format mein dekh sake.\n"
+}

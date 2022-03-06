@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "CodeDebug_key1"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key2"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def greet(names):<br>&emsp;for name in names:<br>&emsp;&emsp;print(\"Welcome\", name)<br><br><br>greet(\"Rinki\", \"Vishal\", \"Kartik\", \"Bijender\")"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def info(name, age = ):<br>   print(name + \" is \" + age + \" years old\")<br><br>info(\"Sonu\")<br>info(\"Sana\", \"17\")<br>info(\"Umesh\", \"18\")"
+  },
+  {
+    "component": "text",
+    "value": "CodeDebug_key5"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<br>def studentDetails(name,currentMilestone,mentorName):<br>&emsp;print(\"Hello \" , name, \"your\" , currentMilestone, \"concept \" , \"is clear with the help of \", mentorName)<br><br><br>studentDetails(\"Nilam\",\"loop\")"
+  }
+]

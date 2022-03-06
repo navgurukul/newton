@@ -1,0 +1,11 @@
+{
+	"available-letters_key1": "Available Letters",
+	"available-letters_key2": "Ab aapko ek feature implement karna hai, jisse ki user ko hum dikha sake ki kaun kaun se letters abhi tak user ne use nahi kiye hai. Aise letters ko hum <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Available Letters</span> ke naam se refer karenge.",
+	"available-letters_key3": "Aap <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">available_letters</span> ka use apni tarah se program ko interesting banane mei kar sakte hai.",
+	"available-letters_key4": "Hint",
+	"available-letters_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">available_letters</span> ke liye get<i>available</i>letters function use hota hai. Isliye aapko iss function mei changes karne hai",
+	"available-letters_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get_available_letters</span> mei further hints hai, isko karne ke liye",
+	"available-letters_key7": "Solution",
+	"available-letters_key8": "Possible Solution",
+	"available-letters_key9": "Aap yeh kaam alag tarah se bhi kar sakte hai, yeh sirf ek possible solution hai."
+}

@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> Should be \"Both are same\". Debug the question as per <span style=\"\">output</span>."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "let isTrue = \"True\";<br>if(isTrue){<br>  console.log(\"Output should show\")<br>}<br>if(isTrue === \"False\"){<br>  console.log(\"Both are same\")<br>}<br>else {<br>  console.log(\"Please run it. if all conditions false\")<br>}"
+	}
+]

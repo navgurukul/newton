@@ -1,0 +1,38 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "logging-in-to-the-smtp-server_key1"
+  },
+  {
+    "component": "text",
+    "value": "logging-in-to-the-smtp-server_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> smtpObj.login(' my_email_address@gmail.com ', ' MY_SECRET_PASSWORD ')"
+  },
+  {
+    "component": "text",
+    "value": "logging-in-to-the-smtp-server_key3"
+  },
+  {
+    "component": "text",
+    "value": "logging-in-to-the-smtp-server_key4"
+  },
+  {
+    "component": "text",
+    "value": "logging-in-to-the-smtp-server_key5"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "logging-in-to-the-smtp-server_key6"
+  },
+  {
+    "component": "text",
+    "value": "logging-in-to-the-smtp-server_key7"
+  }
+]

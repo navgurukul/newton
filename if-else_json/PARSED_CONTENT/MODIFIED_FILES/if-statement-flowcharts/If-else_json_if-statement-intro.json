@@ -1,0 +1,162 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-intro_key1"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "if-statement-intro_key3"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key7",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key8"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/if-else_json/if-statement-flowcharts/assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg",
+    "alt": "if-statement-intro_key9"
+  },
+  {
+    "component": "youtube",
+    "value": "fVUL-vzrIcM"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-intro_key10"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key11"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key12"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/if-else_json/if-statement-flowcharts/assets/theory_images/if-statement-intro_flowchart1.png",
+    "alt": "if-statement-intro_key13"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key14"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key15"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key16",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key17",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key18"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "if-statement-intro_key19"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key20"
+  },
+  {
+    "component": "table",
+    "value": [
+      {
+        "header": "if-statement-intro_key21",
+        "items": [
+          "if-statement-intro_key22",
+          "if-statement-intro_key23",
+          "if-statement-intro_key24",
+          "if-statement-intro_key25"
+        ]
+      },
+      {
+        "header": "if-statement-intro_key26",
+        "items": [
+          "if-statement-intro_key27",
+          "if-statement-intro_key28",
+          "if-statement-intro_key29",
+          "if-statement-intro_key30"
+        ]
+      },
+      {
+        "header": "if-statement-intro_key31",
+        "items": [
+          "if-statement-intro_key32",
+          "if-statement-intro_key33",
+          "if-statement-intro_key34",
+          "if-statement-intro_key35"
+        ]
+      }
+    ]
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "if-statement-intro_key36"
+  },
+  {
+    "component": "text",
+    "value": "if-statement-intro_key37"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/if-else_json/if-statement-flowcharts/assets/theory_images/if-statement-intro_fb-login-flowchart.png",
+    "alt": "if-statement-intro_key38"
+  }
+]

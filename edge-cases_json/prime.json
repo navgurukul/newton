@@ -1,0 +1,50 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Edge cases in Prime no"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Calculate first 5 prime no's"
+	},
+	{
+		"component": "text",
+		"value": "Hume is program mai pehle 5 prime no print karne hai"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "n = 2<br>count = 0<br>isPrime = True<br>while(count < 5):<br>    i = 2<br>    while(i<n):<br>        if n%i == 0:<br>            isPrime = False<br>        i = i + 1<br>    if (isPrime):<br>        print (str(n) + \"is prime\")<br>        count += 1<br>    n = n + 1"
+	},
+	{
+		"component": "text",
+		"value": "ye program infinite <span style=\"\">loop</span> mai chala jaat hai"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Task"
+	},
+	{
+		"component": "text",
+		"value": "Is program ko aap sahi se padhiye or laptop pe chala ke dekhiye<br>ab aap is program mai aisi kaunsi jagah change karenge, jisse ye program sahi <span style=\"\">output</span> dene lage<br>agar aapko nahi nahi samajh aa raha ho to aap dry run kijeye and fir aapna answer compare kijeye"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution"
+	},
+	{
+		"component": "text",
+		"value": "Is program mai humne <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">isPrime</span> jo <span style=\"\">variable</span> hai uske ek set na karke baar baar set kar rahe hai, pehle <span style=\"\">loop</span> ke ander<br>isse ye program infinite <span style=\"\">loop</span> mai na jake, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">isPrime</span> ki value ko reset kar raha hai"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "n = 2<br>count = 0<br>while(count < 5):<br>    isPrime = True<br>    i = 2<br>    while(i<n):<br>        if n%i == 0:<br>            isPrime = False<br>        i = i + 1<br>    if (isPrime):<br>        print (str(n) + \"is prime\")<br>        count += 1<br>    n = n + 1"
+	}
+]

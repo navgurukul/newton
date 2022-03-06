@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "Assign a new value to a given <span style=\"\">variable</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var bestMan = \"kumar\";"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "bestMan = \"nayak\";"
+	}
+]

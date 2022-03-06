@@ -1,0 +1,46 @@
+[
+	{
+		"component": "text",
+		"value": "Write a program where it will combine given objects and give the result in 1 object, if it has the same properties add the values of it."
+	},
+	{
+		"component": "text",
+		"value": "Example :"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Input</span> :"
+	},
+	{
+		"component": "text",
+		"value": "var dic1={1:10, 2:20}"
+	},
+	{
+		"component": "text",
+		"value": "var dic2={3:30,2:40}"
+	},
+	{
+		"component": "text",
+		"value": "var dic3={5:50,6:60}"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Output</span> :"
+	},
+	{
+		"component": "text",
+		"value": "{1: 10, 2: 60, 3: 30,  5: 50, 6: 60}"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "var dic1={1:10, 2:20};<br>var dic2={3:30,2:40};<br>var dic3={5:50,6:60};<br>for (i in dic1){<br>  for (j in dic2){<br>    if (i==j){<br>        dic3[i]=dic1[i]+dic2[j]<br>        break<br>    }<br>     else{<br>        dic3[i]=dic1[i]<br>        dic3[j]=dic2[j]<br>     }<br>  } <br>}<br>console.log(dic3);"
+	}
+]

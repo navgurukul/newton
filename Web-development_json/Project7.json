@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "Our project idea is to Random Quotes that with Author name, and the wikipedia link on the webapage and a button to see the next random quote."
+	},
+	{
+		"component": "text",
+		"value": "See the example here <a href=\"https://codepen.io/navgurukul/full/aBxrqy\">click here</a>"
+	},
+	{
+		"component": "text",
+		"value": "This is where you will get HTML <span style=\"\">file</span> for this project."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://github.com/vknayak/JS-projects/blob/main/Quotes%20World/index.html\">click here</a>"
+	},
+	{
+		"component": "text",
+		"value": "Go through this <span style=\"\">file</span> to understand which function we need to write where."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://github.com/vknayak/JS-projects/blob/main/Quotes%20World/script.js\">click here</a>"
+	}
+]

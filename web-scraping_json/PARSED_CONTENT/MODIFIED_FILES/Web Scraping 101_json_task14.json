@@ -1,0 +1,109 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "task14_key1"
+  },
+  {
+    "component": "text",
+    "value": "task14_key2"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/web-scraping_json/images/anand_cast_page.png",
+    "alt": "task14_key3"
+  },
+  {
+    "component": "text",
+    "value": "task14_key4"
+  },
+  {
+    "component": "text",
+    "value": "task14_key5",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "task14_key6",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "task14_key7"
+  },
+  {
+    "component": "text",
+    "value": "task14_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "[<br>  {<br>&emsp;\"name\": \"Anand\"<br>&emsp;\"director\": [\"Hrishikesh Mukherjee\"],<br>&emsp;\"country\": \"India\",<br>&emsp;\"language\": [\"Hindi\"],<br>&emsp;\"poster_image_url\": \"https://m.media-amazon.com/images/M/MV5BNmZkMTMzNmEtMWU5NC00MjEzLWE5MzktYzRlMmQyMzk0YmM1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg\",<br>&emsp;\"bio\": \"The story of a terminally ill man who wishes to live life to the full before the inevitable occurs, as told by his best friend.\",<br>&emsp;\"runtime\": 183,<br>&emsp;\"genre\": [<br>&emsp;&emsp;\"Drama\"<br>&emsp;]<br>&emsp;\"cast\": [<br>&emsp;  {<br>&emsp;&emsp;\"imdb_id\": \"nm0004435\",<br>&emsp;&emsp;\"name\": \"Rajesh Khanna\"<br>&emsp;  },<br>&emsp;  {<br>&emsp;&emsp;\"imdb_id\": \"nm0000821\",<br>&emsp;&emsp;\"name\": \"Amitabh Bachan\"<br>&emsp;  },<br>&emsp;  {},<br>&emsp;  {},<br>&emsp;  {},<br>&emsp;  {}<br>&emsp;]<br>  },<br>  {},<br>  {},<br>  {},<br>  {}<br>]"
+  },
+  {
+    "component": "text",
+    "value": "task14_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "{<br>  \"nm0004435\": {<br>&emsp;\"name\": \"Rajesh Khanna\",<br>&emsp;\"frequent_co_actors\": [<br>&emsp;  {<br>&emsp;&emsp;\"imdb_id\": \"nm0000821\",<br>&emsp;&emsp;\"name\": \"Amitabh Bachan\"<br>&emsp;&emsp;\"num_movies\": 2<br>&emsp;  }<br>&emsp;]<br>  },<br>  \"nm0000821\": {<br>&emsp;\"name\": \"Amitabh Bachan\",<br>&emsp;\"frequent_co_actors\": [<br>&emsp;  {}, {}, {}<br>&emsp;]<br>  }<br>}"
+  },
+  {
+    "component": "text",
+    "value": "task14_key10"
+  },
+  {
+    "component": "text",
+    "value": "task14_key11"
+  },
+  {
+    "component": "text",
+    "value": "task14_key12"
+  },
+  {
+    "component": "text",
+    "value": "task14_key13",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "task14_key14",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "task14_key15",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "task14_key16"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "task14_key17"
+  },
+  {
+    "component": "text",
+    "value": "task14_key18"
+  }
+]

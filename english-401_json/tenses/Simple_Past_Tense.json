@@ -1,0 +1,309 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Simple Past Tense"
+	},
+	{
+		"component": "youtube",
+		"value": "-vlx-7hyJf4"
+	},
+	{
+		"component": "youtube",
+		"value": "y0VTP7https"
+	},
+	{
+		"component": "youtube",
+		"value": "OxyQRx9cUTA"
+	},
+	{
+		"component": "text",
+		"value": "How do you form the simple past tense?<br>The past simple is usually formed by adding 'd', 'ed', or 'ied' to the base form of the verb, however, in English there are many irregular verbs that take on a completely different form in the past tense. Some people call this the V2 form of the verb. The best thing to do is to try and memorize them."
+	},
+	{
+		"component": "text",
+		"value": "Fill in the verbs in parentheses in simple past tense."
+	},
+	{
+		"component": "text",
+		"value": "I ….. swati.(meet)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "You …… an apple.(eat)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "You …… food for everybody.(cook)…",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "It ……. a history.(create)",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "We ……. on a tree.(climb)",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "They ……. in temple for you.(pray)",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Boys ……. eveywhere to guide.(preach)",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "I ………. him my support.(promise)",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "The fish ………… out of the water.(jump)",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "They ………. their friends greeting.(post)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "You ……. me in the time of need.(help)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Boy …….. out.(go)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "They ………him as a leader.(elect)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Boys ……….. rules and regulation.(violat)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "She ……. him the monitor.(make)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I …….. to meet her.(wish)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "she ……. in in her small garden.(work)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "I ….. yes.(say)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "They …….together.(live)",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "We ……. at Ajunta caves.(reach)",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Answers"
+	},
+	{
+		"component": "text",
+		"value": "1)I .met…. swati."
+	},
+	{
+		"component": "text",
+		"value": "2)You .ate….. an apple."
+	},
+	{
+		"component": "text",
+		"value": "3)You ..cook…. food for everybody."
+	},
+	{
+		"component": "text",
+		"value": "4)It ..created….. a history."
+	},
+	{
+		"component": "text",
+		"value": "5)we .climbed….. on a tree."
+	},
+	{
+		"component": "text",
+		"value": "6)They .prayed…… in temple for you."
+	},
+	{
+		"component": "text",
+		"value": "7)Boys .preached.. eveywhere to guide."
+	},
+	{
+		"component": "text",
+		"value": "8)I ..promised.. him my support."
+	},
+	{
+		"component": "text",
+		"value": "9)The fish …jumped.. out of the water."
+	},
+	{
+		"component": "text",
+		"value": "10)They …posted……. their friends greeting."
+	},
+	{
+		"component": "text",
+		"value": "You …helped…. me in the time of need.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "12)Boy ..went…… out."
+	},
+	{
+		"component": "text",
+		"value": "13)They …elected..him as a leader."
+	},
+	{
+		"component": "text",
+		"value": "14)Boys …violated…….. rules and regulation."
+	},
+	{
+		"component": "text",
+		"value": "15)She .made…… him the monitor."
+	},
+	{
+		"component": "text",
+		"value": "16)I .wished……. to meet her."
+	},
+	{
+		"component": "text",
+		"value": "17)she .worked…… in in her small garden."
+	},
+	{
+		"component": "text",
+		"value": "18)I ..said… yes."
+	},
+	{
+		"component": "text",
+		"value": "19)They …lived….together."
+	},
+	{
+		"component": "text",
+		"value": "20)We ..reached….. at Ajunta caves."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Simple past Tense"
+	},
+	{
+		"component": "text",
+		"value": "You can visit more learn this website:-"
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.englishgrammar.org/simple-tense-exercise/\">Exercise</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php\">Exercise</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.easypacelearning.com/pdf/tense2.pdf\">Exercise</a>",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

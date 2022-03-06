@@ -1,0 +1,26 @@
+[
+  {
+    "component": "text",
+    "value": "navgurukul_key1",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul_key2",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  },
+  {
+    "component": "text",
+    "value": "navgurukul_key3",
+    "decoration": {
+      "type": "number",
+      "value": null
+    }
+  }
+]

@@ -1,0 +1,218 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project: Fetching Current Weather Data"
+	},
+	{
+		"component": "text",
+		"value": "Checking the weather seems fairly trivial: Open your web browser, click the address bar, type the URL to a weather website (or search for one and then click the link), wait for the page to load, look past all the ads, and so on."
+	},
+	{
+		"component": "text",
+		"value": "Actually, there are a lot of boring steps you could skip if you had a program that downloaded the weather forecast for the next few days and printed it as plaintext. This program uses the requests module from Chapter 11 to download data from the Web."
+	},
+	{
+		"component": "text",
+		"value": "Overall, the program does the following:"
+	},
+	{
+		"component": "text",
+		"value": "Reads the requested location from the command line."
+	},
+	{
+		"component": "text",
+		"value": "Downloads JSON weather data from OpenWeatherMap.org."
+	},
+	{
+		"component": "text",
+		"value": "Converts the <span style=\"\">string</span> of JSON data to a <span style=\"\">Python</span> data structure."
+	},
+	{
+		"component": "text",
+		"value": "Prints the weather for today and the next two days."
+	},
+	{
+		"component": "text",
+		"value": "So the <span style=\"\">code</span> will need to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Join <span style=\"\">strings</span> in sys.argv to get the location."
+	},
+	{
+		"component": "text",
+		"value": "Call requests.get() to download the weather data."
+	},
+	{
+		"component": "text",
+		"value": "Call json.loads() to convert the JSON data to a <span style=\"\">Python</span> data structure."
+	},
+	{
+		"component": "text",
+		"value": "Print the weather forecast."
+	},
+	{
+		"component": "text",
+		"value": "For this project, open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and <span style=\"\">save</span> it as quickWeather.py."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 1: Get Location from the Command Line Argument"
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">input</span> for this program will come from the command line. Make quickWeather.py look like this:"
+	},
+	{
+		"component": "text",
+		"value": "#! python3<br># quickWeather.py - Prints the weather for a location from the command line."
+	},
+	{
+		"component": "text",
+		"value": "import json, requests, sys"
+	},
+	{
+		"component": "text",
+		"value": "# Compute location from command line arguments."
+	},
+	{
+		"component": "text",
+		"value": "if len(sys.argv) < 2:<br>    print('Usage: quickWeather.py location')<br>    sys.exit()<br>location = ' '.join(sys.argv[1:])"
+	},
+	{
+		"component": "text",
+		"value": "# TODO: Download the JSON data from OpenWeatherMap.org's API.<br><br># TODO: Load JSON data into a Python variable."
+	},
+	{
+		"component": "text",
+		"value": "In <span style=\"\">Python</span>, command line arguments are stored in the sys.argv list. After the #! shebang line and import <span style=\"\">statements</span>, the program will check that there is more than one command line argument. (Recall that sys.argv will always have at least one element, sys.argv[0], which contains the <span style=\"\">Python</span> script’s <span style=\"\">file</span>name.) If there is only one element in the list, then the user didn’t provide a location on the command line, and a “usage” message will be provided to the user before the program ends."
+	},
+	{
+		"component": "text",
+		"value": "Command line arguments are split on spaces. The command line argument San Francisco, CA would make sys.argv hold ['quickWeather.py', 'San', 'Francisco,', 'CA']. Therefore, call the join() method to join all the <span style=\"\">strings</span> except for the first in sys.argv. Store this joined <span style=\"\">string</span> in a <span style=\"\">variable</span> named location."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 2: Download the JSON Data"
+	},
+	{
+		"component": "text",
+		"value": "OpenWeatherMap.org provides real-time weather information in JSON format. Your program simply has to download the page at <span><a href=\"http://api.openweathermap.org/data/2.5/forecast/daily?q=\">http://api.openweathermap.org/data/2.5/forecast/daily?q=</a></span><Location>&amp;cnt=3, where <Location> is the name of the city whose weather you want. Add the following to quickWeather.py."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">#! python3&lt;br&gt;</span># quickWeather.py - Prints the weather for a location from the command line."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "text",
+		"value": "# Download the JSON data from OpenWeatherMap.org's API."
+	},
+	{
+		"component": "text",
+		"value": "url =<span><a href=\"http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3'\">http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&cnt=3'</a></span> % (location)<br>response = requests.get(url)<br>response.raise<i>for</i>status()"
+	},
+	{
+		"component": "text",
+		"value": "# TODO: Load JSON data into a Python variable."
+	},
+	{
+		"component": "text",
+		"value": "We have location from our command line arguments. To make the URL we want to access, we use the %s placeholder and insert whatever <span style=\"\">string</span> is stored in location into that spot in the URL <span style=\"\">string</span>. We store the result in url and pass url to requests.get(). The requests.get() call returns a Response object, which you can check for <span style=\"\">errors</span> by calling raise<i>for</i>status(). If no exception is raised, the downloaded text will be in response.text."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 3: Load JSON Data and Print Weather"
+	},
+	{
+		"component": "text",
+		"value": "The response.text member <span style=\"\">variable</span> holds a large <span style=\"\">string</span> of JSON-formatted data. To convert this to a <span style=\"\">Python</span> value, call the json.loads() function. The JSON data will look something like this:"
+	},
+	{
+		"component": "text",
+		"value": "{'city': {'coord': {'lat': 37.7771, 'lon': -122.42},<br>          'country': 'United States of America',<br>          'id': '5391959',<br>          'name': 'San Francisco',<br>          'population': 0},<br>'cnt': 3,<br>'cod': '200',<br>'list': [{'clouds': 0,<br>          'deg': 233,<br>          'dt': 1402344000,<br>          'humidity': 58,<br>          'pressure': 1012.23,<br>          'speed': 1.96,<br>          'temp': {'day': 302.29,<br>                   'eve': 296.46,<br>                   'max': 302.29,<br>                   'min': 289.77,<br>                   'morn': 294.59,<br>                   'night': 289.77},<br>          'weather': [{'description': 'sky is clear',<br>                       'icon': '01d',<br>--snip--<br>You can see this data by passing weatherData to pprint.pprint(). You may want to check <span><a href=\"http://openweathermap.org/\">http://openweathermap.org/</a></span> for more documentation on what these fields mean. For example, the online documentation will tell you that the 302.29 after 'day' is the daytime temperature in Kelvin, not Celsius or Fahrenheit."
+	},
+	{
+		"component": "text",
+		"value": "The weather descriptions you want are after 'main' and 'description'. To neatly print them out, add the following to quickWeather.py."
+	},
+	{
+		"component": "text",
+		"value": "! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "quickWeather.py - Prints the weather for a location from the command line."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Load JSON data into a Python variable.<br>   weatherData = json.loads(response.text)<br>   # Print weather descriptions.<br>❶ w = weatherData['list']<br>   print('Current weather in %s:' % (location))<br>   print(w[0]['weather'][0]['main'], '-', w[0]['weather'][0]['description'])<br>   print()<br>   print('Tomorrow:')<br>   print(w[1]['weather'][0]['main'], '-', w[1]['weather'][0]['description'])<br>   print()<br>   print('Day after tomorrow:')<br>   print(w[2]['weather'][0]['main'], '-', w[2]['weather'][0]['description'])"
+	},
+	{
+		"component": "text",
+		"value": "Notice how the <span style=\"\">code</span> stores weatherData['list'] in the <span style=\"\">variable</span> w to <span style=\"\">save</span> you some typing ❶. You use w[0], w[1], and w[2] to retrieve the dictionaries for today, tomorrow, and the day after tomorrow’s weather, respectively. Each of these dictionaries has a 'weather' <span style=\"\">key</span>, which contains a list value. You’re interested in the first list item, a nested dictionary with several more <span style=\"\">keys</span>, at index 0. Here, we print the values stored in the 'main' and 'description' <span style=\"\">keys</span>, separated by a hyphen."
+	},
+	{
+		"component": "text",
+		"value": "When this program is run with the command line argument quickWeather.py San Francisco, CA, the <span style=\"\">output</span> looks something like this:"
+	},
+	{
+		"component": "text",
+		"value": "Current weather in San Francisco, CA:<br>Clear - sky is clear"
+	},
+	{
+		"component": "text",
+		"value": "Tomorrow:<br>Clouds - few clouds"
+	},
+	{
+		"component": "text",
+		"value": "Day after tomorrow:<br>Clear - sky is clear<br>(The weather is one of the reasons I like living in San Francisco!)"
+	},
+	{
+		"component": "text",
+		"value": "Ideas for Similar Programs<br>Accessing weather data can form the basis for many types of programs. You can create similar programs to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Collect weather forecasts for several campsites or hiking trails to see which one will have the best weather."
+	},
+	{
+		"component": "text",
+		"value": "Schedule a program to regularly check the weather and send you a frost alert if you need to move your plants indoors. (Chapter 15 covers scheduling, and Chapter 16 explains how to send email.)"
+	},
+	{
+		"component": "text",
+		"value": "Pull weather data from multiple sites to show all at once, or calculate and show the average of the multiple weather predictions."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Summary"
+	},
+	{
+		"component": "text",
+		"value": "CSV and JSON are common plaintext formats for storing data. They are easy for programs to parse while still being human readable, so they are often used for simple spreadsheets or web app data. The csv and json modules greatly simplify the process of reading and writing to CSV and JSON <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "The last few chapters have taught you how to use <span style=\"\">Python</span> to parse information from a wide variety of <span style=\"\">file</span> formats. One common task is taking data from a variety of formats and parsing it for the particular information you need. These tasks are often specific to the point that commercial software is not optimally helpful. By writing your own scripts, you can make the computer handle large amounts of data presented in these formats."
+	},
+	{
+		"component": "text",
+		"value": "In Chapter 15, you’ll break away from data formats and learn how to make your programs communicate with you by sending emails and text messages."
+	}
+]

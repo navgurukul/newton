@@ -1,0 +1,47 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "controlling-mouse-movement_key1"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key2"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key3"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key4"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key5"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import pyautogui<br>>>> pyautogui.size()"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> width, height = pyautogui.size()"
+  },
+  {
+    "component": "text",
+    "value": "controlling-mouse-movement_key8"
+  }
+]

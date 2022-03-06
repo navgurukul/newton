@@ -1,0 +1,8 @@
+{
+	"flex-wrap_key1": "flex-wrap: Container Property",
+	"flex-wrap_key2": "nowrap | wrap | wrap-reverse",
+	"flex-wrap_key3": "By default yaani pehle se flex items ek hi row mein fit honi ki koshish karti hai. Chahe ek row mein fit honi ki jagah na ho.",
+	"flex-wrap_key4": "Aisa isliye hota hai kyunki by defautl <b>flex-wrap nowrap</b> hota hai. Nowrap yaani ki <b>\"ghoom kar agli line mein mat aao\".</b>",
+	"flex-wrap_key5": "Ab iss <a href=\"http://codepen.io/navgurukul/pen/WRBRPL\">example</a> ko dekho aur isme flex-wrap ka use kar kar dekho kya hota hai. ",
+	"flex-wrap_key6": "Ab hum inn properties ka use kar kar yeh <a href=\"http://codepen.io/navgurukul/full/ggJrpY/\">assignment.</a> Aur yeh <a href=\"http://codepen.io/navgurukul/full/PWvmQZ/\">assignment</a> karenge."
+}

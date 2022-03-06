@@ -1,0 +1,50 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Lots of Words"
+	},
+	{
+		"component": "text",
+		"value": "Abhi sirf teen-chaar words mei se ek word user ko de diya jaata hai. (Check <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">words.py</span>)<br>Aapko <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">words.txt</span> <span style=\"\">file</span> ko <span style=\"\">code</span> mei read kar kar, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">words.py</span> <span style=\"\">file</span> ko modify karna hai. <br>Jisse ki <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">words.txt</span> mei se koi random word computer use kare user se guess karane ke liye."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">words.txt</span> ko read kar kar, ek <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">array/list</span> bana kar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">load_words</span> se return kar sakte ho",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "file padhne ke liye, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">readline()</span> function use kar sakte ho ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Solution"
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=6LiPNTmkNeY"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Possible Solution"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def load_words():<br>&emsp;\"\"\"<br>&emsp;Ye function kaafi jayada words ko load karne mai help karega<br>&emsp;\"\"\"<br><br>&emsp;WORDLIST_FILENAME = \"words.txt\"<br>&emsp;print (\"Loading word list from file...\")<br>&emsp;inFile = open(WORDLIST_FILENAME, 'r', 0)<br>&emsp;line = inFile.readline()<br>&emsp;word_list = string.split(line)<br>&emsp;print (\"  \", len(word_list), \"words loaded.\\n\")<br><br>&emsp;return word_list"
+	}
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "component": "text",
+    "value": "question3_key1"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question3_key2"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question3_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "my_dict = {<br>&emsp;  'data1':100,<br>&emsp;  'data2': -54,<br>&emsp;  'data3': 247<br>&emsp;  }"
+  },
+  {
+    "component": "header",
+    "variant": 4,
+    "value": "question3_key4"
+  },
+  {
+    "component": "text",
+    "value": "question3_key5"
+  }
+]

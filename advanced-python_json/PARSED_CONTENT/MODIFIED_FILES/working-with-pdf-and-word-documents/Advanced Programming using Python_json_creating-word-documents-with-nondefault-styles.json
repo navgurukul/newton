@@ -1,0 +1,145 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "creating-word-documents-with-nondefault-styles_key1"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key2"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key3"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key4"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key5"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key6"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key7"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key8"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key9"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key10"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key11"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key12"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key13"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key14"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key15"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key16"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key17"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key18"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key19"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key20"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> doc = docx.Document('demo.docx')<br>>>> doc.paragraphs[0].text"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key21"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> doc.paragraphs[0].style"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key22"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> doc.paragraphs[0].style = 'Normal'<br>>>> doc.paragraphs[1].text"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key23"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> (doc.paragraphs[1].runs[0].text, doc.paragraphs[1].runs[1].text, doc."
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key24"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> doc.paragraphs[1].runs[0].style = 'QuoteChar'<br>>>> doc.paragraphs[1].runs[1].underline = True<br>>>> doc.paragraphs[1].runs[3].underline = True<br>>>> doc.save('restyled.docx')"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key25"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key26"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key27"
+  },
+  {
+    "component": "text",
+    "value": "creating-word-documents-with-nondefault-styles_key28"
+  }
+]

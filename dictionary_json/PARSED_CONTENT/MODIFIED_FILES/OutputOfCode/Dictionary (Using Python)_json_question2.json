@@ -1,0 +1,32 @@
+[
+  {
+    "component": "text",
+    "value": "question2_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "a = {'a':1,'b':2,'c':3}<br><br>print(a['a','b'])"
+  },
+  {
+    "component": "text",
+    "value": "question2_key2"
+  },
+  {
+    "component": "text",
+    "value": "question2_key3"
+  },
+  {
+    "component": "text",
+    "value": "question2_key4"
+  },
+  {
+    "component": "text",
+    "value": "question2_key5"
+  },
+  {
+    "component": "text",
+    "value": "question2_key6"
+  }
+]

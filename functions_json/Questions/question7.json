@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 7"
+	},
+	{
+		"component": "text",
+		"value": "Define a function which takes two arguments(<span style=\"\">strings</span>) and returns the <span style=\"\">string</span> with largest length. If both the <span style=\"\">strings</span> have equal length, print both the <span style=\"\">strings</span> one below the other.<br> Hint :- use len() builtin function.. "
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span> "
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Write function here<br>function_name(“hello”,”welcome”)<br>function_name(“sonu”,”monu”)"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "welcome<br>sonu<br>monu"
+	}
+]

@@ -1,0 +1,16 @@
+{
+	"invalid-input_key1": "Invalid <span style=\"\">Inputs</span>",
+	"invalid-input_key2": "Aapko yeh check karna hai ki user no jo <span style=\"\">input</span> daala hai, woh valid hai ya nahi. Iske liye aapko yeh dekhna hai ki jo user ne <span style=\"\">input</span> daala hai,",
+	"invalid-input_key3": "usmei agar ek se jyada <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">letters</span> hai toh, woh input invalid hai",
+	"invalid-input_key4": "usmei a to z ke alawa koi bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">character</span> hai toh woh input invalid hai",
+	"invalid-input_key5": "Yeh check karne ke liye aap .isalpha function use kar sakte ho",
+	"invalid-input_key6": "Hint",
+	"invalid-input_key7": "Aapko user se input receive karne ke baad check karna hai ki input valid hai ya nahi",
+	"invalid-input_key8": "Check karne ke liye aap user ke input ki length check kar sakte hai",
+	"invalid-input_key9": "Agar input valid hai toh sab accha hai",
+	"invalid-input_key10": "Par agar input invalid hai toh aap loop ko wapis se continue karo aur dobara user input lo",
+	"invalid-input_key11": "Solution Video",
+	"invalid-input_key12": "Solution",
+	"invalid-input_key13": "………………… in the hangman function ……………………….<br>…<br>…<br>…",
+	"invalid-input_key14": "…<br>…<br>…"
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "signing-up-for-a-twilio-account_key1"
+  },
+  {
+    "component": "text",
+    "value": "signing-up-for-a-twilio-account_key2"
+  },
+  {
+    "component": "text",
+    "value": "signing-up-for-a-twilio-account_key3"
+  },
+  {
+    "component": "text",
+    "value": "signing-up-for-a-twilio-account_key4"
+  }
+]

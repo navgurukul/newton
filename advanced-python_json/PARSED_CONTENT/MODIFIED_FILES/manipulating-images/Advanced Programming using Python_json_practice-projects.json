@@ -1,0 +1,27 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "practice-projects_key1"
+  },
+  {
+    "component": "text",
+    "value": "practice-projects_key2"
+  },
+  {
+    "component": "text",
+    "value": "practice-projects_key3"
+  },
+  {
+    "component": "text",
+    "value": "practice-projects_key4"
+  },
+  {
+    "component": "text",
+    "value": "practice-projects_key5"
+  },
+  {
+    "component": "text",
+    "value": "practice-projects_key6"
+  }
+]

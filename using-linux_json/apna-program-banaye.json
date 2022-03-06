@@ -1,0 +1,61 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Apna Program Banana Seekhte hai"
+	},
+	{
+		"component": "text",
+		"value": "Ek bahut simple si <span style=\"\">file</span> banao:"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "touch meraprogram"
+	},
+	{
+		"component": "text",
+		"value": "Ab iss <span style=\"\">file</span> ko apni pasand ke <span style=\"\">editor</span> se khol kar, kuch content daalte hai"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "echo \"Yeh mera program hai\"<br>echo \"Jab mai ismei code add karunga, toh mera program bada ho jayega\""
+	},
+	{
+		"component": "text",
+		"value": "Ab aap iss program ko <span style=\"\">execute</span> karne ki permissions de"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "chmod +x meraprogram"
+	},
+	{
+		"component": "text",
+		"value": "Ab iss program ko aap, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">/usr/bin</span> directory mei move kar de. Yaha move karne se, yeh program kahi se bhi aap <span style=\"\">execute</span> kar payenge."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "mv meraprogram /usr/bin/"
+	},
+	{
+		"component": "text",
+		"value": "Ab aap apne program ko <span style=\"\">execute</span> kar sakte ho"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "meraprogram<br>cd ~/Desktop<br>meraprogram<br>cd / <br>meraprogram"
+	},
+	{
+		"component": "text",
+		"value": "Aap apna program kahi se bhi <span style=\"\">execute</span> kar paoge."
+	}
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "nested-lists_key1"
+  },
+  {
+    "component": "text",
+    "value": "nested-lists_key2"
+  },
+  {
+    "component": "text",
+    "value": "nested-lists_key3"
+  },
+  {
+    "component": "text",
+    "value": "nested-lists_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "[1, 2, [3, 4, [5, 6, [7, 8]], 9, 10], 11, 12] # input<br>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10] #output"
+  },
+  {
+    "component": "text",
+    "value": "nested-lists_key5"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "nested-lists_key6"
+  },
+  {
+    "component": "text",
+    "value": "nested-lists_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "nested-lists_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import types<br><br>varA = 10<br>varB = [12, 15]<br><br>type(varA) == types.IntType # True<br>type(varB) == types.IntType # False<br><br>type(varA) == types.ListType # False<br>type(varB) == types.ListType # True<br>"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "nested-lists_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import types<br><br>def nested_to_flat(lis):<br>    flat_list = []<br>    index = 0<br><br>    while (index < len(lis)):<br><br>        element = lis[index]<br><br>        if type(element) != types.IntType:<br>            flat_list = flat_list + nested_to_flat(element)<br>        else:<br>            flat_list.append(element)<br><br>        index += 1<br><br>    return flat_list"
+  }
+]

@@ -1,0 +1,11 @@
+{
+	"question4_key1": "Question 4",
+	"question4_key2": "Print this pattern using <span style=\"\">Loops</span>. ",
+	"question4_key3": "<b>1, -2, 3, -4, 5, -6 ..99, -100</b>",
+	"question4_key4": "Hint :",
+	"question4_key5": "Notice that first number is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">positive</span>, and the second number is <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">negative</span>, then again a positive and then negative number and so on should be printed. Pattern looks similar to this <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Positive (+) Number</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Negative (-) Number</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Positive (+) Number</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Negative (-) Number</span> and so on.",
+	"question4_key6": "We can make any number negative by mutiplying it by <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">-1</span>.",
+	"question4_key7": "Example :-",
+	"question4_key8": "10 * -1 = -10<br>2 * -1 = 2",
+	"question4_key9": "You can use the above <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hint</span> to write the program."
+}

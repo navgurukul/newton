@@ -1,0 +1,133 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Mentor_Mentee_System_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Mentor_Mentee_System_key2"
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key3"
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key4"
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key7",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key8",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key9",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key10",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key12"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Mentor_Mentee_System_key13"
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key16",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key17",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key18",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key19",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "Mentor_Mentee_System_key20"
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key21"
+  },
+  {
+    "component": "text",
+    "value": "Mentor_Mentee_System_key22"
+  }
+]

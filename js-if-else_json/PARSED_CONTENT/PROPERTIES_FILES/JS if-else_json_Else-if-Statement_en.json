@@ -1,0 +1,8 @@
+{
+	"Else-if-Statement_key1": "Example:",
+	"Else-if-Statement_key2": "Explanation:",
+	"Else-if-Statement_key3": "if the course is equal to English, <span style=\"\">output</span> “Tutorial content is there in English”.else if the course is equal to Hindi, <span style=\"\">output</span> “Tutorial content is there in Hindi”.if nothing of the above condition is <span style=\"\">true</span>, then <span style=\"\">output</span> “I am not understanding of Languaget”",
+	"Else-if-Statement_key4": "else If condition specifies a new condition if the first condition will be  <span style=\"\">false</span> then it checks other conditions. ",
+	"Else-if-Statement_key5": "Note",
+	"Else-if-Statement_key6": "When we have many conditions to check and we want a condition to be <span style=\"\">true</span> then we use an else-if <span style=\"\">key</span>word."
+}

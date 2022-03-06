@@ -1,0 +1,42 @@
+[
+  {
+    "component": "text",
+    "value": "Question-9_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-9_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-9_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Question-9_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "let readlineSync = require(\"readline-sync\");<br>var varx=readlineSync.questionInt(\"enter a number\")<br>if(varx%2===0){<br>   console.log(\"divisible hai\")<br>}<br>else{<br>   console.log(\"not divisible\")<br>}"
+  }
+]

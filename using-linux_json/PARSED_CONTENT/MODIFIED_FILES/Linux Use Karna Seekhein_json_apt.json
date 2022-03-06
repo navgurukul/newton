@@ -1,0 +1,8 @@
+[
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "apt install gedit<br>sudo apt install gedit<br>sudo apt purge gedit<br>sudo apt search python"
+  }
+]

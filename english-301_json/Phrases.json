@@ -1,0 +1,78 @@
+[
+	{
+		"component": "text",
+		"value": "A group of meaningful words without a finite verb is a phrase."
+	},
+	{
+		"component": "text",
+		"value": "Words ka ek group jisme verb nahi hai, use \"phrase\" kehte hain."
+	},
+	{
+		"component": "text",
+		"value": "Example:"
+	},
+	{
+		"component": "text",
+		"value": "<b>The syntax of Python</b> is interesting.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>In spite of working hard</b>, he could not the complete the assignment on time.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Exercise: "
+	},
+	{
+		"component": "text",
+		"value": "Identify the phrase in the following sentences."
+	},
+	{
+		"component": "text",
+		"value": "The mother taught her children to listen to her words.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "The nurses cared for the patients admitted to the hospital.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "The fire coming from the sky frightened the tribal people.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "He told them the secret of growing crops.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "They used the gifts of nature to live better.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	}
+]

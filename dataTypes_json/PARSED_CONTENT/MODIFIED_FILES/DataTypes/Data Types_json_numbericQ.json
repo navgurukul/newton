@@ -1,0 +1,84 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "numbericQ_key1"
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key5",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key6",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key7",
+    "decoration": {
+      "type": "number",
+      "value": 6
+    }
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "numbericQ_key8"
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key9",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key10",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "numbericQ_key11",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  }
+]

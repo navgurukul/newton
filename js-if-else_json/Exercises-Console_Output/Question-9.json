@@ -1,0 +1,42 @@
+[
+	{
+		"component": "text",
+		"value": "Take user input in a variable named varx.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Check if this number is divisible by 2.",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Console  that number is divisible by 2 or not",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "If number is divisible by 2 console 2 se <b>“divisible hai”</b> else <b>“not divisible”</b><br><br>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "let readlineSync = require(\"readline-sync\");<br>var varx=readlineSync.questionInt(\"enter a number\")<br>if(varx%2===0){<br>   console.log(\"divisible hai\")<br>}<br>else{<br>   console.log(\"not divisible\")<br>}"
+	}
+]

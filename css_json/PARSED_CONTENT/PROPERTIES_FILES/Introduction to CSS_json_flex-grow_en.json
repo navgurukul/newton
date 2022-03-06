@@ -1,0 +1,10 @@
+{
+	"flex-grow_key1": "flex-grow: Item Property",
+	"flex-grow_key2": "Usage: <b>flex-grow: \\<number></b>",
+	"flex-grow_key3": "Yeh property batati hai ki kiss hisab se container ke andar ki jagah items mein batengi.",
+	"flex-grow_key4": "By default yaani ki pehle se iski value <b>0</b> hoti hai.",
+	"flex-grow_key5": "Jaise, agar container ki width <b>1200px</b> hai. Aur uss container ke andar 4 items hai. Agar aap inn 4 items ko <b>width</b> nhi dete aur inka <b>flex-grow:1</b> set kar dete ho to her item <b>300px</b> jagah legi. Iska matlab 1200 px 4 items mein bat jayega. Iss <a href=\"http://codepen.io/navgurukul/pen/ZLgppd\">example</a> ko dekho aur samjho.",
+	"flex-grow_key6": "Magar agar hum kisi item ko pehle se width de dete hai. Jaise iss <a href=\"http://codepen.io/navgurukul/pen/egqdPp\">example</a> <b>item3</b> ki width <b>200px</b> hai aur baaki sab item ki <b>0</b>. Tab pehle item3 <b>200px</b> width lega. Uske baad <b>1000px(1200-200)</b> 4 items mein distribute hoga. Yaani ki her item ko <b>250 px(1000/4)</b> width milegi. Aur item3 ko <b>450px(250+200)</b> width milegi. ",
+	"flex-grow_key7": "Socho aapke container mein 3 items hai. Aur aap chahte hai ki pehli item ki width dusri aur teesri item ke mukable double ho. Tab aap pehli item ka flex-grow:2 set karoge aur baaki items ka flex-grow:1. Iss <a href=\"http://codepen.io/navgurukul/pen/qReqZp\">example</a> ko dekho aur samjho.",
+	"flex-grow_key8": "Ab aap yeh <a href=\"http://codepen.io/navgurukul/full/KaLWvw/\">assignment</a> karne ke liye ready ho ;)"
+}

@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Lets Add"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span> that works for any list, it should give two sums as <span style=\"\">outputs</span>, one is the sum of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> present in the list and the other is the sum of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> present in the list."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "elements = [23, 14, 56, 12, 19, 9, 15, 25, 31, 42, 43]"
+	}
+]

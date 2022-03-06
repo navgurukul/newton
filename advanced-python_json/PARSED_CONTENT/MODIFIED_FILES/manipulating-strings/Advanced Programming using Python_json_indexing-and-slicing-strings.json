@@ -1,0 +1,57 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "indexing-and-slicing-strings_key1"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key2"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key3"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key4"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = 'Hello world!'<br>>>> spam[0]<br>'H'<br>>>> spam[4]<br>'o'<br>>>> spam[-1]<br>'!'<br>>>> spam[0:5]<br>'Hello'<br>>>> spam[:5]<br>'Hello'<br>>>> spam[6:]<br>'world!'"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key5"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = 'Hello world!'<br>>>> fizz = spam[0:5]<br>>>> fizz<br>'Hello'"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key7"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> 'Hello' in 'Hello World'<br>True<br>>>> 'Hello' in 'Hello'<br>True<br>>>> 'HELLO' in 'Hello World'<br>False<br>>>> '' in 'spam'<br>True<br>>>> 'cats' not in 'cats and dogs'<br>False"
+  },
+  {
+    "component": "text",
+    "value": "indexing-and-slicing-strings_key9"
+  }
+]

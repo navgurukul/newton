@@ -1,0 +1,41 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "local-and-global-variables-with-the-same-name_key1"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def spam():<br>❶     eggs = 'spam local'<br>       print(eggs) # prints 'spam local'<br>   def bacon():<br><br>❷     eggs = 'bacon local'<br>       print(eggs) # prints 'bacon local'<br>       spam()<br>       print(eggs) # prints 'bacon local'<br><br>❸ eggs = 'global'<br>   bacon()<br>   print(eggs) # prints 'global'"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key3"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key4"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key5"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key6"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key7"
+  },
+  {
+    "component": "text",
+    "value": "local-and-global-variables-with-the-same-name_key8"
+  }
+]

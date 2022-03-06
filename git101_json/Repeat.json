@@ -1,0 +1,25 @@
+[
+	{
+		"component": "text",
+		"value": "Apne abhi tak ye commands seekhe hain:"
+	},
+	{
+		"component": "text",
+		"value": "git init<br>git status<br>git add<br>(git remove)<br>git diff<br>git commit"
+	},
+	{
+		"component": "text",
+		"value": "Apne <span style=\"\">files</span> mein changes karke aap wapas se inn commands ko use karke apne <span style=\"\">files</span> ke <i>naye version</i> ko apne git repository mein daal sakte hain."
+	},
+	{
+		"component": "text",
+		"value": "<b>Assignment</b>"
+	},
+	{
+		"component": "text",
+		"value": "Apne files mein changes karke, wapas se upar diye hue commands ka use karte hue - apne file ke naye version ko git repository mein save karo.",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

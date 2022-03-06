@@ -1,0 +1,162 @@
+[
+	{
+		"component": "text",
+		"value": "An adjective is a word that describes, identifies, modifies, or quantifies something (a noun or a<br>pronoun)."
+	},
+	{
+		"component": "text",
+		"value": "Kisi bhi 'noun' ko jo word describe karta hai, use \"adjective\" kehte hain."
+	},
+	{
+		"component": "text",
+		"value": "Example: "
+	},
+	{
+		"component": "text",
+		"value": "The <b>black</b> cat is climbing the <b>tall</b> tree."
+	},
+	{
+		"component": "text",
+		"value": "In English, an adjective usually comes before the noun it pertains to"
+	},
+	{
+		"component": "text",
+		"value": "Example: a <b>red</b> apple or a <b>beautiful</b> dress"
+	},
+	{
+		"component": "youtube",
+		"value": "-D4bdGDFgeE"
+	},
+	{
+		"component": "text",
+		"value": "Exercise: Pick out the Adjectives in the following and say which noun/pronoun they are describing:"
+	},
+	{
+		"component": "text",
+		"value": "Have you heard the happy news?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "This is a heavy bag.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "He found a rare coin in his garden.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "This restaurant has some delicious dishes.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "She has to complete these important papers today.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Adjectives of quality say something about the trait of the noun while adjectives of quantity give the amount or number of the noun."
+	},
+	{
+		"component": "text",
+		"value": "EXAMPLE: "
+	},
+	{
+		"component": "text",
+		"value": "They have a big house. (Adj of quality)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "We saw a very exciting film last night. (Adj of quality)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "The student needs four books. (Adj of quantity)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "There is a little oil in the can. (Adj of quantity)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "EXERCISE: "
+	},
+	{
+		"component": "text",
+		"value": "Identify the adjectives in the following and say whether they describe quality or<br>quantity:"
+	},
+	{
+		"component": "text",
+		"value": "Few students are absent all the time.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "He needs several people in his team.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "This is a useful piece of information.",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "I spent the night in a comfortable hotel.",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "Every citizen should be patriotic.",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	}
+]

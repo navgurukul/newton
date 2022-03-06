@@ -1,0 +1,78 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "<span style=\"\">Python</span> Inner Functions"
+	},
+	{
+		"component": "text",
+		"value": "A function which is written or defined inside another function is called inner function or nested function. In inner functions, we can access the scope of <span style=\"\">variable</span> of the outer function but we can't change those <span style=\"\">variables</span>."
+	},
+	{
+		"component": "text",
+		"value": "<b>EXAMPLE:-</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def f1():<br>   s = \"I Love Navgurukul\"<br>   def f2():<br>&emsp;   print(s)<br>   f2()<br><br>f1()"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "I Love Navgurukul"
+	},
+	{
+		"component": "text",
+		"value": "In the above example, f2() is a inner function and f1() is outer function. s  is a scope of vaiable f1() "
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Scope of <span style=\"\">variable</span> in nested function"
+	},
+	{
+		"component": "text",
+		"value": "Such a place where we can find a <span style=\"\">variable</span> and we can also access it when needed, that place is called <span style=\"\">variable</span> scope.<br>We have read how we can access global <span style=\"\">variables</span> inside a function, but, How do we access the <span style=\"\">variable</span> inside the outer function? let's see the example:"
+	},
+	{
+		"component": "text",
+		"value": "<b>Example :-</b>"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>first_function()"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT:-</span>"
+	},
+	{
+		"component": "text",
+		"value": "I love India"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "def first_function():<br>&emsp;s = 'I love India'<br>&emsp;def second_function():<br>&emsp;&emsp;s = \"MY NAME IS JACK\"<br>&emsp;&emsp;&emsp;print(s)&emsp; <br>&emsp;second_function()<br>&emsp;print(s)&emsp;<br> <br>first_function()"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">OUTPUT:-</span>"
+	},
+	{
+		"component": "text",
+		"value": "MY NAME IS JACK"
+	},
+	{
+		"component": "text",
+		"value": "I love India"
+	}
+]

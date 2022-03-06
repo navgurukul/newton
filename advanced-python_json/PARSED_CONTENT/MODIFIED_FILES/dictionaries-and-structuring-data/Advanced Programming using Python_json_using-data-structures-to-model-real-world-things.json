@@ -1,0 +1,180 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "using-data-structures-to-model-real-world-things_key1"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key2"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key3"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key4"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key5"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key6"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key7"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "using-data-structures-to-model-real-world-things_key9"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key10"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key11"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key12"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key14"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key15"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key16"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': 'X', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key17"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key18"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key19"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O',<br>            'mid-L': 'X', 'mid-M': 'X', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key20"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key21"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key22"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}<br>def printBoard(board):<br>    print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>    print('-+-+-')<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>    print('-+-+-')<br>    print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key23"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key24"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O', 'mid-L': 'X', 'mid-M':<br>'X', 'mid-R': ' ', 'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}<br><br>def printBoard(board):<br>    print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>    print('-+-+-')<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>    print('-+-+-')<br>    print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key25"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key26"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key27"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key28"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key29"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def printBoard(board):<br>       print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>       print('-+-+-')<br>       print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>       print('-+-+-')<br>       print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>   turn = 'X'<br>   for i in range(9):<br>❶      printBoard(theBoard)<br>        print('Turn for ' + turn + '. Move on which space?')<br>❷      move = input()<br>❸      theBoard[move] = turn<br>❹      if turn == 'X':<br>            turn = 'O'<br>        else:<br>            turn = 'X'<br>   printBoard(theBoard)"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key30"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key31"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key32"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key33"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key34"
+  },
+  {
+    "component": "text",
+    "value": "using-data-structures-to-model-real-world-things_key35"
+  }
+]

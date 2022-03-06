@@ -1,0 +1,22 @@
+{
+	"chapter-6_key1": "Chapter 6\n",
+	"chapter-6_key2": "Escape characters represent characters in `string` values that would otherwise be difficult or impossible to type into `code`.\n",
+	"chapter-6_key3": "\\n is a newline; \\t is a `tab`.\n",
+	"chapter-6_key4": "The \\\\ escape character will represent a backslash character.\n",
+	"chapter-6_key5": "The single quote in Howl's is fine because you’ve used double quotes to mark the beginning and end of the `string`.\n",
+	"chapter-6_key6": "Multiline `strings` allow you to use newlines in `strings` without the \\n escape character.\n",
+	"chapter-6_key7": "The expressions evaluate to the following:\n",
+	"chapter-6_key8": "'e'\n",
+	"chapter-6_key9": "'Hello'\n",
+	"chapter-6_key10": "'Hello'\n",
+	"chapter-6_key11": "'lo world!\n",
+	"chapter-6_key12": "The expressions evaluate to the following:\n",
+	"chapter-6_key13": "'HELLO'\n",
+	"chapter-6_key14": "`True`\n",
+	"chapter-6_key15": "'hello'\n",
+	"chapter-6_key16": "The expressions evaluate to the following:\n",
+	"chapter-6_key17": "['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']\n",
+	"chapter-6_key18": "'There-can-be-only-one.'\n",
+	"chapter-6_key19": "The rjust(), ljust(), and center() `string` methods, respectively\n",
+	"chapter-6_key20": "The lstrip() and rstrip() methods remove whitespace from the left and right ends of a `string`, respectively.\n"
+}

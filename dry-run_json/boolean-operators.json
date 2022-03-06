@@ -1,0 +1,90 @@
+[
+	{
+		"component": "text",
+		"value": "Aap booleans ke liye yaha se concepts revise kar sakte ho - "
+	},
+	{
+		"component": "text",
+		"value": "http://saral.navgurukul.org/course/18&amp;slug=python__logical-operators%2Flogical-operators-intro"
+	},
+	{
+		"component": "text",
+		"value": "Ab inn exercises ka dry run karo - "
+	},
+	{
+		"component": "text",
+		"value": "http://saral.navgurukul.org/course/18&amp;slug=python__logical-operators%2Flogical-operators-question1"
+	},
+	{
+		"component": "text",
+		"value": "Boolean <span style=\"\">operators</span> ko samajhne ke liye yeh video dekhein."
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=cXcyunbDS4I"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = True<br>y = False<br>z = x and y<br>a = x or y<br>b = not a<br>c = not (a and b)<br>d = not (a or b)<br>e = (a and b) or (c or d)"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "if (4 >= 4) and (6 == 5):<br>    print \"Yes\"<br>else:<br>    print \"No\""
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 7<br>print not(((x > 4) and (x < 6)) or (x == 9))"
+	},
+	{
+		"component": "text",
+		"value": "Yeh programs inn values ke liye bhi karo"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 5"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 9"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 7<br>y = 3<br>print not(((x > 4) and (x < 6)) or (x == y))"
+	},
+	{
+		"component": "text",
+		"value": "Yeh program inn values ke liye bhi karo"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 5<br>y = 5"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "x = 8<br>y = 4<br>print not (((x>4) and (x<6)) or (x==y))"
+	},
+	{
+		"component": "text",
+		"value": "Iska solution verify karne ke liye neeche wala video dekhein."
+	},
+	{
+		"component": "youtube",
+		"value": "https://www.youtube.com/watch?v=1G9UY3yrkWw"
+	}
+]

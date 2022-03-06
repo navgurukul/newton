@@ -1,0 +1,80 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "A Short Program: Guess the Number"
+	},
+	{
+		"component": "text",
+		"value": "The toy examples I’ve show you so far are useful for introducing basic concepts, but now let’s see how everything you’ve learned comes together in a more complete program. In this section, I’ll show you a simple “guess the number” game. When you run this program, the <span style=\"\">output</span> will look something like this:"
+	},
+	{
+		"component": "text",
+		"value": "I am thinking of a number between 1 and 20.<br>Take a guess.<br>10<br>Your guess is too low.<br>Take a guess.<br>15<br>Your guess is too low.<br>Take a guess.<br>17<br>Your guess is too high.<br>Take a guess.<br>16<br>Good job! You guessed my number in 4 guesses!<br>Type the following source <span style=\"\">code</span> into the <span style=\"\">file</span> <span style=\"\">editor</span>, and <span style=\"\">save</span> the <span style=\"\">file</span> as guessTheNumber.py:"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "This is a guess the number game."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "import random<br>secretNumber = random.randint(1, 20)<br>print('I am thinking of a number between 1 and 20.')<br><br># Ask the player to guess 6 times.<br>for guessesTaken in range(1, 7):<br>    print('Take a guess.')<br>    guess = int(input())<br><br>    if guess < secretNumber:<br>        print('Your guess is too low.')<br>    elif guess > secretNumber:<br>        print('Your guess is too high.')<br>    else:<br>        break    # This condition is the correct guess!<br><br>if guess == secretNumber:<br>    print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')<br>else:<br>    print('Nope. The number I was thinking of was ' + str(secretNumber))<br>Let’s look at this code line by line, starting at the top.<br><br><br># This is a guess the number game.<br>import random<br>secretNumber = random.randint(1, 20)"
+	},
+	{
+		"component": "text",
+		"value": "First, a comment at the top of the <span style=\"\">code</span> explains what the program does. Then, the program imports the random module so that it can use the random.randint() function to generate a number for the user to guess. The return value, a random <span style=\"\">integer</span> between 1 and 20, is stored in the <span style=\"\">variable</span> secretNumber."
+	},
+	{
+		"component": "text",
+		"value": "print('I am thinking of a number between 1 and 20.')"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Ask the player to guess 6 times."
+	},
+	{
+		"component": "text",
+		"value": "for guessesTaken in range(1, 7):<br>    print('Take a guess.')<br>    guess = int(<span style=\"\">input</span>())<br>The program tells the player that it has come up with a secret number and will give the player six chances to guess it. The <span style=\"\">code</span> that lets the player enter a guess and checks that guess is in a for <span style=\"\">loop</span> that will <span style=\"\">loop</span> at most six times. The first thing that happens in the <span style=\"\">loop</span> is that the player types in a guess. Since <span style=\"\">input</span>() returns a <span style=\"\">string</span>, its return value is passed straight into int(), which translates the <span style=\"\">string</span> into an <span style=\"\">integer</span> value. This gets stored in a <span style=\"\">variable</span> named guess."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "if guess < secretNumber:<br>    print('Your guess is too low.')<br>elif guess > secretNumber:<br>    print('Your guess is too high.')"
+	},
+	{
+		"component": "text",
+		"value": "These few lines of <span style=\"\">code</span> check to see whether the guess is less than or greater than the secret number. In either case, a hint is printed to the screen."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "else:<br>    break    # This condition is the correct guess!<br>If the guess is neither higher nor lower than the secret number, then it must be equal to the secret number, in which case you want the program execution to break out of the for loop.<br><br><br>if guess == secretNumber:<br>    print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')<br>else:<br>    print('Nope. The number I was thinking of was ' + str(secretNumber))"
+	},
+	{
+		"component": "text",
+		"value": "After the for <span style=\"\">loop</span>, the previous if…else <span style=\"\">statement</span> checks whether the player has correctly guessed the number and prints an appropriate message to the screen. In both cases, the program displays a <span style=\"\">variable</span> that contains an <span style=\"\">integer</span> value (guessesTaken and secretNumber). Since it must concatenate these <span style=\"\">integer</span> values to <span style=\"\">strings</span>, it passes these <span style=\"\">variables</span> to the str() function, which returns the <span style=\"\">string</span> value form of these <span style=\"\">integers</span>. Now these <span style=\"\">strings</span> can be concatenated with the + <span style=\"\">operators</span> before finally being passed to the print() function call."
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Summary"
+	},
+	{
+		"component": "text",
+		"value": "Functions are the primary way to compartmentalize your <span style=\"\">code</span> into logical groups. Since the <span style=\"\">variables</span> in functions exist in their own local scopes, the <span style=\"\">code</span> in one function cannot directly affect the values of <span style=\"\">variables</span> in other functions. This limits what <span style=\"\">code</span> could be changing the values of your <span style=\"\">variables</span>, which can be helpful when it comes to debugging your <span style=\"\">code</span>."
+	},
+	{
+		"component": "text",
+		"value": "Functions are a great tool to help you organize your <span style=\"\">code</span>. You can think of them as black boxes: They have <span style=\"\">inputs</span> in the form of parameters and <span style=\"\">outputs</span> in the form of return values, and the <span style=\"\">code</span> in them doesn’t affect <span style=\"\">variables</span> in other functions."
+	},
+	{
+		"component": "text",
+		"value": "In previous chapters, a single <span style=\"\">error</span> could cause your programs to crash. In this chapter, you learned about try and except <span style=\"\">statements</span>, which can run <span style=\"\">code</span> when an <span style=\"\">error</span> has been detected. This can make your programs more resilient to common <span style=\"\">error</span> cases."
+	}
+]

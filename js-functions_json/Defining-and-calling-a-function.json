@@ -1,0 +1,133 @@
+[
+	{
+		"component": "text",
+		"value": "The declaration of a function starts with the function <span style=\"\">key</span>word, followed by the name of the function you want to create, followed by parentheses i.e. (). "
+	},
+	{
+		"component": "text",
+		"value": "Function naming can follow all rules as <span style=\"\">variables</span>."
+	},
+	{
+		"component": "text",
+		"value": "The parentheses may include parameter names separated by commas:<br>(parameter1, parameter2, …)"
+	},
+	{
+		"component": "text",
+		"value": "Finally write your function's <span style=\"\">code</span> between curly brackets {}. Here's the basic <span style=\"\">syntax</span> for declaring a function:"
+	},
+	{
+		"component": "image",
+		"value": "images/function_flow.png",
+		"alt": "Function-flow"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// Defining function<br><br>function sayHello(name) {<br> return \"Hello \" + name<br>}<br> <br>console.log(sayHello(\"Pragna\"))<br> <br>// Output :<br>// Hello pragna"
+	},
+	{
+		"component": "text",
+		"value": "<h4> How to Call a function</h4>",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Let’s look at our simple function example again"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "<br>function sayHello(name) {<br> return \"Hello \" + name<br>}<br>// Calling function<br>console.log(sayHello(\"Pragna\"))<br>"
+	},
+	{
+		"component": "text",
+		"value": "Once a function is defined it can be called (invoked) from anywhere in the document, by typing its name followed by a set of parentheses, like sayHello() in the example above this is how we call a function."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "The above <span style=\"\">code</span> is the example of function. The js function <span style=\"\">key</span>word helps us to define a function. The parameter name is like a <span style=\"\">variable</span> which will take the argument we passed to the function as a value. Return is a <span style=\"\">key</span>word which stores the value of a function and gives the value whenever we call the function like console.log(sayHello(\"Pragna\"))."
+	},
+	{
+		"component": "text",
+		"value": "This <span style=\"\">code</span> <span style=\"\">output</span> will be Hello Pragna because we are returning Hello with name and name is having Pragna as a value."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Exercises:"
+	},
+	{
+		"component": "text",
+		"value": "Write a function sayBye() which takes 1 argument like user’s name and returns <br>“Bye user’s name” ?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "//please write code here"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "function sayBye(userName){<br>   return \"Bye\"+\" \"+userName<br>}<br> <br>console.log(sayBye(\"Kumar\"))"
+	},
+	{
+		"component": "text",
+		"value": "What is the output of the following code?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "function getFullName(firstName,lastName){<br> console.log(firstName+\" \"+lastName)<br>}<br> <br>getFullName(\"kumar\",\"nayak\");"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "kumar nayak"
+	},
+	{
+		"component": "text",
+		"value": "What is the error in this code?<br><br>",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "function getFullName(firstName,lastName){<br> console.log(firstName+\" \"+lastName)<br>}<br> <br>GetFullName(\"kumar\",\"nayak\");<br>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "ReferenceError: GetFullName is not defined<br><br><br>Because Javascript is case sensitive and here x and X both are different and you defined function name as getFullName and you are calling it with <br>GetFullName and they both are different.. I hope you got it now."
+	}
+]

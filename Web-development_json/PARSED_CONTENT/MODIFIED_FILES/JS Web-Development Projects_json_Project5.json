@@ -1,0 +1,84 @@
+[
+  {
+    "component": "text",
+    "value": "Project5_key1"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key2"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key3"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/Web-development_json/images/calculator_pic.png",
+    "alt": "Project5_key4"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key5"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key6"
+  },
+  {
+    "component": "image",
+    "value": "https://merakilearn.s3.ap-south-1.amazonaws.com/course_images/Web-development_json/images/how_to_add_script.png",
+    "alt": "Project5_key7"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key8"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key9"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key10"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key11",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project5_key12",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project5_key13"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key14",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project5_key15",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "Project5_key16"
+  },
+  {
+    "component": "text",
+    "value": "Project5_key17"
+  }
+]

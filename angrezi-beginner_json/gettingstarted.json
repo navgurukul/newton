@@ -1,0 +1,26 @@
+[
+	{
+		"component": "text",
+		"value": "Let's begin with English learning!"
+	},
+	{
+		"component": "text",
+		"value": "Before anything else, please install the following extensions in your Google Chrome browser."
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en\">Grammarly</a>This extension will help you in writing English with correct grammar, spellings and without any mistakes.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja?hl=en\">Dictionary</a>Dictionary will help you in knowing the meaning of any word instantly.",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	}
+]

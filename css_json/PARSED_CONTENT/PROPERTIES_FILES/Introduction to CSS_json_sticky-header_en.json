@@ -1,0 +1,7 @@
+{
+	"sticky-header_key1": "Part XIII - Sticky Header",
+	"sticky-header_key2": "Iss <a href=\"http://abhishekgupta92.github.io/equality10\">exercise</a> mein,  hum ek facebook par jaisa header hota hai, uski tarah kaam karne wala\nek header banayenge.",
+	"sticky-header_key3": "Header yaani jo head (yaani top) par hota hai. Aapko ye dhyan dena hain ki jab hum neeche jaaye (yaani ki page ko scroll kare) <span style=\"\">tab</span> apka header hilna<br>nahi chahiye. Dhyaan de, facebook ka bhi header aise hi hai. Aise header ko <b>sticky header</b> bolte hai kyuki, yeh header top se stick kar jaata hai.",
+	"sticky-header_key4": "<i>Assignment karne se pehle, yeh concepts padho aur samjho:</i>",
+	"sticky-header_key5": "Position (static, fixed, absolute) <a href=\"http://www.w3schools.com/css/css_positioning.asp\">en</a>, hi"
+}

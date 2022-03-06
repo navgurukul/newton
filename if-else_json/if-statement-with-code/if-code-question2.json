@@ -1,0 +1,29 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "text",
+		"value": "You have a <span style=\"\">variable</span> called <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> with the value as shown:-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "varx = 300 - 123"
+	},
+	{
+		"component": "text",
+		"value": "Create a flowchart to take a number as <span style=\"\">input</span> from the user. Convert this <span style=\"\">input</span> to <span style=\"\">integer</span>. Check if it is equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span>. "
+	},
+	{
+		"component": "text",
+		"value": "If the number is equal to <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span>, print <b>\"Equal\"</b> else print <b>\"Not equal\"</b>."
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Upload</span> the flowchart as well as <span style=\"\">python</span> <span style=\"\">file</span>."
+	}
+]

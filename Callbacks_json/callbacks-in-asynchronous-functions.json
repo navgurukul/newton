@@ -1,0 +1,58 @@
+[
+	{
+		"component": "text",
+		"value": "<b>Asynchronous</b> here means that, if JavaScript needs to wait for something to complete, it will <span style=\"\">execute</span> the rest of the tasks given to it while waiting."
+	},
+	{
+		"component": "text",
+		"value": "An example of an asynchronous function is setTimeout. It takes in a callback function to <span style=\"\">execute</span> at a later time:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "function callback(){<br>   console.log(\"hi from callback after 1 second\")<br>}<br> <br>setTimeout(callback, 1000)<br> <br>Let’s see how setTimeout works if you give JavaScript another task to complete:<br> <br>const tenSecondsLater = () => console.log('10 seconds passed!')<br> <br>setTimeout(tenSecondsLater, 10000)<br><br>console.log('Start!')"
+	},
+	{
+		"component": "text",
+		"value": "In the <span style=\"\">code</span> above, JavaScript <span style=\"\">executes</span> setTimeout. Then, it waits for ten second and logs “10 seconds passed!”."
+	},
+	{
+		"component": "text",
+		"value": "Meanwhile, while waiting for setTimeout to complete in 10 seconds, JavaScript <span style=\"\">executes</span> console.log(\"Start!\")."
+	},
+	{
+		"component": "text",
+		"value": "So, this is what you’ll see if you log the above <span style=\"\">code</span>:<br>What happens:"
+	},
+	{
+		"component": "text",
+		"value": "// &gt; Start! (almost immediately)<br>// &gt;10 seconds passed! (after 10 seconds)"
+	},
+	{
+		"component": "text",
+		"value": "Ugh. Asynchronous operations sound complicated, aren’t they? But why do we use them everywhere in JavaScript?"
+	},
+	{
+		"component": "text",
+		"value": "To see why asynchronous operations are important, imagine JavaScript is a robot helper you have in your house. This helper is pretty dumb. It can only do one thing at a time. (This behavior is called single-threaded)."
+	},
+	{
+		"component": "text",
+		"value": "Let’s say you tell the robot helper to order some pizza for you. But, the robot is so dumb, that after calling the pizza house, the robots sits at your front door and waits for the pizza to be delivered. It can’t do anything else in the meantime."
+	},
+	{
+		"component": "text",
+		"value": "You can’t get it to iron clothes, mop the floor, or do anything while it’s waiting. You need to wait 20 minutes till the pizza arrives before it’s willing to do anything else…<br>(This behavior is called blocking. Other operations are blocked when you wait for something to complete)."
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "const orderPizza = flavour => {<br>   <br>   callPizzaShop(I want a ${flavour} pizza)<br>   <br>   waits20minsForPizzaToCome() // Nothing else can happen here<br>   <br>   bringPizzaToYou()<br> <br> }<br><br>orderPizza('Hawaiian')<br><br> // These two only starts after orderPizza is completed<br><br>mopFloor()<br><br>ironClothes()"
+	},
+	{
+		"component": "text",
+		"value": "Let’s explain by one more example by putting the dumb robot helper into the context of a browser. Imagine you tell it to change the color of a button when the button is clicked."
+	}
+]

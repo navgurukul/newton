@@ -1,0 +1,9 @@
+{
+	"question4_key1": "Question 4\n",
+	"question4_key2": "Define a function which takes one argument which is the limit upto which the function has to print the numbers and their label(even or odd) as shown below.\n",
+	"question4_key3": "***For example :-*** \n",
+	"question4_key4": "`Input:-` \n",
+	"question4_key5": "3\n",
+	"question4_key6": "**`Output` :-**\n",
+	"question4_key7": "0 EVEN\n1 ODD\n2 EVEN\n3 ODD\n"
+}

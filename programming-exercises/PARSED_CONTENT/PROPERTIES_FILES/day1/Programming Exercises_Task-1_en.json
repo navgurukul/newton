@@ -1,0 +1,11 @@
+{
+	"Task-1_key1": "Reading Material\n",
+	"Task-1_key2": "**10 / 3 = 3** hota hai `/` *divide* ka sign hota hai.\n",
+	"Task-1_key3": "**10 % 3 = 1** hota hai `%` modulas bolte hai joh ki ek number `10` agar hum `3`\nse divide kare toh reminder kya ayega iska yeh bata ta hai.\n",
+	"Task-1_key4": "Question\n",
+	"Task-1_key5": "Apko ek number diya jayega manlo **x** toh apko *1 se leke x* ke bich meh joh bi *number* **3 or 5** se **divisible** hai ushe *print* kardo.\n",
+	"Task-1_key6": "Test\n",
+	"Task-1_key7": "Apne program ko test karne ke liye ish `input` ko dale ke uske `output` check kare\n",
+	"Task-1_key8": "Hint\n",
+	"Task-1_key9": "**Aap ish task ko karne se phele while `loop` kese kaam karta hai aur ushe kese istamal karna hai iske bare meh padhna kafi madad karega apki yeh question karne me.**\n"
+}

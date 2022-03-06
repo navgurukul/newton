@@ -1,0 +1,38 @@
+[
+  {
+    "component": "text",
+    "value": "Question-11_key1"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key2"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key3"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key4"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key5"
+  },
+  {
+    "component": "text",
+    "value": "Question-11_key6"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "// please write code here"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "solution",
+    "value": "function add_numbers(num1,num2){<br>   console.log(num1+num2);<br>}<br>add_numbers(56,12);"
+  }
+]

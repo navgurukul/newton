@@ -1,0 +1,12 @@
+[
+	{
+		"component": "text",
+		"value": "What are the 5 punctuation characters of an console <span style=\"\">statement</span>, in order?"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "solution",
+		"value": "(“”);"
+	}
+]

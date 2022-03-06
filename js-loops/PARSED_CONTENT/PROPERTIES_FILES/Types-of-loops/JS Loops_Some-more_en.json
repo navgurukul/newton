@@ -1,0 +1,17 @@
+{
+	"Some-more_key1": "Find length of object\n",
+	"Some-more_key2": "To find the length of an object we can use builtin functions Object.`keys`() either we can use  Object.values().\n",
+	"Some-more_key3": "Example:\n",
+	"Some-more_key4": "Explanation:\n",
+	"Some-more_key5": "Object.`keys`(objectName) will give you the list of property names.\n",
+	"Some-more_key6": "So, Object.`keys`(birds) will give me the list i.e., \n",
+	"Some-more_key7": "[ 'name', 'type', 'ScientificName' ]\nAnd when we use length on it , it gives 3. hooray!.....\n",
+	"Some-more_key8": "Note:\n",
+	"Some-more_key9": "Object.`keys`(objectName) will give you the list of property names.\n",
+	"Some-more_key10": "Object.values(objectName) will give you the list of values.\n",
+	"Some-more_key11": "Example:\n",
+	"Some-more_key12": "Explanation:\n",
+	"Some-more_key13": "Object.values(objectName) will give you the list of property values.\n",
+	"Some-more_key14": "So, Object.`keys`(birds) will give me the list i.e., \n",
+	"Some-more_key15": "[ 'Bald Eagle', 'Hawk', 'HaliaeetusLeucocephalus' ]\nAnd when we use length on it , it gives 3. hooray!.....\n"
+}

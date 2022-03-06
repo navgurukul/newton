@@ -1,0 +1,175 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Practice Questions"
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What are the two values of the Boolean data type? How do you write them?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What are the three Boolean operators?",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Write out the truth tables of each Boolean operator (that is, every possible combination of Boolean values for the operator and what they evaluate to).",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What do the following expressions evaluate to?",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "(5 &gt; 4) and (3 == 5)<br>not (5 &gt; 4)<br>(5 &gt; 4) or (3 == 5)<br>not ((5 &gt; 4) or (3 == 5))<br>(<span style=\"\">True</span> and <span style=\"\">True</span>) and (<span style=\"\">True</span> == <span style=\"\">False</span>)<br>(not <span style=\"\">False</span>) or (not <span style=\"\">True</span>)<br>Q:"
+	},
+	{
+		"component": "text",
+		"value": "What are the six comparison operators?",
+		"decoration": {
+			"type": "number",
+			"value": 5
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between the equal to operator and the assignment operator?",
+		"decoration": {
+			"type": "number",
+			"value": 6
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Explain what a condition is and where you would use one.",
+		"decoration": {
+			"type": "number",
+			"value": 7
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Identify the three blocks in this code:",
+		"decoration": {
+			"type": "number",
+			"value": 8
+		}
+	},
+	{
+		"component": "text",
+		"value": "spam = 0<br>if spam == 10:<br>    print('eggs')<br>    if spam &gt; 5:<br>        print('bacon')<br>    else:<br>        print('ham')<br>    print('spam')<br>print('spam')<br>Q:"
+	},
+	{
+		"component": "text",
+		"value": "Write code that prints Hello if 1 is stored in spam, prints Howdy if 2 is stored in spam, and prints Greetings! if anything else is stored in spam.",
+		"decoration": {
+			"type": "number",
+			"value": 9
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What can you press if your program is stuck in an infinite loop?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between break and continue?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "What is the difference between range(10), range(0, 10), and range(0, 10, 1) in a for loop?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "Write a short program that prints the numbers 1 to 10 using a for loop. Then write an equivalent program that prints the numbers 1 to 10 using a while loop.",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "Q:"
+	},
+	{
+		"component": "text",
+		"value": "If you had a function named bacon() inside a module named spam, how would you call it after importing spam?",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	}
+]

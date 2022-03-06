@@ -1,0 +1,63 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Data Type</span>"
+	},
+	{
+		"component": "text",
+		"value": "A <span style=\"\">Python</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> is a sequence of <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">characters or text</span>. It handles text data. Whatever we write inside of single or double quotes is a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> in <span style=\"\">python</span>."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a= \"Hello python\"<br>b=\"Hello world\"<br>print(a)<br>print(b)"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello python</span>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello world</span>"
+	},
+	{
+		"component": "text",
+		"value": "In this example, we have taken two different <span style=\"\">variables</span> in which the value is written inside <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">double (\" \") quotes or single (' ') quotes.</span>"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a=\"hello\"<br>print(type(a))"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">str</span>"
+	},
+	{
+		"component": "text",
+		"value": "( means <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>, for checking the data type we use <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type()</span>)."
+	}
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "component": "text",
+    "value": "StringMediumQuestion3_key1"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "StringMediumQuestion3_key2"
+  }
+]

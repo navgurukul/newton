@@ -1,0 +1,223 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project: Sending Member Dues Reminder Emails"
+	},
+	{
+		"component": "text",
+		"value": "Say you have been “volunteered” to track member dues for the Mandatory Volunteerism Club. This is a truly boring job, involving maintaining a spreadsheet of everyone who has paid each month and emailing reminders to those who haven’t. Instead of going through the spreadsheet yourself and copying and pasting the same email to everyone who is behind on dues, let’s—you guessed it—write a script that does this for you."
+	},
+	{
+		"component": "text",
+		"value": "At a high level, here’s what your program will do:"
+	},
+	{
+		"component": "text",
+		"value": "Read data from an Excel spreadsheet."
+	},
+	{
+		"component": "text",
+		"value": "Find all members who have not paid dues for the latest month."
+	},
+	{
+		"component": "text",
+		"value": "Find their email addresses and send them personalized reminders."
+	},
+	{
+		"component": "text",
+		"value": "This means your <span style=\"\">code</span> will need to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Open and read the cells of an Excel document with the openpyxl module. (See Chapter 12 for working with Excel <span style=\"\">files</span>.)"
+	},
+	{
+		"component": "text",
+		"value": "Create a dictionary of members who are behind on their dues."
+	},
+	{
+		"component": "text",
+		"value": "Log in to an SMTP server by calling smtplib.SMTP(), ehlo(), starttls(), and login()."
+	},
+	{
+		"component": "text",
+		"value": "For all members behind on their dues, send a personalized reminder email by calling the sendmail() method."
+	},
+	{
+		"component": "text",
+		"value": "Open a new <span style=\"\">file</span> <span style=\"\">editor</span> window and <span style=\"\">save</span> it as sendDuesReminders.py."
+	},
+	{
+		"component": "text",
+		"value": "Step 1: Open the Excel <span style=\"\">File</span><br>Let’s say the Excel spreadsheet you use to track membership dues payments looks like Figure 16-2 and is in a <span style=\"\">file</span> named duesRecords.xlsx. You can download this <span style=\"\">file</span> from <span><a href=\"http://nostarch.com/automatestuff/\">http://nostarch.com/automatestuff/</a></span>."
+	},
+	{
+		"component": "text",
+		"value": "Figure 16-2. The spreadsheet for tracking member dues payments"
+	},
+	{
+		"component": "text",
+		"value": "This spreadsheet has every member’s name and email address. Each month has a column tracking members’ payment statuses. The cell for each member is marked with the text paid once they have paid their dues."
+	},
+	{
+		"component": "text",
+		"value": "The program will have to open duesRecords.xlsx and figure out the column for the latest month by calling the get<i>highest</i>column() method. (You can consult Chapter 12 for more information on accessing cells in Excel spreadsheet <span style=\"\">files</span> with the openpyxl module.) Enter the following <span style=\"\">code</span> into the <span style=\"\">file</span> <span style=\"\">editor</span> window:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "sendDuesReminders.py - Sends emails based on payment status in spreadsheet."
+	},
+	{
+		"component": "text",
+		"value": "import openpyxl, smtplib, sys"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Open the spreadsheet and get the latest dues status."
+	},
+	{
+		"component": "text",
+		"value": "❶ wb = openpyxl.load<i>workbook('duesRecords.xlsx')<br>❷ sheet = wb.get</i>sheet<i>by</i>name('Sheet1')"
+	},
+	{
+		"component": "text",
+		"value": "❸ lastCol = sheet.get<i>highest</i>column()<br>❹ latestMonth = sheet.cell(row=1, column=lastCol).value"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: Check each member's payment status."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: Log in to email account."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "TODO: Send out reminder emails."
+	},
+	{
+		"component": "text",
+		"value": "After importing the openpyxl, smtplib, and sys modules, we open our duesRecords.xlsx <span style=\"\">file</span> and store the resulting Workbook object in wb ❶. Then we get Sheet 1 and store the resulting Worksheet object in sheet ❷. Now that we have a Worksheet object, we can access rows, columns, and cells. We store the highest column in lastCol ❸, and we then use row number 1 and lastCol to access the cell that should hold the most recent month. We get the value in this cell and store it in latestMonth ❹."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 2: Find All Unpaid Members"
+	},
+	{
+		"component": "text",
+		"value": "Once you’ve determined the column number of the latest month (stored in lastCol), you can <span style=\"\">loop</span> through all rows after the first row (which has the column headers) to see which members have the text paid in the cell for that month’s dues. If the member hasn’t paid, you can grab the member’s name and email address from columns 1 and 2, respectively. This information will go into the unpaidMembers dictionary, which will track all members who haven’t paid in the most recent month. Add the following <span style=\"\">code</span> to sendDuesReminder.py."
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "sendDuesReminders.py - Sends emails based on payment status in spreadsheet."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Check each member's payment status.<br>   unpaidMembers = {}<br>❶ for r in range(2, sheet.get_highest_row() + 1):<br>❷     payment = sheet.cell(row=r, column=lastCol).value<br>       if payment != 'paid':<br>❸         name = sheet.cell(row=r, column=1).value<br>❹         email = sheet.cell(row=r, column=2).value<br>❺         unpaidMembers[name] = email"
+	},
+	{
+		"component": "text",
+		"value": "This <span style=\"\">code</span> sets up an empty dictionary unpaidMembers and then <span style=\"\">loops</span> through all the rows after the first ❶. For each row, the value in the most recent column is stored in payment ❷. If payment is not equal to 'paid', then the value of the first column is stored in name ❸, the value of the second column is stored in email ❹, and name and email are added to unpaidMembers ❺."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 3: Send Customized Email Reminders"
+	},
+	{
+		"component": "text",
+		"value": "Once you have a list of all unpaid members, it’s time to send them email reminders. Add the following <span style=\"\">code</span> to your program, except with your real email address and provider information:"
+	},
+	{
+		"component": "text",
+		"value": "<h1 id=\"spanstylepython3span\">! <span style=\"\">python3</span></h1>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "sendDuesReminders.py - Sends emails based on payment status in spreadsheet."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Log in to email account.<br>smtpObj = smtplib.SMTP('smtp.gmail.com', 587)<br>smtpObj.ehlo()<br>smtpObj.starttls()<br>smtpObj.login(' my_email_address@gmail.com ', sys.argv[1])"
+	},
+	{
+		"component": "text",
+		"value": "Create an SMTP object by calling smtplib.SMTP() and passing it the domain name and port for your provider. Call ehlo() and starttls(), and then call login() and pass it your email address and sys.argv[1], which will store your password <span style=\"\">string</span>. You’ll enter the password as a command line argument each time you run the program, to avoid saving your password in your source <span style=\"\">code</span>."
+	},
+	{
+		"component": "text",
+		"value": "Once your program has logged in to your email account, it should go through the unpaidMembers dictionary and send a personalized email to each member’s email address. Add the following to sendDuesReminders.py:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "sendDuesReminders.py - Sends emails based on payment status in spreadsheet."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Send out reminder emails.<br>   for name, email in unpaidMembers.items():<br>❶     body = \"Subject: %s dues unpaid.\\nDear %s,\\nRecords show that you have not<br>   paid dues for %s. Please make this payment as soon as possible. Thank you!'\" %<br>   (latestMonth, name, latestMonth)<br>❷     print('Sending email to %s...' % email)<br>❸     sendmailStatus = smtpObj.sendmail('my_email_address@gmail.com', email, body)<br><br>❹     if sendmailStatus != {}:<br>           print('There was a problem sending email to %s: %s' % (email,<br>           sendmailStatus))<br>   smtpObj.quit()"
+	},
+	{
+		"component": "text",
+		"value": "This <span style=\"\">code</span> <span style=\"\">loops</span> through the names and emails in unpaidMembers. For each member who hasn’t paid, we customize a message with the latest month and the member’s name, and store the message in body ❶. We print <span style=\"\">output</span> saying that we’re sending an email to this member’s email address ❷. Then we call sendmail(), passing it the from address and the customized message ❸. We store the return value in sendmailStatus."
+	},
+	{
+		"component": "text",
+		"value": "Remember that the sendmail() method will return a nonempty dictionary value if the SMTP server reported an <span style=\"\">error</span> sending that particular email. The last part of the for <span style=\"\">loop</span> at ❹ checks if the returned dictionary is nonempty, and if it is, prints the recipient’s email address and the returned dictionary."
+	},
+	{
+		"component": "text",
+		"value": "After the program is done sending all the emails, the quit() method is called to disconnect from the SMTP server."
+	},
+	{
+		"component": "text",
+		"value": "When you run the program, the <span style=\"\">output</span> will look something like this:"
+	},
+	{
+		"component": "text",
+		"value": "Sending email to <span><a href=\"alice@example.com\">alice@example.com…</a></span><br>Sending email to <span><a href=\"bob@example.com\">bob@example.com…</a></span><br>Sending email to <span><a href=\" eve@example.com\"> eve@example.com…</a></span><br>The recipients will receive an email that looks like Figure 16-3."
+	},
+	{
+		"component": "text",
+		"value": "Figure 16-3. An automatically sent email from sendDuesReminders.py"
+	}
+]

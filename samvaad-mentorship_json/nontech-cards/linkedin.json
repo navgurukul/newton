@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "LinkedIn Pro<span style=\"\">file</span>"
+	},
+	{
+		"component": "text",
+		"value": "How to increase connections",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "How to expand network",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Which influencers to follow",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Recommendations and Endorsements",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Joining groups",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

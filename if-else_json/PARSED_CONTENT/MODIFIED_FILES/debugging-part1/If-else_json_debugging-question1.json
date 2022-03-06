@@ -1,0 +1,21 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "debugging-question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question1_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "print(\"We will learn debugging by removing all the errors from this python file.\")"
+  },
+  {
+    "component": "text",
+    "value": "debugging-question1_key3"
+  }
+]

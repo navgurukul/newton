@@ -1,0 +1,8 @@
+{
+	"arrays-intro_key1": "Explain what is array and how to declare an array like a bag of items",
+	"arrays-intro_key2": "Explain the concept of indexing and accessing different elements in array",
+	"arrays-intro_key3": "Displaying length of array using list.length property",
+	"arrays-intro_key4": "//Concept of arrays and iteration over them<br>var taskList = ['Teach students', 'Cook Food', 'Study', 'Give interview'];",
+	"arrays-intro_key5": "//explaining concept of indexing<br>console.log(taskList[0]);<br>//------------------------",
+	"arrays-intro_key6": "//Explaining length of arrays<br>console.log(taskList.length);"
+}

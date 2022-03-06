@@ -1,0 +1,288 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Project: Generating Random Quiz <span style=\"\">Files</span>"
+	},
+	{
+		"component": "text",
+		"value": "Say you’re a geography teacher with 35 students in your class and you want to give a pop quiz on US state capitals. Alas, your class has a few bad eggs in it, and you can’t trust the students not to cheat. You’d like to randomize the order of questions so that each quiz is unique, making it impossible for anyone to crib answers from anyone else. Of course, doing this by hand would be a lengthy and boring affair. Fortunately, you know some <span style=\"\">Python</span>."
+	},
+	{
+		"component": "text",
+		"value": "Here is what the program does:"
+	},
+	{
+		"component": "text",
+		"value": "Creates 35 different quizzes."
+	},
+	{
+		"component": "text",
+		"value": "Creates 50 multiple-choice questions for each quiz, in random order."
+	},
+	{
+		"component": "text",
+		"value": "Provides the correct answer and three random wrong answers for each question, in random order."
+	},
+	{
+		"component": "text",
+		"value": "Writes the quizzes to 35 text <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "Writes the answer <span style=\"\">keys</span> to 35 text <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "This means the <span style=\"\">code</span> will need to do the following:"
+	},
+	{
+		"component": "text",
+		"value": "Store the states and their capitals in a dictionary."
+	},
+	{
+		"component": "text",
+		"value": "Call open(), write(), and close() for the quiz and answer <span style=\"\">key</span> text <span style=\"\">files</span>."
+	},
+	{
+		"component": "text",
+		"value": "Use random.shuffle() to randomize the order of the questions and multiple-choice options."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 1: Store the Quiz Data in a Dictionary"
+	},
+	{
+		"component": "text",
+		"value": "The first step is to create a skeleton script and fill it with your quiz data. Create a <span style=\"\">file</span> named randomQuizGenerator.py, and make it look like the following:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "randomQuizGenerator.py - Creates quizzes with questions and answers in"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "random order, along with the answer <span style=\"\">key</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "❶ import random<br><br>   # The quiz data. Keys are states and values are their capitals.<br>❷ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix',<br>   'Arkansas': 'Little Rock', 'California': 'Sacramento', 'Colorado': 'Denver',<br>   'Connecticut': 'Hartford', 'Delaware': 'Dover', 'Florida': 'Tallahassee',<br>   'Georgia': 'Atlanta', 'Hawaii': 'Honolulu', 'Idaho': 'Boise', 'Illinois':<br>   'Springfield', 'Indiana': 'Indianapolis', 'Iowa': 'Des Moines', 'Kansas':<br>   'Topeka', 'Kentucky': 'Frankfort', 'Louisiana': 'Baton Rouge', 'Maine':<br>   'Augusta', 'Maryland': 'Annapolis', 'Massachusetts': 'Boston', 'Michigan':<br>   'Lansing', 'Minnesota': 'Saint Paul', 'Mississippi': 'Jackson', 'Missouri':<br>   'Jefferson City', 'Montana': 'Helena', 'Nebraska': 'Lincoln', 'Nevada':<br>   'Carson City', 'New Hampshire': 'Concord', 'New Jersey': 'Trenton', 'New'<br>   Mexico': 'Santa Fe', 'New York': 'Albany', 'North Carolina': 'Raleigh','<br>   'North Dakota': 'Bismarck', 'Ohio': 'Columbus', 'Oklahoma': 'Oklahoma City',<br>   'Oregon': 'Salem', 'Pennsylvania': 'Harrisburg', 'Rhode Island': 'Providence',<br>   'South Carolina': 'Columbia', 'South Dakota': 'Pierre', 'Tennessee':<br>   'Nashville', 'Texas': 'Austin', 'Utah': 'Salt Lake City', 'Vermont':<br>   'Montpelier', 'Virginia': 'Richmond', 'Washington': 'Olympia', 'West'<br>   Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}'<br><br>   # Generate 35 quiz files.<br>❸ for quizNum in range(35):<br>       # TODO: Create the quiz and answer key files.<br><br>       # TODO: Write out the header for the quiz.<br><br>       # TODO: Shuffle the order of the states.<br><br>       # TODO: Loop through all 50 states, making a question for each."
+	},
+	{
+		"component": "text",
+		"value": "Since this program will be randomly ordering the questions and answers, you’ll need to import the random module ❶ to make use of its functions. The capitals <span style=\"\">variable</span> ❷ contains a dictionary with US states as <span style=\"\">keys</span> and their capitals as values. And since you want to create 35 quizzes, the <span style=\"\">code</span> that actually generates the quiz and answer <span style=\"\">key</span> <span style=\"\">files</span> (marked with TODO comments for now) will go inside a for <span style=\"\">loop</span> that <span style=\"\">loops</span> 35 times ❸. (This number can be changed to generate any number of quiz <span style=\"\">files</span>.)"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 2: Create the Quiz <span style=\"\">File</span> and Shuffle the Question Order"
+	},
+	{
+		"component": "text",
+		"value": "Now it’s time to start filling in those TODOs."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">code</span> in the <span style=\"\">loop</span> will be repeated 35 times—once for each quiz—so you have to worry about only one quiz at a time within the <span style=\"\">loop</span>. First you’ll create the actual quiz <span style=\"\">file</span>. It needs to have a unique <span style=\"\">file</span>name and should also have some kind of standard header in it, with places for the student to fill in a name, date, and class period. Then you’ll need to get a list of states in randomized order, which can be used later to create the questions and answers for the quiz."
+	},
+	{
+		"component": "text",
+		"value": "Add the following lines of <span style=\"\">code</span> to randomQuizGenerator.py:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "randomQuizGenerator.py - Creates quizzes with questions and answers in"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "random order, along with the answer <span style=\"\">key</span>."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "--snip--<br><br>   # Generate 35 quiz files.<br>   for quizNum in range(35):<br>       # Create the quiz and answer key files.<br>❶     quizFile = open('capitalsquiz%s.txt' % (quizNum + 1), 'w')<br>❷     answerKeyFile = open('capitalsquiz_answers%s.txt' % (quizNum + 1), 'w')<br><br>       # Write out the header for the quiz.<br>❸     quizFile.write('Name:\\n\\nDate:\\n\\nPeriod:\\n\\n')<br>       quizFile.write((' ' * 20) + 'State Capitals Quiz (Form %s)' % (quizNum + 1))<br>       quizFile.write('\\n\\n')<br><br>       # Shuffle the order of the states.<br>       states = list(capitals.keys())<br>❹     random.shuffle(states)<br><br>       # TODO: Loop through all 50 states, making a question for each."
+	},
+	{
+		"component": "text",
+		"value": "The <span style=\"\">file</span>names for the quizzes will be capitalsquiz<N>.txt, where <N> is a unique number for the quiz that comes from quizNum, the for <span style=\"\">loop</span>’s counter. The answer <span style=\"\">key</span> for capitalsquiz<N>.txt will be stored in a text <span style=\"\">file</span> named capitalsquiz<i>answers<N>.txt. Each time through the <span style=\"\">loop</span>, the %s placeholder in 'capitalsquiz%s.txt' and 'capitalsquiz</i>answers%s.txt' will be replaced by (quizNum + 1), so the first quiz and answer <span style=\"\">key</span> created will be capitalsquiz1.txt and capitalsquiz_answers1.txt. These <span style=\"\">files</span> will be created with calls to the open() function at ❶ and ❷, with 'w' as the second argument to open them in write mode."
+	},
+	{
+		"component": "text",
+		"value": "The write() <span style=\"\">statements</span> at ❸ create a quiz header for the student to fill out. Finally, a randomized list of US states is created with the help of the random.shuffle() function ❹, which randomly reorders the values in any list that is passed to it."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Step 3: Create the Answer Options"
+	},
+	{
+		"component": "text",
+		"value": "Now you need to generate the answer options for each question, which will be multiple choice from A to D. You’ll need to create another for <span style=\"\">loop</span>—this one to generate the content for each of the 50 questions on the quiz. Then there will be a third for <span style=\"\">loop</span> nested inside to generate the multiple-choice options for each question. Make your <span style=\"\">code</span> look like the following:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "randomQuizGenerator.py - Creates quizzes with questions and answers in"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "random order, along with the answer <span style=\"\">key</span>."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "text",
+		"value": "# Loop through all 50 states, making a question for each.<br>   for questionNum in range(50):<br><br>       # Get right and wrong answers."
+	},
+	{
+		"component": "text",
+		"value": "❶         correctAnswer = capitals[states[questionNum]]<br>❷         wrongAnswers = list(capitals.values())<br>❸         del wrongAnswers[wrongAnswers.index(correctAnswer)]<br>❹         wrongAnswers = random.sample(wrongAnswers, 3)<br>❺         answerOptions = wrongAnswers + [correctAnswer]<br>❻         random.shuffle(answerOptions)"
+	},
+	{
+		"component": "text",
+		"value": "# TODO: Write the question and answer options to the quiz file.<br><br>       # TODO: Write the answer key to a file."
+	},
+	{
+		"component": "text",
+		"value": "The correct answer is easy to get—it’s stored as a value in the capitals dictionary ❶. This <span style=\"\">loop</span> will <span style=\"\">loop</span> through the states in the shuffled states list, from states[0] to states[49], find each state in capitals, and store that state’s corresponding capital in correctAnswer."
+	},
+	{
+		"component": "text",
+		"value": "The list of possible wrong answers is trickier. You can get it by duplicating all the values in the capitals dictionary ❷, deleting the correct answer ❸, and selecting three random values from this list ❹. The random.sample() function makes it easy to do this selection. Its first argument is the list you want to select from; the second argument is the number of values you want to select. The full list of answer options is the combination of these three wrong answers with the correct answers ❺. Finally, the answers need to be randomized ❻ so that the correct response isn’t always choice D."
+	},
+	{
+		"component": "text",
+		"value": "Step 4: Write Content to the Quiz and Answer <span style=\"\">Key</span> <span style=\"\">Files</span><br>All that is left is to write the question to the quiz <span style=\"\">file</span> and the answer to the answer <span style=\"\">key</span> <span style=\"\">file</span>. Make your <span style=\"\">code</span> look like the following:"
+	},
+	{
+		"component": "text",
+		"value": "#! <span style=\"\">python3</span>"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "randomQuizGenerator.py - Creates quizzes with questions and answers in"
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "random order, along with the answer <span style=\"\">key</span>."
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "# Loop through all 50 states, making a question for each.<br>       for questionNum in range(50):<br>           --snip--<br><br>           # Write the question and the answer options to the quiz file.<br>           quizFile.write('%s. What is the capital of %s?\\n' % (questionNum + 1,<br>               states[questionNum]))<br>❶         for i in range(4):<br>❷             quizFile.write(' %s. %s\\n' % ('ABCD'[i], answerOptions[i]))<br>           quizFile.write('\\n')<br><br>           # Write the answer key to a file.<br>❸         answerKeyFile.write('%s. %s\\n' % (questionNum + 1, 'ABCD'[<br>              answerOptions.index(correctAnswer)]))<br>       quizFile.close()<br>       answerKeyFile.close()"
+	},
+	{
+		"component": "text",
+		"value": "A for <span style=\"\">loop</span> that goes through <span style=\"\">integers</span> 0 to 3 will write the answer options in the answerOptions list ❶. The expression 'ABCD'[i] at ❷ treats the <span style=\"\">string</span> 'ABCD' as an array and will evaluate to 'A','B', 'C', and then 'D' on each respective iteration through the <span style=\"\">loop</span>."
+	},
+	{
+		"component": "text",
+		"value": "In the final line ❸, the expression answerOptions.index(correctAnswer) will find the <span style=\"\">integer</span> index of the correct answer in the randomly ordered answer options, and 'ABCD'[answerOptions.index(correctAnswer)] will evaluate to the correct answer’s letter to be written to the answer <span style=\"\">key</span> <span style=\"\">file</span>."
+	},
+	{
+		"component": "text",
+		"value": "After you run the program, this is how your capitalsquiz1.txt <span style=\"\">file</span> will look, though of course your questions and answer options may be different from those shown here, depending on the outcome of your random.shuffle() calls:"
+	},
+	{
+		"component": "text",
+		"value": "Name:"
+	},
+	{
+		"component": "text",
+		"value": "Date:"
+	},
+	{
+		"component": "text",
+		"value": "Period:"
+	},
+	{
+		"component": "text",
+		"value": "State Capitals Quiz (Form 1)"
+	},
+	{
+		"component": "text",
+		"value": "What is the capital of West Virginia? A. Hartford B. Santa Fe C. Harrisburg D. Charleston",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "What is the capital of Colorado? A. Raleigh B. Harrisburg C. Denver D. Lincoln",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "--snip--<br>The corresponding capitalsquiz_answers1.txt text <span style=\"\">file</span> will look like this:"
+	},
+	{
+		"component": "text",
+		"value": "D",
+		"decoration": {
+			"type": "number",
+			"value": 1
+		}
+	},
+	{
+		"component": "text",
+		"value": "C",
+		"decoration": {
+			"type": "number",
+			"value": 2
+		}
+	},
+	{
+		"component": "text",
+		"value": "A",
+		"decoration": {
+			"type": "number",
+			"value": 3
+		}
+	},
+	{
+		"component": "text",
+		"value": "C",
+		"decoration": {
+			"type": "number",
+			"value": 4
+		}
+	},
+	{
+		"component": "text",
+		"value": "--snip--"
+	}
+]

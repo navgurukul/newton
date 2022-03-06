@@ -1,0 +1,98 @@
+[
+  {
+    "component": "text",
+    "value": "Localhost_key1"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key2"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key3"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key4"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key5"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key6"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key7"
+  },
+  {
+    "component": "youtube",
+    "value": "07cFX4rCeJg"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key8"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key9"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key10"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key11"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key12"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key13"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key14"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key15",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key16",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key17"
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key18",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "Localhost_key19",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  }
+]

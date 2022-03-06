@@ -1,0 +1,31 @@
+[
+	{
+		"component": "text",
+		"value": "Ek program likhiye jo ki dictionaries ki values ka sum print kare."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example :-"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Input</span> :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "my_dict = {<br>&emsp;  'data1':100,<br>&emsp;  'data2': -54,<br>&emsp;  'data3': 247<br>&emsp;  }"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "<span style=\"\">Output</span> :-"
+	},
+	{
+		"component": "text",
+		"value": "293"
+	}
+]

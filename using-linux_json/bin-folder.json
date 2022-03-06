@@ -1,0 +1,47 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "/usr/bin folder"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">/usr/bin</span> folder in linux isn't the <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">recycle bin</span> jo shayad aapne kabhi windows mei dekha hoga"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">bin</span> ka yaha matlab <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">binary files</span> se hota hai. jo aapke programs hai, jo <span style=\"\">execute</span> kiye ja sakte hai linux ke alawa, woh yaha par store hote hai."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "cd /usr/bin<br>ls"
+	},
+	{
+		"component": "text",
+		"value": "Dekhiye kya aapko koi familiar names dikhayi de rahe hai?"
+	},
+	{
+		"component": "text",
+		"value": "Iss folder mei jo bhi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">executable</span> <span style=\"\">files</span> hongi, woh aap kahi se bhi sirf uss <span style=\"\">file</span> ka naam likh kar <span style=\"\">execute</span> kar sakte ho. Hum aage aisa ek program banayenge."
+	},
+	{
+		"component": "text",
+		"value": "Aise hi"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "cd /bin<br>ls"
+	},
+	{
+		"component": "text",
+		"value": "ke contents ko samajh kar, observe kariye, ki kya contents hai, aur in mei se koi <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">commands/programs/executables</span> aapne kabhi use kiye hai kya?"
+	},
+	{
+		"component": "text",
+		"value": "Note:<br>Jo bhi <span style=\"\">file</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">executable</span> hogi, uss <span style=\"\">file</span> ki permission mei aapko 'x' character dikhega <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ls -l</span> karnei par."
+	}
+]

@@ -1,0 +1,152 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Assessment process - Stage wise"
+	},
+	{
+		"component": "text",
+		"value": "<b>Online Maths Test</b> "
+	},
+	{
+		"component": "text",
+		"value": "Basic Maths test of 10th class level which can be given on smartphone/laptop",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "2 hours test of 36 marks with the passing cutoff of 13 marks for females &amp; 15 for Male students",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "The test paper is in Hindi and English",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "You can reappear for the test multiple times",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "[Sample Paper]​(https://www.merakilearn.org/course/92/exercise/4292)",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>English Interview</b> "
+	},
+	{
+		"component": "text",
+		"value": "Telephonic interview of 30 minutes after you pass the online test",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "The interviewer will call you in the scheduled time slot",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "The questions are more around introduction etc ( ‘Tell me about yourself, ‘Tell me about your hobby/best friend’, ‘Read a paragraph in English’ etc.)​ ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Algebra Interview round</b>"
+	},
+	{
+		"component": "text",
+		"value": "1-hour Interview on WhatsApp video call after clearing the above 2 rounds",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Basic linear algebra concepts where you have to explain the method to solve the problem",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Learn more about the <a href=\"https://drive.google.com/drive/folders/1LBsx2TVBPRa20ALfAiJ0RKd2WINO4tBG?usp=sharing\">Algebra Concepts</a> asked in the interview",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Culture Fit round</b>"
+	},
+	{
+		"component": "text",
+		"value": "30 min telephonic conversation on NG culture and social issues",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Just be yourself and honest :) ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Offer Letter</b>"
+	},
+	{
+		"component": "text",
+		"value": "We will share the Offer Letter (Joining Letter), Forms/Undertaking to sign, Campus details, List of things to pack for the campus to you on your Email ID",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Make sure you bring the required documents signed while coming to campus ",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "<b>Planning Logistics</b>"
+	},
+	{
+		"component": "text",
+		"value": "We will talk to your parents (if required) and assist you in planning your visit"
+	},
+	{
+		"component": "text",
+		"value": "<b>Contacts</b>"
+	},
+	{
+		"component": "text",
+		"value": "To know more about the program, do visit us at <a href=\"https://navgurukul.org/\">Navgurukul website</a>"
+	},
+	{
+		"component": "text",
+		"value": "You can also call one of our team members Nitesh at +918962158723"
+	}
+]

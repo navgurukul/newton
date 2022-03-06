@@ -1,0 +1,70 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "controlling-the-browser-with-the-selenium-module_key1"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key2"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "controlling-the-browser-with-the-selenium-module_key4"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key5"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> from selenium import webdriver<br>>>> browser = webdriver.Firefox()<br>>>> type(browser)"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> browser.get('http://inventwithpython.com')"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "<<<<<<< HEAD"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "======="
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>>>>>> e7c92b8136151bdc6c9b42ea47eaf1dc7cfdbe70"
+  },
+  {
+    "component": "text",
+    "value": "controlling-the-browser-with-the-selenium-module_key9"
+  }
+]

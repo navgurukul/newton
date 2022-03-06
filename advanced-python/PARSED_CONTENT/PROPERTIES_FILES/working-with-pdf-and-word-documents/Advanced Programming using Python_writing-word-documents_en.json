@@ -1,0 +1,14 @@
+{
+	"writing-word-documents_key1": "Writing Word Documents\n",
+	"writing-word-documents_key2": "Enter the following into the interactive `shell`:\n",
+	"writing-word-documents_key3": "To create your own .docx `file`, call docx.Document() to return a new, blank Word Document object. The add_paragraph() document method adds a new paragraph of text to the document and returns a reference to the Paragraph object that was added. When you’re done adding text, pass a `file`name `string` to the `save`() document method to `save` the Document object to a `file`.\n",
+	"writing-word-documents_key4": "This will create a `file` named helloworld.docx in the current working directory that, when opened, looks like Figure 13-8.\n",
+	"writing-word-documents_key5": " -->\nFigure 13-8. The Word document created using add_paragraph('Hello world!')\n",
+	"writing-word-documents_key6": "You can add paragraphs by calling the add_paragraph() method again with the new paragraph’s text. Or to add text to the end of an existing paragraph, you can call the paragraph’s add_run() method and pass it a `string`. Enter the following into the interactive `shell`:\n",
+	"writing-word-documents_key7": "The resulting document will look like Figure 13-9. Note that the text This text is being added to the second paragraph. was added to the Paragraph object in paraObj1, which was the second paragraph added to doc. The add_paragraph() and add_run() functions return paragraph and Run objects, respectively, to `save` you the trouble of extracting them as a separate step.\n",
+	"writing-word-documents_key8": "Keep in mind that as of `Python`-Docx version 0.5.3, new Paragraph objects can be added only to the end of the document, and new Run objects can be added only to the end of a Paragraph object.\n",
+	"writing-word-documents_key9": "The `save`() method can be called again to `save` the additional changes you’ve made.\n",
+	"writing-word-documents_key10": " -->\nFigure 13-9. The document with multiple Paragraph and Run objects added\n",
+	"writing-word-documents_key11": "Both add_paragraph() and add_run() accept an optional second argument that is a `string` of the Paragraph or Run object’s style. For example:\n",
+	"writing-word-documents_key12": "This line adds a paragraph with the text Hello world! in the Title style.\n"
+}

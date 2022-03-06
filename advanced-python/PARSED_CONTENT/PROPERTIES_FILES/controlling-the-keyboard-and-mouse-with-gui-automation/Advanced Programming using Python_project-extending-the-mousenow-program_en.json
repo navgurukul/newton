@@ -1,0 +1,9 @@
+{
+	"project-extending-the-mousenow-program_key1": "Project: Extending the mouseNow Program\n",
+	"project-extending-the-mousenow-program_key2": "You could extend the mouseNow.py project from earlier in this chapter so that it not only gives the x- and y-coordinates of the mouse cursor’s current position but also gives the RGB color of the pixel under the cursor. Modify the `code` inside the while `loop` of mouseNow.py to look like this:\n",
+	"project-extending-the-mousenow-program_key3": "#! `python3`\n",
+	"project-extending-the-mousenow-program_key4": "mouseNow.py - Displays the mouse cursor's current position.\n",
+	"project-extending-the-mousenow-program_key5": "--snip--\n        positionStr = 'X: ' + str(x).rjust(4) + ' Y: ' + str(y).rjust(4)\n",
+	"project-extending-the-mousenow-program_key6": "--snip--\nNow, when you run mouseNow.py, the `output` will include the RGB color value of the pixel under the mouse cursor.\n",
+	"project-extending-the-mousenow-program_key7": "Press Ctrl-C to quit.\nX:  406 Y:   17 RGB: (161, 50, 50)\nThis information, along with the pixelMatchesColor() function, should make it easy to add pixel color checks to your GUI automation scripts.\n"
+}

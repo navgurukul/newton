@@ -1,0 +1,32 @@
+[
+	{
+		"component": "text",
+		"value": "What will be the <span style=\"\">output</span> of the following <span style=\"\">code</span> snippet?"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = {'a':1,'b':2,'c':3}<br><br>print(a['a','b'])"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Options :-</span>"
+	},
+	{
+		"component": "text",
+		"value": "A.     <span style=\"\">Key</span> <span style=\"\">Error</span>"
+	},
+	{
+		"component": "text",
+		"value": "B.     [1,2]"
+	},
+	{
+		"component": "text",
+		"value": "C.     {‘a’:1,’b’:2}"
+	},
+	{
+		"component": "text",
+		"value": "D.     (1,2)"
+	}
+]

@@ -1,0 +1,19 @@
+{
+	"Type-Coercion_key1": "Example:",
+	"Type-Coercion_key2": "Explanation:",
+	"Type-Coercion_key3": "If you look at the <span style=\"\">variable</span> result, you may think that this <span style=\"\">variable</span> is trying to add a <span style=\"\">string</span> (navgurukul) to a number (29). But that is not the case, because you cannot add a <span style=\"\">string</span> to a number. JS in such circumstances, will convert the number 29 into the <span style=\"\">string</span> “29” and will join (or concatenate) the two <span style=\"\">strings</span>.  ",
+	"Type-Coercion_key4": "Thus the <span style=\"\">output</span> of result will be <b>navgurukul29</b>  ",
+	"Type-Coercion_key5": "Note",
+	"Type-Coercion_key6": "This auto converting of a value from one type to another — such as number to <span style=\"\">string</span> — in JS is called <b>Type Coercion</b>.  ",
+	"Type-Coercion_key7": "Example:",
+	"Type-Coercion_key8": "Explanation:",
+	"Type-Coercion_key9": "If you look at the <span style=\"\">variable</span> result, you may think that this <span style=\"\">variable</span> is trying to add a <span style=\"\">string</span> (height) to a <span style=\"\">float</span> (16.5). But that is not the case, because you cannot add a <span style=\"\">string</span> to a number. JS in such circumstances, will convert the <span style=\"\">float</span> 16.5 into the <span style=\"\">string</span> “16.5” and will join (or concatenate) the two <span style=\"\">strings</span>.  ",
+	"Type-Coercion_key10": "Thus the <span style=\"\">output</span> of result will be <b>height16.5</b>",
+	"Type-Coercion_key11": "Note",
+	"Type-Coercion_key12": "This auto converting of a value from one type to another — such as <span style=\"\">float</span> to <span style=\"\">string</span> — in JS is called Type Coercion.",
+	"Type-Coercion_key13": "Examples:",
+	"Type-Coercion_key14": "What is the output of the following code?",
+	"Type-Coercion_key15": "// <span style=\"\">Output</span> : 1",
+	"Type-Coercion_key16": "Explanation:",
+	"Type-Coercion_key17": "There is no <span style=\"\">error</span> in this following <span style=\"\">code</span>. But it will return a NaN, when a number is divided by non <span style=\"\">integer</span> so it is not able to solve the problem."
+}

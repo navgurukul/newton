@@ -1,0 +1,18 @@
+[
+	{
+		"component": "text",
+		"value": "What is the <span style=\"\">output</span> for the following <span style=\"\">code</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myFavouriteFruits = [\"Mango\", \"Orange\", \"Banana\"];<br><br>console.log(myFavouriteFruits.pop());<br>"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "solution",
+		"value": "Banana"
+	}
+]

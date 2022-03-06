@@ -1,0 +1,76 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "rgb_key1"
+  },
+  {
+    "component": "youtube",
+    "value": "GEoQDPfRNOk&feature=youtu.be"
+  },
+  {
+    "component": "youtube",
+    "value": "K9DVg2OhXFQ&feature=youtu.be"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "rgb_key2"
+  },
+  {
+    "component": "text",
+    "value": "rgb_key3"
+  },
+  {
+    "component": "text",
+    "value": "rgb_key4"
+  },
+  {
+    "component": "text",
+    "value": "rgb_key5"
+  },
+  {
+    "component": "text",
+    "value": "rgb_key6"
+  },
+  {
+    "component": "text",
+    "value": "rgb_key7",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "rgb_key8",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "rgb_key9",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "rgb_key10",
+    "decoration": {
+      "type": "number",
+      "value": 4
+    }
+  },
+  {
+    "component": "text",
+    "value": "rgb_key11",
+    "decoration": {
+      "type": "number",
+      "value": 5
+    }
+  }
+]

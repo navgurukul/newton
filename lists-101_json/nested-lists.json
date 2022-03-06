@@ -1,0 +1,43 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "LISTS within List"
+	},
+	{
+		"component": "text",
+		"value": "See this list :-"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "magic_square = [<br>&emsp;[8, 3, 4],<br>&emsp;[1, 5, 9],<br>&emsp;[6, 7, 2]<br>]<br><br>print type(magic_square)<br>print type(magic_square[0])<br>print type(magic_square[1])<br><br>print sum(magic_square[0])<br>print sum(magic_square[1])<br>print sum(magic_square[2])"
+	},
+	{
+		"component": "text",
+		"value": "See this image carefully :-"
+	},
+	{
+		"component": "image",
+		"value": "assets/nested_lists.png",
+		"alt": "nested lists"
+	},
+	{
+		"component": "text",
+		"value": "to understand that how to access elements in <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested_lists</span>."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Bonus Content"
+	},
+	{
+		"component": "text",
+		"value": "If you want to learn lists with a very strong depth, watch this video :"
+	},
+	{
+		"component": "youtube",
+		"value": "9rLdQP3g4fw"
+	}
+]

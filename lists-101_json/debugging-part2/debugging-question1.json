@@ -1,0 +1,21 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "Suppose, you have <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> in a given list. We have written a <span style=\"\">code</span> below in which we have calculated total marks as the sum of markst this. But this <span style=\"\">code</span> doesn't runs. Debug this <span style=\"\">code</span> and then submit it."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "marks = [\"10\", \"32\", \"42\", \"65\", \"67\", \"89\", \"76\", \"38\", \"67\"]<br>total_marks = 0<br>counter = 0<br>while counter < len(marks):<br>&emsp;total_marks = total_marks + marks[counter]<br>&emsp;counter = counter + 1"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the corrected <span style=\"\">code</span> in a <span style=\"\">file</span> and then <span style=\"\">upload</span> it."
+	}
+]

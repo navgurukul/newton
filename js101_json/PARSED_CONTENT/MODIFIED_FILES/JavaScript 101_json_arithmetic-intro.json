@@ -1,0 +1,20 @@
+[
+  {
+    "component": "text",
+    "value": "arithmetic-intro_key1",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "arithmetic-intro_key2",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "arithmetic-intro_key3"
+  }
+]

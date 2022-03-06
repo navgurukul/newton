@@ -1,0 +1,8 @@
+Academic_circle_or_learning_circle_key1
+Academic_circle_or_learning_circle_key2
+- Academic_circle_or_learning_circle_key3
+- Academic_circle_or_learning_circle_key4
+- Academic_circle_or_learning_circle_key5
+- Academic_circle_or_learning_circle_key6
+- Academic_circle_or_learning_circle_key7
+- Academic_circle_or_learning_circle_key8

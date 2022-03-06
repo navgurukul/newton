@@ -1,0 +1,8 @@
+{
+	"Question-12_key1": "Write a function named add_numbers_list which takes two lists as arguments and adds the same position numbers and prints the sum of them.\n",
+	"Question-12_key2": "You can use the add_numbers function to add two numbers.\n",
+	"Question-12_key3": "If we have  [50, 60, 10] and [10, 20, 13] and prints `output` like this.\n",
+	"Question-12_key4": "60\n",
+	"Question-12_key5": "80\n",
+	"Question-12_key6": "23\n"
+}

@@ -1,0 +1,14 @@
+{
+	"add_element_to_dictionary_key1": "Adding Elements to a  Dictionary:-\n",
+	"add_element_to_dictionary_key2": "In a `python` dictionary we can add only one `key` value pair at a time. To add to a dictionary we mention the `key` inside `square brackets \"[ ]\"` and use the `equal to \"=\" operator` to `assign` a value.\n",
+	"add_element_to_dictionary_key3": "Example :-\n",
+	"add_element_to_dictionary_key4": "`Output` :-\n",
+	"add_element_to_dictionary_key5": "`{'Name': 'RAM', 'Age': 17,'ORGANIZATION': 'NAVGURUKUL', 'place':'dharamsala}`\n",
+	"add_element_to_dictionary_key6": "Example :-\n",
+	"add_element_to_dictionary_key7": "`Output`:-\n",
+	"add_element_to_dictionary_key8": "`{'Name': 'RAM', 'Age': 17, 'student': {'id': 22, 'place': 'dharamsala'}}`\n",
+	"add_element_to_dictionary_key9": "`Key` Exists or not\n",
+	"add_element_to_dictionary_key10": "We use the `in` `key`word to check whether a given `key` exists or not in a dictionary.\n",
+	"add_element_to_dictionary_key11": "`Output` :-\n",
+	"add_element_to_dictionary_key12": "`Yes, 'model' is one of the keys in the this dict dictionary.`\n"
+}

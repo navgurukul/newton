@@ -1,0 +1,20 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "resignation-and-dismissal_key1"
+  },
+  {
+    "component": "text",
+    "value": "resignation-and-dismissal_key2"
+  },
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "resignation-and-dismissal_key3"
+  },
+  {
+    "component": "text",
+    "value": "resignation-and-dismissal_key4"
+  }
+]

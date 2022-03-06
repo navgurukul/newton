@@ -1,0 +1,139 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Counter Examples</span>"
+	},
+	{
+		"component": "text",
+		"value": "In this section, some examples are given. You need to understand these examples very carefully, to figure out how they work? You have to do a <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dry run</span> of each of the examples and notice that how the dry run works."
+	},
+	{
+		"component": "text",
+		"value": "You can also add some more examples as comments so that your, as well as your peer's concept, becomes clear."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 1"
+	},
+	{
+		"component": "text",
+		"value": "You have to print multiples of 3 from 1 to 40. While writing the <span style=\"\">code</span> keep in mind that the counter starts from 891."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Solution to Example 1"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 891<br>while i < 931:<br>  z = i - 890<br>  if z % 3 == 0:<br>&emsp;print(z)<br>  i = i + 1"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 2"
+	},
+	{
+		"component": "text",
+		"value": "Write a <span style=\"\">code</span> to print all the multiples of 5 from 1 to 50. But you don't need to use % (modulus <span style=\"\">operator</span>). Do without it."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Solution to Example 2"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 0<br>while i <= 50:<br>  if i != 0:<br>&emsp;print(i)<br>  i = i + 5"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Example 3"
+	},
+	{
+		"component": "text",
+		"value": "Print all the odd numbers between 50 to 100."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Solution 1 to Example 3"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 49<br>while i <= 98:<br>  i = i + 2<br>  print(i)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution 2 to Example 3"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 50<br>while i <= 100:<br>  if i % 2 != 0:<br>&emsp;print(i)<br>  i = i + 1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution 3 to Example 3"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "i = 400<br>while i >= 350:<br>  z = i - 300<br>  if z % 2 != 0:<br>&emsp;  print(z)<br>  i = i - 1"
+	},
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Example 4"
+	},
+	{
+		"component": "text",
+		"value": "Print the numbers from 1 to 10 without using increment."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution 1 to Example 4"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = -1<br>while a >= (-10):<br>  print(-a)<br>  a = a -1"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution 2 to Example 4"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = 1 <br>while a <= 10:<br>  print (a)<br>  a = a-(-1)"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Solution 3 to Example 4"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "a = 1<br>while a !=11:<br>  print(a)<br>  a-=-1"
+	}
+]

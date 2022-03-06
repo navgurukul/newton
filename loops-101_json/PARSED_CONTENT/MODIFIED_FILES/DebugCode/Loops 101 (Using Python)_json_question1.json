@@ -1,0 +1,17 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "question1_key1"
+  },
+  {
+    "component": "text",
+    "value": "question1_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "index = 1<br>while(index < 10):<br>&emsp;print(index)<br>&emsp;index = index + 1"
+  }
+]

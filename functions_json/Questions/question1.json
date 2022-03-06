@@ -1,0 +1,35 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 1"
+	},
+	{
+		"component": "text",
+		"value": "Create a funciton named eligible<i>for</i>vote which tell the user if he/she is eligible to vote or not.( Consider minimum age of voting to be 18. )"
+	},
+	{
+		"component": "text",
+		"value": "<b><i>Example:-</i></b>"
+	},
+	{
+		"component": "text",
+		"value": "If user's age is less than 18 , print <b><i>“not eligible “</i></b>,else if user's age is greater than or equal to 18, print <b><i>“you are eligible”</i></b>"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>"
+	},
+	{
+		"component": "text",
+		"value": "18<br>16"
+	},
+	{
+		"component": "text",
+		"value": "<b><span style=\"\">Output</span> :-</b>"
+	},
+	{
+		"component": "text",
+		"value": "“you are eligible”<br>“not eligible”"
+	}
+]

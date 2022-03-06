@@ -1,0 +1,32 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Treasurer"
+	},
+	{
+		"component": "text",
+		"value": "Responsibilities:"
+	},
+	{
+		"component": "text",
+		"value": "Creating the budget on a monthly basis",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Monitoring all spending and ensure that it stays within the budget",
+		"decoration": {
+			"type": "bullet"
+		}
+	},
+	{
+		"component": "text",
+		"value": "Ensuring that a record is maintained for all expenses and is reported to the Board of Governors",
+		"decoration": {
+			"type": "bullet"
+		}
+	}
+]

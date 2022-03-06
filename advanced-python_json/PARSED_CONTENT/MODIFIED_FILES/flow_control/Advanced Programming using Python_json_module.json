@@ -1,0 +1,101 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "module_key1"
+  },
+  {
+    "component": "text",
+    "value": "module_key2"
+  },
+  {
+    "component": "text",
+    "value": "module_key3"
+  },
+  {
+    "component": "text",
+    "value": "module_key4",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "module_key5",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "module_key6",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "module_key7"
+  },
+  {
+    "component": "text",
+    "value": "module_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import random<br>for i in range(5):<br>    print(random.randint(1, 10))"
+  },
+  {
+    "component": "text",
+    "value": "module_key9"
+  },
+  {
+    "component": "text",
+    "value": "module_key10"
+  },
+  {
+    "component": "text",
+    "value": "module_key11"
+  },
+  {
+    "component": "text",
+    "value": "module_key12"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "module_key13"
+  },
+  {
+    "component": "text",
+    "value": "module_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "module_key15"
+  },
+  {
+    "component": "text",
+    "value": "module_key16"
+  },
+  {
+    "component": "text",
+    "value": "module_key17"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import sys<br><br>while True:<br>    print('Type exit to exit.')<br>    response = input()<br>    if response == 'exit':<br>        sys.exit()<br>    print('You typed ' + response + '.')"
+  },
+  {
+    "component": "text",
+    "value": "module_key18"
+  }
+]

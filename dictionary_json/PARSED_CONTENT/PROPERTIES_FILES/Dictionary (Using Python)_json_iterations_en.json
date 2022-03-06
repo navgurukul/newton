@@ -1,0 +1,21 @@
+{
+	"iterations_key1": "Iterate through all <span style=\"\">keys</span>:-",
+	"iterations_key2": "<span style=\"\">Output</span>:-",
+	"iterations_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gujarat Maharashtra Rajasthan Bihar</span>",
+	"iterations_key4": "Iterate through all values:-",
+	"iterations_key5": "Example :-",
+	"iterations_key6": "<span style=\"\">Output</span> :-",
+	"iterations_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Gandhinagar&lt;br&gt;        Mumbai&lt;br&gt;        Jaipur&lt;br&gt;        Patna</span>",
+	"iterations_key8": "Example :-",
+	"iterations_key9": "<span style=\"\">Output</span> :-",
+	"iterations_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">17&lt;br&gt;Bijender&lt;br&gt;10th&lt;br&gt;</span>",
+	"iterations_key11": "Example :-",
+	"iterations_key12": "How to print <i><span style=\"\">keys</span></i> and <i>values</i> together from a dictionary?",
+	"iterations_key13": "<span style=\"\">Output</span> :-",
+	"iterations_key14": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">('rating', 7.5)&lt;br&gt;('hero', 'Vijay')&lt;br&gt;('name', 'Puli')&lt;br&gt;</span>",
+	"iterations_key15": "Dictionary length",
+	"iterations_key16": "We use <b>Dictionary length</b> to find the number of items/<span style=\"\">key</span> value pairs in a dictionary.",
+	"iterations_key17": "Example:-",
+	"iterations_key18": "<span style=\"\">Output</span> :-",
+	"iterations_key19": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span>"
+}

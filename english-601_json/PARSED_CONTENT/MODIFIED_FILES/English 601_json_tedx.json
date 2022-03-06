@@ -1,0 +1,63 @@
+[
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "tedx_key1"
+  },
+  {
+    "component": "text",
+    "value": "tedx_key2",
+    "decoration": {
+      "type": "number",
+      "value": 1
+    }
+  },
+  {
+    "component": "text",
+    "value": "tedx_key3",
+    "decoration": {
+      "type": "number",
+      "value": 2
+    }
+  },
+  {
+    "component": "text",
+    "value": "tedx_key4",
+    "decoration": {
+      "type": "number",
+      "value": 3
+    }
+  },
+  {
+    "component": "text",
+    "value": "tedx_key5"
+  },
+  {
+    "component": "youtube",
+    "value": "EJFVYBiE6DE"
+  },
+  {
+    "component": "youtube",
+    "value": "OV6pEGXRYZ0"
+  },
+  {
+    "component": "youtube",
+    "value": "LhGFNPTfM-k"
+  },
+  {
+    "component": "youtube",
+    "value": "sKvMxZ284AA"
+  },
+  {
+    "component": "youtube",
+    "value": "nMPqsjuXDmE"
+  },
+  {
+    "component": "youtube",
+    "value": "BE47-5Mi6d8"
+  },
+  {
+    "component": "youtube",
+    "value": "qH1HCYy1NTc"
+  }
+]

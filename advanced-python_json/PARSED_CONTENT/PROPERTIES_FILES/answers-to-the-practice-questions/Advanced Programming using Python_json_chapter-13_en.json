@@ -1,0 +1,17 @@
+{
+	"chapter-13_key1": "Chapter 13",
+	"chapter-13_key2": "A <span style=\"\">File</span> object returned from open()",
+	"chapter-13_key3": "Read-binary ('rb') for Pdf<span style=\"\">File</span>Reader() and write-binary ('wb') for Pdf<span style=\"\">File</span>Writer()",
+	"chapter-13_key4": "Calling getPage(4) will return a Page object for About This Book, since page 0 is the first page.",
+	"chapter-13_key5": "The numPages <span style=\"\">variable</span> stores an <span style=\"\">integer</span> of the number of pages in the Pdf<span style=\"\">File</span>Reader object.",
+	"chapter-13_key6": "Call decrypt('swordfish').",
+	"chapter-13_key7": "The rotateClockwise() and rotateCounterClockwise() methods. The degrees to rotate is passed as an <span style=\"\">integer</span> argument.",
+	"chapter-13_key8": "docx.Document('demo.docx')",
+	"chapter-13_key9": "A document contains multiple paragraphs. A paragraph begins on a new line and contains multiple runs. Runs are contiguous groups of characters within a paragraph.",
+	"chapter-13_key10": "Use doc.paragraphs.",
+	"chapter-13_key11": "A Run object has these <span style=\"\">variables</span> (not a Paragraph).",
+	"chapter-13_key12": "<span style=\"\">True</span> always makes the Run object bolded and <span style=\"\">False</span> makes it always not bolded, no matter what the style’s bold setting is. None will make the Run object just use the style’s bold setting.",
+	"chapter-13_key13": "Call the docx.Document() function.",
+	"chapter-13_key14": "doc.add_paragraph('Hello there!')",
+	"chapter-13_key15": "The <span style=\"\">integers</span> 0, 1, 2, 3, and 4"
+}

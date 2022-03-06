@@ -1,0 +1,13 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "chmod_key1"
+  },
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "touch random.txt            # random.txt naam ki file create karo<br>ls -l random.txt            # random.txt file ki permissions dekho<br><br>chmod 755 random.txt<br>ls -l random.txt<br><br>chmod g+w random.txt<br>ls -l random.txt<br><br>chmod o+x random.txt<br>ls -l random.txt<br><br>chmod g-r random.txt<br>ls -l random.txt"
+  }
+]

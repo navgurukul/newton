@@ -1,0 +1,12 @@
+{
+	"Question19_key1": "Kitne Crorepati?\n",
+	"Question19_key2": "var kitna_paisa_hai = [3000, 600000, 324990909, 90990900, 30000, 5600000, 690909090, 31010101, 532010, 510, 4100]\n",
+	"Question19_key3": "Who has the  more than 1 crore or equal to 1 crore called Crorepati hain.\n",
+	"Question19_key4": "Who has the  more than 1 lakh or equal to 1 lakh called Lakhpati hain.\n",
+	"Question19_key5": "Who has less than 1 lakh they are called as Dilwale hain.\n",
+	"Question19_key6": "You have to print Count of crorepati, Count of lakhpati, Count of Dilwale\n",
+	"Question19_key7": "`Output`:\n",
+	"Question19_key8": "4 Crorepati hai\n",
+	"Question19_key9": "3 Lakhpati hai\n",
+	"Question19_key10": "4 Dilwale hai\n"
+}

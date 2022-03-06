@@ -1,0 +1,15 @@
+{
+	"review-of-regex-symbols_key1": "Review of Regex Symbols",
+	"review-of-regex-symbols_key2": "This chapter covered a lot of notation, so here’s a quick review of what you learned:",
+	"review-of-regex-symbols_key3": "The ? matches zero or one of the preceding group.",
+	"review-of-regex-symbols_key4": "The * matches zero or more of the preceding group.",
+	"review-of-regex-symbols_key5": "The + matches one or more of the preceding group.",
+	"review-of-regex-symbols_key6": "The {n} matches exactly n of the preceding group.",
+	"review-of-regex-symbols_key7": "The {n,} matches n or more of the preceding group.",
+	"review-of-regex-symbols_key8": "The {,m} matches 0 to m of the preceding group.",
+	"review-of-regex-symbols_key9": "The {n,m} matches at least n and at most m of the preceding group.",
+	"review-of-regex-symbols_key10": "{n,m}? or *? or +? performs a nongreedy match of the preceding group.<br>^spam means the <span style=\"\">string</span> must begin with spam.<br>spam$ means the <span style=\"\">string</span> must end with spam.<br>The . matches any character, except newline characters.<br>\\d, \\w, and \\s match a digit, word, or space character, respectively.<br>\\D, \\W, and \\S match anything except a digit, word, or space character, respectively.<br>[abc] matches any character between the brackets (such as a, b, or c).<br>[^abc] matches any character that isn’t between the brackets.                                                                                                                                                                                                                                                                                       ",
+	"review-of-regex-symbols_key11": "Case-Insensitive Matching",
+	"review-of-regex-symbols_key12": "Normally, regular expressions match text with the exact casing you specify. For example, the following regexes match completely different <span style=\"\">strings</span>:",
+	"review-of-regex-symbols_key13": "But sometimes you care only about matching the letters without worrying whether they’re uppercase or lowercase. To make your regex case-insensitive, you can pass re.IGNORECASE or re.I as a second argument to re.compile(). Enter the following into the interactive <span style=\"\">shell</span>:"
+}

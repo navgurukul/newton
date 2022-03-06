@@ -1,0 +1,69 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Reading Material"
+	},
+	{
+		"component": "text",
+		"value": "No Material"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Question"
+	},
+	{
+		"component": "text",
+		"value": "Apko ek number diya jayega aur apko ush number ke digit ke factorial ka sum nikalna hai.<br>Jese <b>2345</b> diya gaya hai apko toh iska factorial sum hoga."
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "2! + 3! + 4! + 5!<br>2 + (3*2) + (4*3*2) + (5*4*3*2)<br>152"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Test"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 1:<br>  Input: 2345<br>  Output: 14"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 2:<br>  Input:  234<br>  Output: 32"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 3:<br>  Input: 536<br>  Output: 846"
+	},
+	{
+		"component": "code",
+		"type": "other",
+		"title": "",
+		"value": "Test Case 4:<br>  Input: 99<br>  Output: 725760"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Hint"
+	},
+	{
+		"component": "text",
+		"value": "No Hints"
+	}
+]

@@ -1,0 +1,17 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Question 2"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "year = 2016<br>name = \"NavGurukul\"<br>print(name + ', ' +   + \"mein start hua tha!\")"
+	},
+	{
+		"component": "text",
+		"value": "<span style=\"\">Save</span> the correct <span style=\"\">code</span> in a new <span style=\"\">file</span> and submit it."
+	}
+]

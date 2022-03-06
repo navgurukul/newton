@@ -1,0 +1,69 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Passing Arguments to the Thread’s Target Function"
+	},
+	{
+		"component": "text",
+		"value": "If the target function you want to run in the new thread takes arguments, you can pass the target function’s arguments to threading.Thread(). For example, say you wanted to run this print() call in its own thread:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> print('Cats', 'Dogs', 'Frogs', sep=' & ')"
+	},
+	{
+		"component": "text",
+		"value": "Cats &amp; Dogs &amp; Frogs<br>This print() call has three regular arguments, 'Cats', 'Dogs', and 'Frogs', and one <span style=\"\">key</span>word argument, sep=' &amp; '. The regular arguments can be passed as a list to the args <span style=\"\">key</span>word argument in threading.Thread(). The <span style=\"\">key</span>word argument can be specified as a dictionary to the kwargs <span style=\"\">key</span>word argument in threading.Thread()."
+	},
+	{
+		"component": "text",
+		"value": "Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import threading<br>>>> threadObj = threading.Thread(target=print, args=['Cats', 'Dogs', 'Frogs'],<br>kwargs={'sep': ' & '})<br>>>> threadObj.start()"
+	},
+	{
+		"component": "text",
+		"value": "Cats &amp; Dogs &amp; Frogs<br>To make sure the arguments 'Cats', 'Dogs', and 'Frogs' get passed to print() in the new thread, we pass args=['Cats', 'Dogs', 'Frogs'] to threading.Thread(). To make sure the <span style=\"\">key</span>word argument sep=' &amp; ' gets passed to print() in the new thread, we pass kwargs={'sep': '&amp; '} to threading.Thread()."
+	},
+	{
+		"component": "text",
+		"value": "The threadObj.start() call will create a new thread to call the print() function, and it will pass 'Cats', 'Dogs', and 'Frogs' as arguments and ' &amp; ' for the sep <span style=\"\">key</span>word argument."
+	},
+	{
+		"component": "text",
+		"value": "This is an incorrect way to create the new thread that calls print():"
+	},
+	{
+		"component": "text",
+		"value": "threadObj = threading.Thread(target=print('Cats', 'Dogs', 'Frogs', sep=' &amp; '))<br>What this ends up doing is calling the print() function and passing its return value (print()’s return value is always None) as the target <span style=\"\">key</span>word argument. It doesn’t pass the print() function itself. When passing arguments to a function in a new thread, use the threading.Thread() function’s args and kwargs <span style=\"\">key</span>word arguments."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Concurrency Issues"
+	},
+	{
+		"component": "text",
+		"value": "You can easily create several new threads and have them all running at the same time. But multiple threads can also cause problems called concurrency issues. These issues happen when threads read and write <span style=\"\">variables</span> at the same time, causing the threads to trip over each other. Concurrency issues can be hard to reproduce consistently, making them hard to debug."
+	},
+	{
+		"component": "text",
+		"value": "Multithreaded programming is its own wide subject and beyond the scope of this book. What you have to keep in mind is this: To avoid concurrency issues, never let multiple threads read or write the same <span style=\"\">variables</span>. When you create a new Thread object, make sure its target function uses only local <span style=\"\">variables</span> in that function. This will avoid hard-to-debug concurrency issues in your programs."
+	},
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Note"
+	},
+	{
+		"component": "text",
+		"value": "A beginner’s tutorial on multithreaded programming is available at <span><a href=\" http://nostarch.com/automatestuff/.\"> http://nostarch.com/automatestuff/.</a></span>"
+	}
+]

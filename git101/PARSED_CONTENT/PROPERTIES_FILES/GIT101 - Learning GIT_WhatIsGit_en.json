@@ -1,0 +1,14 @@
+{
+	"WhatIsGit_key1": "Aapne computer `applications` (jaise android apps, operating systems, games etc.) use karte hue, unke versions ke naam sune honge.\n",
+	"WhatIsGit_key2": "Jaise yeh padhe:\n",
+	"WhatIsGit_key3": "Developers `application` ke har naye version ke saath user ke liye naye features introduce karte hain aur purane buggy (jisme bugs ho) features ko improve karte hain.\n",
+	"WhatIsGit_key4": "Kya aapko pata hai ki kabhi-kabhi ek `application` pe 1-100 ya usse bhi jyada developers saath mein kaam kar sakte hain!\n`Application` ke har feature ko developers pehle alag-alag aur fir saath mein test karte hain!\n",
+	"WhatIsGit_key5": "Aise mein alag-alag version ke saath aur itne saare logon ke saath, developers `application` development kaise manage karte hain??\n",
+	"WhatIsGit_key6": "Version control system `application` use karke. Version control system use karke hum `application` ke alag-alag versions aur multiple logon ke saath ek hi `application` par simultaneously kaam kar sakte hain.\n",
+	"WhatIsGit_key7": "**Git** ek version control system `application` hai.\n",
+	"WhatIsGit_key8": "**Assignment**\n",
+	"WhatIsGit_key10": "Git kya hai aur use hum kyon use karte hain? Ye janne ke liye app ",
+	"WhatIsGit_key11": "ye link",
+	"WhatIsGit_key12": " padhe.",
+	"WhatIsGit_key13": "Upar diye hue link padhne ke baad apne kisi peer ko git ke baare mein samjhaye. Samjhate hue apne peer ke doubts clear karne ki kosish karein.\n"
+}

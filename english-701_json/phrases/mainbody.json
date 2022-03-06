@@ -1,0 +1,327 @@
+[
+	{
+		"component": "header",
+		"variant": 2,
+		"value": "Useful Phrases for Main Body of the Email"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Mentioning attachments etc/ Mentioning information elsewhere"
+	},
+	{
+		"component": "text",
+		"value": "(For your reference,) please find the information/ the document/ some data/… attached.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Please see (the information/ the website/ the diagram/ the…) below (for more details/ for…).",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "If you look at the first line/ bullet point/ paragraph/ section/ page of… (below), you will see that…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "The parts in bold/ in red/ in green/… are my comments/ are my boss’s feedback/ are the changes in the second draft/ are…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’ve pasted in…. below./ I’ve copied in…. below./ I’ve put a copy of… below.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’ve attached…/ … is attached.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Here’s the… (that I promised/ that you asked for/ that I mentioned/ that…)",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "More information on this is available at http://…/ on the intranet/ in pg.. of our catalogue/…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Requests"
+	},
+	{
+		"component": "text",
+		"value": "Could you (possibly)…?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "Would you mind sending me/ …ing…?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I was wondering if you could/ if you would be able to…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’d be very grateful if you could take action in the next few days/ if you could…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’d really appreciate (some help with)…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Enquiries/ Asking for information"
+	},
+	{
+		"component": "text",
+		"value": "Could you (possibly) tell me…?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "(First of all) I’d like to know…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "My (first/ second/ third/ next/ last/ final) question is about…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I (also) have a question about…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "(If possible) I (also) need to know…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "My three (main) questions are below./ Please find my three (main) questions below.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Answering questions/ Giving information"
+	},
+	{
+		"component": "text",
+		"value": "You (also) asked us about…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "The answers to your question are below./ Please find my answers below.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "In answer to your first/ second/ third/ last question…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "To answer your question about…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Making arrangements/ Changing arrangements/ (Re) scheduling"
+	},
+	{
+		"component": "text",
+		"value": "I’d like to meet on… if you are available/ free then.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’m available on… , if that is convenient/ okay with you.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’m afraid I can’t make… (because…) How about…?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "(Due to…) I’m afraid we need to put forward/ delay/ postpone/ put back/ cancel/ call off/ reschedule/ move/ rearrange…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Making arrangements/ Changing arrangements/ (Re) scheduling"
+	},
+	{
+		"component": "text",
+		"value": "I’d like to meet on… if you are available/ free then.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’m available on… , if that is convenient/ okay with you.",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "I’m afraid I can’t make… (because…) How about…?",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "(Due to…) I’m afraid we need to put forward/ delay/ postpone/ put back/ cancel/ call off/ reschedule/ move/ rearrange…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Instructions/ Commands/ Demanding action"
+	},
+	{
+		"component": "text",
+		"value": "Just a (quick/ brief/ friendly) reminder that…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "(In future/ From now on/ From next week) please make sure that you…/ Please ensure that you…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Giving bad news"
+	},
+	{
+		"component": "text",
+		"value": "We regret to inform you that…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	},
+	{
+		"component": "text",
+		"value": "We are sorry to announce that…",
+		"decoration": {
+			"type": "number",
+			"value": null
+		}
+	}
+]

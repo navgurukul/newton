@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "outreach_key1"
+  },
+  {
+    "component": "text",
+    "value": "outreach_key2"
+  },
+  {
+    "component": "text",
+    "value": "outreach_key3",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "outreach_key4",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "outreach_key5",
+    "decoration": {
+      "type": "bullet"
+    }
+  },
+  {
+    "component": "text",
+    "value": "outreach_key6",
+    "decoration": {
+      "type": "bullet"
+    }
+  }
+]

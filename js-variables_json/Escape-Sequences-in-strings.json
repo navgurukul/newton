@@ -1,0 +1,71 @@
+[
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var string1= \"I am staying in the \\\"Sarjapur Campus\\\"\"<br>console.log(string1)<br>// output: I am staying in the \"Sarjapur Campus\"<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "See in the above example, you want double quotes to Sarjapur Campus, but because the whole <span style=\"\">string</span> is also in double quotes you can ignore double quotes that are there to Sarjapur Campus by using backslashes."
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Note:"
+	},
+	{
+		"component": "text",
+		"value": "See, when you are defining a <span style=\"\">string</span> you can use single or double quotes, but somewhere if you want literal quotes( double quotes(“ “) or single quotes(‘ ‘) ) so to fulfill that need we can use backslash() to ignore literal wherever we want."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var string1= \"I am staying in the 'Sarjapur Campus' \"<br>console.log(string1)<br><br>// output: I am staying in the 'Sarjapur Campus'<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "If you just want single quotes around Sarjapur Campus you can put the whole <span style=\"\">string</span> in double quotes and put Sarjapur Campus in single quotes. Or else vice-versa format also as shown below."
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Example:"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "var myFavPlace= 'My favourite place is \"Paris\"';<br>console.log(myFavPlace);<br><br>// output: My favourite place is 'Paris'<br>"
+	},
+	{
+		"component": "header",
+		"variant": 3,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "If you like paris more and you want to put in single quotes, you put everything in double quotes and Paris in single quotes."
+	}
+]

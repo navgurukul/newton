@@ -1,0 +1,32 @@
+[
+	{
+		"component": "text",
+		"value": "Try to print this pattern"
+	},
+	{
+		"component": "text",
+		"value": "5 5 5 5 5"
+	},
+	{
+		"component": "text",
+		"value": "4 4 4 4 4"
+	},
+	{
+		"component": "text",
+		"value": "3 3 3 3 3"
+	},
+	{
+		"component": "text",
+		"value": "2 2 2 2 2"
+	},
+	{
+		"component": "text",
+		"value": "1 1 1 1 1"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "// please write code here"
+	}
+]

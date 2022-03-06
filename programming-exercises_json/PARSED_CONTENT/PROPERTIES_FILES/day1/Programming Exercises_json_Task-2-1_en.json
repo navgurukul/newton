@@ -1,0 +1,11 @@
+{
+	"Task-2-1_key1": "Reading Material",
+	"Task-2-1_key2": "<b>Leap Year</b> har 4 saal me ek baar ahta hai aur woh bi ush saal me joh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">4 se divisible hota hai</span>. Lekin saat hi agar woh saal <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> toh ushe <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible hona padega</span> warna woh <b>Leap Year</b> nhi kehlayega.",
+	"Task-2-1_key3": "Eg:<br>  1800 <b>Leap Year</b> nhi hai kyunki yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> magar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible nhi hai</span><br>  2000 <b>Leap Year</b> hai kyunki yeh <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">100 se divisible hai</span> aur <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">400 se divisible hai</span>",
+	"Task-2-1_key4": "Question",
+	"Task-2-1_key5": "Apko ek number diya jayega apko yeh batana hai ki yeh number leap year hai yeah nhi.",
+	"Task-2-1_key6": "Test",
+	"Task-2-1_key7": "Apne program ko test karne ke liye ish <span style=\"\">input</span> ko dale ke uske <span style=\"\">output</span> check kare",
+	"Task-2-1_key8": "Hint",
+	"Task-2-1_key9": "1000 saal leap year nhi hai."
+}

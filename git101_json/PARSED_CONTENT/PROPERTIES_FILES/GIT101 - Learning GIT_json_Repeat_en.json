@@ -1,0 +1,7 @@
+{
+	"Repeat_key1": "Apne abhi tak ye commands seekhe hain:",
+	"Repeat_key2": "git init<br>git status<br>git add<br>(git remove)<br>git diff<br>git commit",
+	"Repeat_key3": "Apne <span style=\"\">files</span> mein changes karke aap wapas se inn commands ko use karke apne <span style=\"\">files</span> ke <i>naye version</i> ko apne git repository mein daal sakte hain.",
+	"Repeat_key4": "<b>Assignment</b>",
+	"Repeat_key5": "Apne files mein changes karke, wapas se upar diye hue commands ka use karte hue - apne file ke naye version ko git repository mein save karo."
+}

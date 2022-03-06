@@ -1,0 +1,15 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "Generate Random Numbers"
+	},
+	{
+		"component": "text",
+		"value": "Follow the link below to understand how to get random numbers. "
+	},
+	{
+		"component": "text",
+		"value": "<a href=\"https://www.w3schools.com/jsref/jsref_random.asp\">click here</a>"
+	}
+]

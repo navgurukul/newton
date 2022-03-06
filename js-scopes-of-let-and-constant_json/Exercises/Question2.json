@@ -1,0 +1,31 @@
+[
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "What is the <span style=\"\">output</span> of the following <span style=\"\">code</span>?"
+	},
+	{
+		"component": "code",
+		"type": "javascript",
+		"title": "",
+		"value": "function display(){<br>   if (true){<br>       var a=10;<br>       let b=13;<br>   }<br>    if (true){<br>       console.log(a);<br>       console.log(b);<br>   }<br>}<br>display()"
+	},
+	{
+		"component": "header",
+		"variant": 5,
+		"value": "Feedback after submit:"
+	},
+	{
+		"component": "text",
+		"value": "10<br>Reference<span style=\"\">Error</span>: b is not defined"
+	},
+	{
+		"component": "header",
+		"variant": 4,
+		"value": "Explanation:"
+	},
+	{
+		"component": "text",
+		"value": "A display named function is there, inside that we have 2 if blocks. In the first if we defined two <span style=\"\">variables</span> a and b with var and let <span style=\"\">key</span>words respectively.  After that in the second if block we are asking to print a and b.. Because var is defined inside a function, it has function scope and it is going to print its value 10, but in the case of let, let is declared in inside first if block because of let is a block scoped we are not able to access it in another if block, it given us reference <span style=\"\">error</span> b is not defined."
+	}
+]

@@ -1,0 +1,8 @@
+{
+	"question2_key1": "Iss program mein hum students ki ginti aur ek student ke kharche se hisaab se pure NavGurukul ka ek mahine ka kharcha nikalenge",
+	"question2_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> ka use kar ke do values ka <span style=\"\">input</span> lo:",
+	"question2_key3": "Number of students",
+	"question2_key4": "Ek student ka kharcha",
+	"question2_key5": "Iss ke hisaab se total kharcha nikalein. Agar total kharcha 50000 (50 hazar) ya usse kam hai toh print karein <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"Hum budget ke andar hain\"</span> nahi toh print karo ki hum budget ke bahar hain.",
+	"question2_key6": "<i>Note: Inn exercises mein aapko <span style=\"\">variables</span> ke naam apne aap soch kar likhne hain</i>"
+}

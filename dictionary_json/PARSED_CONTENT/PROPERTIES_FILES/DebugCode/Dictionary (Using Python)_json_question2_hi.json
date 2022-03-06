@@ -1,0 +1,4 @@
+{
+    "question2_key1": "प्रश्न 2",
+    "question2_key2": "आप एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> जिसमें आप सभी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">keys</span> की <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum</span> खोजने के लिए दिया गया है। आपको <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> यह <span style=\"\">code</span> और पता लगाना है कि आप <span style=\"\">output</span> को 14 के रूप में कैसे प्राप्त कर सकते हैं।"
+}

@@ -1,0 +1,11 @@
+{
+	"Question-21_key1": "Write a function that takes 2 <span style=\"\">strings</span> as parameters and prints whose length is bigger, if both lengths are equal print two <span style=\"\">strings</span>.",
+	"Question-21_key2": "Hint :Use len() builtin function.",
+	"Question-21_key3": "<span style=\"\">Input</span>:",
+	"Question-21_key4": "is<i>equal</i>lenth(“hello”,”welcome”)",
+	"Question-21_key5": "is<i>equal</i>lenth(“sonu”,”monu”)",
+	"Question-21_key6": "<span style=\"\">Output</span> :",
+	"Question-21_key7": "welcome",
+	"Question-21_key8": "sonu",
+	"Question-21_key9": "Monu"
+}

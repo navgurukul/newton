@@ -1,0 +1,92 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key1"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = {'name': 'Zophie', 'age': 7}<br>>>> 'name' in spam.keys()<br>True<br>>>> 'Zophie' in spam.values()<br>True<br>>>> 'color' in spam.keys()<br>False<br>>>> 'color' not in spam.keys()<br>True<br>>>> 'color' in spam<br>False"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key4"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key5"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> picnicItems = {'apples': 5, 'cups': 2}<br>>>> 'I am bringing ' + str(picnicItems.get('cups', 0)) + ' cups.'<br>'I am bringing 2 cups.'<br>>>> 'I am bringing ' + str(picnicItems.get('eggs', 0)) + ' eggs.'<br>'I am bringing 0 eggs.'"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> picnicItems = {'apples': 5, 'cups': 2}<br>>>> 'I am bringing ' + str(picnicItems['eggs']) + ' eggs.'<br>Traceback (most recent call last):<br>  File \"<pyshell#34>\", line 1, in <module><br>    'I am bringing ' + str(picnicItems['eggs']) + ' eggs.'<br>KeyError: 'eggs'<br>The setdefault() Method"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key8"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "spam = {'name': 'Pooka', 'age': 5}<br>if 'color' not in spam:<br>    spam['color'] = 'black'"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> spam = {'name': 'Pooka', 'age': 5}<br>>>> spam.setdefault('color', 'black')<br>'black'<br>>>> spam<br>{'color': 'black', 'age': 5, 'name': 'Pooka'}<br>>>> spam.setdefault('color', 'white')<br>'black'<br>>>> spam<br>{'color': 'black', 'age': 5, 'name': 'Pooka'}"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key10"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "message = 'It was a bright cold day in April, and the clocks were striking thirteen.'<br>count = {}<br><br>for character in message:<br>    count.setdefault(character, 0)<br>    count[character] = count[character] + 1<br><br>print(count)"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key12"
+  },
+  {
+    "component": "text",
+    "value": "checking-whether-a-key-or-value-exists-in-a-dictionary_key13"
+  }
+]

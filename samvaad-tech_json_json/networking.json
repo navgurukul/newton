@@ -1,0 +1,178 @@
+[
+	{
+		"component": "text",
+		"value": "[<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 2,<br>        \"value\": \"Do log ko mil kar sabse pehle yeh videos dekhni hai\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"L1i8RiqHakU\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"Dxcc6ycZ73M\"<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"ZhEf7e4kopM\"<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 3,<br>        \"value\": \"Ab aapko 30 mins ke liye aapas mei &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  english\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "mei baat karni hai.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Baat karte karte, aap observe karein, ki aap kitne tech words use kar paa rahe hai.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Aur agar aapka partner koi aisa tech word bolta hai, jo aapko nahi pata, ya aap generally use nahi kartein. Inn words ko bhi samajhne ki phir koshish karein.\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Iss discussion ko karte hue, aap inn points ke baarein mei bhi soch sakte hai:\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"&lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  Networking\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "kya hota hai?, isse aapko kya samajh mai aaya?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 1<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Aapke &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px"
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  internet\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "shabdh sunte hi kya dimag mai aata hai?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 2<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Aap aapne phone se laptop ke beech mai kya ek network bna sakte ho kaise?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 3<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Same network pe hona or different network pe hona ka kya matlab hai?"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 4<br>        }<br>    },<br>    {<br>        \"component\": \"<span style=\"\">youtube</span>\",<br>        \"value\": \"5o8CwafCxnU\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"IP address kya hota hai?, IP address ki kya zarurat hoti hai?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 5<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"IP address real life mai kis cheez ka replacement hai?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 6<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Ek computer jo ki aapke local computer pe nahi hai, aap usse kaise baat karenge?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 7<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Upar waale process, mai kya DNS ka use aayega?\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 8<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \"Make a list ki aur kya kya naye tech shabdh hai, jinka aapne naam suna."
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": 9<br>        }<br>    },<br>    {<br>        \"component\": \"header\",<br>        \"variant\": 3,<br>        \"value\": \"For more information click on the link-\"<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \".&lt;a href="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "https://www.computerhope.com/jargon/n/network.htm\\\"&gt;Networking"
+	},
+	{
+		"component": "text",
+		"value": "</a>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "\",<br>        \"decoration\": {<br>            \"type\": \"number\",<br>            \"value\": null<br>        }<br>    },<br>    {<br>        \"component\": \"text\",<br>        \"value\": \""
+	},
+	{
+		"component": "text",
+		"value": "<b>"
+	},
+	{
+		"component": "text",
+		"value": "Tips"
+	},
+	{
+		"component": "text",
+		"value": "</b>"
+	},
+	{
+		"component": "text",
+		"value": ":"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "1 - Aap subtitles/captions on kar sakte hai, &lt;span style="
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "\\\""
+	},
+	{
+		"component": "text",
+		"value": "<blockquote>\n  <span style=\"\">YouTube</span>\n</blockquote>"
+	},
+	{
+		"component": "text",
+		"value": "</span>"
+	},
+	{
+		"component": "text",
+		"value": "Video dekhte hue"
+	},
+	{
+		"component": "text",
+		"value": "<br>"
+	},
+	{
+		"component": "text",
+		"value": "2 - Aap speed kam ya jyada kar sakte hai, video ke liye, jisse ki aap acche se dekh payein\"<br>    }<br>]"
+	}
+]

@@ -1,0 +1,11 @@
+{
+	"Difference-between-for(in)-and-for(of)_key1": "Example:\n",
+	"Difference-between-for(in)-and-for(of)_key2": "Explanation:\n",
+	"Difference-between-for(in)-and-for(of)_key3": "for (let cmp`Key` in Navgurukul) here cmp`Key` is the `variable` because of for in `loop` in cmp`Key` we will get index numbers only as 0, 1, 2 respectively.\n",
+	"Difference-between-for(in)-and-for(of)_key4": "for (let cmpValue of Navgurukul) here cmpValue is the `variable` because of for of in cmpValue we will get elements as values directly as Pune, Bangalore, Sarjapur.\n",
+	"Difference-between-for(in)-and-for(of)_key5": "Note:\n",
+	"Difference-between-for(in)-and-for(of)_key6": "For in `loop` iterates on the `keys` or indexes that are there in the list but for of `loop` will run on the values. And for in will work on objects too but for of can’t.\n",
+	"Difference-between-for(in)-and-for(of)_key7": "Explanation\n",
+	"Difference-between-for(in)-and-for(of)_key8": "for(let pro in campus) in this `code` for in can iterate on objects and in the `variable` pro we will get `keys` directly as camp_name, es`tab`lish, election and used those `keys` and got the values as Bangalore_campus, 2016, three_months respectively.\n",
+	"Difference-between-for(in)-and-for(of)_key9": "for(let pro of campus) it will give `error` because for of can't run `loop` on objects,\n"
+}

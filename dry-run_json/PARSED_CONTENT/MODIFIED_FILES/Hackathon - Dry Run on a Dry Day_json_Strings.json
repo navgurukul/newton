@@ -1,0 +1,24 @@
+[
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "my_string = [\"delhi\",\"bangalore\",\"hyderabad\"]<br>i = 0<br>string = []<br>while(i<len(my_string)):<br>    string.append(my_string[i].upper())<br>    i = i+1<br>    <br>my_string = string<br>print (my_string)"
+  },
+  {
+    "component": "text",
+    "value": "Strings_key1"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "line = \"Hey, how are you\"; <br>print line.split() <br>print line.split(' ')<br>print line.split(',')"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "my_string = 'hello world'<br>i = 0<br>while(i<len(my_string)):<br>    print (my_string)<br>    my_string = 'ng'<br>    i = i+1"
+  }
+]

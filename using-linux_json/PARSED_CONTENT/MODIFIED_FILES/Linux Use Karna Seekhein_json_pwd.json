@@ -1,0 +1,12 @@
+[
+  {
+    "component": "code",
+    "type": "other",
+    "title": "",
+    "value": "pwd"
+  },
+  {
+    "component": "text",
+    "value": "pwd_key1"
+  }
+]

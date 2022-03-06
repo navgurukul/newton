@@ -1,0 +1,6 @@
+{
+	"scope-intro_key1": "Defining variables inside/outside functions. How does it change?",
+	"scope-intro_key2": "var taskListGlobal = ['Teach students', 'Cook Food', 'Study', 'Give interview'];",
+	"scope-intro_key3": "function printList() {<br>        var taskListLocal = ['Drink milk', 'Drink water'];<br>        //taskListGlobal accessible<br>        for (var i = 0 ; i < taskListGlobal.length; i++) {<br>                console.log(taskListGlobal[i]);<br>        }        <br>}<br>printList()",
+	"scope-intro_key4": "//taskListLocal not accessible <br>//This will throw <span style=\"\">error</span>: Uncaught Reference<span style=\"\">Error</span>: taskListLocal is not defined<br>for (var i = 0 ; i < taskListLocal.length; i++) {<br>        console.log(taskListLocal[i]);<br>}"
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "component": "header",
+    "variant": 5,
+    "value": "Question2_key1"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "const fruit=’apple’<br>fruit =’mango’<br>console.log(fruit)"
+  }
+]

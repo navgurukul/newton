@@ -1,0 +1,16 @@
+{
+    "remove_element_dictionary_key1": "## शब्दकोश से तत्वों को हटाना:-\n\n\n",
+    "remove_element_dictionary_key2": " हम कई तरीकों से डिक्शनरी एलिमेंट्स को हटा सकते हैं।\nजैसा नीचे दिया गया है।\n",
+    "remove_element_dictionary_key3": "### `pop()`: -\n\n\n",
+    "remove_element_dictionary_key4": "**पॉप ( )** पद्धति का उपयोग करके हम शब्दकोश से एक निर्दिष्ट तत्व को हटा सकते हैं।\n",
+    "remove_element_dictionary_key5": "#### `Output`: -\n\n\n",
+    "remove_element_dictionary_key6": "`{'brand': 'Ford', 'year': 1964}`\n",
+    "remove_element_dictionary_key7": "### `popitem()`:-\n\n\n",
+    "remove_element_dictionary_key8": "**popitem ()** विधि अंतिम सम्मिलित आइटम को हटा देती है:\n",
+    "remove_element_dictionary_key9": "#### `Output`: -\n\n\n",
+    "remove_element_dictionary_key10": "`{'name':'jack','id':22}`\n",
+    "remove_element_dictionary_key11": "### `del`: -\n\n\n",
+    "remove_element_dictionary_key12": "**del** `key` शब्द का उपयोग करके हम शब्दकोश से एक निर्दिष्ट तत्व को हटा सकते हैं।\n",
+    "remove_element_dictionary_key13": "#### `Output`: -\n\n\n",
+    "remove_element_dictionary_key14": "`{'name':'jack','id':22}`\n"
+}

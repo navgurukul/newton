@@ -1,0 +1,7 @@
+{
+	"Question-5_key1": "Write a program to take 1 `input` and check whether given `input` exists in our object or not, if it exists print exists or else prints not exist.\n",
+	"Question-5_key2": "Example :\n",
+	"Question-5_key3": "dict={“name”:”Raju”, “marks”:56}\n",
+	"Question-5_key4": "if `input` is “name” then `output` will be “exist”\n",
+	"Question-5_key5": "If `input` is “class” then `output` will be “not exists”.\n"
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "component": "header",
+    "variant": 2,
+    "value": "functions-question1_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "functions-question1_key2"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "#write function here<br><br># Who is the founder of Facebook?<br><br># - Mark Zuckerberg<br># - Bill Gates<br># - Steve Jobs<br># - Larry Page"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "functions-question1_key5"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key6"
+  },
+  {
+    "component": "text",
+    "value": "functions-question1_key7"
+  }
+]

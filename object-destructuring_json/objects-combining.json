@@ -1,0 +1,30 @@
+[
+	{
+		"component": "text",
+		"value": "var silverScreenDetails={name:\"Chiranjeevi\",realTag:\"super star\"}<br>var realLifeDetails={realName:\"Konidela siva prasad\",oldTag:\"Mega star\"}"
+	},
+	{
+		"component": "text",
+		"value": "var allActors={…silverScreenDetails,…realLifeDetails}<br>console.log(allActors);"
+	},
+	{
+		"component": "text",
+		"value": "// {<br>//   name: 'Chiranjeevi',<br>//   realTag: 'super star',<br>//   realName: 'Konidera siva prasad',<br>//   oldTag: 'Mega star'<br>// }"
+	},
+	{
+		"component": "text",
+		"value": "Here you will combine two objects of the same person which have silver screen details and his real life details, you will get all <span style=\"\">key</span> and value pairs in a new <span style=\"\">variable</span> i.e., allActors."
+	},
+	{
+		"component": "text",
+		"value": "var silverScreenDetails={name:\"Chiranjeevi\",tag:\"super star\"}<br>var realLifeDetails={realName:\"Konidela siva prasad\",tag:\"Mega star\"}"
+	},
+	{
+		"component": "text",
+		"value": "var allActors={…silverScreenDetails,…realLifeDetails}<br>console.log(allActors);"
+	},
+	{
+		"component": "text",
+		"value": "If it has the same <span style=\"\">key</span> , you have to recognize the object didn’t have duplicate <span style=\"\">keys</span> so it won't have two properties at same time."
+	}
+]

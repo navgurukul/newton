@@ -1,0 +1,45 @@
+[
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "if (condition is true) {<br>  statement is executed<br>}"
+  },
+  {
+    "component": "text",
+    "value": "If-Statement_key1"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "If-Statement_key2"
+  },
+  {
+    "component": "text",
+    "value": "If-Statement_key3"
+  },
+  {
+    "component": "text",
+    "value": "If-Statement_key4"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "If-Statement_key5"
+  },
+  {
+    "component": "code",
+    "type": "javascript",
+    "title": "",
+    "value": "var a = 10;<br>var b = 12;<br>if(b > a){<br>  console.log( b,\" is greater than  \", a  );<br>}<br>// Output :- 12, is greater than, 10"
+  },
+  {
+    "component": "header",
+    "variant": 3,
+    "value": "If-Statement_key6"
+  },
+  {
+    "component": "text",
+    "value": "If-Statement_key7"
+  }
+]
