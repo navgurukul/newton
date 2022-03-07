@@ -8,7 +8,7 @@ Inn Videos bahut dhyaan se dekhein, aur aapas mei discuss karein. Aap subtitles 
 
 ## What are HTTP and HTML?
 
-Jasmine is Program Manager at xbox, which is one of the biggest games and entertainment companies with product like games, consoles, controllers and many more. David is the founder if Tumblr, which is a microblogging and social networking website. The service allows users to post multimedia and other content to a short-form blog. Users can follow other users' blogs. Lets hear what Jasmine and David has to say about Internet, Http, HTML and how websites work. Hope you'll enjoy it.
+Jasmine is Program Manager at xbox, which is one of the biggest games and entertainment companies with product like games, consoles, controllers and many more. David is the founder of Tumblr, which is a microblogging and social networking website. The service allows users to post multimedia and other content to a short-form blog. Users can follow other users' blogs. Lets hear what Jasmine and David has to say about Internet, Http, HTML and how websites work. Hope you'll enjoy it.
 
 @[youtube](kBXQZMmiA4s)
 
