@@ -30,7 +30,7 @@ To learn more about Json go through this @[link](https://guide.freecodecamp.org/
 
 ## What are IP addresses and DNS?
 
-Ever wondered how internet identifies from which computer to which computer data has to be send. How a computer and websites are identified uniquely on the internet. Well for this to understand you'll have to learn about IP Addresses and DNS(Domain Name System). Let's hear about these things Paula, an engineer at Microsoft and Vint Cerf, co-creator of Internet.  
+Ever wondered how internet identifies from which computer to which computer data has to be send. How a computer and websites are identified uniquely on the internet. Well for this to understand you'll have to learn about IP Addresses and DNS(Domain Name System). Let's hear about these things from Paula, an engineer at Microsoft and Vint Cerf, co-creator of Internet.  
 
 @[youtube](5o8CwafCxnU)
 
