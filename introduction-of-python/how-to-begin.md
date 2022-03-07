@@ -1,6 +1,6 @@
 # Anyone can do anything 
 
-We all know that starting to learn something takes hardwork and time but it's beneficial in the end. Many of us are often confused about whether we should learn programming or not. Well programming is not about just getting a job, it helps us develop our creativity, logical thinking and many more. Fro example the following video introduces some famous personalities for whom programming is not a career but a way of living. Hope you'd enjoy this video.
+We all know that starting to learn something takes hardwork and time but it's beneficial in the end. Many of us are often confused about whether we should learn programming or not. Well programming is not about just getting a job, it helps us develop our creativity, logical thinking and many more. For example the following video introduces some famous personalities for whom programming is not a career but a way of living. Hope you'd enjoy this video.
  
 @[youtube](ip051U7Rvds)
 
