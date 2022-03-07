@@ -112,6 +112,6 @@ print( a and b or a or not b)
 `True`
 
 
-To better understand logical operator and circuits watch this video. Here Limor, Adafruit founder and Nat, Xbox Designer explains how 'and', 'or' and 'not' logic works and computers understand these logics.
+To better understand logical operator and circuits watch this video. Here Limor, Adafruit founder and Nat, Xbox Designer explains how 'and', 'or' and 'not' logic works and how computers understand these logics.
 
 @[youtube](ZoqMiFKspAA)
