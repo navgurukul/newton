@@ -11,7 +11,7 @@ When we want to send a file like an image, audio or video file, we sometimes com
 
 @[youtube](By30SCp-Tsw)
 
-Coding has practical applications is many industries, for example following video discusses use of coding in medical science and how it can save lives, in this video Joshua was treated in one day, thanks to algorithms they used to analyse his gene sequence which is impossible without to figure out otherwise. 
+Coding has practical applications is many industries, for example following video discusses use of coding in medical science and how it can save lives, in this video Joshua was treated in one day, thanks to algorithms they used to analyse his gene sequence which is impossible to figure out otherwise. 
 
 @[youtube](bMrDHtGHFR4)
 
