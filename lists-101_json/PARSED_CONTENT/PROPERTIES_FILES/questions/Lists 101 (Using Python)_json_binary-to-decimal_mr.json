@@ -1,0 +1,22 @@
+{
+    "binary-to-decimal_key1": "बायनरी ते दशांश",
+    "binary-to-decimal_key2": "या प्रोग्राममध्ये, जर आपल्याला <b>बायनरी स्वरूपात</b> कोणतीही संख्या दिली असेल, तर आपण त्या संख्येचे <b>दशांश स्वरूपात</b> रूपांतर करायला शिकू.",
+    "binary-to-decimal_key3": "बायनरी",
+    "binary-to-decimal_key4": "कृपया हा आकृती पहा.",
+    "binary-to-decimal_key5": "हा नंबर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">decimal form</span> मध्ये रूपांतरित करण्यासाठी:-",
+    "binary-to-decimal_key6": "शेवटचा घटक को 2^0 म्हणजेच 1 se",
+    "binary-to-decimal_key7": "दुसरा शेवटचा घटक को 2^1 यानी 2 से",
+    "binary-to-decimal_key8": "तिसरा शेवटचा घटक को 2^2 यानी 4 से",
+    "binary-to-decimal_key9": "चौथा शेवटचा घटक को 2^3 यानी 8 से",
+    "binary-to-decimal_key10": "…",
+    "binary-to-decimal_key11": "…",
+    "binary-to-decimal_key12": "",
+    "binary-to-decimal_key13": "multiply kar kar",
+    "binary-to-decimal_key14": "करण है जोडा",
+    "binary-to-decimal_key15": "वरील चरण केल्यानंतर, तुम्हाला उत्तर म्हणून <b>155</b> मिळेल.",
+    "binary-to-decimal_key16": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+    "binary-to-decimal_key17": "या कार्यक्रमाचा <span style=\"\">output</span> काय असेल? जर तुमचा प्रोग्राम <b>मजबूत</b> असेल तर तो अवैध <span style=\"\">output</span> देईल, अन्यथा तो <span style=\"\">error</span> .",
+    "binary-to-decimal_key18": "तुमचा प्रोग्राम <b>मजबूत</b> असल्यास:",
+    "binary-to-decimal_key19": "- मग ते अवैध आउटपुट देईल, किंवा<br> - ते &quot;1&quot; ला 1 ki मानेल आणि प्रश्न सोडवेल.",
+    "binary-to-decimal_key20": "परंतु, जर ते <b>मजबूत</b> नसेल, तर ते <span style=\"\">error</span> फेकून देईल."
+}

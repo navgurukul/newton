@@ -1,0 +1,23 @@
+{
+    "magic-square_key1": "मॅजिक स्क्वेअर आहे का?",
+    "magic-square_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Magic Square</span> हा असा चौरस आहे ज्यामध्ये प्रत्येक पंक्तीची बेरीज, प्रत्येक स्तंभाची बेरीज आणि दोन्ही कर्णांची बेरीज समान असते.",
+    "magic-square_key3": "तुम्हाला हा प्रोग्राम लिहायचा आहे जो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> <span style=\"\">input</span> घेतो आणि तो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square</span> आहे की नाही हे तपासतो?",
+    "magic-square_key4": "हे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">magic square</span> आहे कारण,",
+    "magic-square_key5": "पंक्ती",
+    "magic-square_key6": "8 + 3 + 4 = 15<br> 1 + 5 + 9 = 15<br> ६ + ७ + २ = १५",
+    "magic-square_key7": "स्तंभ",
+    "magic-square_key8": "8 + 1 + 6 = 15<br> ३ + ५ + ७ = १५<br> ४ + ९ + २ = १५",
+    "magic-square_key9": "कर्णरेषा",
+    "magic-square_key10": "8 + 5 + 2 = 15<br> ४ + ५ + ६ = १५",
+    "magic-square_key11": "या स्क्वेअरची कल्पना करण्यासाठी, ते एका चौकोनसारखे पहा. सर्व पंक्तींमध्ये घटकांची संख्या समान आहे. पंक्तीमधील घटकांची संख्या स्तंभातील घटकांच्या संख्येइतकी असावी.",
+    "magic-square_key12": "हा जादूचा चौकोन नाही:",
+    "magic-square_key13": "पंक्ती<br> ५ + ३ + ७ = १५<br> 1 + 8 + 9 = 18",
+    "magic-square_key14": "कारण दुसऱ्या पंक्तीच्या घटकांची बेरीज १५ नाही है, म्हणून हा जादूचा वर्ग नाही.",
+    "magic-square_key15": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case�1</span>",
+    "magic-square_key16": "कृपया तुम्ही लिहिलेला प्रोग्राम फक्त 3x3 स्क्वेअरसाठी काम करतो किंवा कोणत्याही आकाराच्या स्क्वेअरसाठी काम करतो हे पहा.",
+    "magic-square_key17": "हा प्रोग्राम कोणत्याही आकाराच्या चौरसासाठी, कोणत्याही आकाराच्या चौरसासाठी लिहा जेणेकरून वापरकर्त्याने कोणत्याही आकाराचा चौरस प्रविष्ट केल्यास, तुमच्या प्रोग्रामने योग्य <span style=\"\">output3�</span> .",
+    "magic-square_key18": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case�2</span>",
+    "magic-square_key19": "यासाठी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> , तुमचे उत्तर काय असेल - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span> किंवा <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> .",
+    "magic-square_key20": "इशारा:",
+    "magic-square_key21": "दिलेला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�c?</span> , प्रथम जाताना <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span> परत करा."
+}

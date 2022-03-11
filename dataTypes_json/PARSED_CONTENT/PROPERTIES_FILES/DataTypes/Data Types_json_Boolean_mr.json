@@ -1,0 +1,20 @@
+{
+    "Boolean_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean Data Type</span>",
+    "Boolean_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean</span> सर्व <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">programming</span> भाषांचा सामान्य डेटा प्रकार आहे. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Boolean</span> दोन मूल्ये मिळवते.",
+    "Boolean_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>",
+    "Boolean_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>",
+    "Boolean_key5": "उदाहरण :-",
+    "Boolean_key6": "<span style=\"\">Output</span> : -",
+    "Boolean_key7": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>",
+    "Boolean_key8": "कारण रिक्त <span style=\"\">string</span> हे <span style=\"\">false</span> आहे.",
+    "Boolean_key9": "उदाहरण :-",
+    "Boolean_key10": "<span style=\"\">Output</span> : -",
+    "Boolean_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>",
+    "Boolean_key12": "कारण कोणतेही <span style=\"\">string</span> <span style=\"\">true</span> रिक्त वगळता आहे.",
+    "Boolean_key13": "उदाहरण :-",
+    "Boolean_key14": "<span style=\"\">Output</span> : -",
+    "Boolean_key15": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>",
+    "Boolean_key16": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;class bool&gt;</span>",
+    "Boolean_key17": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">False</span>",
+    "Boolean_key18": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">&lt;class bool&gt;</span>"
+}

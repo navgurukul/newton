@@ -1,0 +1,12 @@
+{
+    "report-card-2_key1": "रिपोर्ट कार्ड - भाग II",
+    "report-card-2_key2": "कृपया ही यादी पहा:",
+    "report-card-2_key3": "ही मागील तीन वर्षातील विद्यार्थ्याच्या गुणांची यादी आहे. तुम्हाला प्रत्येक वर्षाचे सरासरी गुण काढावे लागतील.<br> जसे की, वरील यादीसाठी, <span style=\"\">output</span> खालीलप्रमाणे असावे:-<br> 1 वर्षाची सरासरी - 84<br> 2 वर्षांची सरासरी - 80<br> 3 वर्षांची सरासरी - 63",
+    "report-card-2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Cases</span>",
+    "report-card-2_key5": "खालील <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested lists</span> साठी देखील तुमचा प्रोग्राम तपासा ( <span style=\"\">code</span> <span style=\"\"></span> बदलता चालला पाहिजे, जर तो नीट चालत नसेल तर याचा अर्थ तुम्ही <span style=\"\">code</span> नीट लिहिलेले नाही :",
+    "report-card-2_key6": "तुमच्या <span style=\"\">code</span> द्वारे वरील यादीतील <span style=\"\">output</span> खालीलप्रमाणे असावे:",
+    "report-card-2_key7": "1 वर्षाची सरासरी - 84<br> 2 वर्षांची सरासरी - 81<br> 3 वर्षांची सरासरी - 72",
+    "report-card-2_key8": "ही यादी कोणत्याही <span style=\"\">error</span> शिवाय चालली पाहिजे, जर तुमचा प्रोग्राम <b>मजबूत</b> असेल:",
+    "report-card-2_key9": "तुमच्या <span style=\"\">code</span> वरील <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> चे समाधान खालीलप्रमाणे असावे:",
+    "report-card-2_key10": "1 वर्षाची सरासरी - 84<br> 2 वर्षांची सरासरी - 81<br> 3 वर्षांची सरासरी - 72<br> 4 वर्षांची सरासरी - 71"
+}

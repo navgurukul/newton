@@ -1,0 +1,15 @@
+{
+    "functions-question3_key1": "प्रश्न 4",
+    "functions-question3_key2": "हा प्रश्न 2 भागात आहे. दोन्ही भागांचे Y29kZQ <span style=\"\"></span> एकाच <span style=\"\">file</span> मध्ये लिहून सबमिट करा.",
+    "functions-question3_key3": "प्रश्न (भाग १)",
+    "functions-question3_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers</span> नावाचे फंक्शन लिहा जे दोन संख्या वितर्क म्हणून घेते आणि नंतर त्यांची बेरीज प्रिंट करते. वितर्कांचे नाव <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number1</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number2</span> असावे.",
+    "functions-question3_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input :-</span>",
+    "functions-question3_key6": "<b><span style=\"\">Output</span> : -</b><br> ६८",
+    "functions-question3_key7": "प्रश्न (भाग २)",
+    "functions-question3_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add_numbers_list</span> नावाचे फंक्शन लिहा जे दोन <span style=\"\">integers</span> च्या 2 याद्या घेते आणि नंतर त्याच <span style=\"\">��=integers</span> ची बेरीज प्रिंट करते.",
+    "functions-question3_key9": "भाग 1 मध्ये दिलेले add_numbers फंक्शन वापरा 2 <span style=\"\">integers</span> ज्याची स्थिती समान आहे.",
+    "functions-question3_key10": "जर आपण या फंक्शनला [50, 60, 10] आणि [10, 20, 13] दिले तर ते हे प्रिंट करेल",
+    "functions-question3_key11": "६०",
+    "functions-question3_key12": "80",
+    "functions-question3_key13": "23"
+}

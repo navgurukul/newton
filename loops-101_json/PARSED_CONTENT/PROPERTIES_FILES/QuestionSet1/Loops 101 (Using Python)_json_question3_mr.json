@@ -1,0 +1,8 @@
+{
+    "question3_key1": "प्रश्न 3",
+    "question3_key2": "<span style=\"\">loop</span> <span style=\"\">inputs</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">10</span> संख्या बनवा. <span style=\"\">input</span> घेतल्यावर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">sum of all those numbers</span> प्रिंट करते.",
+    "question3_key3": "हा कार्यक्रम अशा प्रकारे चालेल. प्रत्येक वेळी संख्या <span style=\"\">input</span> म्हणून घेण्यासाठी <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input()</span> वापरा.",
+    "question3_key4": "10 पैकी 1 पायरी :- कोणतीही संख्या एंटर करा &gt; 10<br> 10 पैकी 2 पायरी :- कोणतीही संख्या एंटर करा &gt; 16<br> 10 पैकी 3 पायरी :- कोणतीही संख्या &gt; 9 प्रविष्ट करा<br> 10 पैकी 4 पायरी :- कोणतीही संख्या एंटर करा &gt; 10<br> 10 पैकी 5 पायरी :- कोणतीही संख्या &gt; 56 एंटर करा<br> 10 पैकी 6 पायरी :- कोणताही क्रमांक &gt; 78 एंटर करा<br> 10 पैकी 7 पायरी :- कोणताही नंबर &gt; 98 एंटर करा<br> 10 पैकी 8 पायरी :- कोणताही क्रमांक &gt; 43 एंटर करा<br> 10 पैकी 9 पायरी :- कोणतीही संख्या &gt; 21 एंटर करा<br> 10 पैकी 10 पायरी :- कोणताही नंबर टाका &gt; 76",
+    "question3_key5": "एकूण बेरीज: 417",
+    "question3_key6": "शेवटच्या ओळीत, <b>एकूण बेरीज: 417</b> छापले जातील,. हे छापले जाईल कारण <b>10+16+9+10+56+78+98+43+21+76</b> ची बेरीज <b>417</b> आहे."
+}

@@ -1,0 +1,8 @@
+{
+    "question6_key1": "प्रश्न 6",
+    "question6_key2": "ड्रायव्हर्सचा वेग तपासणारे फंक्शन परिभाषित करा. हे फंक्शन स्पीड नावाचे पॅरामीटर घेईल आणि खालील अटी पूर्ण करेल:<br> 1. गती 70 पेक्षा कमी असल्यास, 70 प्रिंट करा.<br> 2. वेग 70 पेक्षा जास्त असल्यास, प्रति 5 किमी 1 पॉइंट द्या. (टीप: हे 70 मोजले जाणार नाही).<br> 3. गुण 12 पेक्षा जास्त असल्यास, &quot;परवाना निलंबित&quot; प्रिंट करा",
+    "question6_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question6_key4": "८५<br> 135",
+    "question6_key5": "<b><span style=\"\">Output</span> : -</b>",
+    "question6_key6": "3<br> &quot;परवाना निलंबित&quot;"
+}

@@ -1,0 +1,9 @@
+{
+    "question4_key1": "प्रश्न 4",
+    "question4_key2": "एक फंक्शन परिभाषित करा जे एक युक्तिवाद घेते जी फंक्शनला ज्या मर्यादेपर्यंत संख्या आणि त्यांचे लेबल (सम किंवा विषम) मुद्रित करायचे आहे ते खाली दर्शविल्याप्रमाणे आहे.",
+    "question4_key3": "<b><i>उदाहरणार्थ :-</i></b>",
+    "question4_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question4_key5": "3",
+    "question4_key6": "<b><span style=\"\">Output</span> : -</b>",
+    "question4_key7": "0 अगदी<br> 1 ODD<br> 2 अगदी<br> 3 ODD"
+}

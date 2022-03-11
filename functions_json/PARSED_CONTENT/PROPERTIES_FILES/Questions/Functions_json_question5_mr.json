@@ -1,0 +1,9 @@
+{
+    "question5_key1": "प्रश्न 5",
+    "question5_key2": "फंक्शन परिभाषित करा जे एक पॅरामीटर घेते (सकारात्मक <span style=\"\">integer</span> ). हे फंक्शन श्रेणी 1 मधील 3 आणि 5 (आवश्यक सामान्य गुणाकार नाही) च्या सर्व गुणाकारांची बेरीज <span style=\"\">integer</span> पॅरामीटर म्हणून पास करते.",
+    "question5_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question5_key4": "10",
+    "question5_key5": "३ आणि ५ के गुणाकार =&gt; 3, 5, 6, 9, 10",
+    "question5_key6": "<b><span style=\"\">Output</span> : -</b>",
+    "question5_key7": "३३"
+}

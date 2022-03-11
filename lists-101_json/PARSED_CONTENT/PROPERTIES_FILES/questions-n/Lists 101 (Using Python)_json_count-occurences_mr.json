@@ -1,0 +1,12 @@
+{
+    "count-occurences_key1": "घटना मोजा",
+    "count-occurences_key2": "घटना - <b>b2NjdXI</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> या शब्दापासून बनवलेले आहे, ज्याचा अर्थ एखादे विशिष्ट वर्ण किंवा शब्द किती वेळा दिसून येतो.",
+    "count-occurences_key3": "<b>नमुना यादी</b>",
+    "count-occurences_key4": "<b>नमुना यादीतील <span style=\"\">Output</span></b>",
+    "count-occurences_key5": "[[\"a\", 6], [\"n\", 3], [\"t\", 2], [\"x\", 2], [\"u\", 1], [\"g\", 1]]",
+    "count-occurences_key6": "a - 6 वेळा<br> n - 3 वेळा<br> टी - 2 वेळा<br> x - 2 वेळा<br> u - 1 वेळा<br> g - 1 वेळा",
+    "count-occurences_key7": "आपल्याला Y2hhcl9saXN0 मध्ये उपस्थित असलेल्या वर्णांची <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">occurences</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> मोजावी लागेल आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">nested list</span> मध्ये <span style=\"\">save</span> , नंतर <span style=\"\">output</span> मुद्रित करण्यासाठी आपल्याला ती नेस्टेड सूची वापरावी लागेल.",
+    "count-occurences_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Case</span>",
+    "count-occurences_key9": "उपाय",
+    "count-occurences_key10": "[]"
+}

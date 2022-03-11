@@ -1,0 +1,13 @@
+{
+    "loops-code-question7_key1": "प्रश्न 7",
+    "loops-code-question7_key2": "आता आपण <span style=\"\">loops</span> वापरून गेम बनवू. आम्ही या खेळाला <b>अंदाज लावणारा खेळ</b> म्हणू.",
+    "loops-code-question7_key3": "या गेममध्ये आपण कोणतीही संख्या घेतो, ही संख्या <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number 5</span></b> आहे असे समजू.",
+    "loops-code-question7_key4": "यानंतर आम्ही वापरकर्त्याकडून <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 10</span></b> मधील कोणतीही संख्या इनपुट म्हणून घेतो. वापरकर्ता या क्रमांकाचा अंदाज लावण्याचा प्रयत्न करतो.",
+    "loops-code-question7_key5": "समजा वापरकर्ता <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span> इनपुट म्हणून देतो. मग आपण तपासू की <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3</span> 5 च्या बरोबरीचे आहे की नाही?",
+    "loops-code-question7_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">3 is not equal to 5</span> म्हणून आम्ही वापरकर्त्याला दुसर्‍या इनपुटसाठी विचारू.",
+    "loops-code-question7_key7": "आता आपण ती संख्या ५ च्या बरोबरीची आहे की नाही हे तपासू.",
+    "loops-code-question7_key8": "वापरकर्त्याला अंदाज लावण्यासाठी <b><span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">5 chances</span></b> मिळेल.",
+    "loops-code-question7_key9": "जर त्याने 5 चान्सच्या आत योग्य अंदाज लावला तर तो जिंकतो आणि जर त्याने चुकीचा अंदाज लावला तर गेम हरतो.",
+    "loops-code-question7_key10": "इशारा:",
+    "loops-code-question7_key11": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span> मध्ये <span style=\"\">break statement</span> बद्दल अभ्यास करा."
+}

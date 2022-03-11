@@ -1,0 +1,8 @@
+{
+    "question5_key1": "प्रश्न 5",
+    "question5_key2": "2 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">lists</span> वरून <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> तयार करा, जिथे पहिल्या सूचीचे घटक <span style=\"\">keys</span> == आहेत आणि 2ऱ्या सूचीचे घटक संबंधित मूल्ये आहेत.",
+    "question5_key3": "उदाहरण :-",
+    "question5_key4": "<span style=\"\">Input</span> :-",
+    "question5_key5": "<span style=\"\">Output</span> : -",
+    "question5_key6": "{\"एक\":1,\"दोन\":2,\"तीन\":3,\"चार\":4,\"पाच\":5}"
+}
