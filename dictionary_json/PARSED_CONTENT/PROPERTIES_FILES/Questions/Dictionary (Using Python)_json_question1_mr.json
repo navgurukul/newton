@@ -1,0 +1,8 @@
+{
+    "question1_key1": "प्रश्न 1",
+    "question1_key2": "खाली दिलेला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionaries</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">single dictionary</span> मध्ये असेल असा प्रोग्राम लिहा आणि समान <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">key</span> असलेली मूल्ये जोडा.",
+    "question1_key3": "उदाहरण :-",
+    "question1_key4": "<span style=\"\">Input</span> :-",
+    "question1_key5": "<span style=\"\">Output</span> : -",
+    "question1_key6": "{1: 10, 2: 60, 3: 30, 5: 50, 6: 60}"
+}

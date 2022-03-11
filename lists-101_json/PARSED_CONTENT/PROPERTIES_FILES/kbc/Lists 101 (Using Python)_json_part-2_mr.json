@@ -1,0 +1,19 @@
+{
+    "part-2_key1": "तुमचा प्रश्न",
+    "part-2_key2": "भाग 1",
+    "part-2_key3": "ही माहिती छापण्यासाठी आम्हाला त्या याद्या वापरायच्या आहेत:",
+    "part-2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">question_list</span> <span style=\"\">variable</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosra question</span> वापरून <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">options_list</span> वापरून, चार पर्याय प्रिंट करा",
+    "part-2_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">question_list</span> <span style=\"\">variable</span> ko वापर कर kar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosra question</span> प्रिंट करा<br> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">options_list</span> वापर करा kar kar <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">doosre question</span> के चारों पर्याय को प्रिंट <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ё���ɔ��Օ�ѥ�</span> .",
+    "part-2_key6": "तुमचे <span style=\"\">output</span> असे दिसले पाहिजे:",
+    "part-2_key7": "तुमचा सवाल आहे:<br> भारताची राजधानी कोणती आहे?",
+    "part-2_key8": "Apke पर्याय आहेत:",
+    "part-2_key9": "चंदीगड",
+    "part-2_key10": "भोपाळ",
+    "part-2_key11": "चेन्नई",
+    "part-2_key12": "दिल्ली",
+    "part-2_key13": "लक्षात ठेवा :",
+    "part-2_key14": "प्रत्येक पर्यायासह, आपण त्याचे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">number</span> देखील मुद्रित केले पाहिजे.",
+    "part-2_key15": "इशारा:",
+    "part-2_key16": "निर्देशांकांबद्दल काय शिकले ते लक्षात ठेवा.",
+    "part-2_key17": "पर्याय मुद्रित करण्यासाठी लूप वापरा."
+}

@@ -1,0 +1,9 @@
+{
+    "if-code-question1_key1": "प्रश्न 1",
+    "if-code-question1_key2": "<span style=\"\">number</span> नावाच्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">variable</span> <span style=\"\"></span> घ्या आणि ते <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">int</span> मध्ये रूपांतरित करा.",
+    "if-code-question1_key3": "जर ही संख्या 10 पेक्षा कमी असेल तर <b>&quot;10 से छोटा है&quot;</b> प्रिंट करा. जर ते 10 पेक्षा मोठे आणि 20 पेक्षा कमी असेल तर <b>&quot;20 से छोटा है&quot;</b> प्रिंट करा. अन्यथा 20 पेक्षा जास्त असल्यास <b>&quot;20 से बड़ा है&quot;</b> प्रिंट करा. वरील सूचनांनुसार फ्लोचार्ट पूर्ण करा.",
+    "if-code-question1_key4": "फ्लोचार्ट-प्रश्न-1",
+    "if-code-question1_key5": "फ्लोचार्ट पूर्ण झाल्यावर, <span style=\"\">Python</span> प्रोग्राम लिहा आणि <span style=\"\">save</span> तो <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">.py</span> <span style=\"\">file</span> म्हणून लिहा. दोन्ही <span style=\"\">files</span> एकत्र सबमिट करा.",
+    "if-code-question1_key6": "टीप:-",
+    "if-code-question1_key7": "पुढील व्यायामांमध्ये, फ्लोचार्ट <span style=\"\">file</span> तसेच <span style=\"\">python</span> <span style=\"\">file</span> सबमिट करा."
+}

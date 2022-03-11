@@ -1,0 +1,7 @@
+{
+    "question8_key1": "प्रश्न 8",
+    "question8_key2": "एक फंक्शन तयार करा जे एक युक्तिवाद घेते (एक सकारात्मक <span style=\"\">integer</span> ) आणि 1 ते <span style=\"\">integer</span> (पॅरामीटर म्हणून उत्तीर्ण) <span style=\"\">keys</span> आणि त्यांचे संबंधित वर्ग उदाहरणात दर्शविल्याप्रमाणे मूल्यांप्रमाणे एक शब्दकोश मिळवतात. खाली",
+    "question8_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input :-</span><br> 20",
+    "question8_key4": "<b><span style=\"\">Output</span> : -</b>",
+    "question8_key5": "{1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64, 9: 81, 10: 100, 11: 121, 12: 144, 13 : १६९, १४:१९६, १५:२२५, १६:२५६, १७:२८९, १८:३२४, १९:३६१, २०:४००}"
+}

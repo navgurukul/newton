@@ -1,0 +1,5 @@
+{
+    "debugging-question1_key1": "प्रश्न 1",
+    "debugging-question1_key2": "समजा, दिलेल्या यादीत तुमच्याकडे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> आहे. आम्ही खाली <span style=\"\">code</span> लिहिले आहे ज्यामध्ये आम्ही एकूण मार्क्सची बेरीज म्हणून गणना केली आहे. पण हे <span style=\"\">code</span> चालत नाही. हे <span style=\"\">code</span> डीबग करा आणि नंतर सबमिट करा.",
+    "debugging-question1_key3": "<span style=\"\">Save</span> दुरुस्त <span style=\"\">\u001ba�\u0019����</span> <span style=\"\">file</span> आणि नंतर <span style=\"\">upload</span> ."
+}

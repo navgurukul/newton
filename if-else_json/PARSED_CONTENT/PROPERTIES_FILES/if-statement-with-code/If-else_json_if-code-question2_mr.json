@@ -1,0 +1,7 @@
+{
+    "if-code-question2_key1": "प्रश्न २",
+    "if-code-question2_key2": "तुमच्याकडे <span style=\"\">variable</span> आहे ज्याला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> असे म्हणतात:-",
+    "if-code-question2_key3": "वापरकर्त्याकडून <span style=\"\">input</span> म्हणून संख्या घेण्यासाठी फ्लोचार्ट तयार करा. हे <span style=\"\">input</span> <span style=\"\">integer</span> मध्ये रूपांतरित करा. ते <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> बरोबरीचे आहे का ते तपासा.",
+    "if-code-question2_key4": "जर संख्या <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> च्या समान असेल तर <b>&quot;समान&quot;</b> प्रिंट करा अन्यथा &quot;समान <b>नाही</b> &quot; प्रिंट करा.",
+    "if-code-question2_key5": "<span style=\"\">Upload</span> फ्लोचार्ट तसेच <span style=\"\">python</span> <span style=\"\">file</span> ."
+}

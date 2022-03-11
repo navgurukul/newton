@@ -1,0 +1,9 @@
+{
+    "question2_key1": "प्रश्न २",
+    "question2_key2": "परफेक्ट नंबर?<br> एक परिपूर्ण संख्या ही अशी आहे जी त्याच्या सर्व घटकांच्या बेरजेइतकी असते (1 आणि स्वतःला वगळून).",
+    "question2_key3": "perfect() नावाचे फंक्शन परिभाषित करा जे एक आर्ग्युमेंट घेते( <span style=\"\">integer</span> ) आणि ते परिपूर्ण संख्या आहे की नाही ते तपासते. आता हा <span style=\"\">code</span> मधील सर्व परिपूर्ण संख्या छापणारा प्रोग्राम लिहिण्यासाठी वापरा.",
+    "question2_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Example:-</span>",
+    "question2_key5": "6 एक परिपूर्ण संख्या आहे 6=1+2+3.",
+    "question2_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Expected Output :-</span>",
+    "question2_key7": "६,२८,४९६"
+}

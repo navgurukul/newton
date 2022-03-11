@@ -1,0 +1,11 @@
+{
+    "sab-saath-mei_key1": "सर्व एकत्र",
+    "sab-saath-mei_key2": "एक <span style=\"\">code</span> लिहा जे सर्व सूचीसाठी कार्य करते. सर्व <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">odd numbers</span> आणि सर्व <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">even numbers</span> साठी आणि दिलेल्या यादीतील सर्व संख्यांसाठी खालीलप्रमाणे <span style=\"\">output</span> मुद्रित केले पाहिजे, त्याने खालील गणना केली पाहिजे:",
+    "sab-saath-mei_key3": "मोजणे",
+    "sab-saath-mei_key4": "बेरीज",
+    "sab-saath-mei_key5": "सरासरी",
+    "sab-saath-mei_key6": "आणि नंतर प्रिंट करा.",
+    "sab-saath-mei_key7": "नमुना <span style=\"\">Input</span>",
+    "sab-saath-mei_key8": "नमुना <span style=\"\">Output</span>",
+    "sab-saath-mei_key9": "विषम संख्यांची गणना….<br> सम संख्यांची गणना….<br> सर्व संख्यांची गणना….<br> विषम संख्यांची बेरीज….<br> सम संख्यांची बेरीज….<br> सर्व संख्यांची बेरीज….<br> विषम संख्यांची सरासरी….<br> सम संख्यांची सरासरी….<br> सर्व संख्यांची सरासरी का…."
+}

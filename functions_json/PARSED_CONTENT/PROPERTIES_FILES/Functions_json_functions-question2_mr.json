@@ -1,0 +1,5 @@
+{
+    "functions-question2_key1": "प्रश्न २",
+    "functions-question2_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">function_print_lines</span> नावाचे फंक्शन लिहा जे 2 <span style=\"\">strings</span> घेते, आणि ते खालील प्रकारे प्रिंट करते.",
+    "functions-question2_key3": "जर आपण हे 2 युक्तिवाद दिले - <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"My name is Rishabh.\"</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"I am the co-founder of NavGurukul\"</span><br> आम्हाला खालील <span style=\"\">output</span> मिळेल:"
+}
