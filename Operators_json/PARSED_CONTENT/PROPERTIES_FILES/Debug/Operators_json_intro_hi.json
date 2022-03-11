@@ -1,9 +1,9 @@
 {
     "intro_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Debug Code</span>",
-    "intro_key2": "आइए <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span> कुछ उदाहरण दें।",
-    "intro_key3": "ए।",
-    "intro_key4": "बी।",
-    "intro_key5": "सी।",
-    "intro_key6": "डी।",
-    "intro_key7": "तथा।"
+    "intro_key2": "आइए कुछ उदाहरण<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">debug</span>  करे।",
+    "intro_key3": "A.",
+    "intro_key4": "B. ",
+    "intro_key5": "C. ",
+    "intro_key6": "D.",
+    "intro_key7": "E."
 }
