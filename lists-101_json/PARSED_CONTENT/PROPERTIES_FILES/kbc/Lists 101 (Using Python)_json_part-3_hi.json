@@ -1,5 +1,5 @@
 {
     "part-3_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Loop the List</span>",
-    "part-3_key2": "अब, अपने <span style=\"\">code</span> को इस प्रकार बदलें की सभी question अपने options के साथ एक एक करके प्रिंट हो जाएं। ",
-    "part-3_key3": "यह <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loop</span> आपके Code का बहुत ही महत्वपूर्ण हिस्सा है, इसलिए यह बहुत सावधानी से करें।"
-}  
+    "part-3_key2": "अब, अपने <span style=\"\">code</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">)�����</span> का उपयोग करके इस प्रकार संशोधित करें कि सभी प्रश्न और उनके विकल्प एक-एक करके प्रिंट हो जाएं।",
+    "part-3_key3": "यह <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">loop</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">program</span> की बहुत ही महत्वपूर्ण हिस्सा है, इसलिए यह बहुत सावधानी से करते हैं।"
+} 
