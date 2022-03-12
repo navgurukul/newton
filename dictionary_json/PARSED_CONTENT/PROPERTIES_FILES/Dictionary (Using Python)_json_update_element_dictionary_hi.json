@@ -1,14 +1,14 @@
 {
     "update_element_dictionary_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Updating Dictionary</span> : -",
-    "update_element_dictionary_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">update dictionary</span> , हम इसमें एक प्रविष्टि कर सकते हैं <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�ֶW��f\u0016�V</span> <span style=\"\">(�\u0006��,\u0016�W</span> के मान को बदल सकते हैं। जैसा कि उदाहरण में बताया गया है:-",
+    "update_element_dictionary_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Dictionary</span> को update करने के लिए हम dictionary में key-value डाल सकते हैं या किसी key की value बदल सकते हैं। जैसा कि उदाहरण में बताया गया है:-",
     "update_element_dictionary_key3": "उदाहरण 1:-",
     "update_element_dictionary_key4": "<span style=\"\">Output</span> :-",
     "update_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'1': 'RAM', '2': 17,'3':'male'}</span>",
     "update_element_dictionary_key6": "उदाहरण 2:-",
     "update_element_dictionary_key7": "<span style=\"\">Output</span> :-",
     "update_element_dictionary_key8": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'Name': 'RAM', 'Age': 17, 'student': {'id': 35, 'place': 'dharamsala'}}</span>",
-    "update_element_dictionary_key9": "शब्दकोश की प्रति :-",
-    "update_element_dictionary_key10": "हम एक शब्दकोश को दो तरीकों से कॉपी कर सकते हैं, पहली विधि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">copy()��4��</span> और दूसरी विधि अंतर्निहित फ़ंक्शन <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dict()��4��</span> ।",
+    "update_element_dictionary_key9": "Dictionary की copy :-",
+    "update_element_dictionary_key10": "हम एक dictionary को दो तरीकों से कॉपी कर सकते हैं, पहली विधि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">copy()</span> फ़ंक्शन और दूसरी विधि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dict()</span> फ़ंक्शन।",
     "update_element_dictionary_key11": "उदाहरण 1 :-",
     "update_element_dictionary_key12": "<span style=\"\">Output</span> :-",
     "update_element_dictionary_key13": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">{'room2': '7th', 'room3': '8th', 'room1': '6th'}</span>"

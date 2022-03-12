@@ -1,0 +1,18 @@
+{
+    "introduction_key1": "Lists से हमारा क्या तात्पर्य है?",
+    "introduction_key2": "आपने <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span>, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">float</span> और <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">booleans</span> Datatypes के बारे में पढ़ा है। इन्हें <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive datatypes</span> कहा जाता है जहां <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive</span> का अर्थ <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">simple</span> datatype है। हम <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data types</span> बनाने के लिए <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> का उपयोग करते हैं। <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data types</span> में से एक है।",
+    "introduction_key3": "अभ्यास ",
+    "introduction_key4": "आप अपने जीवन में कौन से 10 काम करना चाहते हैं, उसकी सूची बनाएं।",
+    "introduction_key5": "अब इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python variable</span> में स्टोर करें।",
+    "introduction_key6": "<hr>",
+    "introduction_key7": "इस तरह आपको List के रूप में काफी जानकारी मिल जाएगी। उदाहरण :-",
+    "introduction_key8": "किराने के सामान की एक सूची बनाएं जिसे आप खरीदना चाहते हैं।",
+    "introduction_key9": "उन पाठ्यक्रमों की सूची बनाएं जो आप नवगुरुकुल में कर सकते हैं।",
+    "introduction_key10": "उन प्रश्नों की सूची बनाएं जो आपको दिए गए पाठ्यक्रम में करना है।",
+    "introduction_key11": "उन सभी अच्छी आदतों की सूची बनाएं जो आपके पास हैं।",
+    "introduction_key12": "उन कंपनियों की सूची जहां आप काम करना चाहते हैं।",
+    "introduction_key13": "परिसर में उपस्थित छात्रों की सूची।",
+    "introduction_key14": "परिषद के सदस्यों की सूची",
+    "introduction_key15": "आदि।",
+    "introduction_key16": "हम देखेंगे की <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List Data Type and List Data Structure</span> का अध्ययन करना हमारे लिए कितना महत्वपूर्ण है।"
+}

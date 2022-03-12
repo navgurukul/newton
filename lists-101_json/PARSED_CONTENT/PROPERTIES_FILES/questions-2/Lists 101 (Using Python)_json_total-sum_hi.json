@@ -1,6 +1,6 @@
 {
-    "total-sum_key1": "कुल राशि",
-    "total-sum_key2": "<span style=\"\">3N�integers</span> की एक सरणी में सभी जोड़े कैसे खोजें = जिसका योग दी गई संख्या के बराबर है?",
+    "total-sum_key1": "कुल योग",
+    "total-sum_key2": "<span style=\"\">Q: </span> दिए गए integers के array में दो संख्याओं के जोड़ों को कैसे खोजें जिनका योग दी गई संख्या के बराबर है?",
     "total-sum_key3": "<span style=\"\">Output</span> :-",
     "total-sum_key4": "<b>[[11,19], [12,18], [13,17]]</b>"
 }
