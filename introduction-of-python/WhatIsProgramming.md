@@ -17,6 +17,10 @@ To give instructions to the computer we need to learn any of these given languag
 
 We will use python language to give instructions to the computer.
 
+In the following video Erica(Engineering Manager at Amazon) and Jerome(Program Manager at Xbox) explains how computer hardware like circuits, CPU, etc are controlled by codes that we write. Basically how harware and software works together to execute a task. Bill Gates, co-founder of Microsoft and creator of Windows OS, explains how OS works. Hope you'd enjoy it.
+
+@[youtube](xnyFYiK2rSY)
+
 **Assignment**
 - Have you ever given instructions to anybody or taken instructions from anybody. Can we call that a **program**?
 -   Search for Python language and its applications? How many people in the world use Java?

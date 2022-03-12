@@ -1,5 +1,5 @@
 {
 	"debugging-question1_key1": "Question 1",
-	"debugging-question1_key2": "Suppose, you have <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> in a given list. We have written a <span style=\"\">code</span> below in which we have calculated total marks as the sum of markst this. But this <span style=\"\">code</span> doesn't runs. Debug this <span style=\"\">code</span> and then submit it.",
+	"debugging-question1_key2": "Suppose, you have <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">marks</span> in a given list. We have written a <span style=\"\">code</span> below in which we have calculated total marks as the sum of marks list. But this <span style=\"\">code</span> doesn't runs. Debug this <span style=\"\">code</span> and then submit it.",
 	"debugging-question1_key3": "<span style=\"\">Save</span> the corrected <span style=\"\">code</span> in a <span style=\"\">file</span> and then <span style=\"\">upload</span> it."
 }

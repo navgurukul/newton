@@ -4,6 +4,8 @@ name: Introduction to Loops
 
 ## Understanding `Loop Conditions`
 
+Christopher Wesson Bosh who is an American former professional basketball player and actively learning how to code along with helping others to learn programming once said, "I began to notice that the world around me was spinning on an axis powered by varying patterns of 1s and 0s. We’d be fools to ignore the power of mastering the designing and coding of those patterns." Let's hear his explanation of Loops in the following video.
+
 @[youtube](jsUN0NV5RfQ)
 
 Let us see this code.

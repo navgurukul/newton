@@ -5,11 +5,13 @@
 [Introduction of Python in Hindi
 ](https://www.youtube.com/watch?v=iWNpVTYSt74)
 
-#### what are the feature of coding
+#### What are the feature of coding
 
-@[youtube](By30SCp-Tsw&t=1s)
+When we want to send a file like an image, audio or video file, we sometimes compresses it or the software or website we use compresses it for us. This compression is necessary so that less space and data is used to store and send those files. In the following video Aloe Blacc, a singer, songwriter and entertainer who also created his website by himself, explains how compressions of files happens through coding and why it is useful. 
 
-#### do you coding help to sciece also if don't then you can watch this video
+@[youtube](By30SCp-Tsw)
+
+Coding has practical applications is many industries, for example following video discusses use of coding in medical science and how it can save lives, in this video Joshua was treated in one day, thanks to algorithms they used to analyse his gene sequence which is impossible to figure out otherwise. 
 
 @[youtube](bMrDHtGHFR4)
 
