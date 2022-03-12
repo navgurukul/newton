@@ -1,8 +1,8 @@
 {
     "question5_key1": "प्रश्न 5",
-    "question5_key2": "2 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">lists</span> से एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> बनाएं, जहां पहली सूची <span style=\"\">\u0018�Z�^\\</span> और दूसरी सूची के तत्व संबंधित मान हैं।",
+    "question5_key2": "2 <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">lists</span> से एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">dictionary</span> बनाएं, जहां पहली list से <span style=\"\">key</span> और दूसरी list से values लेनी हैं।",
     "question5_key3": "उदाहरण :-",
     "question5_key4": "<span style=\"\">Input</span> :-",
     "question5_key5": "<span style=\"\">Output</span> :-",
-    "question5_key6": "{\"एक\":1,\"दो\":2,\"तीन\":3,\"चार\":4,\"पांच\":5}"
+    "question5_key6": "{\"one\":1,\"two\":2,\"three\":3,\"four\":4,\"five\":5}"
 }

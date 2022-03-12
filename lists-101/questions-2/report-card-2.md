@@ -16,13 +16,13 @@ marks = [
 ```
 This is the list of marks of a student for the last three years. You have to calculate the average marks for each year.
 Like, for the above list, the output should be as follows:- 
-   Average of 1 year  - 84
-   Average of 2 year  - 80
-   Average of 3 year  - 63
+   Average of 1st year  - 84
+   Average of 2nd year  - 80
+   Average of 3rd year  - 63
 
 
 ### `Edge Cases` 
-Check your program for following `nested lists` as well ( the code should run without changing the code, if it does not runs properly thatt means you have not written the code properly :
+Check your program for following `nested lists` as well ( the code should run without changing the code, if it does not runs properly it means you have not written the code properly :
 
 ```python
 marks = [
@@ -34,9 +34,9 @@ marks = [
 Through your code the output of the above list should be as follows :
 
 
-    Average of 1 year - 84
-    Average of 2 year - 81
-    Average of 3 year - 72
+    Average of 1st year - 84
+    Average of 2nd year - 81
+    Average of 3rd year - 72
 
 
 This list should run without any error, if your program is **robust** :
@@ -51,8 +51,8 @@ marks = [
 
 Through your code the solution of the above `nested list` should be as follows :
 
-    Average of 1 year - 84
-    Average of 2 year - 81
-    Average of 3 year - 72
-    Average of 4 year - 71
+    Average of 1st year - 84
+    Average of 2nd year - 81
+    Average of 3rd year - 72
+    Average of 4th year - 71
 
