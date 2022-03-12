@@ -1,5 +1,5 @@
 {
-    "break_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Break</span>",
-    "break_key2": " पायथन में एक <b>keyword (शब्द)</b> है। इससे हमें लूप से बाहर आने और नई लाइन पर जाने में मदद मिलती है ",
+    "break_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">\"reak</span>",
+    "break_key2": "पायथन में एक <b>कीवर्ड</b> है। इससे हमें बाहर आने और नई लाइन पर जाने में मदद मिलती है जो कि .",
     "break_key3": "मोबाइल वीडियो रिकॉर्डर"
 }

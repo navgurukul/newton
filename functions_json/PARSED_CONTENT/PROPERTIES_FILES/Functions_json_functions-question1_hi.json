@@ -1,9 +1,9 @@
 {
     "functions-question1_key1": "प्रश्न 1",
     "functions-question1_key2": "प्रश्न 1 (भाग 1)",
-    "functions-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> नाम का एक फंक्शन लिखें जो \"once\" टेक्स्ट को प्रिंट करेगा।",
+    "functions-question1_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">ask_question</span> नाम का एक फंक्शन लिखें जो &quot;वन्स&quot; टेक्स्ट को प्रिंट करेगा।",
     "functions-question1_key4": "फिर इस फंक्शन को 5 बार कॉल करें और इस टेक्स्ट को 5 बार प्रिंट करवाएं।",
     "functions-question1_key5": "प्रश्न 1 (भाग 2)",
-    "functions-question1_key6": "फिर इस फ़ंक्शन को 100 बार कॉल करने के लिए, while <span style=\"\">loop</span> <span style=\"\"></span> का कोड लिखे।",
-    "functions-question1_key7": "<span style=\"\"></span> <span style=\"\">code</span> के दो भाग समान <span style=\"\">file</span> में Upload करे!"
+    "functions-question1_key6": "फिर इस फ़ंक्शन को 100 बार कॉल करने के लिए, जबकि <span style=\"\">loop</span> <span style=\"\"></span> था।",
+    "functions-question1_key7": "<span style=\"\">Upload</span> <span style=\"\">code</span> के दो भाग समान <span style=\"\">file</span> में!"
 }
