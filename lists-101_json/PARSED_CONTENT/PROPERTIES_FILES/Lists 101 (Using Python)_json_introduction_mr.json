@@ -1,0 +1,18 @@
+{
+    "introduction_key1": "याद्या म्हणजे काय?",
+    "introduction_key2": "तुम्ही कदाचित <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">integer</span> , <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">float</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">booleans</span> डेटा प्रकारांचा अभ्यास केला असेल. त्यांना <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> म्हणतात जेथे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive</span> म्हणजे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">simple</span> डेटा प्रकार. Y29tcGxleCBkYXRhIHR5cGVz करण्यासाठी आम्ही <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">primitive data types</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\"></span> वापरू शकतो. <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">complex data type</span> पैकी एक आहे.",
+    "introduction_key3": "व्यायाम",
+    "introduction_key4": "तुम्हाला तुमच्या आयुष्यात कोणत्या 10 गोष्टी करायच्या आहेत, त्याची यादी बनवा.",
+    "introduction_key5": "आता, ते <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python variable</span> मध्ये साठवा.",
+    "introduction_key6": "<hr>",
+    "introduction_key7": "अशा प्रकारे, तुम्हाला भरपूर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">information in the form of a list�m</span> . उदाहरण :-",
+    "introduction_key8": "तुम्हाला खरेदी करायच्या असलेल्या किराणा मालाची यादी तयार करा.",
+    "introduction_key9": "नवगुरुकुलमध्ये तुम्ही करू शकता अशा अभ्यासक्रमांची यादी तयार करा.",
+    "introduction_key10": "दिलेल्या कोर्समध्ये तुम्हाला करायच्या असलेल्या प्रश्नांची यादी तयार करा.",
+    "introduction_key11": "तुमच्याकडे असलेल्या सर्व चांगल्या सवयींची यादी.",
+    "introduction_key12": "तुम्हाला जिथे काम करायचे आहे त्या कंपन्यांची यादी.",
+    "introduction_key13": "कॅम्पसमध्ये उपस्थित विद्यार्थ्यांची यादी.",
+    "introduction_key14": "कौन्सिल सदस्यांची यादी",
+    "introduction_key15": "इ.",
+    "introduction_key16": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">List Data Type and List Data Structure</span> चा अभ्यास करणे आपल्यासाठी किती महत्त्वाचे आहे हे आपण पाहू."
+}

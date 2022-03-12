@@ -1,8 +1,8 @@
 {
-    "question2_key1": "निम्नलिखित <span style=\"\">code</span> स्निपेट <span style=\"\">output</span> क्या होगा?",
+    "question2_key1": "निम्नलिखित <span style=\"\">code</span> का <span style=\"\">output</span> क्या होगा?",
     "question2_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Options :-</span>",
     "question2_key3": "A. <span style=\"\">Key</span> <span style=\"\">Error</span>",
-    "question2_key4": "बी [1,2]",
-    "question2_key5": "सी. {'ए': 1, 'बी': 2}",
-    "question2_key6": "डी (1,2)"
+    "question2_key4": "B. [1,2]",
+    "question2_key5": "C. {'a': 1, 'b': 2}",
+    "question2_key6": "D. (1,2)"
 }

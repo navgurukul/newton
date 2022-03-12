@@ -15,7 +15,7 @@ Just as wheels removed our physical limitations, the invention of computers, hel
 
 Computers don’t have their brain so they can’t think, we have to give instructions to them to make them solve any complex problem.
 
-#### let's see how computer works
+Let's see the following video where May Li(Designer and Inventor) and Nat(Designer at Xbox) explains what computers are, how they works and how we are surrounded by computers now. Hope you'd enjoy it.
 
 @[youtube](mCq8-xTH7jA) 
 

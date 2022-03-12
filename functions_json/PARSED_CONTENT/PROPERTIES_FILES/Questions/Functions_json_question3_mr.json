@@ -1,0 +1,10 @@
+{
+    "question3_key1": "प्रश्न 3",
+    "question3_key2": "एक फंक्शन तयार करा जे 3 वितर्क घेते (सर्व पूर्णांक) आणि खाली दर्शविल्याप्रमाणे त्यांची बेरीज आणि सरासरी प्रिंट करते.",
+    "question3_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question3_key4": "पहिला क्रमांक प्रविष्ट करा :-3",
+    "question3_key5": "दुसरा क्रमांक प्रविष्ट करा :-4",
+    "question3_key6": "तिसरा क्रमांक प्रविष्ट करा:-5",
+    "question3_key7": "<b><span style=\"\">Output</span> : -</b>",
+    "question3_key8": "तीन संख्यांची बेरीज :-12<br> तीन संख्यांची सरासरी :-४"
+}

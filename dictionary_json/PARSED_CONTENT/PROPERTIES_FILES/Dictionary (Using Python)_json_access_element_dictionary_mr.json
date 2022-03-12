@@ -1,0 +1,12 @@
+{
+    "access_element_dictionary_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">�º�\u0005����ͥ�</span> घटक:-",
+    "access_element_dictionary_key2": "आम्ही चौरस कंस वापरून शब्दकोष मूल्ये <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">access</span> करू शकतो. समजून घेण्यासाठी खालील उदाहरण पहा.",
+    "access_element_dictionary_key3": "उदाहरण :-",
+    "access_element_dictionary_key4": "<span style=\"\">Output</span> : -",
+    "access_element_dictionary_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">organisation male 20</span>",
+    "access_element_dictionary_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">get()</span> :-",
+    "access_element_dictionary_key7": "डिक्शनरी व्हॅल्यूज ऍक्सेस करण्यासाठी आम्ही <b>get()</b> फंक्शन देखील वापरू शकतो.",
+    "access_element_dictionary_key8": "उदाहरण :-",
+    "access_element_dictionary_key9": "<span style=\"\">Output</span> : -",
+    "access_element_dictionary_key10": "पुरुष<br> {&#39;संस्था&#39;: &#39;नवगुरुकुल&#39;, &#39;स्थळ&#39;: &#39;धर्मशाळा&#39;}<br> धर्मशाळा"
+}

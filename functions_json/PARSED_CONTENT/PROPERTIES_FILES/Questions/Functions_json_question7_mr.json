@@ -1,0 +1,7 @@
+{
+    "question7_key1": "प्रश्न 7",
+    "question7_key2": "फंक्शन परिभाषित करा जे दोन वितर्क घेते ( <span style=\"\">strings</span> ) आणि सर्वात मोठ्या लांबीसह <span style=\"\">string</span> मिळवते. दोन्ही <span style=\"\">strings</span> समान लांबी असल्यास, दोन्ही <span style=\"\">strings</span> एक दुसऱ्या खाली मुद्रित करा.<br> इशारा:- len() बिल्टइन फंक्शन वापरा..",
+    "question7_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Input:-</span>",
+    "question7_key4": "<b><span style=\"\">Output</span> : -</b>",
+    "question7_key5": "स्वागत<br> शेवट<br> मेनू"
+}

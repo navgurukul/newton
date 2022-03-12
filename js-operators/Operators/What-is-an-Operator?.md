@@ -4,8 +4,6 @@ name: What is an Operator?
 
 Think that you are performing an arithmetical addition problem. In that you are adding two numbers and printing them like below given example.
 
-@[youtube]OAx_6-wdslM
-
 ```javascript
 console.log(1+2); // output: 3
  ```
@@ -27,3 +25,7 @@ Here is a list of different operators you will learn in this tutorial.
     - Assignment Operators
     - Logical Operators
 
+
+We all know about Windows OS we use in our computers. It's a product of Microsoft which is co-founded by Bill Gates. He is an American business magnate, software developer, investor, author, and philanthropist. Let's hear his introduction to computers and revise our understanding of working of computers.  
+
+@[youtube](OAx_6-wdslM)

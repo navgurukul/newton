@@ -17,7 +17,9 @@ To do this in `programming`, we use `if statements`. You can observe the applica
 
 ![whatsapp-ticks](assets/theory_images/if-statement-intro_whatsapp-blue-grey-ticks.jpg)
 
-Watch following video for more clarity
+
+We all know about Windows OS we use in our computers. It's a product of Microsoft which is co-founded by Bill Gates. He is an American business magnate, software developer, investor, author, and philanthropist. Let's hear what he has to say about If Statements in the following video.  
+
 @[youtube](fVUL-vzrIcM)
 
 

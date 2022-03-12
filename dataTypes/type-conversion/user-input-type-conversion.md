@@ -49,7 +49,7 @@ print (type(number3))
 
 #### Now you know how to take user input in python. Do you know how computer take user input from user if don't know you can watch this video
 
-@[youtube](xnyFYiK2rSY&t=2s)
+@[youtube](xnyFYiK2rSY)
 
 ## One more `type conversion and raw_input` example.
 

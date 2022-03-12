@@ -4,7 +4,7 @@
 
 `Binary numbers` are known as machine language or low level language, binary numbers are made of 0 and 1 which humans cannot understand but computers can.
 
-### To understand binary numbers please watch this video
+Limor, founder of Adafruit Industries which is one of the best sellers of electronics components, parts, tools, microcontrollers and many more. Federico is a software developer at Microsoft, one of the current tech giants. Lets hear from Limor and Federico in the following video about how computers works on 0s and 1s, and how computers understands commands given by us through lines of code.
 
 @[youtube](USCBCmwMCDA)
 

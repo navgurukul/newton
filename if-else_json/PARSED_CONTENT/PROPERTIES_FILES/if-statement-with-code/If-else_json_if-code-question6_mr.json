@@ -1,0 +1,7 @@
+{
+    "if-code-question6_key1": "प्रश्न 6",
+    "if-code-question6_key2": "या प्रश्नासाठी फ्लोचार्ट काढा आणि प्रोग्राम लिहा.",
+    "if-code-question6_key3": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> आणि <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vary</span> व्हेरिएबल्समध्ये वापरकर्त्याकडून इनपुट म्हणून दोन संख्या घ्या.",
+    "if-code-question6_key4": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">varx</span> ला <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">vary</span> == ने भाग जातो का ते तपासा.",
+    "if-code-question6_key5": "होय असल्यास, <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Divisible</span> प्रिंट करा अन्यथा <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Not Divisible</span> प्रिंट करा."
+}

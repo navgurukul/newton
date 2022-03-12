@@ -1,0 +1,11 @@
+{
+    "StringQ_key1": "टीप:",
+    "StringQ_key2": "कृपया <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Concatenation</span> बद्दल वाचा.",
+    "StringQ_key3": "प्रश्न 1",
+    "StringQ_key4": "ज्याचा डेटा प्रकार <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> आहे त्या वापरकर्त्याकडून तुम्हाला दोन इनपुट घ्यावे लागतील.",
+    "StringQ_key5": "नंतर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> नावाने व्हेरिएबलमध्ये, दोन्ही वापरकर्त्यांच्या इनपुटची बेरीज संग्रहित करा.",
+    "StringQ_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> व्हेरिएबल मुद्रित करा.## प्रश्न २",
+    "StringQ_key7": "वापरकर्त्याकडून एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">INTEGER</span> टाइप इनपुट आणि एक <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">STRING</span> टाइप इनपुट घ्या.",
+    "StringQ_key8": "नंतर <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> नावाने व्हेरिएबलमध्ये, दोन्ही वापरकर्त्यांच्या इनपुटची बेरीज संग्रहित करा.",
+    "StringQ_key9": "व्हेरिएबल <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">add</span> प्रिंट करा."
+}

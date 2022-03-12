@@ -1,0 +1,10 @@
+{
+    "report-card_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Report Card</span>",
+    "report-card_key2": "कृपया ही यादी पहा:",
+    "report-card_key3": "गेल्या तीन वर्षांतील कोणत्याही विद्यार्थ्याचे हे गुण आहेत. तुम्हाला तीन वर्षांचे एकूण गुण मोजावे लागतील.",
+    "report-card_key4": "वर दिलेल्या नेस्टेड यादीची बेरीज - 1142.",
+    "report-card_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Cases</span>",
+    "report-card_key6": "खालील नेस्टेड सूचीसाठी तुमचा प्रोग्राम देखील तपासा (तुमचा <span style=\"\">code</span> कोणताही बदल न करता चालला पाहिजे, जर तो योग्यरित्या चालत नसेल तर याचा अर्थ असा की तुम्ही <span style=\"\">code</span> योग्यरित्या लिहिले नाही):",
+    "report-card_key7": "वर दिलेल्या नेस्टेड यादीची बेरीज - 965.",
+    "report-card_key8": "वर दिलेल्या नेस्टेड यादीची बेरीज - 1324."
+}

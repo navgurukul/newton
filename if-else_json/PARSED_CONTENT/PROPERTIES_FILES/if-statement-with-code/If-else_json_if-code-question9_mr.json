@@ -1,0 +1,14 @@
+{
+    "if-code-question9_key1": "प्रश्न 9",
+    "if-code-question9_key2": "खालील नियमांचा विचार करा:",
+    "if-code-question9_key3": "<b>५ वर्षे आणि त्याहून अधिक</b> वयाचे लोक शाळेत जाऊ शकतात.",
+    "if-code-question9_key4": "<b>१८ वर्षे आणि त्याहून अधिक</b> वयाचे लोक निवडणुकीत मतदान करू शकतात.",
+    "if-code-question9_key5": "<b>21 वर्षे आणि त्याहून अधिक</b> वयाचे लोक कार चालवू शकतात.",
+    "if-code-question9_key6": "<b>24 वर्षे आणि त्याहून अधिक</b> वयाचे लोक लग्न करू शकतात.",
+    "if-code-question9_key7": "<b>25 वर्षे आणि त्याहून अधिक</b> वयाचे लोक कायदेशीररित्या मद्यपान करू शकतात.",
+    "if-code-question9_key8": "वापरकर्त्याचे <b>वय</b> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">input</span> म्हणून घेणारा फ्लोचार्ट तयार करा. उपरोक्त सूचीमधून वापरकर्ता काय सर्व क्रियाकलाप करू शकतो ते मुद्रित करा. उदाहरणार्थ, वापरकर्त्याने वय <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">20</span> म्हणून प्रविष्ट केल्यास, <span style=\"\">code</span> प्रिंट केले पाहिजे:",
+    "if-code-question9_key9": "तुम्ही शाळेत जाऊ शकता<br> निवडणुकीत मतदान करू शकता",
+    "if-code-question9_key10": "वापरकर्त्याने वय <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">24</span> म्हणून प्रविष्ट केल्यास, <span style=\"\">code</span> प्रिंट होईल:-",
+    "if-code-question9_key11": "तुम्ही शाळेत जाऊ शकता<br> निवडणुकीत मतदान करू शकता<br> तुम्ही कार चालवू शकता<br> तुम्ही लग्न करू शकता",
+    "if-code-question9_key12": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">flowchart</span> तसेच <span style=\"\">code</span> सबमिट करा."
+}

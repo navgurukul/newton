@@ -1,0 +1,13 @@
+{
+    "String_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">String Data Type</span>",
+    "String_key2": "<span style=\"\">Python</span> <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> हा <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">characters or text</span> चा एक क्रम आहे. हे मजकूर डेटा हाताळते. आपण सिंगल किंवा डबल कोट्समध्ये जे काही लिहितो ते <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">python</span> मध्ये <span style=\"\">string</span> आहे.",
+    "String_key3": "उदाहरण :-",
+    "String_key4": "<span style=\"\">Output</span> : -",
+    "String_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello python</span>",
+    "String_key6": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Hello world</span>",
+    "String_key7": "या उदाहरणात, आम्ही दोन भिन्न <span style=\"\">variables</span> घेतले आहेत ज्यात मूल्य <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">double (\" \") quotes or single (' ') quotes.</span> आत लिहिले आहे.",
+    "String_key8": "उदाहरण :-",
+    "String_key9": "<span style=\"\">Output</span> : -",
+    "String_key10": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">str</span>",
+    "String_key11": "( म्हणजे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">string</span> , डेटा प्रकार तपासण्यासाठी आम्ही <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">type()�B</span> )."
+}
