@@ -1,5 +1,5 @@
 {
     "variables-naming-question3_key1": "प्रश्न",
-    "variables-naming-question3_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var.123</span> नाम के एक VARIABLE को एक INTEGER मान असाइन करें।",
-    "variables-naming-question3_key3": "यदि आपका कोड आसानी से चलता है, तो इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">upload�</span> । अगर यह नहीं चलता है तो कमेंट में कारण बताएं और फिर कोड अपलोड करें।"
+    "variables-naming-question3_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">var.123</span> नाम के एक VARIABLE को एक INTEGER वैल्यू असाइन/प्रदान करें।",
+    "variables-naming-question3_key3": "यदि आपका कोड आसानी से चलता है, तो इसे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">upload</span> करे । अगर यह नहीं चलता है तो कमेंट में कारण बताएं और फिर कोड अपलोड करें।"
 }
