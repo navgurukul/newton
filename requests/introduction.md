@@ -27,11 +27,11 @@ To learn more about Json go through this @[link](https://guide.freecodecamp.org/
 
 # Go through the following videos to undertand working of Intenet in a better way
 
-What are IP addresses and DNS?
+## What are IP addresses and DNS?
 
 @[youtube](5o8CwafCxnU)
 
-What Packets, Routers and Reliability?
+## What are Packets, Routers and Reliability?
 
 @[youtube](AYdF7b3nMto)
 
