@@ -61,3 +61,7 @@ mopFloor()
 ironClothes()
 ```
 Let’s explain by one more example by putting the dumb robot helper into the context of a browser. Imagine you tell it to change the color of a button when the button is clicked.
+
+As we have covered some topics above, now it's time to test our knowledge
+
+let's do a project now, Here is the link [EDBMS-Project](https://www.merakilearn.org/course/289/exercise/7683)

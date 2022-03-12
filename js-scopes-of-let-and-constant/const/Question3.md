@@ -8,3 +8,5 @@ const name=’priyanka’
 const name= ‘shreshtha’
 console.log(name)
 ```
+
+let's move to our next concept [Switch-case](https://www.merakilearn.org/course/253/exercise/7293)

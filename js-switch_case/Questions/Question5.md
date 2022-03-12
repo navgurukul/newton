@@ -7,3 +7,5 @@ Write a Python program to accept a filename from the user and print the extensio
 
 ##### Sample filename : abc.java
 ##### Output : java
+
+Let's move to our next concept [Object-Destructuring](https://www.merakilearn.org/course/287/exercise/7680)
