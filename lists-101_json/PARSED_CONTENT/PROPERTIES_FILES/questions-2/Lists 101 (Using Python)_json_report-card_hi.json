@@ -2,9 +2,9 @@
     "report-card_key1": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Report Card</span>",
     "report-card_key2": "कृपया यह सूची देखें:",
     "report-card_key3": "ये पिछले तीन साल के किसी भी छात्र के अंक हैं। आपको तीनों वर्षों के लिए कुल अंकों की गणना करनी होगी।",
-    "report-card_key4": "ऊपर दी गई नेस्टेड सूची का योग - 1142.",
+    "report-card_key4": "ऊपर दी गई Nested list का योग - 1142.",
     "report-card_key5": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">Edge Cases</span>",
-    "report-card_key6": "निम्नलिखित नेस्टेड सूचियों के लिए अपने कार्यक्रम की जाँच करें (आपका <span style=\"\">code</span> बिना कोई बदलाव किए चलना चाहिए, यदि यह ठीक से नहीं चल रहा है तो इसका मतलब है कि आपने <span style=\"\">code</span> ठीक से नहीं लिखा है):",
-    "report-card_key7": "ऊपर दी गई नेस्टेड सूची का योग - 965।",
-    "report-card_key8": "ऊपर दी गई नेस्टेड सूची का योग - 1324।"
+    "report-card_key6": "निम्नलिखित नेस्टेड सूचियों के लिए अपने program की जाँच करें (आपका <span style=\"\">code</span> बिना कोई बदलाव किए चलना चाहिए, यदि यह ठीक से नहीं चल रहा है तो इसका मतलब है कि आपने <span style=\"\">code</span> ठीक से नहीं लिखा है):",
+    "report-card_key7": "ऊपर दी गई नेस्टेड सूची का योग - 965",
+    "report-card_key8": "ऊपर दी गई नेस्टेड सूची का योग - 1324"
 }
