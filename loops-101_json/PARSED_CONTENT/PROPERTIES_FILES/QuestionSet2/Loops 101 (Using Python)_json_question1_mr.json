@@ -1,8 +1,0 @@
-{
-    "question1_key1": "प्रश्न 1",
-    "question1_key2": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">1 to 100</span> जे <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">divisible by 7</span> = आहेत ते सर्व अंक मुद्रित करणारा प्रोग्राम बनवा.",
-    "question1_key3": "टीप:",
-    "question1_key4": "तुम्ही जे <span style=\"\">loop</span> ते 556 पासून सुरू होईल.",
-    "question1_key5": "तुमचे <span style=\"\">output</span> खालीलप्रमाणे असावे.",
-    "question1_key6": "७<br> 14<br> २१<br> २८<br> 35<br> 42<br> 49<br> ५६<br> ६३<br> 70<br> ७७<br> ८४<br> ९१<br> ९८"
-}
