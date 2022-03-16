@@ -4,7 +4,7 @@
 	"innerFunction_key3": "<b>EXAMPLE:-</b>",
 	"innerFunction_key4": "<b><span style=\"\">Output</span> :-</b>",
 	"innerFunction_key5": "I Love Navgurukul",
-	"innerFunction_key6": "In the above example, f2() is a inner function and f1() is outer function. s  is a scope of vaiable f1() ",
+	"innerFunction_key6": "In the above example, f2() is a inner function and f1() is outer function. s  is a variable of scope f1() ",
 	"innerFunction_key7": "Scope of <span style=\"\">variable</span> in nested function",
 	"innerFunction_key8": "Such a place where we can find a <span style=\"\">variable</span> and we can also access it when needed, that place is called <span style=\"\">variable</span> scope.<br>We have read how we can access global <span style=\"\">variables</span> inside a function, but, How do we access the <span style=\"\">variable</span> inside the outer function? let's see the example:",
 	"innerFunction_key9": "<b>Example :-</b>",
