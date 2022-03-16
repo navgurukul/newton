@@ -33,5 +33,5 @@
     "Logical_key32": "c वास्तव में b से बड़ा है इसलिए स्थिति c &gt; b सत्य है लेकिन <span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">not</span> को इसके सामने जोड़ने से विपरीत आउटपुट मिलता है, जो कि झूठा है।#### उदाहरण: -",
     "Logical_key33": "<span style=\"\">Output</span> :-",
     "Logical_key34": "<span style=\"color: #eb9371; background-color: rgba(39, 41, 43, 0.83); box-shadow: 2px 2px 2px rgba(22, 9, 1, 0.6); border-radius: 2px; padding: 2px\">True</span>",
-    "Logical_key35": "तार्किक <span style=\"\">operator</span> और सर्किट को समझने के लिए यह वीडियो देखें"
+    "Logical_key35": "तार्किक <span style=\"\">operator</span> और सर्किट को समझने के लिए यह वीडियो देखें।"
 }
