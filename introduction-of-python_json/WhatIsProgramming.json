@@ -37,6 +37,14 @@
 	},
 	{
 		"component": "text",
+		"value": "In the following video Erica(Engineering Manager at Amazon) and Jerome(Program Manager at Xbox) explains how computer hardware like circuits, CPU, etc are controlled by <span style=\"\">codes</span> that we write. Basically how harware and software works together to <span style=\"\">execute</span> a task. Bill Gates, co-founder of Microsoft and creator of Windows OS, explains how OS works. Hope you'd enjoy it."
+	},
+	{
+		"component": "youtube",
+		"value": "xnyFYiK2rSY"
+	},
+	{
+		"component": "text",
 		"value": "<b>Assignment</b>"
 	},
 	{

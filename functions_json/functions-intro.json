@@ -9,6 +9,10 @@
 		"value": "Function is a <span style=\"\">code</span> of block that only runs when it is called.<br>In the function we pass the data which we call parameter. Function returns data.<br>By using functions, we can write some <span style=\"\">code</span> once and use it many times. This makes our work very easy."
 	},
 	{
+		"component": "text",
+		"value": "Christopher Wesson Bosh who is an American former professional basketball player and actively learning how to <span style=\"\">code</span> along with helping others to learn programming once said, \"I began to notice that the world around me was spinning on an axis powered by varying patterns of 1s and 0s. We’d be fools to ignore the power of mastering the designing and coding of those patterns.\" Let's hear his explanation about functions in the following video."
+	},
+	{
 		"component": "youtube",
 		"value": "8T5acEwfJbw"
 	},

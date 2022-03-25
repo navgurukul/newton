@@ -40,15 +40,23 @@
     "value": "WhatIsProgramming_key10"
   },
   {
+    "component": "youtube",
+    "value": "xnyFYiK2rSY"
+  },
+  {
     "component": "text",
-    "value": "WhatIsProgramming_key11",
+    "value": "WhatIsProgramming_key11"
+  },
+  {
+    "component": "text",
+    "value": "WhatIsProgramming_key12",
     "decoration": {
       "type": "bullet"
     }
   },
   {
     "component": "text",
-    "value": "WhatIsProgramming_key12",
+    "value": "WhatIsProgramming_key13",
     "decoration": {
       "type": "bullet"
     }

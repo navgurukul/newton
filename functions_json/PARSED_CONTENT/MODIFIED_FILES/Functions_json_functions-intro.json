@@ -9,6 +9,10 @@
     "value": "functions-intro_key2"
   },
   {
+    "component": "text",
+    "value": "functions-intro_key3"
+  },
+  {
     "component": "youtube",
     "value": "8T5acEwfJbw"
   },
@@ -20,10 +24,6 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key3"
-  },
-  {
-    "component": "text",
     "value": "functions-intro_key4"
   },
   {
@@ -31,23 +31,23 @@
     "value": "functions-intro_key5"
   },
   {
-    "component": "header",
-    "variant": 2,
+    "component": "text",
     "value": "functions-intro_key6"
   },
   {
-    "component": "text",
+    "component": "header",
+    "variant": 2,
     "value": "functions-intro_key7"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key8"
   },
   {
     "component": "code",
     "type": "python",
     "title": "",
     "value": "names_list = [\"Fiza\", \"Shivam\", \"Imtiyaz\", \"Deepanshu\", \"Rahman\"]<br>print(len(names_list))"
-  },
-  {
-    "component": "text",
-    "value": "functions-intro_key8"
   },
   {
     "component": "text",
@@ -62,14 +62,14 @@
     "value": "functions-intro_key11"
   },
   {
+    "component": "text",
+    "value": "functions-intro_key12"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
     "value": "def definition_say_hello():<br>&emsp;print(\"NavGurukul\")<br>&emsp;print(\"In Navgurukul, we have to take responsibility for our learning.\")<br><br>definition_say_hello()<br><br>print(\"In Navgurukul we treat all the people in the same way.\")<br><br>definition_say_hello()"
-  },
-  {
-    "component": "text",
-    "value": "functions-intro_key12"
   },
   {
     "component": "text",
@@ -97,7 +97,11 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key19",
+    "value": "functions-intro_key19"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key20",
     "decoration": {
       "type": "number",
       "value": 1
@@ -105,7 +109,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key20",
+    "value": "functions-intro_key21",
     "decoration": {
       "type": "number",
       "value": 2
@@ -113,7 +117,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key21",
+    "value": "functions-intro_key22",
     "decoration": {
       "type": "number",
       "value": 3
@@ -121,7 +125,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key22",
+    "value": "functions-intro_key23",
     "decoration": {
       "type": "number",
       "value": 4
@@ -129,7 +133,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key23",
+    "value": "functions-intro_key24",
     "decoration": {
       "type": "number",
       "value": 5
@@ -143,15 +147,15 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key24"
-  },
-  {
-    "component": "text",
     "value": "functions-intro_key25"
   },
   {
     "component": "text",
-    "value": "functions-intro_key26",
+    "value": "functions-intro_key26"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key27",
     "decoration": {
       "type": "number",
       "value": 1
@@ -159,7 +163,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key27",
+    "value": "functions-intro_key28",
     "decoration": {
       "type": "number",
       "value": 2
@@ -167,7 +171,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key28",
+    "value": "functions-intro_key29",
     "decoration": {
       "type": "number",
       "value": 3
@@ -175,7 +179,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key29",
+    "value": "functions-intro_key30",
     "decoration": {
       "type": "number",
       "value": 4
@@ -183,7 +187,7 @@
   },
   {
     "component": "text",
-    "value": "functions-intro_key30",
+    "value": "functions-intro_key31",
     "decoration": {
       "type": "number",
       "value": 5
@@ -192,17 +196,7 @@
   {
     "component": "header",
     "variant": 2,
-    "value": "functions-intro_key31"
-  },
-  {
-    "component": "text",
     "value": "functions-intro_key32"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")"
   },
   {
     "component": "text",
@@ -212,11 +206,17 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")<br>definition_hello_again()"
+    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")"
   },
   {
     "component": "text",
     "value": "functions-intro_key34"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "def definition_hello_again():<br>&emsp;print(\"Again Hello :)\")<br>&emsp;print(\"How are you?\")<br>definition_hello_again()"
   },
   {
     "component": "text",
@@ -229,6 +229,10 @@
   {
     "component": "text",
     "value": "functions-intro_key37"
+  },
+  {
+    "component": "text",
+    "value": "functions-intro_key38"
   },
   {
     "component": "youtube",
