@@ -120,7 +120,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "import webbrowser, sys<br>if len(sys.argv) > 1:<br>    # Get address from command line.<br>    address = ' '.join(sys.argv[1:])"
+    "value": "import webbrowser, sys<br>if len(sys.argv) > 1:<br>&emsp;# Get address from command line.<br>&emsp;address = ' '.join(sys.argv[1:])"
   },
   {
     "component": "header",
@@ -178,7 +178,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "else:<br>    # Get address from clipboard.<br>    address = pyperclip.paste()<br><br>webbrowser.open('https://www.google.com/maps/place/' + address)"
+    "value": "else:<br>&emsp;# Get address from clipboard.<br>&emsp;address = pyperclip.paste()<br><br>webbrowser.open('https://www.google.com/maps/place/' + address)"
   },
   {
     "component": "text",

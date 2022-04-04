@@ -84,7 +84,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',<br>             'blog': 'VmALvQyKAxiVH5G8v01if1MLZF3sdt',<br>             'luggage': '12345'}"
+    "value": "PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',<br>&emsp;&emsp;&emsp; 'blog': 'VmALvQyKAxiVH5G8v01if1MLZF3sdt',<br>&emsp;&emsp;&emsp; 'luggage': '12345'}"
   },
   {
     "component": "header",
@@ -112,7 +112,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "import sys<br>if len(sys.argv) < 2:<br>    print('Usage: python pw.py [account] - copy account password')<br>    sys.exit()<br><br>account = sys.argv[1]      # first command line arg is the account name"
+    "value": "import sys<br>if len(sys.argv) < 2:<br>&emsp;print('Usage: python pw.py [account] - copy account password')<br>&emsp;sys.exit()<br><br>account = sys.argv[1]&emsp;  # first command line arg is the account name"
   },
   {
     "component": "header",
@@ -144,7 +144,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "import sys, pyperclip<br>if len(sys.argv) < 2:<br>    print('Usage: py pw.py [account] - copy account password')<br>    sys.exit()<br><br>account = sys.argv[1]   # first command line arg is the account name<br><br>if account in PASSWORDS:<br>    pyperclip.copy(PASSWORDS[account])<br>    print('Password for ' + account + ' copied to clipboard.')<br>else:<br>    print('There is no account named ' + account)"
+    "value": "import sys, pyperclip<br>if len(sys.argv) < 2:<br>&emsp;print('Usage: py pw.py [account] - copy account password')<br>&emsp;sys.exit()<br><br>account = sys.argv[1]   # first command line arg is the account name<br><br>if account in PASSWORDS:<br>&emsp;pyperclip.copy(PASSWORDS[account])<br>&emsp;print('Password for ' + account + ' copied to clipboard.')<br>else:<br>&emsp;print('There is no account named ' + account)"
   },
   {
     "component": "text",

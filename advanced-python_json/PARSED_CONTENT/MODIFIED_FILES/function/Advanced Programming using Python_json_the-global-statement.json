@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam():<br>❶    global eggs<br>❷    eggs = 'spam'<br><br>  eggs = 'global'<br>  spam()<br>  print(eggs)"
+    "value": "def spam():<br>❶&emsp;global eggs<br>❷&emsp;eggs = 'spam'<br><br>  eggs = 'global'<br>  spam()<br>  print(eggs)"
   },
   {
     "component": "text",
@@ -50,7 +50,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam():<br>❶  global eggs<br>    eggs = 'spam' # this is the global<br><br>  def bacon():<br>❷  eggs = 'bacon' # this is a local<br>  def ham():<br>❸  print(eggs) # this is the global<br><br>  eggs = 42 # this is the global<br>  spam()<br>  print(eggs)"
+    "value": "def spam():<br>❶  global eggs<br>&emsp;eggs = 'spam' # this is the global<br><br>  def bacon():<br>❷  eggs = 'bacon' # this is a local<br>  def ham():<br>❸  print(eggs) # this is the global<br><br>  eggs = 42 # this is the global<br>  spam()<br>  print(eggs)"
   },
   {
     "component": "text",
@@ -77,7 +77,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam():<br>      print(eggs) # ERROR!<br>❶    eggs = 'spam local'<br><br>❷ eggs = 'global'<br>   spam()"
+    "value": "def spam():<br>&emsp;  print(eggs) # ERROR!<br>❶&emsp;eggs = 'spam local'<br><br>❷ eggs = 'global'<br>   spam()"
   },
   {
     "component": "text",

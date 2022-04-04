@@ -22,7 +22,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam.remove('chicken')<br>Traceback (most recent call last):<br>  File \"<pyshell#11>\", line 1, in <module><br>    spam.remove('chicken')<br>ValueError: list.remove(x): x not in list"
+    "value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam.remove('chicken')<br>Traceback (most recent call last):<br>  File \"<pyshell#11>\", line 1, in <module><br>&emsp;spam.remove('chicken')<br>ValueError: list.remove(x): x not in list"
   },
   {
     "component": "text",

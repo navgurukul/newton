@@ -30,7 +30,7 @@
 	},
 	{
 		"component": "text",
-		"value": "# Open image file using Pillow.<br><br>    # Check if width & height are larger than 500.<br>    if TODO:<br>        # Image is large enough to be considered a photo.<br>        numPhotoFiles += 1<br>    else:<br>        # Image is too small to be a photo.<br>        numNonPhotoFiles += 1<br><br># If more than half of files were photos,<br># print the absolute path of the folder.<br>if TODO:<br>    print(TODO)"
+		"value": "&emsp;# Open image file using Pillow.<br><br>&emsp;# Check if width & height are larger than 500.<br>&emsp;if TODO:<br>&emsp;&emsp;# Image is large enough to be considered a photo.<br>&emsp;&emsp;numPhotoFiles += 1<br>&emsp;else:<br>&emsp;&emsp;# Image is too small to be a photo.<br>&emsp;&emsp;numNonPhotoFiles += 1<br><br># If more than half of files were photos,<br># print the absolute path of the folder.<br>if TODO:<br>&emsp;print(TODO)"
 	},
 	{
 		"component": "text",

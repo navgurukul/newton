@@ -48,7 +48,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "import random<br>for i in range(5):<br>    print(random.randint(1, 10))"
+    "value": "import random<br>for i in range(5):<br>&emsp;print(random.randint(1, 10))"
   },
   {
     "component": "text",
@@ -92,7 +92,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "import sys<br><br>while True:<br>    print('Type exit to exit.')<br>    response = input()<br>    if response == 'exit':<br>        sys.exit()<br>    print('You typed ' + response + '.')"
+    "value": "import sys<br><br>while True:<br>&emsp;print('Type exit to exit.')<br>&emsp;response = input()<br>&emsp;if response == 'exit':<br>&emsp;&emsp;sys.exit()<br>&emsp;print('You typed ' + response + '.')"
   },
   {
     "component": "text",

@@ -1,0 +1,6 @@
+{
+	"converting-strings-into-datetime-objects_key1": "Converting `Strings` into datetime Objects\n",
+	"converting-strings-into-datetime-objects_key2": "If you have a `string` of date information, such as '2015/10/21 16:29:00' or 'October 21, 2015', and need to convert it to a datetime object, use the datetime.datetime.strptime() function. The strptime() function is the inverse of the strftime() method. A custom format `string` using the same directives as strftime() must be passed so that strptime() knows how to parse and understand the `string`. (The p in the name of the strptime() function stands for parse.)\n",
+	"converting-strings-into-datetime-objects_key3": "Enter the following into the interactive `shell`:\n",
+	"converting-strings-into-datetime-objects_key4": "   datetime.datetime(2063, 11, 1, 0, 0)\nTo get a datetime object from the `string` 'October 21, 2015', pass 'October 21, 2015' as the first argument to strptime() and the custom format `string` that corresponds to 'October 21, 2015' as the second argument ❶. The `string` with the date information must match the custom format `string` exactly, or `Python` will raise a Value`Error` exception.\n"
+}

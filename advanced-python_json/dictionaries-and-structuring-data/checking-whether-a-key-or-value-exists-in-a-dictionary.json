@@ -45,7 +45,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> picnicItems = {'apples': 5, 'cups': 2}<br>>>> 'I am bringing ' + str(picnicItems['eggs']) + ' eggs.'<br>Traceback (most recent call last):<br>  File \"<pyshell#34>\", line 1, in <module><br>    'I am bringing ' + str(picnicItems['eggs']) + ' eggs.'<br>KeyError: 'eggs'<br>The setdefault() Method"
+		"value": ">>> picnicItems = {'apples': 5, 'cups': 2}<br>>>> 'I am bringing ' + str(picnicItems['eggs']) + ' eggs.'<br>Traceback (most recent call last):<br>  File \"<pyshell#34>\", line 1, in <module><br>&emsp;'I am bringing ' + str(picnicItems['eggs']) + ' eggs.'<br>KeyError: 'eggs'<br>The setdefault() Method"
 	},
 	{
 		"component": "text",
@@ -55,7 +55,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "spam = {'name': 'Pooka', 'age': 5}<br>if 'color' not in spam:<br>    spam['color'] = 'black'"
+		"value": "spam = {'name': 'Pooka', 'age': 5}<br>if 'color' not in spam:<br>&emsp;spam['color'] = 'black'"
 	},
 	{
 		"component": "text",
@@ -79,7 +79,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "message = 'It was a bright cold day in April, and the clocks were striking thirteen.'<br>count = {}<br><br>for character in message:<br>    count.setdefault(character, 0)<br>    count[character] = count[character] + 1<br><br>print(count)"
+		"value": "message = 'It was a bright cold day in April, and the clocks were striking thirteen.'<br>count = {}<br><br>for character in message:<br>&emsp;count.setdefault(character, 0)<br>&emsp;count[character] = count[character] + 1<br><br>print(count)"
 	},
 	{
 		"component": "text",

@@ -12,7 +12,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> import PyPDF2<br>   >>> pdfFile = open('meetingminutes.pdf', 'rb')<br>   >>> pdfReader = PyPDF2.PdfFileReader(pdfFile)<br>   >>> pdfWriter = PyPDF2.PdfFileWriter()<br>   >>> for pageNum in range(pdfReader.numPages):<br>           pdfWriter.addPage(pdfReader.getPage(pageNum))<br><br>❶ >>> pdfWriter.encrypt('swordfish')<br>   >>> resultPdf = open('encryptedminutes.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdf)<br>   >>> resultPdf.close()"
+		"value": ">>> import PyPDF2<br>   >>> pdfFile = open('meetingminutes.pdf', 'rb')<br>   >>> pdfReader = PyPDF2.PdfFileReader(pdfFile)<br>   >>> pdfWriter = PyPDF2.PdfFileWriter()<br>   >>> for pageNum in range(pdfReader.numPages):<br>&emsp;&emsp;   pdfWriter.addPage(pdfReader.getPage(pageNum))<br><br>❶ >>> pdfWriter.encrypt('swordfish')<br>   >>> resultPdf = open('encryptedminutes.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdf)<br>   >>> resultPdf.close()"
 	},
 	{
 		"component": "text",

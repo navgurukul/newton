@@ -186,7 +186,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Download the page.<br>    print('Downloading page %s...' % url)<br>    res = requests.get(url)<br>    res.raise_for_status()<br><br>    soup = bs4.BeautifulSoup(res.text)"
+    "value": "&emsp;# Download the page.<br>&emsp;print('Downloading page %s...' % url)<br>&emsp;res = requests.get(url)<br>&emsp;res.raise_for_status()<br><br>&emsp;soup = bs4.BeautifulSoup(res.text)"
   },
   {
     "component": "text",
@@ -226,7 +226,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Find the URL of the comic image.<br>    comicElem = soup.select('#comic img')<br>    if comicElem == []:<br>         print('Could not find comic image.')<br>    else:<br>         try:<br>             comicUrl = 'http:' + comicElem[0].get('src')<br>             # Download the image.<br>             print('Downloading image %s...' % (comicUrl))<br>             res = requests.get(comicUrl)<br>             res.raise_for_status()<br>         except requests.exceptions.MissingSchema:<br>             # skip this comic<br>             prevLink = soup.select('a[rel=\"prev\"]')[0]<br>             url = 'http://xkcd.com' + prevLink.get('href')<br>             continue"
+    "value": "&emsp;# Find the URL of the comic image.<br>&emsp;comicElem = soup.select('#comic img')<br>&emsp;if comicElem == []:<br>&emsp;&emsp; print('Could not find comic image.')<br>&emsp;else:<br>&emsp;&emsp; try:<br>&emsp;&emsp;&emsp; comicUrl = 'http:' + comicElem[0].get('src')<br>&emsp;&emsp;&emsp; # Download the image.<br>&emsp;&emsp;&emsp; print('Downloading image %s...' % (comicUrl))<br>&emsp;&emsp;&emsp; res = requests.get(comicUrl)<br>&emsp;&emsp;&emsp; res.raise_for_status()<br>&emsp;&emsp; except requests.exceptions.MissingSchema:<br>&emsp;&emsp;&emsp; # skip this comic<br>&emsp;&emsp;&emsp; prevLink = soup.select('a[rel=\"prev\"]')[0]<br>&emsp;&emsp;&emsp; url = 'http://xkcd.com' + prevLink.get('href')<br>&emsp;&emsp;&emsp; continue"
   },
   {
     "component": "text",
@@ -269,7 +269,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Save the image to ./xkcd.<br>        imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)), 'wb')<br>        for chunk in res.iter_content(100000):<br>            imageFile.write(chunk)<br>        imageFile.close()<br><br>    # Get the Prev button's url.<br>    prevLink = soup.select('a[rel=\"prev\"]')[0]<br>    url = 'http://xkcd.com' + prevLink.get('href')"
+    "value": "&emsp;&emsp;# Save the image to ./xkcd.<br>&emsp;&emsp;imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)), 'wb')<br>&emsp;&emsp;for chunk in res.iter_content(100000):<br>&emsp;&emsp;&emsp;imageFile.write(chunk)<br>&emsp;&emsp;imageFile.close()<br><br>&emsp;# Get the Prev button's url.<br>&emsp;prevLink = soup.select('a[rel=\"prev\"]')[0]<br>&emsp;url = 'http://xkcd.com' + prevLink.get('href')"
   },
   {
     "component": "text",

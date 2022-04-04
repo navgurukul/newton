@@ -1,0 +1,19 @@
+{
+	"practice-questions_key1": "Practice Questions\n",
+	"practice-questions_key2": "Q:\n",
+	"practice-questions_key3": "What is the Unix epoch?\n\n\n",
+	"practice-questions_key4": "Q:\n",
+	"practice-questions_key5": "What function returns the number of seconds since the Unix epoch?\n\n\n",
+	"practice-questions_key6": "Q:\n",
+	"practice-questions_key7": "How can you pause your program for exactly 5 seconds?\n\n\n",
+	"practice-questions_key8": "Q:\n",
+	"practice-questions_key9": "What does the round() function return?\n\n\n",
+	"practice-questions_key10": "Q:\n",
+	"practice-questions_key11": "What is the difference between a datetime object and a timedelta object?\n\n\n",
+	"practice-questions_key12": "Q:\n",
+	"practice-questions_key13": "Say you have a function named spam(). How can you call this function and run the `code` inside it in a separate thread?\n\n\n",
+	"practice-questions_key14": "Q:\n",
+	"practice-questions_key15": "What should you do to avoid concurrency issues with multiple threads?\n\n\n",
+	"practice-questions_key16": "Q:\n",
+	"practice-questions_key17": "How can you have your `Python` program run the calc.exe program located in the C:\\Windows\\System32 folder?\n"
+}

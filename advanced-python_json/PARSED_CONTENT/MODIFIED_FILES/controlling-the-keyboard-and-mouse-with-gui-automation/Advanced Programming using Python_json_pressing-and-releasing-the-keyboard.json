@@ -42,7 +42,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> import pyautogui, time<br>   >>> def commentAfterDelay():<br>❶       pyautogui.click(100, 100)<br>❷       pyautogui.typewrite('In IDLE, Alt-3 comments out a line.')<br>         time.sleep(2)<br>❸       pyautogui.hotkey('alt', '3')<br><br>   >>> commentAfterDelay()"
+    "value": ">>> import pyautogui, time<br>   >>> def commentAfterDelay():<br>❶&emsp;   pyautogui.click(100, 100)<br>❷&emsp;   pyautogui.typewrite('In IDLE, Alt-3 comments out a line.')<br>&emsp;&emsp; time.sleep(2)<br>❸&emsp;   pyautogui.hotkey('alt', '3')<br><br>   >>> commentAfterDelay()"
   },
   {
     "component": "text",

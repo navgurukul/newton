@@ -11,7 +11,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "❶ def hello():<br>❷     print('Howdy!')<br>       print('Howdy!!!')<br>       print('Hello there.')<br>❸ hello()<br>   hello()<br>   hello()"
+		"value": "❶ def hello():<br>❷&emsp; print('Howdy!')<br>&emsp;   print('Howdy!!!')<br>&emsp;   print('Hello there.')<br>❸ hello()<br>   hello()<br>   hello()"
 	},
 	{
 		"component": "text",

@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "for i in range(4):<br>    print(i)"
+    "value": "for i in range(4):<br>&emsp;print(i)"
   },
   {
     "component": "text",
@@ -26,7 +26,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "for i in [0, 1, 2, 3]:<br>    print(i)<br>What the previous for loop actually does is loop through its clause with the variable i set to a successive value in the [0, 1, 2, 3] list in each iteration."
+    "value": "for i in [0, 1, 2, 3]:<br>&emsp;print(i)<br>What the previous for loop actually does is loop through its clause with the variable i set to a successive value in the [0, 1, 2, 3] list in each iteration."
   },
   {
     "component": "header",
@@ -45,7 +45,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> supplies = ['pens', 'staplers', 'flame-throwers', 'binders']<br>>>> for i in range(len(supplies)):<br>    print('Index ' + str(i) + ' in supplies is: ' + supplies[i])<br><br>Index 0 in supplies is: pens<br>Index 1 in supplies is: staplers<br>Index 2 in supplies is: flame-throwers<br>Index 3 in supplies is: binders"
+    "value": ">>> supplies = ['pens', 'staplers', 'flame-throwers', 'binders']<br>>>> for i in range(len(supplies)):<br>&emsp;print('Index ' + str(i) + ' in supplies is: ' + supplies[i])<br><br>Index 0 in supplies is: pens<br>Index 1 in supplies is: staplers<br>Index 2 in supplies is: flame-throwers<br>Index 3 in supplies is: binders"
   },
   {
     "component": "text",

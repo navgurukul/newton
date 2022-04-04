@@ -1,4 +1,4 @@
-- keeping-time-scheduling-tasks-and-launching-programs
+- keeping-time 
 	- passing-arguments-to-the-threads-target-function.json
 	- project-multithreaded-xkcd-downloader.json
 	- aunching-other-programs-from-python.json
@@ -19,7 +19,7 @@
 	- the-datetime-module.json
 	- the-time-sleep()-function.json
 	- the-timedelta-data-type.json
-- working-with-csv-files-and-json-data
+- csv-files-and-json-data
 	- project-fetching-current-weather-data.json
 	- project-removing-the-header-from-csv-files.json
 	- reader-objects.json

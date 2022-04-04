@@ -49,7 +49,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "name = 'Mary'<br>password = 'swordfish'<br>if name == 'Mary':<br>    print('Hello Mary')<br>    if password == 'swordfish':<br>        print('Access granted.')<br>    else:<br>        print('Wrong password.')"
+		"value": "name = 'Mary'<br>password = 'swordfish'<br>if name == 'Mary':<br>&emsp;print('Hello Mary')<br>&emsp;if password == 'swordfish':<br>&emsp;&emsp;print('Access granted.')<br>&emsp;else:<br>&emsp;&emsp;print('Wrong password.')"
 	},
 	{
 		"component": "text",

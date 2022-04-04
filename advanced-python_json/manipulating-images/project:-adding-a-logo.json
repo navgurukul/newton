@@ -192,7 +192,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Loop over all files in the working directory.<br>❶ for filename in os.listdir('.'):<br>❷     if not (filename.endswith('.png') or filename.endswith('.jpg')) \\<br>          or filename == LOGO_FILENAME:<br>❸         continue # skip non-image files and the logo file itself<br><br>❹     im = Image.open(filename)<br>       width, height = im.size"
+		"value": "# Loop over all files in the working directory.<br>❶ for filename in os.listdir('.'):<br>❷&emsp; if not (filename.endswith('.png') or filename.endswith('.jpg')) \\<br>&emsp;&emsp;  or filename == LOGO_FILENAME:<br>❸&emsp;&emsp; continue # skip non-image files and the logo file itself<br><br>❹&emsp; im = Image.open(filename)<br>&emsp;   width, height = im.size"
 	},
 	{
 		"component": "text",
@@ -233,7 +233,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Check if image needs to be resized.<br>      if width > SQUARE_FIT_SIZE and height > SQUARE_FIT_SIZE:<br>          # Calculate the new width and height to resize to.<br>          if width > height:<br>❶            height = int((SQUARE_FIT_SIZE / width) * height)<br>              width = SQUARE_FIT_SIZE<br>          else:<br>❷            width = int((SQUARE_FIT_SIZE / height) * width)<br>              height = SQUARE_FIT_SIZE<br><br>          # Resize the image.<br>          print('Resizing %s...' % (filename))<br>     ❸     im = im.resize((width, height))"
+		"value": "&emsp;  # Check if image needs to be resized.<br>&emsp;  if width > SQUARE_FIT_SIZE and height > SQUARE_FIT_SIZE:<br>&emsp;&emsp;  # Calculate the new width and height to resize to.<br>&emsp;&emsp;  if width > height:<br>❶&emsp;&emsp;&emsp;height = int((SQUARE_FIT_SIZE / width) * height)<br>&emsp;&emsp;&emsp;  width = SQUARE_FIT_SIZE<br>&emsp;&emsp;  else:<br>❷&emsp;&emsp;&emsp;width = int((SQUARE_FIT_SIZE / height) * width)<br>&emsp;&emsp;&emsp;  height = SQUARE_FIT_SIZE<br><br>&emsp;&emsp;  # Resize the image.<br>&emsp;&emsp;  print('Resizing %s...' % (filename))<br>&emsp; ❸&emsp; im = im.resize((width, height))"
 	},
 	{
 		"component": "text",
@@ -294,7 +294,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Add the logo.<br>❶  print('Adding logo to %s...' % (filename))<br>❷  im.paste(logoIm, (width - logoWidth, height - logoHeight), logoIm)<br><br>    # Save changes.<br>❸  im.save(os.path.join('withLogo', filename))"
+		"value": "&emsp;# Add the logo.<br>❶  print('Adding logo to %s...' % (filename))<br>❷  im.paste(logoIm, (width - logoWidth, height - logoHeight), logoIm)<br><br>&emsp;# Save changes.<br>❸  im.save(os.path.join('withLogo', filename))"
 	},
 	{
 		"component": "text",

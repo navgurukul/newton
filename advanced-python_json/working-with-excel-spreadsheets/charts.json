@@ -60,7 +60,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> import openpyxl<br>>>> wb = openpyxl.Workbook()<br>>>> sheet = wb.active<br>>>> for i in range(1, 11):         # create some data in column A<br>        sheet['A' + str(i)] = i<br><br>>>> refObj = openpyxl.chart.Reference(sheet, min_col=1, min_row=1, max_col=1, max_row=10)<br><br>>>> seriesObj = openpyxl.chart.Series(refObj, title='First series')<br><br>>>> chartObj = openpyxl.chart.BarChart()<br>>>> chartObj.title = 'My Chart'<br>>>> chartObj.append(seriesObj)<br>>>> sheet.add_chart(chartObj, 'C5')<br>>>> wb.save('sampleChart.xlsx')<br>This produces a spreadsheet that looks like Figure 12-10."
+		"value": ">>> import openpyxl<br>>>> wb = openpyxl.Workbook()<br>>>> sheet = wb.active<br>>>> for i in range(1, 11):&emsp;&emsp; # create some data in column A<br>&emsp;&emsp;sheet['A' + str(i)] = i<br><br>>>> refObj = openpyxl.chart.Reference(sheet, min_col=1, min_row=1, max_col=1, max_row=10)<br><br>>>> seriesObj = openpyxl.chart.Series(refObj, title='First series')<br><br>>>> chartObj = openpyxl.chart.BarChart()<br>>>> chartObj.title = 'My Chart'<br>>>> chartObj.append(seriesObj)<br>>>> sheet.add_chart(chartObj, 'C5')<br>>>> wb.save('sampleChart.xlsx')<br>This produces a spreadsheet that looks like Figure 12-10."
 	},
 	{
 		"component": "text",

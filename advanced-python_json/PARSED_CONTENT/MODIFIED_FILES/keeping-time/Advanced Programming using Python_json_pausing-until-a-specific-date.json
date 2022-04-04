@@ -1,0 +1,21 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "pausing-until-a-specific-date_key1"
+  },
+  {
+    "component": "text",
+    "value": "pausing-until-a-specific-date_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import datetime<br>import time<br>halloween2016 = datetime.datetime(2016, 10, 31, 0, 0, 0)<br>while datetime.datetime.now() < halloween2016:<br>&emsp;time.sleep(1)"
+  },
+  {
+    "component": "text",
+    "value": "pausing-until-a-specific-date_key3"
+  }
+]

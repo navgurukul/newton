@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam():<br>    eggs = 31337<br>spam()<br>print(eggs)"
+    "value": "def spam():<br>&emsp;eggs = 31337<br>spam()<br>print(eggs)"
   },
   {
     "component": "text",
@@ -22,7 +22,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "Traceback (most recent call last):<br>  File \"C:/test3784.py\", line 4, in <module><br>    print(eggs)<br>NameError: name 'eggs' is not defined"
+    "value": "Traceback (most recent call last):<br>  File \"C:/test3784.py\", line 4, in <module><br>&emsp;print(eggs)<br>NameError: name 'eggs' is not defined"
   },
   {
     "component": "text",

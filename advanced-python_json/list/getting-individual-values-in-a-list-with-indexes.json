@@ -34,7 +34,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[10000]<br>Traceback (most recent call last):<br>  File \"<pyshell#9>\", line 1, in <module><br>    spam[10000]<br>IndexError: list index out of range"
+		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[10000]<br>Traceback (most recent call last):<br>  File \"<pyshell#9>\", line 1, in <module><br>&emsp;spam[10000]<br>IndexError: list index out of range"
 	},
 	{
 		"component": "text",
@@ -44,7 +44,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[1]<br>'bat'<br>>>> spam[1.0]<br>Traceback (most recent call last):<br>  File \"<pyshell#13>\", line 1, in <module><br>    spam[1.0]<br>TypeError: list indices must be integers, not float<br>>>> spam[int(1.0)]<br>'bat'<br>Lists can also contain other list values. The values in these lists of lists can be accessed using multiple indexes, like so:<br><br><br>>>> spam = [['cat', 'bat'], [10, 20, 30, 40, 50]]<br>>>> spam[0]<br>['cat', 'bat']<br>>>> spam[0][1]<br>'bat'<br>>>> spam[1][4]<br>50"
+		"value": ">>> spam = ['cat', 'bat', 'rat', 'elephant']<br>>>> spam[1]<br>'bat'<br>>>> spam[1.0]<br>Traceback (most recent call last):<br>  File \"<pyshell#13>\", line 1, in <module><br>&emsp;spam[1.0]<br>TypeError: list indices must be integers, not float<br>>>> spam[int(1.0)]<br>'bat'<br>Lists can also contain other list values. The values in these lists of lists can be accessed using multiple indexes, like so:<br><br><br>>>> spam = [['cat', 'bat'], [10, 20, 30, 40, 50]]<br>>>> spam[0]<br>['cat', 'bat']<br>>>> spam[0][1]<br>'bat'<br>>>> spam[1][4]<br>50"
 	},
 	{
 		"component": "text",

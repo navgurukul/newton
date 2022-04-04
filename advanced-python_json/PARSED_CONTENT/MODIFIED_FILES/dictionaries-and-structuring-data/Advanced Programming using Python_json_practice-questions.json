@@ -135,6 +135,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}<br><br>def displayInventory(inventory):<br>    print(\"Inventory:\")<br>    item_total = 0<br>    for k, v in inventory.items():<br>        # FILL IN THE CODE HERE<br>    print(\"Total number of items: \" + str(item_total))<br><br>displayInventory(stuff)"
+    "value": "stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}<br><br>def displayInventory(inventory):<br>&emsp;print(\"Inventory:\")<br>&emsp;item_total = 0<br>&emsp;for k, v in inventory.items():<br>&emsp;&emsp;# FILL IN THE CODE HERE<br>&emsp;print(\"Total number of items: \" + str(item_total))<br><br>displayInventory(stuff)"
   }
 ]

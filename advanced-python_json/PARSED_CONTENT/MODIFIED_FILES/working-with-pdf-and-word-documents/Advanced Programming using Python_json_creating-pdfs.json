@@ -57,7 +57,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> import PyPDF2<br>   >>> pdf1File = open('meetingminutes.pdf', 'rb')<br>   >>> pdf2File = open('meetingminutes2.pdf', 'rb')<br>❶ >>> pdf1Reader = PyPDF2.PdfFileReader(pdf1File)<br>❷ >>> pdf2Reader = PyPDF2.PdfFileReader(pdf2File)<br>❸ >>> pdfWriter = PyPDF2.PdfFileWriter()<br><br>   >>> for pageNum in range(pdf1Reader.numPages):<br>❹         pageObj = pdf1Reader.getPage(pageNum)<br>❺         pdfWriter.addPage(pageObj)<br><br>   >>> for pageNum in range(pdf2Reader.numPages):<br>❻         pageObj = pdf2Reader.getPage(pageNum)<br>❼         pdfWriter.addPage(pageObj)<br><br>❽ >>> pdfOutputFile = open('combinedminutes.pdf', 'wb')<br>   >>> pdfWriter.write(pdfOutputFile)<br>   >>> pdfOutputFile.close()<br>   >>> pdf1File.close()<br>   >>> pdf2File.close()"
+    "value": ">>> import PyPDF2<br>   >>> pdf1File = open('meetingminutes.pdf', 'rb')<br>   >>> pdf2File = open('meetingminutes2.pdf', 'rb')<br>❶ >>> pdf1Reader = PyPDF2.PdfFileReader(pdf1File)<br>❷ >>> pdf2Reader = PyPDF2.PdfFileReader(pdf2File)<br>❸ >>> pdfWriter = PyPDF2.PdfFileWriter()<br><br>   >>> for pageNum in range(pdf1Reader.numPages):<br>❹&emsp;&emsp; pageObj = pdf1Reader.getPage(pageNum)<br>❺&emsp;&emsp; pdfWriter.addPage(pageObj)<br><br>   >>> for pageNum in range(pdf2Reader.numPages):<br>❻&emsp;&emsp; pageObj = pdf2Reader.getPage(pageNum)<br>❼&emsp;&emsp; pdfWriter.addPage(pageObj)<br><br>❽ >>> pdfOutputFile = open('combinedminutes.pdf', 'wb')<br>   >>> pdfWriter.write(pdfOutputFile)<br>   >>> pdfOutputFile.close()<br>   >>> pdf1File.close()<br>   >>> pdf2File.close()"
   },
   {
     "component": "text",

@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "myPets = ['Zophie', 'Pooka', 'Fat-tail']<br>print('Enter a pet name:')<br>name = input()<br>if name not in myPets:<br>    print('I do not have a pet named ' + name)<br>else:<br>    print(name + ' is my pet.')"
+		"value": "myPets = ['Zophie', 'Pooka', 'Fat-tail']<br>print('Enter a pet name:')<br>name = input()<br>if name not in myPets:<br>&emsp;print('I do not have a pet named ' + name)<br>else:<br>&emsp;print(name + ' is my pet.')"
 	},
 	{
 		"component": "text",

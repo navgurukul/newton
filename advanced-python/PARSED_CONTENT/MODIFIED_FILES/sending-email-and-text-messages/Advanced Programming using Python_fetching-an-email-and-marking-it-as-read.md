@@ -14,7 +14,7 @@ fetching-an-email-and-marking-it-as-read_key4
 >>> pprint.pprint(rawMessages)
 ```
 fetching-an-email-and-marking-it-as-read_key5
-[fetching-an-email-and-marking-it-as-read_key6](mailto:&#109;&#121;&#95;&#101;&#109;&#x61;&#x69;&#x6c;&#95;&#x61;&#x64;&#x64;&#114;&#101;&#x73;&#x73;&#x40;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#109;)
+[fetching-an-email-and-marking-it-as-read_key6](mailto:&#x6d;&#121;&#x5f;&#101;&#x6d;&#97;&#x69;&#x6c;&#95;&#x61;&#100;&#100;&#x72;&#101;&#115;&#x73;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#x6d;)
 fetching-an-email-and-marking-it-as-read_key7
 ```python
 >>> imapObj.select_folder('INBOX', readonly=False)

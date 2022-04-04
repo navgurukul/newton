@@ -57,7 +57,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>&emsp;&emsp;&emsp;'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>&emsp;&emsp;&emsp;'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
 	},
 	{
 		"component": "text",
@@ -75,7 +75,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': 'X', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>&emsp;&emsp;&emsp;'mid-L': ' ', 'mid-M': 'X', 'mid-R': ' ',<br>&emsp;&emsp;&emsp;'low-L': ' ', 'low-M': ' ', 'low-R': ' '}"
 	},
 	{
 		"component": "text",
@@ -93,7 +93,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O',<br>            'mid-L': 'X', 'mid-M': 'X', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}"
+		"value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O',<br>&emsp;&emsp;&emsp;'mid-L': 'X', 'mid-M': 'X', 'mid-R': ' ',<br>&emsp;&emsp;&emsp;'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}"
 	},
 	{
 		"component": "text",
@@ -111,7 +111,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>            'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>            'low-L': ' ', 'low-M': ' ', 'low-R': ' '}<br>def printBoard(board):<br>    print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>    print('-+-+-')<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>    print('-+-+-')<br>    print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
+		"value": "theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',<br>&emsp;&emsp;&emsp;'mid-L': ' ', 'mid-M': ' ', 'mid-R': ' ',<br>&emsp;&emsp;&emsp;'low-L': ' ', 'low-M': ' ', 'low-R': ' '}<br>def printBoard(board):<br>&emsp;print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>&emsp;print('-+-+-')<br>&emsp;print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>&emsp;print('-+-+-')<br>&emsp;print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
 	},
 	{
 		"component": "text",
@@ -125,7 +125,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O', 'mid-L': 'X', 'mid-M':<br>'X', 'mid-R': ' ', 'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}<br><br>def printBoard(board):<br>    print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>    print('-+-+-')<br>    print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>    print('-+-+-')<br>    print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
+		"value": "theBoard = {'top-L': 'O', 'top-M': 'O', 'top-R': 'O', 'mid-L': 'X', 'mid-M':<br>'X', 'mid-R': ' ', 'low-L': ' ', 'low-M': ' ', 'low-R': 'X'}<br><br>def printBoard(board):<br>&emsp;print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>&emsp;print('-+-+-')<br>&emsp;print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>&emsp;print('-+-+-')<br>&emsp;print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>printBoard(theBoard)"
 	},
 	{
 		"component": "text",
@@ -151,7 +151,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def printBoard(board):<br>       print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>       print('-+-+-')<br>       print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>       print('-+-+-')<br>       print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>   turn = 'X'<br>   for i in range(9):<br>❶      printBoard(theBoard)<br>        print('Turn for ' + turn + '. Move on which space?')<br>❷      move = input()<br>❸      theBoard[move] = turn<br>❹      if turn == 'X':<br>            turn = 'O'<br>        else:<br>            turn = 'X'<br>   printBoard(theBoard)"
+		"value": "def printBoard(board):<br>&emsp;   print(board['top-L'] + '|' + board['top-M'] + '|' + board['top-R'])<br>&emsp;   print('-+-+-')<br>&emsp;   print(board['mid-L'] + '|' + board['mid-M'] + '|' + board['mid-R'])<br>&emsp;   print('-+-+-')<br>&emsp;   print(board['low-L'] + '|' + board['low-M'] + '|' + board['low-R'])<br>   turn = 'X'<br>   for i in range(9):<br>❶&emsp;  printBoard(theBoard)<br>&emsp;&emsp;print('Turn for ' + turn + '. Move on which space?')<br>❷&emsp;  move = input()<br>❸&emsp;  theBoard[move] = turn<br>❹&emsp;  if turn == 'X':<br>&emsp;&emsp;&emsp;turn = 'O'<br>&emsp;&emsp;else:<br>&emsp;&emsp;&emsp;turn = 'X'<br>   printBoard(theBoard)"
 	},
 	{
 		"component": "text",

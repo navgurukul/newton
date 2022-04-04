@@ -25,7 +25,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> spam = ['hello', 'hi', 'howdy', 'heyas']<br>>>> spam.index('hello')<br>0<br>>>> spam.index('heyas')<br>3<br>>>> spam.index('howdy howdy howdy')<br>Traceback (most recent call last):<br>  File \"<pyshell#31>\", line 1, in <module><br>    spam.index('howdy howdy howdy')<br>ValueError: 'howdy howdy howdy' is not in list"
+    "value": ">>> spam = ['hello', 'hi', 'howdy', 'heyas']<br>>>> spam.index('hello')<br>0<br>>>> spam.index('heyas')<br>3<br>>>> spam.index('howdy howdy howdy')<br>Traceback (most recent call last):<br>  File \"<pyshell#31>\", line 1, in <module><br>&emsp;spam.index('howdy howdy howdy')<br>ValueError: 'howdy howdy howdy' is not in list"
   },
   {
     "component": "text",
@@ -74,6 +74,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> eggs = 'hello'<br>>>> eggs.append('world')<br>Traceback (most recent call last):<br>  File \"<pyshell#19>\", line 1, in <module><br>    eggs.append('world')<br>AttributeError: 'str' object has no attribute 'append'<br>>>> bacon = 42<br>>>> bacon.insert(1, 'world')<br>Traceback (most recent call last):<br>  File \"<pyshell#22>\", line 1, in <module><br>    bacon.insert(1, 'world')<br>AttributeError: 'int' object has no attribute 'insert'"
+    "value": ">>> eggs = 'hello'<br>>>> eggs.append('world')<br>Traceback (most recent call last):<br>  File \"<pyshell#19>\", line 1, in <module><br>&emsp;eggs.append('world')<br>AttributeError: 'str' object has no attribute 'append'<br>>>> bacon = 42<br>>>> bacon.insert(1, 'world')<br>Traceback (most recent call last):<br>  File \"<pyshell#22>\", line 1, in <module><br>&emsp;bacon.insert(1, 'world')<br>AttributeError: 'int' object has no attribute 'insert'"
   }
 ]

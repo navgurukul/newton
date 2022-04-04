@@ -32,7 +32,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> import requests<br>>>> res = requests.get('https://automatetheboringstuff.com/files/rj.txt')<br>>>> res.raise_for_status()<br>>>> playFile = open('RomeoAndJuliet.txt', 'wb')<br>>>> for chunk in res.iter_content(100000):<br>        playFile.write(chunk)"
+    "value": ">>> import requests<br>>>> res = requests.get('https://automatetheboringstuff.com/files/rj.txt')<br>>>> res.raise_for_status()<br>>>> playFile = open('RomeoAndJuliet.txt', 'wb')<br>>>> for chunk in res.iter_content(100000):<br>&emsp;&emsp;playFile.write(chunk)"
   },
   {
     "component": "text",

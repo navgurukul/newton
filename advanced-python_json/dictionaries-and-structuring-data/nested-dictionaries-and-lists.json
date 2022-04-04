@@ -12,13 +12,13 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "allGuests = {'Alice': {'apples': 5, 'pretzels': 12},<br>                'Bob': {'ham sandwiches': 3, 'apples': 2},<br>                'Carol': {'cups': 3, 'apple pies': 1}}"
+		"value": "allGuests = {'Alice': {'apples': 5, 'pretzels': 12},<br>&emsp;&emsp;&emsp;&emsp;'Bob': {'ham sandwiches': 3, 'apples': 2},<br>&emsp;&emsp;&emsp;&emsp;'Carol': {'cups': 3, 'apple pies': 1}}"
 	},
 	{
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def totalBrought(guests, item):<br>       numBrought = 0<br>❶     for k, v in guests.items():<br>❷         numBrought = numBrought + v.get(item, 0)<br>       return numBrought<br><br>   print('Number of things being brought:')<br>   print(' - Apples         ' + str(totalBrought(allGuests, 'apples')))<br>   print(' - Cups           ' + str(totalBrought(allGuests, 'cups')))<br>   print(' - Cakes          ' + str(totalBrought(allGuests, 'cakes')))<br>   print(' - Ham Sandwiches ' + str(totalBrought(allGuests, 'ham sandwiches')))<br>   print(' - Apple Pies     ' + str(totalBrought(allGuests, 'apple pies')))"
+		"value": "def totalBrought(guests, item):<br>&emsp;   numBrought = 0<br>❶&emsp; for k, v in guests.items():<br>❷&emsp;&emsp; numBrought = numBrought + v.get(item, 0)<br>&emsp;   return numBrought<br><br>   print('Number of things being brought:')<br>   print(' - Apples&emsp;&emsp; ' + str(totalBrought(allGuests, 'apples')))<br>   print(' - Cups&emsp;&emsp;   ' + str(totalBrought(allGuests, 'cups')))<br>   print(' - Cakes&emsp;&emsp;  ' + str(totalBrought(allGuests, 'cakes')))<br>   print(' - Ham Sandwiches ' + str(totalBrought(allGuests, 'ham sandwiches')))<br>   print(' - Apple Pies&emsp; ' + str(totalBrought(allGuests, 'apple pies')))"
 	},
 	{
 		"component": "text",

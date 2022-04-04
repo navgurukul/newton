@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "import pprint<br>message = 'It was a bright cold day in April, and the clocks were striking'<br>thirteen.<br>count = {}<br><br>for character in message:<br>    count.setdefault(character, 0)<br>    count[character] = count[character] + 1<br><br>pprint.pprint(count)"
+    "value": "import pprint<br>message = 'It was a bright cold day in April, and the clocks were striking'<br>thirteen.<br>count = {}<br><br>for character in message:<br>&emsp;count.setdefault(character, 0)<br>&emsp;count[character] = count[character] + 1<br><br>pprint.pprint(count)"
   },
   {
     "component": "text",

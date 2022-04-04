@@ -22,7 +22,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> eggs = ('hello', 42, 0.5)<br>>>> eggs[1] = 99<br>Traceback (most recent call last):<br>  File \"<pyshell#5>\", line 1, in <module><br>    eggs[1] = 99<br>TypeError: 'tuple' object does not support item assignment"
+    "value": ">>> eggs = ('hello', 42, 0.5)<br>>>> eggs[1] = 99<br>Traceback (most recent call last):<br>  File \"<pyshell#5>\", line 1, in <module><br>&emsp;eggs[1] = 99<br>TypeError: 'tuple' object does not support item assignment"
   },
   {
     "component": "text",

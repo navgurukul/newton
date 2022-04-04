@@ -61,7 +61,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "if name == 'Alice':<br>    print('Hi, Alice.')"
+    "value": "if name == 'Alice':<br>&emsp;print('Hi, Alice.')"
   },
   {
     "component": "text",
@@ -112,7 +112,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "name = 'Bob'<br>if name == 'Alice':<br>    print('Hi, Alice.')<br>else:<br>    print('Hello, stranger.')"
+    "value": "name = 'Bob'<br>if name == 'Alice':<br>&emsp;print('Hi, Alice.')<br>else:<br>&emsp;print('Hello, stranger.')"
   },
   {
     "component": "text",
@@ -167,7 +167,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "name = 'Bob'<br>age = 5<br>if name == 'Alice':<br>    print('Hi, Alice.')<br>elif age < 12:<br>    print('You are not Alice, kiddo.')"
+    "value": "name = 'Bob'<br>age = 5<br>if name == 'Alice':<br>&emsp;print('Hi, Alice.')<br>elif age < 12:<br>&emsp;print('You are not Alice, kiddo.')"
   },
   {
     "component": "text",
@@ -185,7 +185,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "name = 'Dracula'<br>age = 4000<br>if name == 'Alice':<br>    print('Hi, Alice.')<br>elif age < 12:<br>    print('You are not Alice, kiddo.')<br>elif age > 2000:<br>    print('Unlike you, Alice is not an undead, immortal vampire.')<br>elif age > 100:<br>    print('You are not Alice, grannie.')"
+    "value": "name = 'Dracula'<br>age = 4000<br>if name == 'Alice':<br>&emsp;print('Hi, Alice.')<br>elif age < 12:<br>&emsp;print('You are not Alice, kiddo.')<br>elif age > 2000:<br>&emsp;print('Unlike you, Alice is not an undead, immortal vampire.')<br>elif age > 100:<br>&emsp;print('You are not Alice, grannie.')"
   },
   {
     "component": "text",
