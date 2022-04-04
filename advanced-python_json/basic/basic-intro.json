@@ -205,7 +205,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> 2     +            2"
+		"value": ">>> 2&emsp; +&emsp;&emsp;&emsp;2"
 	},
 	{
 		"component": "text",
@@ -257,7 +257,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> 5 +<br>  File \"<stdin>\", line 1<br>    5 +<br>      ^<br>SyntaxError: invalid syntax<br>>>> 42 + 5 + * 2<br>  File \"<stdin>\", line 1<br>    42 + 5 + * 2<br>             ^<br>SyntaxError: invalid syntax"
+		"value": ">>> 5 +<br>  File \"<stdin>\", line 1<br>&emsp;5 +<br>&emsp;  ^<br>SyntaxError: invalid syntax<br>>>> 42 + 5 + * 2<br>  File \"<stdin>\", line 1<br>&emsp;42 + 5 + * 2<br>&emsp;&emsp;&emsp; ^<br>SyntaxError: invalid syntax"
 	},
 	{
 		"component": "text",

@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> spam = {'color': 'red', 'age': 42}<br>>>> for v in spam.values():<br>        print(v)<br><br>red<br>42<br>Here, a for loop iterates over each of the values in the spam dictionary. A for loop can also iterate over the keys or both keys and values:<br><br><br>>>> for k in spam.keys():<br>        print(k)<br><br>color<br>age<br>>>> for i in spam.items():<br>        print(i)<br><br>('color', 'red')<br>('age', 42)"
+    "value": ">>> spam = {'color': 'red', 'age': 42}<br>>>> for v in spam.values():<br>&emsp;&emsp;print(v)<br><br>red<br>42<br>Here, a for loop iterates over each of the values in the spam dictionary. A for loop can also iterate over the keys or both keys and values:<br><br><br>>>> for k in spam.keys():<br>&emsp;&emsp;print(k)<br><br>color<br>age<br>>>> for i in spam.items():<br>&emsp;&emsp;print(i)<br><br>('color', 'red')<br>('age', 42)"
   },
   {
     "component": "text",
@@ -40,6 +40,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> spam = {'color': 'red', 'age': 42}<br>>>> for k, v in spam.items():<br>        print('Key: ' + k + ' Value: ' + str(v))<br><br>Key: age Value: 42<br>Key: color Value: red"
+    "value": ">>> spam = {'color': 'red', 'age': 42}<br>>>> for k, v in spam.items():<br>&emsp;&emsp;print('Key: ' + k + ' Value: ' + str(v))<br><br>Key: age Value: 42<br>Key: color Value: red"
   }
 ]

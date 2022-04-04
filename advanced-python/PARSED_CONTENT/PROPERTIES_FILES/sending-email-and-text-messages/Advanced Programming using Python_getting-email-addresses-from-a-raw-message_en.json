@@ -6,7 +6,7 @@
 	"getting-email-addresses-from-a-raw-message_key5": "'Hello!'\n",
 	"getting-email-addresses-from-a-raw-message_key6": "[('Edward Snowden', 'esnowden@nsa.gov')]\n",
 	"getting-email-addresses-from-a-raw-message_key7": "[(Jane Doe', 'my\n",
-	"getting-email-addresses-from-a-raw-message_key8": "&#95;&#101;&#109;&#x61;&#105;&#108;&#x5f;&#x61;&#x64;&#x64;&#114;&#x65;&#115;&#x73;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#x63;&#111;&#x6d;\n",
+	"getting-email-addresses-from-a-raw-message_key8": "&#95;&#x65;&#x6d;&#x61;&#105;&#108;&#95;&#97;&#100;&#100;&#x72;&#x65;&#x73;&#x73;&#x40;&#x67;&#109;&#97;&#x69;&#108;&#46;&#99;&#x6f;&#x6d;\n",
 	"getting-email-addresses-from-a-raw-message_key9": "')]\n",
 	"getting-email-addresses-from-a-raw-message_key10": "[]\n",
 	"getting-email-addresses-from-a-raw-message_key11": "[]\nNotice that the argument for get_addresses() is 'from', 'to', 'cc', or 'bcc'. The return value of get_addresses() is a list of tuples. Each tuple contains two `strings`: The first is the name associated with the email address, and the second is the email address itself. If there are no addresses in the requested field, get_addresses() returns a blank list. Here, the 'cc' carbon copy and 'bcc' blind carbon copy fields both contained no addresses and so returned empty lists.\n"

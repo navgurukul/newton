@@ -62,7 +62,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> catImWidth, catImHeight = catIm.size<br>   >>> faceImWidth, faceImHeight = faceIm.size<br>❶  >>> catCopyTwo = catIm.copy()<br>❷ >>> for left in range(0, catImWidth, faceImWidth):<br>❸         for top in range(0, catImHeight, faceImHeight):<br>               print(left, top)<br>               catCopyTwo.paste(faceIm, (left, top))"
+		"value": ">>> catImWidth, catImHeight = catIm.size<br>   >>> faceImWidth, faceImHeight = faceIm.size<br>❶  >>> catCopyTwo = catIm.copy()<br>❷ >>> for left in range(0, catImWidth, faceImWidth):<br>❸&emsp;&emsp; for top in range(0, catImHeight, faceImHeight):<br>&emsp;&emsp;&emsp;   print(left, top)<br>&emsp;&emsp;&emsp;   catCopyTwo.paste(faceIm, (left, top))"
 	},
 	{
 		"component": "text",

@@ -21,7 +21,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "import random<br>secretNumber = random.randint(1, 20)<br>print('I am thinking of a number between 1 and 20.')<br><br># Ask the player to guess 6 times.<br>for guessesTaken in range(1, 7):<br>    print('Take a guess.')<br>    guess = int(input())<br><br>    if guess < secretNumber:<br>        print('Your guess is too low.')<br>    elif guess > secretNumber:<br>        print('Your guess is too high.')<br>    else:<br>        break    # This condition is the correct guess!<br><br>if guess == secretNumber:<br>    print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')<br>else:<br>    print('Nope. The number I was thinking of was ' + str(secretNumber))<br>Let’s look at this code line by line, starting at the top.<br><br><br># This is a guess the number game.<br>import random<br>secretNumber = random.randint(1, 20)"
+		"value": "import random<br>secretNumber = random.randint(1, 20)<br>print('I am thinking of a number between 1 and 20.')<br><br># Ask the player to guess 6 times.<br>for guessesTaken in range(1, 7):<br>&emsp;print('Take a guess.')<br>&emsp;guess = int(input())<br><br>&emsp;if guess < secretNumber:<br>&emsp;&emsp;print('Your guess is too low.')<br>&emsp;elif guess > secretNumber:<br>&emsp;&emsp;print('Your guess is too high.')<br>&emsp;else:<br>&emsp;&emsp;break&emsp;# This condition is the correct guess!<br><br>if guess == secretNumber:<br>&emsp;print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')<br>else:<br>&emsp;print('Nope. The number I was thinking of was ' + str(secretNumber))<br>Let’s look at this code line by line, starting at the top.<br><br><br># This is a guess the number game.<br>import random<br>secretNumber = random.randint(1, 20)"
 	},
 	{
 		"component": "text",
@@ -44,7 +44,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "if guess < secretNumber:<br>    print('Your guess is too low.')<br>elif guess > secretNumber:<br>    print('Your guess is too high.')"
+		"value": "if guess < secretNumber:<br>&emsp;print('Your guess is too low.')<br>elif guess > secretNumber:<br>&emsp;print('Your guess is too high.')"
 	},
 	{
 		"component": "text",
@@ -54,7 +54,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "else:<br>    break    # This condition is the correct guess!<br>If the guess is neither higher nor lower than the secret number, then it must be equal to the secret number, in which case you want the program execution to break out of the for loop.<br><br><br>if guess == secretNumber:<br>    print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')<br>else:<br>    print('Nope. The number I was thinking of was ' + str(secretNumber))"
+		"value": "else:<br>&emsp;break&emsp;# This condition is the correct guess!<br>If the guess is neither higher nor lower than the secret number, then it must be equal to the secret number, in which case you want the program execution to break out of the for loop.<br><br><br>if guess == secretNumber:<br>&emsp;print('Good job! You guessed my number in ' + str(guessesTaken) + ' guesses!')<br>else:<br>&emsp;print('Nope. The number I was thinking of was ' + str(secretNumber))"
 	},
 	{
 		"component": "text",

@@ -67,7 +67,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> from selenium import webdriver<br>>>> from selenium.webdriver.common.keys import Keys<br>>>> browser = webdriver.Firefox()<br>>>> browser.get('http://nostarch.com')<br>>>> htmlElem = browser.find_element_by_tag_name('html')<br>>>> htmlElem.send_keys(Keys.END)     # scrolls to bottom<br>>>> htmlElem.send_keys(Keys.HOME)    # scrolls to top"
+		"value": ">>> from selenium import webdriver<br>>>> from selenium.webdriver.common.keys import Keys<br>>>> browser = webdriver.Firefox()<br>>>> browser.get('http://nostarch.com')<br>>>> htmlElem = browser.find_element_by_tag_name('html')<br>>>> htmlElem.send_keys(Keys.END)&emsp; # scrolls to bottom<br>>>> htmlElem.send_keys(Keys.HOME)&emsp;# scrolls to top"
 	},
 	{
 		"component": "text",

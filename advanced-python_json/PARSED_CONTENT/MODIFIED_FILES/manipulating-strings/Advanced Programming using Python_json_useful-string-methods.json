@@ -35,7 +35,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print('How are you?')<br>feeling = input()<br>if feeling.lower() == 'great':<br>    print('I feel great too.')<br>else:<br>    print('I hope the rest of your day is good.')"
+    "value": "print('How are you?')<br>feeling = input()<br>if feeling.lower() == 'great':<br>&emsp;print('I feel great too.')<br>else:<br>&emsp;print('I hope the rest of your day is good.')"
   },
   {
     "component": "text",
@@ -93,7 +93,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> 'hello'.isalpha()<br>True<br>>>> 'hello123'.isalpha()<br>False<br>>>> 'hello123'.isalnum()<br>True<br>>>> 'hello'.isalnum()<br>True<br>>>> '123'.isdecimal()<br>True<br>>>> '    '.isspace()<br>True<br>>>> 'This Is Title Case'.istitle()<br>True<br>>>> 'This Is Title Case 123'.istitle()<br>True<br>>>> 'This Is not Title Case'.istitle()<br>False<br>>>> 'This Is NOT Title Case Either'.istitle()<br>False"
+    "value": ">>> 'hello'.isalpha()<br>True<br>>>> 'hello123'.isalpha()<br>False<br>>>> 'hello123'.isalnum()<br>True<br>>>> 'hello'.isalnum()<br>True<br>>>> '123'.isdecimal()<br>True<br>>>> '&emsp;'.isspace()<br>True<br>>>> 'This Is Title Case'.istitle()<br>True<br>>>> 'This Is Title Case 123'.istitle()<br>True<br>>>> 'This Is not Title Case'.istitle()<br>False<br>>>> 'This Is NOT Title Case Either'.istitle()<br>False"
   },
   {
     "component": "text",
@@ -103,7 +103,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "while True:<br>    print('Enter your age:')<br>    age = input()<br>    if age.isdecimal():<br>        break<br>    print('Please enter a number for your age.')<br><br>while True:<br>    print('Select a new password (letters and numbers only):')<br>    password = input()<br>    if password.isalnum():<br>        break<br>    print('Passwords can only have letters and numbers.')"
+    "value": "while True:<br>&emsp;print('Enter your age:')<br>&emsp;age = input()<br>&emsp;if age.isdecimal():<br>&emsp;&emsp;break<br>&emsp;print('Please enter a number for your age.')<br><br>while True:<br>&emsp;print('Select a new password (letters and numbers only):')<br>&emsp;password = input()<br>&emsp;if password.isalnum():<br>&emsp;&emsp;break<br>&emsp;print('Passwords can only have letters and numbers.')"
   },
   {
     "component": "text",

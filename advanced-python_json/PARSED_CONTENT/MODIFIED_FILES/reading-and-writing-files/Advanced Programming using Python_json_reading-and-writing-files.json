@@ -60,7 +60,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> myFiles = ['accounts.txt', 'details.csv', 'invite.docx']<br>>>> for filename in myFiles:<br>        print(os.path.join('C:\\\\Users\\\\asweigart', filename))"
+    "value": ">>> myFiles = ['accounts.txt', 'details.csv', 'invite.docx']<br>>>> for filename in myFiles:<br>&emsp;&emsp;print(os.path.join('C:\\\\Users\\\\asweigart', filename))"
   },
   {
     "component": "text",

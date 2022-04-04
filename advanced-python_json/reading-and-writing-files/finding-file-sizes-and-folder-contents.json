@@ -44,7 +44,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> totalSize = 0<br>>>> for filename in os.listdir('C:\\\\Windows\\\\System32'):<br>      totalSize = totalSize + os.path.getsize(os.path.join('C:\\\\Windows\\\\System32', filename))<br><br>>>> print(totalSize)"
+		"value": ">>> totalSize = 0<br>>>> for filename in os.listdir('C:\\\\Windows\\\\System32'):<br>&emsp;  totalSize = totalSize + os.path.getsize(os.path.join('C:\\\\Windows\\\\System32', filename))<br><br>>>> print(totalSize)"
 	},
 	{
 		"component": "text",

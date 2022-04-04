@@ -88,7 +88,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "try:<br>       while True:<br>           # TODO: Get and print the mouse coordinates.<br>❶ except KeyboardInterrupt:<br>❷     print('\\nDone.')"
+    "value": "try:<br>&emsp;   while True:<br>&emsp;&emsp;   # TODO: Get and print the mouse coordinates.<br>❶ except KeyboardInterrupt:<br>❷&emsp; print('\\nDone.')"
   },
   {
     "component": "text",
@@ -120,7 +120,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Get and print the mouse coordinates.<br>        x, y = pyautogui.position()<br>        positionStr = 'X: ' + str(x).rjust(4) + ' Y: ' + str(y).rjust(4)"
+    "value": "&emsp;&emsp;# Get and print the mouse coordinates.<br>&emsp;&emsp;x, y = pyautogui.position()<br>&emsp;&emsp;positionStr = 'X: ' + str(x).rjust(4) + ' Y: ' + str(y).rjust(4)"
   },
   {
     "component": "text",
@@ -147,7 +147,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "print(positionStr, end='')<br>❶         print('\\b' * len(positionStr), end='', flush=True)"
+    "value": "&emsp;&emsp;   print(positionStr, end='')<br>❶&emsp;&emsp; print('\\b' * len(positionStr), end='', flush=True)"
   },
   {
     "component": "text",

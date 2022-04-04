@@ -135,7 +135,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Check each member's payment status.<br>   unpaidMembers = {}<br>❶ for r in range(2, sheet.get_highest_row() + 1):<br>❷     payment = sheet.cell(row=r, column=lastCol).value<br>       if payment != 'paid':<br>❸         name = sheet.cell(row=r, column=1).value<br>❹         email = sheet.cell(row=r, column=2).value<br>❺         unpaidMembers[name] = email"
+		"value": "# Check each member's payment status.<br>   unpaidMembers = {}<br>❶ for r in range(2, sheet.get_highest_row() + 1):<br>❷&emsp; payment = sheet.cell(row=r, column=lastCol).value<br>&emsp;   if payment != 'paid':<br>❸&emsp;&emsp; name = sheet.cell(row=r, column=1).value<br>❹&emsp;&emsp; email = sheet.cell(row=r, column=2).value<br>❺&emsp;&emsp; unpaidMembers[name] = email"
 	},
 	{
 		"component": "text",
@@ -194,7 +194,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Send out reminder emails.<br>   for name, email in unpaidMembers.items():<br>❶     body = \"Subject: %s dues unpaid.\\nDear %s,\\nRecords show that you have not<br>   paid dues for %s. Please make this payment as soon as possible. Thank you!'\" %<br>   (latestMonth, name, latestMonth)<br>❷     print('Sending email to %s...' % email)<br>❸     sendmailStatus = smtpObj.sendmail('my_email_address@gmail.com', email, body)<br><br>❹     if sendmailStatus != {}:<br>           print('There was a problem sending email to %s: %s' % (email,<br>           sendmailStatus))<br>   smtpObj.quit()"
+		"value": "# Send out reminder emails.<br>   for name, email in unpaidMembers.items():<br>❶&emsp; body = \"Subject: %s dues unpaid.\\nDear %s,\\nRecords show that you have not<br>   paid dues for %s. Please make this payment as soon as possible. Thank you!'\" %<br>   (latestMonth, name, latestMonth)<br>❷&emsp; print('Sending email to %s...' % email)<br>❸&emsp; sendmailStatus = smtpObj.sendmail('my_email_address@gmail.com', email, body)<br><br>❹&emsp; if sendmailStatus != {}:<br>&emsp;&emsp;   print('There was a problem sending email to %s: %s' % (email,<br>&emsp;&emsp;   sendmailStatus))<br>   smtpObj.quit()"
 	},
 	{
 		"component": "text",

@@ -101,7 +101,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "❶ >>> for rowOfCellObjects in sheet['A1':'C3']:<br>❷         for cellObj in rowOfCellObjects:<br>               print(cellObj.coordinate, cellObj.value)<br>           print('--- END OF ROW ---')"
+    "value": "❶ >>> for rowOfCellObjects in sheet['A1':'C3']:<br>❷&emsp;&emsp; for cellObj in rowOfCellObjects:<br>&emsp;&emsp;&emsp;   print(cellObj.coordinate, cellObj.value)<br>&emsp;&emsp;   print('--- END OF ROW ---')"
   },
   {
     "component": "text",
@@ -133,7 +133,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> for cellObj in sheet.columns[1]:<br>        print(cellObj.value)"
+    "value": ">>> for cellObj in sheet.columns[1]:<br>&emsp;&emsp;print(cellObj.value)"
   },
   {
     "component": "text",

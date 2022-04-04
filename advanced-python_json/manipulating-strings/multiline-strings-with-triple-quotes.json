@@ -63,6 +63,6 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def spam():<br>    \"\"\"This is a multiline comment to help<br>    explain what the spam() function does.\"\"\"<br>    print('Hello!')"
+		"value": "def spam():<br>&emsp;\"\"\"This is a multiline comment to help<br>&emsp;explain what the spam() function does.\"\"\"<br>&emsp;print('Hello!')"
 	}
 ]

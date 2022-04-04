@@ -1,0 +1,163 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key1"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key2"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key3"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key4"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key5"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key6"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key7"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key8"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key9"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key10"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key11"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key12"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key13"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import time, subprocess<br><br>❶ timeLeft = 60<br>   while timeLeft > 0:<br>❷&emsp; print(timeLeft, end='')<br>❸&emsp; time.sleep(1)<br>❹&emsp; timeLeft = timeLeft - 1"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key14"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key15"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key16"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key17"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key18"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key19"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key20"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key21"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key22"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key23"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key24"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "# At the end of the countdown, play a sound file.<br>subprocess.Popen(['start', 'alarm.wav'], shell=True)"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key25"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key26"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key27"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key28"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key29"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key30"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "project-simple-countdown-program_key31"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key32"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key33"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key34"
+  },
+  {
+    "component": "text",
+    "value": "project-simple-countdown-program_key35"
+  }
+]

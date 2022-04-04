@@ -32,7 +32,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "spam += 1        spam = spam + 1<br><br>spam -= 1        spam = spam - 1<br><br>spam *= 1        spam = spam * 1<br><br>spam /= 1        spam = spam / 1<br><br>spam %= 1        spam = spam % 1"
+		"value": "spam += 1&emsp;&emsp;spam = spam + 1<br><br>spam -= 1&emsp;&emsp;spam = spam - 1<br><br>spam *= 1&emsp;&emsp;spam = spam * 1<br><br>spam /= 1&emsp;&emsp;spam = spam / 1<br><br>spam %= 1&emsp;&emsp;spam = spam % 1"
 	},
 	{
 		"component": "text",

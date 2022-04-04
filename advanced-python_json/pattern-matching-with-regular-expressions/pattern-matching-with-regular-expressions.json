@@ -37,7 +37,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def isPhoneNumber(text):<br>❶     if len(text) != 12:<br>           return False<br>       for i in range(0, 3):<br>❷         if not text[i].isdecimal():<br>               return False<br>❸     if text[3] != '-':<br>           return False<br>       for i in range(4, 7):<br>❹         if not text[i].isdecimal():<br>               return False<br>❺     if text[7] != '-':<br>           return False<br>       for i in range(8, 12):<br>❻         if not text[i].isdecimal():<br>               return False<br>❼     return True<br><br>   print('415-555-4242 is a phone number:')<br>   print(isPhoneNumber('415-555-4242'))<br>   print('Moshi moshi is a phone number:')<br>   print(isPhoneNumber('Moshi moshi'))"
+		"value": "def isPhoneNumber(text):<br>❶&emsp; if len(text) != 12:<br>&emsp;&emsp;   return False<br>&emsp;   for i in range(0, 3):<br>❷&emsp;&emsp; if not text[i].isdecimal():<br>&emsp;&emsp;&emsp;   return False<br>❸&emsp; if text[3] != '-':<br>&emsp;&emsp;   return False<br>&emsp;   for i in range(4, 7):<br>❹&emsp;&emsp; if not text[i].isdecimal():<br>&emsp;&emsp;&emsp;   return False<br>❺&emsp; if text[7] != '-':<br>&emsp;&emsp;   return False<br>&emsp;   for i in range(8, 12):<br>❻&emsp;&emsp; if not text[i].isdecimal():<br>&emsp;&emsp;&emsp;   return False<br>❼&emsp; return True<br><br>   print('415-555-4242 is a phone number:')<br>   print(isPhoneNumber('415-555-4242'))<br>   print('Moshi moshi is a phone number:')<br>   print(isPhoneNumber('Moshi moshi'))"
 	},
 	{
 		"component": "text",
@@ -65,7 +65,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "message = 'Call me at 415-555-1011 tomorrow. 415-555-9999 is my office.'<br>   for i in range(len(message)):<br>❶     chunk = message[i:i+12]<br>❷     if isPhoneNumber(chunk):<br>         print('Phone number found: ' + chunk)<br>   print('Done')"
+		"value": "message = 'Call me at 415-555-1011 tomorrow. 415-555-9999 is my office.'<br>   for i in range(len(message)):<br>❶&emsp; chunk = message[i:i+12]<br>❷&emsp; if isPhoneNumber(chunk):<br>&emsp;&emsp; print('Phone number found: ' + chunk)<br>   print('Done')"
 	},
 	{
 		"component": "text",

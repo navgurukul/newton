@@ -28,7 +28,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "❶ import random<br>❷ def getAnswer(answerNumber):<br>❸     if answerNumber == 1:<br>           return 'It is certain'<br>       elif answerNumber == 2:<br>           return 'It is decidedly so'<br>       elif answerNumber == 3:<br>           return 'Yes'<br>       elif answerNumber == 4:<br>           return 'Reply hazy try again'<br>       elif answerNumber == 5:<br>           return 'Ask again later'<br>       elif answerNumber == 6:<br>           return 'Concentrate and ask again'<br>       elif answerNumber == 7:<br>           return 'My reply is no'<br>       elif answerNumber == 8:<br>           return 'Outlook not so good'<br>       elif answerNumber == 9:<br>           return 'Very doubtful'"
+		"value": "❶ import random<br>❷ def getAnswer(answerNumber):<br>❸&emsp; if answerNumber == 1:<br>&emsp;&emsp;   return 'It is certain'<br>&emsp;   elif answerNumber == 2:<br>&emsp;&emsp;   return 'It is decidedly so'<br>&emsp;   elif answerNumber == 3:<br>&emsp;&emsp;   return 'Yes'<br>&emsp;   elif answerNumber == 4:<br>&emsp;&emsp;   return 'Reply hazy try again'<br>&emsp;   elif answerNumber == 5:<br>&emsp;&emsp;   return 'Ask again later'<br>&emsp;   elif answerNumber == 6:<br>&emsp;&emsp;   return 'Concentrate and ask again'<br>&emsp;   elif answerNumber == 7:<br>&emsp;&emsp;   return 'My reply is no'<br>&emsp;   elif answerNumber == 8:<br>&emsp;&emsp;   return 'Outlook not so good'<br>&emsp;   elif answerNumber == 9:<br>&emsp;&emsp;   return 'Very doubtful'"
 	},
 	{
 		"component": "text",

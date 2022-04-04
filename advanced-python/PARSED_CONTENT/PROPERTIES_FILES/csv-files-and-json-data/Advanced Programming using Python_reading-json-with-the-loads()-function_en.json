@@ -1,0 +1,7 @@
+{
+	"reading-json-with-the-loads()-function_key1": "Reading JSON with the loads() Function\n",
+	"reading-json-with-the-loads()-function_key2": "To translate a `string` containing JSON data into a `Python` value, pass it to the json.loads() function. (The name means “load `string`,” not “loads.”) Enter the following into the interactive `shell`:\n",
+	"reading-json-with-the-loads()-function_key3": "`python`\n",
+	"reading-json-with-the-loads()-function_key4": "import json\njsonDataAsPythonValue = json.loads(stringOfJsonData)\njsonDataAsPythonValue\n",
+	"reading-json-with-the-loads()-function_key5": "The value can only be one of the following basic `Python` data types: dictionary, list, `integer`, `float`, `string`, Boolean, or None.\n"
+}

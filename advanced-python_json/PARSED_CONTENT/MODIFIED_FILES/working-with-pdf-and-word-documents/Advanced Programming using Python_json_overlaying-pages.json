@@ -16,7 +16,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> import PyPDF2<br>   >>> minutesFile = open('meetingminutes.pdf', 'rb')<br>❷ >>> pdfReader = PyPDF2.PdfFileReader(minutesFile)<br>❷ >>> minutesFirstPage = pdfReader.getPage(0)<br>❸ >>> pdfWatermarkReader = PyPDF2.PdfFileReader(open('watermark.pdf', 'rb'))<br>❹ >>> minutesFirstPage.mergePage(pdfWatermarkReader.getPage(0))<br>❺ >>> pdfWriter = PyPDF2.PdfFileWriter()<br>❻ >>> pdfWriter.addPage(minutesFirstPage)<br><br>❼ >>> for pageNum in range(1, pdfReader.numPages):<br>           pageObj = pdfReader.getPage(pageNum)<br>           pdfWriter.addPage(pageObj)<br>   >>> resultPdfFile = open('watermarkedCover.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdfFile)<br>   >>> minutesFile.close()<br>   >>> resultPdfFile.close()"
+    "value": ">>> import PyPDF2<br>   >>> minutesFile = open('meetingminutes.pdf', 'rb')<br>❷ >>> pdfReader = PyPDF2.PdfFileReader(minutesFile)<br>❷ >>> minutesFirstPage = pdfReader.getPage(0)<br>❸ >>> pdfWatermarkReader = PyPDF2.PdfFileReader(open('watermark.pdf', 'rb'))<br>❹ >>> minutesFirstPage.mergePage(pdfWatermarkReader.getPage(0))<br>❺ >>> pdfWriter = PyPDF2.PdfFileWriter()<br>❻ >>> pdfWriter.addPage(minutesFirstPage)<br><br>❼ >>> for pageNum in range(1, pdfReader.numPages):<br>&emsp;&emsp;   pageObj = pdfReader.getPage(pageNum)<br>&emsp;&emsp;   pdfWriter.addPage(pageObj)<br>   >>> resultPdfFile = open('watermarkedCover.pdf', 'wb')<br>   >>> pdfWriter.write(resultPdfFile)<br>   >>> minutesFile.close()<br>   >>> resultPdfFile.close()"
   },
   {
     "component": "text",

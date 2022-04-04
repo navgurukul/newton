@@ -1,0 +1,83 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key1"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key2"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key3"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key4"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key5"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key6"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key7"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import time<br>>>> time.time()"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key8"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key9"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key10"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key11"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "import time<br>❶ def calcProd():<br>&emsp;   # Calculate the product of the first 100,000 numbers.<br>&emsp;   product = 1<br>&emsp;   for i in range(1, 100000):<br>&emsp;&emsp;   product = product * i<br>&emsp;   return product<br><br>❷ startTime = time.time()<br>   prod = calcProd()<br>❸ endTime = time.time()<br>❹ print('The result is %s digits long.' % (len(str(prod))))<br>❺ print('Took %s seconds to calculate.' % (endTime - startTime))"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key12"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key13"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key14"
+  },
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key15"
+  },
+  {
+    "component": "text",
+    "value": "keeping-time-scheduling-tasks-and-launching-programs_key16"
+  }
+]

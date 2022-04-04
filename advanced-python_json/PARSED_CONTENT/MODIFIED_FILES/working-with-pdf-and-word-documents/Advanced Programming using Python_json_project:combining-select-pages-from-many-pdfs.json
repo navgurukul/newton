@@ -163,7 +163,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Loop through all the PDF files.<br>for filename in pdfFiles:<br>    pdfFileObj = open(filename, 'rb')<br>    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)"
+    "value": "# Loop through all the PDF files.<br>for filename in pdfFiles:<br>&emsp;pdfFileObj = open(filename, 'rb')<br>&emsp;pdfReader = PyPDF2.PdfFileReader(pdfFileObj)"
   },
   {
     "component": "text",
@@ -222,7 +222,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Loop through all the pages (except the first) and add them.<br>❶     for pageNum in range(1, pdfReader.numPages):<br>           pageObj = pdfReader.getPage(pageNum)<br>           pdfWriter.addPage(pageObj)"
+    "value": "&emsp;   # Loop through all the pages (except the first) and add them.<br>❶&emsp; for pageNum in range(1, pdfReader.numPages):<br>&emsp;&emsp;   pageObj = pdfReader.getPage(pageNum)<br>&emsp;&emsp;   pdfWriter.addPage(pageObj)"
   },
   {
     "component": "header",

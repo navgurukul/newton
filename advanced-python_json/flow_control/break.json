@@ -16,7 +16,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "while True:                         # (1)<br>    print('Please type your name.')<br>    name = input()                  # (2)<br>    if name == 'your name':         # (3)<br>        break                       # (4)<br>print('Thank you!')                 # (5)"
+		"value": "while True:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; # (1)<br>&emsp;print('Please type your name.')<br>&emsp;name = input()&emsp;&emsp;&emsp;&emsp;  # (2)<br>&emsp;if name == 'your name':&emsp;&emsp; # (3)<br>&emsp;&emsp;break&emsp;&emsp;&emsp;&emsp;&emsp;   # (4)<br>print('Thank you!')&emsp;&emsp;&emsp;&emsp; # (5)"
 	},
 	{
 		"component": "text",

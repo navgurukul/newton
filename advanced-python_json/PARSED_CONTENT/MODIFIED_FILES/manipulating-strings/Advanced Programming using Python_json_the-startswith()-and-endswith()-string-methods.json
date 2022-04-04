@@ -74,7 +74,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> 'Hello'.rjust(10)<br>'     Hello'<br>>>> 'Hello'.rjust(20)<br>'               Hello'<br>>>> 'Hello World'.rjust(20)<br>'         Hello World'<br>>>> 'Hello'.ljust(10)<br>'Hello     '"
+    "value": ">>> 'Hello'.rjust(10)<br>'&emsp; Hello'<br>>>> 'Hello'.rjust(20)<br>'&emsp;&emsp;&emsp;   Hello'<br>>>> 'Hello World'.rjust(20)<br>'&emsp;&emsp; Hello World'<br>>>> 'Hello'.ljust(10)<br>'Hello&emsp; '"
   },
   {
     "component": "text",
@@ -98,7 +98,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> 'Hello'.center(20)<br>'       Hello       '<br>>>> 'Hello'.center(20, '=')<br>'=======Hello========'"
+    "value": ">>> 'Hello'.center(20)<br>'&emsp;   Hello&emsp;   '<br>>>> 'Hello'.center(20, '=')<br>'=======Hello========'"
   },
   {
     "component": "text",
@@ -108,7 +108,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def printPicnic(itemsDict, leftWidth, rightWidth):<br>    print('PICNIC ITEMS'.center(leftWidth + rightWidth, '-'))<br>    for k, v in itemsDict.items():<br>        print(k.ljust(leftWidth, '.') + str(v).rjust(rightWidth))<br>picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}<br>printPicnic(picnicItems, 12, 5)<br>printPicnic(picnicItems, 20, 6)"
+    "value": "def printPicnic(itemsDict, leftWidth, rightWidth):<br>&emsp;print('PICNIC ITEMS'.center(leftWidth + rightWidth, '-'))<br>&emsp;for k, v in itemsDict.items():<br>&emsp;&emsp;print(k.ljust(leftWidth, '.') + str(v).rjust(rightWidth))<br>picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}<br>printPicnic(picnicItems, 12, 5)<br>printPicnic(picnicItems, 20, 6)"
   },
   {
     "component": "text",
@@ -146,7 +146,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> spam = '    Hello World     '<br>>>> spam.strip()<br>'Hello World'<br>>>> spam.lstrip()<br>'Hello World '<br>>>> spam.rstrip()<br>'    Hello World'"
+    "value": ">>> spam = '&emsp;Hello World&emsp; '<br>>>> spam.strip()<br>'Hello World'<br>>>> spam.lstrip()<br>'Hello World '<br>>>> spam.rstrip()<br>'&emsp;Hello World'"
   },
   {
     "component": "text",

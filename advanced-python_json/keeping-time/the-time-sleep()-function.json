@@ -1,0 +1,53 @@
+[
+	{
+		"component": "header",
+		"variant": 1,
+		"value": "The time.sleep() Function"
+	},
+	{
+		"component": "text",
+		"value": "If you need to pause your program for a while, call the time.sleep() function and pass it the number of seconds you want your program to stay paused. Enter the following into the interactive <span style=\"\">shell</span>:"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> import time<br>   >>> for i in range(3):<br>❶&emsp;&emsp; print('Tick')<br>❷&emsp;&emsp; time.sleep(1)<br>❸&emsp;&emsp; print('Tock')<br>❹&emsp;&emsp; time.sleep(1)"
+	},
+	{
+		"component": "text",
+		"value": "Tick<br>   Tock<br>   Tick<br>   Tock<br>   Tick<br>   Tock"
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": "❺ >>> time.sleep(5)"
+	},
+	{
+		"component": "text",
+		"value": "The for <span style=\"\">loop</span> will print Tick ❶, pause for one second ❷, print Tock ❸, pause for one second ❹, print Tick, pause, and so on until Tick and Tock have each been printed three times."
+	},
+	{
+		"component": "text",
+		"value": "The time.sleep() function will block—that is, it will not return and release your program to <span style=\"\">execute</span> other <span style=\"\">code</span>—until after the number of seconds you passed to time.sleep() has elapsed. For example, if you enter time.sleep(5) ❺, you’ll see that the next prompt (&gt;&gt;&gt;) doesn’t appear until five seconds have passed."
+	},
+	{
+		"component": "text",
+		"value": "Be aware that pressing CTRL-C will not interrupt time.sleep() calls in IDLE. IDLE waits until the entire pause is over before raising the <span style=\"\">Key</span>boardInterrupt exception. To work around this problem, instead of having a single time.sleep(30) call to pause for 30 seconds, use a for <span style=\"\">loop</span> to make 30 calls to time.sleep(1)."
+	},
+	{
+		"component": "code",
+		"type": "python",
+		"title": "",
+		"value": ">>> for i in range(30):"
+	},
+	{
+		"component": "text",
+		"value": "time.sleep(1)"
+	},
+	{
+		"component": "text",
+		"value": "If you press CTRL-C sometime during these 30 seconds, you should see the <span style=\"\">Key</span>boardInterrupt exception thrown right away."
+	}
+]

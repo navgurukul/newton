@@ -215,7 +215,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "formData = [{'name': 'Alice', 'fear': 'eavesdroppers', 'source': 'wand',<br>            'robocop': 4, 'comments': 'Tell Bob I said hi.'},<br>            {'name': 'Bob', 'fear': 'bees', 'source': 'amulet', 'robocop': 4,<br>            'comments': 'n/a'},<br>            {'name': 'Carol', 'fear': 'puppets', 'source': 'crystal ball',<br>            'robocop': 1, 'comments': 'Please take the puppets out of thebreak room.'},{'name': 'Alex Murphy', 'fear': 'ED-209', 'source': 'money',<br>            'robocop': 5, 'comments': 'Protect the innocent. Serve the publictrust. Uphold the law.'},]"
+    "value": "formData = [{'name': 'Alice', 'fear': 'eavesdroppers', 'source': 'wand',<br>&emsp;&emsp;&emsp;'robocop': 4, 'comments': 'Tell Bob I said hi.'},<br>&emsp;&emsp;&emsp;{'name': 'Bob', 'fear': 'bees', 'source': 'amulet', 'robocop': 4,<br>&emsp;&emsp;&emsp;'comments': 'n/a'},<br>&emsp;&emsp;&emsp;{'name': 'Carol', 'fear': 'puppets', 'source': 'crystal ball',<br>&emsp;&emsp;&emsp;'robocop': 1, 'comments': 'Please take the puppets out of thebreak room.'},{'name': 'Alex Murphy', 'fear': 'ED-209', 'source': 'money',<br>&emsp;&emsp;&emsp;'robocop': 5, 'comments': 'Protect the innocent. Serve the publictrust. Uphold the law.'},]"
   },
   {
     "component": "text",
@@ -255,7 +255,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "for person in formData:<br>       # Give the user a chance to kill the script.<br>       print('>>> 5 SECOND PAUSE TO LET USER PRESS CTRL-C <<<')<br>❶     time.sleep(5)<br><br>       # Wait until the form page has loaded.<br>❷     while not pyautogui.pixelMatchesColor(submitButton[0], submitButton[1],<br>       submitButtonColor):<br>           time.sleep(0.5)"
+    "value": "for person in formData:<br>&emsp;   # Give the user a chance to kill the script.<br>&emsp;   print('>>> 5 SECOND PAUSE TO LET USER PRESS CTRL-C <<<')<br>❶&emsp; time.sleep(5)<br><br>&emsp;   # Wait until the form page has loaded.<br>❷&emsp; while not pyautogui.pixelMatchesColor(submitButton[0], submitButton[1],<br>&emsp;   submitButtonColor):<br>&emsp;&emsp;   time.sleep(0.5)"
   },
   {
     "component": "text",
@@ -282,7 +282,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "❶     print('Entering %s info...' % (person['name']))<br>❷     pyautogui.click(nameField[0], nameField[1])<br><br>       # Fill out the Name field.<br>❸     pyautogui.typewrite(person['name'] + '\\t')<br><br>       # Fill out the Greatest Fear(s) field.<br>❹     pyautogui.typewrite(person['fear'] + '\\t')"
+    "value": "❶&emsp; print('Entering %s info...' % (person['name']))<br>❷&emsp; pyautogui.click(nameField[0], nameField[1])<br><br>&emsp;   # Fill out the Name field.<br>❸&emsp; pyautogui.typewrite(person['name'] + '\\t')<br><br>&emsp;   # Fill out the Greatest Fear(s) field.<br>❹&emsp; pyautogui.typewrite(person['fear'] + '\\t')"
   },
   {
     "component": "text",
@@ -322,7 +322,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Fill out the Source of Wizard Powers field.<br>❶     if person['source'] == 'wand':<br>❷         pyautogui.typewrite(['down', '\\t'])<br>       elif person['source'] == 'amulet':<br>           pyautogui.typewrite(['down', 'down', '\\t'])<br>       elif person['source'] == 'crystal ball':<br>           pyautogui.typewrite(['down', 'down', 'down', '\\t'])<br>       elif person['source'] == 'money':<br>           pyautogui.typewrite(['down', 'down', 'down', 'down', '\\t'])<br><br>       # Fill out the Robocop field.<br>❸     if person['robocop'] == 1:<br>❹         pyautogui.typewrite([' ', '\\t'])<br>       elif person['robocop'] == 2:<br>           pyautogui.typewrite(['right', '\\t'])<br>       elif person['robocop'] == 3:<br>           pyautogui.typewrite(['right', 'right', '\\t'])<br>       elif person['robocop'] == 4:<br>           pyautogui.typewrite(['right', 'right', 'right', '\\t'])<br>       elif person['robocop'] == 5:<br>           pyautogui.typewrite(['right', 'right', 'right', 'right', '\\t'])"
+    "value": "&emsp;   # Fill out the Source of Wizard Powers field.<br>❶&emsp; if person['source'] == 'wand':<br>❷&emsp;&emsp; pyautogui.typewrite(['down', '\\t'])<br>&emsp;   elif person['source'] == 'amulet':<br>&emsp;&emsp;   pyautogui.typewrite(['down', 'down', '\\t'])<br>&emsp;   elif person['source'] == 'crystal ball':<br>&emsp;&emsp;   pyautogui.typewrite(['down', 'down', 'down', '\\t'])<br>&emsp;   elif person['source'] == 'money':<br>&emsp;&emsp;   pyautogui.typewrite(['down', 'down', 'down', 'down', '\\t'])<br><br>&emsp;   # Fill out the Robocop field.<br>❸&emsp; if person['robocop'] == 1:<br>❹&emsp;&emsp; pyautogui.typewrite([' ', '\\t'])<br>&emsp;   elif person['robocop'] == 2:<br>&emsp;&emsp;   pyautogui.typewrite(['right', '\\t'])<br>&emsp;   elif person['robocop'] == 3:<br>&emsp;&emsp;   pyautogui.typewrite(['right', 'right', '\\t'])<br>&emsp;   elif person['robocop'] == 4:<br>&emsp;&emsp;   pyautogui.typewrite(['right', 'right', 'right', '\\t'])<br>&emsp;   elif person['robocop'] == 5:<br>&emsp;&emsp;   pyautogui.typewrite(['right', 'right', 'right', 'right', '\\t'])"
   },
   {
     "component": "text",
@@ -370,7 +370,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "# Fill out the Additional Comments field.<br>    pyautogui.typewrite(person['comments'] + '\\t')<br><br>    # Click Submit.<br>    pyautogui.press('enter')<br><br>    # Wait until form page has loaded.<br>    print('Clicked Submit.')<br>    time.sleep(5)<br><br>    # Click the Submit another response link."
+    "value": "&emsp;# Fill out the Additional Comments field.<br>&emsp;pyautogui.typewrite(person['comments'] + '\\t')<br><br>&emsp;# Click Submit.<br>&emsp;pyautogui.press('enter')<br><br>&emsp;# Wait until form page has loaded.<br>&emsp;print('Clicked Submit.')<br>&emsp;time.sleep(5)<br><br>&emsp;# Click the Submit another response link."
   },
   {
     "component": "text",

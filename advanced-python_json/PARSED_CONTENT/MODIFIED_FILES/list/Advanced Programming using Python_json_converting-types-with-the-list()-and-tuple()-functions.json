@@ -100,7 +100,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def eggs(someParameter):<br>    someParameter.append('Hello')<br><br>spam = [1, 2, 3]<br>eggs(spam)<br>print(spam)"
+    "value": "def eggs(someParameter):<br>&emsp;someParameter.append('Hello')<br><br>spam = [1, 2, 3]<br>eggs(spam)<br>print(spam)"
   },
   {
     "component": "text",

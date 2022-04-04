@@ -146,7 +146,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# Save clipboard content.<br><br>❶ if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':<br>❷         mcbShelf[sys.argv[2]] = pyperclip.paste()<br>   elif len(sys.argv) == 2:"
+		"value": "# Save clipboard content.<br><br>❶ if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':<br>❷&emsp;&emsp; mcbShelf[sys.argv[2]] = pyperclip.paste()<br>   elif len(sys.argv) == 2:"
 	},
 	{
 		"component": "text",
@@ -195,7 +195,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "# List keywords and load content.<br>❶     if sys.argv[1].lower() == 'list':<br>❷         pyperclip.copy(str(list(mcbShelf.keys())))<br>       elif sys.argv[1] in mcbShelf:<br>❸         pyperclip.copy(mcbShelf[sys.argv[1]])"
+		"value": "&emsp;   # List keywords and load content.<br>❶&emsp; if sys.argv[1].lower() == 'list':<br>❷&emsp;&emsp; pyperclip.copy(str(list(mcbShelf.keys())))<br>&emsp;   elif sys.argv[1] in mcbShelf:<br>❸&emsp;&emsp; pyperclip.copy(mcbShelf[sys.argv[1]])"
 	},
 	{
 		"component": "text",

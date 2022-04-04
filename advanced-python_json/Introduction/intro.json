@@ -61,7 +61,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "❶ passwordFile = open('SecretPasswordFile.txt')<br>❷ secretPassword = passwordFile.read()<br>❸ print('Enter your password.')<br>typedPassword = input()<br>❹ if typedPassword == secretPassword:<br>❺        print('Access granted')<br>❻    if typedPassword == '12345':<br>❼    print('That password is one that an idiot puts on their luggage.')<br>else:<br>❽     print('Access denied')"
+		"value": "❶ passwordFile = open('SecretPasswordFile.txt')<br>❷ secretPassword = passwordFile.read()<br>❸ print('Enter your password.')<br>typedPassword = input()<br>❹ if typedPassword == secretPassword:<br>❺&emsp;&emsp;print('Access granted')<br>❻&emsp;if typedPassword == '12345':<br>❼&emsp;print('That password is one that an idiot puts on their luggage.')<br>else:<br>❽&emsp; print('Access denied')"
 	},
 	{
 		"component": "text",

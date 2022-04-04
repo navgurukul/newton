@@ -16,7 +16,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam(divideBy):<br>    return 42 / divideBy<br><br>print(spam(2))<br>print(spam(12))<br>print(spam(0))<br>print(spam(1))"
+    "value": "def spam(divideBy):<br>&emsp;return 42 / divideBy<br><br>print(spam(2))<br>print(spam(12))<br>print(spam(0))<br>print(spam(1))"
   },
   {
     "component": "text",
@@ -38,7 +38,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam(divideBy):<br>    try:<br>        return 42 / divideBy<br>    except ZeroDivisionError:<br>        print('Error: Invalid argument.')<br><br>print(spam(2))<br>print(spam(12))<br>print(spam(0))<br>print(spam(1))"
+    "value": "def spam(divideBy):<br>&emsp;try:<br>&emsp;&emsp;return 42 / divideBy<br>&emsp;except ZeroDivisionError:<br>&emsp;&emsp;print('Error: Invalid argument.')<br><br>print(spam(2))<br>print(spam(12))<br>print(spam(0))<br>print(spam(1))"
   },
   {
     "component": "text",
@@ -52,7 +52,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "def spam(divideBy):<br>    return 42 / divideBy<br><br>try:<br>    print(spam(2))<br>    print(spam(12))<br>    print(spam(0))<br>    print(spam(1))<br>except ZeroDivisionError:<br>    print('Error: Invalid argument.')"
+    "value": "def spam(divideBy):<br>&emsp;return 42 / divideBy<br><br>try:<br>&emsp;print(spam(2))<br>&emsp;print(spam(12))<br>&emsp;print(spam(0))<br>&emsp;print(spam(1))<br>except ZeroDivisionError:<br>&emsp;print('Error: Invalid argument.')"
   },
   {
     "component": "text",

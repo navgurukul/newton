@@ -161,7 +161,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> '42' + 3<br>❶ Traceback (most recent call last):<br>    File \"<pyshell#0>\", line 1, in <module><br>      '42' + 3<br>❷ \"\"\"TypeError: Can't convert 'int' object to str \"implicitly\"\"\"<br>  >>>"
+		"value": ">>> '42' + 3<br>❶ Traceback (most recent call last):<br>&emsp;File \"<pyshell#0>\", line 1, in <module><br>&emsp;  '42' + 3<br>❷ \"\"\"TypeError: Can't convert 'int' object to str \"implicitly\"\"\"<br>  >>>"
 	},
 	{
 		"component": "text",

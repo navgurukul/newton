@@ -25,7 +25,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "pixelColor = pyautogui.screenshot().getpixel((x, y))<br>        positionStr += ' RGB: (' + str(pixelColor[0]).rjust(3)<br>        positionStr += ', ' + str(pixelColor[1]).rjust(3)<br>        positionStr += ', ' + str(pixelColor[2]).rjust(3) + ')'"
+    "value": "&emsp;&emsp;pixelColor = pyautogui.screenshot().getpixel((x, y))<br>&emsp;&emsp;positionStr += ' RGB: (' + str(pixelColor[0]).rjust(3)<br>&emsp;&emsp;positionStr += ', ' + str(pixelColor[1]).rjust(3)<br>&emsp;&emsp;positionStr += ', ' + str(pixelColor[2]).rjust(3) + ')'"
   },
   {
     "component": "text",

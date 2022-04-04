@@ -12,7 +12,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> name = 'Zophie'<br>>>> name[0]<br>'Z'<br>>>> name[-2]<br>'i'<br>>>> name[0:4]<br>'Zoph'<br>>>> 'Zo' in name<br>True<br>>>> 'z' in name<br>False<br>>>> 'p' not in name<br>False<br>>>> for i in name:<br>        print('* * * ' + i + ' * * *')<br><br>* * * Z * * *<br>* * * o * * *<br>* * * p * * *<br>* * * h * * *<br>* * * i * * *<br>* * * e * * *"
+		"value": ">>> name = 'Zophie'<br>>>> name[0]<br>'Z'<br>>>> name[-2]<br>'i'<br>>>> name[0:4]<br>'Zoph'<br>>>> 'Zo' in name<br>True<br>>>> 'z' in name<br>False<br>>>> 'p' not in name<br>False<br>>>> for i in name:<br>&emsp;&emsp;print('* * * ' + i + ' * * *')<br><br>* * * Z * * *<br>* * * o * * *<br>* * * p * * *<br>* * * h * * *<br>* * * i * * *<br>* * * e * * *"
 	},
 	{
 		"component": "text",
@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> name = 'Zophie a cat'<br>>>> name[7] = 'the'<br>Traceback (most recent call last):<br>  File \"<pyshell#50>\", line 1, in <module><br>    name[7] = 'the'<br>TypeError: 'str' object does not support item assignment"
+		"value": ">>> name = 'Zophie a cat'<br>>>> name[7] = 'the'<br>Traceback (most recent call last):<br>  File \"<pyshell#50>\", line 1, in <module><br>&emsp;name[7] = 'the'<br>TypeError: 'str' object does not support item assignment"
 	},
 	{
 		"component": "text",

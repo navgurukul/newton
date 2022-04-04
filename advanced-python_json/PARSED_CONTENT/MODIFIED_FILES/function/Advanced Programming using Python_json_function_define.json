@@ -12,7 +12,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "❶ def hello(name):<br>❷     print('Hello ' + name)<br><br>❸ hello('Alice')<br>  hello('Bob')"
+    "value": "❶ def hello(name):<br>❷&emsp; print('Hello ' + name)<br><br>❸ hello('Alice')<br>  hello('Bob')"
   },
   {
     "component": "text",

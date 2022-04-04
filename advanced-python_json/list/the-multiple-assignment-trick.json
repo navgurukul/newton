@@ -32,7 +32,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> cat = ['fat', 'orange', 'loud']<br>>>> size, color, disposition, name = cat<br>Traceback (most recent call last):<br>  File \"<pyshell#84>\", line 1, in <module><br>    size, color, disposition, name = cat<br>ValueError: need more than 3 values to unpack"
+		"value": ">>> cat = ['fat', 'orange', 'loud']<br>>>> size, color, disposition, name = cat<br>Traceback (most recent call last):<br>  File \"<pyshell#84>\", line 1, in <module><br>&emsp;size, color, disposition, name = cat<br>ValueError: need more than 3 values to unpack"
 	},
 	{
 		"component": "text",

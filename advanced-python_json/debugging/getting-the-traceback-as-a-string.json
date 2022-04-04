@@ -36,7 +36,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> import traceback<br>>>> try:<br>         raise Exception('This is the error message.')<br>except:<br>         errorFile = open('errorInfo.txt', 'w')<br>         errorFile.write(traceback.format_exc())<br>         errorFile.close()<br>         print('The traceback info was written to errorInfo.txt.')"
+		"value": ">>> import traceback<br>>>> try:<br>&emsp;&emsp; raise Exception('This is the error message.')<br>except:<br>&emsp;&emsp; errorFile = open('errorInfo.txt', 'w')<br>&emsp;&emsp; errorFile.write(traceback.format_exc())<br>&emsp;&emsp; errorFile.close()<br>&emsp;&emsp; print('The traceback info was written to errorInfo.txt.')"
 	},
 	{
 		"component": "text",

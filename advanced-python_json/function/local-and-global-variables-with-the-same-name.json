@@ -12,7 +12,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "def spam():<br>❶     eggs = 'spam local'<br>       print(eggs) # prints 'spam local'<br>   def bacon():<br><br>❷     eggs = 'bacon local'<br>       print(eggs) # prints 'bacon local'<br>       spam()<br>       print(eggs) # prints 'bacon local'<br><br>❸ eggs = 'global'<br>   bacon()<br>   print(eggs) # prints 'global'"
+		"value": "def spam():<br>❶&emsp; eggs = 'spam local'<br>&emsp;   print(eggs) # prints 'spam local'<br>   def bacon():<br><br>❷&emsp; eggs = 'bacon local'<br>&emsp;   print(eggs) # prints 'bacon local'<br>&emsp;   spam()<br>&emsp;   print(eggs) # prints 'bacon local'<br><br>❸ eggs = 'global'<br>   bacon()<br>   print(eggs) # prints 'global'"
 	},
 	{
 		"component": "text",

@@ -22,7 +22,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": ">>> import pyperclip<br>>>> numbers = ''<br>>>> for i in range(200):<br>      numbers = numbers + str(i) + '\\n'<br><br>>>> pyperclip.copy(numbers)"
+		"value": ">>> import pyperclip<br>>>> numbers = ''<br>>>> for i in range(200):<br>&emsp;  numbers = numbers + str(i) + '\\n'<br><br>>>> pyperclip.copy(numbers)"
 	},
 	{
 		"component": "text",

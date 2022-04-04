@@ -66,7 +66,7 @@
 	"searching-for-email_key65": "</a>\n",
 	"searching-for-email_key66": "</span>\n",
 	"searching-for-email_key67": " or \n",
-	"searching-for-email_key68": "&#x62;&#111;&#98;&#x40;&#101;&#x78;&#x61;&#x6d;&#112;&#108;&#101;&#46;&#x63;&#x6f;&#109;\n",
+	"searching-for-email_key68": "&#98;&#x6f;&#98;&#64;&#101;&#x78;&#x61;&#109;&#112;&#108;&#x65;&#46;&#99;&#111;&#x6d;\n",
 	"searching-for-email_key69": ".\n",
 	"searching-for-email_key70": "imapObj.search(['FROM <span><a href=\"alice@example.com\">alice@example.com</a></span>', 'FROM <span><a href=\"bob@example.com\">bob@example.com</a></span>']). Trick example! This search will never return any messages, because messages must match all search `key`words. Since there can be only one “from” address, it is impossible for a message to be from both <span><a href=\"alice@example.com\">alice@example.com</a></span> and <span><a href=\" bob@example.com\"> bob@example.com</a></span>.\n",
 	"searching-for-email_key71": "The search() method doesn’t return the emails themselves but rather unique IDs (UIDs) for the emails, as `integer` values. You can then pass these UIDs to the fetch() method to obtain the email content.\n",

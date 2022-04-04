@@ -84,7 +84,7 @@
 	},
 	{
 		"component": "text",
-		"value": "draw.line([(i, 0), (200, i - 100)], fill='green')"
+		"value": "&emsp;   draw.line([(i, 0), (200, i - 100)], fill='green')"
 	},
 	{
 		"component": "code",

@@ -1,0 +1,53 @@
+[
+  {
+    "component": "header",
+    "variant": 1,
+    "value": "the-time-sleep()-function_key1"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key2"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> import time<br>   >>> for i in range(3):<br>❶&emsp;&emsp; print('Tick')<br>❷&emsp;&emsp; time.sleep(1)<br>❸&emsp;&emsp; print('Tock')<br>❹&emsp;&emsp; time.sleep(1)"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key3"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": "❺ >>> time.sleep(5)"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key4"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key5"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key6"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> for i in range(30):"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key7"
+  },
+  {
+    "component": "text",
+    "value": "the-time-sleep()-function_key8"
+  }
+]

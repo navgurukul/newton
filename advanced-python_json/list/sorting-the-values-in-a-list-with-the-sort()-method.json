@@ -75,7 +75,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "import random<br><br>messages = ['It is certain',<br>    'It is decidedly so',<br>    'Yes definitely',<br>    'Reply hazy try again',<br>    'Ask again later',<br>    'Concentrate and ask again',<br>    'My reply is no',<br>    'Outlook not so good',<br>    'Very doubtful']<br><br>print(messages[random.randint(0, len(messages) - 1)])"
+		"value": "import random<br><br>messages = ['It is certain',<br>&emsp;'It is decidedly so',<br>&emsp;'Yes definitely',<br>&emsp;'Reply hazy try again',<br>&emsp;'Ask again later',<br>&emsp;'Concentrate and ask again',<br>&emsp;'My reply is no',<br>&emsp;'Outlook not so good',<br>&emsp;'Very doubtful']<br><br>print(messages[random.randint(0, len(messages) - 1)])"
 	},
 	{
 		"component": "text",
@@ -89,7 +89,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "spam = ['apples',<br>    'oranges',<br>                     'bananas',<br>'cats']<br>print(spam)"
+		"value": "spam = ['apples',<br>&emsp;'oranges',<br>&emsp;&emsp;&emsp;&emsp;&emsp; 'bananas',<br>'cats']<br>print(spam)"
 	},
 	{
 		"component": "text",
@@ -103,7 +103,7 @@
 		"component": "code",
 		"type": "python",
 		"title": "",
-		"value": "print('Four score and seven ' + \\<br>      'years ago...')"
+		"value": "print('Four score and seven ' + \\<br>&emsp;  'years ago...')"
 	},
 	{
 		"component": "text",

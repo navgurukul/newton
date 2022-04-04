@@ -122,7 +122,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "<br>   #! python3<br>   # phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br>   import pyperclip, re<br><br>   phoneRegex = re.compile(r'''(<br>   --snip--<br><br>   # Create email regex.<br>   emailRegex = re.compile(r'''(<br>❶     [a-zA-Z0-9._%+-]+      # username<br>❷     @                      # @ symbol<br>❸     [a-zA-Z0-9.-]+         # domain name<br>       (\\.[a-zA-Z]{2,4})      # dot-something<br>       )''', re.VERBOSE)"
+    "value": "<br>   #! python3<br>   # phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br>   import pyperclip, re<br><br>   phoneRegex = re.compile(r'''(<br>   --snip--<br><br>   # Create email regex.<br>   emailRegex = re.compile(r'''(<br>❶&emsp; [a-zA-Z0-9._%+-]+&emsp;  # username<br>❷&emsp; @&emsp;&emsp;&emsp;&emsp;&emsp;  # @ symbol<br>❸&emsp; [a-zA-Z0-9.-]+&emsp;&emsp; # domain name<br>&emsp;   (\\.[a-zA-Z]{2,4})&emsp;  # dot-something<br>&emsp;   )''', re.VERBOSE)"
   },
   {
     "component": "header",
@@ -142,7 +142,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "#! python3<br>   # phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br><br>   import pyperclip, re<br><br>   phoneRegex = re.compile(r'''(<br>   --snip--<br><br>   # Find matches in clipboard text.<br>   text = str(pyperclip.paste())<br>❶ matches = []<br>❷ for groups in phoneRegex.findall(text):<br>       phoneNum = '-'.join([groups[1], groups[3], groups[5]])<br>       if groups[8] != '':<br>           phoneNum += ' x' + groups[8]<br>       matches.append(phoneNum)<br>❸ for groups in emailRegex.findall(text):<br>       matches.append(groups[0])"
+    "value": "#! python3<br>   # phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br><br>   import pyperclip, re<br><br>   phoneRegex = re.compile(r'''(<br>   --snip--<br><br>   # Find matches in clipboard text.<br>   text = str(pyperclip.paste())<br>❶ matches = []<br>❷ for groups in phoneRegex.findall(text):<br>&emsp;   phoneNum = '-'.join([groups[1], groups[3], groups[5]])<br>&emsp;   if groups[8] != '':<br>&emsp;&emsp;   phoneNum += ' x' + groups[8]<br>&emsp;   matches.append(phoneNum)<br>❸ for groups in emailRegex.findall(text):<br>&emsp;   matches.append(groups[0])"
   },
   {
     "component": "header",
@@ -166,6 +166,6 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "#! python3<br># phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br><br>--snip--<br>for groups in emailRegex.findall(text):<br>    matches.append(groups[0])<br><br># Copy results to the clipboard.<br>if len(matches) > 0:<br>    pyperclip.copy('\\n'.join(matches))<br>    print('Copied to clipboard:')<br>    print('\\n'.join(matches))<br>else:<br>    print('No phone numbers or email addresses found.')"
+    "value": "#! python3<br># phoneAndEmail.py - Finds phone numbers and email addresses on the clipboard.<br><br>--snip--<br>for groups in emailRegex.findall(text):<br>&emsp;matches.append(groups[0])<br><br># Copy results to the clipboard.<br>if len(matches) > 0:<br>&emsp;pyperclip.copy('\\n'.join(matches))<br>&emsp;print('Copied to clipboard:')<br>&emsp;print('\\n'.join(matches))<br>else:<br>&emsp;print('No phone numbers or email addresses found.')"
   }
 ]

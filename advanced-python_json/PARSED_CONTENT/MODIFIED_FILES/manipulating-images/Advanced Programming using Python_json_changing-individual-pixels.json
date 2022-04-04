@@ -9,6 +9,14 @@
     "value": "changing-individual-pixels_key2"
   },
   {
+    "component": "text",
+    "value": "changing-individual-pixels_key3"
+  },
+  {
+    "component": "youtube",
+    "value": "15aqFQQVBWU"
+  },
+  {
     "component": "code",
     "type": "python",
     "title": "",
@@ -16,7 +24,7 @@
   },
   {
     "component": "text",
-    "value": "changing-individual-pixels_key3"
+    "value": "changing-individual-pixels_key4"
   },
   {
     "component": "code",
@@ -26,17 +34,7 @@
   },
   {
     "component": "text",
-    "value": "changing-individual-pixels_key4"
-  },
-  {
-    "component": "text",
     "value": "changing-individual-pixels_key5"
-  },
-  {
-    "component": "code",
-    "type": "python",
-    "title": "",
-    "value": ">>> from PIL import ImageColor<br>❺ >>> for x in range(100):<br>           for y in range(50, 100):"
   },
   {
     "component": "text",
@@ -46,7 +44,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> im.getpixel((0, 0))"
+    "value": ">>> from PIL import ImageColor<br>❺ >>> for x in range(100):<br>&emsp;&emsp;   for y in range(50, 100):"
   },
   {
     "component": "text",
@@ -56,7 +54,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> im.getpixel((0, 50))"
+    "value": ">>> im.getpixel((0, 0))"
   },
   {
     "component": "text",
@@ -66,11 +64,17 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": ">>> im.save('putPixel.png')"
+    "value": ">>> im.getpixel((0, 50))"
   },
   {
     "component": "text",
     "value": "changing-individual-pixels_key9"
+  },
+  {
+    "component": "code",
+    "type": "python",
+    "title": "",
+    "value": ">>> im.save('putPixel.png')"
   },
   {
     "component": "text",
@@ -83,5 +87,9 @@
   {
     "component": "text",
     "value": "changing-individual-pixels_key12"
+  },
+  {
+    "component": "text",
+    "value": "changing-individual-pixels_key13"
   }
 ]

@@ -70,7 +70,7 @@
     "component": "code",
     "type": "python",
     "title": "",
-    "value": "catNames = []<br>while True:<br>    print('Enter the name of cat ' + str(len(catNames) + 1) +<br>      ' (Or enter nothing to stop.):')<br>    name = input()<br>    if name == '':<br>        break<br>    catNames = catNames + [name] # list concatenation<br>print('The cat names are:')<br>for name in catNames:<br>    print('  ' + name)"
+    "value": "catNames = []<br>while True:<br>&emsp;print('Enter the name of cat ' + str(len(catNames) + 1) +<br>&emsp;  ' (Or enter nothing to stop.):')<br>&emsp;name = input()<br>&emsp;if name == '':<br>&emsp;&emsp;break<br>&emsp;catNames = catNames + [name] # list concatenation<br>print('The cat names are:')<br>for name in catNames:<br>&emsp;print('  ' + name)"
   },
   {
     "component": "text",
