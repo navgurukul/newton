@@ -7,7 +7,8 @@ All Set! Type on then! Do your best
  
  
  
- as
+``` practicetyping
+as
  ask
  asks
  all
@@ -67,3 +68,4 @@ sall
 jagg
 kaf
 kaj
+```
