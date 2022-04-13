@@ -7,7 +7,7 @@ Never forget the golden rule of touch typing, you must look at the screen and no
 
 
 
-
+```practicetyping
 beans chips sausages peas
 football swimming netball rugby
 kata kumite
@@ -2342,3 +2342,4 @@ yellow
 slide
 slither
 creep
+```
