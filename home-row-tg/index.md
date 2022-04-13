@@ -1,4 +1,3 @@
-- keys_f_j.md
 - keys_space_bar_with_f_j.md
 - keys_d_k.md
 - keys_f_j_d_k.md
