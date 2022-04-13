@@ -7,6 +7,8 @@ It is time to test your muscle memory by typing words that we use in the everyda
 Remember, use your index finger of both of your hands to feel the bump on the key and type the key with the assigned finger only.
 Never forget the golden rule of touch typing, you must look at the screen and not at the keyboard while typing the words. No need to rush, take your time and type the right key
 
+
+``` practicetyping
 all
 adapt
 add
@@ -1176,3 +1178,4 @@ kartik
 tathagat
  rohtak 
 diu
+```
