@@ -10,5 +10,6 @@ each key correctly and then eventually you will see an increase in your speed wi
 Go on then! Start Typing!
 
 ``` practicetyping
+:"#$*
 ::""##$$**$*#:""##***$$$$$
 ```
