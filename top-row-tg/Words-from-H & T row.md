@@ -1107,6 +1107,7 @@ outstanding
 off 
 sheep
 you 
+top
 go 
 yield
 yourself 
@@ -1166,16 +1167,6 @@ pirates
 partied 
 quiet 
 pool
- surya 
-sarthak 
-seraiyu 
-jatayu 
-gopal 
-kartik
- kartikeya
- isha
- usha 
-tathagat
  rohtak 
 diu
 ```
