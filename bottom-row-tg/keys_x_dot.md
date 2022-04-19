@@ -11,6 +11,6 @@ Position your left ring finger on the left groove on the keyboard, and your righ
 
 ```practicetyping
 x.
-x.x...x..xx...xx..xxx.x.x.x.x.x.x...xx.
+x.x...x  ..xx...xx..x  xx.x.x.  x.x.x.x...xx.
 ```
 
