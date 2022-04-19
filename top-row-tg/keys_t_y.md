@@ -11,5 +11,5 @@ Enter the following text once you're comfortable with the top row keys `t` and `
 
 ```practicetyping
 ty
-ttttyyyttyytytytyttyyttyytttyyy
+ttttyyytt  yytytyt   yttyyttyy   tttyyy
 ```
