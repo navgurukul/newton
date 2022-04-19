@@ -1,17 +1,11 @@
-- keys_v_n_b.md
-- keys_c_m.md
 - keys_v_m.md
-- keys_x_dot.md
-- keys_z_dot.md
-- keys_b_n.md
-- keys_z_dot.md
-- keys_z_c_n.md
-- keys_z_fslash.md
+- exell_H_T_v_m.md
 - keys_c_comma.md
-- keys_c_v_b_n.md
-- keys_v_m_comma.md
-- keys_x_dot_fslash.md
-- keys_x_c_dot_fslash.md
-- keys_z_v_m_fslash.md
-- keys_z_x_dot_fslash.md
+- exell_H_T_v_m_c_comma.md
+- keys_x_dot.md
+- exell_H_T_v_m_c_,_._x.md
+- keys_z_fslash.md
+- exell_H_T_v_m_c_,_._x_z_forwardslash.md
+- keys_b_n.md
+- exell_H_T_v_m_c_,_._x_z_forwardslash_b_n.md 
 - Words-from-H,T & B-row.md
