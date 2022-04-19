@@ -3,7 +3,7 @@
 ## Bottom Row, keys v and m
 
 Now, we'll practice the keys `v`, `m` along with letters from home row and top row .
-In this exercise, you will typing the keys which appear in the row next to the keyboard image. 
+In this exercise, you will typing the keys which appear in the row above the keyboard image. 
 To pass this exercise, you have to be swift and type the given key correctly because once an error is made, it can not be corrected.
 Be sharp and careful. Make sure to type all the keys correctly.
 Position your left index finger on the left groove on the keyboard, and your right index finger on the right groove of the keyboard. 
