@@ -1,6 +1,6 @@
 
 
-## Home Row, keys f, j, d, k, s, l, a, ;, and '
+## Home Row, keys f, j, d, k, s, l, a, ;, ', g and h
 
 Now, we'll practice the keys `f`, `j`, `d` , `k`,`s`, `l`, `a`,`;`,`'`,`g` and `h`.
 In this exercise, you will typing the keys which appear in the row next to the keyboard image. To pass this exercise, you have to be swift and type the given key correctly because once an error is made, it can not be corrected.
