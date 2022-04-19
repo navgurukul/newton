@@ -11,5 +11,5 @@ Enter the following text once you're comfortable with the top row keys `r` and `
 
 ```practicetyping
 ru
-rrruuurrruuurruurruurururururruurrruuu
+rrruu   urrru   uurru urruu rurur  ururr  uurrr  uuu
 ```
