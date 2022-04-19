@@ -9,5 +9,5 @@ Position your left index finger on the left groove on the keyboard, and your rig
 
 
 ```practicetyping
-f,j,d,k,d,a,;,',',a,;,s,l,s,d,f,j,',',;,;,a,a,a,d,k,l,l,s,l,a,;,',a,a,a,s,k,k,f,j,f,j,j,l,s,d,d,j,d,k,f,f
+fjdkda;''a;slsdfj'';;aaadkllsla;'aaaskkfjfjjlsddjdkff
 ```
