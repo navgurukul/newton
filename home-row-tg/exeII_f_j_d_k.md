@@ -11,5 +11,5 @@ Position your left index finger on the left groove on the keyboard, and your rig
 
 
 ```practicetyping
-fjdkddfjdkkkfjfjddjdkff
+fjd  kddf  jdkkkf  jfjddjdk   ff
 ```
