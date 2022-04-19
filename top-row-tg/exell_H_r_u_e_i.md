@@ -2,7 +2,7 @@
 
 ## Top Row, keys r, u, e and i
 
-Now, we'll practice the keys `r`, `u`, `e`, `i` and letter from home row .
+Now, we'll practice the keys `r`, `u`, `e`, `i` and letters from home row .
 In this exercise, you will typing the keys which appear in the row next to the keyboard image. 
 To pass this exercise, you have to be swift and type the given key correctly because once an error is made, it can not be corrected.
 Be sharp and careful. Make sure to type all the keys correctly.
