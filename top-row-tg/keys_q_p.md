@@ -11,5 +11,5 @@ Enter the following text once you're comfortable with the top row keys `q` and `
 
 ```practicetyping
 qp
-qqqpppqqppqqppqpqpqpqqqppp
+qqqppp   qqppq  qppqp    qpqpqq  qppp
 ```
