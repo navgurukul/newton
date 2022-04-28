@@ -7,7 +7,7 @@ Never forget the golden rule of touch typing, you must look at the screen and no
 
 
 
-```practicetyping
+```wordstyping
 beans chips sausages peas
 football swimming netball rugby
 kata kumite
