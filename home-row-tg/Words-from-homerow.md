@@ -7,7 +7,7 @@ All Set! Type on then! Do your best
  
  
  
-``` practicetyping
+``` wordstyping
 as
  ask
  asks
