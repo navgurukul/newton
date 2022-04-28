@@ -8,7 +8,7 @@ Remember, use your index finger of both of your hands to feel the bump on the ke
 Never forget the golden rule of touch typing, you must look at the screen and not at the keyboard while typing the words. No need to rush, take your time and type the right key
 
 
-``` practicetyping
+``` wordstyping
 all
 adapt
 add
