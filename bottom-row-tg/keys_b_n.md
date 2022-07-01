@@ -12,6 +12,6 @@ Look away from the keyboard and feel the grooves with your fingers and try to fi
 
 ```practicetyping
 bn
-bbnnbbbnnnbnbnnnbnbnnnbnbnbnnnnbbn
-```
+bbnnbb  bnnnb nbn  nnbnbnn nbnbnb nnnnbbn
+``` 
 

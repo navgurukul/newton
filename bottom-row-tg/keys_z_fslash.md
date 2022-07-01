@@ -11,6 +11,6 @@ Position your left little finger on the left groove on the keyboard, and your ri
 
 ```practicetyping
 z/
-zzz///z/z/z/zzz/z/z/z///z/z/z/z////z
+zzz/  //z/z  /z/z zz/z/ z/z///z  /z/z/z////z
 ```
 

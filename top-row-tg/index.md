@@ -1,10 +1,13 @@
-- keys_e_i.md
 - keys_r_u.md
-- keys_t_y.md
+- exell_H_r_u.md
+- keys_e_i.md
+- exell_H_r_u_e_i.md
 - keys_w_o.md
+- exell_H_r_u_e_i_w_o.md
 - keys_q_p.md
-- keys_q_e_i_p.md
-- keys_q_e_p.md
-- keys_w_o_spacebar.md
-- keys_w_r_o.md
-- keys_w_r_y_o.md
+- exell_H_r_u_e_i_w_o_q_p.md
+- keys_t_y.md
+- exell_H_r_u_e_i_w_o_q_p_t_y.md
+- keys_[_]_\.md
+- exell_H_r_u_e_i_w_o_q_p_t_y_[_]_\.md
+- Words-from-H & T row.md

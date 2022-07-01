@@ -10,6 +10,6 @@ Position your left middle finger on the left groove on the keyboard, and your ri
 
 ```practicetyping
 c,
-ccc,,,c,c,cc,c,,c,ccc,,c,c,,cc,,c,c,,,ccccc,,c,c,c,
+ccc,,,c,  c,cc,c ,,c,ccc,,c,c  ,,cc,,c,c,  ,,ccccc,,c,c,c,
 ```
 
